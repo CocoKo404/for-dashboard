@@ -1,0 +1,135 @@
+name: Intelligence Dashboard Crawlers
+
+on:
+  schedule:
+    # 行业快讯：每小时整点（UTC+8 = UTC-8h，所以 UTC 0点 = 北京8点）
+    - cron: "0 * * * *"          # 每小时触发（行业快讯）
+    # 咨询报告：每天早上 8:00 北京时间（UTC 00:00）
+    - cron: "0 0 * * *"          # 每天 UTC 00:00 = 北京 08:00
+    # 宏观新闻：每周一早 8:00 北京时间
+    - cron: "0 0 * * 1"          # 每周一 UTC 00:00 = 北京 08:00
+    # 宏观指标：每月 15 日早 9:00 北京时间（统计局一般月中发布）
+    - cron: "0 1 15 * *"         # 每月 15 日 UTC 01:00 = 北京 09:00
+
+  # 支持手动触发，可选择运行哪个爬虫
+  workflow_dispatch:
+    inputs:
+      crawler:
+        description: "选择要运行的爬虫"
+        required: true
+        default: "news"
+        type: choice
+        options:
+          - news        # 行业快讯
+          - reports     # 咨询报告
+          - macro_news  # 宏观新闻
+          - macro_stats # 宏观指标
+          - all         # 全部
+
+env:
+  NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+
+jobs:
+  # ── 行业快讯（每小时）──────────────────────────────────────────────────────
+  news-crawler:
+    name: 行业快讯爬虫
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' && 
+      (github.event.inputs.crawler == 'news' || github.event.inputs.crawler == 'all') ||
+      github.event_name == 'schedule'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r crawlers/requirements.txt
+
+      - name: Run news crawler
+        working-directory: crawlers
+        run: python news_crawler.py
+
+  # ── 咨询报告（每天）────────────────────────────────────────────────────────
+  report-crawler:
+    name: 咨询报告爬虫
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' && 
+      (github.event.inputs.crawler == 'reports' || github.event.inputs.crawler == 'all') ||
+      (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *')
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r crawlers/requirements.txt
+
+      - name: Run report crawler
+        working-directory: crawlers
+        run: python report_crawler.py
+
+  # ── 宏观新闻（每周一）──────────────────────────────────────────────────────
+  macro-news-crawler:
+    name: 宏观新闻周度抓取
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' && 
+      (github.event.inputs.crawler == 'macro_news' || github.event.inputs.crawler == 'all') ||
+      (github.event_name == 'schedule' && github.event.schedule == '0 0 * * 1')
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r crawlers/requirements.txt
+
+      - name: Run macro news crawler
+        working-directory: crawlers
+        run: python macro_news_crawler.py
+
+  # ── 宏观指标（每月 15 日）──────────────────────────────────────────────────
+  macro-stats-updater:
+    name: 宏观指标月度更新
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' && 
+      (github.event.inputs.crawler == 'macro_stats' || github.event.inputs.crawler == 'all') ||
+      (github.event_name == 'schedule' && github.event.schedule == '0 1 15 * *')
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r crawlers/requirements.txt
+
+      - name: Preview latest stats (for review)
+        working-directory: crawlers
+        run: python macro_stats_updater.py --preview
+
+      - name: Write stats to Notion
+        working-directory: crawlers
+        run: python macro_stats_updater.py --write
