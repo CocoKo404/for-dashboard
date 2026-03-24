@@ -21,7 +21,9 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 logger = logging.getLogger(__name__)
 
 CST = timezone(timedelta(hours=8))
-OUTPUT_DIR = Path(__file__).parent.parent / "docs"
+# 输出目录：优先用环境变量，其次用脚本相对路径
+_script_dir = Path(__file__).resolve().parent if "__file__" in dir() and __file__ != "<string>" else Path(os.getcwd()) / "scripts"
+OUTPUT_DIR = _script_dir.parent / "docs"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 
@@ -70,13 +72,32 @@ def fetch_macro_stats(client: NotionClient) -> list[dict]:
         if name and (name not in latest or ym > latest[name].get("年月", "")):
             latest[name] = r
 
-    order = ["GDP增速", "CPI同比", "PPI同比", "PMI制造业", "PMI非制造业",
-             "社零增速", "固定资产投资增速", "出口增速", "进口增速",
-             "城镇调查失业率", "工业增加值增速"]
+    # 优先展示顺序（与 Notion 中的指标名称保持一致）
+    order = [
+        "GDP同比", "CPI同比", "PPI同比",
+        "PMI制造业", "PMI非制造业",
+        "社零同比", "居民收入增速",
+        "出口总额", "进口总额",
+        "城镇调查失业率", "31城失业率", "青年失业率",
+        "工业增加值增速",
+    ]
     result = []
+    seen = set()
     for name in order:
         if name in latest:
             r = latest[name]
+            result.append({
+                "name": name,
+                "yearMonth": r.get("年月", ""),
+                "value": r.get("数值"),
+                "unit": r.get("单位", ""),
+                "yoy": r.get("同比变化", ""),
+                "mom": r.get("环比变化", ""),
+            })
+            seen.add(name)
+    # 补充 order 之外的指标
+    for name, r in latest.items():
+        if name not in seen:
             result.append({
                 "name": name,
                 "yearMonth": r.get("年月", ""),

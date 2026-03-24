@@ -10,6 +10,8 @@ import logging
 from typing import Optional
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 logger = logging.getLogger(__name__)
 
@@ -37,15 +39,25 @@ class NotionClient:
             "Notion-Version": NOTION_VERSION,
             "Content-Type": "application/json",
         })
+        # 配置重试策略，应对网络抖动和连接重置
+        retry = Retry(
+            total=5,
+            backoff_factor=1,
+            status_forcelist=[429, 500, 502, 503, 504],
+            allowed_methods=["GET", "POST", "PATCH"],
+        )
+        adapter = HTTPAdapter(max_retries=retry)
+        self.session.mount("https://", adapter)
+        self.session.mount("http://", adapter)
 
     # ── 内部工具 ──────────────────────────────────────────────────────────────
 
     def _req(self, method: str, path: str, **kwargs) -> dict:
         """统一请求入口，自动重试"""
         url = f"{BASE_URL}{path}"
-        for attempt in range(3):
+        for attempt in range(5):
             try:
-                resp = self.session.request(method, url, timeout=20, **kwargs)
+                resp = self.session.request(method, url, timeout=30, **kwargs)
                 if resp.status_code == 429:  # Rate limit
                     wait = int(resp.headers.get("Retry-After", 10))
                     logger.warning(f"Rate limit，等待 {wait}s...")
@@ -53,10 +65,12 @@ class NotionClient:
                     continue
                 resp.raise_for_status()
                 return resp.json()
-            except requests.HTTPError as e:
-                if attempt == 2:
+            except (requests.HTTPError, requests.ConnectionError) as e:
+                if attempt == 4:
                     raise
-                time.sleep(2 ** attempt)
+                wait = 2 ** attempt
+                logger.warning(f"请求失败 (attempt {attempt+1}/5)，{wait}s 后重试: {e}")
+                time.sleep(wait)
         return {}
 
     # ── 字段构建器（Python dict → Notion properties）────────────────────────
