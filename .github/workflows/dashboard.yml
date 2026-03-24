@@ -1,0 +1,43 @@
+name: Generate Dashboard
+
+on:
+  # 每小时整点自动生成（与行业快讯爬虫同步）
+  schedule:
+    - cron: "30 * * * *"   # 每小时 :30 分触发，爬虫跑完后再生成
+
+  # 支持手动触发
+  workflow_dispatch:
+
+# 允许写入 GitHub Pages
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: 生成看板页面
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r crawlers/requirements.txt
+
+      - name: Generate dashboard HTML
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: python scripts/generate_dashboard.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
+          commit_message: "chore: update dashboard ${{ github.run_number }}"
