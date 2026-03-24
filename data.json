@@ -1,6 +1,214 @@
 {
-  "updatedAt": "2026-03-25 03:43",
+  "updatedAt": "2026-03-25 06:03",
   "news": [
+    {
+      "id": "32d03df8-2d23-8100-bee8-f13307ab6071",
+      "title": "OpenAI shutters short-form video app Sora as company reels in costs",
+      "summary": "OpenAI said it's closing Sora, the short-form video app that went viral after its launch six months ago",
+      "source": "CNBC Tech",
+      "publishTime": "2026-03-25",
+      "link": "https://www.cnbc.com/2026/03/24/openai-shutters-short-form-video-app-sora-as-company-reels-in-costs.html"
+    },
+    {
+      "id": "32d03df8-2d23-8158-90b2-ced864a0514d",
+      "title": "Meta misled users about its products’ safety, jury decides",
+      "summary": "Meta willfully violated New Mexico law by misleading users about the safety of its products and engaging in an unconscionable trade practice, a jury found. The company will face a $375 million penalty for the violations, awarding the maximum penalty of $5,000 per violation for 37,500 violations acro",
+      "source": "The Verge",
+      "publishTime": "2026-03-25",
+      "link": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict"
+    },
+    {
+      "id": "32d03df8-2d23-8171-bcb3-dfc27a2067fe",
+      "title": "Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules",
+      "summary": "Jury reaches a verdict in New Mexico trial in which the state's attorney general alleged that Meta failed to safeguard its family of apps from child predators.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-03-25",
+      "link": "https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html"
+    },
+    {
+      "id": "32d03df8-2d23-813b-8cbc-d12f62d82597",
+      "title": "NASA wants to put a $20 billion base on the Moon",
+      "summary": "NASA Administrator Jared Isaacman has big plans for the future of the agency, including the construction of a $20 billion lunar base that he said will establish an \"enduring presence\" on the Moon. Isaacman announced the news during NASA's Ignition event on Tuesday, where he also described goals to l",
+      "source": "The Verge",
+      "publishTime": "2026-03-25",
+      "link": "https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman"
+    },
+    {
+      "id": "32d03df8-2d23-8179-8bba-feedb14bcdcf",
+      "title": "What is ICE actually doing at the airport?",
+      "summary": "I arrived at John F. Kennedy International Airport nearly five hours before my domestic flight. This is not my way - usually I roll up to the airport 30 minutes before boarding - but not even I have enough hubris to think that my good luck is more powerful than a partial government shutdown. Congres",
+      "source": "The Verge",
+      "publishTime": "2026-03-25",
+      "link": "https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk"
+    },
+    {
+      "id": "32d03df8-2d23-8136-9a15-fd5d59e4e24a",
+      "title": "Feds opened probe of California school district's diplomas for Chinese students",
+      "summary": "Business Insider's reporting on the Val Verde school district landed on the U.S. attorney's desk.",
+      "source": "Business Insider",
+      "publishTime": "2026-03-25",
+      "link": "https://www.businessinsider.com/feds-probe-val-verdes-diplomas-for-pegasus-school-in-china-2026-3"
+    },
+    {
+      "id": "32d03df8-2d23-8121-a06c-db4c82404c0d",
+      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had ",
+      "source": "The Verge",
+      "publishTime": "2026-03-25",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt"
+    },
+    {
+      "id": "32d03df8-2d23-81df-9374-d3be1c0ddad5",
+      "title": "Having 3 young kids left my husband and me exhausted and disconnected. This is what we did to feel like a team again.",
+      "summary": "With three kids under three, my husband and I felt resentment creeping in. Saying \"thank you\" changed everything.",
+      "source": "Business Insider",
+      "publishTime": "2026-03-25",
+      "link": "https://www.businessinsider.com/parenting-resentment-marriage-gratitude-2026-3"
+    },
+    {
+      "id": "32d03df8-2d23-81f1-91c9-decf2244a0dd",
+      "title": "Why some airports have hours-long security lines, and others are a breeze",
+      "summary": "TSA callout rates at some airports are up to 40%, while others are running smoothly. Here's why.",
+      "source": "Business Insider",
+      "publishTime": "2026-03-25",
+      "link": "https://www.businessinsider.com/why-big-airports-tsa-worker-shortage-long-waits-government-shutdown-2026-3"
+    },
+    {
+      "id": "32d03df8-2d23-814a-8ed5-cfd4f8efbd7c",
+      "title": "OpenAI is scrapping the Sora app to chase bigger AI goals",
+      "summary": "A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.",
+      "source": "Business Insider",
+      "publishTime": "2026-03-25",
+      "link": "https://www.businessinsider.com/openai-discontinues-sora-video-app-amid-robotics-shift-compute-limitations-2026-3"
+    },
+    {
+      "id": "32d03df8-2d23-81f9-ace1-c02174e36ce6",
+      "title": "Amazon acquires 'approachable' humanoid maker Fauna Robotics",
+      "summary": "Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3.5 feet tall and designed to be \"approachable and human-friendly.\"",
+      "source": "CNBC Tech",
+      "publishTime": "2026-03-25",
+      "link": "https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html"
+    },
+    {
+      "id": "32d03df8-2d23-818b-b097-e7df484a0758",
+      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
+      "source": "TechCrunch",
+      "publishTime": "2026-03-25",
+      "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/"
+    },
+    {
+      "id": "32d03df8-2d23-818f-81b5-cb1f2c0dd639",
+      "title": "Judge says it looks like Pentagon was out to 'punish' Anthropic, not protect national security",
+      "summary": "Anthropic has sued to stop Defense Secretary Pete Hegseth from labeling the company a risk after it set limits on the use of its technology.",
+      "source": "Business Insider",
+      "publishTime": "2026-03-25",
+      "link": "https://www.businessinsider.com/anthropic-supply-chain-risk-hearing-judge-pentagon-pubish-cripple-2026-3"
+    },
+    {
+      "id": "32d03df8-2d23-8152-8175-f69919f8e645",
+      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+      "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
+      "source": "TechCrunch",
+      "publishTime": "2026-03-25",
+      "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
+    },
+    {
+      "id": "32d03df8-2d23-81e6-a817-d07d45a98dcb",
+      "title": "I thought I was a failure because I needed a CPAP machine. Now I tell everyone how great I sleep.",
+      "summary": "I associated a CPAP machine with failure, aging, and being out of shape, but treating my sleep apnea transformed my sleep and overall health.",
+      "source": "Business Insider",
+      "publishTime": "2026-03-25",
+      "link": "https://www.businessinsider.com/refused-cpap-machine-sleep-apnea-2026-3"
+    },
+    {
+      "id": "32d03df8-2d23-8187-9c33-da7dd3cd6d17",
+      "title": "Arm’s first CPU ever will plug into Meta’s AI datacenters later this year",
+      "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue ",
+      "source": "The Verge",
+      "publishTime": "2026-03-25",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"
+    },
+    {
+      "id": "32d03df8-2d23-815b-bc6e-d25002a68b40",
+      "title": "Apple is testing a standalone app for its overhauled Siri",
+      "summary": "Apple's efforts to rebuild its Apple Intelligence AI platform will make its debut at its Worldwide Developers Conference on June 8th. A new version of Siri that transforms the voice assistant into a \"systemwide AI agent with deep integration across applications\" will be announced at WWDC 2026, accor",
+      "source": "The Verge",
+      "publishTime": "2026-03-25",
+      "link": "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app"
+    },
+    {
+      "id": "32d03df8-2d23-8117-8171-f723ca06d06d",
+      "title": "Crusoe makes big battery buys for its data centers",
+      "summary": "Form Energy and Redwood Materials both received orders from the data center developer.",
+      "source": "TechCrunch",
+      "publishTime": "2026-03-25",
+      "link": "https://techcrunch.com/2026/03/24/crusoe-makes-big-battery-buys-for-its-data-centers/"
+    },
+    {
+      "id": "32d03df8-2d23-81ce-89f2-cf3002f83974",
+      "title": "Databricks bought two startups to underpin its new AI security product",
+      "summary": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+      "source": "TechCrunch",
+      "publishTime": "2026-03-25",
+      "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/"
+    },
+    {
+      "id": "32d03df8-2d23-8148-a27d-e325869a2dd6",
+      "title": "Tech Life",
+      "summary": "Artificial intelligence is already in use in many areas of healthcare.",
+      "source": "BBC Tech",
+      "publishTime": "2026-03-25",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "32d03df8-2d23-81bd-81e0-d5109de85f84",
+      "title": "Jay-Z says he won't apologize for being a billionaire",
+      "summary": "In a GQ interview, Jay-Z responded to pushback about his wealth and capitalism. The billionaire rapper said he simply makes art and gets paid.",
+      "source": "Business Insider",
+      "publishTime": "2026-03-25",
+      "link": "https://www.businessinsider.com/jay-z-billionaire-capitalist-business-strategy-response-2026-3"
+    },
+    {
+      "id": "32d03df8-2d23-8116-a7a5-fae153aa0cb2",
+      "title": "The man who coined Metaverse now says Meta&#8217;s glasses are creepy",
+      "summary": "Neal Stephenson didn't invent the virtual reality headset. But Meta certainly knows his name - in 1992, his seminal cyberpunk novel Snow Crash coined the phrase \"Metaverse\" to describe a virtual reality world experienced through VR goggles. It inspired many key VR developers - and in 2021, Facebook ",
+      "source": "The Verge",
+      "publishTime": "2026-03-25",
+      "link": "https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case"
+    },
+    {
+      "id": "32d03df8-2d23-813e-820a-db112ee9452a",
+      "title": "AI agents are cybersecurity firms' newest employees",
+      "summary": "Cybersecurity firms are being tasked with implementing AI agents across their teams. But the technology's capabilities remain limited.",
+      "source": "Business Insider",
+      "publishTime": "2026-03-25",
+      "link": "https://www.businessinsider.com/ai-agents-are-changing-cybersecurity-jobs-and-cutting-workloads-2026-3"
+    },
+    {
+      "id": "32d03df8-2d23-8104-b362-f1475204972c",
+      "title": "Arm is releasing the first in-house chip in its 35-year history",
+      "summary": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
+      "source": "TechCrunch",
+      "publishTime": "2026-03-25",
+      "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/"
+    },
+    {
+      "id": "32d03df8-2d23-81c0-aea7-fa47b4221da1",
+      "title": "Google partners with Agile Robots, growing its AI robotics footprint",
+      "summary": "Google's DeepMind division has been partnering with more robotics companies in recent months.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-03-25",
+      "link": "https://www.cnbc.com/2026/03/24/google-agile-robots-ai-robotics.html"
+    },
+    {
+      "id": "32d03df8-2d23-8162-ba2f-e0dd30f4bd3e",
+      "title": "TikTok is casting actors to make its own micro dramas as it jumps headfirst into the hot format",
+      "summary": "TikTok has begun casting actors for its own mini-drama series. It also filed a trademark for \"TikTok Drama.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-03-25",
+      "link": "https://www.businessinsider.com/tiktok-casting-actors-short-dramas-microdramas-2026-3"
+    },
     {
       "id": "32d03df8-2d23-816f-a067-d2a49aaf2d2c",
       "title": "'Bridgerton' season 5 is officially in production — here's everything we know",
@@ -192,214 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-03-25",
       "link": "https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html"
-    },
-    {
-      "id": "32d03df8-2d23-8117-881f-cbc53feaa4cb",
-      "title": "Crunchyroll confirms data breach after hacker claims unauthorized access",
-      "summary": "Crunchyroll said it continues to investigate the data breach involving its users' personal information.",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-25",
-      "link": "https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/"
-    },
-    {
-      "id": "32d03df8-2d23-813e-9ab0-fa5b3aedb077",
-      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
-      "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-25",
-      "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/"
-    },
-    {
-      "id": "32d03df8-2d23-8161-a150-ece4223e89fe",
-      "title": "The Apple Watch SE 3 is even easier to recommend at $50 off",
-      "summary": "When Apple released the latest Apple Watch SE, it surprised us, outshining Apple’s more expensive models while improving on the basics. Now that it’s on sale, it’s even easier to recommend. The LTE-enabled model has dropped back to its all-time low of $249 ($50 off) at Amazon for the first time sinc",
-      "source": "The Verge",
-      "publishTime": "2026-03-25",
-      "link": "https://www.theverge.com/gadgets/899671/apple-watch-se-third-generation-deal-sale"
-    },
-    {
-      "id": "32d03df8-2d23-8159-9dc9-cf80bed69247",
-      "title": "苹果 macOS 26.4 正式版发布",
-      "summary": "IT之家 3 月 25 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.4 更新（内部版本号：25E246），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 26 发布历史： 2026-03-19：macOS 26.4 RC (25E243) 2026-03-11：macOS 26.3.2 (25D2140) 2026-03-10：macOS 26.4 Beta 4 (25E5233c) 202",
-      "source": "IT之家",
-      "publishTime": "2026-03-25",
-      "link": "https://www.ithome.com/0/932/303.htm"
-    },
-    {
-      "id": "32d03df8-2d23-8170-8c40-e22512d6e329",
-      "title": "苹果 iOS/iPadOS 26.4 正式版发布",
-      "summary": "IT之家 3 月 25 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.4 更新（内部版本号：23E246），本次更新距离上次发布正式版间隔 20 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-03-19：iOS 26.4 RC (23E244) 2026-03-10：iOS 26.4 Beta 4 (23E5234a) 2026-03-05：iOS 26.3.1 (",
-      "source": "IT之家",
-      "publishTime": "2026-03-25",
-      "link": "https://www.ithome.com/0/932/302.htm"
-    },
-    {
-      "id": "32d03df8-2d23-81ed-bbfd-f79894c98e07",
-      "title": "苹果 visionOS 26.4 正式版发布",
-      "summary": "IT之家 3 月 25 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.4 更新（内部版本号：23O247），本次更新距离上次发布正式版间隔 25 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 26 发布历史： 2026-03-19：visionOS 26.4 RC (23O244) 2026-03-10：visionOS 26.4 Beta 4 (23O5235a) 2026-03-03：visionOS ",
-      "source": "IT之家",
-      "publishTime": "2026-03-25",
-      "link": "https://www.ithome.com/0/932/304.htm"
-    },
-    {
-      "id": "32d03df8-2d23-81f5-a724-db0fed817c79",
-      "title": "苹果 watchOS 26.4 正式版发布",
-      "summary": "IT之家 3 月 25 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.4 更新（内部版本号：23T240），本次更新距离上次发布正式版间隔 41 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 26 发布历史： 2026-03-19：watchOS 26.4 RC (23T239) 2026-03-10：watchOS 26.4 Beta 4 (23T5236a) 2026-03-03：watchOS 26.4",
-      "source": "IT之家",
-      "publishTime": "2026-03-25",
-      "link": "https://www.ithome.com/0/932/305.htm"
-    },
-    {
-      "id": "32d03df8-2d23-81f6-9cf4-e5f329c47222",
-      "title": "苹果 iOS/iPadOS 18.7.7 正式版发布",
-      "summary": "IT之家 3 月 25 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.7 更新（内部版本号：22H333），本次更新距离上次发布正式版间隔 20 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 18 发布历史： 2026-03-19：iOS 18.7.7 RC (22H333) 2026-03-05：iOS 18.7.6 (22H320) 2026-02-05：iOS 18.7.5 (22H",
-      "source": "IT之家",
-      "publishTime": "2026-03-25",
-      "link": "https://www.ithome.com/0/932/306.htm"
-    },
-    {
-      "id": "32d03df8-2d23-81ca-a432-fffdb6743e9e",
-      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
-      "summary": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, O",
-      "source": "The Verge",
-      "publishTime": "2026-03-25",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features"
-    },
-    {
-      "id": "32d03df8-2d23-814d-861c-e9cf66ffb8ba",
-      "title": "Welp, I bought an iPhone again",
-      "summary": "It takes a week to switch phones. First, there's the technical process of moving eSIMs across devices, which takes either a few minutes (if you're switching from one Android phone to another) or two days, a half-dozen calls to Verizon, a verification text message sent to your mom, and approximately ",
-      "source": "The Verge",
-      "publishTime": "2026-03-25",
-      "link": "https://www.theverge.com/tech/899602/best-phone-android-ios-app-store"
-    },
-    {
-      "id": "32d03df8-2d23-81a2-8b41-d55152830b88",
-      "title": "Arm Is Now Making Its Own Chips",
-      "summary": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-      "source": "Wired",
-      "publishTime": "2026-03-25",
-      "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/"
-    },
-    {
-      "id": "32d03df8-2d23-81fc-aa94-cc61a2b1a88c",
-      "title": "Apple Music partners with Ticketmaster to power its concert discovery feature",
-      "summary": "Apple Music teamed up with Ticketmaster to power its Concert Discovery feature, which recommends live music events based on users' listening habits.",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-25",
-      "link": "https://techcrunch.com/2026/03/24/apple-music-partners-with-ticketmaster-to-power-its-concert-discovery-feature/"
-    },
-    {
-      "id": "32d03df8-2d23-81b0-b638-c85442044c0a",
-      "title": "I tried Apple's noise-canceling AirPods 4 for the first time. I felt like a scared Victorian child.",
-      "summary": "Noise-canceling headphones have been around for a long time, but I had never tried them until I bought a pair of AirPods 4.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-25",
-      "link": "https://www.businessinsider.com/apple-airpods-anc-noise-canceling-scared-2026-3"
-    },
-    {
-      "id": "32d03df8-2d23-8122-bccf-c71e3369e4b1",
-      "title": "TSA workers may miss another paycheck Friday. Congress is running out of time before recess.",
-      "summary": "TSA workers may miss another paycheck Friday as the government shutdown drags on and Congress prepares to recess. Airport delays could get worse.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-25",
-      "link": "https://www.businessinsider.com/tsa-workers-could-miss-another-paycheck-partial-government-shutdown-2026-3"
-    },
-    {
-      "id": "32d03df8-2d23-812a-bdbd-e223ee65f5ea",
-      "title": "Think you're one of NYC's best-dressed lawyers? Nominate yourself or a colleague.",
-      "summary": "Business Insider is looking for lawyers with real style — the ones who serve looks as well as they practice law.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-25",
-      "link": "https://www.businessinsider.com/nominate-best-dressed-lawyer-new-york-city-2026-2"
-    },
-    {
-      "id": "32d03df8-2d23-8122-9392-cd96cefd708d",
-      "title": "I waited in a TSA line for 5 hours. I still missed my flight and had to cancel meetings with potential clients.",
-      "summary": "The TSA line at the Hartsfield-Jackson Airport in Atlanta was five hours long. I didn't make my flight, but my luggage went to my work conference.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-25",
-      "link": "https://www.businessinsider.com/tsa-lines-missed-flight-lost-meetings-potential-clients-2026-3"
-    },
-    {
-      "id": "32d03df8-2d23-8124-bffb-e1f94457f7b1",
-      "title": "Fortnite-maker Epic Games lays off 1,000 more staff",
-      "summary": "It is the second time in recent years the company has announced lays offs due to struggles with its blockbuster online game.",
-      "source": "BBC Tech",
-      "publishTime": "2026-03-25",
-      "link": "https://www.bbc.com/news/articles/c5yxv5kzlv5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "32d03df8-2d23-81f6-9752-d609124af129",
-      "title": "We're buying more of this cybersecurity stock as the market keeps getting it wrong",
-      "summary": "We've repeatedly pointed out that we do not think AI will disintermediate traditional cybersecurity vendors.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-03-25",
-      "link": "https://www.cnbc.com/2026/03/24/were-buying-more-of-this-cybersecurity-stock-as-the-market-keeps-getting-it-wrong.html"
-    },
-    {
-      "id": "32d03df8-2d23-81f5-90a0-cc4c14b5bdbc",
-      "title": "A BlackBerry you might actually want just landed on Kickstarter",
-      "summary": "When The Verge's Allison Johnson went hands-on with the company's Titan 2 Elite phone at MWC 2026, Unihertz didn't divulge pricing info. But the compact Android phone with a BlackBerry-inspired keyboard is now available for preorder through a Kickstarter crowdfunding campaign and starts at $489, wit",
-      "source": "The Verge",
-      "publishTime": "2026-03-25",
-      "link": "https://www.theverge.com/tech/899632/unihertz-titan-2-elite-pro-android-blackberry-smartphone-pricing-kickstarter-preorder"
-    },
-    {
-      "id": "32d03df8-2d23-811b-9f1a-d00518beb5d0",
-      "title": "I'm an interior stylist. Here are 5 things in your living room you should probably get rid of.",
-      "summary": "From basic rugs to bad furniture layouts, these are things in your living room you should get rid of or change, according to an interior-design pro.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-25",
-      "link": "https://www.businessinsider.com/items-to-get-rid-of-living-room-interior-stylist-2026-4"
-    },
-    {
-      "id": "32d03df8-2d23-8140-b25c-ec2083518f85",
-      "title": "Why fully self-driving cars are almost impossible",
-      "summary": "Waymo, Tesla and others are racing to build a potentially trillion-dollar robotaxi business. We explore why self-driving cars are almost impossible.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-25",
-      "link": "https://www.businessinsider.com/why-fully-self-driving-cars-are-almost-impossible-2026-3"
-    },
-    {
-      "id": "32d03df8-2d23-8168-82ed-e730a1f3e2d8",
-      "title": "Pentagon ban of Anthropic faces judge; Claude AI maker seeks injunction",
-      "summary": "The Defense Department designated Anthropic as a risk to U.S. national security, the first time an American company had been hit with that designation.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-03-25",
-      "link": "https://www.cnbc.com/2026/03/24/anthropic-lawsuit-pentagon-supply-chain-risk-claude.html"
-    },
-    {
-      "id": "32d03df8-2d23-81c6-8777-c97b8be96ea7",
-      "title": "I've upgraded to concierge level on 4 Disney cruises. It's really only worth it for one perk.",
-      "summary": "After going on Disney cruises with and without the concierge upgrade, I don't think most of the perks are worth it except priority cabana access.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-25",
-      "link": "https://www.businessinsider.com/disney-cruises-concierge-upgrade-worth-it-perks-cabana-2026-3"
-    },
-    {
-      "id": "32d03df8-2d23-8104-ac75-d1d9b16aa293",
-      "title": "Silicon Valley airport tests 'José,' an AI-powered robot to ease travel snarls",
-      "summary": "San José Mineta International Airport's newest hire is \"José,\" an AI-powered humanoid robot singlehandedly running its own gate.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-25",
-      "link": "https://www.businessinsider.com/ai-robot-san-jose-airport-tsa-lines-sjc-2026-3"
-    },
-    {
-      "id": "32d03df8-2d23-8197-9996-e0c7b4521b3c",
-      "title": "Google’s Android Automotive is moving from the dashboard to the ‘brain’ of the car",
-      "summary": "Google announced a new version of its Android Automotive open-source operating system for software-defined vehicles. Whereas previously Android Automotive operated exclusively in the car's infotainment system, Google is now expanding its \"open infrastructure\" to the non-safety parts of the car's int",
-      "source": "The Verge",
-      "publishTime": "2026-03-25",
-      "link": "https://www.theverge.com/tech/899034/google-android-automotive-os-software-defined-vehicle"
-    },
-    {
-      "id": "32d03df8-2d23-81ea-851e-ff0baa8e6c75",
-      "title": "Meet the former Apple designer building a new AI interface at Hark",
-      "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-25",
-      "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/"
     }
   ],
   "macroEvents": [
