@@ -1,20 +1,19 @@
-name: Generate Dashboard
+name: Export Notion Data to JSON
 
 on:
-  # 每小时整点自动生成（与行业快讯爬虫同步）
+  # 每小时 :30 分触发，爬虫跑完后再导出
   schedule:
-    - cron: "30 * * * *"   # 每小时 :30 分触发，爬虫跑完后再生成
+    - cron: "30 * * * *"
 
   # 支持手动触发
   workflow_dispatch:
 
-# 允许写入 GitHub Pages
 permissions:
   contents: write
 
 jobs:
-  build:
-    name: 生成看板页面
+  export:
+    name: 导出 Notion 数据为 JSON
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -29,15 +28,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r crawlers/requirements.txt
 
-      - name: Generate dashboard HTML
+      - name: Export Notion data to JSON
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-        run: python scripts/generate_dashboard.py
+        run: python scripts/export_notion_data.py
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy data.json to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
           publish_branch: gh-pages
-          commit_message: "chore: update dashboard ${{ github.run_number }}"
+          keep_files: true
+          commit_message: "data: update notion export ${{ github.run_number }}"
