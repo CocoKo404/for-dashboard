@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-03-30 05:53",
+  "updatedAt": "2026-03-30 07:57",
   "news": [
+    {
+      "id": "33203df8-2d23-81f4-8748-c5975b17b92c",
+      "title": "微软承诺改进 Win11 系统受控功能推送（CFR），赋予用户更大选择权",
+      "summary": "IT之家 3 月 30 日消息，据科技媒体 Windows Latest 今天报道，微软承诺改进 Win11 系统的受控功能推送（CFR）功能，赋予用户更大选择权。据报道，微软从 Windows 10 时代开始推行“Windows 即服务”策略，让新功能可以随时推送，而不是局限于每年的大版本更新。不过问题在于，即使用户加入了 Insider 预览体验计划，新功能往往也不会立即出现在电脑上。这其实是微软采用了“受控功能推送”（IT之家注：Controlled Feature Rollout，CFR）机制。新功能不会一步覆盖所有电脑，而是以受控、逐步的方式推出，优先推送给最兼容的设备，等官方确认稳",
+      "source": "IT之家",
+      "publishTime": "2026-03-30",
+      "link": "https://www.ithome.com/0/933/908.htm"
+    },
+    {
+      "id": "33203df8-2d23-81c8-b120-f8cfedf14b3f",
+      "title": "研究：AI 普及后职场工作量不减反增，周末加班与工作碎片化加剧",
+      "summary": "IT之家 3 月 30 日消息，据 Techradar 报道，人工智能的快速普及，曾让人们以为人类能更快完成工作任务、减轻职场负担。但员工行为分析平台 ActivTrak 生产力实验室发布的《2026 职场现状》最新研究数据显示，职场工作量并未如多数人预想那般减少。事实上，周末加班时长涨幅超 40%，如今周六清晨 7 点 11 分就已出现大量工作活动记录。工时缩短，工作强度反而攀升据IT之家了解，研究分析了超千家企业、总计超 4.43 亿小时的数字化工作行为数据后发现：虽然日均工作时长小幅缩短约 2%，但工作本身变得更加密集、碎片化。目前约 80% 的员工都在使用人工智能工具，可见这类系统已迅",
+      "source": "IT之家",
+      "publishTime": "2026-03-30",
+      "link": "https://www.ithome.com/0/933/907.htm"
+    },
+    {
+      "id": "33203df8-2d23-81cc-bb33-c23e849c29a9",
+      "title": "YouTube CEO 尼尔 · 莫汉：我不担心“Netflix 们”会挖走我们的头部创作者",
+      "summary": "IT之家 3 月 30 日消息，YouTube CEO 尼尔 · 莫汉近期表示，并不担心 Netflix 等流媒体平台会从 YouTube 挖走头部创作者。在当地时间 3 月 28 日发布的《纽约时报》访谈节目“The Interview”中，莫汉还特别提到，自己正参与的这档节目本身就会在 YouTube 上线。整个采访过程中，莫汉语气相当从容。当被问到奥斯卡主持人柯南 · 奥布莱恩曾调侃 YouTube 时，莫汉回应称，奥布莱恩“非常有趣”，并大赞其 Team Coco 频道在 YouTube 上的表现一直很好。谈及《The Breakfast Club》和《My Favorite Murd",
+      "source": "IT之家",
+      "publishTime": "2026-03-30",
+      "link": "https://www.ithome.com/0/933/906.htm"
+    },
+    {
+      "id": "33203df8-2d23-8118-908f-c5826e79c477",
+      "title": "NASA 阿尔忒弥斯 2 号载人绕月任务发射在即，天气成最大变数",
+      "summary": "IT之家 3 月 30 日消息，美国国家航空航天局（NASA）仍定于当地时间 4 月 1 日发射阿尔忒弥斯 2 号任务，将宇航员送往月球轨道飞行。该局表示，发射窗口期前未发现任何技术故障。据IT之家了解，阿尔忒弥斯 2 号的发射窗口期将于美国东部时间 4 月 1 日傍晚 6 点 24 分（北京时间 4 月 2 日 6 点 24 分）开启，时长持续两小时。若因任何原因推迟或取消发射，4 月 6 日前仍有多次备用发射机会。尽管如此，NASA 官员对依靠重型太空发射系统（SLS）火箭如期发射此次任务抱有极高信心。值得注意的是，早在 3 月 20 日太空发射系统转运至发射台之前，NASA 就已完成本次",
+      "source": "IT之家",
+      "publishTime": "2026-03-30",
+      "link": "https://www.ithome.com/0/933/905.htm"
+    },
+    {
+      "id": "33203df8-2d23-81f2-883b-fbd632712fa7",
+      "title": "Oil prices rise again as the Iran war enters its 5th week",
+      "summary": "Brent oil prices rose to over $115 a barrel when markets reopened on Sunday, a $3 increase from its Friday high of $112.57.",
+      "source": "Business Insider",
+      "publishTime": "2026-03-30",
+      "link": "https://www.businessinsider.com/oil-prices-rise-iran-war-brent-wti-2026-3"
+    },
+    {
+      "id": "33203df8-2d23-8127-9bee-e455a315e2c9",
+      "title": "Bluesky’s new app is an AI for customizing your feed",
+      "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protoc",
+      "source": "The Verge",
+      "publishTime": "2026-03-30",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds"
+    },
+    {
+      "id": "33203df8-2d23-8157-89a1-fd060f1cb978",
+      "title": "The Pixel 10a doesn’t have a camera bump, and it’s great",
+      "summary": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
+      "source": "TechCrunch",
+      "publishTime": "2026-03-30",
+      "link": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/"
+    },
+    {
+      "id": "33203df8-2d23-81e5-af54-d85c6ee844e4",
+      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+      "summary": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
+      "source": "TechCrunch",
+      "publishTime": "2026-03-30",
+      "link": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/"
+    },
     {
       "id": "33203df8-2d23-81e1-be05-f1146b187eb0",
       "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
@@ -336,70 +400,6 @@
       "source": "Wired",
       "publishTime": "2026-03-29",
       "link": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/"
-    },
-    {
-      "id": "33203df8-2d23-811c-81f5-fffd792a942c",
-      "title": "华为乾崑 | 启境 GT7 新一代智能猎装车预计 7 月开启交付，动态试驾体验 6 月开启",
-      "summary": "IT之家 3 月 29 日消息，启境汽车官方微博昨日发布了答网友问（第 7 期），针对华为乾崑 | 启境 GT7 新一代智能猎装车上市交付时间、所处价位、何时可以试驾等问题进行了解答。IT之家附启境汽车本期答网友问重点内容如下：启境 GT7 什么时候上市？什么时间交付？启境 GT7 定于 6 月举办上市发布会，届时公布正式售价、配置及交付细则；新车预计 7 月开启交付，交付周期会因车型配置、锁单及确认交付方案时间的变化而变化，具体情况请以启境汽车向您发出的交付邀请函为准。启境 GT7 大概是什么价位？启境 GT7 作为新一代智能猎装，产品力与体验均达到旗舰水准，以越级价值诠释高端出行。预计定位",
-      "source": "IT之家",
-      "publishTime": "2026-03-29",
-      "link": "https://www.ithome.com/0/933/871.htm"
-    },
-    {
-      "id": "33203df8-2d23-81f5-ba1b-e33d6c847672",
-      "title": "鸿蒙智行问界 M6 汽车全系标配配置公布，含华为途灵平台、巨鲸电池等",
-      "summary": "IT之家 3 月 29 日消息，鸿蒙智行官方昨晚公布了问界 M6 汽车全系标配的配置，包括华为途灵平台、巨鲸电池等。IT之家整理鸿蒙智行问界 M6 汽车标配配置如下：「硬核科技」华为乾崑智驾 ADS 4 高阶版896 线双光路图像级激光雷达华为途灵平台空气悬架 + 连续可变阻尼减震器华为巨鲸电池平台鸿蒙座舱「趣玩舒享」灵感橱窗（官方精品附件需单独购买）全车 21 处拓展点（含磁吸、卡接、螺孔）超大化妆镜纯电版标配电动前备箱随动屏26.1 英寸 W-HUD 抬头显示主驾零重力座椅 + 电动方向盘（主驾零重力全系标配，副驾零重力座椅部分配置需要选装）前排座椅按摩21 扬声器（7.1.4 声道）二排",
-      "source": "IT之家",
-      "publishTime": "2026-03-29",
-      "link": "https://www.ithome.com/0/933/870.htm"
-    },
-    {
-      "id": "33203df8-2d23-81c0-b50a-c308aa337441",
-      "title": "腾讯《王者荣耀世界》明日开放昵称抢注，移动端将先推云游戏版本",
-      "summary": "IT之家 3 月 29 日消息，腾讯《王者荣耀世界》官方今日宣布，3 月 30 日 10:00 将正式开放昵称抢注。另外，抢先版本上线后，玩家可在《云 · 王者荣耀世界》（移动端）和 《王者荣耀世界》官方启动器（PC）体验。据IT之家今日早些报道，华为游戏中心最近发出通知，点进去后就是腾讯《王者荣耀世界》的鸿蒙技术测试招募问卷。这表明本作即将启动鸿蒙技术测试。腾讯《王者荣耀世界》已官宣 PC 端正式定档 4 月 10 日，移动端也在四月内很快和大家见面，首发英雄共鸣包括元流之子、东方曜、西施、蒙犽、鲁班大师、孙膑、王昭君、伽罗、花木兰、铠、冷春（S0 赛季原创英雄）等。相关阅读：《腾讯游戏〈王",
-      "source": "IT之家",
-      "publishTime": "2026-03-29",
-      "link": "https://www.ithome.com/0/933/868.htm"
-    },
-    {
-      "id": "33203df8-2d23-8175-8e3e-e4c183844cbd",
-      "title": "When Easter and Passover overlap, expectations in my interfaith family can be high. This year, I'm trying not to stress.",
-      "summary": "In the past, when Easter and Passover overlapped, my stress levels were high. Now I know I need to bend some rules to honor both holidays.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-29",
-      "link": "https://www.businessinsider.com/easter-passover-overlap-family-celebrations-tricky-honor-both-faiths-2026-3"
-    },
-    {
-      "id": "33203df8-2d23-81e6-8bab-c8ff5376f71d",
-      "title": "Can't do a pull-up? This Marine colonel told us how to get your first rep",
-      "summary": "A Marine colonel behind the Corps' pull-up training shares simple tips to help you get your first rep.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-29",
-      "link": "https://www.businessinsider.com/marine-colonel-how-to-get-your-first-pull-up-rep-2026-3"
-    },
-    {
-      "id": "33203df8-2d23-81a6-b3ee-c5601a207c0a",
-      "title": "Best Noise-Canceling Earbuds: Bose, Sony, Apple, and More",
-      "summary": "Everyone needs a good pair of ANC earbuds. These are the best of the bunch.",
-      "source": "Wired",
-      "publishTime": "2026-03-29",
-      "link": "https://www.wired.com/gallery/best-noise-canceling-earbuds/"
-    },
-    {
-      "id": "33203df8-2d23-81f1-8156-f8633e5e2c79",
-      "title": "Your Photos Are Probably Giving Away Your Location. Here’s How to Stop That",
-      "summary": "All your snaps come with metadata containing more information than you might realize.",
-      "source": "Wired",
-      "publishTime": "2026-03-29",
-      "link": "https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/"
-    },
-    {
-      "id": "33203df8-2d23-8112-a034-f7d2f3c6c4fb",
-      "title": "For some Gen Z consultants, the hottest new exit opportunity is TikTok",
-      "summary": "Gen Z consultants from firms like Bain and BCG are turning to social media and content creation as a new, lucrative exit opportunity.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-29",
-      "link": "https://www.businessinsider.com/gen-z-consultants-quit-mbb-big-four-content-creators-2026-3"
     }
   ],
   "macroEvents": [
