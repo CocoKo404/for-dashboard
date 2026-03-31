@@ -1,6 +1,326 @@
 {
-  "updatedAt": "2026-04-01 02:11",
+  "updatedAt": "2026-04-01 04:08",
   "news": [
+    {
+      "id": "33403df8-2d23-81a0-8c05-f98220880eba",
+      "title": "Samsung’s new app claims to alleviate motion sickness using sound",
+      "summary": "Samsung released a new free app today called Hearapy, now available for Android devices through the Google Play store, that it claims can reduce the symptoms of motion sickness using just sound. The app's functionality is very straightforward. It plays a low 100Hz sine wave tone through a pair of co",
+      "source": "The Verge",
+      "publishTime": "2026-04-01",
+      "link": "https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms"
+    },
+    {
+      "id": "33403df8-2d23-8141-95c1-cadb7c766bca",
+      "title": "OpenAI's ad push explained in one chart",
+      "summary": "You probably don't make any money for Sam Altman and Co. right now. They want to change that.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/chatgpt-ads-openai-sam-altman-chart-paid-users-free-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-8109-b277-fc48fbbfc9b8",
+      "title": "Amazon settles Teamsters case alleging it retaliated against striking workers",
+      "summary": "The Teamsters alleged Amazon illegally docked employees' unpaid time off after they walked off the job, calling the practice \"unlawfully coercive.\"",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-01",
+      "link": "https://www.cnbc.com/2026/03/31/amazon-settles-teamsters-warehouse-strike.html"
+    },
+    {
+      "id": "33403df8-2d23-818b-82b8-e01d8885e527",
+      "title": "A couple spent $18,000 to turn a simple shed into a cozy library. Now, it's a reader's paradise.",
+      "summary": "Jess Ciesla loves books so much that she wanted a dedicated space to read. She and her partner spent $18,000 to build a library in their backyard.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/couple-turned-shed-into-library-photos-2025-8"
+    },
+    {
+      "id": "33403df8-2d23-8135-9f2b-dfa95c67cb0d",
+      "title": "Anker&#8217;s power bank with built-in cables is one of my favorite gadgets, and it&#8217;s cheaper than usual",
+      "summary": "Anker’s Laptop Power Bank is one of the more useful gadgets I’ve bought in recent years. I know, it’s just a portable battery, but it’s packed with power and thoughtful features that are tough to find in other models. And right now, you can buy it for $95.99 ($24 off) — the best price of […]",
+      "source": "The Verge",
+      "publishTime": "2026-04-01",
+      "link": "https://www.theverge.com/gadgets/904523/anker-laptop-power-bank-amazon-big-spring-sale-2026-deal-sale"
+    },
+    {
+      "id": "33403df8-2d23-810b-863a-fb029bb90aaf",
+      "title": "Meta was finally held accountable for harming teens. Now what?",
+      "summary": "Meta faces thousands more court cases while Congress has proposed numerous bills addressing children’s online safety, some heavily criticized.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-01",
+      "link": "https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/"
+    },
+    {
+      "id": "33403df8-2d23-81ed-8b30-f11782a46bc8",
+      "title": "The first Japanese destroyer to get Tomahawks will begin live-fire tests of the missiles this year",
+      "summary": "The JS Chokai completed modifications to carry Tomahawk missiles, marking a major upgrade in capability.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/first-japanese-destroyer-gets-tomahawks-live-fire-test-this-year-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-81e9-9a4a-cf18ea1f726f",
+      "title": "I waited an hour in line for Tokyo's famous soufflé pancakes and have zero regrets",
+      "summary": "The jiggly soufflé pancakes are a famous dish in Japan. We tried them at Micasadeco & Cafe in Tokyo, and they were worth the hourlong wait in line.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/japan-souffle-pancakes-tokyo-review"
+    },
+    {
+      "id": "33403df8-2d23-81a3-b02b-eadda6c39d5f",
+      "title": "Here's the severance package Oracle offered laid-off US employees",
+      "summary": "Severance includes 4 weeks base salary plus 1 week per year of employment.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/oracle-offers-us-workers-up-to-26-weeks-severance-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-81a0-8056-cfe7088a4c2e",
+      "title": "The Super Mario Galaxy Movie is beautiful but a little too busy",
+      "summary": "With The Super Mario Bros. Movie, Nintendo entered the next phase of its plan to become a different kind of entertainment giant. Though it wasn't the company's first go at putting its iconic plumbers on the big screen, the film demonstrated that Nintendo could collaborate with partners like Illumina",
+      "source": "The Verge",
+      "publishTime": "2026-04-01",
+      "link": "https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review"
+    },
+    {
+      "id": "33403df8-2d23-81d4-b3c6-eae9154dd8d9",
+      "title": "In the AI era, revenue-per-employee is the new Big Tech metric",
+      "summary": "The industry is rediscovering revenue per employee as AI boosts productivity and forces a rethink of hiring, growth, and efficiency.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/tech-scorecard-revenue-per-employee-nvidia-microsoft-openai-anthropic-meta-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-8155-afc0-ea874c003256",
+      "title": "Jack Dorsey outlines how AI will change Block's org chart — and replace managers with 'player-coaches'",
+      "summary": "Jack Dorsey and Roelof Botha outlined Block's AI future one month after its sweeping 40% layoffs. Block will be a \"mini-AGI,\" they wrote.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/jack-dorsey-block-ai-managers-player-coaches-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-8169-9f90-e63f29486096",
+      "title": "I chose a 20-hour train over a 2-hour flight to avoid airport chaos. See what the experience aboard was really like.",
+      "summary": "Amid the long TSA wait lines, I took a 20-hour Amtrak trip instead of flying. Perks like easier boarding and comfortable seats made the trip better.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/amtrak-travel-new-york-chicago-instead-of-flying-photos-amenities"
+    },
+    {
+      "id": "33403df8-2d23-8181-a1ac-d130240dd05c",
+      "title": "Go play this secret game in your TikTok DMs",
+      "summary": "The game is available globally and can be accessed in both one-on-one DM chats and in group chats.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-01",
+      "link": "https://techcrunch.com/2026/03/31/go-play-this-secret-game-in-your-tiktok-dms/"
+    },
+    {
+      "id": "33403df8-2d23-8132-ae0f-faf19d41976d",
+      "title": "United is revamping one of its most hated regional jets. It's adding first-class and bins that fit carry-ons: See inside the CRJ450.",
+      "summary": "United Airlines is revamping the much-disliked 50-seat CRJ200 regional jet: Soon, the new CRJ450 will have room for carry-ons and a first-class cabin.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/united-airlines-regional-jet-crj200-revamp-photos-crj450-new-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-81ff-aeed-f978ce2de861",
+      "title": "Caller ID app Truecaller hits 500 million monthly users",
+      "summary": "Truecaller now has more than 4 million paying users across the world.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-01",
+      "link": "https://techcrunch.com/2026/03/31/caller-id-app-truecaller-hits-500-million-monthly-users/"
+    },
+    {
+      "id": "33403df8-2d23-81d1-83b5-e4df47b23a84",
+      "title": "Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games",
+      "summary": "After releasing smaller versions of its handhelds, Evercade has announced a new portable console called the Nexus featuring a large 5.89-inch screen. That's larger than the 4.3-inch screen on Evercade's previous handheld, the EXP-R. The Nexus' display also delivers a small bump in resolution from 80",
+      "source": "The Verge",
+      "publishTime": "2026-04-01",
+      "link": "https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability"
+    },
+    {
+      "id": "33403df8-2d23-817c-a05f-e6aef556c441",
+      "title": "No Kings is taking back Americana",
+      "summary": "\"I was hoping we were going to have a bigger crowd than this, especially with the nice weather and everything,\" Michael Maria told me. \"I'm a little disappointed because the last march, I think there were about 10 times as many people at this time of day.\" At 11AM, the crowd at Portland's downtown w",
+      "source": "The Verge",
+      "publishTime": "2026-04-01",
+      "link": "https://www.theverge.com/policy/904405/no-kings-protests-portland-americana"
+    },
+    {
+      "id": "33403df8-2d23-817e-a2a2-d1e0ba0c21cc",
+      "title": "The Galaxy S26’s photo app can sloppify your memories",
+      "summary": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask",
+      "source": "The Verge",
+      "publishTime": "2026-04-01",
+      "link": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop"
+    },
+    {
+      "id": "33403df8-2d23-812e-871a-e8c271760175",
+      "title": "Social gaming platform Rec Room, once valued at $3.5B, is shutting down",
+      "summary": "Rec Room, the social platform for user-generated games and virtual experiences, will shutter on June 1.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-01",
+      "link": "https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/"
+    },
+    {
+      "id": "33403df8-2d23-8135-bc96-d4e56cafe406",
+      "title": "Our Favorite Affordable Air Purifier Is Temporarily Even Cheaper",
+      "summary": "Amazon has the Coway Airmega Mighty marked down to two-thirds its normal price.",
+      "source": "Wired",
+      "publishTime": "2026-04-01",
+      "link": "https://www.wired.com/story/coway-airmega-mighty-deal-326/"
+    },
+    {
+      "id": "33403df8-2d23-8167-8c96-c9a289888cd6",
+      "title": "Hisense’s 75-inch U6 mini-LED TV is cheaper than its 65-inch model",
+      "summary": "If you’re keen to get a new 4K TV that has built-in streaming services provided by Amazon’s Fire TV software, it’s tough to get more for your money than with Hisense’s U6. The company’s 75-inch, feature-packed mini-LED TV is an even better value than usual thanks to the discount happening on the fin",
+      "source": "The Verge",
+      "publishTime": "2026-04-01",
+      "link": "https://www.theverge.com/gadgets/904372/hisense-u6-mini-led-tv-4k-amazon-big-spring-sale-2026-deal"
+    },
+    {
+      "id": "33403df8-2d23-81b2-aadc-eb473b21b18e",
+      "title": "Google Now Lets You Change Your Gmail Address. Here’s How",
+      "summary": "You’ve probably had the same Gmail address for years. Now, it’s easy to make a name change without worrying about the transition.",
+      "source": "Wired",
+      "publishTime": "2026-04-01",
+      "link": "https://www.wired.com/story/how-to-change-your-gmail-address/"
+    },
+    {
+      "id": "33403df8-2d23-815c-99b4-f97068da03d3",
+      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+      "summary": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-01",
+      "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/"
+    },
+    {
+      "id": "33403df8-2d23-81cd-97e2-c12f94b925b0",
+      "title": "I tried Shake Shack's new Clubhouse Pimento Cheese menu. It puts a fun spin on a classic Masters snack.",
+      "summary": "Who needs to fly to Georgia and pay thousands to get into the Masters when you can get your own pimento cheese sandwich at Shake Shack?",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/shake-shack-clubhouse-pimento-cheese-menu-review-photos-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-81d4-83e4-e8a7d33ef00b",
+      "title": "The Sonos Play and mic-less Era 100 SL are now available",
+      "summary": "After a couple of quiet years, Sonos is back with two new consumer speakers: the portable Sonos Play and the more affordable Era 100 SL. They retail for $299 and $189, respectively, and both are now widely available following their announcement earlier this month. With its utility loop and water-res",
+      "source": "The Verge",
+      "publishTime": "2026-04-01",
+      "link": "https://www.theverge.com/gadgets/903746/sonos-play-era-100-sl-speakers-price-release-date-availability"
+    },
+    {
+      "id": "33403df8-2d23-8157-8c22-e28fc247c082",
+      "title": "The US Military’s GPS Software Is an $8 Billion Mess",
+      "summary": "The GPS Next-Generation Operational Control System was due for completion in 2016. Ten years later, the software for controlling the military’s GPS satellites still doesn’t work.",
+      "source": "Wired",
+      "publishTime": "2026-04-01",
+      "link": "https://www.wired.com/story/the-us-militarys-gps-software-is-an-8-billion-mess/"
+    },
+    {
+      "id": "33403df8-2d23-81bf-96e2-eac7ca64b461",
+      "title": "Woke Isn't Back",
+      "summary": "Progressives are dreaming about “Woke 2”—a new political order that rights the wrongs of the Trump administration. Does it have a shot?",
+      "source": "Wired",
+      "publishTime": "2026-04-01",
+      "link": "https://www.wired.com/story/the-promise-of-woke-2-is-fueling-a-leftist-fever-dream/"
+    },
+    {
+      "id": "33403df8-2d23-81f5-ba7b-ed58e489381d",
+      "title": "Snap climbs 13% as activist Irenic suggests changes to boost stock's value 7x",
+      "summary": "Irenic Capital suggested shuttering the Specs division and replacing more than a fifth of Snap's workforce with artificial intelligence.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-01",
+      "link": "https://www.cnbc.com/2026/03/31/snap-stock-activist-irenic-value.html"
+    },
+    {
+      "id": "33403df8-2d23-81c1-8dd1-daa5e01b0b61",
+      "title": "I tried to be the perfect school volunteer mom. My kids don't remember it.",
+      "summary": "I volunteered constantly at my kids' school, thinking it made me a better parent. Looking back, it didn't matter as much as I thought.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/parent-school-volunteering-not-worth-it-parenting-regret-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-81a7-b9c9-db77a2fa133d",
+      "title": "The latest Matter update improves camera streaming",
+      "summary": "The Connectivity Standards Alliance (CSA) released Matter 1.5.1 today, building upon the camera and video doorbell support added as part of the Matter 1.5 update last November. Although 1.5.1 is a minor update, it brings several improvements that will benefit both end users and companies making thes",
+      "source": "The Verge",
+      "publishTime": "2026-04-01",
+      "link": "https://www.theverge.com/tech/904361/matter-spec-update1-5-1-camera-video-streaming-heic-doorbell-chimes"
+    },
+    {
+      "id": "33403df8-2d23-8170-a3df-c94849836071",
+      "title": "Tesla Admits Its Robotaxis Are Sometimes Driven by Remote Humans",
+      "summary": "The electric-car maker says it happens rarely and at speeds below 10 mph. But the disclosure—in response to a US senator's questions—occasioned a call for more transparency.",
+      "source": "Wired",
+      "publishTime": "2026-04-01",
+      "link": "https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/"
+    },
+    {
+      "id": "33403df8-2d23-8189-b56c-fb826d24ccab",
+      "title": "BYD's global push is accelerating just as expensive gas jolts EV demand",
+      "summary": "BYD executives expect to sell 1.5 million cars outside of China this year. A new rise in EV interest could be another shot in the arm.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/byds-gas-prices-ev-demand-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-81ea-b67f-d260556adffd",
+      "title": "Whoop’s valuation just tripled to $10 billion",
+      "summary": "The fitness tracking startup just closed a $575 million Series G with Cristiano Ronaldo and LeBron James among its investors. The obvious question looming over a round of this size at this valuation: Is an IPO coming?",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-01",
+      "link": "https://techcrunch.com/2026/03/31/whoop-valuation-10b-series-g-fundraise/"
+    },
+    {
+      "id": "33403df8-2d23-810f-84dd-df5a34d9d5f2",
+      "title": "A viral video convinced me to buy a cheap home in Sicily. It cost less than a year of my rent in LA, but renovating it isn't easy.",
+      "summary": "Kiki Leigh moved to Sicily, Italy, shortly after watching a viral video about cheap homes there. Now, she's renovating her $31,000 home in Mussomeli.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/buy-cheap-homes-sicily-italy-moved-from-la-renovations-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-81a5-b8be-d17c90dea051",
+      "title": "I've been a chef for more than 15 years. Here are my tips for making the perfect ham.",
+      "summary": "As a chef, this is my best advice for buying and cooking the perfect ham, from how to score and glaze the meat to ensuring it has a crispy exterior.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/best-tips-making-ham-perfect-chef"
+    },
+    {
+      "id": "33403df8-2d23-8181-a7e8-e78ced649064",
+      "title": "The Best Time to Drink Coffee for Productivity (and When Not To)",
+      "summary": "Caffeine is the original biohack for energy, focus, and alertness. But are you doing it wrong?",
+      "source": "Wired",
+      "publishTime": "2026-04-01",
+      "link": "https://www.wired.com/story/when-to-drink-coffee-optimization/"
+    },
+    {
+      "id": "33403df8-2d23-8151-a9e5-d8cc9143648c",
+      "title": "Figure CEO speaks out on OpenAI split: 'We're going to be competitors'",
+      "summary": "Figure CEO Brett Adcock said that its OpenAI partnership gave \"very little\" value. He said he ended it after OpenAI chose to make humanoids in-house.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/figure-ceo-explains-openai-split-2026-3"
+    },
+    {
+      "id": "33403df8-2d23-816b-8c14-d2849112abdc",
+      "title": "The most famous book set in every state",
+      "summary": "Our guide to the most famous books set in every state will take you on a literary trip around America.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-01",
+      "link": "https://www.businessinsider.com/most-famous-book-set-in-every-state"
+    },
+    {
+      "id": "33403df8-2d23-8199-abbd-f90a3a1fbc82",
+      "title": "Uber and WeRide ramp up robotaxi operations in Dubai",
+      "summary": "Uber and WeRide have launched robotaxi operations without a human safety operator in Dubai as part of a broader expansion in the Middle East.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-01",
+      "link": "https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/"
+    },
     {
       "id": "33403df8-2d23-81ab-8fe8-da643f0aa68a",
       "title": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
@@ -80,326 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-03-31",
       "link": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/"
-    },
-    {
-      "id": "33403df8-2d23-81bd-b5b6-c967f6c64e47",
-      "title": "Marvell stock pops 7% as Nvidia takes $2 billion stake, continuing run of similar bets",
-      "summary": "Nvidia has also made $2 billion investments in CoreWeave, Nebius and Coherent in recent months.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-03-31",
-      "link": "https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html"
-    },
-    {
-      "id": "33403df8-2d23-81ad-a813-e9fba946f1ae",
-      "title": "JPMorgan's investment in the 'American Dream' comes during a crisis of faith in capitalism",
-      "summary": "JPMorgan announced a six-part plan to reignite the American Dream, as Americans have told Business Insider their faith in capitalism is eroding.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-31",
-      "link": "https://www.businessinsider.com/jpmorgan-jamie-dimon-american-dream-initiative-future-capitalism-2026-3"
-    },
-    {
-      "id": "33403df8-2d23-8165-9fcd-e414e1e35ac2",
-      "title": "Meet the 21-year-old media exec who wants TikTok shows to be taken seriously",
-      "summary": "Rowan Winch, Fallen Media's cofounder, manages viral TikTok shows. He's had an \"unorthodox\" career path.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-31",
-      "link": "https://www.businessinsider.com/fallen-media-young-cofounder-rowan-winch-tiktok-viral-shows-2026-3"
-    },
-    {
-      "id": "33403df8-2d23-81ba-b153-f50bb7fcde70",
-      "title": "Meta launches new ‘prescription optimized’ smart glasses",
-      "summary": "While Meta has released several versions of its AI glasses over the last few years, today it announced it's released two new styles specifically geared toward those of us with less-than-perfect vision. Dubbed the Ray-Ban Meta Optics Styles, the new frames come in a rectangular \"Blayzer\" style and a ",
-      "source": "The Verge",
-      "publishTime": "2026-03-31",
-      "link": "https://www.theverge.com/tech/904020/meta-scriber-blayzer-prescription-smart-glasses"
-    },
-    {
-      "id": "33403df8-2d23-813a-b051-e4ce0835b6f1",
-      "title": "微软 Win11/10 已弃用 SaRA 命令行工具：为安全让路，推荐使用 Get Help",
-      "summary": "IT之家 3 月 31 日消息，继 2023 年宣布弃用 MSDT（Microsoft 支持诊断工具）之后，微软近日再次对 Windows 中的另一项诊断功能动手。这一次被移除的是 Microsoft 支持和恢复助手（Microsoft Support and Recovery Assistant）的命令行工具，简称 SaRA。微软表示，此举旨在提升 Windows 安全性。微软在其官网的一篇支持文章中正式确认了这一变动：“弃用 SaRA 命令行工具有助于保护和加固您的环境…… 微软已在 2026 年 3 月 10 日及之后发布的所有受支持版本的 Windows 更新中正式移除了 SaRA 工",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/692.htm"
-    },
-    {
-      "id": "33403df8-2d23-8102-8edc-e0f5fa00cd33",
-      "title": "TCL is taking over Sony’s TV business",
-      "summary": "After signing a nonbinding agreement in January to spin off its TV business, today Sony officially announced that TCL will pay approximately 75.4 billion yen (over $473 million) for a 51 percent stake in a new joint venture called Bravia Inc., with Sony holding the remaining 49 percent. Bravia Inc.,",
-      "source": "The Verge",
-      "publishTime": "2026-03-31",
-      "link": "https://www.theverge.com/tech/904162/tcl-sony-joint-venture-bravia-inc-tv-home-theater-business"
-    },
-    {
-      "id": "33403df8-2d23-81a0-839a-da4c46c8c8f0",
-      "title": "Sony’s WH-1000XM5 headphones are a whopping 39 percent off",
-      "summary": "Amazon is hosting a fantastic lightning sale on every color of the Sony WH-1000XM5 over-ear headphones, offering them for $243 (originally $399) for a limited time. This is one of the biggest price reductions we’ve ever seen. Outside of a February discount at Adorama that briefly sold them for $204.",
-      "source": "The Verge",
-      "publishTime": "2026-03-31",
-      "link": "https://www.theverge.com/gadgets/904119/sony-xm5-noise-canceling-headphones-amazon-big-spring-sale-2026-deal"
-    },
-    {
-      "id": "33403df8-2d23-81f0-95f3-d7c7125c22a2",
-      "title": "荣耀 WIN 游戏本“猎人武器库”首曝，支持联动发光 LOGO 进行换色等操作",
-      "summary": "IT之家 3 月 31 日消息，荣耀终端股份有限公司全场景产品线负责人 @荣耀潇哥 今日首曝荣耀 WIN 游戏本的“猎人武器库”，展示了其部分功能，包括高刷快捷开关、触控板开关、猎杀灯效、猎人静音散热等。@荣耀潇哥 还分享了另一张实拍图，展示了游戏本 A 面的发光 LOGO 正散发紫色光芒。由此来看，荣耀 WIN 游戏本首曝的可发光 LOGO 支持色彩切换，可与“猎人武器库”进行灯效主题的联动。荣耀 WIN 游戏本已官宣将在 4 月发布。据IT之家今日早些时候报道，荣耀中国区智慧生活业务部部长林林今日晒出了荣耀 WIN 360W 氮化镓适配器，表示可以单独购买。结合此前爆料，荣耀 WIN 游戏",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/691.htm"
-    },
-    {
-      "id": "33403df8-2d23-81b9-b90f-d5ed08818a7d",
-      "title": "瞄准数十亿视力矫正人群：Meta 推出两款雷朋智能眼镜新品，499 美元起",
-      "summary": "IT之家 3 月 31 日消息，Meta 今日推出了两款全新的雷朋智能眼镜 —— 第二代 Ray-Ban Meta Blayzer Optics （偏矩形）和 Ray-Ban Meta Scriber Optics（更圆润），这也是 Meta 首款针对处方用户优化的 AI 眼镜，几乎支持所有度数，进一步扩展了其在智能眼镜这一领域的产品线。新款眼镜在美国市场起售价为 499 美元（IT之家注：现汇率约合 3453 元人民币），现已开启预订，将于 4 月 14 日上市，为需要配戴处方镜片的用户提供更多选择。Meta CEO 马克 · 扎克伯格曾在今年 1 月表示，“全球有数十亿人配戴眼镜或隐形眼镜",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/690.htm"
-    },
-    {
-      "id": "33403df8-2d23-8166-a7ba-ec30d188173b",
-      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-      "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-31",
-      "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/"
-    },
-    {
-      "id": "33403df8-2d23-81a5-83e6-f4e83c547d5e",
-      "title": "Art schools are being torn apart by AI",
-      "summary": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a creative professional and former design student myself, I understand all too well how fierce the competi",
-      "source": "The Verge",
-      "publishTime": "2026-03-31",
-      "link": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs"
-    },
-    {
-      "id": "33403df8-2d23-81aa-81c5-e262133cdaa1",
-      "title": "Razer’s first split ergonomic keyboard puts extra keys in reach of your thumbs",
-      "summary": "Razer has announced its first keyboard with a split and curved ergonomic layout. The new Pro Type Ergo is available starting today, which at $189.99 is slightly more expensive than the more traditional $159.99 Pro Type Ultra that launched in 2021. Like its predecessor, Razer's new Pro Type Ergo is b",
-      "source": "The Verge",
-      "publishTime": "2026-03-31",
-      "link": "https://www.theverge.com/tech/903558/razer-pro-type-ergo-split-wireless-bluetooth-keyboard-productivity-availability-price"
-    },
-    {
-      "id": "33403df8-2d23-81b4-86c6-e3406731cedf",
-      "title": "飞利浦“32M2N8900X“31.5 英寸显示器开售：4K 240Hz QD-OLED、AR 3.0 镜面屏 + 双扬，6999 元",
-      "summary": "IT之家 3 月 31 日消息，飞利浦旗下型号为“32M2N8900X”的 31.5 英寸显示器现已在京东开售，该机主打 4K 240Hz、AR 3.0 镜面屏，定价为 6999 元，部分地区国补后到手价低至 6267.61 元。京东飞利浦“32M2N8900X”显示器 6999 元直达链接该机配备一块 3840x2160 分辨率 240Hz QD-OLED Penta Tandem 面板，辅以 BlackGlow AR 3.0 零雾度光学层，号称相对上一代环境光反射减低 40%。其 HDR 峰值亮度 1000 尼特，GtG 响应速度 0.03ms，动态对比度 150 万:1，显示器支持原生 ",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/689.htm"
-    },
-    {
-      "id": "33403df8-2d23-81f1-8eab-dc0df15ae9cd",
-      "title": "Health data giant CareCloud says hackers accessed patients’ medical records",
-      "summary": "CareCloud, a major provider of medical records storage, said hackers accessed one of its repositories of patient data earlier in March. It provides technology for more than 45,000 providers covering millions of patients.",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-31",
-      "link": "https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/"
-    },
-    {
-      "id": "33403df8-2d23-81c2-9b01-dea6d19af019",
-      "title": "I run my business from an 18-square-foot shed in my parents' backyard. It cut my rent and childcare costs.",
-      "summary": "Single mom Katie Vale saves money on rent and childcare by running her hat business out of a shed at the bottom of her parents' garden.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-31",
-      "link": "https://www.businessinsider.com/work-from-shed-in-my-parents-backyard-saves-rent-childcare-2026-3"
-    },
-    {
-      "id": "33403df8-2d23-8170-a552-e5720a10f84c",
-      "title": "《幻兽♡帕鲁》恋爱模拟游戏最新宣传片公布：支持中文，发售日未定",
-      "summary": "IT之家 3 月 31 日消息，《幻兽帕鲁》官方今晚公布了 IP 衍生校园恋爱模拟游戏《幻兽♡帕鲁！ ～已经不想只做朋友了～》的最新宣传片。虽然这款游戏是在 2024 年的愚人节官宣，但它并非愚人节玩笑，目前已经处于开发中。IT之家注意到，这款游戏已经提前上架 Steam，支持中文，发售日未定。在最新预告片中，Pocketpair CEO 沟部拓郎与发行负责人及社区经理 Bucky 悉数出镜，官方透露这并非一款平凡的校园恋爱模拟器，而是融入了恐怖、解谜、时空轮回等多种元素。相关阅读：《〈幻兽帕鲁〉愚人节整活：恋爱模拟游戏〈幻兽帕鲁：已经不想只做朋友了〉明年上线》",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/688.htm"
-    },
-    {
-      "id": "33403df8-2d23-81f0-a985-ff1e542b3664",
-      "title": "Meta agrees to ‘reduce’ Instagram’s PG-13 rating references",
-      "summary": "Meta has reached an agreement with the Motion Picture Association (MPA) that will require the platform to \"substantially reduce\" its reference to the PG-13 rating when describing Instagram's teen accounts. In a press release on Tuesday, a Meta spokesperson says its 13+ content guidelines aren't chan",
-      "source": "The Verge",
-      "publishTime": "2026-03-31",
-      "link": "https://www.theverge.com/tech/904081/meta-mpa-agreement-pg-13-rating"
-    },
-    {
-      "id": "33403df8-2d23-8121-bfb5-f9aa721b97cc",
-      "title": "小米汽车回应“碳纤维方向盘是否会影响辅助驾驶脱手检测”，称可能存在误报打扰的情况",
-      "summary": "IT之家 3 月 31 日消息，小米汽车官方今日发布答网友问（第 225 集），针对新一代 SU7 这次的安全辅助功能是否有升级、碳纤维方向盘是否会影响辅助驾驶脱手检测等问题进行了解答。IT之家附重点内容如下：新一代 SU7 这次的安全辅助功能有升级吗？新一代 SU7 的 AEB 防碰撞辅助扩展了目标物识别种类，进一步提升了极端场景下的应对能力；向大家介绍一下新一代 SU7 安全辅助的三大能力特点：速度覆盖范围广：前向、后向都具备 AEB 能力，功能速度域支持前向 1-135km/h，后向 1-30km/h；目标识别种类多：除了常见的车辆、行人、二轮车等目标，前向 20-135km/h 时速下",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/687.htm"
-    },
-    {
-      "id": "33403df8-2d23-8115-9d51-f1093c1736a8",
-      "title": "Rivian spinoff Also will build autonomous delivery vehicles for DoorDash",
-      "summary": "DoorDash joins Greenoaks Capital in another $200 million funding round for Also, bringing its total funding to more than $500 million.",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-31",
-      "link": "https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/"
-    },
-    {
-      "id": "33403df8-2d23-81c6-a333-c9a5acce8fc3",
-      "title": "In a Big Reversal, Zohran Mamdani Tells NYC Agencies They Can Use TikTok",
-      "summary": "The city will allow agencies to return to TikTok, but with strict new device and security rules.",
-      "source": "Wired",
-      "publishTime": "2026-03-31",
-      "link": "https://www.wired.com/story/in-a-big-reversal-zohran-mamdani-tells-nyc-agencies-to-use-tiktok/"
-    },
-    {
-      "id": "33403df8-2d23-810d-8fb3-ce024f8c1a8c",
-      "title": "腾讯国行任天堂 Switch 今起逐步停运，用户专属“回馈计划”结束",
-      "summary": "IT之家 3 月 31 日消息，据腾讯 Nintendo Switch 官方早前发布的运营调整通知，国行版 Switch 用户专属“回馈计划”已于今日 22 时结束。目前，国行 Nintendo Switch e 商店现已停止售卖服务，所有未购买的软件均已显示为「还未发售」，排行榜也已不再显示任何商品。除商店外，其他网络相关服务也将于 2026 年 5 月 15 日 22 时停止。2024 年 11 月 27 日 10 时至 2026 年 3 月 31 日 22 时，每一台已激活的且依照《Nintendo Switch 使用条款》约定正常使用的国行 Nintendo Switch 主机，其拥有",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/685.htm"
-    },
-    {
-      "id": "33403df8-2d23-817a-8b7c-faf61bda410b",
-      "title": "Roku launches a standalone app for Howdy, its $2.99 streaming service",
-      "summary": "With this new app, Roku says subscribers can access Howdy's library of content on the go.",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-31",
-      "link": "https://techcrunch.com/2026/03/31/roku-launches-a-standalone-app-for-howdy-its-2-99-streaming-service/"
-    },
-    {
-      "id": "33403df8-2d23-819d-8af3-cc482736b63b",
-      "title": "优必选 2025 年营收突破 20 亿元，人形机器人业务增长超 22 倍",
-      "summary": "IT之家 3 月 31 日消息，优必选今晚公布了截至 2025 年 12 月 31 日的年度业绩报告。财报显示，优必选 2025 全年营业收入达到 20.01 亿元人民币，较上一年度的 13.05 亿元大幅增长 53.3%。其中，全尺寸具身智能人形机器人产品及解决方案成为最大收入来源，全年贡献收入 8.21 亿元，同比增幅高达 2203.7%。该业务在 2025 年实现销量 1079 台，同比增长超过 358 倍，标志着其从技术验证阶段正式迈入规模化商业应用。从盈利表现来看，优必选全年毛利为 7.54 亿元，较上年同期的 3.74 亿元增长 101.6%；毛利率则由 28.7% 提升至 37.",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/684.htm"
-    },
-    {
-      "id": "33403df8-2d23-811f-adbe-f69c7f2ed604",
-      "title": "Meta launches two new Ray-Ban glasses designed for prescription wearers",
-      "summary": "Meta says these glasses are the most comfortable ones it has ever designed, as they're made for all-day comfort.",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-31",
-      "link": "https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/"
-    },
-    {
-      "id": "33403df8-2d23-81ac-91d8-e2c0b9435e98",
-      "title": "创维推出“G27 SE”27 英寸显示器：1080P 144Hz，549 元",
-      "summary": "IT之家 3 月 31 日消息，创维现已在京东上架一款型号为“G27 SE”的 27 英寸显示器，该机主打 1080P 144Hz，定价为 549 元，将于 4 月 7 日首销。该机配备一块 1920x1080 分辨率 144Hz IPS 面板，显示器亮度 360 尼特，静态对比度 1000:1，覆盖 100% sRGB 色域。该机支架支持俯仰 / 旋转，显示器本体支持 VESA 75x75mm 壁挂，提供 1 个 HDMI 1.4 和 1 个 VGA 接口。IT之家附显示器参数：京东创维 G27 SE 显示器 549 元直达链接",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/683.htm"
-    },
-    {
-      "id": "33403df8-2d23-81f1-b015-c04806258d15",
-      "title": "OkCupid settles claims it shared user photos with a facial recognition company",
-      "summary": "Dating app OkCupid agreed to settle claims from the Federal Trade Commission that it deceived millions of users by sharing their photos with a third-party facial recognition company without their consent. OkCupid and parent company Match Group did not admit wrongdoing as part of the settlement, but ",
-      "source": "The Verge",
-      "publishTime": "2026-03-31",
-      "link": "https://www.theverge.com/policy/903999/okcupid-settles-claims-it-shared-user-photos-with-a-facial-recognition-company"
-    },
-    {
-      "id": "33403df8-2d23-810d-aaf4-ef30ca6e4984",
-      "title": "京东方 2025 年营收超 2000 亿元，净利润 58.57 亿元同比增长 10.03%",
-      "summary": "IT之家 3 月 31 日消息，京东方 A 今晚发布 2025 年年度报告。财报显示，2025 年公司实现营业收入约 2045.90 亿元，同比增长 3.13%；归属于上市公司股东的净利润约为 58.57 亿元，同比增长 10.03%。从主营业务板块来看，作为核心的显示器件业务全年营收约 1664.17 亿元，同比增长 0.86%，其 LCD 五大主流应用及车载应用面板出货量继续稳居全球第一，柔性 OLED 器件出货量保持稳定增长。物联网创新业务表现亮眼，营收约 389.49 亿元，同比增长 15.14%，成为推动公司增长的重要动力。此外，传感业务、MLED 业务和智慧医工业务分别实现营收约 ",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/682.htm"
-    },
-    {
-      "id": "33403df8-2d23-8124-a5e9-e8f6dd24fb75",
-      "title": "东芝推出 M12 系列近线机械硬盘，启动 30~34TB SMR 版本样品出货",
-      "summary": "IT之家 3 月 31 日消息，东芝电子元件及存储装置株式会社今日宣布推出 M12 系列近线机械硬盘。IT之家了解到，其采用充氦 11 盘片设计，以玻璃基板替代目前记录介质采用的铝质基板，集成磁通控制微波辅助磁记录 (FC‑MAMR)。M12 系列机械硬盘的 SMR 版本现已率先出货样品，提供 30~34TB 的存储容量。SMR 版 M12 采用主机管理型 SMR 架构，由主机系统负责管理硬盘内的数据排布和重写操作，可实现更高效的数据处理，并有效缓解服务器与存储系统环境中的性能下降问题。具体来看，SMR 版 M12 HDD 最高数据传输速率达 282MiB/s，较上一代产品性能提升约 8%；每",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/681.htm"
-    },
-    {
-      "id": "33403df8-2d23-814d-ae77-f17b3e5ad7dd",
-      "title": "努比亚倪飞谈“曝 iPhoneXX 将配屏下摄像头”：早已先行，期待 iPhone 加入“真全面屏”行列",
-      "summary": "IT之家 3 月 31 日消息，此前有消息称苹果屏下摄像头概念机测试中，明年 iPhone 20 系列评估 200Mp 1/1.12\" 主摄。中兴通讯终端事业部总裁、努比亚技术有限公司总裁倪飞今日发文谈及了“曝 iPhoneXX 将配屏下摄像头”这一话题。他表示：“七年，七代！屏下摄像这条路，我们早已先行！期待 iPhone 加入‘真全面屏’行列。”IT之家注意到，倪飞微博配图展示了七款机型，包括努比亚和中兴两个品牌。据IT之家此前报道，在 2020 年 9 月，中兴率先推出了全球首款量产屏下摄像头手机 —— Axon 20 5G。该机搭载高通骁龙 765G 移动平台，配备维信诺的 6.92 ",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/680.htm"
-    },
-    {
-      "id": "33403df8-2d23-8199-babb-d48dd2899015",
-      "title": "Instagram tests letting you pay to view stories anonymously",
-      "summary": "Meta is testing an Instagram subscription that offers a bunch of new perks, such as the ability to view stories without the poster knowing, according to a report from TechCrunch. The paid plan will also allow subscribers to see how many times people replay their own stories and search for specific v",
-      "source": "The Verge",
-      "publishTime": "2026-03-31",
-      "link": "https://www.theverge.com/tech/904032/instagram-premium-subscription-story-viewing-anonymously"
-    },
-    {
-      "id": "33403df8-2d23-81a4-b695-f1b1832e119d",
-      "title": "Millions of student-loan borrowers risk being driven into a 'shadow' market of costly private lenders, a new report says",
-      "summary": "Trump's sweeping federal student-loan repayment changes could drive borrowers to subprime lenders that often have high interest rates and fees.",
-      "source": "Business Insider",
-      "publishTime": "2026-03-31",
-      "link": "https://www.businessinsider.com/trumps-student-loan-repayment-overhaul-borrowers-private-lending-shadow-debt-2026-3"
-    },
-    {
-      "id": "33403df8-2d23-8133-93cc-d320ed423632",
-      "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
-      "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-31",
-      "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/"
-    },
-    {
-      "id": "33403df8-2d23-81e9-98a9-cf0be0d0e136",
-      "title": "The company behind ClassPass and Mindbody just got a lot bigger with a $7.5B merger",
-      "summary": "The merger is a sign that the fitness industry is continuing to move toward consolidation to compete at a larger scale. Recent moves include MyFitnessPal acquiring Cal AI, an AI calorie counting app, and Strava buying two apps: cycling app The Breakaway and running app Runna.",
-      "source": "TechCrunch",
-      "publishTime": "2026-03-31",
-      "link": "https://techcrunch.com/2026/03/31/the-company-behind-classpass-and-mindbody-just-got-a-lot-bigger-with-a-7-5b-merger/"
-    },
-    {
-      "id": "33403df8-2d23-81f3-aa5e-f36f1c3512ee",
-      "title": "Aston Martin Valhalla (2026) Review: A $1 Million Plug-In Hybrid",
-      "summary": "A robot could apparently drive this million-dollar supercar faster than a fleshy human, but the unbelievable experience would be entirely lost on it.",
-      "source": "Wired",
-      "publishTime": "2026-03-31",
-      "link": "https://www.wired.com/review/aston-martin-valhalla/"
-    },
-    {
-      "id": "33403df8-2d23-814c-80f9-c1afec48ac90",
-      "title": "Apple at 50: the good and the bad",
-      "summary": "We're spending the week documenting and analyzing the first half-century of Apple's existence, from the oft-overlooked creation of QuickTime to the iconic MacBook Air to Apple's veering into antitrust territory. We're also ranking the best Apple products of all time, and it's causing us all to feel ",
-      "source": "The Verge",
-      "publishTime": "2026-03-31",
-      "link": "https://www.theverge.com/podcast/903976/apple-50-good-bad-podcasts-vergecast"
-    },
-    {
-      "id": "33403df8-2d23-8162-9ab2-c9da67903b08",
-      "title": "联想推出 YOGA AI Mini 迷你主机：圆柱形设计、搭 Ultra 5 325 + 16G + 512G 售 5499 元",
-      "summary": "IT之家 3 月 31 日消息，联想现已在京东上架一款 YOGA AI Mini 迷你主机，该机采用圆柱形设计，搭载 Ultra 5 325 处理器，匹配 16GB RAM 和 512GB 存储空间，定价为 5499 元。该机采用圆柱形造型，机身使用浅海贝配色，整体重量 600g，容积约 0.65L。机身左侧配备 1 个雷电 4 接口、1 个 3.5mm 音频接口；背面配备 1 个 2.5G 网口、1 个 HDMI 接口、1 个 PD 充电口、1 个 USB-C 接口、1 个雷电 4 接口。规格方面，该机搭载 8 核心 8 线程英特尔酷睿 Ultra 5 325 处理器，匹配 16GB LPD",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/679.htm"
-    },
-    {
-      "id": "33403df8-2d23-81f8-b63b-d864baf63cf9",
-      "title": "台积电日本 JASM 第二晶圆厂升级 3nm 制程获批，预计 2028 年量产",
-      "summary": "IT之家 3 月 31 日消息，中国台湾地区经济部门投资审议会今日核准台积电在日控股子公司 JASM 位于熊本县的第二晶圆厂 (Fab23 P2) 从原定的 6nm 制程工艺升级至 3nm 制程工艺。该厂月产能达 15000 片 12 英寸晶圆，预计自 2028 年进行设备安装设定及开始晶圆量产。同一公告亦核准台积电向 TSMC GLOBAL LTD. 增资 300 亿美元（IT之家注：现汇率约合 2076.12 亿元人民币）。这部分资金主要用于投资银行定期存款与美元债券，以赚取利息收益并降低外汇避险成本。相关阅读：《台积电 CEO 魏哲家：计划在日本工厂量产 3 纳米芯片》《消息称台积电在日",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/678.htm"
-    },
-    {
-      "id": "33403df8-2d23-816b-8222-c95acf68b239",
-      "title": "Claude Code 刚刚被开源：51 万行代码，全网狂欢",
-      "summary": "硅谷炸锅，Claude Code 底层代码，就在刚刚「开源」了！超 1900 个文件，51.2 万行代码全部爆出。真是活久见！王炸 Claude Mythos 余热还没散去，Anthropic 又整了这么一出...就在刚刚，一位大佬 Chaofan Shou 突然爆料 ——Claude Code 源代码通过 npm 注册表中的一个 map 文件惨遭泄露，全部在线裸奔。这次泄露的规模令人咋舌：超 1,900 个文件，总计 51.2 万行 TypeScript 代码被公之于众。一时间，全网炸了，这种级别的「开源」方式，简直让硅谷看傻了眼。就连 Claude Mythos 5.0，代号「卡皮巴拉」，",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/677.htm"
-    },
-    {
-      "id": "33403df8-2d23-813f-b886-fdc81fe378c0",
-      "title": "巴菲特称苹果股票卖早了：宣布重启慈善午餐，近期还完成了一笔小投资",
-      "summary": "IT之家 3 月 31 日消息，沃伦 · 巴菲特（Warren Buffett）今日在接受 CNBC 采访时直言，他卖出苹果股票卖得太早（“I sold too soon”）。同时，他表达了未来仍愿意增持苹果股票的意愿，但明确指出不会在当前市场环境下买入（因估值过高或市场条件不佳）。据金融数据分析公司 Insider Score 显示，即便伯克希尔・哈撒韦在去年年底将苹果持仓减持至 619.6 亿美元（IT之家注：现汇率约合 4287.88 亿元人民币），苹果依然是伯克希尔第一大重仓股。巴菲特表示，如果苹果股价更便宜，他会继续加仓。他称，尽管苹果股价从近期高点下跌超 14%，本月跌幅超 6%，",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/676.htm"
-    },
-    {
-      "id": "33403df8-2d23-815c-ae7d-d9417b664b83",
-      "title": "华为乾崑 | 启境 GT7 新一代智能猎装车 6 月上市，预计上市即交付",
-      "summary": "IT之家 3 月 31 日消息，启境汽车官方微博今日重新发布了答网友问（第 7 期），针对华为乾崑 | 启境 GT7 新一代智能猎装车上市交付时间安排进行了调整。启境汽车官方表示，启境 GT7 计划 6 月举办上市发布会，届时公布正式售价、配置及交付细则；新车预计上市即交付，交付周期会因车型配置、锁单及确认交付方案时间的变化而变化（官方昨日表示新车预计 7 月开启交付）。据IT之家此前报道，在 3 月 17 日晚，广汽集团与华为乾崑联合打造的全新汽车品牌“启境”正式发布，品牌首款车型启境 GT7 也迎来全球首秀。启境 GT7 定位为智能猎装车型将搭载十大智能技术，含全球量产最高规格 896 线",
-      "source": "IT之家",
-      "publishTime": "2026-03-31",
-      "link": "https://www.ithome.com/0/934/674.htm"
     }
   ],
   "macroEvents": [
