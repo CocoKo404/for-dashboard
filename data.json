@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-04-03 08:02",
+  "updatedAt": "2026-04-03 13:55",
   "news": [
     {
-      "id": "33603df8-2d23-810c-8f6f-d4a0c2ad9a9a",
-      "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
-      "summary": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-03",
-      "link": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/"
-    },
-    {
-      "id": "33603df8-2d23-816d-9cef-feb91dc47bca",
-      "title": "苹果联合发布 LGTM AI 框架：突破 4K 渲染瓶颈，提升 Vision Pro 画质",
-      "summary": "IT之家 4 月 3 日消息，科技媒体 9to5Mac 昨日（4 月 2 日）发布博文，报道称苹果研究团队联合香港大学发布最新论文，提出名为 LGTM 的全新渲染框架。IT之家援引博文介绍，该框架全称为“Less Gaussians, Texture More”，核心突破在于解耦 3D 场景的几何结构与表面纹理，让系统在保持几何形状简单的同时，通过叠加纹理层实现 4K 级超高清画质。当前主流的“前馈 3D 高斯泼溅”（Feed-forward 3D Gaussian Splatting）技术，能利用 AI 将 2D 图片快速转化为可多角度观看的 3D 场景，但在处理高分辨率画面时，随着像素增加",
+      "id": "33703df8-2d23-8193-9bf1-d0f0c6e2e4d0",
+      "title": "华为智选车产品总监彭磊：享界超级工厂将试制全新 SUV 和 MPV",
+      "summary": "IT之家 4 月 3 日消息，华为智选车产品总监（享界系列）彭磊（@penglay_磊）今天在微博发文透露，享界超级工厂技术升级进入尾声。待技术改造完成后，将会马上提拉享界 S9/S9T 下定用户的交付，也将迎来全新 SUV 和 MPV 车型的生产试制。而在今年年初，北汽蓝谷今日发布“关于投资建设享界超级工厂高端平台车型产业化及产线数智化提升项目的公告”。公告称，2023 年，为满足新车型建设及投产需求，北汽蓝谷新能源科技股份有限公司子公司北京新能源汽车股份有限公司对北京高端智能生态工厂建设项目进行迁址变更，打造享界超级工厂，用于生产升级后的 BE22 平台产品。享界超级工厂改造后导入生产了享",
       "source": "IT之家",
       "publishTime": "2026-04-03",
-      "link": "https://www.ithome.com/0/935/530.htm"
+      "link": "https://www.ithome.com/0/935/695.htm"
     },
     {
-      "id": "33603df8-2d23-8179-805b-daef10aa438b",
-      "title": "AO3 is finally out of beta after 17 years",
-      "summary": "Archive of Our Own (AO3) is officially exiting beta. The Organization for Transformative Works - the nonprofit behind the fanfiction site - announced the update on Thursday, which comes 17 years after AO3's launch in 2009. \"Since 2009, AO3 has grown and changed a lot,\" the announcement says. \"We've ",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit"
-    },
-    {
-      "id": "33603df8-2d23-819d-9853-c289e9b9a875",
-      "title": "Get ready for a wave of TBPN clones after its blockbuster OpenAI deal",
-      "summary": "TBPN has inspired a set of new digital talk shows covering tech, advertising, and politics. More are on the way.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/get-ready-for-wave-of-tbpn-clones-post-openai-deal-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-81fa-a6ff-c97674b94906",
-      "title": "PSA: Anyone with a link can view your Granola notes by default",
-      "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out. Granola describes itself as ",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa"
-    },
-    {
-      "id": "33603df8-2d23-8192-8aad-e772d3063f09",
-      "title": "Reddit is moving on from r/all",
-      "summary": "Reddit is deprecating r/all, one of its feeds that shows popular posts on the platform, as part of \"ongoing efforts to simplify Reddit and improve Home feed personalization.\" Reddit has offered both r/popular and r/all as ways to see trending posts, with r/all being a \"less filtered feed\" where \"sex",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/tech/906314/reddit-r-all-deprecating"
-    },
-    {
-      "id": "33603df8-2d23-81cc-a292-e3f02814b3a2",
-      "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
-      "summary": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-03",
-      "link": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/"
-    },
-    {
-      "id": "33603df8-2d23-81c4-8d72-fe100714e1c8",
-      "title": "The best AirPods deals you can get right now",
-      "summary": "If you know where to look, you can often score deals on Apple’s ever-expanding AirPods lineup. Both the AirPods Pro 3 and the AirPods 4 (with and without ANC) now consistently receive discounts, as do the AirPods Pro 3. And while major shopping events like Black Friday and Amazon Prime Day have deli",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/21302051/best-apple-airpods-deals"
-    },
-    {
-      "id": "33603df8-2d23-81f9-99d1-fe385fd86aff",
-      "title": "‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
-      "summary": "In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
-      "source": "Wired",
-      "publishTime": "2026-04-03",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/"
-    },
-    {
-      "id": "33603df8-2d23-811a-8070-e6414b96a347",
-      "title": "B-52 Stratofortress bombers enter the war with Iran",
-      "summary": "US Air Force B-52 Stratofortress bombers are now flying combat missions in Iran.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/b-52-bombers-enter-war-with-iran-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-813d-b7d4-c61e43418bf7",
-      "title": "The Google Pixel 10 Is $150 Off",
-      "summary": "Amazon marks Google's flagship down to just $650 for 128 GB or $750 for 256 GB.",
-      "source": "Wired",
-      "publishTime": "2026-04-03",
-      "link": "https://www.wired.com/story/pixel-10-deal-3426/"
-    },
-    {
-      "id": "33603df8-2d23-81cc-b305-cbbb06f8bbed",
-      "title": "The OpenAI/TBPN deal is a shocker that makes sense",
-      "summary": "A head scratcher that isn't. And a vote for the value of live-streaming.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/why-openai-bought-tbpn-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-8115-9280-eb51c206549e",
-      "title": "Here's what smart people are saying about OpenAI's head-turning TBPN acquisition",
-      "summary": "OpenAI shocked many in Silicon Valley by buying tech talk show TBPN. Here's what smart people across the tech and media worlds are saying.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/openai-tbpn-deal-what-people-are-saying-silicon-valley-altman-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-8138-93e8-dd51509958f3",
-      "title": "Tech Companies Are Trying to Neuter Colorado’s Landmark Right-to-Repair Law",
-      "summary": "A bill in Colorado is a glimpse into the future of how corporations are working to limit the freedom people have to make their own fixes and upgrades.",
-      "source": "Wired",
-      "publishTime": "2026-04-03",
-      "link": "https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/"
-    },
-    {
-      "id": "33603df8-2d23-8138-8b38-c31e37d62bbc",
-      "title": "I was a broke American living in New Zealand. A viral TikTok turned my taco stand into 3 restaurants.",
-      "summary": "I started selling tacos on the street in New Zealand. Less than 3 years later, I own multiple restaurants and a food truck.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/burger-flipper-to-taco-business-restaurants-story-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-816b-8d93-c1c3f3a811a0",
-      "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
-      "summary": "Next time around, the pressure will be on SpaceX and Blue Origin.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-03",
-      "link": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/"
-    },
-    {
-      "id": "33603df8-2d23-818f-8286-e8171ef509cb",
-      "title": "This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car",
-      "summary": "Richard Allen didn't invent the automobile bike rack - his 1967 patent application makes it clear that others came before. But after nearly sixty years selling popular and simple mechanical bike carriers, his company Allen Bikes now offers a line of - yes - Bluetooth-monitored suction cups to stick ",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack"
-    },
-    {
-      "id": "33603df8-2d23-81ef-b15d-f7deccacf9c4",
-      "title": "The ABS Challenge System is exposing the worst umpire in baseball",
-      "summary": "During Wednesday's game between the Tampa Bay Rays and the Milwaukee Brewers, umpire CB Bucknor took a foul ball to the mask and had to be helped off the field. It was the cap to what has been a particularly bad week for one of the most controversial umpires in baseball. It started with perhaps […]",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball"
-    },
-    {
-      "id": "33603df8-2d23-8190-a73d-d81ae23fae2c",
-      "title": "Gateway Capital announces first close of $25M Fund II",
-      "summary": "Gateway Capital, the Milwaukee-based venture firm founded by Dana Guthrie, can now begin investment operations for its $25M Fund II.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-03",
-      "link": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/"
-    },
-    {
-      "id": "33603df8-2d23-818b-9e67-e061fc6477c1",
-      "title": "OpenAI Buys Some Positive News",
-      "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
-      "source": "Wired",
-      "publishTime": "2026-04-03",
-      "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/"
-    },
-    {
-      "id": "33603df8-2d23-812f-bde7-f6dadd4c6504",
-      "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
-      "summary": "Coinbase has received conditional approval from the U.S. Office of the Comptroller of the Currency (OCC) to operate as a trust bank, the company said Thursday.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-03",
-      "link": "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html"
-    },
-    {
-      "id": "33603df8-2d23-817b-bc86-d281a437b037",
-      "title": "Pinterest said he violated laid-off colleagues&#8217; privacy. Now he&#8217;s going public",
-      "summary": "It was late January, and Pinterest engineer Teddy Martin was on edge about recent layoffs at the company. Martin had just survived a round of cuts, but he and other employees were confused about who was being let go and why, and explanations from top executives including CEO Bill Ready had done litt",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out"
-    },
-    {
-      "id": "33603df8-2d23-8111-8fec-c93e668aaf9e",
-      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative, Chris Lehane.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-03",
-      "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"
-    },
-    {
-      "id": "33603df8-2d23-8134-85c9-f6cf8e625e97",
-      "title": "Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web",
-      "summary": "Flipboard's social websites consolidate profiles and posts from Bluesky, Mastodon, Threads, YouTube, podcasts, blogs, and RSS feeds into a single, shared destination.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-03",
-      "link": "https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/"
-    },
-    {
-      "id": "33603df8-2d23-81f9-8167-daa547706634",
-      "title": "How AI could destroy — or save — humanity, according to former AI insiders",
-      "summary": "Five former AI insiders debate whether artificial intelligence will erase jobs, reshape power, and unlock breakthroughs in medicine and education.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/former-ai-insiders-share-hard-truths-about-living-with-technology-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-812b-8796-c246805c928c",
-      "title": "Trump fires US attorney general Pam Bondi",
-      "summary": "Taking a break from calling Bruce Springsteen a boring loser on Thursday, Donald Trump followed that up with another Truth Social post saying \"loyal friend\" Pam Bondi will transition to a yet-to-be-announced job in the private sector. CNN, the New York Times, and Fox News all reported that Bondi, a ",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/policy/905961/pam-bondi-fired"
-    },
-    {
-      "id": "33603df8-2d23-81ad-8f74-e46ecb2559b7",
-      "title": "OpenAI acquires popular tech podcast TBPN",
-      "summary": "OpenAI did not disclose the terms of the deal but said TBPN will be housed within its strategy organization.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-03",
-      "link": "https://www.cnbc.com/2026/04/02/openai-acquires-tech-podcast-tbpn.html"
-    },
-    {
-      "id": "33603df8-2d23-81be-bda0-c23c6acbf6dd",
-      "title": "Amazon tells sellers it's adding a 3.5% charge to offset rising fuel and logistics costs",
-      "summary": "Amazon said it would add a 3.5% surcharge to some orders, citing rising \"fuel and logistics\" costs amid higher oil prices.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/amazon-adds-3-5-surcharge-for-sellers-offset-oil-prices-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-81e4-a9b7-dfe0b6e4f720",
-      "title": "Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices",
-      "summary": "With the Iran war now in its fifth week, Amazon said it's adding a 3.5% fuel and logistics surcharge for third-party sellers in the U.S. and Canada.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-03",
-      "link": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html"
-    },
-    {
-      "id": "33603df8-2d23-81ee-8073-f10de01d584c",
-      "title": "ElevenLabs releases a new AI-powered music-generation app",
-      "summary": "ElevenMusic lets users create and remix songs using text prompts. The new app suggests ElevenLabs wants to be more than just a voice model company.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-03",
-      "link": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/"
-    },
-    {
-      "id": "33603df8-2d23-8159-8001-c22c1bed7cdf",
-      "title": "OpenAI just bought tech talk show TBPN: 'This is not an April Fools joke'",
-      "summary": "OpenAI wants a bigger voice in the AI discourse. TBPN is a two-man talk show that's gone viral in Silicon Valley.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/openai-acquires-tbpn-tech-talk-show-in-media-push-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-81d4-b4bf-ff4be3a793b7",
-      "title": "Anthropic ‘Mythos’ Model Signals New Era of AI Cybersecurity Risks",
-      "summary": "The cybersecurity field is buzzing about an upcoming Anthropic AI model that could be used by hackers to “exploit [security] vulnerabilities in ways that far outpace the efforts of defenders,” according to a draft blog post the company mistakenly made public.Anthropic has been briefing cybersecurity",
-      "source": "The Information",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theinformation.com/articles/anthropic-mythos-model-signals-new-era-ai-cybersecurity-risks"
-    },
-    {
-      "id": "33603df8-2d23-81d4-bc2b-ce0d70502e88",
-      "title": "A new weight-loss pill is here. Here's how Foundayo compares to Wegovy, Zepbound, and other GLP-1 rivals.",
-      "summary": "The FDA has approved Foundayo, a new weight-loss pill that could give Eli Lilly an edge over other drugmakers. Here's how it compares to other GLP-1s.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/foundayo-vs-zepbound-wegovy-rybelsus-cost-insurance-side-effects-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-8118-926a-fedad4439bcf",
-      "title": "Your Art Can Go in This San Francisco Alley",
-      "summary": "A trio of tech pranksters have launched a website where you can submit artwork and vote on which pieces belong in the final design. Of course, AI will scan for dick pics.",
-      "source": "Wired",
-      "publishTime": "2026-04-03",
-      "link": "https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/"
-    },
-    {
-      "id": "33603df8-2d23-81c0-8c70-ee4fb491867d",
-      "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
-      "summary": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
-      "source": "Wired",
-      "publishTime": "2026-04-03",
-      "link": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/"
-    },
-    {
-      "id": "33603df8-2d23-8110-b2a7-f6d9d192e533",
-      "title": "Five questions for the guys who made a compass that points to the Times Square Olive Garden",
-      "summary": "Here's a question almost nobody is asking: how do you get to the Times Square Olive Garden? Well, these beautiful weirdos are answering it - the team that made the Times Square Olive Garden compass. If that's not clear enough, let me explain. They're making a compass that points you exclusively in t",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden"
-    },
-    {
-      "id": "33603df8-2d23-8161-af6a-e60b7d5de57a",
-      "title": "NASA astronauts prove that sending an email really is rocket science",
-      "summary": "NASA Artemis II commander Reid Wiseman faced the most earthly possible conflict while in outer space: his Outlook wasn't working.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-03",
-      "link": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/"
-    },
-    {
-      "id": "33603df8-2d23-811c-a644-ec6765611450",
-      "title": "Elon Musk is about to be a very busy boy!",
-      "summary": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case. Based on the April […]",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla"
-    },
-    {
-      "id": "33603df8-2d23-810a-9660-c94cc9170139",
-      "title": "OpenAI Buys TBPN",
-      "summary": "OpenAI has acquired TBPN, the popular tech news talk show that has become a hit over the last year with an enthusiastic embrace of AI and Silicon Valley. OpenAI didn’t say how much it had paid for TBPN, which was reportedly on track for $60 million in revenue this year. TBPN ...",
-      "source": "The Information",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theinformation.com/briefings/openai-buys-tbpn"
-    },
-    {
-      "id": "33603df8-2d23-8181-8d99-dcf807b750b8",
-      "title": "Here's What Can Happen When the US Bombs Iran's Nuclear Sites",
-      "summary": "As strikes continue on Iran’s nuclear facilities, the real danger isn’t the explosion, but what happens if critical safety systems fail—and how that risk could spread across the Gulf.",
-      "source": "Wired",
-      "publishTime": "2026-04-03",
-      "link": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/"
-    },
-    {
-      "id": "33603df8-2d23-815f-9f5c-fcd1511a70dd",
-      "title": "Millions of student-loan accounts are being transferred to the Treasury. There's a new push to slam the brakes.",
-      "summary": "Sen. Elizabeth Warren wants to know if Trump's plan to transfer the federal student-loan portfolio to the Treasury is in borrowers' best interest.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/student-loan-borrowers-transferring-to-treasury-new-pushback-elizabeth-warren-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-8118-9e09-c268108a6dd8",
-      "title": "Paramount just hired a former Google exec to help level up its tech",
-      "summary": "Paramount is hiring an accomplished tech exec to help bolster its advertising tech and product. Read the full memo from Paramount's product chief.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/paramount-hires-former-google-exec-hugh-williams-ad-tech-product-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-8183-b43c-fd9ebf4af131",
-      "title": "OpenAI just bought TBPN",
-      "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn"
-    },
-    {
-      "id": "33603df8-2d23-810a-a3d3-f4604bdc3f79",
-      "title": "Verge subscribers: Join us for a movie night in New York City, hosted by The Vergecast",
-      "summary": "The Vergecast is hosting a special in-person screening of Sneakers in partnership with IFC Center in New York City, and we're opening presale tickets exclusively to Verge subscribers. Sneakers is a movie about what happens when technology becomes more powerful than our ability to control it. It's ab",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/podcast/905524/vergecast-subscribers-movie-night"
-    },
-    {
-      "id": "33603df8-2d23-813e-8a25-ece001de1c56",
-      "title": "CMO Insider: A destination for marketing leadership and innovation",
-      "summary": "CMO Insider presents profiles, case studies, and personal perspectives to inspire and inform marketing leaders as they build and grow their brands.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/cmo-insider-marketing-leaders"
-    },
-    {
-      "id": "33603df8-2d23-8106-82df-da9189789052",
-      "title": "What Oracle offered in severance to laid-off US employees",
-      "summary": "Oracle is providing severance packages of up to 26 weeks for US-based employees impacted by layoffs.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/what-oracle-offered-in-severance-to-laid-off-us-employees-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-812d-9642-dd1199088e0d",
-      "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
-      "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
-      "source": "Wired",
-      "publishTime": "2026-04-03",
-      "link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/"
-    },
-    {
-      "id": "33603df8-2d23-8133-a029-f82f02a7fa09",
-      "title": "Jack Dorsey says he wants 6,000 Block employees reporting straight to him",
-      "summary": "Jack Dorsey is waging a war on middle managers. He said his \"ideal case\" was personally managing all 6,000 Block employees.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/jack-dorsey-all-6000-employees-reporting-ceo-middle-managers-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-8196-91bc-feff270381f7",
-      "title": "2026 年 3 月汽车销量 / 交付榜出炉：上汽集团销售整车 37.6 万辆位居榜首",
-      "summary": "IT之家 4 月 3 日消息，2026 年 3 月汽车销量 / 交付数据现已陆续公布，其中上汽集团销售整车 37.6 万辆位居榜首，也是中国汽车行业第一季度唯一突破百万销量的车企，其余多家新势力车企均有亮眼表现。IT之家汇总 2026 年 3 月汽车销量 / 交付榜单如下（包含目前已公布的车企，小米汽车仅公布了“超 2 万”这一数据，因此按照 2 万进行了排序，不代表最终真实排名）：车企 / 品牌销量 / 交付量子品牌销量备注上汽集团37.6 万辆上汽乘用车：超 9.1 万辆2026 年 1-3 月累计销售 97.3 万辆，累计零售 100.8 万辆。中国汽车行业第一季度唯一突破百万销量的车企",
+      "id": "33703df8-2d23-811e-a475-c4a3145014c7",
+      "title": "英伟达在 RTX 5090 显卡上 4K@80 FPS 演示《巫师 4》游戏 RTX 植被系统",
+      "summary": "IT之家 4 月 3 日消息，英伟达游戏开发者（NVIDIA Game Developer）昨日（4 月 2 日）发布深度解析视频，在《巫师 4》游戏中，进一步展示了 RTX Mega Geometry 植被系统，可以在 RTX 5090 显卡上以 4K 分辨率、80 FPS 运行。IT之家注：RTX Mega Geometry 是英伟达开发的渲染技术，能高效处理超大规模几何场景，支持游戏实时渲染数十亿甚至万亿级三角形，通过优化实例管理，在保持极高几何细节的同时维持流畅帧率。英伟达工程高级总监 Martin Stich 在视频中，详细介绍了这项基于现有 Mega Geometry API 构建",
       "source": "IT之家",
       "publishTime": "2026-04-03",
-      "link": "https://www.ithome.com/0/935/529.htm"
+      "link": "https://www.ithome.com/0/935/694.htm"
     },
     {
-      "id": "33603df8-2d23-812d-94a5-c0a2ba240fbc",
-      "title": "Microsoft takes on AI rivals with three new foundational models",
-      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-      "source": "TechCrunch",
+      "id": "33703df8-2d23-8100-b9f0-c867df9640d3",
+      "title": "蔚来全新 ES8 完成第 9 万台新车交付，历时 195 天",
+      "summary": "IT之家 4 月 3 日消息，蔚来今日宣布，在合肥新桥产业园蔚来体验中心，蔚来全新 ES8 完成了第 90,000 台新车交付。自 2025 年 9 月 21 日开启交付以来，全新 ES8 历时 195 天达成第九万台新车交付里程碑。2026 年 3 月，全新 ES8 完成 16,255 台新车交付，连续三个月斩获 40 万元以上车型销量第一。2026 年 1-2 月，连续两个月登顶合肥全市场不分车身形式、不分能源形式、不分价格区间的车型销量冠军；合肥每售出三台大型 SUV，就有两台全新 ES8。IT之家注意到，全新蔚来 ES8 纯电 SUV 于 2025 年 9 月 20 日晚正式上市，售价",
+      "source": "IT之家",
       "publishTime": "2026-04-03",
-      "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
+      "link": "https://www.ithome.com/0/935/679.htm"
+    },
+    {
+      "id": "33703df8-2d23-8102-8a99-ed37788dfc1f",
+      "title": "哈勃望远镜意外观测到彗星 C/2025 K1（ATLAS）解体完整过程",
+      "summary": "IT之家 4 月 3 日消息，科技媒体 Golem 昨日（4 月 2 日）发布博文，报道称哈勃太空望远镜意外观测到彗星 C/2025 K1（ATLAS）解体的完整过程，这在天文学观测史上极为罕见。哈勃太空望远镜原本计划观测另一个目标，却意外记录下了彗星 C/2025 K1（ATLAS）解体的全过程。这类解体天文事件通常在发生数周或数月后才被察觉，而此次观测几乎与事件同步，为科学家提供了前所未有的研究素材。IT之家援引博文介绍，彗星 C/2025 K1（ATLAS）直径约 8 公里，在解体前刚刚经过轨道上距离太阳最近的点，巨大的热量和机械应力导致其内部结构崩溃。高分辨率图像显示，彗星并非一次性破",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/670.htm"
+    },
+    {
+      "id": "33703df8-2d23-8147-924f-fd93ac4f6fa0",
+      "title": "绿联与宁德新能源科技达成战略合作，围绕“新国标电芯”展开合作",
+      "summary": "IT之家 4 月 3 日消息，今日，绿联科技宣布与电芯制造商 ATL（宁德新能源科技有限公司）正式建立战略合作关系，共同签署电芯采购协议。双方将围绕“满足新国标的合规电芯”展开深度合作，共同推动移动电源安全标准升级。公告称，ATL 是全球消费电子电池领域的领先者，其电芯以高能量密度、高稳定性和长循环寿命著称，广泛应用于一线手机、笔记本品牌；双方共同作为移动电源新国标起草单位之一，同时是深耕充电领域十余年的品牌。双方对移动电源安全的理解高度一致，这促成了绿联与 ATL 的深度绑定。基于这一共识，双方正式达成长期战略合作，致力于为用户带来更安全、更高效的充电体验。IT之家注意到，强制性国家标准《移",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/669.htm"
+    },
+    {
+      "id": "33703df8-2d23-8154-8216-fdb6c7ac81b5",
+      "title": "Japan's Sakura Internet jumps 20% as Microsoft plans $10 billion AI push with SoftBank",
+      "summary": "Microsoft said it plans to invest $10 billion in Japan between 2026 and 2029 to build AI infrastructure.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-03",
+      "link": "https://www.cnbc.com/2026/04/03/sakura-internet-microsoft-ai-japan-softbank-investment.html"
+    },
+    {
+      "id": "33703df8-2d23-8106-85ef-ce241856cf62",
+      "title": "Booking.com Promo Codes and Deals: Up to 20% Off",
+      "summary": "Enjoy big savings on your next adventure with our Booking.com coupons and handpicked travel deals.",
+      "source": "Wired",
+      "publishTime": "2026-04-03",
+      "link": "https://www.wired.com/story/booking-com-promo-code/"
+    },
+    {
+      "id": "33703df8-2d23-810e-9c9e-d95d26ab71d8",
+      "title": "30% Off Samsung Promo Code | April 2026",
+      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "source": "Wired",
+      "publishTime": "2026-04-03",
+      "link": "https://www.wired.com/story/samsung-promo-codes/"
+    },
+    {
+      "id": "33703df8-2d23-811a-ac0e-f1dd476ffbea",
+      "title": "Castlery Promo Code: Save Up to 15% in April 2026",
+      "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
+      "source": "Wired",
+      "publishTime": "2026-04-03",
+      "link": "https://www.wired.com/story/castlery-promo-code/"
+    },
+    {
+      "id": "33703df8-2d23-8148-90e3-f17861c9eee1",
+      "title": "30% Off Skullcandy Coupon Codes | April 2026",
+      "summary": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
+      "source": "Wired",
+      "publishTime": "2026-04-03",
+      "link": "https://www.wired.com/story/skullcandy-discount-code/"
+    },
+    {
+      "id": "33703df8-2d23-8166-98c0-fe18b7bd3137",
+      "title": "50% Off Home Depot Promo Codes | April 2026",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this April.",
+      "source": "Wired",
+      "publishTime": "2026-04-03",
+      "link": "https://www.wired.com/story/home-depot-promo-code/"
+    },
+    {
+      "id": "33703df8-2d23-817a-a209-fdaa82113709",
+      "title": "25% Off Dyson Promo Code | April 2026",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "source": "Wired",
+      "publishTime": "2026-04-03",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/"
+    },
+    {
+      "id": "33703df8-2d23-8187-94e9-fdb6b9a059b0",
+      "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
+      "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
+      "source": "Wired",
+      "publishTime": "2026-04-03",
+      "link": "https://www.wired.com/story/hellofresh-coupon/"
+    },
+    {
+      "id": "33703df8-2d23-818e-a667-f0ba84e7a969",
+      "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
+      "summary": "Chinese chip companies have benefited from strong domestic demand for AI as U.S. tech curbs have bolstered local firms.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-03",
+      "link": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html"
+    },
+    {
+      "id": "33703df8-2d23-81be-a289-ef376283b81b",
+      "title": "$20 Chewy Promo Code | April 2026",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more April 2026 discounts.",
+      "source": "Wired",
+      "publishTime": "2026-04-03",
+      "link": "https://www.wired.com/story/chewy-promo-code/"
+    },
+    {
+      "id": "33703df8-2d23-81dc-8bf0-d56927e06f14",
+      "title": "双人动作冒险游戏《双影奇境》国行版上线，首发价 198 元",
+      "summary": "IT之家 4 月 3 日消息，今天起，《双影奇境》国行版游戏正式上线，登陆 PlayStation5 / 咪咕快游 / WeGame / 华硕大厅全平台，首发价 198 元，支持一人购买双人同玩。 《双影奇境》于去年 9 月通过了进口游戏审批，包含客户端、游戏机（PS5）游戏、复合载体版本。这部由《双人成行》开发商打造的双人合作游戏于去年 3 月 6 日登陆 PS5、Xbox Series 以及 PC 平台，发售 2 天内销量突破 100 万份。IT之家从官方披露消息获悉，截至去年 5 月，《双影奇境》销量已突破 400 万份。这款游戏支持本地合作、在线合作、跨平台联机，游戏将融合科幻和奇幻元",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/667.htm"
+    },
+    {
+      "id": "33703df8-2d23-8108-9c54-c9f0f07642dc",
+      "title": "小米推出 Xiaomi MiMo Token Plan：提供四档套餐，每月 39 元起",
+      "summary": "IT之家 4 月 3 日消息，小米今日官宣推出 Xiaomi MiMo Token Plan，统一 Credit 点数体系，按 token 使用量换算 credit 消耗量。MiMo-V2-Omni 256k 上下文：1x（消耗 1 Token = 1 Credit）MiMo-V2-Pro 256k 上下文： 2x（消耗 1 Token = 2 Credits）MiMo-V2-Pro 256k~1M 上下文： 4x（消耗 1 Token = 4 Credits）MiMo-V2-TTS：0x（限时免费，不消耗 Credit）此外，MiMo Token Plan 无 5 小时 token 使用限额",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/666.htm"
+    },
+    {
+      "id": "33703df8-2d23-81c4-836c-dd1e4fe06b76",
+      "title": "倍思卡片磁吸 Air 开启预约：299 元，号称首个航天级安全充电宝",
+      "summary": "IT之家 4 月 3 日消息，今天午间，Baseus 倍思官微宣布，“首个航天级安全充电宝”倍思卡片磁吸 Air 正式开启预约，售价为 299 元。京东倍思卡片磁吸 Air 充电宝 299 元直达链接根据介绍，这款充电宝符合 2026 最新国标，完成了极限针刺、重力挤压、极限温度等多项测试，可承受 2 吨挤压，且针刺 3 次不起火。其提供星河银、星际黑、天蓝色三款配色，厚度仅为 6.9mm，首发冰川温控矩阵，散热面积提升 50%，搭载新国标固液混合电芯。同时，其支持 NFC 碰一碰显示电池状态。这款充电宝还搭载 AI 算法传感器，当手机磁吸在充电宝且连接充电线时，即可自动以最大 22.5W 的",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/665.htm"
+    },
+    {
+      "id": "33703df8-2d23-8188-b1ec-c16dd21eb976",
+      "title": "Jack Dorsey says Block employees now bring prototypes — not slide decks — to meetings",
+      "summary": "Jack Dorsey said the prototypes — built on either simulated or real data — have more \"depth and realism\" than a slide deck ever could.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-03",
+      "link": "https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4"
+    },
+    {
+      "id": "33703df8-2d23-8126-b52a-ffff3c3ec805",
+      "title": "雷军宣布小米大模型达成新里程碑：MiMo 调用量超 1 万亿 Token",
+      "summary": "IT之家 4 月 3 日消息，今天午间，小米创办人、董事长兼 CEO 雷军在微博上分享一个好消息：昨天，MiMo 大模型调用量超过了 1 万亿 Token（词元），这是小米在大模型领域一个新的里程碑。而在 3 月 31 日，雷军还分享了 MiMo-V2-Pro 大模型最新“战绩”。在大模型权威评测榜单 Text Arena，MiMo-V2-Pro 凭借在复杂逻辑推理、长指令遵循及多轮对话中的稳定表现，在 Model Rank 维度成功突破全球前五。同时，在衡量实验室综合研发实力的 LabRank（实验室排名）维度，Text Arena（ArenaExpert）小米排全球第四，Code Aren",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/663.htm"
+    },
+    {
+      "id": "33703df8-2d23-81e9-8851-f3e9087fb91d",
+      "title": "A C-Suite executive at Pop Mart's biggest Chinese competitor explains what goes into making a hit toy like Labubu",
+      "summary": "Miniso's operating chief said that for a character to be a hit, it has to look distinctive and not generic.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-03",
+      "link": "https://www.businessinsider.com/miniso-robin-liu-pop-mart-labubu-recognizable-top-toy-2026-4"
+    },
+    {
+      "id": "33703df8-2d23-8120-b7c6-d3347eccfb85",
+      "title": "Shahed-killing interceptor drones may look simple, but building them to keep up with the threat isn't easy",
+      "summary": "Interceptors might look simple, but drone makers say they're deceptively sophisticated, with small tweaks sometimes making a life-or-death difference.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-03",
+      "link": "https://www.businessinsider.com/interceptor-drone-iran-ukraine-war-how-build-constant-balancing-act-2026-4"
+    },
+    {
+      "id": "33703df8-2d23-81ba-a32f-c5ccf29f91f7",
+      "title": "消息称印度 AI 企业 Sarvam 启动新一轮融资，英伟达、亚马逊预计参与",
+      "summary": "IT之家 4 月 3 日消息，彭博社在北京时间今日凌晨的一份报道中提到，印度 AI 初创企业 Sarvam 正以 15~15.5 亿美元（IT之家注：现汇率约合 103.42 ~ 106.87 亿元人民币）的估值进行新一轮融资，计划筹集 3~3.5 亿美元（现汇率约合 20.68 ~ 24.13 亿元人民币）。匿名消息人士表示，Sarvam 此次融资的领投方预计为 Bessemer Venture Partners，英伟达、亚马逊和 Prosperity7 Ventures 也将参与其中。其当前融资轮最早可能在下周完成。Sarvam 今年 2 月推出了 Sarvam 30B 和 Sarvam ",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/662.htm"
+    },
+    {
+      "id": "33703df8-2d23-8161-99e8-c3d2bee1b376",
+      "title": "魏建军于东来合体直播：长城明年发布 V8 混动超跑，还有 GT3 级别赛车",
+      "summary": "IT之家 4 月 3 日消息，长城汽车董事长魏建军与胖东来创始人于东来 4 月 2 日在河北保定首次线下会面。魏建军在直播中透露，长城明年发布 V8 混动超跑（八缸混动），还要出一种量产改装的场地冲刺赛车（GT3 级别赛车）。魏建军特意邀请于东来试驾坦克 700，试驾过程中，于东来在测试场内将车辆时速提升到了 200 公里。于东来还在直播中透露，将原计划采购的 20 台雷克萨斯 GX550 改为长城坦克 700 作为高管配车。“你新上市那个 700，我前天订了 20 台。我跟你说吧，我原来是要买这个 X5 的，这是我给高管发的，后来我看了咱们的 700 以后，我说大家先开这个吧。”魏建军还表示",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/661.htm"
+    },
+    {
+      "id": "33703df8-2d23-81a5-9221-fadd10294ff7",
+      "title": "Uber drivers: Your boss knows you're using Tesla's FSD on the job",
+      "summary": "Uber CEO Dara Khosrowshahi said the ride-hailing company would \"love\" to add Tesla to its network of robotaxi partnerships.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-03",
+      "link": "https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-drivers-use-tesla-fsd-2026-4"
+    },
+    {
+      "id": "33703df8-2d23-8192-806a-cca2c9c1a8d5",
+      "title": "I'm an entrepreneur working in Japan. The office culture has reshaped how I think about dressing for work.",
+      "summary": "Working in Japanese offices reshaped how Fernando Lira understands professional dress, hierarchy, and credibility.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-03",
+      "link": "https://www.businessinsider.com/work-abroad-japanese-office-dress-code-expectations-business-japan-entrepreneur-2026-4"
+    },
+    {
+      "id": "33703df8-2d23-8193-ab7b-dab2df1b2175",
+      "title": "C-suite execs are paying surgeons big money to look fresh-faced, approachable, and less irritable",
+      "summary": "C-suites want to look young and full of energy to show that they are fit for the job. They're paying plastic surgeons good money to achieve the look.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-03",
+      "link": "https://www.businessinsider.com/plastic-surgery-c-suite-executives-beauty-trends-look-younger-2026-4"
+    },
+    {
+      "id": "33703df8-2d23-810e-9eff-dfbe86217bae",
+      "title": "智元官宣“AI 发布周”4 月 7 日启幕：每个工作日都会发布物理 AI“王炸”突破",
+      "summary": "IT之家 4 月 3 日消息，今天上午，@智元AGIBOT 宣布，“智元 AI 发布周”（AGIBOT AI Week）将于 4 月 7 日-14 日启动。这场为期一周的集中发布，将是智元在具身智能领域 AI 自研成果的一次密集亮相，旨在推动全行业加速物理 AI 的进化。发布周期间，智元将每日解锁一项核心技术突破，六天时间完整展开智元在物理 AI 方面的能力版图，攻克行业“技术拼凑、落地断层”的普遍痛点，为具身智能产业发展建设 AI 能力基础设施，推动具身智能飞轮运转。根据介绍，智元在这期间的每个工作日都会扔出一项项物理 AI 的“王炸”突破。据IT之家此前报道，今年 3 月 30 日，智元机",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/660.htm"
+    },
+    {
+      "id": "33703df8-2d23-8131-bef7-d183ed29ce33",
+      "title": "微软复盘 PowerShell 7.6 发布延期：承认流程缺陷，将重构提速",
+      "summary": "IT之家 4 月 3 日消息，微软于 4 月 1 日发布博文，针对 PowerShell 7.6 版本（3 月 18 日发布）延迟情况，公开说明此次发布延期的详细复盘报告，承认打包系统变更、合规要求及假期冻结等因素导致。微软高级产品经理 Jason Helmick 在官方博客中，解释了本次延期的复杂原因，其中最主要原因是发布流程本身极其复杂，每次发布需覆盖 8 种操作系统、4 种架构及 29 个安装包，累计运行测试近 29 万次。IT之家援引博文介绍，本次延期可以追溯到 2025 年 10 月，由于某个预览版更新意外破坏了 Alpine 版本构建，随后 11 月又突增非 Windows 平台合",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/658.htm"
+    },
+    {
+      "id": "33703df8-2d23-81e7-b3ac-e43105936665",
+      "title": "一汽-大众全新纯电 SUV 官方谍照发布，预计为 ID.AURA 首款车型",
+      "summary": "IT之家 4 月 3 日消息，一汽-大众今日发布全新纯电 SUV“驰骋冰雪”视频，展示了其伪装谍照。据易车报道，该车系 ID.AURA 首款车型，基于全新 CEA 电子电气架构打造，搭载全新智能化科技、三电技术与设计 DNA，将于 2026 年 4 月 21 日正式亮相，下半年正式上市。尽管目前新车仍覆盖着严密的伪装贴纸，但其全新设计语言已初露端倪。从谍照中可隐约看出，车头配备方形灯组，线条利落硬朗；侧面视角下，修长的车身线条搭配跨界风格造型。新车车顶搭载了激光雷达，有望支持辅助驾驶功能。去年 4 月，大众旗下软件科技公司 CARIAD 中国与地平线共同成立的合资公司酷睿程 CARIZON 开",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/657.htm"
+    },
+    {
+      "id": "33703df8-2d23-8161-807f-d396e77e2e21",
+      "title": "电力设备匮乏，美国 2026 年近半数新建数据中心面临延期或取消",
+      "summary": "IT之家 4 月 3 日消息，彭博社在一篇发布于北京时间 4 月 1 日的报道中预测，今年计划在美国兴建的数据中心中将有近一半会延期或取消，而这其中的关键原因是变压器、开关、储能电池等电力设备的短缺。市场情报公司 Sightline Climate 的分析师表示，如果一切按计划进行，美国今年将有 12GW 规模的数据中心投入运营，但目前仅有 1/3 的项目正在建设中。图源：PixabayCrusoe 能源和基础设施负责人 Andrew Likens 表示，尽管电力设备在全部建设开支中的占比不到 10%，但作为一项“基础设施”，如果其供应链中的一个关键出现延误则整个项目都无法完成。为应对电力设备",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/656.htm"
+    },
+    {
+      "id": "33703df8-2d23-8170-96bf-fb5af5a7004e",
+      "title": "OPPO 120W 超能舱超级闪充移动电源 15000 官宣，已通过新国标验收",
+      "summary": "IT之家 4 月 3 日消息，OPPO 今日官宣 2026 移动电源新国标电芯已全部通过新国标验收，包括针刺、挤压、热箱、老化等实验项目，并支持软件查看电芯状态。此外，“OPPO 冰盾安全电芯”将首发搭载 OPPO 120W 超能舱超级闪充移动电源 15000，现已开启新品预约。IT之家注意到，强制性国家标准《移动电源安全技术规范》今日公开发布，将于 2027 年 4 月 1 日实施。新标准明确提升移动电源在高温、过充、挤压等滥用场景下的安全防护能力；新增循环老化后析锂检测，降低移动电源长期使用后的内部短路风险；产品应具备异常信息存储与读取功能，保障消费者知情权；产品需标注专属“身份证号码”，",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/655.htm"
+    },
+    {
+      "id": "33703df8-2d23-814a-82e1-f8ff43093232",
+      "title": "AI 搜索引擎 Perplexity 遭集体起诉，隐身模式被指形同虚设",
+      "summary": "IT之家 4 月 3 日消息，科技媒体 Ars Technica 今天（4 月 3 日）发布博文，报道称 AI 搜索引擎 Perplexity 遭遇集体诉讼，被指控其“隐身模式”形同虚设，将用户聊天记录完整共享给谷歌和 Meta 以投放广告。这起集体诉讼由一名匿名用户发起，指控 Perplexity 存在严重隐私侵犯行为，其“隐身模式”被指完全是个骗局。诉状显示，无论用户是否登录账户或开启隐私保护，其对话内容都会被完整共享给谷歌和 Meta，所谓的隐私保护功能并未发挥任何实质作用。IT之家援引博文介绍，调查发现，Perplexity 在平台中嵌入了 Facebook Meta Pixel、Go",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/654.htm"
+    },
+    {
+      "id": "33703df8-2d23-816f-a6a0-f97b386e8ceb",
+      "title": "吉利第四代博越 L 小蓝灯版车型上市，限时价 11.99 万元",
+      "summary": "IT之家 4 月 3 日消息，吉利第四代博越 L 小蓝灯版车型今日正式上市，指导价 12.99 万元，限时价 11.99 万元。第四代博越 L 小蓝灯版首任车主可享 5 年 NOA 高速高架领航辅助驾驶功能服务、3 年免费娱乐流量。吉利第四代博越 L 小蓝灯版新增车色“晴山蓝”，搭载千里浩瀚辅助驾驶 H3 方案，配备智驾“小蓝灯”。该车配备 3 颗毫米波雷达、11 颗高感知摄像头及 128TOPS 算力芯片，支持高速 NOA、多场景智能泊车辅助、全维度主动安全防护等。IT之家注意到，该车的其余配置与原版基本一致，目前在售的第四代博越 L 已于 2025 年 5 月上市，市场指导价 9.99 万",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/653.htm"
+    },
+    {
+      "id": "33703df8-2d23-8126-b4fa-fcc80bd4bfd4",
+      "title": "Astronauts on Artemis II ran into a problem every office worker recognizes",
+      "summary": "Artemis II zoomed past Earth's atmosphere without a hitch. Then came the real challenge: opening Microsoft Outlook.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-03",
+      "link": "https://www.businessinsider.com/artemis-astronauts-microsoft-outlook-accessing-email-nasa-mission-control-problem-2026-4"
+    },
+    {
+      "id": "33703df8-2d23-810f-a027-ce6fd9e9861d",
+      "title": "IT之家 iOS / 安卓版 9.26 更新：支持文章节选海报分享，看图优化（鸿蒙版预告）",
+      "summary": "各位老哥们中午好，IT之家客户端 iOS / 安卓版今日迎来 9.26 小更新，新版本继续优化细节体验，敬请下载升级！[抱拳]本次更新主要包含以下改进点：❶ 支持文章节选海报分享。在文章中选中您要分享的文本片段，在弹出的菜单中点击分享即可生成该节选内容海报供您下载或分享；❷ 图片查看器优化。iOS 端图片放大时，自动隐藏底部工具栏以避免图片内容被遮挡；安卓端查看 Live 图时默认静音，可点击按钮切换声音；除此之外，还有其他一些细节改进和问题修正，详细更新历史参考下方。目前 iOS 最新版本已在应用商店上架；安卓版各商店已提交待审，现可通过 App 内更新升级。鸿蒙版预告：悬浮底栏、沉浸光感特",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/652.htm"
+    },
+    {
+      "id": "33703df8-2d23-81ff-9c66-faa27d60e889",
+      "title": "蔚来汽车：firefly 萤火虫将于 4 月 7 日发布焕新升级车型",
+      "summary": "IT之家 4 月 3 日消息，蔚来旗下 firefly 萤火虫宣布，firefly 萤火虫焕新升级发布会将于 4 月 7 日举行。据悉，针对此轮焕新升级，官方将会持续为现有车主提供升级方案，确保车主有渠道拉齐焕新款的产品体验。官方暂未披露升级内容，IT之家将持续关注。自 2025 年 4 月 29 日开启首批交付以来，firefly 萤火虫历时 11 个月，在今年 3 月下旬正式达成 5 万台交付。firefly 萤火虫长宽高 4003*1781*1557mm，轴距 2615mm，配备标准续航 42kWh 电池，CLTC 综合续航里程 420km。此外，该车配备 105kW 永磁同步电机（后驱",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/651.htm"
+    },
+    {
+      "id": "33703df8-2d23-8130-a168-c6908bc457f7",
+      "title": "LG UltraGear evo 39GX950B-B 显示器更多参数确认，有望近期发售",
+      "summary": "IT之家 4 月 3 日消息，LG 电子去年曾公布了全球首款 39 英寸 5K2K OLED 显示器 LG UltraGear evo 39GX950B-B。随着该型号上线 LG 电子加拿大官网，更多规格信息得到确认。39GX950B-B 基于一块 1500R 曲率的第四代 Tandem OLED 面板，峰值亮度可达 1500nits，通过 VESA DisplayHDR True Black 500 认证。其支持 5120×2160 165Hz 与 2560×1080 330Hz 双模切换，色域覆盖 99.5% DCI-P3。39GX950B-B 搭载“免 GPU”端侧 AI 超分辨率解决方",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/649.htm"
+    },
+    {
+      "id": "33703df8-2d23-81e7-ae3a-ca2a3b465a22",
+      "title": "英伟达 RTX 3060 等显卡遭遇新型“锤击”威胁，黑客可接管你的电脑",
+      "summary": "IT之家 4 月 3 日消息，科技媒体 Ars Technica 今天（4 月 3 日）发布博文，报道称研究人员发现针对英伟达显卡的 2 种 Rowhammer 攻击方式，成功突破 GPU 显存隔离，获取 CPU 内存完整读写权限，最终完全控制用户电脑。IT之家曾于 2025 年报道，英伟达为了防范 Rowhammer 攻击，推荐用户激活系统级错误纠正码（ECC）缓解措施，通过添加冗余位来保持数据的完整性，维护数据的可靠性和准确性。Rowhammer 攻击是通过高频访问显存引发电扰动，控制相邻数据位在 1 和 0 之间变换，从而改变显存中的信息，可能导致服务拒绝、数据损坏甚至权限提升等。Row",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/648.htm"
+    },
+    {
+      "id": "33703df8-2d23-813d-b93f-dcc97f2223bf",
+      "title": "我国太原钢铁集团牵头突破高温超导带材关键基材技术",
+      "summary": "IT之家 4 月 3 日消息，据太原日报报道，国家发展改革委近期陆续刊发现代服务业高质量发展典型案例。在 3 月 26 日刊发的《山西：两业融合驱动传统钢铁产业提质升级》一文中提到，太原钢铁集团牵头开展关键核心技术研发，成功突破高温超导带材关键基材技术。作为特种钢铁材料“链主”企业，太原钢铁集团牵头与高校院所、上下游企业合作，共建高水平实验室，开展关键核心技术研发，成功突破高温超导带材关键基材技术。IT之家查询获悉，中国宝武钢铁集团曾在 2025 年底发文，太钢技术中心镍基合金团队攻关再传捷报 —— 实现了核聚变产业链最关键的原材料 C276 超导基带的工业化批量交付。太钢集团自主研发的从冶炼",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/647.htm"
+    },
+    {
+      "id": "33703df8-2d23-819d-884a-dc98eba1ce11",
+      "title": "腾讯云发布“龙虾”记忆服务 Agent Memory，免费一键开启",
+      "summary": "IT之家 4 月 3 日消息，今日，腾讯云正式发布“龙虾”记忆服务 ——TencentDB Agent Memory ，为 OpenClaw 补上一层长期记忆能力。IT之家从官方介绍获悉，Agent Memory 以插件的形态无缝集成至腾讯云 Lighthouse、ClawPro 等产品中，支持免费一键开启。评测数据显示，接入该服务后，OpenClaw 的总回答准确率高达 76.10%，较原生记忆提升近 59%。腾讯云数据库团队自研 Agent Memory，引入独创的四层渐进式记忆架构：L0 原始对话：全量保存，确保原始对话信息不丢失。L1 原子记忆：自动提取事实、偏好与关键约束。L2 场景",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/639.htm"
+    },
+    {
+      "id": "33703df8-2d23-8113-8962-d9aa31610a47",
+      "title": "国际可再生能源机构报告：2025 全球光伏新增装机容量 511 吉瓦，同比增 27.2%",
+      "summary": "IT之家 4 月 3 日消息，国际可再生能源机构（IRENA）昨日（4 月 2 日）发布 2025 全球能源建设数据，指出去年全球可再生能源新增装机容量为 692 吉瓦，同比增长 15.5%，占全球总新增发电能力的 85.6%。从具体技术路线看，风电与光伏构成了增长的“双引擎”。光伏新增装机容量为 511 吉瓦，同比增长 27.2%；风电新增装机容量 159 吉瓦，同比增长 14.0%。此外水电新增 18 吉瓦，地热能和生物燃料等其他清洁能源也贡献了近 4 吉瓦的增量。IT之家附上相关报告数据如下：区域分布上，亚洲已成为无可争议的领跑者。目前全球可再生能源总装机容量已突破 5.1 太瓦，其中超",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/638.htm"
+    },
+    {
+      "id": "33703df8-2d23-81d4-b65e-cfc75452c4a1",
+      "title": "奇瑞星途 EX7 车型 4 月 17 日上市，提供纯电和增程两种动力",
+      "summary": "IT之家 4 月 3 日消息，据奇瑞官方，在 3 月 18 日开启盲订的星途 EX7 将于 4 月 17 日正式上市，消费者支付 999 元订金即可抵扣 2999 元购车款。据IT之家了解，星途 EX7 将同时提供增程和纯电两种动力版本，并首次量产搭载航空级纯机电线控制动系统（EMB），制动响应提速三倍。外观方面，EX7 采用星途最新家族化设计语言，前脸配备分体式大灯组，上部为贯穿式 LED 灯带，下部融入贯穿式镀铬装饰，形成上下呼应的流畅视觉效果。车身侧面线条饱满，配备隐藏式门把手，车身尺寸为 4988/1975/1710mm，轴距 3000mm，定位中大型 SUV 市场。车尾同样采用贯穿式",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/637.htm"
+    },
+    {
+      "id": "33703df8-2d23-8160-b139-f9d68cede346",
+      "title": "号称安卓首发，高德地图公交地铁导航接入 vivo OriginOS 小 V 建议、原子通知",
+      "summary": "IT之家 4 月 3 日消息，今天上午，vivo @OriginOS原系统 官微宣布，高德地图公交地铁导航正式接入小 V 建议、原子通知，用户可以轻松查看公共交通线路、地铁站口信息。官方更称，该功能系安卓首发。就在不久前的 3 月中旬，vivo 宣布“驾车导航”上岛，OriginOS 6 的原子通知功能新增支持高德驾车实时导航信息显示。IT之家注：原子通知 / 原子岛是 vivo / iQOO 手机的全局信息传递的窗口，可提供实时信息、服务建议以及显示系统状态变化。支持显示设备状态变化、原子通知、原子随身听、小 V 建议、拖放直达等功能。目前原子岛支持的应用如下：1、信息展示：骑行 / 步行导",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/636.htm"
+    },
+    {
+      "id": "33703df8-2d23-81f0-9436-e44ee2f2175e",
+      "title": "机械革命推出 2026 款耀世 16 Ultra 游戏本：水冷双烤 300W，OLED 屏",
+      "summary": "IT之家 4 月 3 日消息，机械革命 Mechrevo 现已上架 2026 款耀世 16 Ultra 游戏笔记本电脑。其搭载英特尔酷睿 Ultra 9 290HX Plus 处理器，可选英伟达 GeForce RTX 5070 Ti / 5080 / 5090 笔记本电脑 GPU。该机型目前提供 3 种配置，IT之家附上定价与规格：显卡处理器单烤独立显卡单烤风冷双烤水冷双烤内存存储最低到手价 **RTX 5070 Ti145W140W215W260W32GB 5600MT/s1TB PCIe Gen4 SSD14499 元RTX 5080145W175W240W300W32GB 5600MT",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/635.htm"
+    },
+    {
+      "id": "33703df8-2d23-8164-a88a-fb803480620f",
+      "title": "新型存储芯片问世：700°C 熔岩温度下稳定运行超 50 小时",
+      "summary": "IT之家 4 月 3 日消息，科技媒体 TechSpot 今天（4 月 3 日）发布博文，报道称南加州大学团队研发新型存储芯片，可在 700°C 高温下稳定运行，且未出现性能退化迹象。IT之家援引博文介绍，传统芯片在 200°C 左右便会失效，而南加州大学维特比工程学院的研究团队所研发的电子存储器件，能在 700°C 高温下依然保持稳定，这个温度相当于熔岩（约 700~1200 °C），且未出现性能退化迹象。这项突破的核心在于一种名为“忆阻器”的纳米级元件，兼具数据存储与处理功能，此外团队采用了独特的“三明治”结构设计：顶层是高熔点的钨，中间是作为陶瓷绝缘体的氧化铪，底层则是单原子层石墨烯。这",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/633.htm"
+    },
+    {
+      "id": "33703df8-2d23-81c4-ab1e-c18c4839671c",
+      "title": "卢伟冰回应小米及 REDMI 部分在售产品调价：内存涨价力度远超预期，相比去年 Q1 飙升近 4 倍",
+      "summary": "IT之家 4 月 3 日消息，小米今日发布关于 Xiaomi 及 REDMI 部分产品建议零售价调整的说明，受全球存储芯片等关键零部件价格持续大幅飙升影响，经审慎评估，将自 2026 年 4 月 11 日 0 时起调整部分在售产品的建议零售价。对此，小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰回应称：本轮内存涨价的力度确实远超预期，同版本内存价格相比去年 Q1 飙升近 4 倍。12+512 涨了约 1500 元，16+1T 更是涨得离谱，这对一直以极致性价比定价的 REDMI 产生了很大的影响。所以我们不得不对部分机型的零售价格做出小幅上涨或者恢复原价，还望大家理解在今年 3 月的 ",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/628.htm"
+    },
+    {
+      "id": "33703df8-2d23-813f-b861-c5abe280d345",
+      "title": "vivo X300 Ultra 影像漫谈：最大的变化是变化很大",
+      "summary": "它不再通过「执拗」的硬核风来彰显专业，转而寻求一种更具普适性的表达。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-04-03",
+      "link": "https://sspai.com/post/108187"
+    },
+    {
+      "id": "33703df8-2d23-8159-b1af-daf231f0fc39",
+      "title": "派早报：Google 发布 Gemma 4 开源系列模型、智谱发布 GLM-5V-Turbo 多模态模型等",
+      "summary": "Google 将强制要求所有 Wear OS 手表应用支持 64 位，中国广电联合会演员委员会就 AI 换脸与声纹克隆侵权问题发布声明等。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-04-03",
+      "link": "https://sspai.com/post/108209"
+    },
+    {
+      "id": "33703df8-2d23-813f-bd7d-da9a57864682",
+      "title": "Microsoft executive touts Copilot sales traction as AI anxiety weighs on stock",
+      "summary": "Analysts have said adoption of the $30-per-month Microsoft 365 Copilot is in the early stage.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-03",
+      "link": "https://www.cnbc.com/2026/04/02/microsoft-executive-touts-copilot-traction-after-analyst-pressure.html"
     }
   ],
   "macroEvents": [
