@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-04-03 06:04",
+  "updatedAt": "2026-04-03 08:02",
   "news": [
+    {
+      "id": "33603df8-2d23-810c-8f6f-d4a0c2ad9a9a",
+      "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
+      "summary": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-03",
+      "link": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/"
+    },
+    {
+      "id": "33603df8-2d23-816d-9cef-feb91dc47bca",
+      "title": "苹果联合发布 LGTM AI 框架：突破 4K 渲染瓶颈，提升 Vision Pro 画质",
+      "summary": "IT之家 4 月 3 日消息，科技媒体 9to5Mac 昨日（4 月 2 日）发布博文，报道称苹果研究团队联合香港大学发布最新论文，提出名为 LGTM 的全新渲染框架。IT之家援引博文介绍，该框架全称为“Less Gaussians, Texture More”，核心突破在于解耦 3D 场景的几何结构与表面纹理，让系统在保持几何形状简单的同时，通过叠加纹理层实现 4K 级超高清画质。当前主流的“前馈 3D 高斯泼溅”（Feed-forward 3D Gaussian Splatting）技术，能利用 AI 将 2D 图片快速转化为可多角度观看的 3D 场景，但在处理高分辨率画面时，随着像素增加",
+      "source": "IT之家",
+      "publishTime": "2026-04-03",
+      "link": "https://www.ithome.com/0/935/530.htm"
+    },
+    {
+      "id": "33603df8-2d23-8179-805b-daef10aa438b",
+      "title": "AO3 is finally out of beta after 17 years",
+      "summary": "Archive of Our Own (AO3) is officially exiting beta. The Organization for Transformative Works - the nonprofit behind the fanfiction site - announced the update on Thursday, which comes 17 years after AO3's launch in 2009. \"Since 2009, AO3 has grown and changed a lot,\" the announcement says. \"We've ",
+      "source": "The Verge",
+      "publishTime": "2026-04-03",
+      "link": "https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit"
+    },
+    {
+      "id": "33603df8-2d23-819d-9853-c289e9b9a875",
+      "title": "Get ready for a wave of TBPN clones after its blockbuster OpenAI deal",
+      "summary": "TBPN has inspired a set of new digital talk shows covering tech, advertising, and politics. More are on the way.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-03",
+      "link": "https://www.businessinsider.com/get-ready-for-wave-of-tbpn-clones-post-openai-deal-2026-4"
+    },
+    {
+      "id": "33603df8-2d23-81fa-a6ff-c97674b94906",
+      "title": "PSA: Anyone with a link can view your Granola notes by default",
+      "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out. Granola describes itself as ",
+      "source": "The Verge",
+      "publishTime": "2026-04-03",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa"
+    },
     {
       "id": "33603df8-2d23-8192-8aad-e772d3063f09",
       "title": "Reddit is moving on from r/all",
@@ -360,46 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-04-03",
       "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
-    },
-    {
-      "id": "33603df8-2d23-81a8-b375-e2ff15c08066",
-      "title": "Former ATF agent says he regrets his last assignment. It changed how agencies approach undercover work.",
-      "summary": "Billy Queen had been working undercover for the ATF for nearly two decades when he was given his most dangerous assignment that he regrets taking.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/ex-atf-agent-final-mission-cost-fatherhood-wasnt-ready-2026-4"
-    },
-    {
-      "id": "33603df8-2d23-81f7-a636-f0db66aefaf1",
-      "title": "Hisense’s art-inspired CanvasTV has hit a new low price",
-      "summary": "Samsung’s releasing a new version of The Frame sometime this year, though the exact date is still unknown and, based on past models, it’s likely to be pricey. If you’d rather not wait or want to save some cash, the 55-inch Hisense CanvasTV has hit a new low price of $599.99 ($400 off) at Amazon, […]",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/gadgets/905964/hisense-canvastv-deal-sale"
-    },
-    {
-      "id": "33603df8-2d23-8127-8e84-e0e5ee14d40a",
-      "title": "Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web",
-      "summary": "An exposed Amazon-hosted server allowed anyone to access reams of customer data without needing a password.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-03",
-      "link": "https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/"
-    },
-    {
-      "id": "33603df8-2d23-8105-8037-fb462fd69cdb",
-      "title": "Flipboard just launched Surf, its new social app and feed reader",
-      "summary": "Surf is a slightly hard app to explain. It's sort of three things: a client for fediverse apps like Bluesky and Mastodon; a feed reader that lets you subscribe to almost any website, podcast, or YouTube channel; and a tool for creating and following feeds of interesting content, a la Flipboard magaz",
-      "source": "The Verge",
-      "publishTime": "2026-04-03",
-      "link": "https://www.theverge.com/tech/905929/flipboard-surf-fediverse-launch"
-    },
-    {
-      "id": "33603df8-2d23-81b1-bcfe-e41182217193",
-      "title": "I've been a Costco executive member for 11 years. These are the 6 products I'll always buy there.",
-      "summary": "As an executive member who visits my local store weekly, there are several items I always buy at Costco, like baby clothes, vitamins, and towels.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-03",
-      "link": "https://www.businessinsider.com/best-things-to-buy-costco-from-executive-member-mom-2026-4"
     }
   ],
   "macroEvents": [
