@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-04-06 05:54",
+  "updatedAt": "2026-04-06 07:59",
   "news": [
+    {
+      "id": "33903df8-2d23-81e0-91b1-c22faf27a57a",
+      "title": "OpenAI 上市节奏应该更快还是更慢？CEO 奥尔特曼与 CFO 弗莱尔被曝对此存在分歧",
+      "summary": "北京时间今天（4 月 6 日）凌晨，据 The Information 披露的消息称，OpenAI CEO 奥尔特曼与 CFO 萨拉 · 弗莱尔在 IPO 推进节奏上出现分歧。奥尔特曼承诺，OpenAI 将在未来五年内投入 6000 亿美元（IT之家注：现汇率约合 4.14 万亿元人民币），并私下表示希望最快在今年第四季度上市。然而外界预测，在公司开始盈利前，OpenAI 仍将烧掉超过 2000 亿美元。幕后，弗莱尔已开始对此表达出担忧。弗莱尔更是告诉部分同事，自己认为公司 2026 年尚不具备上市条件，相关流程与组织筹备工作并未完成，同时巨额支出承诺也存在风险。她还表示，目前尚不确定 Ope",
+      "source": "IT之家",
+      "publishTime": "2026-04-06",
+      "link": "https://www.ithome.com/0/936/182.htm"
+    },
+    {
+      "id": "33903df8-2d23-81a3-87aa-fc06db2f7611",
+      "title": "欧洲企业联合推出开源办公套件 Euro-Office，对标微软谷歌办公平台",
+      "summary": "IT之家 4 月 6 日消息，在德国柏林近期举办的一场新闻发布会上，Nextcloud、Ionos 以及一个由“其他欧洲企业与社区组织组成的联盟”共同推出了 Euro-Office。该项目是 OnlyOffice 的开源分支版本，旨在为微软 Office 365、谷歌文档等限制较多的办公平台提供替代方案。Euro-Office 首个稳定版计划于今年夏季发布，其预览版本已在 GitHub 上线。项目开发团队表示，该产品致力于打造“一款可编辑文档、电子表格和演示文稿的解决方案，由十余家不同机构真正自主协作开发而成”。据IT之家了解，这款应用套件可打开并编辑微软 Office 标准格式文件，包括 D",
+      "source": "IT之家",
+      "publishTime": "2026-04-06",
+      "link": "https://www.ithome.com/0/936/181.htm"
+    },
+    {
+      "id": "33903df8-2d23-8168-8577-de4633763733",
+      "title": "薇拉 ·C· 鲁宾天文台初显神威，早期数据已发现逾 1.1 万颗未知小行星",
+      "summary": "IT之家 4 月 6 日消息，薇拉 ·C· 鲁宾天文台的早期观测数据已发现超过 11000 颗此前未知的小行星，这重塑了人类对太阳系的认知，也为其全面投入科研运行后的成果带来了令人瞩目的前瞻。美国国家科学基金会国家光学红外天文研究实验室发布声明称，这些基于初步数据的发现，印证了鲁宾天文台快速且深度巡天的能力。即便仅开展有限的早期观测，该望远镜也能在数天内探测到数千个移动天体，远超传统小行星巡天项目的效率。鲁宾天文台太阳系首席科学家马里奥 · 尤里奇在声明中表示：“这是鲁宾天文台首次巡天观测后提交的大规模成果，而这仅仅是冰山一角，也证明天文台已做好准备。过去需要数年乃至数十年才能发现的天体，鲁宾",
+      "source": "IT之家",
+      "publishTime": "2026-04-06",
+      "link": "https://www.ithome.com/0/936/180.htm"
+    },
+    {
+      "id": "33903df8-2d23-819d-81d5-c87a8d67e064",
+      "title": "Oil prices rise again as the war enters its 6th week and Trump threatens to strike Iran's power plants",
+      "summary": "Oil prices rose after President Donald Trump leveled a profanity-laden threat against Iran on Sunday.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-06",
+      "link": "https://www.businessinsider.com/oil-prices-rise-trump-threatens-iran-2026-4"
+    },
+    {
+      "id": "33903df8-2d23-8182-bc83-cc63ecda36ed",
+      "title": "Airlines are starting to cancel flights as they face jet fuel shortages and rising prices brought on by the Iran war",
+      "summary": "Jet fuel prices have spiked and supplies have dwindled as the US and Israeli war on Iran drags on, forcing some airlines to cancel flights.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-06",
+      "link": "https://www.businessinsider.com/airlines-cancel-flights-rising-jet-fuel-prices-shortage-iran-2026-4"
+    },
     {
       "id": "33903df8-2d23-81b0-95ac-dae3d8a673eb",
       "title": "I quit my corporate job at 25 to sell pizza with a friend. Now we have 9 locations.",
@@ -360,46 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-04-05",
       "link": "https://www.businessinsider.com/couple-live-with-parents-nyc-apartment-save-money-2026-4"
-    },
-    {
-      "id": "33903df8-2d23-81b5-8f02-fb2fc9cd23a8",
-      "title": "英特尔确认存档 Unity 引擎版 XeSS 插件，虚幻引擎插件仍持续更新",
-      "summary": "IT之家 4 月 5 日消息，Intel 英特尔在 3 月末正式宣布，Unity 引擎版 XeSS 插件的 GitHub 项目已被存档。英特尔不会为该项目提供开发支持或作出任何保证，包括但不限于维护、错误修复、新版本发布或更新。英特尔不再接受针对该项目的补丁。如果您仍需使用该项目，有意独立开发该项目，或希望为社区维护补丁，请自行创建该项目的分支。IT之家注意到，Unity 引擎版 XeSS 插件早就出现了要被放弃支持的迹象：其自 2025 年 3 月 26 日后一直未得到更新。与此同时，适用于虚幻引擎的 XeSS 插件 GitHub 代码库最近一次更新是在 2026 年的 3 月 25 日。除",
-      "source": "IT之家",
-      "publishTime": "2026-04-05",
-      "link": "https://www.ithome.com/0/936/150.htm"
-    },
-    {
-      "id": "33903df8-2d23-8157-8563-e0ea870491f5",
-      "title": "Best Apple Watch Bands of 2026: Nike, Hermés, and More",
-      "summary": "We've actually been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I've rounded up the best for every occasion.",
-      "source": "Wired",
-      "publishTime": "2026-04-05",
-      "link": "https://www.wired.com/story/best-apple-watch-bands/"
-    },
-    {
-      "id": "33903df8-2d23-819a-b92a-e5303938c044",
-      "title": "Grammarly’s sloppelganger saga",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly ",
-      "source": "The Verge",
-      "publishTime": "2026-04-05",
-      "link": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga"
-    },
-    {
-      "id": "33903df8-2d23-815b-bf02-dc632ff7889f",
-      "title": "Trump celebrates rescue of American airman shot down over Iran",
-      "summary": "A US airman missing after his aircraft was shot down over Iran has been rescued. President Trump said he \"sustained injuries, but he will be just fine.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-04-05",
-      "link": "https://www.businessinsider.com/trump-celebrates-rescue-of-american-airman-shot-down-over-iran-2026-4"
-    },
-    {
-      "id": "33903df8-2d23-8155-afd7-e7f685ae7341",
-      "title": "英特尔推出酷睿 Ultra 7 251HX 处理器：6P + 12E + 3Xe",
-      "summary": "IT之家 4 月 5 日消息，Intel 英特尔现已在官网上线酷睿 Ultra 7 251HX 处理器。IT之家注意到，其推出时间显示为 2026 年第 1 季度。Ultra 7 251HX 采用了 6P + 12E + 3Xe 设计，拥有 30MB 的 L2 缓存和 30MB 的 L3 缓存。其核心规格介于 Ultra 7 255HX (8P + 12E + 4Xe) 与 Ultra 5 235HX (6P + 8E + 3Xe) 之间。这款处理器性能核基本频率 2.9GHz、最大睿频 5.1GHz；能效核基本频率 2.5GHz、最大睿频 4.5GHz；GPU 最大动态频率 1.8GHz。相",
-      "source": "IT之家",
-      "publishTime": "2026-04-05",
-      "link": "https://www.ithome.com/0/936/149.htm"
     }
   ],
   "macroEvents": [
