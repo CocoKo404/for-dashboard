@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-04-07 14:07",
+  "updatedAt": "2026-04-07 18:16",
   "news": [
+    {
+      "id": "33b03df8-2d23-8178-9368-ed4e9965e1bf",
+      "title": "Linux 7.1 内核将移除“37 岁”英特尔 486 处理器支持",
+      "summary": "IT之家 4 月 7 日消息，科技媒体 Tom's Hardware 昨日（4 月 6 日）发布博文，报道称 Linux 7.1 预估合并代码调整，开始移除支持英特尔 486 处理器（1989 年 4 月发布，距今已 37 年）。这一决策并非突然，IT之家曾于 2022 年 10 月报道，“Linux 之父”Linus Torvalds 考虑从 Linux 内核中删除英特尔 i486（又名 486 或 80486）处理器的支持。他指出，“完全没有理由”继续维护 486 架构，且该遗留代码已负面影响上游内核开发。根据开发者莫尔纳（Ingo Molnar）提交的补丁，移除了 CONFIG_M486",
+      "source": "IT之家",
+      "publishTime": "2026-04-07",
+      "link": "https://www.ithome.com/0/936/526.htm"
+    },
+    {
+      "id": "33b03df8-2d23-8150-a34b-f1a2294fec25",
+      "title": "中国 2025 年对欧洲汽车出口首次突破 100 万辆大关：占比升至 7%，韩系日系停滞不前",
+      "summary": "IT之家 4 月 7 日消息，欧洲汽车制造商协会（ACEA）于当地时间 4 月 6 日发布了《2025 年度经济与市场报告》。报告显示，中国产汽车在欧盟市场所占份额已从 2022 年的 5% 上升至 7%。同期，欧盟从中国进口的汽车数量增长 30.7%，达到 1,006,188 辆，历史上首次突破百万辆大关。进口额方面，中国同样录得 137.24 亿欧元（IT之家注：现汇率约合 1090.85 亿元人民币），进一步巩固了作为欧盟最大汽车进口来源国的地位。在中国产汽车份额快速攀升的同时，韩国和日本在欧洲市场的份额则陷入停滞。去年，韩国产汽车在欧洲的市场份额为 3%，日本为 4%，均与上年持平，增",
+      "source": "IT之家",
+      "publishTime": "2026-04-07",
+      "link": "https://www.ithome.com/0/936/524.htm"
+    },
+    {
+      "id": "33b03df8-2d23-815d-bf7f-c908f92a5d89",
+      "title": "McDonald's CEO said he blames his mother for his infamous Big Arch taste test",
+      "summary": "Chris Kempczinski went viral for taking a tiny bite out of his burger, which he kept calling a \"product,\" in a February video.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-07",
+      "link": "https://www.businessinsider.com/mcdonalds-chris-kempczinski-blames-mother-viral-big-arch-taste-test-2026-4"
+    },
+    {
+      "id": "33b03df8-2d23-81c7-bb8b-cffce6b53fd8",
+      "title": "Europe Gets Serious About Age Verification Online",
+      "summary": "The search for an age-verification system that protects user data may begin and end in the EU.",
+      "source": "Wired",
+      "publishTime": "2026-04-07",
+      "link": "https://www.wired.com/story/europe-gets-serious-about-age-verification-online/"
+    },
     {
       "id": "33b03df8-2d23-816d-b6c2-f52061de2ee9",
       "title": "曜越推出 LB360 Ultra ARGB Sync 水冷：3.95\" 480p 方屏，单体风扇",
@@ -368,38 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-04-07",
       "link": "https://www.ithome.com/0/936/392.htm"
-    },
-    {
-      "id": "33b03df8-2d23-81eb-ab15-fe8e0fbf673e",
-      "title": "荣耀 WIN 游戏本官宣将于 4 月 23 日发布",
-      "summary": "IT之家 4 月 7 日消息，荣耀官方正式发布全新荣耀 WIN 游戏本定档海报，明确官宣新品发布会将于 4 月 23 日正式发布。在本次官宣定档前，荣耀 WIN 游戏本已经经历了多轮消息曝光和官方的预热，去年 12 月，荣耀 PC 产品总经理朱臣才发文透露全新游戏本即将发布，同月官方进一步明确，该产品将在 2026 年推出，且已成为《三角洲行动》职业联赛指定笔记本。2026 年 3 月，新品信息进入密集释放期。3 月 10 日，@数码闲聊站 爆料新款游戏本搭载 i7-14650HX 处理器 + RTX5060 显卡，辅以 16GB DDR5+512GB/1TB SSD 存储组合，散热配置大幅堆",
-      "source": "IT之家",
-      "publishTime": "2026-04-07",
-      "link": "https://www.ithome.com/0/936/390.htm"
-    },
-    {
-      "id": "33b03df8-2d23-81b5-b225-d848d9cb4571",
-      "title": "派早报：OpenAI 发布文章探讨 AI 时代的政策建议等",
-      "summary": "OPPO 上架 OPPO A6k，工信部发布 iOS 特定版本防范漏洞攻击利用的风险提示等。查看全文",
-      "source": "少数派",
-      "publishTime": "2026-04-07",
-      "link": "https://sspai.com/post/108326"
-    },
-    {
-      "id": "33b03df8-2d23-81d2-861f-ce32b87c9713",
-      "title": "Anthropic 称其年化收入突破 300 亿美元，将联合谷歌博通扩张 AI 算力",
-      "summary": "IT之家 4 月 7 日消息，人工智能公司 Anthropic PBC 表示，其年化收入（revenue run rate）已突破 300 亿美元（IT之家注：现汇率约合 2067.67 亿元人民币），较 2025 年末的 90 亿美元大幅增长，并确认计划与博通公司及谷歌展开合作，为其快速扩张的业务提供算力支撑。这家人工智能初创企业称，今年其 Claude 服务的需求持续攀升，已有超 1000 家企业客户年均消费超 100 万美元（现汇率约合 689.2 万元人民币）。该数据自 2 月份以来已增长逾一倍。Anthropic 首席财务官克里希纳 · 拉奥在一份声明中称，上月首次公布的与博通、谷歌",
-      "source": "IT之家",
-      "publishTime": "2026-04-07",
-      "link": "https://www.ithome.com/0/936/325.htm"
-    },
-    {
-      "id": "33b03df8-2d23-81e4-a976-f574ce1eaac2",
-      "title": "全球内存芯片短缺，苹果 Mac mini / Studio 发货严重延迟",
-      "summary": "IT之家 4 月 7 日消息，苹果中国和美国在线商店目前显示，若选择大内存容量的 Mac mini 和 Mac Studio 机型，预计配送等待时长最长可达 4-5 个月。此次供货延迟的背景是，全球内存芯片严重短缺，而短缺的主要原因是搭建 AI 服务器的企业需求激增，这类服务器对大容量内存有极高要求。举例来说，如今在美国中国和苹果官网订购搭载 M4 Pro 芯片、64GB 内存的 Mac mini，预计发货时间为 16 至 18 周。IT之家注意到，即便售价 4499 元、搭载 M4 芯片与 16GB 内存的基础款机型，也存在一个月的发货延迟。同样，配备 M3 Ultra 芯片、256GB 内",
-      "source": "IT之家",
-      "publishTime": "2026-04-07",
-      "link": "https://www.ithome.com/0/936/324.htm"
     }
   ],
   "macroEvents": [
