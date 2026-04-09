@@ -1,6 +1,190 @@
 {
-  "updatedAt": "2026-04-09 06:26",
+  "updatedAt": "2026-04-09 08:01",
   "news": [
+    {
+      "id": "33c03df8-2d23-81f7-ad41-edd8cea770f9",
+      "title": "微软发布 Harrier 系列嵌入 AI 模型，MTEB-v2 基准测试超越谷歌夺冠",
+      "summary": "IT之家 4 月 9 日消息，微软必应（Bing）团队于 4 月 7 日发布博文，宣布为满足现代 AI 智能体系统对信息处理的高标准需求，开源推出业界领先的文本嵌入模型系列 Harrier，该模型在多语言 MTEB-v2 基准测试中排名第一。IT之家注：嵌入模型是一种将文本、图像等高维数据转换为低维向量表示的技术，捕捉数据的语义特征，让相似内容在向量空间中距离更近。在 AI 领域，它是搜索引擎、推荐系统和智能体进行信息检索、语义理解和知识推理的基础组件，直接决定了系统处理信息的质量与效率。针对 AI 系统从单纯问答向执行操作转变过程中的“落地”难题，微软 Harrier 系列模型进一步提升嵌入",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/223.htm"
+    },
+    {
+      "id": "33c03df8-2d23-81ea-9b73-e8a41c910dea",
+      "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
+      "summary": "A federal appeals on denied Anthropic's request for a stay in its lawsuit against the Department of Defense.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-09",
+      "link": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html"
+    },
+    {
+      "id": "33c03df8-2d23-815b-8281-eefb4623838d",
+      "title": "冲刺 IPO 前夕，马斯克的 xAI 工程团队大换血",
+      "summary": "IT之家 4 月 9 日消息，据 Business Insider 看到的一份内部备忘录显示，在太空巨头 SpaceX 即将进行重磅 IPO 之际，埃隆 · 马斯克旗下的 xAI 正与该公司进一步深度整合，这家人工智能公司的工程团队正迎来又一次重大改组。SpaceX 高管迈克尔 · 尼科尔斯表示，公司在竞争中“明显落后”，正采取行动尽快追赶。知情人士透露，现任 SpaceX 星链高级副总裁的尼科尔斯已兼任 xAI 总裁一职。SpaceX 于今年早些时候收购了 xAI，部分报道称预计其将在年内提交 IPO 申请，估值或超 2 万亿美元（IT之家注：现汇率约合 13.74 万亿元人民币）。在与 S",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/222.htm"
+    },
+    {
+      "id": "33c03df8-2d23-818c-a2e6-c57cb1376e5f",
+      "title": "OpenAI 计划 IPO 时为散户预留股份，践行 AI 普惠理念",
+      "summary": "IT之家 4 月 9 日消息，据 CNBC 报道，OpenAI 计划在备受期待、有望引发轰动的首次公开募股（IPO）中，为个人投资者预留一部分股份。OpenAI 首席财务官莎拉 · 弗莱尔表示，该公司在最新一轮融资中已试水面向散户投资者，并感受到个人投资者“极为强劲的需求”。弗莱尔当地时间周三接受 CNBC 采访时称，OpenAI 上市时“肯定会”为散户投资者保留一部分股份。“人工智能需要在我们所做的一切事务中赢得信任。这也是我尤其看重散户投资者的原因之一，”弗莱尔表示，“必须让所有人都能参与其中，而不是仅让极少数人获益，其他人都被抛在身后。”她提及了自己担任 Square（现更名为 Bloc",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/221.htm"
+    },
+    {
+      "id": "33c03df8-2d23-81aa-8f18-e7b08d808b89",
+      "title": "微软 Win10/Win11 官方优化工具 PowerToys 拟新增 WinPos 模块，解决窗口操作痛点",
+      "summary": "IT之家 4 月 9 日消息，科技媒体 NeoWin 昨日（4 月 8 日）发布博文，报道称微软为解决 Windows 10、Windows 11 传统窗口管理操作不便的痛点，计划升级 PowerToys 工具，新增引入 WinPos 模块。IT之家援引博文介绍，Windows 11 虽然拥有贴靠辅助等现代窗口管理功能，但对于习惯使用鼠标操作的用户而言，传统方式仍存在明显缺陷。用户在移动或调整窗口大小时，必须精准点击标题栏或边缘狭窄区域，在高分辨率显示器上操作难度较大，极易出现瞄准偏差。针对这个交互痛点，微软 PowerToys 项目团队提议开发 WinPos 模块，核心机制是支持用户按住 A",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/220.htm"
+    },
+    {
+      "id": "33c03df8-2d23-818f-8ed7-d27704cd7835",
+      "title": "微软修复 Win11 23H2 搜索失效 / 显示空白结果 Bug",
+      "summary": "IT之家 4 月 9 日消息，科技媒体 bleepingcomputer 昨日（4 月 8 日）发布博文，报道称微软确认并修复部分 Windows 11 23H2 的开始菜单搜索故障。IT之家援引博文介绍，在官方发布的 Windows 版本健康更新（WI1273488）中，微软表示本次问题源于 4 月 6 日部署的一次服务器端 Bing 更新，该更新本意在于优化搜索性能，却意外导致部分用户的搜索功能失效或显示空白结果。微软在健康更新公告中指出，该故障仅波及少量用户，不过该媒体指出，基于在线技术社区的相关投诉，类似问题实际上已存在数月之久。微软声明显示，通过逐步推送修复程序，关于搜索失败的报告正",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/219.htm"
+    },
+    {
+      "id": "33c03df8-2d23-816a-a6c1-e530e08d2537",
+      "title": "Anthropic 上诉受挫：美法院拒绝阻止美国国防部将其列入黑名单",
+      "summary": "IT之家 4 月 9 日消息，据 CNBC 报道，当地时间周三，华盛顿特区的一家联邦上诉法院驳回了人工智能公司 Anthropic 提出的临时阻止美国国防部将其列入黑名单的请求，目前该公司正对这一制裁措施提起诉讼。此前，旧金山联邦法院的一名法官在上个月的另一桩相关但独立的案件中，为 Anthropic 签发了初步禁令，禁止特朗普政府强制执行禁用 Claude 的规定。上诉法院在裁决中表示：“我们认为，此案中的利益权衡更倾向于政府一方。一方面，仅涉及一家私营企业相对有限的经济损失风险；另一方面，则涉及在军事冲突持续期间，国防部如何、以及通过谁来获取关键人工智能技术的司法管控问题。因此，我们驳回 ",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/217.htm"
+    },
+    {
+      "id": "33c03df8-2d23-81d8-ba60-cdf1f17351d5",
+      "title": "IT早报 0409：阿里巴巴升级通义大模型事业部；曝苹果启动三年“重定义 iPhone”计划；微信官方详解三大滑动操作功能；B站将上线播放页暂停广告...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 4 月 9 日星期四，今天的重要科技资讯有：1、阿里巴巴新设集团技术委员会：升级通义大模型事业部，李飞飞出任阿里云 CTO阿里 CEO 吴泳铭发布内部信，宣布成立集团技术委员会并升级通义大模型事业部，旨在聚合优势资源，加速 AI 建设。周靖人、李飞飞、吴泽明等核心高管分工明确，分别负责 AI 架构、云基础设施及业务技术平台。这标志着阿里已进入 AI 全面加速期。>> 查看详情2、古尔曼：苹果推进三年计划，由里到外“重新定义”iPhone彭博社记者古尔曼披露，苹果正推进一项雄心勃勃的三年计划，旨在彻底革新 iPhone。2025 年将重新设计 iP",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/218.htm"
+    },
+    {
+      "id": "33c03df8-2d23-8166-9dd8-cae540d77fc6",
+      "title": "京津冀消协组织联合约谈洲际酒店，强制境外仲裁等条款被指侵权",
+      "summary": "IT之家 4 月 9 日消息，针对国际酒店集团“洲际酒店”在其会员计划《洲际优悦会会员条款与附则》（IT之家注：以下简称“会员条款”）中，设置排除中国法律管辖、强制中国消费者赴境外仲裁、限制消费者集体维权权利、可随意变更合同条款、对使用商品造成的损失概不负责等多项涉嫌侵害消费者合法权益的条款，4 月 8 日，京津冀三地消协组织对洲际酒店集团国内运营方 —— 六洲酒店管理（上海）有限公司进行联合约谈，并提出明确整改要求。格式条款涉嫌违法违规，限制消费者权利京津冀三地消协组织指出，调查发现洲际酒店集团在其网站及 App 的会员条款中设置了多项涉嫌侵害消费者合法权益的内容，主要集中在以下两个方面：其",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/216.htm"
+    },
+    {
+      "id": "33c03df8-2d23-8156-b632-efd094ec0955",
+      "title": "比亚迪与肯德基达成战略合作，9 分钟实现“车充饱、人吃饱”",
+      "summary": "IT之家 4 月 9 日消息，据比亚迪汽车官方微信公众号消息，4 月 8 日，比亚迪与肯德基在深圳比亚迪全球总部正式签署战略合作协议。双方将整合各自在新能源汽车与餐饮零售领域的核心优势，围绕闪充技术、智能座舱与肯德基车速取服务展开全链路深度协同，共同打造“9 分钟一站式人车补能”新生态。据介绍，双方共创的“9 分钟一站式人车补能”生态，旨在满足“人补能”与“车补能”的双重需求：用户驾车途中，使用比亚迪智能语音前置完成点餐与支付；抵达肯德基车速取门店，摇窗即可取餐；随后在车速取门店配套的比亚迪闪充站插枪充电，用餐与充电同步进行，9 分钟实现车充饱、人吃饱。在智能交互端，比亚迪将率先在旗下个性化品",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/215.htm"
+    },
+    {
+      "id": "33c03df8-2d23-8147-b0bd-d055f9326ff1",
+      "title": "ClickFix 攻击升级：绕过苹果 macOS 26.4 防护，用脚本编辑器新路径投毒",
+      "summary": "IT之家 4 月 9 日消息，苹果设备管理和安全公司 Jamf 昨日（4 月 8 日）发布报告，称 Mac 平台 ClickFix 攻击手法升级，攻击者放弃传统的终端复制粘贴模式，转而利用系统自带的脚本编辑器作为突破口。IT之家曾于今年 3 月报道，有黑客发起名为 ClickFix 的新型攻击手段，通过虚假人机验证页面诱骗 Mac 用户安装恶意软件。安全研究人员指出，ClickFix 攻击的检测量在 2024 年至 2025 年间激增了超过 500%，现已成为互联网上增长最快的社会工程学威胁之一。受害者访问被攻陷的网站或点击恶意广告后，会看到伪造的验证码页面。不同于常规的图片识别或勾选框，该页",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/214.htm"
+    },
+    {
+      "id": "33c03df8-2d23-8102-a80d-ea0388a0afe5",
+      "title": "Tubi 成为首家接入 ChatGPT 应用的流媒体视频平台",
+      "summary": "IT之家 4 月 9 日消息，ChatGPT 的应用功能仍在摸索自身定位。在此过程中，其找到了一位同样在寻求观众的流媒体合作伙伴。OpenAI 为 ChatGPT 推出应用功能，多少是在押注未来 AI 体验会自成一个平台。如今，Tubi 成为首家加入 ChatGPT 应用生态的流媒体视频服务。据 Tubi 介绍，这一合作“为观众提供了全新方式，用以发现和观看平台上超过 30 万部电影及剧集内容”。Tubi 原生接入 ChatGPT 应用究竟意味着什么？简单来说，该功能允许用户将 Tubi 与 ChatGPT 关联，通过对话方式与这家流媒体平台互动。例如，用户可以借助 Tubi 应用让 Chat",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/213.htm"
+    },
+    {
+      "id": "33c03df8-2d23-8149-8149-ce486813633d",
+      "title": "宝马公布 2026 北京车展阵容，新世代 BMW iX3/ i3 长轴距版全球首发",
+      "summary": "IT之家 4 月 9 日消息，宝马集团昨日公布 2026 北京车展阵容，BMW、MINI 和 BMW Motorrad 三大品牌共带来 16 款新车型，其中 4 款全球首发、8 款中国首发。据介绍，新世代 BMW iX3 与新世代 BMW i3 长轴距版迎来全球首发，深度融合中国智能 AI，全场景领航驾驶辅助将首发于国产新世代 BMW iX3。此外，全球限量 70 台的收藏级 BMW Speedtop 概念车将迎中国首秀，MINI 品牌将携多款个性化车型登场，宝马摩托车将携旗下中大排量车型亮相，全新 BMW 7 系及全新 BMW i7 即将迎来全球首发。IT之家注：第十九届北京车展将于 202",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/212.htm"
+    },
+    {
+      "id": "33c03df8-2d23-81f7-8043-dd0737ee4e74",
+      "title": "小而强，Meta 推出超级智能实验室首款 AI 模型 Muse Spark",
+      "summary": "IT之家 4 月 9 日消息，Meta 正推出自九个月前高薪聘请 Scale AI 的亚历山大 · 王（Alexandr Wang）以来的首个重大人工智能模型。这款名为 Muse Spark（原代号“牛油果”）的 AI 模型于当地时间周三发布，是 Meta 超级智能实验室（Meta Superintelligence Labs）全新 Muse 系列的首款产品。该 AI 部门由亚历山大 · 王掌管。亚历山大 · 王于去年 6 月加入 Meta，此前他是 Scale AI 的首席执行官，Meta 对该公司投资了 143 亿美元（IT之家注：现汇率约合 982.73 亿元人民币）。自去年 4 月最新",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/211.htm"
+    },
+    {
+      "id": "33c03df8-2d23-8198-82a2-de44bdbf41f6",
+      "title": "消息称苹果 iPhone 18 Pro / Max 简化相机按键：移除电容触控，保留压感",
+      "summary": "IT之家 4 月 9 日消息，科技媒体 9to5Mac 昨日（4 月 8 日）发布博文，报道称在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，苹果公司计划简化相机控制按钮，移除引发误触的电容触控功能，仅保留压力感应。在 iPhone 16 系列上，苹果公司首次引入相机控制按钮后，市场评价呈现两极分化。该按钮集成了变焦、曝光调整等多种电容滑动手势，虽然功能丰富，但过于复杂的交互逻辑导致用户极易发生误触。许多用户反馈，在拍摄过程中常无意间触发这些额外功能，反而干扰了正常的拍摄体验。针对这一问题，有些用户选择手动关闭电容功能，仅将其作为简单的启动键使用。该媒体编辑瑞安 ·",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/210.htm"
+    },
+    {
+      "id": "33c03df8-2d23-8136-b059-ca66e11322db",
+      "title": "地平线地瓜机器人再获 1.5 亿美元投资，B 轮累计融资 2.7 亿美元",
+      "summary": "IT之家 4 月 9 日消息，地平线旗下地瓜机器人于 4 月 8 日宣布完成 1.5 亿美元（IT之家注：现汇率约合 10.31 亿元人民币） B2 轮融资，B 轮累计融资额达 2.7 亿美元（现汇率约合 18.56 亿元人民币）。据官方透露，本轮融资由某零售科技与供应链巨头、Prosperity7 风投基金、远景科技集团等战略投资机构，慕华科创、云锋基金、华控基金 (T-Capital)、LOOK CAPITAL、凯联资本等一线财务投资机构联合加持，老股东高瓴创投、和暄资本、线性资本、黄浦江资本、滴滴、五源资本、初心资本、梅花创投、淡马锡旗下 Vertex Growth 跟投。IT之家注意到",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/209.htm"
+    },
+    {
+      "id": "33c03df8-2d23-8109-ae0a-e22c70da25b9",
+      "title": "XAI reorganizes its engineering team ahead of SpaceX IPO",
+      "summary": "A SpaceX executive said xAI is \"clearly behind\" competition, in a memo sent to staff.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-09",
+      "link": "https://www.businessinsider.com/elon-musk-reorganizes-xai-ahead-of-spacex-ipo-2026-4"
+    },
+    {
+      "id": "33c03df8-2d23-815f-8b2a-ee70b78ab0c2",
+      "title": "欧洲最大苹果博物馆开馆：展出数千藏品，还原乔布斯创业车库",
+      "summary": "IT之家 4 月 9 日消息，科技媒体 9to5Mac 昨日（4 月 8 日）发布博文，报道称欧洲最大苹果博物馆为庆祝苹果公司成立 50 周年，已于 4 月 2 日在荷兰乌得勒支（Utrecht）向公众开放，馆内展出数千件藏品，占地超过 21000 平方英尺（IT之家注：约 1951 平方米），设有主题展区并还原了乔布斯父母家的车库。本次博物馆展出馆内设计极具匠心，不仅还原了史蒂夫 · 乔布斯父母家中著名的创业车库，还设置了“不同凡想”（Think Different）走廊。展览内容不仅涵盖苹果产品的演变史，还特别回顾了乔布斯离开苹果后创立 NeXT 的经历，全面展示了这段关键的历史时期。该项",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/207.htm"
+    },
+    {
+      "id": "33c03df8-2d23-81d8-b8c6-e3962f8626b9",
+      "title": "Counterpoint：2025 年 Q4 全球销量前十的智能手机中苹果 iPhone 占一半",
+      "summary": "IT之家 4 月 9 日消息，市场研究机构 Counterpoint Research 发布的最新报告显示，iPhone 17 系列在 2025 年第四季度领跑全球智能手机市场，其核心机型包揽销量前三名，苹果多款机型也跻身该季度十大畅销智能手机榜单。Counterpoint Research 的最新报告指出，苹果在 2025 年第四季度全球十大畅销智能手机中占据五席，其中 iPhone 17 Pro Max 位居榜首，紧随其后的是 iPhone 17 与 iPhone 17 Pro。iPhone 16 位列第四，iPhone 16e 排名第八，iPhone Air 则未能进入前十。IT之家注意",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/208.htm"
+    },
+    {
+      "id": "33c03df8-2d23-81a3-b8d7-fa593fab08ca",
+      "title": "苹果更新自助维修计划，MacBook Neo 等 2026 款新品电池 / 屏幕等核心部件可自购更换",
+      "summary": "IT之家 4 月 9 日消息，科技媒体 Appleinsider 昨日（4 月 8 日）发布博文，报道称苹果公司更新其自助维修商店，向公众提供 2026 年 3 月发布的新品替换部件。此次覆盖的产品阵容强大，包括 iPhone 17e、MacBook Neo、搭载 M5 芯片的 MacBook Air 与 MacBook Pro、M4 版 iPad Air 以及新款 Apple Studio Display XDR。IT之家援引博文介绍，用户可以通过官方渠道购买电池、显示屏、键盘、扬声器及触控板等核心组件，并获取对应的详细维修手册。自助维修计划自 2022 年 4 月在美国、加拿大及欧盟多国启",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/206.htm"
+    },
+    {
+      "id": "33c03df8-2d23-81a0-bf94-c494c1b523ff",
+      "title": "我国成功发射卫星互联网低轨 21 组卫星",
+      "summary": "IT之家 4 月 9 日消息，据央视新闻报道，北京时间 2026 年 4 月 9 日 3 时 38 分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将卫星互联网低轨 21 组卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。此次任务是长征系列运载火箭的第 637 次飞行。",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/205.htm"
+    },
+    {
+      "id": "33c03df8-2d23-8161-9514-f13ebc9003b7",
+      "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
+      "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/"
+    },
+    {
+      "id": "33c03df8-2d23-8141-be10-f8c2434bb78a",
+      "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+      "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-09",
+      "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/"
+    },
     {
       "id": "33c03df8-2d23-8172-a42f-c023c07e3c35",
       "title": "OpenAI will allocate IPO shares to retail investors as it preps for debut, CFO says",
@@ -216,190 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-04-09",
       "link": "https://www.businessinsider.com/claude-mythos-preview-anthropic-cybersecurity-reaction-glasswing-2026-4"
-    },
-    {
-      "id": "33c03df8-2d23-811c-86d9-f53b40b99a34",
-      "title": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
-      "summary": "Volkswagen subsidiary MOIA America still has a long and winding regulatory road before it can launch a commercial robotaxi service.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/"
-    },
-    {
-      "id": "33c03df8-2d23-81f8-b2b5-da010fb96c7b",
-      "title": "Microsoft developer tools executive Julia Liuson is retiring after 34 years",
-      "summary": "When GitHub head Thomas Dohmke left last year, three top GitHub executives started reporting to her.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-09",
-      "link": "https://www.cnbc.com/2026/04/08/microsoft-developer-tools-head-julia-liuson-retires.html"
-    },
-    {
-      "id": "33c03df8-2d23-81ef-8364-e77f947b7a6a",
-      "title": "5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel",
-      "summary": "Intel’s role in Elon Musk’s ambitious chip venture is still murky, raising questions about what the partnership actually entails—and whether it can work at all.",
-      "source": "Wired",
-      "publishTime": "2026-04-09",
-      "link": "https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/"
-    },
-    {
-      "id": "33c03df8-2d23-8108-885c-ea0daab3cdca",
-      "title": "Meta releases Muse Spark, the first model from Alexandr Wang's AI team",
-      "summary": "Meta Superintelligence Labs just released its first model, Muse Spark, after Mark Zuckerberg waged a months-long talent war to staff the unit.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-09",
-      "link": "https://www.businessinsider.com/muse-spark-meta-ai-model-2026-4"
-    },
-    {
-      "id": "33c03df8-2d23-8118-8b1d-e8fb66757c80",
-      "title": "David Ellison's top lieutenant is out at Paramount after a strange legal fight",
-      "summary": "Jeff Shell is leaving Paramount after an odd lawsuit, leaving Paramount CEO David Ellison without one of his top advisors.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-09",
-      "link": "https://www.businessinsider.com/david-ellison-lieutenant-jeff-shell-out-at-paramount-rj-cipriani-2026-4"
-    },
-    {
-      "id": "33c03df8-2d23-8194-9bee-cdddd9a06a6b",
-      "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
-      "summary": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
-      "source": "Wired",
-      "publishTime": "2026-04-09",
-      "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/"
-    },
-    {
-      "id": "33c03df8-2d23-810e-92ce-efb6029acc9e",
-      "title": "Microsoft’s executive shake-up continues as developer division chief resigns",
-      "summary": "Microsoft is losing another veteran executive. Julia Liuson, head of Microsoft's developer division (DevDiv), is resigning from the software giant after 34 years. Liuson spent the past 12 years leading Microsoft's developer business, during a period Microsoft focused more on open source projects and",
-      "source": "The Verge",
-      "publishTime": "2026-04-09",
-      "link": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation"
-    },
-    {
-      "id": "33c03df8-2d23-81b5-988b-cad144fbc4f7",
-      "title": "Amazon Pulls Support for Perfectly Fine Older Kindles",
-      "summary": "In an email to customers, Amazon announced that it would be ending service for Kindle devices older than the 2012 edition. Those devices will lose access to the Kindle Store.",
-      "source": "Wired",
-      "publishTime": "2026-04-09",
-      "link": "https://www.wired.com/story/amazon-pulls-support-for-perfectly-fine-older-kindles/"
-    },
-    {
-      "id": "33c03df8-2d23-81a8-bc26-c89e82eca4e2",
-      "title": "These are the countries moving to ban social media for children",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/"
-    },
-    {
-      "id": "33c03df8-2d23-81f5-bba1-e5df7d9f551a",
-      "title": "Meta is reentering the AI race with a new model called Muse Spark",
-      "summary": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement. In the coming weeks, Meta says, it will appea",
-      "source": "The Verge",
-      "publishTime": "2026-04-09",
-      "link": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout"
-    },
-    {
-      "id": "33c03df8-2d23-81af-b3fa-d90e8ecf966b",
-      "title": "British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto",
-      "summary": "Back, a long-time researcher and pioneer in cryptography, denies the allegation that he is the secretive creator of Bitcoin.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/"
-    },
-    {
-      "id": "33c03df8-2d23-81a5-b100-f2d52aa1bf39",
-      "title": "Anthropic gives our cyber stocks and other big tech names an AI stamp of approval",
-      "summary": "Unlike past Anthropic announcements that resulted in cyber and tech selling, this one was a breath of fresh air.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-09",
-      "link": "https://www.cnbc.com/2026/04/08/anthropic-gives-our-cyber-stocks-and-other-big-tech-names-an-ai-stamp-of-approval.html"
-    },
-    {
-      "id": "33c03df8-2d23-81bc-9725-e819df91474e",
-      "title": "I took a budget Caribbean cruise that cost about $100 a day. Despite some disappointments, I'd do it again.",
-      "summary": "My seven-night Costa Pacifica cruise in the Caribbean was affordable and not without disappointments, but it felt like a great value.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-09",
-      "link": "https://www.businessinsider.com/cheap-caribbean-cruise-costa-pacifica-review-2026-4"
-    },
-    {
-      "id": "33c03df8-2d23-8111-99ff-c53d9d6b5589",
-      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/"
-    },
-    {
-      "id": "33c03df8-2d23-81cf-a60e-d9e440b4b4cf",
-      "title": "vivo 开放平台上线 Android 17 开发者预览版，首批适配 X300 Pro、iQOO 15",
-      "summary": "IT之家 4 月 8 日消息，vivo 开发者官方今日宣布，vivo 开放平台已上线 Android 17 开发者预览版，可抢先体验新版本能力。据介绍，vivo 已在 X300 Pro、iQOO 15 机型上完成 Android 17 Beta 版的开发者适配版本，Android 17 开发者适配专项支持同步开启。目前已知问题包括：vivo X300 Pro1.指纹无法使用2.截屏功能不可用3.部分内置应用和三方应用会出现闪退4.部分系统设置（系统风格、简易模式、隐私系统等）出现闪退iQOO 151.指纹无法使用2.截屏功能不可用3.概率性无法开启小窗4.人脸识别暂不可用5.Home 键偶尔会",
-      "source": "IT之家",
-      "publishTime": "2026-04-08",
-      "link": "https://www.ithome.com/0/937/203.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8159-9496-e268b57bf54f",
-      "title": "Amazon’s Smart Thermostat can help lower your energy bills, and it’s down to $62",
-      "summary": "With temperatures on the rise and Earth Day right around the corner, now’s a good time to invest in a smart thermostat if you haven’t already. A good one like Amazon’s Smart Thermostat can help reduce energy use and lower your bills without sacrificing comfort, and right now it’s just $61.99 ($18 of",
-      "source": "The Verge",
-      "publishTime": "2026-04-08",
-      "link": "https://www.theverge.com/gadgets/908742/amazon-smart-thermostat-samsung-galaxy-buds-4-pro-deal-sale"
-    },
-    {
-      "id": "33c03df8-2d23-815f-a706-d77e80a44fde",
-      "title": "I moved to a resort town in the Italian Alps 8 years ago. Living here has perks, but it's no vacation.",
-      "summary": "I moved to Courmayeur, a resort town in Italy after it won me over on a trip. Living in the Alps has its challenges, but the benefits outweigh them.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-08",
-      "link": "https://www.businessinsider.com/moved-to-resort-town-italy-alps-benefits-challenges-courmayeur-2026-4"
-    },
-    {
-      "id": "33c03df8-2d23-8122-87e9-d133308e0edb",
-      "title": "科幻动画《瑞克和莫蒂》第九季首曝定档中字预告，5 月 24 日开播",
-      "summary": "IT之家 4 月 8 日消息，科幻动画《瑞克和莫蒂》第九季已官宣将于 5 月 24 日在 Adult Swim 开播，目前官方已放出中字预告。据介绍，伊恩 · 卡多尼、哈利 · 贝尔登、萨拉 · 乔克、克里斯 · 帕内尔、斯宾瑟 · 格拉默在第九季回归配音，该剧已续订第 12 季。《瑞克和莫蒂》讲述了一个反社会的天才科学家拖着他天生胆小的孙子，在宇宙中进行疯狂危险冒险的故事，之前的八季都保持了较好口碑，豆瓣最高评分 9.8，最低评分 8.9。据IT之家此前报道，《瑞克和莫蒂》在第七季首次更换了主角的配音演员。该剧的联合创作者 Justin Roiland 曾被指控家庭暴力，虽然这些指控都由于证",
-      "source": "IT之家",
-      "publishTime": "2026-04-08",
-      "link": "https://www.ithome.com/0/937/202.htm"
-    },
-    {
-      "id": "33c03df8-2d23-819c-9866-d02ffd6b0b57",
-      "title": "Hackers steal and leak sensitive LAPD police documents",
-      "summary": "The LAPD said the breach affected “a digital storage system” belonging to the city’s Attorney's Office. The World Leaks extortion gang was reported to be behind the attack.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-08",
-      "link": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/"
-    },
-    {
-      "id": "33c03df8-2d23-816e-92ad-cc3259cc0038",
-      "title": "Epic Fury strikes on Iran were fueled by 2 million energy drinks, about a million gallons of coffee, and nicotine, top general says",
-      "summary": "Gen. Dan Caine, the chairman of the Joint Chiefs of Staff, provided stats on the war with Iran, from targets struck to energy drinks consumed.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-08",
-      "link": "https://www.businessinsider.com/us-war-with-iran-by-numbers-energy-drinks-to-targets-2026-4"
-    },
-    {
-      "id": "33c03df8-2d23-812c-b7c9-ccd761c76116",
-      "title": "古尔曼：苹果推进三年计划，由里到外“重新定义”iPhone",
-      "summary": "IT之家 4 月 8 日消息，彭博社记者马克 · 古尔曼今天发文称，苹果正在推进一项三年计划，目标是从里到外全面“重新定义”iPhone。据介绍，这项“三年计划”的关键时间点如下：2025 年 9 月：发布重新设计的 iPhone 17 Pro 系列、全新 iPhone Air（已完成）2026 年 9 月：推出首款大折叠 iPhone 手机2027 年 9 月：发布 20 周年纪念版 iPhone据悉，包括“最热 CEO 接班人”John Ternus 在内的苹果高管已经将这一路线图视为优先事项，IT之家附各阶段计划如下：第一阶段：重新设计 iPhone 17 Pro，并推出全新产品线 iP",
-      "source": "IT之家",
-      "publishTime": "2026-04-08",
-      "link": "https://www.ithome.com/0/937/201.htm"
-    },
-    {
-      "id": "33c03df8-2d23-81a7-8dd7-f5412ccd5b1f",
-      "title": "华为鸿蒙电脑 HarmonyOS 6.0.0.328 花粉 Beta 版小艺升级点公布，新增投喂感应区、AI 音频播客等",
-      "summary": "IT之家 4 月 8 日消息，鸿蒙电脑 HarmonyOS 6.0.0.328 花粉 Beta 版已上线，华为官方团队账号 @智慧办公产品经理 昨日分享了小艺优化升级的四大亮点功能。IT之家整理小艺优化升级亮点如下：一、新增投喂感应区只需将文件拖拽到屏幕右下角的感应区，小艺球面板便会迅速启动。接下来，可以让小艺对文件进行总结摘要、格式转换或翻译等操作。二、小艺对话接入联网分析，信息来源更丰富现在小艺对话不仅能提供答案，还能联网获取更多相关信息。无论是研究资料、行业动态还是生活百科，信息获取来源都更丰富。联网搜索结果页支持多标签切换，可以浏览不同来源的内容，页面还能一键全屏展开或收起。三、AI ",
-      "source": "IT之家",
-      "publishTime": "2026-04-08",
-      "link": "https://www.ithome.com/0/937/200.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8125-9533-d572e497cf6c",
-      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-08",
-      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/"
     }
   ],
   "macroEvents": [
