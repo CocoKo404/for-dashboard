@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-04-09 08:01",
+  "updatedAt": "2026-04-09 14:09",
   "news": [
     {
-      "id": "33c03df8-2d23-81f7-ad41-edd8cea770f9",
-      "title": "微软发布 Harrier 系列嵌入 AI 模型，MTEB-v2 基准测试超越谷歌夺冠",
-      "summary": "IT之家 4 月 9 日消息，微软必应（Bing）团队于 4 月 7 日发布博文，宣布为满足现代 AI 智能体系统对信息处理的高标准需求，开源推出业界领先的文本嵌入模型系列 Harrier，该模型在多语言 MTEB-v2 基准测试中排名第一。IT之家注：嵌入模型是一种将文本、图像等高维数据转换为低维向量表示的技术，捕捉数据的语义特征，让相似内容在向量空间中距离更近。在 AI 领域，它是搜索引擎、推荐系统和智能体进行信息检索、语义理解和知识推理的基础组件，直接决定了系统处理信息的质量与效率。针对 AI 系统从单纯问答向执行操作转变过程中的“落地”难题，微软 Harrier 系列模型进一步提升嵌入",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/223.htm"
-    },
-    {
-      "id": "33c03df8-2d23-81ea-9b73-e8a41c910dea",
-      "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
-      "summary": "A federal appeals on denied Anthropic's request for a stay in its lawsuit against the Department of Defense.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-09",
-      "link": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html"
-    },
-    {
-      "id": "33c03df8-2d23-815b-8281-eefb4623838d",
-      "title": "冲刺 IPO 前夕，马斯克的 xAI 工程团队大换血",
-      "summary": "IT之家 4 月 9 日消息，据 Business Insider 看到的一份内部备忘录显示，在太空巨头 SpaceX 即将进行重磅 IPO 之际，埃隆 · 马斯克旗下的 xAI 正与该公司进一步深度整合，这家人工智能公司的工程团队正迎来又一次重大改组。SpaceX 高管迈克尔 · 尼科尔斯表示，公司在竞争中“明显落后”，正采取行动尽快追赶。知情人士透露，现任 SpaceX 星链高级副总裁的尼科尔斯已兼任 xAI 总裁一职。SpaceX 于今年早些时候收购了 xAI，部分报道称预计其将在年内提交 IPO 申请，估值或超 2 万亿美元（IT之家注：现汇率约合 13.74 万亿元人民币）。在与 S",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/222.htm"
-    },
-    {
-      "id": "33c03df8-2d23-818c-a2e6-c57cb1376e5f",
-      "title": "OpenAI 计划 IPO 时为散户预留股份，践行 AI 普惠理念",
-      "summary": "IT之家 4 月 9 日消息，据 CNBC 报道，OpenAI 计划在备受期待、有望引发轰动的首次公开募股（IPO）中，为个人投资者预留一部分股份。OpenAI 首席财务官莎拉 · 弗莱尔表示，该公司在最新一轮融资中已试水面向散户投资者，并感受到个人投资者“极为强劲的需求”。弗莱尔当地时间周三接受 CNBC 采访时称，OpenAI 上市时“肯定会”为散户投资者保留一部分股份。“人工智能需要在我们所做的一切事务中赢得信任。这也是我尤其看重散户投资者的原因之一，”弗莱尔表示，“必须让所有人都能参与其中，而不是仅让极少数人获益，其他人都被抛在身后。”她提及了自己担任 Square（现更名为 Bloc",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/221.htm"
-    },
-    {
-      "id": "33c03df8-2d23-81aa-8f18-e7b08d808b89",
-      "title": "微软 Win10/Win11 官方优化工具 PowerToys 拟新增 WinPos 模块，解决窗口操作痛点",
-      "summary": "IT之家 4 月 9 日消息，科技媒体 NeoWin 昨日（4 月 8 日）发布博文，报道称微软为解决 Windows 10、Windows 11 传统窗口管理操作不便的痛点，计划升级 PowerToys 工具，新增引入 WinPos 模块。IT之家援引博文介绍，Windows 11 虽然拥有贴靠辅助等现代窗口管理功能，但对于习惯使用鼠标操作的用户而言，传统方式仍存在明显缺陷。用户在移动或调整窗口大小时，必须精准点击标题栏或边缘狭窄区域，在高分辨率显示器上操作难度较大，极易出现瞄准偏差。针对这个交互痛点，微软 PowerToys 项目团队提议开发 WinPos 模块，核心机制是支持用户按住 A",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/220.htm"
-    },
-    {
-      "id": "33c03df8-2d23-818f-8ed7-d27704cd7835",
-      "title": "微软修复 Win11 23H2 搜索失效 / 显示空白结果 Bug",
-      "summary": "IT之家 4 月 9 日消息，科技媒体 bleepingcomputer 昨日（4 月 8 日）发布博文，报道称微软确认并修复部分 Windows 11 23H2 的开始菜单搜索故障。IT之家援引博文介绍，在官方发布的 Windows 版本健康更新（WI1273488）中，微软表示本次问题源于 4 月 6 日部署的一次服务器端 Bing 更新，该更新本意在于优化搜索性能，却意外导致部分用户的搜索功能失效或显示空白结果。微软在健康更新公告中指出，该故障仅波及少量用户，不过该媒体指出，基于在线技术社区的相关投诉，类似问题实际上已存在数月之久。微软声明显示，通过逐步推送修复程序，关于搜索失败的报告正",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/219.htm"
-    },
-    {
-      "id": "33c03df8-2d23-816a-a6c1-e530e08d2537",
-      "title": "Anthropic 上诉受挫：美法院拒绝阻止美国国防部将其列入黑名单",
-      "summary": "IT之家 4 月 9 日消息，据 CNBC 报道，当地时间周三，华盛顿特区的一家联邦上诉法院驳回了人工智能公司 Anthropic 提出的临时阻止美国国防部将其列入黑名单的请求，目前该公司正对这一制裁措施提起诉讼。此前，旧金山联邦法院的一名法官在上个月的另一桩相关但独立的案件中，为 Anthropic 签发了初步禁令，禁止特朗普政府强制执行禁用 Claude 的规定。上诉法院在裁决中表示：“我们认为，此案中的利益权衡更倾向于政府一方。一方面，仅涉及一家私营企业相对有限的经济损失风险；另一方面，则涉及在军事冲突持续期间，国防部如何、以及通过谁来获取关键人工智能技术的司法管控问题。因此，我们驳回 ",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/217.htm"
-    },
-    {
-      "id": "33c03df8-2d23-81d8-ba60-cdf1f17351d5",
-      "title": "IT早报 0409：阿里巴巴升级通义大模型事业部；曝苹果启动三年“重定义 iPhone”计划；微信官方详解三大滑动操作功能；B站将上线播放页暂停广告...",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 4 月 9 日星期四，今天的重要科技资讯有：1、阿里巴巴新设集团技术委员会：升级通义大模型事业部，李飞飞出任阿里云 CTO阿里 CEO 吴泳铭发布内部信，宣布成立集团技术委员会并升级通义大模型事业部，旨在聚合优势资源，加速 AI 建设。周靖人、李飞飞、吴泽明等核心高管分工明确，分别负责 AI 架构、云基础设施及业务技术平台。这标志着阿里已进入 AI 全面加速期。>> 查看详情2、古尔曼：苹果推进三年计划，由里到外“重新定义”iPhone彭博社记者古尔曼披露，苹果正推进一项雄心勃勃的三年计划，旨在彻底革新 iPhone。2025 年将重新设计 iP",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/218.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8166-9dd8-cae540d77fc6",
-      "title": "京津冀消协组织联合约谈洲际酒店，强制境外仲裁等条款被指侵权",
-      "summary": "IT之家 4 月 9 日消息，针对国际酒店集团“洲际酒店”在其会员计划《洲际优悦会会员条款与附则》（IT之家注：以下简称“会员条款”）中，设置排除中国法律管辖、强制中国消费者赴境外仲裁、限制消费者集体维权权利、可随意变更合同条款、对使用商品造成的损失概不负责等多项涉嫌侵害消费者合法权益的条款，4 月 8 日，京津冀三地消协组织对洲际酒店集团国内运营方 —— 六洲酒店管理（上海）有限公司进行联合约谈，并提出明确整改要求。格式条款涉嫌违法违规，限制消费者权利京津冀三地消协组织指出，调查发现洲际酒店集团在其网站及 App 的会员条款中设置了多项涉嫌侵害消费者合法权益的内容，主要集中在以下两个方面：其",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/216.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8156-b632-efd094ec0955",
-      "title": "比亚迪与肯德基达成战略合作，9 分钟实现“车充饱、人吃饱”",
-      "summary": "IT之家 4 月 9 日消息，据比亚迪汽车官方微信公众号消息，4 月 8 日，比亚迪与肯德基在深圳比亚迪全球总部正式签署战略合作协议。双方将整合各自在新能源汽车与餐饮零售领域的核心优势，围绕闪充技术、智能座舱与肯德基车速取服务展开全链路深度协同，共同打造“9 分钟一站式人车补能”新生态。据介绍，双方共创的“9 分钟一站式人车补能”生态，旨在满足“人补能”与“车补能”的双重需求：用户驾车途中，使用比亚迪智能语音前置完成点餐与支付；抵达肯德基车速取门店，摇窗即可取餐；随后在车速取门店配套的比亚迪闪充站插枪充电，用餐与充电同步进行，9 分钟实现车充饱、人吃饱。在智能交互端，比亚迪将率先在旗下个性化品",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/215.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8147-b0bd-d055f9326ff1",
-      "title": "ClickFix 攻击升级：绕过苹果 macOS 26.4 防护，用脚本编辑器新路径投毒",
-      "summary": "IT之家 4 月 9 日消息，苹果设备管理和安全公司 Jamf 昨日（4 月 8 日）发布报告，称 Mac 平台 ClickFix 攻击手法升级，攻击者放弃传统的终端复制粘贴模式，转而利用系统自带的脚本编辑器作为突破口。IT之家曾于今年 3 月报道，有黑客发起名为 ClickFix 的新型攻击手段，通过虚假人机验证页面诱骗 Mac 用户安装恶意软件。安全研究人员指出，ClickFix 攻击的检测量在 2024 年至 2025 年间激增了超过 500%，现已成为互联网上增长最快的社会工程学威胁之一。受害者访问被攻陷的网站或点击恶意广告后，会看到伪造的验证码页面。不同于常规的图片识别或勾选框，该页",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/214.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8102-a80d-ea0388a0afe5",
-      "title": "Tubi 成为首家接入 ChatGPT 应用的流媒体视频平台",
-      "summary": "IT之家 4 月 9 日消息，ChatGPT 的应用功能仍在摸索自身定位。在此过程中，其找到了一位同样在寻求观众的流媒体合作伙伴。OpenAI 为 ChatGPT 推出应用功能，多少是在押注未来 AI 体验会自成一个平台。如今，Tubi 成为首家加入 ChatGPT 应用生态的流媒体视频服务。据 Tubi 介绍，这一合作“为观众提供了全新方式，用以发现和观看平台上超过 30 万部电影及剧集内容”。Tubi 原生接入 ChatGPT 应用究竟意味着什么？简单来说，该功能允许用户将 Tubi 与 ChatGPT 关联，通过对话方式与这家流媒体平台互动。例如，用户可以借助 Tubi 应用让 Chat",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/213.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8149-8149-ce486813633d",
-      "title": "宝马公布 2026 北京车展阵容，新世代 BMW iX3/ i3 长轴距版全球首发",
-      "summary": "IT之家 4 月 9 日消息，宝马集团昨日公布 2026 北京车展阵容，BMW、MINI 和 BMW Motorrad 三大品牌共带来 16 款新车型，其中 4 款全球首发、8 款中国首发。据介绍，新世代 BMW iX3 与新世代 BMW i3 长轴距版迎来全球首发，深度融合中国智能 AI，全场景领航驾驶辅助将首发于国产新世代 BMW iX3。此外，全球限量 70 台的收藏级 BMW Speedtop 概念车将迎中国首秀，MINI 品牌将携多款个性化车型登场，宝马摩托车将携旗下中大排量车型亮相，全新 BMW 7 系及全新 BMW i7 即将迎来全球首发。IT之家注：第十九届北京车展将于 202",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/212.htm"
-    },
-    {
-      "id": "33c03df8-2d23-81f7-8043-dd0737ee4e74",
-      "title": "小而强，Meta 推出超级智能实验室首款 AI 模型 Muse Spark",
-      "summary": "IT之家 4 月 9 日消息，Meta 正推出自九个月前高薪聘请 Scale AI 的亚历山大 · 王（Alexandr Wang）以来的首个重大人工智能模型。这款名为 Muse Spark（原代号“牛油果”）的 AI 模型于当地时间周三发布，是 Meta 超级智能实验室（Meta Superintelligence Labs）全新 Muse 系列的首款产品。该 AI 部门由亚历山大 · 王掌管。亚历山大 · 王于去年 6 月加入 Meta，此前他是 Scale AI 的首席执行官，Meta 对该公司投资了 143 亿美元（IT之家注：现汇率约合 982.73 亿元人民币）。自去年 4 月最新",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/211.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8198-82a2-de44bdbf41f6",
-      "title": "消息称苹果 iPhone 18 Pro / Max 简化相机按键：移除电容触控，保留压感",
-      "summary": "IT之家 4 月 9 日消息，科技媒体 9to5Mac 昨日（4 月 8 日）发布博文，报道称在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，苹果公司计划简化相机控制按钮，移除引发误触的电容触控功能，仅保留压力感应。在 iPhone 16 系列上，苹果公司首次引入相机控制按钮后，市场评价呈现两极分化。该按钮集成了变焦、曝光调整等多种电容滑动手势，虽然功能丰富，但过于复杂的交互逻辑导致用户极易发生误触。许多用户反馈，在拍摄过程中常无意间触发这些额外功能，反而干扰了正常的拍摄体验。针对这一问题，有些用户选择手动关闭电容功能，仅将其作为简单的启动键使用。该媒体编辑瑞安 ·",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/210.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8136-b059-ca66e11322db",
-      "title": "地平线地瓜机器人再获 1.5 亿美元投资，B 轮累计融资 2.7 亿美元",
-      "summary": "IT之家 4 月 9 日消息，地平线旗下地瓜机器人于 4 月 8 日宣布完成 1.5 亿美元（IT之家注：现汇率约合 10.31 亿元人民币） B2 轮融资，B 轮累计融资额达 2.7 亿美元（现汇率约合 18.56 亿元人民币）。据官方透露，本轮融资由某零售科技与供应链巨头、Prosperity7 风投基金、远景科技集团等战略投资机构，慕华科创、云锋基金、华控基金 (T-Capital)、LOOK CAPITAL、凯联资本等一线财务投资机构联合加持，老股东高瓴创投、和暄资本、线性资本、黄浦江资本、滴滴、五源资本、初心资本、梅花创投、淡马锡旗下 Vertex Growth 跟投。IT之家注意到",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/209.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8109-ae0a-e22c70da25b9",
-      "title": "XAI reorganizes its engineering team ahead of SpaceX IPO",
-      "summary": "A SpaceX executive said xAI is \"clearly behind\" competition, in a memo sent to staff.",
+      "id": "33d03df8-2d23-810b-8adf-fcd47e4a1152",
+      "title": "Workday exec trades CTO title for 'member of technical staff' role at Anthropic",
+      "summary": "Some high-level employees are ditching their posts at large outfits to take on the blurrier title of \"member of technical staff\" at frontier AI labs.",
       "source": "Business Insider",
       "publishTime": "2026-04-09",
-      "link": "https://www.businessinsider.com/elon-musk-reorganizes-xai-ahead-of-spacex-ipo-2026-4"
+      "link": "https://www.businessinsider.com/workday-cto-trades-title-member-of-technical-staff-anthropic-openai-2026-4"
     },
     {
-      "id": "33c03df8-2d23-815f-8b2a-ee70b78ab0c2",
-      "title": "欧洲最大苹果博物馆开馆：展出数千藏品，还原乔布斯创业车库",
-      "summary": "IT之家 4 月 9 日消息，科技媒体 9to5Mac 昨日（4 月 8 日）发布博文，报道称欧洲最大苹果博物馆为庆祝苹果公司成立 50 周年，已于 4 月 2 日在荷兰乌得勒支（Utrecht）向公众开放，馆内展出数千件藏品，占地超过 21000 平方英尺（IT之家注：约 1951 平方米），设有主题展区并还原了乔布斯父母家的车库。本次博物馆展出馆内设计极具匠心，不仅还原了史蒂夫 · 乔布斯父母家中著名的创业车库，还设置了“不同凡想”（Think Different）走廊。展览内容不仅涵盖苹果产品的演变史，还特别回顾了乔布斯离开苹果后创立 NeXT 的经历，全面展示了这段关键的历史时期。该项",
+      "id": "33d03df8-2d23-8129-9eba-cb237b1cd62a",
+      "title": "Workday exec trades CTO title for 'member of technical staff' role at Anthropic",
+      "summary": "Some high-level employees are ditching their posts at large outfits to take on the blurrier title of \"member of technical staff\" at frontier AI labs.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-09",
+      "link": "https://www.businessinsider.com/workday-cto-trades-title-member-of-technical-staff-anthropic-openai-2026-4"
+    },
+    {
+      "id": "33d03df8-2d23-813b-9ce5-d5efcbcf3a90",
+      "title": "美国拟更新卫星频谱规则：释放 20 亿美元效益，宽带容量提升 7 倍",
+      "summary": "IT之家 4 月 9 日消息，科技媒体 satellitetoday 昨日（4 月 8 日）发布博文，报道称美国联邦通信委员会（FCC）将于 4 月 30 日投票，决定是否改革已施行多年的卫星频谱共享法规。IT之家援引博文介绍，此次投票的核心议题是更新 GEO（地球静止轨道）与 NGSO（非地球静止轨道）卫星系统之间的频谱共用规则，从而更好适应现代卫星技术的发展需求。这项变革预计将为美国民众释放超 20 亿美元（IT之家注：现汇率约合 136.87 亿元人民币）的经济效益。若报告和命令获得通过，现行监管框架将转向全新的“基于性能的 GSO 保护标准”。新标准将摒弃旧有的 EPFD（等效功率通量",
       "source": "IT之家",
       "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/207.htm"
+      "link": "https://www.ithome.com/0/937/369.htm"
     },
     {
-      "id": "33c03df8-2d23-81d8-b8c6-e3962f8626b9",
-      "title": "Counterpoint：2025 年 Q4 全球销量前十的智能手机中苹果 iPhone 占一半",
-      "summary": "IT之家 4 月 9 日消息，市场研究机构 Counterpoint Research 发布的最新报告显示，iPhone 17 系列在 2025 年第四季度领跑全球智能手机市场，其核心机型包揽销量前三名，苹果多款机型也跻身该季度十大畅销智能手机榜单。Counterpoint Research 的最新报告指出，苹果在 2025 年第四季度全球十大畅销智能手机中占据五席，其中 iPhone 17 Pro Max 位居榜首，紧随其后的是 iPhone 17 与 iPhone 17 Pro。iPhone 16 位列第四，iPhone 16e 排名第八，iPhone Air 则未能进入前十。IT之家注意",
+      "id": "33d03df8-2d23-81a7-817f-e130c21b9885",
+      "title": "美国拟更新卫星频谱规则：释放 20 亿美元效益，宽带容量提升 7 倍",
+      "summary": "IT之家 4 月 9 日消息，科技媒体 satellitetoday 昨日（4 月 8 日）发布博文，报道称美国联邦通信委员会（FCC）将于 4 月 30 日投票，决定是否改革已施行多年的卫星频谱共享法规。IT之家援引博文介绍，此次投票的核心议题是更新 GEO（地球静止轨道）与 NGSO（非地球静止轨道）卫星系统之间的频谱共用规则，从而更好适应现代卫星技术的发展需求。这项变革预计将为美国民众释放超 20 亿美元（IT之家注：现汇率约合 136.87 亿元人民币）的经济效益。若报告和命令获得通过，现行监管框架将转向全新的“基于性能的 GSO 保护标准”。新标准将摒弃旧有的 EPFD（等效功率通量",
       "source": "IT之家",
       "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/208.htm"
+      "link": "https://www.ithome.com/0/937/369.htm"
     },
     {
-      "id": "33c03df8-2d23-81a3-b8d7-fa593fab08ca",
-      "title": "苹果更新自助维修计划，MacBook Neo 等 2026 款新品电池 / 屏幕等核心部件可自购更换",
-      "summary": "IT之家 4 月 9 日消息，科技媒体 Appleinsider 昨日（4 月 8 日）发布博文，报道称苹果公司更新其自助维修商店，向公众提供 2026 年 3 月发布的新品替换部件。此次覆盖的产品阵容强大，包括 iPhone 17e、MacBook Neo、搭载 M5 芯片的 MacBook Air 与 MacBook Pro、M4 版 iPad Air 以及新款 Apple Studio Display XDR。IT之家援引博文介绍，用户可以通过官方渠道购买电池、显示屏、键盘、扬声器及触控板等核心组件，并获取对应的详细维修手册。自助维修计划自 2022 年 4 月在美国、加拿大及欧盟多国启",
+      "id": "33d03df8-2d23-814b-a5b5-fb3bc1e41956",
+      "title": "上汽大众 ID. ERA 9X 将于 4 月 25 日上市，奥迪 E7X 北京车展正式亮相",
+      "summary": "IT之家 4 月 9 日消息，今日，上汽大众发布最新销量数据以及新车发布节奏。一季度，上汽大众累计终端销量 21.6 万辆；3 月终端销售 7 万辆，环比上月增长 23.1%。二季度开始，上汽大众进入更密集的产品发布节奏。AUDI 品牌第二款车型奥迪 E7X 将在北京车展上正式亮相。大众品牌方面，ID. ERA 9X 将于 4 月 25 日上市，途观 L ePro、帕萨特 ePro 也将在北京车展期间与公众见面。今年，上汽大众共将推出 7 款全新的新能源产品，覆盖纯电、插混、增程三大技术路线。IT之家注意到，ID. ERA 9X 于 3 月 30 日正式开启预售，新车提供 3 款不同配置，预售",
       "source": "IT之家",
       "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/206.htm"
+      "link": "https://www.ithome.com/0/937/368.htm"
     },
     {
-      "id": "33c03df8-2d23-81a0-bf94-c494c1b523ff",
-      "title": "我国成功发射卫星互联网低轨 21 组卫星",
-      "summary": "IT之家 4 月 9 日消息，据央视新闻报道，北京时间 2026 年 4 月 9 日 3 时 38 分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将卫星互联网低轨 21 组卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。此次任务是长征系列运载火箭的第 637 次飞行。",
+      "id": "33d03df8-2d23-8178-8e5e-c2319c6de5d3",
+      "title": "上汽大众 ID. ERA 9X 将于 4 月 25 日上市，奥迪 E7X 北京车展正式亮相",
+      "summary": "IT之家 4 月 9 日消息，今日，上汽大众发布最新销量数据以及新车发布节奏。一季度，上汽大众累计终端销量 21.6 万辆；3 月终端销售 7 万辆，环比上月增长 23.1%。二季度开始，上汽大众进入更密集的产品发布节奏。AUDI 品牌第二款车型奥迪 E7X 将在北京车展上正式亮相。大众品牌方面，ID. ERA 9X 将于 4 月 25 日上市，途观 L ePro、帕萨特 ePro 也将在北京车展期间与公众见面。今年，上汽大众共将推出 7 款全新的新能源产品，覆盖纯电、插混、增程三大技术路线。IT之家注意到，ID. ERA 9X 于 3 月 30 日正式开启预售，新车提供 3 款不同配置，预售",
       "source": "IT之家",
       "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/205.htm"
+      "link": "https://www.ithome.com/0/937/368.htm"
     },
     {
-      "id": "33c03df8-2d23-8161-9514-f13ebc9003b7",
-      "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
-      "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
+      "id": "33d03df8-2d23-8124-a6bc-c65456198ce0",
+      "title": "谷歌 DeepMind CEO 哈萨比斯：像初创公司一样运作，重回技术前沿",
+      "summary": "IT之家 4 月 9 日消息，据 Business Insider 报道，在当地时间周二播出的一期“20VC”播客节目中，谷歌 DeepMind 首席执行官德米斯 · 哈萨比斯分享了他的人工智能实验室在过去两三年里是如何追赶竞争对手的。哈萨比斯表示，谷歌整合了公司所有资源，包括算力 —— 这是人工智能研究面临的最大瓶颈之一。“我们基本把公司各处的顶尖人才汇聚到了一起，朝着同一个方向发力。”他说道。这一举措帮助谷歌打造出了规模最大的模型，而非在同一家公司内部同时开发两三个版本。“很大程度上，我们是把已有的各项要素整合起来，然后以极致的专注和速度全力推进，”他说，“实际上，我们的运作方式几乎就像一",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/367.htm"
+    },
+    {
+      "id": "33d03df8-2d23-81ef-821a-db21973ccf92",
+      "title": "谷歌 DeepMind CEO 哈萨比斯：像初创公司一样运作，重回技术前沿",
+      "summary": "IT之家 4 月 9 日消息，据 Business Insider 报道，在当地时间周二播出的一期“20VC”播客节目中，谷歌 DeepMind 首席执行官德米斯 · 哈萨比斯分享了他的人工智能实验室在过去两三年里是如何追赶竞争对手的。哈萨比斯表示，谷歌整合了公司所有资源，包括算力 —— 这是人工智能研究面临的最大瓶颈之一。“我们基本把公司各处的顶尖人才汇聚到了一起，朝着同一个方向发力。”他说道。这一举措帮助谷歌打造出了规模最大的模型，而非在同一家公司内部同时开发两三个版本。“很大程度上，我们是把已有的各项要素整合起来，然后以极致的专注和速度全力推进，”他说，“实际上，我们的运作方式几乎就像一",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/367.htm"
+    },
+    {
+      "id": "33d03df8-2d23-8107-8b3f-c2c34a67f140",
+      "title": "天玑 9600（Pro）处理器曝光：台积电 N2p 工艺、频率最高近 5GHz",
+      "summary": "IT之家 4 月 9 日消息，今日，博主 @数码闲聊站 曝光天玑 9600（Pro）处理器部分规格。据介绍，这款旗舰处理器采用 2*Canyon+3*Gelas-b+3*Gelas，双超大核全大核架构，频率最高近 5GHz，支持 SME2，配备 Arm Magni GPU，支持 LPDDR6+UFS 5.0 等。此外，其采用台积电 N2p，GGA 先进工艺，内部技术指标是性能提升 10％-15％，功耗降低 25％-30％。IT之家注意到，该博主曾在今年 2 月表示，天玑 9500+ 处理器可能会特挑体质，增强后列入天玑 9600 系列，迭代产品线的处理器选型有望分成三杯：标准版 —— 3nm ",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/366.htm"
+    },
+    {
+      "id": "33d03df8-2d23-81e9-a62b-fb1693cee42c",
+      "title": "天玑 9600（Pro）处理器曝光：台积电 N2p 工艺、频率最高近 5GHz",
+      "summary": "IT之家 4 月 9 日消息，今日，博主 @数码闲聊站 曝光天玑 9600（Pro）处理器部分规格。据介绍，这款旗舰处理器采用 2*Canyon+3*Gelas-b+3*Gelas，双超大核全大核架构，频率最高近 5GHz，支持 SME2，配备 Arm Magni GPU，支持 LPDDR6+UFS 5.0 等。此外，其采用台积电 N2p，GGA 先进工艺，内部技术指标是性能提升 10％-15％，功耗降低 25％-30％。IT之家注意到，该博主曾在今年 2 月表示，天玑 9500+ 处理器可能会特挑体质，增强后列入天玑 9600 系列，迭代产品线的处理器选型有望分成三杯：标准版 —— 3nm ",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/366.htm"
+    },
+    {
+      "id": "33d03df8-2d23-8116-884d-d89a7d78f23e",
+      "title": "盗用他人信息注册账号卖给未成年人，上海警方捣毁一“游戏账号工厂”黑产链",
+      "summary": "IT之家 4 月 9 日消息，据央视新闻报道，近日，上海徐汇警方经过数月缜密侦查，成功侦破一起非法获取计算机信息系统数据案，全链条摧毁一个专业“造号、养号、卖号”的犯罪团伙，抓获张某等 10 名犯罪嫌疑人，涉案金额 200 余万元。2025 年 11 月，警方发现，多家电商店铺密集销售上海某游戏公司旗下多款热门游戏的“初始账号”，价格从几十元到数千元不等。经与游戏公司后台数据比对，发现存在大量同一时间批量注册的情况，完全不符合正常玩家注册行为规律。经核实，购买这些账号的游戏玩家绝大多数为未成年人，以此规避防沉迷机制。随着侦查深入，一个组织严密、分工明确的犯罪团伙浮出水面。他们的“生产工具”令人",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/365.htm"
+    },
+    {
+      "id": "33d03df8-2d23-815d-bac0-fb7ce51f7ebc",
+      "title": "盗用他人信息注册账号卖给未成年人，上海警方捣毁一“游戏账号工厂”黑产链",
+      "summary": "IT之家 4 月 9 日消息，据央视新闻报道，近日，上海徐汇警方经过数月缜密侦查，成功侦破一起非法获取计算机信息系统数据案，全链条摧毁一个专业“造号、养号、卖号”的犯罪团伙，抓获张某等 10 名犯罪嫌疑人，涉案金额 200 余万元。2025 年 11 月，警方发现，多家电商店铺密集销售上海某游戏公司旗下多款热门游戏的“初始账号”，价格从几十元到数千元不等。经与游戏公司后台数据比对，发现存在大量同一时间批量注册的情况，完全不符合正常玩家注册行为规律。经核实，购买这些账号的游戏玩家绝大多数为未成年人，以此规避防沉迷机制。随着侦查深入，一个组织严密、分工明确的犯罪团伙浮出水面。他们的“生产工具”令人",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/365.htm"
+    },
+    {
+      "id": "33d03df8-2d23-81ba-a7f2-cdb0ea498fea",
+      "title": "Google DeepMind started moving faster by acting like a startup, Demis Hassabis says",
+      "summary": "Google DeepMind CEO Demis Hassabis shared how his AI lab has caught up with its rivals in the last two to three years.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-09",
+      "link": "https://www.businessinsider.com/google-deepmind-accelerated-faster-by-acting-like-startup-demis-hassabis-2026-4"
+    },
+    {
+      "id": "33d03df8-2d23-81db-a0da-e1dd2de71abb",
+      "title": "Google DeepMind started moving faster by acting like a startup, Demis Hassabis says",
+      "summary": "Google DeepMind CEO Demis Hassabis shared how his AI lab has caught up with its rivals in the last two to three years.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-09",
+      "link": "https://www.businessinsider.com/google-deepmind-accelerated-faster-by-acting-like-startup-demis-hassabis-2026-4"
+    },
+    {
+      "id": "33d03df8-2d23-81db-8596-d27118df85d1",
+      "title": "US-Iran ceasefire brings little relief as Hormuz shipping barely moves",
+      "summary": "Movements are dominated by smaller, risk-tolerant operators, while mainstream oil majors and large global shipping firms remain absent.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-09",
+      "link": "https://www.businessinsider.com/us-iran-ceasefire-strait-of-hormuz-oil-shipping-traffic-transit-2026-4"
+    },
+    {
+      "id": "33d03df8-2d23-81fd-b56f-fd8a0db48b69",
+      "title": "US-Iran ceasefire brings little relief as Hormuz shipping barely moves",
+      "summary": "Movements are dominated by smaller, risk-tolerant operators, while mainstream oil majors and large global shipping firms remain absent.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-09",
+      "link": "https://www.businessinsider.com/us-iran-ceasefire-strait-of-hormuz-oil-shipping-traffic-transit-2026-4"
+    },
+    {
+      "id": "33d03df8-2d23-814e-8da7-f4a3cbf3888f",
+      "title": "阿里百度之后，腾讯云宣布 AI 算力、容器服务、EMR 相关产品涨价 5%",
+      "summary": "IT之家 4 月 9 日消息，腾讯云今日（4 月 9 日）发布 AI 算力、容器服务、EMR 相关产品价格调整公告。鉴于全球 AI 算力需求持续激增，核心硬件供应链成本大幅上涨，为保障服务质量及算力资源的持续供给，腾讯云将于 2026 年 5 月 9 日起，对 AI 算力、容器服务及弹性 MapReduce（EMR）相关产品刊例价进行调整。AI 算力相关产品服务：上调 5%；容器服务 TKE-原生节点相关产品服务：上调 5%；弹性 MapReduce（EMR）相关产品服务：上调 5%。如果用户在 2026 年 5 月 9 日之前已购买上述相关产品及服务，当前订单 / 计费周期内价格不受影响，新",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/363.htm"
+    },
+    {
+      "id": "33d03df8-2d23-81d7-98b2-ef9cbbdea3b7",
+      "title": "阿里百度之后，腾讯云宣布 AI 算力、容器服务、EMR 相关产品涨价 5%",
+      "summary": "IT之家 4 月 9 日消息，腾讯云今日（4 月 9 日）发布 AI 算力、容器服务、EMR 相关产品价格调整公告。鉴于全球 AI 算力需求持续激增，核心硬件供应链成本大幅上涨，为保障服务质量及算力资源的持续供给，腾讯云将于 2026 年 5 月 9 日起，对 AI 算力、容器服务及弹性 MapReduce（EMR）相关产品刊例价进行调整。AI 算力相关产品服务：上调 5%；容器服务 TKE-原生节点相关产品服务：上调 5%；弹性 MapReduce（EMR）相关产品服务：上调 5%。如果用户在 2026 年 5 月 9 日之前已购买上述相关产品及服务，当前订单 / 计费周期内价格不受影响，新",
+      "source": "IT之家",
+      "publishTime": "2026-04-09",
+      "link": "https://www.ithome.com/0/937/363.htm"
+    },
+    {
+      "id": "33d03df8-2d23-8100-9853-e5d73a9d455a",
+      "title": "Google Workspace Promo Code: Up to 14% Off in 2026",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
       "source": "Wired",
       "publishTime": "2026-04-09",
-      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/"
+      "link": "https://www.wired.com/story/google-workspace-promo-code/"
     },
     {
-      "id": "33c03df8-2d23-8141-be10-f8c2434bb78a",
-      "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
-      "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/"
-    },
-    {
-      "id": "33c03df8-2d23-8172-a42f-c023c07e3c35",
-      "title": "OpenAI will allocate IPO shares to retail investors as it preps for debut, CFO says",
-      "summary": "CRO Denise Dresser said enterprise is now 40% of the company's revenue and is set to equal consumer by the end of 2026.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-09",
-      "link": "https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html"
-    },
-    {
-      "id": "33c03df8-2d23-8136-87af-d6ad7766dbad",
-      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
-      "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/"
-    },
-    {
-      "id": "33c03df8-2d23-810b-bbe8-cddb031c1259",
-      "title": "Poke makes AI agents as easy as sending a text",
-      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
-    },
-    {
-      "id": "33c03df8-2d23-819a-8187-ccee46c10e75",
-      "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
-      "summary": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/"
-    },
-    {
-      "id": "33c03df8-2d23-811d-9fc5-f4ca2822576c",
-      "title": "苹果 iOS/iPadOS 26.4.1 正式版发布",
-      "summary": "IT之家 4 月 9 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.4.1 更新（内部版本号：23E254），本次更新距离上次发布正式版间隔 15 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-04-04：iOS 26.5 Beta 1 (v2) (23F5043k) 2026-03-31：iOS 26.5 Beta (23F5043g) 2026-03-25：iO",
-      "source": "IT之家",
-      "publishTime": "2026-04-09",
-      "link": "https://www.ithome.com/0/937/204.htm"
-    },
-    {
-      "id": "33c03df8-2d23-8113-ac91-ea8de7c1458d",
-      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
-      "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats towar",
-      "source": "The Verge",
-      "publishTime": "2026-04-09",
-      "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them"
-    },
-    {
-      "id": "33c03df8-2d23-814b-b27d-dcade1a7c060",
-      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
-    },
-    {
-      "id": "33c03df8-2d23-819b-92e2-e69805e529e9",
-      "title": "Amazon to end support for older Kindle devices",
-      "summary": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/"
-    },
-    {
-      "id": "33c03df8-2d23-8183-8424-e5b12bf21105",
-      "title": "I finally get the iPhone Air",
-      "summary": "I saw a lot of weird phones at Mobile World Congress last month: robot phones, cameras disguised as phones, phones for dogs. But the one that caught me most off guard was the one my friend (and Verge alum) Sam Byford brought to dinner: an iPhone Air. \"Ha!\" I said. \"You actually use that thing?\" […]",
-      "source": "The Verge",
-      "publishTime": "2026-04-09",
-      "link": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular"
-    },
-    {
-      "id": "33c03df8-2d23-812f-bd6c-e048e2f289e1",
-      "title": "As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover",
-      "summary": "After weeks of disruption, a ceasefire is easing pressure on the Strait of Hormuz. But backlogs, infrastructure damage, and delayed supply mean the system won’t return to normal overnight.",
+      "id": "33d03df8-2d23-8128-9a6f-d432e8dfd534",
+      "title": "NZXT Discount Codes: 50% Off in April 2026",
+      "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
       "source": "Wired",
       "publishTime": "2026-04-09",
-      "link": "https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/"
+      "link": "https://www.wired.com/story/nzxt-discount-code/"
     },
     {
-      "id": "33c03df8-2d23-81f8-a512-f527b05d4261",
-      "title": "The AI RAM shortage is also driving up SSD prices",
-      "summary": "I thought the WD Black SN850X 2TB SSD in my gaming PC was pricey when I bought it for $173 in 2024, but now that same SSD costs $649, more than what I paid for most of the parts in my PC combined. The price on my WD Black drive nearly quadrupled since November 2025, […]",
-      "source": "The Verge",
-      "publishTime": "2026-04-09",
-      "link": "https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases"
-    },
-    {
-      "id": "33c03df8-2d23-8107-b127-d8f141a35a9d",
-      "title": "'Tokenmaxxing' has techies debating if leaderboards tracking AI token use are a good idea",
-      "summary": "Some engineers are \"tokenmaxxing,\" or spending as many AI tokens as possible. But are leaderboards tracking token use the answer?",
-      "source": "Business Insider",
-      "publishTime": "2026-04-09",
-      "link": "https://www.businessinsider.com/tokenmaxxing-ai-token-leaderboards-debate-2026-4"
-    },
-    {
-      "id": "33c03df8-2d23-8180-8fbd-e6a1003c7af7",
-      "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
-      "summary": "This is the first model Meta has released under its Superintelligence Labs, led by former ScaleAI CEO Alexandr Wang.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/"
-    },
-    {
-      "id": "33c03df8-2d23-817f-ae09-e3a1dd4f5311",
-      "title": "Meta's New AI Model Gives Mark Zuckerberg a Seat at the Big Kid's Table",
-      "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+      "id": "33d03df8-2d23-813b-8248-ce539abd1528",
+      "title": "10% Dell Coupon Codes | April 2026",
+      "summary": "Get 10% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
       "source": "Wired",
       "publishTime": "2026-04-09",
-      "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/"
+      "link": "https://www.wired.com/story/dell-coupon-code/"
     },
     {
-      "id": "33c03df8-2d23-8181-b5cc-cea383e1642b",
-      "title": "Hack-for-hire group caught targeting Android devices and iCloud backups",
-      "summary": "Security researchers exposed a spying campaign by a hack-for-hire group that used Android spyware and phishing to steal iCloud credentials and hack victims’ devices.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/"
-    },
-    {
-      "id": "33c03df8-2d23-8129-9a04-c44451e4780f",
-      "title": "I had an identity crisis after becoming a mom. Hiring a career coach helped.",
-      "summary": "Motherhood triggered an identity crisis. Career coaching helped me uncover strengths, interests, and new job possibilities.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-09",
-      "link": "https://www.businessinsider.com/motherhood-identity-crisis-career-coach-new-jobs-2026-4"
-    },
-    {
-      "id": "33c03df8-2d23-81bc-8137-fffddab75d6a",
-      "title": "Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions",
-      "summary": "Meta debuted its first major large language model, Muse Spark, spearheaded by chief AI officer Alexandr Wang, who leads Meta Superintelligence Labs.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-09",
-      "link": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html"
-    },
-    {
-      "id": "33c03df8-2d23-816a-8281-ce7190641a9f",
-      "title": "‘We Were Not Ready for This’: Lebanon's Emergency System Is Hanging by a Thread",
-      "summary": "In Lebanon, nearly 1 in 5 people has been displaced by Israeli attacks, leaving the government to manage a modern crisis without modern digital infrastructure.",
+      "id": "33d03df8-2d23-8149-a63b-e5aef440547e",
+      "title": "Google Workspace Promo Code: Up to 14% Off in 2026",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
       "source": "Wired",
       "publishTime": "2026-04-09",
-      "link": "https://www.wired.com/story/we-were-not-ready-for-this-lebanons-emergency-system-is-hanging-by-a-thread/"
+      "link": "https://www.wired.com/story/google-workspace-promo-code/"
     },
     {
-      "id": "33c03df8-2d23-81d4-ac99-cb2aa18a6f00",
-      "title": "Latest investigation of Bitcoin founder ties identity to Blockstream CEO Adam Back",
-      "summary": "A report by the New York Times claims it has discovered the identity of the pseudonymous creator of Bitcoin known as Satoshi Nakamoto.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-09",
-      "link": "https://www.cnbc.com/2026/04/08/latest-investigation-of-bitcoin-founder-ties-identity-to-blockstream-ceo-adam-back.html"
-    },
-    {
-      "id": "33c03df8-2d23-81c3-b626-f1837658d842",
-      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-09",
-      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/"
-    },
-    {
-      "id": "33c03df8-2d23-8183-b1c3-c88193b2c4b1",
-      "title": "The Neo Effect: How Apple&#8217;s cheapest Mac is changing the PC game",
-      "summary": "The MacBook Neo is disrupting the laptop space and putting Apple into the conversation as a value option like it’s never been before. With a price starting at $599 (or $499 for students and teachers), the colorful laptop’s A18 Pro chip may be stolen from older iPads and iPhones, but it offers more t",
-      "source": "The Verge",
-      "publishTime": "2026-04-09",
-      "link": "https://www.theverge.com/tech/904705/apple-macbook-neo-news-reviews-mods"
-    },
-    {
-      "id": "33c03df8-2d23-814f-94b9-d79fb731e0f6",
-      "title": "Mamdani is cracking down on food delivery app junk fees in NYC",
-      "summary": "New York City Mayor Zohran Mamdani announced a settlement with a food delivery platform over fees charged to local restaurants.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-09",
-      "link": "https://www.businessinsider.com/mamdani-nyc-food-delivery-app-fees-crackdown-settlement-2026-4"
-    },
-    {
-      "id": "33c03df8-2d23-811c-8a02-cf78dfea21ee",
-      "title": "Shopping at the Masters is its own sport. We asked fans what they're buying, from $50 gnomes to $3,000 hauls.",
-      "summary": "The Masters Tournament isn't only about golf. Shopping has become a must-do experience at the event, with people spending thousands on their hauls.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-09",
-      "link": "https://www.businessinsider.com/masters-tournament-merch-hauls-what-golf-fans-are-buying-2026-4"
-    },
-    {
-      "id": "33c03df8-2d23-81ac-9f5d-d950ad9ba717",
-      "title": "The US Army Is Building Its Own Chatbot for Combat",
-      "summary": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+      "id": "33d03df8-2d23-8149-b994-f50ec70df9f0",
+      "title": "Petlibro Discount Codes: Save Up to 50%",
+      "summary": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
       "source": "Wired",
       "publishTime": "2026-04-09",
-      "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/"
+      "link": "https://www.wired.com/story/petlibro-discount-code/"
     },
     {
-      "id": "33c03df8-2d23-8193-a319-ed777bce179b",
-      "title": "Companies laying off staff this year include Meta, Amazon, and Oracle — see the list",
-      "summary": "Layoffs have hit over a dozen companies in 2026, including Meta, Amazon, and Oracle. AI and economic conditions are reshaping the business landscape.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-09",
-      "link": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026"
-    },
-    {
-      "id": "33c03df8-2d23-8196-8deb-ca83f734a91f",
-      "title": "Apple’s Fanciest Watch Is $100 Off",
-      "summary": "This discount brings the price of the Apple Watch Ultra 3 with GPS and cellular down to just $700.",
+      "id": "33d03df8-2d23-8150-8506-d8e91a5e3aa5",
+      "title": "NordVPN Coupons and Deals: 77% Off in April 2026",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
       "source": "Wired",
       "publishTime": "2026-04-09",
-      "link": "https://www.wired.com/story/apple-watch-ultra-3-deal-426/"
+      "link": "https://www.wired.com/story/nordvpn-coupon/"
     },
     {
-      "id": "33c03df8-2d23-81cd-bbd5-c05017e493ed",
-      "title": "Why Anthropic's new AI model has some cybersecurity pros worried about its hacking abilities",
-      "summary": "Anthropic's Claude Mythos raises cybersecurity concerns with its ability to find and exploit vulnerabilities. Here's what cyber experts think.",
-      "source": "Business Insider",
+      "id": "33d03df8-2d23-8156-af38-e086039e462b",
+      "title": "20% Off LG Promo Code & Coupons | April 2026",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "source": "Wired",
       "publishTime": "2026-04-09",
-      "link": "https://www.businessinsider.com/claude-mythos-preview-anthropic-cybersecurity-reaction-glasswing-2026-4"
+      "link": "https://www.wired.com/story/lg-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-815a-97f8-f5388a04266b",
+      "title": "10% Dell Coupon Codes | April 2026",
+      "summary": "Get 10% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/dell-coupon-code/"
+    },
+    {
+      "id": "33d03df8-2d23-815b-a802-ea95e41fb19f",
+      "title": "AT&T Promo Codes and Bundle Deals: Save $50 in April",
+      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/att-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-815c-a669-d24548d4ac06",
+      "title": "Bartesian Discount Codes and Deals: Up to 35% Off",
+      "summary": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/bartesian-discount-code/"
+    },
+    {
+      "id": "33d03df8-2d23-815e-a8f9-fa0a5afd4f4f",
+      "title": "Medicube Coupon Code: Top Promo Codes and Discounts for April 2026",
+      "summary": "Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/medicube-coupon-code/"
+    },
+    {
+      "id": "33d03df8-2d23-8160-8fc0-d69d69b4c1cd",
+      "title": "Top Home Chef Promo Codes for April 2026",
+      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/home-chef-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-8162-82ca-c025d7240c83",
+      "title": "Peacock Promo Codes: 40% Off April 2026",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/peacock-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-8174-a1be-d45278a63bbf",
+      "title": "NZXT Discount Codes: 50% Off in April 2026",
+      "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/nzxt-discount-code/"
+    },
+    {
+      "id": "33d03df8-2d23-8176-ba18-cc95ce005d00",
+      "title": "Top Paramount+ Coupon Codes and Deals for April 2026",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/"
+    },
+    {
+      "id": "33d03df8-2d23-8176-bda8-fdf0db9ef60e",
+      "title": "30% Off Canon Promo Codes | April 2026",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this April.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/canon-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-8177-8048-ee99e2b50a52",
+      "title": "20% Off Brooks Promo Code & Deals for | April 2026",
+      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/brooks-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-817a-abd1-e82803c2c565",
+      "title": "Altra Promo Codes: Get 20% Off Plus Free Shipping",
+      "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/altra-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-817a-bdec-f0ce59ab4b39",
+      "title": "Altra Promo Codes: Get 20% Off Plus Free Shipping",
+      "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/altra-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-817c-bdc4-ff023f23e3c5",
+      "title": "Top Paramount+ Coupon Codes and Deals for April 2026",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/"
+    },
+    {
+      "id": "33d03df8-2d23-8185-935c-fdfc8596372c",
+      "title": "Vimeo Promo Codes and Deals: Save Up to 40%",
+      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/vimeo-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-818c-b7de-ffaf4c33be7d",
+      "title": "20% Off Brooks Promo Code & Deals for | April 2026",
+      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/brooks-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-818d-baab-d313f80c210f",
+      "title": "Top Home Chef Promo Codes for April 2026",
+      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/home-chef-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-8191-9d8d-ecb77753c5f9",
+      "title": "Medicube Coupon Code: Top Promo Codes and Discounts for April 2026",
+      "summary": "Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/medicube-coupon-code/"
+    },
+    {
+      "id": "33d03df8-2d23-8194-82f3-c5deceef6b4e",
+      "title": "NordVPN Coupons and Deals: 77% Off in April 2026",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/nordvpn-coupon/"
+    },
+    {
+      "id": "33d03df8-2d23-8198-ba69-d2e705b3c0d6",
+      "title": "30% Off Canon Promo Codes | April 2026",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this April.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/canon-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-81a0-8376-e216bec907f9",
+      "title": "Bartesian Discount Codes and Deals: Up to 35% Off",
+      "summary": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/bartesian-discount-code/"
+    },
+    {
+      "id": "33d03df8-2d23-81a1-a6de-d28f95d1d6b5",
+      "title": "Petlibro Discount Codes: Save Up to 50%",
+      "summary": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/petlibro-discount-code/"
+    },
+    {
+      "id": "33d03df8-2d23-81df-ac03-f71dcd55eba4",
+      "title": "Peacock Promo Codes: 40% Off April 2026",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/peacock-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-81f0-9058-c1029f3227c5",
+      "title": "AT&T Promo Codes and Bundle Deals: Save $50 in April",
+      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/att-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-81f3-a728-eba1cfb461c2",
+      "title": "20% Off LG Promo Code & Coupons | April 2026",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/lg-promo-code/"
+    },
+    {
+      "id": "33d03df8-2d23-81f5-a8aa-c4f24623ac3d",
+      "title": "Vimeo Promo Codes and Deals: Save Up to 40%",
+      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
+      "source": "Wired",
+      "publishTime": "2026-04-09",
+      "link": "https://www.wired.com/story/vimeo-promo-code/"
     }
   ],
   "macroEvents": [
