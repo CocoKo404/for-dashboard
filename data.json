@@ -1,6 +1,166 @@
 {
-  "updatedAt": "2026-04-13 00:03",
+  "updatedAt": "2026-04-13 02:05",
   "news": [
+    {
+      "id": "34003df8-2d23-81a4-aaa1-ea75125582bf",
+      "title": "Rockstar Games says hack will have ‘no impact’",
+      "summary": "Rockstar confirmed on Saturday that some of its data was compromised in a breach of a third-party provider. The group ShinyHunters claimed responsibility, saying it had gained access to the company's Snowflake instances (a cloud-hosting provider popular with enterprise customers) via Anodot, a cost-",
+      "source": "The Verge",
+      "publishTime": "2026-04-13",
+      "link": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact"
+    },
+    {
+      "id": "34003df8-2d23-81aa-b963-dc9229510020",
+      "title": "X says it’s reducing payments to clickbait accounts",
+      "summary": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-13",
+      "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/"
+    },
+    {
+      "id": "34003df8-2d23-8138-b8f5-dcc262e79ad9",
+      "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-13",
+      "link": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/"
+    },
+    {
+      "id": "34003df8-2d23-817c-8513-c13652d66670",
+      "title": "You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2",
+      "summary": "In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console. Now through May 9th, you can buy a Switch 2 with Super Mario Galaxy + Super Mario Galaxy 2 for $499.99 […]",
+      "source": "The Verge",
+      "publishTime": "2026-04-13",
+      "link": "https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale"
+    },
+    {
+      "id": "34003df8-2d23-810d-982f-dbc5fffd130a",
+      "title": "广汽科技日发布五大核心技术：星源插混让 2 吨大车油耗降至 3 升，昊铂 GT 攀登版 5 月上市",
+      "summary": "IT之家 4 月 12 日消息，在今晚的 2026 广汽科技日活动上，广汽集团集中发布了星源动力、星舰车身、星河智舱、星灵电子电气架构 4.0 以及车规级芯片生态等领域的最新成果。在动力技术方面，广汽发布了新一代星源动力技术品牌，涵盖星源插混与星源超级双擎（HEV+）两大系统。星源插混搭载 1.5T 混动发动机，可输出 125kW 最大功率与 245N·m 峰值扭矩；其所配备的 GMC 3.0 混动变速器提供雷霆版与疾风版两种版本。雷霆版主打高性能，可让中大型 SUV 的百公里加速时间进入 4 秒级，四驱系统轮端输出总扭矩达 10000N·m，低速爬坡坡度可达 70%（约 35°）。疾风版主打",
+      "source": "IT之家",
+      "publishTime": "2026-04-12",
+      "link": "https://www.ithome.com/0/938/364.htm"
+    },
+    {
+      "id": "34003df8-2d23-81ec-aef9-d76ae4b14b3b",
+      "title": "I spent decades in a stressful job that paid $30,000. At 53, I left to become a mailman and nearly tripled my salary.",
+      "summary": "Jim Lexa switched careers in his 50s, leaving journalism for the postal service and nearly tripling his income.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-12",
+      "link": "https://www.businessinsider.com/quit-journalism-career-change-post-office-salary-2026-4"
+    },
+    {
+      "id": "34003df8-2d23-8193-b927-eb74db0fee56",
+      "title": "黯然退场：苹果前 AI 负责人 Giannandrea 预计将于 4 月 15 日后离任",
+      "summary": "IT之家 4 月 12 日消息，彭博社马克 · 古尔曼（Mark Gurman）在其最新一期《Power On》中还提到了另外两件事，一是折叠屏 iPhone 仍按计划在 9 月亮相，并将与 iPhone 18 Pro 系列机型同步或紧随其后开售。此事IT之家已有多次报道。除此之外，2018 年从谷歌跳槽空降到苹果的前 AI 负责人约翰 · 詹南德雷亚（John Giannandrea）确认将于本周正式结束其在苹果的“休整期”。古尔曼指出，自 2025 年 3 月苹果决定大幅削减其 AI 职责以来，他的离职就已然注定。这一人事变动主要源于 Apple Intelligence 未能达到预期、升",
+      "source": "IT之家",
+      "publishTime": "2026-04-12",
+      "link": "https://www.ithome.com/0/938/363.htm"
+    },
+    {
+      "id": "34003df8-2d23-8164-b103-e347673492f1",
+      "title": "Linux 对 AI 生成代码制定规则：允许使用 Copilot 等辅助工具，人类承担失误责任",
+      "summary": "IT之家 4 月 12 日消息，据科技媒体 Tom's Hardware 今天报道，经历数月争论后，Linux 内核维护团队为 AI 生成代码制定正式准则，允许使用 GitHub Copilot 等辅助编程工具，但所有 Bug、安全问题最终都要由提交代码的人担责。IT之家在此援引 Tom's Hardware，这项政策出台前，开源社区围绕 AI 的争论已经持续很长时间，并在今年 1 月达到高潮。当时英特尔工程师 Dave Hansen 和甲骨文员工 Lorenzo Stoakes，就“是否严格限制 AI 工具”产生激烈争吵。最终 Linux 创始人 Linus Torvalds 亲自下场终结这",
+      "source": "IT之家",
+      "publishTime": "2026-04-12",
+      "link": "https://www.ithome.com/0/938/362.htm"
+    },
+    {
+      "id": "34003df8-2d23-8105-8fd8-efaf599430e1",
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-12",
+      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "id": "34003df8-2d23-810d-95f0-c74fab70d029",
+      "title": "Inside the $350 million missile silo that could become a data center",
+      "summary": "Tech firms are turning missile silos and abandoned mines into secure data centers as Americans flock to survival camps amid rising fears of world war.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-12",
+      "link": "https://www.businessinsider.com/inside-350-million-missile-silo-that-could-become-data-center-2026-4"
+    },
+    {
+      "id": "34003df8-2d23-8193-846b-dfff0f48934d",
+      "title": "An entrepreneur is transforming a Cold War-era nuclear silo into an underground data center. Look inside.",
+      "summary": "Nik Halik, an entrepreneur and venture capitalist, bought a decommissioned nuclear silo for more than $10 million. He plans to turn it into a data center.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-12",
+      "link": "https://www.businessinsider.com/cold-war-nuclear-missile-silo-data-center-2026-4"
+    },
+    {
+      "id": "34003df8-2d23-8124-bf24-c3292f722a05",
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-12",
+      "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
+    },
+    {
+      "id": "34003df8-2d23-81af-8b0e-d66aab784790",
+      "title": "摩尔线程完成 MiniMax M2.7 大模型 Day-0 适配，支持 MTT S5000 训推一体全功能 GPU",
+      "summary": "IT之家 4 月 12 日消息，摩尔线程已完成 MiniMax M2.7 大模型 Day-0 适配，支持 MTT S5000 旗舰级 AI 训推一体全功能 GPU。据介绍，MiniMax M2.7 是业界首个具备深度自我进化能力的大模型，能够自主构建 Agent Harness，通过 Agent Teams 协作、复杂 Skills 调用及 Tool Search Tool 等能力完成复杂生产力任务，甚至深度参与自身迭代。值得注意的是，摩尔线程已多次 Day-0 即时适配国产大模型，涵盖智谱 GLM-5、千问 QwQ-32B 等。IT之家注：MTT S5000 是专为大模型训练、推理及高性能计",
+      "source": "IT之家",
+      "publishTime": "2026-04-12",
+      "link": "https://www.ithome.com/0/938/361.htm"
+    },
+    {
+      "id": "34003df8-2d23-8173-be28-e5f77e7a0505",
+      "title": "苹果 AI 智能眼镜细节曝光：多款框型配色、竖向椭圆形摄像头，有望 2027 年上市",
+      "summary": "IT之家 4 月 12 日消息，彭博社记者马克 · 古尔曼（Mark Gurman）在其最新一期《Power On》通讯中披露，苹果公司即将推出全新的 AI 智能眼镜，将提供多种框型与配色可选。据称，这款开发中的产品目前正在测试一种独特的竖向椭圆形摄像头设计。他预测这款代号为 N50 的产品将于 2026 年底或 2027 年初发布，正式上市时间预计在 2027 年。约十年前，苹果成立了如今被称为 Vision Products Group 的团队以探索头戴设备，当时曾规划三条产品线：一款依赖 iPhone 的 AR 头显（配无线控制器）一款高端 XR 头显一款无需依赖 iPhone 的独立 ",
+      "source": "IT之家",
+      "publishTime": "2026-04-12",
+      "link": "https://www.ithome.com/0/938/360.htm"
+    },
+    {
+      "id": "34003df8-2d23-81db-ba5d-f1f4f5fd71fb",
+      "title": "荣耀朱臣才开箱 MagicBook 系列新品，演示“Magic 视界”新功能",
+      "summary": "IT之家 4 月 12 日消息，荣耀 PC 产品总经理朱臣才今天开箱 MagicBook 全线新品，包含 Pro 14、Pro 16、数字 14、数字 16 四款机型。朱臣才表示，这四款新机里他最喜欢的是 MagicBook Pro 16“青瓷绿”配色，B/C 面接口部采用圆融切线工艺，C 面则带有抚云曲面工艺设计，带有压力触控板，整体看起来非常清新、简洁。IT之家从视频中了解到，MagicBook Pro 14 的续航可以最长达到 16.7 小时，亚军则是数字 14，15.6 小时。而 Pro 16 和数字 16 差距不大，基本都是 15.3 小时。软件方面，该系列机型预装有“Magic 视",
+      "source": "IT之家",
+      "publishTime": "2026-04-12",
+      "link": "https://www.ithome.com/0/938/359.htm"
+    },
+    {
+      "id": "34003df8-2d23-8112-9667-fd8ee880c0fe",
+      "title": "You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99",
+      "summary": "We spend a lot of time at The Verge waxing poetic about the latest gadgets, but sometimes it’s the last-gen devices from several years ago that offer the better value. The 2021 Kindle Paperwhite is a great case in point — especially since you can grab it at Woot in refurbished condition with lockscr",
+      "source": "The Verge",
+      "publishTime": "2026-04-12",
+      "link": "https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale"
+    },
+    {
+      "id": "34003df8-2d23-8157-80a8-ed4b51b0ca31",
+      "title": "时隔七年系列新作：《地铁 2039》废案片段曝光，有望下周 State of Play 亮相",
+      "summary": "IT之家 4 月 12 日消息，根据多方爆料，由 4A Games 开发的《地铁》系列新作很可能将命名为《地铁 2039》（Metro 2039），且有望在下周举办的索尼 PlayStation State of Play 发布会上正式亮相。 YouTuber @That darn Crow 昨天还曝光了《地铁 2039》开场动画片段，以及另一段疑似包含部分游戏场景的片段。不过也有用户反馈称，其开场动画片段来源于《地铁 2039》前身（2022 年被取消）项目，属于早期开发内容，不确定是否会沿用到《地铁 2039》中。 关于该废案版本，目前已知本作以猎人（Hunter）为主角，故事发生在 20",
+      "source": "IT之家",
+      "publishTime": "2026-04-12",
+      "link": "https://www.ithome.com/0/938/357.htm"
+    },
+    {
+      "id": "34003df8-2d23-81da-a4fd-ed30c71a7196",
+      "title": "玩老游戏，最可怕的还不是画面落伍",
+      "summary": "本文来自微信公众号：触乐（ID：chuappgame），作者：梅林粉杖PlayStation 本月的会免之一是《古墓丽影 1-3 复刻版》，也就是那个传说中“让某奖杯数据网站出现 Bug”的游戏合集。由于 PS 平台一些奇怪的规定，这个合集的 PS4 版本分成了 3 个奖杯组，每组奖杯有白金，看起来比较正常。PS5 版本却是一个 16 银、268 铜，总共 284 个奖杯，又没有白金杯的大杂烩，而且由于奖杯实在太多，冲破了一些数据站的阈值。当初写代码的时候，可能没人预料到一个单独奖杯组里能出现这么大的数字。这个合集我之前一直没有开坑，原因无非是奖杯多、白金难度高，收集杯贯穿游戏流程始终，触发杯",
+      "source": "IT之家",
+      "publishTime": "2026-04-12",
+      "link": "https://www.ithome.com/0/938/356.htm"
+    },
+    {
+      "id": "34003df8-2d23-81a6-b484-ec9bd2e25100",
+      "title": "I took a break from being the 'planner friend.' Stepping back helped me learn which friendships I should prioritize.",
+      "summary": "Feeling burned out from always texting first, I took a break from being the 'planner friend.' I realized I don't mind being the one to initiate plans.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-12",
+      "link": "https://www.businessinsider.com/stopped-being-friend-who-texts-first-first-make-plans-2026-4"
+    },
+    {
+      "id": "34003df8-2d23-8112-8677-f5be8513d036",
+      "title": "新石器 CEO 余恩源：无人车不会替代快递员，人类承担更具价值的服务",
+      "summary": "IT之家 4 月 12 日消息，据新浪科技今天报道，新石器无人车 CEO 余恩源在智能电动汽车发展高层论坛 2026 期间表示，无人车不会替代快递员，而是会优化他们的工作模式。他对此解释道：“快递员全年无休，每日工作 10 小时，其中 6 小时用于上下楼收派件，4 小时用于运输。无人车将替代运输环节，让快递员专注于用户服务。物流全流程有 22 个环节，机器负责不适合人工的工作，人类承担更具价值的任务”。同时余恩源还透露，此前融资的 6 亿美元（IT之家注：现汇率约合 41.08 亿元人民币）将主要投入研发，聚焦 AI 布局。据IT之家此前报道，新石器已为北京、青岛的无人车引入 NeoClaw ",
+      "source": "IT之家",
+      "publishTime": "2026-04-12",
+      "link": "https://www.ithome.com/0/938/355.htm"
+    },
     {
       "id": "34003df8-2d23-81be-b8c9-e66edddbc0bf",
       "title": "Valve 工程师为 Linux 提出革命性显存分配优化方案，让 8GB 显卡重获新生",
@@ -48,6 +208,14 @@
       "source": "Business Insider",
       "publishTime": "2026-04-12",
       "link": "https://www.businessinsider.com/john-jacob-astor-iv-titanic-wealthiest-passenger-death-biography-facts"
+    },
+    {
+      "id": "34003df8-2d23-81aa-818a-f3721b9377c8",
+      "title": "The Hisense UR9 is a great first shot against OLED’s bow",
+      "summary": "RGB LED TVs have been the talk of the TV world this year, with models coming from all the manufacturers, and the first one of 2026 is here - the Hisense UR9. It's the first look at the viability of the new backlight technology outside of demo rooms, and it's a step above the traditional […]",
+      "source": "The Verge",
+      "publishTime": "2026-04-12",
+      "link": "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review"
     },
     {
       "id": "34003df8-2d23-8153-b50b-f2f6fbf496e0",
@@ -232,174 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-04-12",
       "link": "https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review"
-    },
-    {
-      "id": "34003df8-2d23-81e0-9c04-ca17aa8bcfc1",
-      "title": "There’s a Secret Ingredient to Making Luxury Ice at Home",
-      "summary": "Nice ice is big business, but you can get perfectly clear cubes at home without freezing your assets.",
-      "source": "Wired",
-      "publishTime": "2026-04-12",
-      "link": "https://www.wired.com/story/secret-ingredient-to-making-luxury-ice-at-home/"
-    },
-    {
-      "id": "34003df8-2d23-8140-9526-c09bc35a0ca9",
-      "title": "一汽高管周时莹呼吁行业打破各自为战：卖一辆车亏两三万，中国企业难道永远在国内厮杀？",
-      "summary": "IT之家 4 月 12 日消息，由车百会研究院主办的智能电动汽车发展高层论坛（2026）在北京召开，主题为“推进新能源汽车智能化、绿色化、融合化、国际化发展”。中国一汽战略与合作部副总经理、智能产业发展办公室主任周时莹出席并发表演讲，系统分析了当前汽车智能化发展面临的困境，呼吁行业打破各自为战的局面，构建协同发展的共同体。周时莹认为，汽车智能化的本源结构包含五个核心方面，只有筑牢这五大支柱，才能真正称之为智能化汽车。第一是算法，核心是让钢铁结构的车辆更像人一样驾驶，确保行驶绝对安全。第二是算力，目前各整车企业自建、购买或租赁的分散式算力中心，调度效率并不高。第三是数据，各车企拥有海量数据，动辄",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/332.htm"
-    },
-    {
-      "id": "34003df8-2d23-8115-861c-e5a61dcdb0a9",
-      "title": "消息称苹果已攻克 iPhone Ultra 折叠屏手机折痕、耐用性两大核心难题",
-      "summary": "IT之家 4 月 12 日消息，据彭博社记者马克 · 古尔曼本周（4 月 8 日）透露，苹果 iPhone Ultra 将解决折叠屏手机长期存在的两个关键问题。古尔曼对此解释道：“苹果工程师认为，他们已经解决了折叠 iPhone 的屏幕质量、整体耐用性问题，这两点一直是同类设备的长期缺陷”。具体来说，iPhone Ultra 展开屏幕时，折痕相比其他同款设备更不明显。苹果供应链分析师郭明錤曾透露，这款手机的内屏“几乎无折痕”；但古尔曼随后补充道，苹果采用了“降低折痕但无法完全消除”的技术。规格方面，该机将采用类似书本的开合设计，展开后提供 7.7 英寸内屏，适合看视频、玩游戏以及分屏多任务办公",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/331.htm"
-    },
-    {
-      "id": "34003df8-2d23-8121-9627-c5dac99fbc32",
-      "title": "荣耀机器人“闪电”“元气仔”外观公布，将参加 4 月 19 日北京亦庄马拉松比赛",
-      "summary": "IT之家 4 月 12 日消息，荣耀全球首席营销官关海涛今日宣布，荣耀机器人“闪电”“元气仔”正式出征 4 月 19 日北京亦庄马拉松比赛，成为全球首个终端大厂派出选手的机器人马拉松挑战者。IT之家注意到，荣耀终端股份有限公司销售与服务总裁王班刚刚也公布了两款机器人的外观形象。其中“闪电”采用红色涂装，胸甲处有两颗类似眼睛造型的小蓝灯和 HONOR 标识，整体造型呈运动风格；“元气仔”采用银色涂装，造型更类人，个子相较“闪电”更矮小，但手部、关节等细节更精细。据荣耀技术团队介绍，荣耀机器人“闪电”集成了荣耀在智能制造与具身 AI 领域的最新成果，高性能高爆发稳定的本体、高动态运控算法、实时感知",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/330.htm"
-    },
-    {
-      "id": "34003df8-2d23-8165-a204-ffd89051bb35",
-      "title": "Companies don't want your résumé. You'll have to show up instead.",
-      "summary": "In this Sunday edition of Business Insider Today, we're talking about the death of the résumé and what comes next.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-12",
-      "link": "https://www.businessinsider.com/bi-today-sunday-newsletter-no-more-resumes-show-up-instead-2026-4"
-    },
-    {
-      "id": "34003df8-2d23-8114-b3dc-edc38df8de5a",
-      "title": "I spent a night at a buzzy Hilton in Chicago. My $240 room was way more luxurious than I expected.",
-      "summary": "After spending one night at theWit, a Hilton hotel in Chicago, I think it's a top choice for luxury travelers on a budget.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-12",
-      "link": "https://www.businessinsider.com/thewit-chicago-hilton-hotel-review"
-    },
-    {
-      "id": "34003df8-2d23-81f9-b985-e98eefc760c1",
-      "title": "The Screen Time Maximalists Who Spend an Ungodly Amount of Time on Their Phones",
-      "summary": "As debates over social media addiction rage, people with extreme screen times tell WIRED they have no plans to cut back.",
-      "source": "Wired",
-      "publishTime": "2026-04-12",
-      "link": "https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/"
-    },
-    {
-      "id": "34003df8-2d23-8188-827a-e26d56687025",
-      "title": "磁吸爬壁、多场景作业，我国特种机器人迈上具身智能新台阶",
-      "summary": "IT之家 4 月 12 日消息，据央视新闻今日报道，我国近日在特种机器人领域取得多项技术突破，多款自主研发的智能机器人已正式投入实际应用场景。据介绍，国内首个具身智能特种机器人已在化工储罐、船舶、能源设施等高风险场景投入使用。该机器人采用人形上半身与轮式磁吸底盘相结合的设计，全身拥有 15 个自由度，可通过灵巧的双臂完成电焊、探伤、除锈等多种高危作业，并支持快速更换手部工具以切换不同工种。其强大的电磁吸附能力使其能够在 90 公斤自重下稳固附着于垂直金属墙面，即使额外承载一名成年人也不会影响行走和作业。该机器人采用线缆供电方式，可连续长时间工作。操作人员可通过遥控装置配合 VR 眼镜，实现双臂",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/329.htm"
-    },
-    {
-      "id": "34003df8-2d23-81cf-b6e6-f44615b442d6",
-      "title": "乐道沈斐：换电站投资貌似比普通充电站贵 2-3 倍，但实际折算到每千瓦时的成本更便宜",
-      "summary": "IT之家 4 月 12 日消息，在智能电动汽车发展高层论坛上，蔚来乐道汽车总裁沈斐谈起了换电站和普通充电站的成本差异。沈斐认为，换电站的投资貌似比普通充电站投资要贵 2-3 倍，但实际折算到每千瓦时的成本，其实应该要比充电站要更便宜。他表示，其实换电站是一个充分值得投资的行业。据IT之家此前报道，今年 2 月 6 日 22 时 33 分 18 秒，蔚来 1 亿次换电正式达成。在 2 月 9 日，蔚来创始人、董事长、CEO 李斌发布长文，称 2026 年计划新建 1000 座换电站，加电风景线增至 100 条，继去年 G318 川藏换电路线、滇藏换电路线贯通之后，今年将打通丝绸之路换电路线。另外",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/328.htm"
-    },
-    {
-      "id": "34003df8-2d23-8157-8a11-dd2d13d3a6b0",
-      "title": "消息称微软下周举办 Xbox 小型发布会，玩家热议《辐射 3》重制版与《上古卷轴 6》是否登场",
-      "summary": "IT之家 4 月 12 日消息，科技媒体 Windows Central 编辑 Jez Corden 今天在《Septic Sauce》视频播客中透露，微软可能会在下周举办 Xbox 小型发布会，规模不大，但可能带来一些惊喜。该消息一出随即引发玩家热议，有的玩家认为《辐射 3》重制版会登上发布会，但正式的深度解析则可能要等到 6 月发布会。另外一些玩家则认为，《辐射 3》重制版公布能让 B 社制作人陶德 · 霍华德（IT之家注：Todd Howard）顺理成章地出现在 6 月发布会，届时他或许会透露一些《上古卷轴 6》的新消息。不过也有用户认为，B 社最早要到今年年底才会公开《上古卷轴 6》预",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/326.htm"
-    },
-    {
-      "id": "34003df8-2d23-815f-9c6d-fbb27e5a57e1",
-      "title": "元戎启行首次证实前 DeepSeek 多模态核心研究员阮翀加盟，出任首席科学家",
-      "summary": "IT之家 4 月 12 日消息，由车百会研究院主办的智能电动汽车发展高层论坛（2026）在北京召开，主题为“推进新能源汽车智能化、绿色化、融合化、国际化发展”。元戎启行 CEO 周光上发表演讲，宣布元戎已打造 400 亿参数规模的基础模型，实现辅助驾驶从“执行系统”到“认知系统”的范式跃迁。他还首次对外确认，前 DeepSeek 多模态技术核心研究员阮翀（IT之家注读音：ruǎn chōng）已加盟公司，出任首席科学家。他透露阮翀已于数月前加入，但此前未有公开信息。阮翀将于 2026 年北京车展首次公开亮相并发表演讲，展示“基座模型”在智能驾驶领域的最新成果。公开资料显示，阮翀 2018 年毕",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/325.htm"
-    },
-    {
-      "id": "34003df8-2d23-81bf-a7fe-c6c049365533",
-      "title": "任天堂《超级马力欧银河大电影》上映 10 天，总票房破 1 亿",
-      "summary": "IT之家 4 月 12 日消息，猫眼专业版数据，电影《超级马力欧银河大电影》上映 10 天，总票房破 1 亿。根据环球影业官方公布的数据来看，本片全球首周末票房狂揽 25.63 亿人民币，登顶当周北美及全球票房第一，刷新今年北美最高首周末票房纪录，拿下今年迄今最高单片开画成绩。IT之家了解到，《超级马力欧银河大电影》是 2023 年《超级马力欧兄弟大电影》的续集，将延续游戏的宇宙冒险设定，讲述马力欧与伙伴们远赴浩瀚太空展开全新征程的故事，由美国照明娱乐和日本任天堂共同制作、环球影业发行。IT 之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/323.htm"
-    },
-    {
-      "id": "34003df8-2d23-8167-bc7a-dc156e969f78",
-      "title": "Trump's Treasury is taking over millions of student-loan accounts. Obama tried this, and it didn't succeed.",
-      "summary": "President Donald Trump is moving the federal student loan portfolio to the Treasury Department. The Obama administration already tried that.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-12",
-      "link": "https://www.businessinsider.com/student-loan-debt-moving-to-treasury-obama-pilot-defaulted-borrowers-2026-4"
-    },
-    {
-      "id": "34003df8-2d23-81a4-a28a-c1a9ed67a791",
-      "title": "荣耀 MagicBook Pro 14 2026 款笔记本白 & 绿真机亮相，4 月 23 日发布",
-      "summary": "IT之家 4 月 12 日消息，荣耀中国区智慧生活业务部部长林林今日分享了 MagicBook Pro 14 2026 款笔记本的白 & 绿配色真机。根据官方此前预热信息来看，新机的两款配色分别命名为「月光白」和「青瓷绿」。参考IT之家此前报道，荣耀 MagicBook Pro 16 / 14 2026 款笔记本将上线全新 Magic 视界，支持 YOYO AI 智慧搜索（可搜索本地、云端的内容）等能力。另外，荣耀 MagicBook Pro 14 笔记本部分规格也已公布，新机将搭载第三代英特尔酷睿 Ultra X9 处理器、3.1K 超清荣耀护眼屏，号称“久看不累眼”。同时，这款笔记本采用 ",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/318.htm"
-    },
-    {
-      "id": "34003df8-2d23-81bf-8065-c9bd65cd422c",
-      "title": "Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short",
-      "summary": "This compact pool robot keeps its price down, but its performance doesn’t match that of more capable cleaners.",
-      "source": "Wired",
-      "publishTime": "2026-04-12",
-      "link": "https://www.wired.com/review/mammotion-spino-e1-pool-robot/"
-    },
-    {
-      "id": "34003df8-2d23-81f7-9f5c-ff7a04fd20ca",
-      "title": "智元机器人 4 月 17 日举办 2026 合作伙伴大会，将发 4 款本体新品及 4 个 AI 大模型",
-      "summary": "IT之家 4 月 12 日消息，智元机器人官方宣布，将于 4 月 17 日在上海举办 2026 合作伙伴大会。届时将有 2500 位来自 34 个国家和地区的合作伙伴参会，规模远超去年首届大会，也是智元迄今为止举办的规模最大、覆盖范围最广的合作伙伴盛会。据介绍，智元机器人将在本次大会上发布 4 个本体新品、4 个 AI 大模型、7 个解决方案及开放数据集。这是继 4 月 7 日至 14 日智元“AI WEEK”发布周推出开源具身数据集“AGIBOT WORLD 2026”和“GO-2 基座模型”等产品之后，智元在本体和 AI 大模型领域的又一次集中发布。智元创始人、董事长兼 CEO 邓泰华与智",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/317.htm"
-    },
-    {
-      "id": "34003df8-2d23-810a-964a-c32acfde52ae",
-      "title": "消息称顽皮狗正开发《神秘海域》新作，与《星际：异端先知》并行推进",
-      "summary": "IT之家 4 月 12 日消息，顽皮狗工作室负责人尼尔 · 德鲁克曼去年曾暗示，除了《星际：异端先知》外，该团队还在开发另一款游戏。爆料者 @AlexandreNGamR 上周爆料称，顽皮狗正在同时开发的这款游戏属于《神秘海域》IP 新作。这意味着索尼 PlayStation 招牌 IP 之一《神秘海域》系列可能将回归。另外，《神秘海域：失落的遗产》项目总监肖恩 · 埃斯凯格（Shaun Escayg）之前还在 ins 上发了一张图，图中一门大炮从悬崖上俯瞰一座海滨城市，被玩家解读是在暗示系列新作。IT之家查询发现，该系列上一部作品为《神秘海域：盗贼遗产合集》（《神秘海域 4：盗贼末路》及其衍",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/316.htm"
-    },
-    {
-      "id": "34003df8-2d23-8180-8eab-d017c2eb1948",
-      "title": "告别千篇一律，谷歌为 Pixel 系列手机推送语音信箱自定义问候语功能",
-      "summary": "IT之家 4 月 12 日消息，据科技媒体 Android Authority 今天报道，谷歌现已为 Pixel 系列手机推送语音信箱自定义问候语功能，可以更换掉默认提示语“您拨打的用户暂时无法接听，请在听到哔一声后留言”，告别千篇一律。IT之家在此援引 Android Authority，谷歌从去年 8 月起开始为 Pixel 系列手机推出“Take a Message”功能，可自动接听未接来电、提供实时文字转写，并在电话应用中提供对话记录，本质上是传统语音信箱的现代化版本。自定义问候语功能支持 Pixel 6 或更新机型，用户只需要将电话应用更新到 217 Beta 测试版即可开始使用。如",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/314.htm"
-    },
-    {
-      "id": "34003df8-2d23-816c-9e3b-de18527920fa",
-      "title": "105 元 = 169 元泰国金枕榴莲 + 360 元鸡蛋，京东 1 号会员店年卡狂促",
-      "summary": "京东 1 号会员店尊享年卡定价 198 元，今日狂促 99 元开卡后送：1 号会员店 · 冷冻泰国金枕榴莲肉 2 斤（日常售价 169 元）叶黄素可生食鸡蛋 12 箱（20 枚 / 箱，官方定价 360 元）共 4 步非常简单点击下方卡片付 99 元购买年卡下单后需要下载“1 号会员店”App → 登录京东账号App 右下角“我的” → 优惠券 → 点击榴莲肉优惠券“立即使用”加购物车App 首页底部中间“会员中心” → 下滑到“每月尊享权益” → 鸡蛋加购物车进入购物车，两款一起下单，如果没有购买其他产品，需 +6 元邮费，即可下单入手：京东 1 号会员店尊享年卡送 2 斤冷冻泰国金枕榴莲肉",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/313.htm"
-    },
-    {
-      "id": "34003df8-2d23-81de-b5de-d720eb1785ae",
-      "title": "我是如何进行文件管理的",
-      "summary": "在这篇文章里，我想从什么是文件管理、为什么要文件管理、如何进行文件管理三个方面来谈谈自己的想法。查看全文",
-      "source": "少数派",
-      "publishTime": "2026-04-12",
-      "link": "https://sspai.com/post/106369"
-    },
-    {
-      "id": "34003df8-2d23-8154-923b-f9d2b6170037",
-      "title": "Feeling overly dependent on AI? Here are 5 ways to keep your brain sharp.",
-      "summary": "A Workday report revealed that nearly half of workers are concerned about AI agents eroding their critical thinking skills.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-12",
-      "link": "https://www.businessinsider.com/how-to-keep-brain-sharp-avoid-overreliance-ai-2026-4"
     }
   ],
   "macroEvents": [
