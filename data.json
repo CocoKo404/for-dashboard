@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-04-13 06:00",
+  "updatedAt": "2026-04-13 08:03",
   "news": [
+    {
+      "id": "34003df8-2d23-81ff-a283-c2cc3bc35b4b",
+      "title": "美国《消费者报告》车辆可靠性排行出炉：丰田、斯巴鲁、雷克萨斯前三",
+      "summary": "IT之家 4 月 13 日消息，北京时间今天（4 月 13 日）凌晨，据外媒 Carscoops 报道，美国《消费者报告》公布了最新的汽车可靠性排行榜，丰田排名第一，斯巴鲁和雷克萨斯紧随其后，本田与宝马进入前五。特斯拉是变化最明显的品牌，排名上升 8 位至第九，主要得益于 Model 3 和 Model Y 表现改善。尽管如此，Cybertruck 仍低于平均水平，但整体来看，其装配质量和硬件问题已有改善。马自达则明显下滑，猛降 8 名降至第 14 位。老车型表现稳定，但两款插混车型 CX-70 和 CX-90 问题较多。报道认为，这一现象反映出一个常见情况：当车企同时推进新平台、新动力和新技",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/377.htm"
+    },
+    {
+      "id": "34003df8-2d23-81ac-9d8d-eb51cd81fe2d",
+      "title": "消息称英国监管机构紧急评估 Anthropic 新 AI 模型 Claude Mythos 的风险",
+      "summary": "IT之家 4 月 13 日消息，据英国《金融时报》当地时间周日报道，英国金融监管机构正与政府网络安全机构及各大银行紧急磋商，评估人工智能公司 Anthropic 最新大模型带来的风险。报道援引两名知情人士消息称，英国央行、金融行为监管局及财政部官员正与国家网络安全中心展开磋商，核查 Anthropic 最新 AI 模型所暴露的关键信息系统潜在漏洞。该报称，未来两周内，英国各大银行、保险公司及交易所的代表将出席与监管机构的会议，听取关于 Claude Mythos Preview 这一模型所带来的网络安全风险通报。路透社周五曾援引两名消息人士报道，美国财政部长斯科特 · 贝森特已召集华尔街各大银",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/376.htm"
+    },
+    {
+      "id": "34003df8-2d23-8192-a418-d2d8ea27e6c4",
+      "title": "特斯拉 FSD 登陆欧洲，但和美国版很不一样",
+      "summary": "IT之家 4 月 13 日消息，2026 年 4 月 10 日，荷兰车辆管理局 RDW 为特斯拉的 FSD 驾驶辅助系统（监督版）颁发了欧洲首张车型认证许可，这使得荷兰成为欧洲大陆首个批准特斯拉该半自动驾驶系统在公共道路面向用户使用的国家。据汽车媒体 Teslarati 报道，此次 RDW 的认证审批历经 18 个月测试，期间在欧盟道路累计行驶超 160 万公里，完成 1.3 万次用户随车体验，并提交了涵盖 400 多项合规要求的认证文件。自 2026 年初起，特斯拉欧洲公司已在阿姆斯特丹、埃因霍温等城市开展公开试驾体验活动，让乘客首次在欧洲街道感受该系统的实际表现。据IT之家了解，欧洲版 F",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/375.htm"
+    },
+    {
+      "id": "34003df8-2d23-8102-846a-d9ef309d131a",
+      "title": "为“巨硬”铺路：马斯克称 Grok Computer 智能体“三天后”发布更广泛的测试版",
+      "summary": "IT之家 4 月 13 日消息，北京时间今天凌晨，马斯克在 X 平台上恢复用户关于 Grok Computer 智能体何时推出的帖子时表示：私人测试版已向部分用户开放，三天后将发布更广泛的测试版。而在今年 3 月，X 平台有用户发现“Grok Computer”即将上线，并推测其将会是“巨硬（Macrohard）的尝鲜版”，预计将以马斯克旗下 AI 平台 Grok 的智能体这一身份登场。随后，马斯克转发了这则帖子并回应说：“即将推出”。当月，马斯克透露了一个由特斯拉和 xAI 联合开发的大型新项目，名称正为“数字擎天柱（Digital Optimus）”或“巨硬”。据IT之家了解，马斯克曾表示",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/374.htm"
+    },
+    {
+      "id": "34003df8-2d23-8170-a5b7-ee270d58ae32",
+      "title": "Anthropic 上线 Claude for Word 测试版，主打“律师的高效助理”",
+      "summary": "IT之家 4 月 13 日消息，当地时间 4 月 11 日，Anthropic 宣布推出 Claude for Word 测试版，向微软软件体系发起又一次挑战，同时也旨在吸引法律行业用户。据IT之家了解，该公司今年早些时候将 Claude 引入 Excel 和 PowerPoint，此次推出的 Word 插件面向需要大量处理文档的专业人士，尤其适宜法律审查、财务备忘录撰写以及反复编辑方面等场景。Claude for Word 允许用户就文档内容提问，并获得带有可点击段落引用的回答。其他功能还包括：在保留周围样式、编号和格式的情况下编辑选中文本；用户可逐条接受或拒绝每一次编辑的“修订模式”。根据",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/373.htm"
+    },
+    {
+      "id": "34003df8-2d23-8103-8bf5-e80cb1e7e31e",
+      "title": "IT早报 0413：马斯克版“微信” XChat 即将上线；曝华为 Mate 80 系列销量突破 500 万；曝苹果攻克 iPhone Ultra 折叠屏手机折痕与耐用性难题...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 4 月 13 日星期一，今天的重要科技资讯有：1、马斯克旗下 XChat 独立消息应用登陆苹果 App Store，号称私密通信但安全疑云重重XChat 已上架苹果商店，主打端到端加密、无广告、无需手机号注册，号称要打造西方版微信。但其安全性备受质疑，被指宣传与隐私政策矛盾，且未经过第三方安全审计。>> 查看详情2、突破 500 万大关：消息称华为 Mate 80 系列手机销量约 508.07 万长期关注国内手机市场份额的博主 @RD观测 4 月 11 日分享了华为旗舰手机销量情况：截至 2026 W14（IT之家注：第十四周），华为 Mate ",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/371.htm"
+    },
+    {
+      "id": "34003df8-2d23-8164-8b5e-dee20dcce74a",
+      "title": "微软资深工程师揭秘：初代 Windows 任务管理器仅 80KB",
+      "summary": "IT之家 4 月 13 日消息，戴夫 · 普卢默是 Windows 诸多标志性功能（如 ZIP 压缩文件支持）背后的工程师，他分享了自己是如何将任务管理器打造得如此高效的。据他在 YouTube 视频中介绍，如今的 Windows 任务管理器体积约 4MB，而他最初编写的版本仅有 80KB。普卢默开发这款 Windows 工具时，核心考量是当时硬件条件极为有限。即便系统其他部分全部卡死，这款用于在系统彻底崩溃后恢复电脑的工具，也必须保持流畅、响应迅速。普卢默表示：“每一行代码都有代价，每一次内存分配都会留下痕迹。每一项依赖都像一个白吃白住、从不交房租的室友。因此，我编写任务管理器时，并没有按照",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/372.htm"
+    },
+    {
+      "id": "34003df8-2d23-81c2-b098-f2ad73375a82",
+      "title": "保时捷 2026 年一季度全球交付量同比下滑 15%，中国市场暴跌 21%",
+      "summary": "IT之家 4 月 13 日消息，保时捷 2026 年开局表现低迷，这家跑车制造商一季度在全球交付车辆 60991 台，同比去年同期下滑 15%。销量下滑主要受中国与北美市场需求疲软影响，尤其是旗下电动汽车板块。与此同时，保时捷也面临部分自身决策带来的挑战，包括一些备受争议的战略布局。品牌部分问题源于入门产品线。保时捷 Boxster 与 Cayman 车型已停产，其电动换代车型却遭遇延期。原本计划同时用于奥迪车型的全新平台研发也被推迟，导致保时捷在该细分市场既无燃油车型可选，也无电动车型接替。这一产品空白让公司损失了大量潜在销量。保时捷的电动化战略同样显露疲态。在前任 CEO 奥利弗 · 布鲁",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/370.htm"
+    },
+    {
+      "id": "34003df8-2d23-8199-be9f-dfff04e48275",
+      "title": "张雪回应“张雪机车新手禁令”：对订单的影响不止 10%，10 年后再看就做得很棒",
+      "summary": "IT之家 4 月 13 日消息，据央视新闻今日报道，张雪在接受《面对面》专访时，回应了“张雪机车新手禁令”。他表示，限购对订单的影响不止 10%，但是大排量的摩托车容易让人兴奋。转速一拉起来，年轻人就越容易兴奋，当控制不住兴奋时，可能危险就来了。虽然做这个事，是有利益损失的，但如果这件事引起了社会热议，促成了驾照分级，也是功德一件。今年少赚点钱，对现在来说可能有点影响，但张雪机车未来要成为世界很高端的品牌时，10 年后，再来看今天，就做得很棒，这点损失忽略不计。IT之家注意到，张雪机车在 WSBK 葡萄牙站夺得冠军后，引发极大关注。4 月 3 日，中国首款 WSBK 冠军摩托车张雪 820RR",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/369.htm"
+    },
+    {
+      "id": "34003df8-2d23-81c9-9567-fbeee92ae998",
+      "title": "韦布望远镜发现宇宙首批恒星迄今最强证据",
+      "summary": "IT之家 4 月 13 日消息，几十年来，天文学家只能借助理论模型研究宇宙中最早诞生的恒星。如今，詹姆斯 · 韦布空间望远镜（JWST）的观测结果，为这些古老的“第三星族星”提供了迄今为止最具说服力的证据。研究发现，它们聚集在一个宇宙大爆炸仅 4 亿年后就形成的小型伴天体周围。这一发现已刊载于两篇配套研究论文中，两篇预印本均发布在 arXiv 服务器上：一篇由剑桥大学的罗伯托 · 马约利诺领衔，另一篇则由佛罗伦萨大学的埃尔卡 · 鲁斯塔主导。若该发现得到证实，将为人类打开一扇直接观测早期宇宙环境的窗口，并有助于解释初代恒星如何塑造了后续宇宙中的一切天体。初代恒星据IT之家了解，与如今的恒星不同",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/368.htm"
+    },
+    {
+      "id": "34003df8-2d23-8153-ae4a-fb89884a3403",
+      "title": "OPPO Find X9 Ultra 手机三款外观曝光，4 月 21 日发布",
+      "summary": "IT之家 4 月 13 日消息，OPPO × 哈苏影像新品联合发布会将于 4 月 21 日晚 19:00 在成都举办，届时将带来 Find X9s Pro 和 Find X9 Ultra 两款旗舰新机。IT之家注意到，微博搜索页面现已上线 OPPO Find X9 Ultra 三款外观配色，分别为大地苔原、极地冰川以及绒砂峡谷，采用居中圆形相机模组。OPPO Find 系列产品负责人周意保此前介绍，OPPO Find X9s Pro 和 Find X9 Ultra 手机全系标配 144Hz 电竞级高刷、新一代 1nit 明眸护眼屏、新一代 ColorOS 16、超声波指纹解锁、IP66&68&",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/367.htm"
+    },
+    {
+      "id": "34003df8-2d23-81ff-8ded-e58126105a09",
+      "title": "为避开《GTA6》，消息称微软《神鬼寓言》新作或延期发售",
+      "summary": "IT之家 4 月 13 日消息，今年 2 月，科技媒体 The Verge 曾报道称，微软可能会重新考虑多款 Xbox 游戏的发售时间。Rockstar Games 的下一款作品牵动着整个游戏行业，各大发行商都急于避开《GTA6》的发售日期。而据业内人士杰夫 · 格拉布透露，开放世界角色扮演游戏《神鬼寓言》新作已在内部宣布延期。全新《神鬼寓言》本有望为微软游戏部门带来亟需的业绩提振。微软最新财报显示，其第一方游戏与 Xbox Game Pass 等服务均出现亏损。遗憾的是，玩家们或许需要再等更久，才能见证 Playground Games 能否成功重启这一经典系列。IT之家注意到，在今年 1 ",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/366.htm"
+    },
+    {
+      "id": "34003df8-2d23-813c-8884-e30f31069677",
+      "title": "NASA 阿耳忒弥斯 2 号航天员返回休斯敦，分享飞掠月球感悟",
+      "summary": "IT之家 4 月 13 日消息，美国国家航空航天局（NASA）阿耳忒弥斯 2 号绕月任务的乘组人员已返回地球，如今回到了位于休斯敦的家中。NASA 宇航员里德 · 怀斯曼、维克多 · 格洛弗、克里斯蒂娜 · 科赫，以及加拿大航天局的杰里米 · 汉森于美国东部时间周六（4 月 11 日）降落在埃林顿联合储备基地，这里距离 NASA 约翰逊航天中心仅有很短的车程。该乘组搭乘 NASA 的“猎户座”飞船完成了为期 10 天的绕月任务，并于美国东部时间周五晚间（4 月 10 日）在圣地亚哥附近海域溅落。这是半个多世纪以来人类首次月球探测任务，宇航员们在太空中拍摄的震撼画面，吸引了全世界的目光。怀斯曼、",
+      "source": "IT之家",
+      "publishTime": "2026-04-13",
+      "link": "https://www.ithome.com/0/938/365.htm"
+    },
+    {
+      "id": "34003df8-2d23-81d2-8dd5-f0bad527232f",
+      "title": "Oil prices spike after failed US-Iran peace talks and Trump's blockade of the Strait of Hormuz",
+      "summary": "Vice President JD Vance traveled to Pakistan on Saturday to engage in peace talks with Iran. However, the two countries failed to reach a deal.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-13",
+      "link": "https://www.businessinsider.com/oil-prices-surge-failed-us-iran-peace-talks-trumps-blockade-2026-4"
+    },
+    {
+      "id": "34003df8-2d23-811b-a123-e3430170dcb4",
+      "title": "Suspect in Molotov attack on Sam Altman's home linked to AI Discord server",
+      "summary": "Authorities in San Francisco booked the suspect on Friday, and is facing several charges. Including arson of an inhabited structure or property.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-13",
+      "link": "https://www.businessinsider.com/sam-altman-attack-suspect-ai-discord-link-2026-4"
+    },
     {
       "id": "34003df8-2d23-8148-b48e-d00a0e705460",
       "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
@@ -280,126 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-04-12",
       "link": "https://www.businessinsider.com/trump-blockade-hormuz-iran-2026-4"
-    },
-    {
-      "id": "34003df8-2d23-81fd-af90-c06a104f34a1",
-      "title": "I asked Meta's new Muse Spark AI to judge my lunch and give me recipes for dinner, and it mostly delivered",
-      "summary": "Muse Sparks rated my lunch a 7.5 out of 10, told me to watch my sodium intake, and gave me dinner recipes that helped me get rid of leftovers.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-12",
-      "link": "https://www.businessinsider.com/used-meta-muse-spark-ai-rate-lunch-suggest-dinner-2026-4"
-    },
-    {
-      "id": "34003df8-2d23-812f-a667-ed7603037e37",
-      "title": "影石新品 4 月 15 日登场，预计为 Insta360 GO Ultra 口袋相机特别版",
-      "summary": "IT之家 4 月 12 日消息，影石官方今天宣布，4 月 15 日晚 20:00 将发布一款新品，宣传语“公路传奇，新装上阵”，感兴趣的小伙伴们可以关注IT之家后续报道。虽然影石没有在预热文案中给出新品名称，但从视频剪影我们可以看出，这款新品很有可能是 Insta360 GO Ultra 口袋相机的特别版。",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/350.htm"
-    },
-    {
-      "id": "34003df8-2d23-815d-bc25-eaeb20cd31ea",
-      "title": "1599 → 634 元：MOVA G12 Mix 洗地机 3 期免息，除螨 / 吸尘 / 洗地等五合一",
-      "summary": "MOVA G12 Mix 洗地机去年 7 月 12 日上市，支持 180° 躺平洗地，定价 1599 元。今日官方旗舰店国补后仅需 883.15 元，叠加淘金币后低至 633.9 元破冰新低：点击宝贝详情页“抢淘金币限时大额抵扣”红色横幅，即可使用淘金币。天猫 MOVA G12mix 洗地机五合一多重优惠 633.9 元直达链接本次还赠 307 元耗材礼包，整机（除附件耗材）3 年质保。这款洗地机配有 250W 无刷电机和 100000r / min 转速马达，拥有 18000Pa 吸力，可更换除螨仪、扁口吸、软毛刷、全地形吸尘地刷等不同配件，适配地毯、瓷砖、木板等多种地形。洗地机支持 180",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/349.htm"
-    },
-    {
-      "id": "34003df8-2d23-81b7-867a-ecb121eac11c",
-      "title": "央视起底 AI“造黄”产业链：9.9 元教程批量生成擦边视频",
-      "summary": "IT之家 4 月 12 日消息，今晚，总台《财经调查》栏目播出专题报道，曝光了一条利用人工智能技术从事非法“造黄”活动的完整产业链。央视记者接到消费者举报，发现竟然有人在网上公开兜售利用 AI 技术制作色情擦边视频的教程。如图所示，这些帖子通常标有“AI 制作美女视频”“全网最强大尺度”“AI 擦边赛道日入 5 位数”等标题，宣称仅凭一张图片或几段文字即可自行生成“让人满意的大尺度视频”。教程不仅教授操作方法，还刻意引导用户如何规避平台监管，例如建议使用境外图生视频 AI 软件，或将程序部署在本地电脑离线运行。除了兜售教程，众多社交平台上还有博主售卖各类 AI 生成擦边视频的“提示词”。所谓“",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/348.htm"
-    },
-    {
-      "id": "34003df8-2d23-8127-9427-f5c0f5d8f367",
-      "title": "I love having my 20-year-old daughter visit home from college. I also love it when she leaves, and I have my independence again.",
-      "summary": "My daughter comes home from college, and we get to deepen our relationship. But I also love when she leaves so I can focus on my new life without her.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-12",
-      "link": "https://www.businessinsider.com/adult-daughter-visits-from-college-love-when-leaves-2026-4"
-    },
-    {
-      "id": "34003df8-2d23-81d2-8661-c40c908bd604",
-      "title": "小米推出 27 英寸 REDMI 显示器 G27U 2026：4K 160Hz 双模切换，1499 元",
-      "summary": "IT之家 4 月 12 日消息，小米去年 5 月推出了 27 英寸的 REDMI G27U 显示器，首发 1599 元，现已降价至 1399 元。小米现在推出了 2026 款的 REDMI G27U 显示器，京东显示为 1499 元，4 月 17 日开售，但从目前已公布的信息来看几乎没有升级。京东小米 REDMI G27U 2026 显示器 27 英寸 4K160Hz 双模 1K320Hz 电竞显示器 Fast IPS HDR400 10Bit 1ms GTG 1499 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取：点此查看。数码补",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/346.htm"
-    },
-    {
-      "id": "34003df8-2d23-81a1-a8c2-c45eecebad8a",
-      "title": "配合大电影上线，任天堂推出《超级马力欧银河 1+2》同捆版 Switch 2 游戏机",
-      "summary": "IT之家 4 月 12 日消息，据游戏媒体 IGN 今天报道，为配合《超级马力欧银河》大电影上线，任天堂最近推出《超级马力欧银河 1+2》同捆版 Switch 2 游戏机，售价 500 美元（IT之家注：现汇率约合 3423 元人民币），相比单买省 20 美元（现汇率约合 136.9 元人民币）。据报道，虽然 20 美元优惠看上去不多，但在当前 DRAM 涨价潮和游戏行业大环境下，这个价格其实比表面上更有意义。而且目前《超级马力欧银河》大电影票房表现强劲，任天堂显然是想把电影的热度转换为硬件销量。同时，有传闻称任天堂已在假日季销量不佳后减产 Switch 2，这意味着公司正在寻找新方法推动销量",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/345.htm"
-    },
-    {
-      "id": "34003df8-2d23-8100-ab56-eee282d8e4d0",
-      "title": "天猫官方自营：苹果 AirPods Pro 3 无线耳机 1358 元百补 + 国补限时购",
-      "summary": "苹果上月推出新款 AirPods Pro 3 无线降噪耳机，售价 1899 元。今日天猫优品官方旗舰店同款报价百亿补贴直降至 1759 元，叠加以下多重优惠，到手仅需 1357.73 元：▼ 点击详情页活动横幅参与百亿补贴限时频道 3 倍补，闪电加补 224.27 元；▼ 点击详情页活动横幅可用淘金币抵扣 105.54 元；商品价格下方可领 5% 政府补贴，到手仅需 1357.73 元。天猫 Apple AirPods Pro (第三代) 无线降噪版蓝牙耳机淘金币减 105.54 元 + 国补减 71.46 元补贴后 1357.73 元百亿补贴新款 AirPods Pro 3 具备超低噪音麦克",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/344.htm"
-    },
-    {
-      "id": "34003df8-2d23-8118-934e-d091943f0ed9",
-      "title": "宇通高管李高鹏：支持自动驾驶，但大客车不应搞无人驾驶",
-      "summary": "IT之家 4 月 12 日消息，据新浪科技报道，智能电动汽车发展高层论坛（2026）今天在京举办，宇通集团新能源研究院院长李高鹏在会上表示，电动化推动了产业的快速发展，智能化将是下一阶段发展的重点。但他认为大客车不应该搞无人驾驶。李高鹏对此表示：“我赞成自动驾驶，但不赞成无人驾驶。大客车拉一车乘客（30 人、50 人），为什么一定要搞无人驾驶？行业里大家对安全的认识可能不同。飞机可以实现无人驾驶，为什么还要有飞行员？高铁实现无人驾驶也不是单纯技术难度，拉一车人的时候人机共驾才更安全”。“一定要人看着机器在开车，机器开车，人负责监督，这才是更安全的体系。”，他对此解释道。李高鹏提到，宇通的自动驾",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/343.htm"
-    },
-    {
-      "id": "34003df8-2d23-81c6-98db-f785c07948a8",
-      "title": "小米推出米家空调强劲风超 1.5 匹新品：升级 13cc 双缸压缩机，2699 元",
-      "summary": "IT之家 4 月 12 日消息，小米新上架了一款米家空调强劲风超 1.5 匹，号称“空调六边形战士”，京东显示为 2699 元，叠加国补后 2294.15 元，4 月 28 日开售。京东小米空调 米家 强劲风 【超 1.5 匹】 一级能效 13cc 大排量双缸压缩机 空调挂机 35GW-PG15/X1A1 国家补贴 2699 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取：点此查看。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券6 类家电支持",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/342.htm"
-    },
-    {
-      "id": "34003df8-2d23-811c-9006-c78c37112a1f",
-      "title": "This TikTok vigilante is calling out what he says are obnoxious influencers — and getting legal threats",
-      "summary": "The creator behind the Daadi Snacks TikTok account posts videos criticizing influencer behavior. Some of his targets have not been amused.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-12",
-      "link": "https://www.businessinsider.com/daadi-snacks-tiktok-targets-influencer-culture-2026-4"
-    },
-    {
-      "id": "34003df8-2d23-81ba-b83d-de804ec32f02",
-      "title": "请立即更新：Adobe 发布 Acrobat Reader 系列软件安全更新，修复零日漏洞",
-      "summary": "IT之家 4 月 12 日消息，Adobe 昨天在官网发布公告，为 Acrobat、Acrobat Reader 软件发布紧急安全更新，修复 CVE-2026-34621 零日漏洞，建议所有用户尽快安装。受影响软件如下：软件名更新通道受影响版本平台Acrobat DCContinuous26.001.21367 及更早Windows/macOSAcrobat Reader DCContinuous26.001.21367 及更早Windows/macOSAcrobat 2024Classic 202424.001.30356 及更早Windows/macOS如果用户开启了自动更新，则系统会在检",
-      "source": "IT之家",
-      "publishTime": "2026-04-12",
-      "link": "https://www.ithome.com/0/938/338.htm"
-    },
-    {
-      "id": "34003df8-2d23-8151-bd9b-eb704e496f81",
-      "title": "‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For",
-      "summary": "AMC’s new black comedy about a manchild tech titan spinning out of control is a skewering Silicon Valley’s billionaire class deserves.",
-      "source": "Wired",
-      "publishTime": "2026-04-12",
-      "link": "https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/"
-    },
-    {
-      "id": "34003df8-2d23-8161-a4a6-df0b125e5e14",
-      "title": "The AI code wars are heating up",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer ap",
-      "source": "The Verge",
-      "publishTime": "2026-04-12",
-      "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic"
-    },
-    {
-      "id": "34003df8-2d23-817b-acca-f24b11f59523",
-      "title": "Why Is It So Hard to Fix an Electric Bike? (2026)",
-      "summary": "Bike shop mechanics have lost fingers and their shirts while repairing ebikes of dubious origins. Make sure yours is repairable and third-party certified.",
-      "source": "Wired",
-      "publishTime": "2026-04-12",
-      "link": "https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/"
     }
   ],
   "macroEvents": [
