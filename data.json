@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-04-15 04:15",
+  "updatedAt": "2026-04-15 07:07",
   "news": [
+    {
+      "id": "34203df8-2d23-816f-9a10-ec4f7bad4932",
+      "title": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan agrees to leave board",
+      "summary": "Meta commits to deploying 1 GW of custom in-house MTIA chips codesigned with Broadcom in sweeping new multiyear deal announced Tuesday",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-15",
+      "link": "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html"
+    },
+    {
+      "id": "34203df8-2d23-813e-ae85-e990d1bfa250",
+      "title": "NAACP sues Elon Musk's xAI over Memphis data center air pollution",
+      "summary": "Elopn Musk, who is the world's richest person, has been counting on the greater Memphis area to serve as the backbone for xAI's buildout.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-15",
+      "link": "https://www.cnbc.com/2026/04/14/elon-musk-xai-memphis-data-centers.html"
+    },
+    {
+      "id": "34203df8-2d23-8143-ae49-dd5090f67a0b",
+      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+      "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-15",
+      "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/"
+    },
+    {
+      "id": "34203df8-2d23-81fb-a8cb-c2338031eb13",
+      "title": "Tech Life",
+      "summary": "Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?",
+      "source": "BBC Tech",
+      "publishTime": "2026-04-15",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "34203df8-2d23-81ec-95f6-c9e9a74f26f9",
+      "title": "I've worked at Costco for 20 years. Here are 9 of the best things I'm seeing on shelves right now.",
+      "summary": "As a longtime employee, I think the Nespresso Vertuo Next machine and Lego Easter baskets are some of the best things to get at Costco right now.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-15",
+      "link": "https://www.businessinsider.com/best-things-at-costco-this-month-according-to-employee-2026-4"
+    },
+    {
+      "id": "34203df8-2d23-81ff-8021-c628e60516f2",
+      "title": "Crypto exchange Kraken confirms it has confidentially filed for an IPO",
+      "summary": "Kraken co-CEO Arjun Sethi said the crypto exchange has confidentially filed for a U.S. initial public offering, confirming CNBC's previous reporting.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-15",
+      "link": "https://www.cnbc.com/2026/04/14/crypto-exchange-kraken-confirms-it-has-confidentially-filed-for-an-ipo.html"
+    },
+    {
+      "id": "34203df8-2d23-8142-a16e-d6970abe55cc",
+      "title": "The 10 Best TV Shows to Stream This Month (April 2026)",
+      "summary": "The Boys, The Testaments, and Stranger Things: Tales From ’85 are just a few of the TV shows we’re bingeing this month.",
+      "source": "Wired",
+      "publishTime": "2026-04-15",
+      "link": "https://www.wired.com/story/the-best-shows-to-stream-right-now/"
+    },
+    {
+      "id": "34203df8-2d23-814f-8d44-ff11da7d5ad3",
+      "title": "The FCC just saved Netgear from its router ban for no obvious reason",
+      "summary": "The United States' foreign router ban didn't make a whole lot of sense, and today may not change that. The FCC has just granted Netgear a conditional approval to import its future consumer routers, cable modems, and cable gateways into the US through October 1st, 2027 - even though the company build",
+      "source": "The Verge",
+      "publishTime": "2026-04-15",
+      "link": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval"
+    },
+    {
+      "id": "34203df8-2d23-817b-b0d7-f5455a4b7325",
+      "title": "Why the stock market feels like 'Groundhog Day' for some investors",
+      "summary": "The back-and-forth of the Iran war is creating the same repetitive market patterns day after day.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-15",
+      "link": "https://www.businessinsider.com/stock-market-feels-like-groundhog-day-for-some-investors-2026-4"
+    },
+    {
+      "id": "34203df8-2d23-8180-8462-ea3d246734fc",
+      "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+      "summary": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
+      "source": "Wired",
+      "publishTime": "2026-04-15",
+      "link": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/"
+    },
     {
       "id": "34203df8-2d23-8120-99b9-dfbf0de0133a",
       "title": "Nvidia stock is on a 10-day winning streak and up 18% over that stretch",
@@ -320,86 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-04-14",
       "link": "https://www.theverge.com/tech/911635/blackmagic-design-davinci-resolve-21-photo-page-raw-support"
-    },
-    {
-      "id": "34203df8-2d23-8100-b984-e57535815482",
-      "title": "Amazon to buy Globalstar to bolster Leo satellite business in deal worth about $11.6 billion",
-      "summary": "Amazon said it would acquire Globalstar, giving its nascent satellite internet business a boost as it vies to compete with Elon Musk's SpaceX.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-14",
-      "link": "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html"
-    },
-    {
-      "id": "34203df8-2d23-8103-aae3-e657c39fbc57",
-      "title": "More than 2,000 stores are set to close across the US in 2026. Here's the list.",
-      "summary": "7-Eleven, Apple, and Saks are among those closing stores and restaurants in 2026, citing long-term strategy and shifting consumer habits.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-14",
-      "link": "https://www.businessinsider.com/stores-closing-in-2026-list"
-    },
-    {
-      "id": "34203df8-2d23-81bd-8750-f331dfd5961f",
-      "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
-      "summary": "Anthropic and OpenAI are clashing over a proposed Illinois law that would let AI labs largely off the hook for mass deaths and financial disasters.",
-      "source": "Wired",
-      "publishTime": "2026-04-14",
-      "link": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/"
-    },
-    {
-      "id": "34203df8-2d23-8107-856c-fc8d0537c53c",
-      "title": "小米 Poco C81 Pro 手机参数曝光：6.9 英寸 720P LCD 屏幕，紫光展锐 T7250 处理器",
-      "summary": "IT之家 4 月 14 日消息，据科技媒体 Notebookcheck 今天报道，小米曾短暂在全球官网上架 Poco C81 Pro 手机，参数随之意外曝光，但相关页面目前已经撤下。该机定位入门，搭载紫光展锐 T7250 处理器。IT之家在此援引 Notebookcheck，这款手机配备一块 6.9 英寸 LCD 屏幕，分辨率 1600*720，支持 120Hz 高刷，最高亮度可达 800 cd/m²。具备 1300 万像素后置主摄、800 万像素前摄，没有长焦镜头，符合价格定位。性能方面，这款手机搭载紫光展锐 T7250 处理器，不支持 5G，采用 2*A75+6*A55 八核架构，适合日常",
-      "source": "IT之家",
-      "publishTime": "2026-04-14",
-      "link": "https://www.ithome.com/0/939/164.htm"
-    },
-    {
-      "id": "34203df8-2d23-8131-b4b5-f96b6bbf57b6",
-      "title": "BlackRock says the private credit 'shakeout' is an opportunity for the $13.9 trillion fund giant to dominate",
-      "summary": "There may be some private credit losers in the future, but doesn't plan to be one of them. On their Q1 analyst call, Fink and co explained why they will win.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-14",
-      "link": "https://www.businessinsider.com/blackrock-sees-opportunity-for-growth-in-private-credit-shakeout-2026-4"
-    },
-    {
-      "id": "34203df8-2d23-81fe-9d99-cd69efb712e4",
-      "title": "The FCC Has a Fast Lane for Complaints About Trump’s Media Critics",
-      "summary": "Internal emails obtained by WIRED reveal how a conservative legal group with a direct line into FCC chairman Brendan Carr’s office built the case against Jimmy Kimmel and his employees.",
-      "source": "Wired",
-      "publishTime": "2026-04-14",
-      "link": "https://www.wired.com/story/the-fcc-has-a-fast-lane-for-complaints-about-trumps-media-critics/"
-    },
-    {
-      "id": "34203df8-2d23-81a7-963a-e16885284ba0",
-      "title": "立讯精密 2026 年一季度净利同比预增 20%~22%，部分消费电子终端客户缩减产量",
-      "summary": "IT之家 4 月 14 日消息，立讯精密 4 月 15 日发布 2026 年（一季报）业绩预告报告：归母净利润：365228.96 万～371316.11 万元，同比增长 20.00%～22.00%扣非净利润：270228.96 万～286316.11 万元，同比增长 12.16%～18.83%基本每股收益：0.50 元 / 股～0.51 元 / 股AI 解读立讯精密 2026 年第一季度预计实现归属于上市公司股东的净利润 365228.96 万～371316.11 万元，较上年同期增长 20.00%～22.00%；预计扣除非经常性损益后的净利润为 270228.96 万～286316.11 ",
-      "source": "IT之家",
-      "publishTime": "2026-04-14",
-      "link": "https://www.ithome.com/0/939/162.htm"
-    },
-    {
-      "id": "34203df8-2d23-81f7-8d5a-d01237efe405",
-      "title": "让英伟达 RTX 5090 显卡支持苹果 macOS，Tiny Corp 发布开源驱动",
-      "summary": "IT之家 4 月 14 日消息，YouTube 博主 Alex Ziskind 前天发布视频，使用 Tiny Corp 最近发布的开源驱动，将英伟达 RTX 5090 显卡与苹果 Mac mini M4 Pro 搭配使用，并在 macOS 上成功运行。苹果多年前与英伟达闹掰，导致 macOS 系统失去后者的 GPU 驱动支持，也让 CUDA 生态在 macOS 几乎消亡，开发者只能被迫转向苹果自家的 Metal 架构。据介绍，“Tiny GPU”开源定制驱动可以通过雷雳 5/USB4 接口连接外置显卡，让 RTX 5090 直接与苹果芯片 Mac 通信，完全不需要虚拟机等性能折损方案。Alex",
-      "source": "IT之家",
-      "publishTime": "2026-04-14",
-      "link": "https://www.ithome.com/0/939/163.htm"
-    },
-    {
-      "id": "34203df8-2d23-81fa-884a-e7d2b56bc1a1",
-      "title": "45 secrets you never knew about the Titanic",
-      "summary": "The Titanic sank in 1912, exactly 114 years ago. Here are interesting facts about the ship, its crew, and the discovery of the ship.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-14",
-      "link": "https://www.businessinsider.com/titanic-secrets-facts-2018-4"
-    },
-    {
-      "id": "34203df8-2d23-814c-a8a9-fdf2b3d7102e",
-      "title": "Bose’s noise-crushing QC Ultra Earbuds are nearly 20 percent off right now",
-      "summary": "When it comes to the best noise-canceling earbuds, the competition has gotten fierce. Apple, Sony, Samsung, and Google all offer excellent options, though, unsurprisingly, Bose still retains the noise-canceling crown with the latest QuietComfort Ultra Earbuds. Luckily, you can now grab the second-ge",
-      "source": "The Verge",
-      "publishTime": "2026-04-14",
-      "link": "https://www.theverge.com/gadgets/911188/bose-quietcomfort-ultra-earbuds-2nd-gen-turtle-beach-stealth-pivot-deal-sale"
     }
   ],
   "macroEvents": [
