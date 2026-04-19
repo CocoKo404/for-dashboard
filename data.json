@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-04-20 04:04",
+  "updatedAt": "2026-04-20 06:02",
   "news": [
+    {
+      "id": "34703df8-2d23-8137-9d3f-d5d43be541f2",
+      "title": "OpenAI’s existential questions",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-20",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/"
+    },
+    {
+      "id": "34703df8-2d23-819d-9f8c-d83b7a3670af",
+      "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
+      "summary": "Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-20",
+      "link": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html"
+    },
+    {
+      "id": "34703df8-2d23-8152-81a5-ccc2cc06449a",
+      "title": "Blue Origin successfully reused its New Glenn rocket",
+      "summary": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch and landing for the first stage booster, and officially giving Jeff Bezos a reusa",
+      "source": "The Verge",
+      "publishTime": "2026-04-20",
+      "link": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket"
+    },
     {
       "id": "34703df8-2d23-81ba-872d-c0aaa55660dd",
       "title": "Cloud development platform Vercel was hacked",
@@ -376,30 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-04-19",
       "link": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review"
-    },
-    {
-      "id": "34703df8-2d23-8106-be7c-dbe6aed0e75b",
-      "title": "The future of local TV news has taken a Trumpian turn",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more stories on Big Tech versus politics in Washington, DC, follow Tina Nguyen and read Regulator. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it sta",
-      "source": "The Verge",
-      "publishTime": "2026-04-19",
-      "link": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news"
-    },
-    {
-      "id": "34703df8-2d23-810b-80c2-ee322d792aaa",
-      "title": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems",
-      "summary": "Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are \"definitely the next ChatGPT.\"",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-19",
-      "link": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html"
-    },
-    {
-      "id": "34703df8-2d23-810f-98ba-c919c06f842a",
-      "title": "粉丝意外发现《生化危机：安魂曲》未使用音频素材，暗示佣兵模式 DLC 即将到来",
-      "summary": "IT之家 4 月 19 日消息，据游戏媒体 VGC 今天报道，社交媒体用户 Syrkov 最近深挖《生化危机：安魂曲》游戏文件，意外发现一组未使用的音频，暗示本作即将推出“佣兵模式”。玩家发现，这组未使用的音频节奏明显偏快，不太符合《生化危机：安魂曲》的整体风格，部分音轨包含类似滴答声的节奏，可能暗示着时间限制机制。这种类型的音频暗示着《安魂曲》即将推出“佣兵模式”DLC。并且卡普空此前已经宣布，将在今年 5 月发布本作的 DLC。IT之家注：“佣兵模式”是《生化危机》系列中广受欢迎的玩法，玩家需要在限定时间内尽可能多地击杀敌人。",
-      "source": "IT之家",
-      "publishTime": "2026-04-19",
-      "link": "https://www.ithome.com/0/940/932.htm"
     }
   ],
   "macroEvents": [
