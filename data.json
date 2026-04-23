@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-04-24 06:07",
+  "updatedAt": "2026-04-24 07:12",
   "news": [
+    {
+      "id": "34b03df8-2d23-811f-9dc7-f8e91e6951a8",
+      "title": "US soldier accused of using military secrets to win $400,000 on Polymarket",
+      "summary": "Gannon Ken Van Dyke was indicted on charges of using classified information to win on a prediction market.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-24",
+      "link": "https://www.businessinsider.com/army-soldier-gannon-van-dyke-indicted-military-secrets-polymarket-2026-4"
+    },
+    {
+      "id": "34b03df8-2d23-814f-80d9-d9fb1aa0dc06",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber",
+      "source": "The Verge",
+      "publishTime": "2026-04-24",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors"
+    },
+    {
+      "id": "34b03df8-2d23-8109-81ae-e5afb6c6b5e1",
+      "title": "Anthropic says Claude Code did get worse — but shoots down speculation it 'nerfed' the model",
+      "summary": "Anthropic said it found three issues with Claude Code after users complained the AI tool deteriorated.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-24",
+      "link": "https://www.businessinsider.com/anthropic-admits-claude-code-issues-user-complaints-denies-nerfing-degrading-2026-4"
+    },
+    {
+      "id": "34b03df8-2d23-8169-a1cb-e5e88a1f7816",
+      "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+      "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+      "source": "Wired",
+      "publishTime": "2026-04-24",
+      "link": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/"
+    },
     {
       "id": "34b03df8-2d23-812e-9596-f9223e5c127e",
       "title": "Brendan Carr’s war on wokeness targets inclusive children&#8217;s television",
@@ -368,38 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-04-24",
       "link": "https://www.theverge.com/tech/917497/motorola-moto-g-stylus-2026-review"
-    },
-    {
-      "id": "34b03df8-2d23-81f4-9d8b-faa387c7410d",
-      "title": "Meet the most powerful women in the Trump administration",
-      "summary": "President Donald Trump appointed several women to high-ranking roles in his administration, including the first female White House chief of staff.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-24",
-      "link": "https://www.businessinsider.com/trump-white-house-administration-cabinet-powerful-women-2025-3"
-    },
-    {
-      "id": "34b03df8-2d23-8100-9880-c51a5632594c",
-      "title": "Microsoft brings Xbox back, scraps Microsoft Gaming",
-      "summary": "Xbox CEO Asha Sharma has had a busy week. Sharma held an internal town hall with Xbox employees today, just days after announcing an Xbox Game Pass price cut, commenting on the status of the Xbox mobile store, and teasing a mysterious Xbox and Discord partnership. One of the items on the agenda for ",
-      "source": "The Verge",
-      "publishTime": "2026-04-24",
-      "link": "https://www.theverge.com/report/917485/microsoft-return-of-xbox-no-more-microsoft-gaming"
-    },
-    {
-      "id": "34b03df8-2d23-818f-9112-c2f6d33c10f2",
-      "title": "A warning for brands: Be careful when 'clipping'",
-      "summary": "Clipping has taken over social media. Brands are jumping in, and lawyers say the FTC could take notice.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-24",
-      "link": "https://www.businessinsider.com/will-ftc-start-cracking-down-on-social-media-clipping-advertising-2026-4"
-    },
-    {
-      "id": "34b03df8-2d23-8116-83c8-d2b1ca2edba2",
-      "title": "Software stocks plunge on ServiceNow, IBM results as AI fears escalate",
-      "summary": "Shares of ServiceNow sank over 16%, dragging down other software names like Salesforce, Workday and Oracle with it.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-24",
-      "link": "https://www.cnbc.com/2026/04/23/software-stocks-plunge-on-servicenow-ibm-results-ai-fears-escalate.html"
     }
   ],
   "macroEvents": [
