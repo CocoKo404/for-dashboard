@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-04-25 01:29",
+  "updatedAt": "2026-04-25 02:07",
   "news": [
+    {
+      "id": "34c03df8-2d23-8196-9c77-fe1264ec8701",
+      "title": "BMW is one step closer to selling you a color-changing car",
+      "summary": "At CES 2022, BMW debuted its BMW iX Flow concept car that could dynamically change its appearance using the same grayscale E Ink panels found in e-readers like the Kindle. It was followed by the BMW i Vision Dee concept and the BMW i5 Flow Nostokana that were both upgraded with color E Ink panels. [",
+      "source": "The Verge",
+      "publishTime": "2026-04-25",
+      "link": "https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing"
+    },
+    {
+      "id": "34c03df8-2d23-81ec-94dc-e5b9192f56ff",
+      "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
+      "summary": "Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-25",
+      "link": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html"
+    },
+    {
+      "id": "34c03df8-2d23-815c-b849-ed36c19ad001",
+      "title": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
+      "summary": "Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts apply to a number of Google’s first-party devices, from the Pixel 10 Pro to the Pixel Buds Pro 2, as well as the wearables like the Pixel Watch 4. I",
+      "source": "The Verge",
+      "publishTime": "2026-04-25",
+      "link": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale"
+    },
+    {
+      "id": "34c03df8-2d23-81ab-8417-fdab6f7a6293",
+      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+      "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+      "source": "Wired",
+      "publishTime": "2026-04-25",
+      "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/"
+    },
+    {
+      "id": "34c03df8-2d23-811f-a428-f727d4f234b4",
+      "title": "The RAM shortage could get even worse if Samsung labor protests cut production",
+      "summary": "The RAM shortage caused by demand from AI datacenters is already driving up prices on phones, PS5s, and Raspberry Pis, but it could be about to get even worse. Samsung is facing employee protests over demands for wages that are more competitive with rival chip manufacturer SK Hynix, including removi",
+      "source": "The Verge",
+      "publishTime": "2026-04-25",
+      "link": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests"
+    },
+    {
+      "id": "34c03df8-2d23-81c6-9cb6-fd058187b844",
+      "title": "Designer Baby Companies Are in Turmoil",
+      "summary": "Bootstrap Bio and Manhattan Genomics, which were pursuing human embryo editing to prevent serious disease, have shut down.",
+      "source": "Wired",
+      "publishTime": "2026-04-25",
+      "link": "https://www.wired.com/story/designer-baby-companies-are-in-turmoil/"
+    },
+    {
+      "id": "34c03df8-2d23-8170-a5f9-cd7e4ac0d52e",
+      "title": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here",
+      "summary": "Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-25",
+      "link": "https://www.cnbc.com/2026/04/24/20k-job-cuts-at-meta-microsoft-raise-concern-of-ai-labor-crisis-.html"
+    },
+    {
+      "id": "34c03df8-2d23-816d-a5cc-eb863a7c34b3",
+      "title": "How Project Maven taught the military to love AI",
+      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart",
+      "source": "The Verge",
+      "publishTime": "2026-04-25",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson"
+    },
+    {
+      "id": "34c03df8-2d23-81b0-a979-feca824d523c",
+      "title": "Who is Jaafar Jackson? Everything to know about Michael Jackson's nephew",
+      "summary": "Jaafar Jackson, who plays his famous uncle in the new biopic \"Michael,\" is the son of Jermaine Jackson and Alejandra Genevieve Oaziaza.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-25",
+      "link": "https://www.businessinsider.com/who-is-jaafar-jackson-michael-jackson-nephew-movie-2026-4"
+    },
     {
       "id": "34c03df8-2d23-8175-8656-c53db0faf402",
       "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
@@ -328,78 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-04-24",
       "link": "https://www.businessinsider.com/lionsgate-boss-michael-reshoots-rambo-prequel-john-wick-2026-4"
-    },
-    {
-      "id": "34c03df8-2d23-81f0-90df-e292b3d12deb",
-      "title": "vivo X300 FE 手机现身海外：骁龙 8 Gen 5 芯片、6.31 英寸 OLED 屏幕，6500mAh 电池",
-      "summary": "IT之家 4 月 24 日消息，vivo 官方今天在奥地利市场公布了 X300 FE 手机的预热信息，新机将搭载骁龙 8 Gen 5 芯片、6.31 英寸 AMOLED 屏幕，4 月 29 日正式发售。据介绍，这款手机定位“小屏旗舰”，机身厚度 8.2mm，重量 192g，配备 6.31 英寸的 AMOLED 屏幕，分辨率 2640*1216 像素，支持 120Hz 高刷，HDR 峰值亮度可达 5000 尼特，通过 IP69 防水防尘认证。规格方面，这款手机搭载高通骁龙 8 Gen 5 处理器，拥有 5000 万像素 1/1.56 英寸后置主摄、800 万像素超广角、5000 万像素 1/1.",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/355.htm"
-    },
-    {
-      "id": "34c03df8-2d23-812d-80d4-d6a7130972e7",
-      "title": "The Trump phone still isn’t real",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. We're back to being ignored, and the phone seems no closer to an actual launch. Last week Trump Mobile overhauled its website, in the process officially ",
-      "source": "The Verge",
-      "publishTime": "2026-04-24",
-      "link": "https://www.theverge.com/tech/918011/trump-mobile-t1-phone-real-redesign-release-date"
-    },
-    {
-      "id": "34c03df8-2d23-81cf-b724-c8a7e4b46347",
-      "title": "I don&#8217;t think Gwyneth Paltrow knows what a peptide is",
-      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. These days, it seems I cannot escape peptides. Online, I've been assaul",
-      "source": "The Verge",
-      "publishTime": "2026-04-24",
-      "link": "https://www.theverge.com/column/918084/optimizer-gwyneth-paltrow-peptides"
-    },
-    {
-      "id": "34c03df8-2d23-81d5-ad80-ed3b80a07b03",
-      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
-      "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss op",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-24",
-      "link": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/"
-    },
-    {
-      "id": "34c03df8-2d23-8148-a302-d948ed34af93",
-      "title": "realme 真我商城明起停止运营，业务全面整合至 OPPO 体系",
-      "summary": "IT之家 4 月 24 日消息，据 realme 真我商城官网公告，真我商城将于 4 月 25 日（明天）停止提供购物、商品内容浏览、用户反馈、活动参与、商品评价、帖子评论、观看视频与直播、积分服务，保留历史订单信息查询服务等。“真我商城”小程序也将同步下架。对于有查看历史订单需求的消费者，可以在 OPPO 商城授权登录后，进入“我的订单”，查看“真我历史订单”。同时消费者在真我商城下的会员权益可在 OPPO 商城中继续使用。IT之家此前报道，真我官方在 3 月 20 日发布公告，宣布其在中国大陆地区的售后服务将逐步整合至 OPPO 服务体系。自 2026 年 4 月 1 日起，realme ",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/354.htm"
-    },
-    {
-      "id": "34c03df8-2d23-8126-b9a3-e2fdd0393714",
-      "title": "保时捷出售布加迪股份，聚焦核心品牌业务",
-      "summary": "IT之家 4 月 24 日消息，据路透社报道，保时捷今天宣布将布加迪、Rimac 股份出售给美国 HOF Capital 主导的投资联盟，此次交易是保时捷新任 CEO 专注振兴核心品牌的一部分。根据协议，保时捷将剥离布加迪、Rimac 合资企业的 45% 股份，该企业成立于 2021 年，拥有法国布加迪公司及克罗地亚 Rimac 公司 20.6% 的股份。目前，协议相关财务条款并未披露。知情人士透露，布加迪 Rimac 估值超 10 亿美元（IT之家注：现汇率约合 68.44 亿元人民币），保时捷和布加迪 Rimac 拒绝置评。值得注意的是，保时捷此举正值其回顾战略之际。去年该公司营业利润暴跌",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/353.htm"
-    },
-    {
-      "id": "34c03df8-2d23-81fa-998f-ece9175c4a18",
-      "title": "My grandmother handed me $2,000 for graduation and said, 'Go to Europe.' I had no idea how her gift would change my life.",
-      "summary": "After graduation, my grandmother gave me a life-changing gift: $2,000 to go to Europe. It inspired a love for travel and helped me be a better teacher.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-24",
-      "link": "https://www.businessinsider.com/went-to-europe-after-graduating-in-us-changed-my-life-2026-4"
-    },
-    {
-      "id": "34c03df8-2d23-812d-bed7-ff5ea77b6c70",
-      "title": "亨通光电 2026 年一季度净利润 11.05 亿元同比增长 98.53%，营收 177.91 亿元同比增长 34.09%",
-      "summary": "IT之家 4 月 24 日消息，亨通光电今日发布 2026 年一季度报告：营业总收入： 177.91 亿元，同比增长 34.09%归母净利润： 11.05 亿元，同比增长 98.53%扣非净利润： 11.33 亿元，同比增长 107.68%经营现金流： -1.94 亿元，同比下降 352.66%基本每股收益： 0.46 元 / 股，同比增长 98.56%稀释每股收益： 0.46 元 / 股，同比增长 98.56%加权平均净资产收益率： 3.44%，同比增加 1.52 个百分点研发费用 636,813,588.73 元，同比增长 38.81%🤖 AI 解读报告期内，公司实现营业收入 177.91",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/352.htm"
-    },
-    {
-      "id": "34c03df8-2d23-81a9-813c-e16d5dea4805",
-      "title": "10 celebrities' favorite sandwiches, from the basic to the bizarre",
-      "summary": "Whether it's a basic Italian sub or a collection of things from the the fridge, celebrities' tastes in sandwiches vary.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-24",
-      "link": "https://www.businessinsider.com/celebrity-sandwich-favorite-recipes"
     }
   ],
   "macroEvents": [
