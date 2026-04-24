@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-04-25 03:27",
+  "updatedAt": "2026-04-25 04:07",
   "news": [
+    {
+      "id": "34c03df8-2d23-81a0-90a3-f4e72a748d68",
+      "title": "Amazon custom chips get a boost from Meta, giving the cloud giant another path to win in AI",
+      "summary": "Amazon hits a record high after its new Meta deal highlights how AWS is gaining traction in AI through both cloud capacity and its custom chips.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-25",
+      "link": "https://www.cnbc.com/2026/04/24/amazon-custom-chips-get-a-boost-from-meta-giving-the-cloud-giant-another-path-to-win-in-ai.html"
+    },
+    {
+      "id": "34c03df8-2d23-8192-a99b-d8c9a116d5a9",
+      "title": "How a new Amazon-backed Hollywood production startup deploys AI for speed and cost-cutting",
+      "summary": "A new AI-powered hybrid Hollywood startup backed by AWS is betting that cutting-edge production tech can cut costs, speed up filming and bring jobs back to LA.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-25",
+      "link": "https://www.cnbc.com/2026/04/24/an-aws-backed-hollywood-startup-deploys-ai-for-speed-and-cost-cutting.html"
+    },
+    {
+      "id": "34c03df8-2d23-812a-aac9-d7503c1e293b",
+      "title": "I bought a blueberry farm at 55. It wasn't what I expected, and I'd do things differently if younger, but I have no regrets.",
+      "summary": "Harry Jones and his wife run a Pennsylvania blueberry farm, but it can't fully support them, so he still works a full-time job in lumber.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-25",
+      "link": "https://www.businessinsider.com/man-bought-blueberry-farm-55-still-works-full-time-job-no-regrets-2026-4"
+    },
+    {
+      "id": "34c03df8-2d23-81ce-ad0d-dc6bb4726406",
+      "title": "Give Mom Warm Coffee All Year Long With This Ember Smart Mug Deal",
+      "summary": "If an Ember mug is at the top of Mom’s wish list, this sale is worth checking out.",
+      "source": "Wired",
+      "publishTime": "2026-04-25",
+      "link": "https://www.wired.com/story/ember-mug-2-deal-april-2026/"
+    },
     {
       "id": "34c03df8-2d23-812c-be5c-cefe916239be",
       "title": "Intel's stock soars more than 20% as chipmaker shows signs of a turnaround",
@@ -368,38 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-04-24",
       "link": "https://www.businessinsider.com/ai-startups-hollywood-pitch-decks-raised-millions-2025-10"
-    },
-    {
-      "id": "34c03df8-2d23-8185-b041-e3788f6dfc2f",
-      "title": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
-      "summary": "Passwords have long been the default way we secure accounts online but the NCSC has said passkeys are a better option.",
-      "source": "BBC Tech",
-      "publishTime": "2026-04-24",
-      "link": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "34c03df8-2d23-81ab-b371-e118a2989912",
-      "title": "Meta 与亚马逊 AWS 达成合作，部署数千万 Graviton 核心构建 AI 基础设施",
-      "summary": "IT之家 4 月 24 日消息，Meta 今天与亚马逊 AWS 达成合作协议，大规模部署 AWS Graviton 处理器，为下一代 AI 打下基础。据介绍，Meta 将首先部署数千万个 Graviton 核心，随后根据 AI 能力增长进度灵活扩展。虽然两家公司暂未披露具体合作条款，但亚马逊副总裁 Nafea Bshara 表示，本次协议合作期间为三到五年，将使 Meta 跻身 AWS 前五家 Graviton 大客户之列。随着 Agentic AI（代理式人工智能）兴起，实时推理、代码生成、搜索以及多步骤任务等任务越来越需要 CPU 参与，而 Graviton 处理器正好契合这种密集型需求，",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/360.htm"
-    },
-    {
-      "id": "34c03df8-2d23-8149-a947-c04b0e17d623",
-      "title": "鑫谷推出无界巡天系列机箱：底部倾斜不挡光设计，275mm 宽度",
-      "summary": "IT之家 4 月 24 日消息，鑫谷 (Segotep) 现已推出无界 · 巡天系列机箱，包括 M-ATX 的 500 和 ATX 的 700 / 700T 三款产品。其属于 270° 无柱全景透视左右分舱“海景房”类型，底部右侧抬升形成斜面，保障下方风扇光效不被阻挡。IT之家注意到，三款无界 · 巡天机箱宽度均为 275mm、深度均为 425mm，支持 410mm 显卡、180mm 电源、160mm 处理器散热器，提供 90mm 背线空间，包括 2 个 3.5\" 盘位和 1 个 2.5\" 盘位，顶部支持 360 冷排。其中无界 · 巡天 500 拥有 5 条扩展槽，具备 9 个风扇位；无界 ",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/359.htm"
-    },
-    {
-      "id": "34c03df8-2d23-81a5-bc0d-cea9c588bb4d",
-      "title": "Steam Machine 等硬件上线 Komodo Station 商店，无线控制器有望先行发售",
-      "summary": "IT之家 4 月 24 日消息，Valve 于 2025 年 11 月公布了三款硬件 ——Steam Machine、Steam Controller 及 Steam Frame，发售时间迟迟未确定。今天有用户发现，Komodo Station 作为 Valve 在日本、韩国、中国台湾及中国香港等市场的官方代理商，其官网已正式上线 Steam Machine 等三款产品的页面。Valve 三款新品原计划在 2026 年初同步发售，但受到 DRAM 及 NAND 存储芯片短缺和价格上涨影响，Steam Machine 的发售时间表已多次推迟，但仍“希望于 2026 年内发货”。据 VR 及 Va",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/358.htm"
     }
   ],
   "macroEvents": [
