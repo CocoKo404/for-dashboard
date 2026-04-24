@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-04-24 16:30",
+  "updatedAt": "2026-04-24 18:08",
   "news": [
+    {
+      "id": "34c03df8-2d23-816c-b19d-e8947dd7da09",
+      "title": "Office AI leaderboards are here. Tell us if you think they're fun or fraught",
+      "summary": "Companies tracking employee AI usage could incentivize \"tokenmaxxing\" to climb the ranks. Is a rivalry brewing in your office?",
+      "source": "Business Insider",
+      "publishTime": "2026-04-24",
+      "link": "https://www.businessinsider.com/jpmorgan-disney-employees-vie-for-ai-leaderboard-status-tokenmaxxing-2026-4"
+    },
+    {
+      "id": "34c03df8-2d23-8184-814a-c95fe9d6d4b4",
+      "title": "Cohere to acquire German AI company Aleph Alpha as it looks to expand in Europe",
+      "summary": "Schwarz Group — a key backer of Aleph Alpha — plans to invest $600 million in Cohere's upcoming Series E round as part of the deal.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-24",
+      "link": "https://www.cnbc.com/2026/04/24/cohere-aleph-alpha-germany-ai-europe-expansion.html"
+    },
+    {
+      "id": "34c03df8-2d23-81b1-80ae-df4e62b4f4fa",
+      "title": "换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具",
+      "summary": "一站式、在线测试屏幕的各项功能。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-04-24",
+      "link": "https://sspai.com/post/108455"
+    },
+    {
+      "id": "34c03df8-2d23-8151-bd12-daca6f8c9308",
+      "title": "Saros is pure action nirvana",
+      "summary": "The alien world of Saros feels like it has been touched by King Midas. The sky is golden after another impossibly frequent solar eclipse; rocks, specifically those of the precious resource Lucenite, radiate a shimmering amber. Even the body of our gruff hero Arjun Devraj (played by Rahul Kohli) is l",
+      "source": "The Verge",
+      "publishTime": "2026-04-24",
+      "link": "https://www.theverge.com/entertainment/917462/saros-review-ps5"
+    },
     {
       "id": "34c03df8-2d23-81a7-b3dd-d76080f63b93",
       "title": "谷歌安卓 17 优化鼠标 / 触控板操作：增强分屏导航、改善对话框交互",
@@ -368,38 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-04-24",
       "link": "https://www.ithome.com/0/943/003.htm"
-    },
-    {
-      "id": "34c03df8-2d23-812e-a714-f1db2bc6290b",
-      "title": "Ubuntu 26.04 LTS 发布：原生集成英伟达 CUDA，内存要求提至 6GB",
-      "summary": "IT之家 4 月 24 日消息，Canonical 昨日（4 月 23 日）发布代号为 Resolute Raccoon 的 Ubuntu 26.04 LTS 发行版，这是首个移除 Xorg 桌面会话、仅支持 Wayland 的长期支持版本。系统底层方面，Ubuntu 26.04 LTS 发行版搭载最新的 Linux 7.0 内核与 Mesa 26.0.x 开源 GPU 驱动，并且为了提升 AMD 光追性能及 ext4 文件系统写入速度，默认配备 NVIDIA 595.x 系列专有驱动。系统首次原生支持 NVIDIA CUDA 软件仓库，并针对英特尔酷睿 Ultra Series 300 修理",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/001.htm"
-    },
-    {
-      "id": "34c03df8-2d23-81d6-8b41-e32e5d1a3644",
-      "title": "DeepSeek Launches New-Generation V4 Models",
-      "summary": "DeepSeek on Friday launched V4, its highly anticipated new series of open-source AI models with enhanced reasoning and coding capabilities. This is the first new-generation model that DeepSeek released since its R1 model became a global sensation in January 2025. DeepSeek announced two new ...",
-      "source": "The Information",
-      "publishTime": "2026-04-24",
-      "link": "https://www.theinformation.com/briefings/deepseek-launches-new-generation-v4-models"
-    },
-    {
-      "id": "34c03df8-2d23-81d7-9841-e4862ab642a5",
-      "title": "小鹏 GX 全新高定色“昆仑云境”亮相：银灰双拼设计，1 万元选装",
-      "summary": "IT之家 4 月 24 日消息，在今日的 2026 北京国际车展上，小鹏 GX 全新高定色“昆仑云境”正式亮相。该配色采用银灰双拼设计，“以昆仑青灰为底，云白银辉为韵”，使用 6C4B 顶级车漆工艺，15 层涂层，膜厚 230μm。IT之家从发布会获悉，小鹏 GX 全新高定色“昆仑云境”选装价格为 1 万元。作为品牌首款全尺寸豪华 SUV，小鹏 GX 于 4 月 15 日正式开启预售，预售价 39.98 万元起。作为小鹏汽车全新一代物理 AI 技术架构 SEPA 3.0 的首发车型，小鹏 GX 定位为 AI 新豪华大六座旗舰 SUV，融合了 Robotaxi 智驾、飞行汽车安全冗余、具身智能芯",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/000.htm"
-    },
-    {
-      "id": "34c03df8-2d23-8159-bdca-e5527dd4fd0b",
-      "title": "【视频】或许是折叠屏的影音娱乐终极形态，华为Pura X Max 太阔了",
-      "summary": "华为刚刚发布的全新形态产品——华为Pura X Max，与传统的大折叠，在使用体验上有哪些不同，华为又为它带来了哪些独特的玩法呢？今天我们就来详细聊聊，这款全新的「双面阔型屏」产品。 点击关注IT之家B站账号",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/942/999.htm"
     }
   ],
   "macroEvents": [
