@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-04-25 06:07",
+  "updatedAt": "2026-04-25 07:06",
   "news": [
+    {
+      "id": "34c03df8-2d23-81ed-8873-f9ad18ec534a",
+      "title": "Target is ordering more of its remote workers to relocate to its Minneapolis HQ",
+      "summary": "Target is mandating that 150 remote workers in its merchandising team relocate to Minneapolis, as the retailer works to turn the business around.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-25",
+      "link": "https://www.businessinsider.com/target-rto-150-remote-workers-return-to-office-minneapolis-headquarters-2026-4"
+    },
+    {
+      "id": "34c03df8-2d23-81a6-b870-e0cd647a72d6",
+      "title": "Maine is the latest state to try — and fail — to ban new data centers",
+      "summary": "Maine Gov. Janet Mills vetoed a data center ban because it didn't contain an exemption for a specific project.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-25",
+      "link": "https://www.businessinsider.com/maine-data-center-ban-vetoed-by-governor-2026-4"
+    },
+    {
+      "id": "34c03df8-2d23-8127-9910-db3d135fa586",
+      "title": "A banker wants to trade his $4.8 million California estate for shares in Anthropic. He's already gotten offers.",
+      "summary": "Tech banker Storm Duncan already owns shares of Anthropic but wants to double down on the hot AI company.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-25",
+      "link": "https://www.businessinsider.com/trade-his-4-8-million-estate-for-anthropic-shares-2026-4"
+    },
+    {
+      "id": "34c03df8-2d23-8162-bd15-d913a32b0de0",
+      "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+      "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-25",
+      "link": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/"
+    },
     {
       "id": "34c03df8-2d23-81e8-b742-c7a6089e60ab",
       "title": "Cohere acquires, merges with German-based startup to create a ‘transatlantic AI powerhouse’",
@@ -368,38 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-04-24",
       "link": "https://www.businessinsider.com/trump-prediction-markets-world-casino-2026-4"
-    },
-    {
-      "id": "34c03df8-2d23-812f-8b6e-c4db8c5dc3b3",
-      "title": "曝 PS5 版《识质存在》可通过 PS5 Pro 云存档解锁 1440p 分辨率，但帧率有所下降",
-      "summary": "IT之家 4 月 24 日消息，游戏评测媒体数毛社（IT之家注：Digital Foundry）昨天发布博文，报道称 PS5 版《实质存在》可通过 PS5 Pro 云存档解锁 1440p 分辨率。若要实现 1440p 分辨率，你首先需要订阅 PlayStation Plus 服务并打开系统的云存档功能，建议关掉自动同步。然后拿 PS5 Pro 启动一遍《识质存在》，完成初始设置后返回主界面。接着将存档上传到云端，之后回到 PS5 标准版下载云存档并启动游戏，你就能看到分辨率会改为 1440p 原生渲染。这种方法目前在 1.21 版本下有效，但可以预见的是，卡普空很快会推出补丁修复漏洞。如果要“",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/370.htm"
-    },
-    {
-      "id": "34c03df8-2d23-810c-b2ff-e937764f553b",
-      "title": "佰维发布车规级 UFS 3.1 嵌入式存储 TAU208，获 AEC-Q100 Grade 2 认证",
-      "summary": "IT之家 4 月 24 日消息，佰维存储 (BIWIN) 今日在 2026 北京车展上发布了新一代车规级 UFS 3.1 嵌入式存储解决方案 TAU208。其取得 AEC-Q100 Grade 2 认证，可广泛应用于智能座舱、自动驾驶、车载信息娱乐系统、数字仪表盘 / 中控等场景。TAU208 采用 MPHY 4.1 物理层、UniPro 1.8 协议、双通道架构设计、BGA 153 ball 封装规格，支持 -40℃ ~ +105℃ 宽温工作范围，经历 1000+ hr 可靠性验证，MTBF 时长＞30M hr，具备 5% 超低功耗深度休眠模式。佰维 TAU208 基于 3D TLC NAN",
-      "source": "IT之家",
-      "publishTime": "2026-04-24",
-      "link": "https://www.ithome.com/0/943/369.htm"
-    },
-    {
-      "id": "34c03df8-2d23-816b-ae8e-eeb35037fa73",
-      "title": "We're booking a 375% gain in a stock to raise cash for unloved names",
-      "summary": "The massive run in chip stocks is giving us an opportunity to lock in huge gains.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-24",
-      "link": "https://www.cnbc.com/2026/04/24/were-booking-a-375percent-gain-in-a-stock-to-raise-cash-for-unloved-names-.html"
-    },
-    {
-      "id": "34c03df8-2d23-81e4-97b9-c246f51ed4b5",
-      "title": "Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?",
-      "summary": "Tesla's Cybercab is now in production at the company's Gigafactory in Austin, Texas, but Elon Musk is sounding unusually cautious about the rollout. The robotaxi's start of production was announced Thursday on X, with Tesla posting a video shot from inside a steering wheel-less Cybercab as it drove ",
-      "source": "The Verge",
-      "publishTime": "2026-04-24",
-      "link": "https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings"
     }
   ],
   "macroEvents": [
