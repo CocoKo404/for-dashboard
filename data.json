@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-04-26 06:00",
+  "updatedAt": "2026-04-26 07:04",
   "news": [
+    {
+      "id": "34d03df8-2d23-8163-8ee7-c6156c7f7430",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-26",
+      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/"
+    },
     {
       "id": "34d03df8-2d23-819f-a699-e3936b240533",
       "title": "Maine’s governor vetoes data center moratorium",
@@ -392,14 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-04-25",
       "link": "https://www.cnbc.com/2026/04/25/tesla-and-xais-grok-shows-promises-and-risks-of-ai-chatbots-in-cars.html"
-    },
-    {
-      "id": "34d03df8-2d23-814f-8008-f06f3787e905",
-      "title": "Sho Miyake answers life’s greatest questions",
-      "summary": "Acclaimed Japanese director Sho Miyake has arrived in the States. He's brought with him two feature films: Small, Slow But Steady and Two Seasons, Two Strangers, a pair of naturalistic portraits that deal with the uneasy human desire to relate to other people. Seclusion and unease are bedrocks to Mi",
-      "source": "The Verge",
-      "publishTime": "2026-04-25",
-      "link": "https://www.theverge.com/entertainment/918313/director-sho-miyake-interview"
     }
   ],
   "macroEvents": [
