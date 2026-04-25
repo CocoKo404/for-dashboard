@@ -1,6 +1,174 @@
 {
-  "updatedAt": "2026-04-25 08:03",
+  "updatedAt": "2026-04-25 11:38",
   "news": [
+    {
+      "id": "34d03df8-2d23-81dd-a704-c1130de8690c",
+      "title": "4F Square 架构全球首产：消息称三星突破 10 纳米 DRAM 瓶颈",
+      "summary": "IT之家 4 月 25 日消息，韩媒 The Elec 昨日（4 月 24 日）发布博文，报道称三星已成功生产出采用 4F Square 单元结构与 VCT 技术的 10a DRAM 晶圆，并在测试中确认了功能性芯片，计划于 2028 年量产。这一突破标志着业界首次在 DRAM 生产中引入 4F Square 单元结构与垂直通道晶体管（VCT）工艺。IT之家注：4F Square 是一种先进的 DRAM 单元结构设计，其中“F”代表光刻工艺的最小特征尺寸。该结构将每个存储单元置于 2F×2F 的面积内，相比传统的 6F Square 设计，能在相同的芯片面积内容纳更多单元，从而显著提升存储密度",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/399.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8149-9192-cda2d58ead7c",
+      "title": "马斯克力推 Grok 编程工具，但消息称自家 SpaceX 员工也不太爱用",
+      "summary": "IT之家 4 月 25 日消息，当地时间 4 月 23 日，据彭博社报道，xAI 几个月来一直在向企业推销 Grok，希望让客户用 Grok 来加快编程流程。但讽刺的是，马斯克自己体系内的员工，有时也不太愿意这么用。知情人士透露，一些 SpaceX 工程师在技术工作中迟迟没有积极采用 Grok，原因是 Grok 的实际效果不如竞争对手的工具。在 xAI 内部，也有部分员工编程时更愿意使用 Claude 等替代产品，而不是 Grok。AI 编程工具能帮助用户更快写代码、调试代码，已经成为 xAI 竞争对手的重要收入来源。马斯克团队内部对 Grok 的迟疑，也说明 xAI 想让市场信服自家工具仍需",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/398.htm"
+    },
+    {
+      "id": "34d03df8-2d23-814e-ad4c-c16f705942ff",
+      "title": "苹果 App Store 国区充值可获额外 10% 奖励：最高回赠 100 元，数量有限",
+      "summary": "IT之家 4 月 25 日消息，苹果 App Store 国区今天上线了充值加赠优惠活动，可获得额外 10% 奖励，数量有限，领完即止。IT之家从活动页面获悉，充值金额介于 5 元-1000 元之间可以享受本次优惠，充 100 元可额外赠送 10 元，充 300 元可额外获赠 30 元。以此类推，充值 1000 元的回赠金额最高，可达 100 元。不过需要注意的是，每个 Apple 账户在活动期间只可享受 1 次充值优惠，是否可享优惠取决于账户信息或购买记录，须遵循相应条款。具体路径：苹果用户 → AppStore → 右上角头像 → 为 Apple 账户充值IT之家注：苹果 App Stor",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/397.htm"
+    },
+    {
+      "id": "34d03df8-2d23-817c-8f5f-e2e9eae28b09",
+      "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
+      "summary": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
+      "source": "BBC Tech",
+      "publishTime": "2026-04-25",
+      "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "34d03df8-2d23-8145-a689-c1d831c55295",
+      "title": "微软调整 AI 战略，企业 Win11 设备可卸载 Copilot",
+      "summary": "IT之家 4 月 25 日消息，科技媒体 bleepingcomputer 昨日（4 月 24 日）发布博文，报道称 IT 管理员可以通过配置系统策略 RemoveMicrosoftCopilotApp，可以在企业环境下，卸载 Copilot AI 数字助手。在 4 月补丁星期二活动日中，微软面向企业用户推出 RemoveMicrosoftCopilotApp 组策略，适用于通过 Microsoft Intune 或 SCCM 管理的终端设备。IT 管理员可以通过配置，在企业环境下移除员工设备上的 Copilot 应用。IT之家援引博文介绍，该卸载策略的生效需满足特定条件：设备必须运行 Win",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/396.htm"
+    },
+    {
+      "id": "34d03df8-2d23-814e-8890-ffaaf775f598",
+      "title": "Keychron Q16 HE“全陶瓷”磁轴键盘国行上市，1475 元",
+      "summary": "IT之家 4 月 25 日消息，Keychron（渴创）此前面向海外市场推出了在键帽和外壳上均采用新型陶瓷材料的 Q16 HE 8K 磁轴键盘；现在该品牌面向国行带来了 Q16 HE，整体配置基本相同，到手价 1475 元（配合淘金币低至 1442.22 元）。Q16 HE 8K 采用 65% 配列设计，支持 8kHz 回报率单模有线连接；PCB 支持轴体热插拔，具备北向 RGB 灯位，Rapid Trigger 精度 0.005mm；内部拥有乳胶泡棉和底垫缓冲。其轴体为 Keychron 青柠磁轴，拥有 PC 上盖、POM 轴芯、PA66 底壳和导光柱结构，总行程 3.5±0.1 mm，触发",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/395.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8150-8535-faab1a361e9c",
+      "title": "华为 Pura X Max 开售：行业首款横向阔折叠手机，10999 元起",
+      "summary": "IT之家 4 月 25 日消息，行业首款横向阔折叠手机华为 Pura X Max 将于今日 10:08 正式开售，售价 10999 元起。IT之家附价格如下：标准版12GB+256GB：定价 10999 元12GB+512GB：定价 11999 元典藏版16GB+512GB：定价 12999 元16GB+1TB：定价 13999 元据介绍，华为 Pura X Max 横向阔折叠手机在屏幕方面再次创新，内外屏均采用了≈√2:1 的类纸比例设计，主打阔感如一。新机外屏尺寸为 5.4 英寸，支持 3500nits 20% APL 峰值亮度、1-120Hz LTPO 自适应刷新率；内屏尺寸 7.7 英",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/394.htm"
+    },
+    {
+      "id": "34d03df8-2d23-81eb-bcd4-e1f65b21c554",
+      "title": "华为 WATCH Buds 2 耳机手表二合一首销：钛合金表体、3000 尼特峰值亮度，3488 元起",
+      "summary": "IT之家 4 月 25 日消息，华为 WATCH Buds 2 今日 10:08 首销，售价 3488 元起，国补到手价 2970.56 元起：琥珀棕（棕色素皮氟胶复合表带）：3488 元，国补到手价 2970.56 元曜石黑（黑色素皮氟胶复合表带）：3488 元，国补到手价 2970.56 元钛空银（钛色钛金属表带）：3988 元，国补到手价 3468.06 元华为 WATCH Buds 2 表体减轻 12 克至 54.5 克重，薄至 14.69 毫米；搭载航天级钛合金表体，耐磨性能提升 200%。华为 WATCH Buds 2 采用 1.5 英寸超窄边柔性屏，黑边减少 36%，屏占比提升 ",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/393.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8176-8a4e-f69894b42da9",
+      "title": "暴雪《魔兽世界》团队致歉称 12.0.5 内容更新未达预期，团队正全天候运转修复",
+      "summary": "IT之家 4 月 25 日消息，暴雪娱乐《魔兽世界》团队昨日（4 月 24 日）在其官网发布致歉信，承认 12.0.5 版本“至暗之夜”更新未达预期，团队正全天候运作以解决核心问题并稳定服务器。IT之家查询公开资料，《魔兽世界：至暗之夜》的 12.0.5 更新本月上线，引入了虚无势力扩张事件、以“捉迷藏”为主题的活动、以及包括武器鞘幻化在内的功能。此外该版本增加了包括 3400 分奖励、前 1% 奖励等高分段内容，部分玩家可以通过特定渠道（如鎏金）获取奖励。不少玩家反馈该版本存在技术故障，影响奖励系统与职业机制，并导致大量老旧游戏内容出错。例如，地图依然会显示寻找者藏匿的位置，暴雪也同样忘记关",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/391.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8179-86d9-dc34b27fa221",
+      "title": "Tech Now",
+      "summary": "Alasdair Keane visits the underground insect farm turning food waste into animal feed.",
+      "source": "BBC Tech",
+      "publishTime": "2026-04-25",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002vtqb?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "34d03df8-2d23-8107-ac64-dc69b9effffe",
+      "title": "Meta 官宣大裁员后，员工吐槽“欢迎来到地狱般的 28 天”",
+      "summary": "IT之家 4 月 25 日消息，据《商业内幕》今日报道，Meta 宣布将在 5 月 20 日裁掉数千个岗位后，有员工将内部气氛形容为“欢迎来到‘28 天的地狱’”。员工们涌入内部论坛发帖，焦虑、黑色幽默和各种疑问混杂在一起。大家都在等着知道，最后是谁会丢掉工作。一名员工在匿名职场应用 Blind 的 Meta 专区发帖问：“裁员已经确定了，接下来 1 个月你们还怎么说服自己继续干活？”有人回复：“我就激励自己做点能写进下一份工作简历的东西，哈哈。”据IT之家了解，Meta 周四在发给员工的备忘录中解释，由于消息已经外泄，公司这次比以往更早公布部分裁员细节。Meta 计划下个月裁掉约 10% 的",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/390.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8174-9bb2-ddb2b8a1e657",
+      "title": "波音展示概念飞机客舱，让乘客在私密空间内视频会议 / 处理机密事务",
+      "summary": "IT之家 4 月 25 日消息，executivetraveller 媒体于 4 月 23 日发布博文，报道称在 2026 年汉堡飞机内饰博览会上，波音为预防飞机全面联网后可能出现的客舱噪音干扰问题，展示了新型客舱概念，让乘客在私密空间内进行视频会议或处理机密事务。根据波音公布的概念图，该客舱概念设计形似电话亭，采用透明外观以减少封闭感。模块内部应用吸音材料隔离客舱噪音，确保通话隐私的同时不干扰正常飞行秩序。波音在单一模块中整合了两种使用场景：专注坐姿办公区域与灵活站姿使用区域，两种配置均提供基础功能设施。消息称工作舱基础配置包括照明系统、充电接口及个人物品存储空间，坐姿与站姿版本的主要差异在",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/389.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8139-b2bb-f3f065506f48",
+      "title": "微软调整 Win11 更新机制：初始设置可跳过强制更新，无限次延长更新暂停期",
+      "summary": "IT之家 4 月 25 日消息，微软今天（4 月 24 日）发布公告，精简调整 Windows Insider 项目，在推出 Windows 11 最新预览版外，还针对系统强制更新及缺乏控制权的用户痛点，调整 Windows Update 更新机制。微软自今天开始调整 Windows Insider 项目，IT之家附上相关频道调整如下：Beta 版（包括 Beta 频道）：当前最新版本号 Build 26220.8283Experimental 版（包括 Dev 频道）：当前最新版本号 Build 26300.8289此外微软还推出其它特定版本：Experimental（26H1）：主要面向 ",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/388.htm"
+    },
+    {
+      "id": "34d03df8-2d23-81ee-8528-c4a32e77940f",
+      "title": "大众高管谈下一代高尔夫：就像“高 4”那样漂亮，我们正在走正确的路",
+      "summary": "IT之家 4 月 25 日消息，当地时间 4 月 24 日，外媒 Motor1 公布了采访大众汽车品牌首席执行官托马斯 · 谢弗的内容。谢弗谈到了即将问世的第九代高尔夫，他给出的判断是，新车“走在正确的轨道上”。“团队正在开发这款车。去年 11 月，我看到了第一辆全尺寸模型，当时我只想说：‘哇，太漂亮了。’那还不是最终车型，只是其中一个设计方案，是后续继续做决策时会参考的原型之一。但第一眼看上去，我觉得非常好。”谢弗回忆道：“年底，我们开了一场高级管理层会议，相当于年终总结会，既回顾成绩，也展望下一步。当时我们把这款车摆到台上展示，所有人都被打动了。”大众汽车品牌技术开发负责人凯 · 格吕尼茨",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/387.htm"
+    },
+    {
+      "id": "34d03df8-2d23-81db-b17f-c7e7c04cf6ff",
+      "title": "宏碁掠夺者 · 战斧 10 / 10 Neo S 游戏本上线，5 月 11 日 10:00 发售",
+      "summary": "IT之家 4 月 25 日消息，宏碁 (Acer) 在电商平台上架了掠夺者 · 战斧 (Predator Helios)10 与 10 Neo S 两款游戏笔记本电脑，均为 5 月 11 日 10:00 发售，定价尚未公布。掠夺者 · 战斧 10该机型搭载英特尔酷睿 Ultra 9 处理器 290HX Plus 和英伟达 GeForce RTX 5090 笔记本电脑 GPU，拥有 192GB 内存和 4TB 存储，搭载 100% DCI-P3 色域的 18\" 3840×2400 120Hz Mini LED 显示屏。掠夺者 · 战斧 10 Neo S这一型号则相对更轻，处理器为英特尔酷睿 Ul",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/386.htm"
+    },
+    {
+      "id": "34d03df8-2d23-81f0-86fc-cc907bf4be04",
+      "title": "微软推送 Win11 26220.8283/26300.8289 预览版：优化打印体验、改善开始菜单",
+      "summary": "IT之家 4 月 25 日消息，微软今天（4 月 24 日）发布公告，邀请 Windows Insider 项目成员，测试 Windows 11 最新预览版，Beta 频道升至 Build 26220.8283；而 Experimental 频道升至 Build 26300.8289。微软自今天开始调整 Windows Insider 项目，IT之家附上相关频道调整如下：Beta 版（包括 Beta 频道）：当前最新版本号 Build 26220.8283Experimental 版（包括 Dev 频道）：当前最新版本号 Build 26300.8289此外微软还推出其它特定版本：Experi",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/385.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8155-ba4d-dfedbb2eb029",
+      "title": "日产汽车将推出 5 款新车型，目标到 2030 年在华实现年销百万辆",
+      "summary": "IT之家 4 月 25 日消息，4 月 24 日（昨天）开幕的 2026 北京车展上，日产汽车在中国发布两款全新新能源 SUV 概念车，两款车的量产版本计划一年内发布。其中一款系“都市插混 SUV”概念车，官方称其为整合全球资源、聚焦中国用户需求打造的“战略级前瞻作品”，凝聚品牌在新能源、智能化、设计美学与安全品质的核心积淀。新车将承接当下的 NX8 与未来即将推出的 SUV 车型，将电动化技术与高价值感以及日常出行的实用性能融为一体。另一款系日产“Terrano”插混概念车，被定位为一辆既能旷野驰骋，也能在日常通勤中享受舒适驾乘的全场景座驾。其全面升级了全域越野掌控体系，采用日产汽车标志性的",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/384.htm"
+    },
+    {
+      "id": "34d03df8-2d23-810d-ba46-e6042b0ee971",
+      "title": "微软发布 Win11 Experimental 29576.1000 预览版：简化系统恢复、更新音量滑块",
+      "summary": "IT之家 4 月 25 日消息，微软昨日（4 月 24 日）发布公告，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 系统的更新，升级后最新版本号为 Build 29576.1000。微软自今天开始调整 Windows Insider 项目，IT之家附上相关频道调整如下：Beta 版（包括 Beta 频道）：当前最新版本号 Build 26220.8283Experimental 版（包括 Dev 频道）：当前最新版本号 Build 26300.8289此外微软还推出其它特定版本：Experimental（26H1）：主要面向",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/383.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8142-9b3c-d489bb53ec6b",
+      "title": "微软发布 Win11 26H1 28200.1873 预览版：重构语音输入界面、优化磁盘管理",
+      "summary": "IT之家 4 月 25 日消息，微软昨日（4 月 24 日）发布公告，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 26H1 的更新，升级后最新版本号为 Build 28200.1873。微软自今天开始调整 Windows Insider 项目，IT之家附上相关频道调整如下：Beta 版（包括 Beta 频道）：当前最新版本号 Build 26220.8283Experimental 版（包括 Dev 频道）：当前最新版本号 Build 26300.8289此外微软还推出其它特定版本：Experimental（26H1）：主",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/382.htm"
+    },
+    {
+      "id": "34d03df8-2d23-81ed-b56f-e3dafcf15258",
+      "title": "铁路 12306 上线“铁路旅游”专区： 5.19 元、51.9 元、519 元满减券，旅游专列产品直接抵现",
+      "summary": "IT之家 4 月 25 日消息，据央视新闻，为满足旅客多样化旅游出行需求，国铁集团从 24 日起，推出一批旅游惠民服务新举措，让旅客出行更便捷，更优惠。这批新举措首先突出消费让利和购票优惠。5 月 10 日至 31 日期间，铁路 12306 客户端“铁路旅游”专区将发放 5.19 元、51.9 元、519 元三档满减券，使用范围覆盖专区上架的全部旅游专列产品，在购买相应价格旅游专列产品时直接抵现。12306“酒店住宿”专区在 4 月 20 日至 5 月 31 日期间发放优惠券，用户在预订酒店时可领券抵现；12306“餐饮”专区在 5 月 17 日至 20 日还将推出指定商户订餐立减优惠活动。年",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/381.htm"
+    },
+    {
+      "id": "34d03df8-2d23-81c8-b344-fafc81200daf",
+      "title": "惠普 2026 款 HyperX 暗影精灵游戏本上架，首发到手价 8074.15~22499 元",
+      "summary": "IT之家 4 月 25 日消息，HP（惠普）现已在电商平台上架 2026 款 HyperX（极度未知）OMEN（暗影精灵）游戏笔记本电脑，包含一系列配置，首发到手价 8074.15~22499 元，4 月 27 日 10:00 开售。京东惠普 HyperX 暗影精灵 游戏本 4 月 27 日 10:00 开售 8074.15 元起前往预约HyperX 暗影精灵 PRO 15\"Ultra 7 255HX + RTX 5050 + 16GB + 1TB：8074.15 元；Ultra 7 255HX + RTX 5060 + 16GB + 1TB：8499.15 元；Ultra 7 255HX +",
+      "source": "IT之家",
+      "publishTime": "2026-04-25",
+      "link": "https://www.ithome.com/0/943/380.htm"
+    },
     {
       "id": "34c03df8-2d23-814a-9a15-d00d0b2fa8ad",
       "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
@@ -232,174 +400,6 @@
       "source": "Wired",
       "publishTime": "2026-04-25",
       "link": "https://www.wired.com/story/ember-mug-2-deal-april-2026/"
-    },
-    {
-      "id": "34c03df8-2d23-812c-be5c-cefe916239be",
-      "title": "Intel's stock soars more than 20% as chipmaker shows signs of a turnaround",
-      "summary": "Shares of Intel have more than doubled this year on optimism that backing from the government will help the company's position in AI.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-25",
-      "link": "https://www.cnbc.com/2026/04/24/intel-stock-soars-more-than-20percent-as-chipmaker-shows-signs-of-turnaround.html"
-    },
-    {
-      "id": "34c03df8-2d23-81f8-9d9b-c13626ebf2f4",
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-25",
-      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"
-    },
-    {
-      "id": "34c03df8-2d23-81ee-bfee-ce60893f02a5",
-      "title": "Google to Invest Up to $40 Billion in Anthropic, Agrees to Five Gigawatt Compute Deal",
-      "summary": "Google has agreed to invest up to $40 billion in Anthropic, deepening a multi-pronged relationship that also includes a major expansion of Anthropic’s access to AI servers. The search engine company, an early backer of Anthropic, will initially invest $10 billion in at a $350 billion valuation, ...",
-      "source": "The Information",
-      "publishTime": "2026-04-25",
-      "link": "https://www.theinformation.com/briefings/google-invest-40-billion-anthropic-agrees-five-gigawatt-compute-deal"
-    },
-    {
-      "id": "34c03df8-2d23-814e-a795-fd550fa4e61e",
-      "title": "Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time",
-      "summary": "Get ready for summer with discounts on the best robot pool cleaners we’ve tested.",
-      "source": "Wired",
-      "publishTime": "2026-04-25",
-      "link": "https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/"
-    },
-    {
-      "id": "34c03df8-2d23-8118-bfbc-f1ab409e5d3b",
-      "title": "ChatGPT is trying to besmirch the memory of Don Rickles. He didn't text Lena Dunham — and it makes me nervous about our AI future.",
-      "summary": "When ChatGPT is so constantly wrong about facts, what are we to believe? And how exactly are we supposed to \"learn to use AI?\"",
-      "source": "Business Insider",
-      "publishTime": "2026-04-25",
-      "link": "https://www.businessinsider.com/lena-dunham-don-rickles-chatgpt-ai-answer-2026-4"
-    },
-    {
-      "id": "34c03df8-2d23-81be-8c7e-c1c984d65c37",
-      "title": "Should AI and Christianity Mix? Pat Gelsinger and Gloo Holdings Sure Think So",
-      "summary": "Last year, Pat Gelsinger found himself pondering a thorny, existential question: What should he do with his life after Intel? The chipmaker had unceremoniously ousted him in December 2024, and shortly after, his wife Linda gave him a firm nudge. “You’re not done yet,” she told him, as Gelsinger reca",
-      "source": "The Information",
-      "publishTime": "2026-04-25",
-      "link": "https://www.theinformation.com/articles/ai-christianity-mix-pat-gelsinger-gloo-holdings-sure-think"
-    },
-    {
-      "id": "34c03df8-2d23-8196-9c77-fe1264ec8701",
-      "title": "BMW is one step closer to selling you a color-changing car",
-      "summary": "At CES 2022, BMW debuted its BMW iX Flow concept car that could dynamically change its appearance using the same grayscale E Ink panels found in e-readers like the Kindle. It was followed by the BMW i Vision Dee concept and the BMW i5 Flow Nostokana that were both upgraded with color E Ink panels. [",
-      "source": "The Verge",
-      "publishTime": "2026-04-25",
-      "link": "https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing"
-    },
-    {
-      "id": "34c03df8-2d23-81ec-94dc-e5b9192f56ff",
-      "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
-      "summary": "Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-25",
-      "link": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html"
-    },
-    {
-      "id": "34c03df8-2d23-815c-b849-ed36c19ad001",
-      "title": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
-      "summary": "Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts apply to a number of Google’s first-party devices, from the Pixel 10 Pro to the Pixel Buds Pro 2, as well as the wearables like the Pixel Watch 4. I",
-      "source": "The Verge",
-      "publishTime": "2026-04-25",
-      "link": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale"
-    },
-    {
-      "id": "34c03df8-2d23-81ab-8417-fdab6f7a6293",
-      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-      "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
-      "source": "Wired",
-      "publishTime": "2026-04-25",
-      "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/"
-    },
-    {
-      "id": "34c03df8-2d23-811f-a428-f727d4f234b4",
-      "title": "The RAM shortage could get even worse if Samsung labor protests cut production",
-      "summary": "The RAM shortage caused by demand from AI datacenters is already driving up prices on phones, PS5s, and Raspberry Pis, but it could be about to get even worse. Samsung is facing employee protests over demands for wages that are more competitive with rival chip manufacturer SK Hynix, including removi",
-      "source": "The Verge",
-      "publishTime": "2026-04-25",
-      "link": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests"
-    },
-    {
-      "id": "34c03df8-2d23-81c6-9cb6-fd058187b844",
-      "title": "Designer Baby Companies Are in Turmoil",
-      "summary": "Bootstrap Bio and Manhattan Genomics, which were pursuing human embryo editing to prevent serious disease, have shut down.",
-      "source": "Wired",
-      "publishTime": "2026-04-25",
-      "link": "https://www.wired.com/story/designer-baby-companies-are-in-turmoil/"
-    },
-    {
-      "id": "34c03df8-2d23-8170-a5f9-cd7e4ac0d52e",
-      "title": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here",
-      "summary": "Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-25",
-      "link": "https://www.cnbc.com/2026/04/24/20k-job-cuts-at-meta-microsoft-raise-concern-of-ai-labor-crisis-.html"
-    },
-    {
-      "id": "34c03df8-2d23-816d-a5cc-eb863a7c34b3",
-      "title": "How Project Maven taught the military to love AI",
-      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart",
-      "source": "The Verge",
-      "publishTime": "2026-04-25",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson"
-    },
-    {
-      "id": "34c03df8-2d23-81b0-a979-feca824d523c",
-      "title": "Who is Jaafar Jackson? Everything to know about Michael Jackson's nephew",
-      "summary": "Jaafar Jackson, who plays his famous uncle in the new biopic \"Michael,\" is the son of Jermaine Jackson and Alejandra Genevieve Oaziaza.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-25",
-      "link": "https://www.businessinsider.com/who-is-jaafar-jackson-michael-jackson-nephew-movie-2026-4"
-    },
-    {
-      "id": "34c03df8-2d23-8175-8656-c53db0faf402",
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-25",
-      "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/"
-    },
-    {
-      "id": "34c03df8-2d23-8124-9b34-cd339a85fc8d",
-      "title": "Meta employees react to pending job cuts: '28 days of hell'",
-      "summary": "Inside Meta, employees are bracing for weeks of limbo as they wait to find out who's cut.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-25",
-      "link": "https://www.businessinsider.com/meta-employees-react-to-pending-job-cuts-layoffs-2026-4"
-    },
-    {
-      "id": "34c03df8-2d23-8128-8613-eba3a8d2d206",
-      "title": "Xreal’s best AR glasses are $599 for good now",
-      "summary": "The Xreal One Pro are the company’s best AR glasses, touting thin optics that keep out reflections so you can enjoy a crisp, contrast-rich image of whatever content you’re watching. Xreal has permanently cut their price from $649 to $599, making them $150 more than its entry-level (but still good) 1",
-      "source": "The Verge",
-      "publishTime": "2026-04-25",
-      "link": "https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale"
-    },
-    {
-      "id": "34c03df8-2d23-8117-86e3-d955a56023ee",
-      "title": "I tried matcha lattes from Starbucks, Dunkin', and Tim Hortons. One was bitter, one was too milky, and one was just right.",
-      "summary": "Over the last decade, matcha has gained popularity in the US. I put matcha lattes from Dunkin', Starbucks, and Tim Hortons to the test.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-25",
-      "link": "https://www.businessinsider.com/iced-matcha-latte-taste-test-starbucks-dunkin-tim-hortons"
-    },
-    {
-      "id": "34c03df8-2d23-812b-98f7-e7fb6799c815",
-      "title": "Should organic food be so expensive?",
-      "summary": "High labor costs, costly infrastructure, and pricey certification make organic food more expensive for farmers and consumers.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-25",
-      "link": "https://www.businessinsider.com/should-organic-food-be-so-expensive-2026-4"
-    },
-    {
-      "id": "34c03df8-2d23-815d-a8eb-d7a5623ea633",
-      "title": "Meta Signs Deal to Use Amazon’s CPUs for Agentic Workloads",
-      "summary": "Meta and Amazon announced a deal on Friday for Meta to use Amazon’s Graviton chips. The deal, which a spokesperson said will total several billion dollars over multiple years, comes as Meta has been spending heavily on chips and cloud storage as it tries to turn itself into an AI powerhouse. ...",
-      "source": "The Information",
-      "publishTime": "2026-04-25",
-      "link": "https://www.theinformation.com/briefings/meta-signs-deal-use-amazons-cpus-agentic-workloads"
     }
   ],
   "macroEvents": [
