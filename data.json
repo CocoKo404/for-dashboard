@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-04-26 03:25",
+  "updatedAt": "2026-04-26 04:01",
   "news": [
+    {
+      "id": "34d03df8-2d23-81eb-b046-c1b2fbbf5a75",
+      "title": "Trump fires the entire National Science Board",
+      "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays ",
+      "source": "The Verge",
+      "publishTime": "2026-04-26",
+      "link": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board"
+    },
+    {
+      "id": "34d03df8-2d23-819b-a28d-e2c099090475",
+      "title": "AI is igniting a love affair between Silicon Valley and the consulting industry",
+      "summary": "Consulting firms and AI startups are suddenly inseparable.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-26",
+      "link": "https://www.businessinsider.com/consulting-mckinsey-accenture-bcg-ai-silicon-valley-enterprise-partnerships-2026-4"
+    },
     {
       "id": "34d03df8-2d23-81a1-8425-db06f2c0356d",
       "title": "An influx of used EVs could drive down prices",
@@ -384,22 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-04-25",
       "link": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer"
-    },
-    {
-      "id": "34d03df8-2d23-814a-ad88-d554501cf2a1",
-      "title": "中紫星 NEU 智能原生芯片 Q4 流片：速度达顶级 GPU 百倍，且功耗降低九成",
-      "summary": "IT之家 4 月 25 日消息，在当今全球算力竞争白热化、AI 模型参数量不断膨胀并走向物理世界之际，传统 GPU 架构在超低延迟与高能效比上的局限性正日益凸显。据《科创板日报》，上海中紫星技术有限公司研发了一款名为 NEU（IT之家注：Neural Execution Unit，神经执行单元）的智能原生芯片，并将于今年四季度正式流片。据中紫星方面披露的实测数据，NEU 芯片在同等 AI 推理任务下，速度达到传统顶级 GPU 方案的近 100 倍，而能耗仅为其十分之一。中紫星并未选择跟随英伟达的“类 GPU”生态芯片设计路径，而是另辟蹊径。NEU 以存储为中心设计，数据无需在存储与计算单元之间",
-      "source": "IT之家",
-      "publishTime": "2026-04-25",
-      "link": "https://www.ithome.com/0/943/513.htm"
-    },
-    {
-      "id": "34d03df8-2d23-81a0-94ec-c256d11fe5a9",
-      "title": "Crowded, costly, and complicated: 3 former Floridians explain why they left the state",
-      "summary": "Three women share what led them to leave Florida, from the constant traffic, balmy weather, and rising prices to needing a change of pace.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-25",
-      "link": "https://www.businessinsider.com/leaving-florida-moving-out-prices-traffic-affordability-2026-2"
     }
   ],
   "macroEvents": [
