@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-04-26 07:04",
+  "updatedAt": "2026-04-26 08:02",
   "news": [
+    {
+      "id": "34d03df8-2d23-81cd-8ee5-ec6c028a7534",
+      "title": "IT早报 0426：特斯拉客服否认 FSD 五一中国上线；苹果 iPhone Ultra /18 Pro Max 机模上手视频曝光；尚界回应展车遭蓄意破坏；华为 Pura X Max 开售...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 4 月 26 日星期日，今天的重要科技资讯有：1、特斯拉客服回应“FSD 将于 5 月 1 日在中国上线”：不实，以官方发布为准针对网传“特斯拉 FSD 将于 5 月 1 日在中国上线”的消息，特斯拉客服已明确辟谣，称截图不实，暂无相关信息。特斯拉表示正努力在中国市场推出智能辅助驾驶，并已在荷兰获得审批。>> 查看详情2、苹果 iPhone Ultra 折叠手机 / iPhone 18 Pro Max 机模上手视频曝光YouTube 频道 Max Tech 4 月 24 日发布视频，分享了苹果首款折叠手机（上市后预估名为 iPhone Ultra",
+      "source": "IT之家",
+      "publishTime": "2026-04-26",
+      "link": "https://www.ithome.com/0/943/562.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8145-8a6f-e95b51ec1611",
+      "title": "AI 需求致苹果 M4 Mac mini 基础款缺货，二手平台溢价严重",
+      "summary": "IT之家 4 月 26 日消息，据 Techcrunch 报道，由于热门机型缺货，溢价严重的 Mac mini 正充斥 eBay 平台。这款设备现已成为运行 OpenClaw 等端侧 AI 模型的热门利器。本周有消息称，售价 599 美元的 M4 芯片 Mac mini 基础版（16GB 内存 + 256GB 存储空间）已在苹果官网售罄，无法选择配送或到店自提。此后缺货范围进一步扩大至该基础款的其他内存配置版本，无论选配多大内存均无货。多家媒体指出，这是该基础款机型首次出现全面售罄的情况。与此同时，512GB 及以上大容量版本最快也要到 6 月才开始发货。受此影响，eBay 已成为这款热门电脑",
+      "source": "IT之家",
+      "publishTime": "2026-04-26",
+      "link": "https://www.ithome.com/0/943/561.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8119-b2bc-d5dad97417ff",
+      "title": "理想汽车回应 L9 Livis 双色车身设计：希望向顶级奢侈品牌看齐",
+      "summary": "IT之家 4 月 26 日消息，全新理想 L9 Livis 于 4 月 24 日北京车展正式亮相，预售价 55.98 万元。4 月 25 日，理想汽车对这款旗舰 SUV 的外观设计进行了详解。IT之家注意到，针对产品的换代设计，设计师 Benjamin 强调说，“我们提出一个核心观点，换代设计应该是进化式的，而不是颠覆式的”。就像 Porsche 911、Range Rover、奔驰 G，经典车型从不靠“换脸”维持地位，靠的是每一代都变得更像自己。得益于理想第三代自研增程器更加极致的集成化设计，全新理想 L9 Livis 打造出了短前悬 + 长后悬的黄金比例。配合高耸的机盖、大胆的宽肩梯形尾部",
+      "source": "IT之家",
+      "publishTime": "2026-04-26",
+      "link": "https://www.ithome.com/0/943/560.htm"
+    },
+    {
+      "id": "34d03df8-2d23-811e-a748-cbc07b7bd77e",
+      "title": "Win11 资源管理器部分界面滚动卡顿，微软官方给出解释",
+      "summary": "IT之家 4 月 26 日消息，Windows 11 文件资源管理器图库视图和主页视图的滚动十分流畅，但奇怪的是，其余文件夹和目录在滚动时却卡顿、有阶梯感。如今，微软给出了官方解释。微软采用全新框架重构了主页视图和图库视图，这也是这两个视图滚动顺滑的原因。不过，文件资源管理器的其他部分尚未完成迁移，因为还有几项重要的实用功能需要优先适配，暂时阻碍了升级进程。好在微软已经注意到了这个问题，但坦白来说，目前他们正全力优化文件资源管理器的稳定性与性能，这是更为紧迫的任务。据 Windows Latest 网站发现，微软管理层已确认，会尽快为整个文件资源管理器适配流畅滚动效果。近日有用户在社交平台 X",
+      "source": "IT之家",
+      "publishTime": "2026-04-26",
+      "link": "https://www.ithome.com/0/943/559.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8190-83f8-f1d7b2920d46",
+      "title": "OpenAI 推出 GPT-5.5 生物安全漏洞赏金计划，提供 2.5 万美元奖励",
+      "summary": "IT之家 4 月 26 日消息，4 月 23 日，OpenAI 启动针对 GPT-5.5 的生物安全漏洞赏金计划，邀请研究人员寻找能突破“五道生物安全挑战题”的通用越狱方法。计划概览测试范围：仅限 Codex Desktop 中的 GPT‑5.5 模型。挑战任务：找出一个通用的越狱提示词，使其在干净的对话环境中成功回答全部五道生物安全问题，且不触发任何内容审核机制。奖励：首个通过全部五道题目的真实通用越狱方案将获得 $25,000 奖励。对于部分成功的案例，我们将根据情况酌情发放较小金额的奖励。时间安排：2026 年 4 月 23 日开放申请并进行滚动录取。截止日期为 6 月 22 日。测试阶",
+      "source": "IT之家",
+      "publishTime": "2026-04-26",
+      "link": "https://www.ithome.com/0/943/558.htm"
+    },
+    {
+      "id": "34d03df8-2d23-8114-8e3f-cab854df1acf",
+      "title": "I brought my husband back for his funeral as a hologram",
+      "summary": "After nearly 60 years of marriage, Pam wanted to honour her husband Bill with a hologram at his funeral.",
+      "source": "BBC Tech",
+      "publishTime": "2026-04-26",
+      "link": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "34d03df8-2d23-811f-ac6e-c58ab4a79428",
+      "title": "Anthropic 搭建了一个 AI 智能体交易测试平台",
+      "summary": "IT之家 4 月 26 日消息，在近期一项实验中，人工智能公司 Anthropic 搭建了一个二手交易市场，由智能体分别扮演买家和卖家，针对真实商品达成交易，并使用真实货币结算。该公司承认，这项名为交易计划（Project Deal）的测试仅为试点实验，参与者为 69 名自愿报名的公司员工。每名员工获得 100 美元（IT之家注：现汇率约合 684.7 元人民币）预算（以礼品卡形式发放），可与同事进行物品买卖。尽管如此，Anthropic 表示，交易计划的运行效果远超预期，实验期间共达成 186 笔交易，总交易价值超过 4000 美元（现汇率约合 27388 元人民币）。该公司实际搭建了四个独",
+      "source": "IT之家",
+      "publishTime": "2026-04-26",
+      "link": "https://www.ithome.com/0/943/557.htm"
+    },
+    {
+      "id": "34d03df8-2d23-81ed-86cf-e9c28500b076",
+      "title": "A massive Oracle data center planned for rural Michigan secures $16 billion in funding",
+      "summary": "The Saline, Michigan campus is huge. It will generate 1 gigawatt of electricity, making it one of the largest data centers in the country.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-26",
+      "link": "https://www.businessinsider.com/ai-data-center-saline-michigan-funding-openai-stargate-blackstone-pimco-2026-4"
+    },
     {
       "id": "34d03df8-2d23-8163-8ee7-c6156c7f7430",
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
@@ -336,70 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-04-25",
       "link": "https://www.ithome.com/0/943/519.htm"
-    },
-    {
-      "id": "34d03df8-2d23-81b2-91ba-c4d60f821b93",
-      "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
-      "summary": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-25",
-      "link": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html"
-    },
-    {
-      "id": "34d03df8-2d23-81c1-849a-cef64c9fc267",
-      "title": "消息称红魔游戏平板 5 Pro、红魔 11S Pro+ 下月发布，全部配备骁龙 8Elite Gen 5 芯片",
-      "summary": "IT之家 4 月 25 日消息，博主 @智慧皮卡丘 今天在微博透露，红魔游戏平板 5 Pro、红魔 11S Pro+ 手机预计将在下个月发布。据介绍，这两款产品全部配备骁龙 8Elite Gen 5 芯片 + 风冷 + 液冷 +PC / 掌机，平板有 OLED 屏幕，手机有肩键，号称“全面电竞”。后续有用户在评论区询问：“V 折叠有消息嘛”，博主回复道：“6 月见”。据IT之家此前援引博主 @数码闲聊站 消息，红魔游戏平板 5 Pro 最新一版工程机搭载 9 英寸 2400*1504p OLED 屏幕，支持 185Hz 超高刷，搭载骁龙 8 Elite Gen 5 芯片、液冷循环散热系统，电池",
-      "source": "IT之家",
-      "publishTime": "2026-04-25",
-      "link": "https://www.ithome.com/0/943/518.htm"
-    },
-    {
-      "id": "34d03df8-2d23-81fe-ad49-edb53d219d37",
-      "title": "我国成功发射巴基斯坦 PRSC-EO3 卫星，长征六号再立新功",
-      "summary": "IT之家 4 月 25 日消息，北京时间 2026 年 4 月 25 日 20 时 15 分，我国在太原卫星发射中心使用长征六号运载火箭，成功将巴基斯坦 PRSC-EO3 卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。IT之家查询获悉，此次任务是长征系列运载火箭的第 640 次飞行。上一次发射还是在 2026 年 2 月 12 日，当时太原卫星发射中心在广东阳江附近海域使用捷龙三号运载火箭，成功将巴基斯坦 PRSC-EO2 卫星、港中大一号卫星等共 7 颗卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。公开资料显示，PRSC - EO 遥感卫星星座目前由三颗卫星构成，采用",
-      "source": "IT之家",
-      "publishTime": "2026-04-25",
-      "link": "https://www.ithome.com/0/943/517.htm"
-    },
-    {
-      "id": "34d03df8-2d23-81b6-80d6-d2d5034594f2",
-      "title": "Momenta 一年间量产搭载量超 80 万台，BBA 齐聚“上车”",
-      "summary": "IT之家 4 月 25 日消息，在 2026 北京国际汽车展览会期间，自动驾驶技术公司 Momenta 对外披露了其最新的量产落地进展。过去一年间，Momenta 的智能驾驶方案搭载量实现了显著增长，从近 30 万台迅速攀升至逾 80 万台，近期每新增 10 万台搭载量仅用时不到 40 天。截至目前，该公司已交付量产车型超过 70 款，累计定点车型超过 200 款，量产方案覆盖了十余个国家和地区，而本届北京车展上有超过 60 款展车搭载了 Momenta 的智能驾驶方案。宝马集团在北京车展前夕全球首秀的新世代 BMW iX3 长轴距版、新世代 BMW i3 长轴距版及全新 BMW 7 系三款车",
-      "source": "IT之家",
-      "publishTime": "2026-04-25",
-      "link": "https://www.ithome.com/0/943/516.htm"
-    },
-    {
-      "id": "34d03df8-2d23-810c-9697-d39fe184ffdb",
-      "title": "全球最大单机容量漂浮式风电平台“三峡领航号”启动安装，预计 6 月初投入试运行",
-      "summary": "IT之家 4 月 25 日消息，全球单机容量最大的漂浮式海上风电平台“三峡领航号”今日在广东阳江青洲海上风电场水域正式开始安装，标志着我国首个大容量漂浮式海上风电科研示范工程的关键环节正式启动。完成安装调试后，该平台预计于今年 6 月初投入试运行。公开报道显示，“三峡领航号”单机容量达 16 兆瓦，是我国自主研发的单机容量最大、技术集成度最高的漂浮式海上风电机组。平台搭载半潜式浮式基础，总长约 80.85 米、型宽 91.04 米，总重约 7530 吨，计划布设于阳江离岸约 80 公里、水深约 50 米的深远海域。其核心设备 ——16 兆瓦超大容量风力发电机组，叶轮直径 252 米，扫风面积约",
-      "source": "IT之家",
-      "publishTime": "2026-04-25",
-      "link": "https://www.ithome.com/0/943/515.htm"
-    },
-    {
-      "id": "34d03df8-2d23-8150-b257-c9878d772c63",
-      "title": "My partner and I lived in a camper van for 3 years before I had an unexpected pregnancy. It changed everything for us.",
-      "summary": "We set out in our camper van in hopes of finding a place in the country to settle down long-term. Our timeline was sped up when I got pregnant.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-25",
-      "link": "https://www.businessinsider.com/unexpected-pregnancy-reshaped-van-life-tiny-house-journey-2026-4"
-    },
-    {
-      "id": "34d03df8-2d23-81f0-8226-e68dbd457386",
-      "title": "B站下周公布《鲲歌》《烽沙》《007：初露锋芒》等新情报，国产游戏密集亮相",
-      "summary": "IT之家 4 月 25 日消息，B站旗下的游戏宣发栏目“游先看”宣布将于 4 月 26 日至 30 日期间，陆续公布四款国产游戏与一款海外作品的全新预告及实机体验内容，届时B站将独家首发相关游戏的实机演示和试玩报告。 IT之家汇总B站将公布的游戏名单包括：4 月 26 日：《烽沙》4 月 27 日：《斩业人》4 月 28 日：《吉时已到》4 月 29 日：《鲲歌》4 月 30 日：《007：初露锋芒》据官方介绍，B站在 4 月中旬已先行举办了一场闭门体验活动，邀请了B站 UP 主、国内游戏媒体以及包括 IGN 美国在内的海外游戏媒体，现场试玩了这五款游戏当中的四款。在本次连续五天的信息发布周期",
-      "source": "IT之家",
-      "publishTime": "2026-04-25",
-      "link": "https://www.ithome.com/0/943/514.htm"
-    },
-    {
-      "id": "34d03df8-2d23-8137-9622-e6934585bbe7",
-      "title": "We tried out xAI's Grok chatbot while driving a Tesla in NYC. Here's what happened.",
-      "summary": "CNBC takes a ride with a Tesla Model Y owner in New York City to see how he uses Grok and how it integrates into Tesla's Full Self-Driving (Supervised).",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-25",
-      "link": "https://www.cnbc.com/2026/04/25/tesla-and-xais-grok-shows-promises-and-risks-of-ai-chatbots-in-cars.html"
     }
   ],
   "macroEvents": [
