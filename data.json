@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-04-27 00:05",
+  "updatedAt": "2026-04-27 01:08",
   "news": [
+    {
+      "id": "34e03df8-2d23-81ba-ae00-ca21e80d8f72",
+      "title": "Trump turns the WHCD shooting into a pitch for the White House ballroom",
+      "summary": "Within hours of an armed gunman's attempt to enter the White House Correspondents Dinner, attended by top administration officials and hundreds of journalists, President Donald Trump did what he does best: use the assassination attempt to defend his ballroom project. During a White House press confe",
+      "source": "The Verge",
+      "publishTime": "2026-04-27",
+      "link": "https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom"
+    },
+    {
+      "id": "34e03df8-2d23-8117-9a93-cf0d6ec4779d",
+      "title": "We transformed our dated, dark kitchen into a bright, open-concept space — it turned out even better than I expected",
+      "summary": "With some DIYing, we transformed our dark kitchen into a multifunctional, open-concept space with new cabinets, appliances, and more natural light.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-27",
+      "link": "https://www.businessinsider.com/renovating-kitchen-into-open-concept-space-photos-diy-2026-4"
+    },
+    {
+      "id": "34e03df8-2d23-81de-99c6-e33d87f445a5",
+      "title": "TechCrunch Mobility: Elon’s admission",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-27",
+      "link": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/"
+    },
+    {
+      "id": "34e03df8-2d23-81b2-88c0-d6cc538393bd",
+      "title": "Tomora’s Come Closer is an ecstatic love letter to 90s dance music",
+      "summary": "Before Coachella, Tomora wasn't on my radar at all. It's actually only by chance that I stumbled upon them - I opened the wrong stream because my TV was lagging like a MFer. I paused for a few moments, entranced by the two ethereal Nordic women banging on giant drums to a techno beat. I […]",
+      "source": "The Verge",
+      "publishTime": "2026-04-27",
+      "link": "https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music"
+    },
     {
       "id": "34e03df8-2d23-81d0-9a08-d225f55ebc31",
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
@@ -34,12 +66,28 @@
       "link": "https://www.ithome.com/0/943/749.htm"
     },
     {
+      "id": "34e03df8-2d23-8132-99d2-f09da5731652",
+      "title": "Atlassian and HubSpot Join Shift From AI Flat Fees",
+      "summary": "Dozens of enterprise software firms have shifted away from charging customers flat, per-user subscription fees as AI threatens their seat-based pricing model. By the end of 2025, 79 of the 500 software companies tracked by former OpenView partner Kyle Poyar, including HubSpot, Adobe and Salesforce, ",
+      "source": "The Information",
+      "publishTime": "2026-04-26",
+      "link": "https://www.theinformation.com/articles/atlassian-hubspot-join-shift-ai-flat-fees"
+    },
+    {
       "id": "34e03df8-2d23-8154-b701-e02bc937fb52",
       "title": "SpeakOn’s dictation device is a good idea marred by platform limitations",
       "summary": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps",
       "source": "TechCrunch",
       "publishTime": "2026-04-26",
       "link": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/"
+    },
+    {
+      "id": "34e03df8-2d23-815f-bd8d-e5937a5a485d",
+      "title": "QEMU 11.0 发布：补全龙芯 LoongArch TCG 指令与 RISC-V 扩展，x86 新增英特尔 Diamond Rapids CPU 模型",
+      "summary": "IT之家 4 月 26 日消息，开源虚拟化仿真器 QEMU 11.0 本周三正式发布，此次更新涵盖广泛变化，涉及所有主要架构及代码库中的大量优化。QEMU 11.0 的主要亮点包括：弃用过时的 i440FX 与 Q35。小型代码生成器（Tiny Code Generator，TCG）在 LoongArch 架构上支持更多指令，例如 SC.Q、LLACQ / SCREL 以及近似倒数指令。RISC-V 架构新增对 ZALASR 扩展、Zilsd 与 Zclsd 扩展以及 Smpmpmt 扩展的支持。新增对 MIPS P8700 CPU 的支持。x86 端新增 Intel Xeon Diamond",
+      "source": "IT之家",
+      "publishTime": "2026-04-26",
+      "link": "https://www.ithome.com/0/943/751.htm"
     },
     {
       "id": "34e03df8-2d23-81b1-b449-c270f346993c",
@@ -352,54 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-04-26",
       "link": "https://www.businessinsider.com/multigenerational-living-build-wealth-elder-care-2026-4"
-    },
-    {
-      "id": "34e03df8-2d23-81c3-b15d-dd0aefb8419c",
-      "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
-      "summary": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-      "source": "Wired",
-      "publishTime": "2026-04-26",
-      "link": "https://www.wired.com/story/best-smart-bird-feeders/"
-    },
-    {
-      "id": "34e03df8-2d23-8138-9607-ea27742851c9",
-      "title": "I'm a dietitian who loves shopping at Trader Joe's. Here are 12 items I rely on to make easy, nutritious meals.",
-      "summary": "As a dietitian, I buy items like turkey burgers, steamed lentils, frozen berries, salted edamame, and seeded bread at Trader Joe's for easy meals.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-26",
-      "link": "https://www.businessinsider.com/best-things-trader-joes-easy-meals-dietitian-recommendations-2026-4"
-    },
-    {
-      "id": "34e03df8-2d23-8123-a75d-da1f5667e1b0",
-      "title": "Asahi Linux 适配苹果 Mac 最新进度：M3 支持度接近 M1 初始水平",
-      "summary": "IT之家 4 月 26 日消息，Asahi Linux 项目团队公布最新进度报告，重点介绍了围绕 Linux 7.0 内核周期的上游化工作以及下游 Asahi Linux 代码库的最新补充。报告显示，在 Apple M3 芯片 Mac 上运行 Linux 的支持已取得实质性突破，目前已达到与当初 Asahi Linux 在 M1 平台上首次推出 Alpha 版本时的品质大致相当的水平。同时，项目团队还推出了近两年来的首个 Asahi 安装器更新版本。由于安装器本身的复杂性以及生成新发行版本构建所涉及的诸多流程，新版 Asahi 安装器的发布间隔已接近两年。此次推出的 Asahi Install",
-      "source": "IT之家",
-      "publishTime": "2026-04-26",
-      "link": "https://www.ithome.com/0/943/721.htm"
-    },
-    {
-      "id": "34e03df8-2d23-8174-9d02-e17dba03f939",
-      "title": "尊界将启 2.0 时代：江汽集团与华为终端签署联合创新合作协议",
-      "summary": "IT之家 4 月 26 日消息，据江汽集团消息，安徽江淮汽车集团股份有限公司今日与华为终端有限公司在北京正式签署《联合创新合作协议》。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与江汽集团控股公司党委书记、董事长、总经理项兴初出席签约仪式。江汽集团表示，此次签约标志着双方战略合作进入全面纵深阶段，将以技术共研、产业链共融、品牌共塑为核心，推动尊界品牌向中国超豪华智能汽车引领者加速迈进。此次双方签约的背景显示，尊界将进入 2.0 时代。IT之家注：江汽集团与华为合作始于 2019 年 12 月签署的全面合作框架协议。2023 年 12 月，双方签署《智能新能源汽车合作协议》，正",
-      "source": "IT之家",
-      "publishTime": "2026-04-26",
-      "link": "https://www.ithome.com/0/943/720.htm"
-    },
-    {
-      "id": "34e03df8-2d23-818e-88a0-f41021c578e7",
-      "title": "Cutting employee benefits is no longer off the table",
-      "summary": "In this Sunday edition of Business Insider Today, we're talking about major changes happening to workplace perks.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-26",
-      "link": "https://www.businessinsider.com/bi-today-sunday-newsletter-cutting-employee-benefits-2026-4"
-    },
-    {
-      "id": "34e03df8-2d23-8132-9a51-d18677eb7dc2",
-      "title": "KTC 推出 24.5 英寸 2K 260Hz QD-Mini LED 显示器，1399 元",
-      "summary": "IT之家 4 月 26 日消息，康冠新推出了一款 24.5 英寸的 2K 260Hz 电竞显示器“KTC 大师 25M5”，京东显示为 1399 元。京东 KTC 24.5 英寸 2K 原生 260Hz QD-Mini-LED 显示器 1152 分区 HDR1000 显示器 DAC 0.5ms 硬件护眼 大师 25M5 黑色 1399 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取：点此查看。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券6 ",
-      "source": "IT之家",
-      "publishTime": "2026-04-26",
-      "link": "https://www.ithome.com/0/943/718.htm"
     }
   ],
   "macroEvents": [
