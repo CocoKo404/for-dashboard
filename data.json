@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-04-30 02:55",
+  "updatedAt": "2026-04-30 04:39",
   "news": [
+    {
+      "id": "35103df8-2d23-81a0-b6ad-eb57b4a7a26d",
+      "title": "PayPal's new CEO makes Venmo a standalone business unit as potential buyers circle",
+      "summary": "PayPal is betting that a new corporate structure can reignite growth at a company that has lost ground to Apple, Google and Stripe in the e-commerce battle.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-30",
+      "link": "https://www.cnbc.com/2026/04/29/paypal-restructures-venmo-standalone-unit.html"
+    },
+    {
+      "id": "35103df8-2d23-81d3-9fc1-ef43ae01ec40",
+      "title": "We toured an AI data center to see how our stock names make these facilities work",
+      "summary": "CoreSite CEO Juan Font thinks of his company's facilities like shopping malls.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-30",
+      "link": "https://www.cnbc.com/2026/04/29/we-toured-an-ai-data-center-to-see-how-our-stocks-make-these-facilities-work.html"
+    },
+    {
+      "id": "35103df8-2d23-81ad-9120-d7220988c266",
+      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+      "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-30",
+      "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"
+    },
+    {
+      "id": "35103df8-2d23-8177-97cd-d336cf5054f4",
+      "title": "Jimmy Kimmel is still on the air. The real impact of Trump's fight against ABC will happen behind the scenes.",
+      "summary": "The second round of Trump administration attacks on Disney, ABC, and Jimmy Kimmel has played out differently than the one we saw last fall.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-30",
+      "link": "https://www.businessinsider.com/jimmy-kimmel-donald-trump-fight-fcc-disney-what-happens-2026-4"
+    },
+    {
+      "id": "35103df8-2d23-81d7-8546-f4f5e079b8f2",
+      "title": "I saw a gap in healthcare. Now my bootstrapped nursing company is growing 80% a year",
+      "summary": "Jasmin Bhatti has grown her private nursing company 80% a year while prioritizing the patient and nurse experiences.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-30",
+      "link": "https://www.businessinsider.com/home-healthcare-startup-navi-nurses-growth-2024-4"
+    },
+    {
+      "id": "35103df8-2d23-81d8-9078-e7a1eafffd90",
+      "title": "All the evidence unveiled so far in Musk v. Altman",
+      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some hig",
+      "source": "The Verge",
+      "publishTime": "2026-04-30",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial"
+    },
+    {
+      "id": "35103df8-2d23-8145-b683-c3b191c7b0b3",
+      "title": "Musk pitched naming OpenAI 'Freemind' in jab at Google, emails to Altman show",
+      "summary": "An email exchange between Elon Musk and Sam Altman shows how Musk pitched calling OpenAI \"Freemind\" as a \"philosophical counter\" to Google's AI lab.",
+      "source": "Business Insider",
+      "publishTime": "2026-04-30",
+      "link": "https://www.businessinsider.com/elon-musk-pitched-naming-openai-freemind-emails-show-2026-4"
+    },
+    {
+      "id": "35103df8-2d23-810b-8e23-e54492684cef",
+      "title": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
+      "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bri",
+      "source": "The Verge",
+      "publishTime": "2026-04-30",
+      "link": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch"
+    },
+    {
+      "id": "35103df8-2d23-814e-abb4-c0e1073ae9a0",
+      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+      "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
+      "source": "Wired",
+      "publishTime": "2026-04-30",
+      "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/"
+    },
+    {
+      "id": "35103df8-2d23-81f3-8a66-efa30cd57ad1",
+      "title": "Uber is turning its app — and gig workers — into your personal assistant",
+      "summary": "Uber is adding features from hotel booking to special snacks during rides to its app as it moves closer to becoming a \"super app.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-04-30",
+      "link": "https://www.businessinsider.com/uber-new-features-hotel-booking-shopping-personal-assistant-2026-4"
+    },
     {
       "id": "35103df8-2d23-8191-b2af-c08c9745b513",
       "title": "Melania Trump and Queen Camilla wore matching outfits during the royals' White House visit. It was no accident.",
@@ -320,86 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-04-29",
       "link": "https://www.ithome.com/0/945/233.htm"
-    },
-    {
-      "id": "35103df8-2d23-815e-bf1c-dca1dfd384a5",
-      "title": "高德地图 × 迪迦奥特曼达成联动，堵车时可以释放哉佩利敖光线",
-      "summary": "IT之家 4 月 29 日消息，据奥特曼中国官方消息，高德地图与迪迦奥特曼已达成联动，并在高德地图内上线了迪迦奥特曼的导航联动套装。据介绍，高德地图 × 迪迦奥特曼导航联动套装包含哉佩利敖光线车标、浩瀚星云皮肤等。落实到具体效果就是开启导航后，车模会显示为迪迦奥特曼，导航时可以“起飞”。 IT之家注意到，在官方演示视频中，展示了一个堵车场景，此时的迪迦奥特曼会释放必杀技“哉佩利敖光线”。有网友玩梗称：“发现前面堵车直接大招清屏。”IT之家查询到，该套装需要购买使用，售价 12.8 元，支持多端同步，覆盖 iOS、安卓和华为鸿蒙系统。实际效果如下：",
-      "source": "IT之家",
-      "publishTime": "2026-04-29",
-      "link": "https://www.ithome.com/0/945/232.htm"
-    },
-    {
-      "id": "35103df8-2d23-81c3-9cb7-d1f569978300",
-      "title": "为什么有些列车车票“开售即候补”？国铁集团回应",
-      "summary": "IT之家 4 月 29 日消息，今天晚间，国铁集团发布候补购票十问十答。国铁集团解释称，火车票发售遵循“长途优先、兼顾中短途”原则，热门车次因需求远超运力而快速售罄。12306 候补功能可让旅客网上排队“捡漏”，成功率超 70%。IT之家汇总如下：一问：火车票的发售原则是什么？为什么铁路 12306 设置候补购票功能？答：铁路部门根据旅客出行需求、设备设施状况、区间通过能力等情况，组织开行长途和中短途各类旅客列车。一趟列车途经各站的车票按照“长途优先、兼顾中短途”原则发售，“长途优先”是指将大部分票额分配给始发站或邻近始发站的车站，优先满足全程出行或出行距离较长的旅客；“兼顾中短途”是指通过票",
-      "source": "IT之家",
-      "publishTime": "2026-04-29",
-      "link": "https://www.ithome.com/0/945/231.htm"
-    },
-    {
-      "id": "35103df8-2d23-817b-b340-dcd4456d1ea3",
-      "title": "消息称一加、realme 合并，OPPO 新成立子系列事业部",
-      "summary": "IT之家 4 月 29 日消息，今天晚间，雷峰网发布消息称，OPPO 发布了一份“新成立子系列事业部”的公告。IT之家从公告内容获悉，此次新成立的子系列事业部，OPPO 高级副总裁（SVP）李炳忠（Sky）为该事业部负责人，其中包含的一加和 realme 的营销服体系，由原 realme 营销服总裁徐起负责，任命为子系列事业部营销服负责人。产品方面成立子系列产品中心，并下设国内产品部门和海外产品部，统一由李杰负责，向刘作虎汇报，原 realme 副总裁王伟（Derek）为子系列产品中心副总经理，向李杰汇报。此外，原 realme 研发团队重新回归集团，影像、硬件等部门并入 OPPO，成为原 O",
-      "source": "IT之家",
-      "publishTime": "2026-04-29",
-      "link": "https://www.ithome.com/0/945/230.htm"
-    },
-    {
-      "id": "35103df8-2d23-81d3-96b4-cc67ec104e3b",
-      "title": "The keyboard used to score Dune 2 is getting more affordable",
-      "summary": "Expressive E is making its Osmose MPE keyboard (comparatively) more affordable by ditching the synthesizer and making it a simple MIDI controller. The new Osmose CE comes in two sizes, 49 and 61 keys, for $999 and $1,199, respectively. Now, $999 is pretty expensive for a MIDI controller, but it's fa",
-      "source": "The Verge",
-      "publishTime": "2026-04-29",
-      "link": "https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller"
-    },
-    {
-      "id": "35103df8-2d23-810f-8bdf-c43441330a14",
-      "title": "Apple loses bid to pause App Store fee changes as case heads to Supreme Court",
-      "summary": "Apple lost its bid to pause court-ordered App Store payment changes, keeping external purchase links in place as its case with Epic heads toward the Supreme Court.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-29",
-      "link": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/"
-    },
-    {
-      "id": "35103df8-2d23-81aa-920c-c4508457e590",
-      "title": "XAI Shows How Hard It Is to Use a Lot of GPUs at Once",
-      "summary": "AI developers have been desperately scrambling to get ahold of Nvidia server chips lately, as we wrote last week. When developers do get the graphics processing units, they’re under a lot of pressure to wring as much performance as possible from that expensive hardware.That’s easier said than done. ",
-      "source": "The Information",
-      "publishTime": "2026-04-29",
-      "link": "https://www.theinformation.com/articles/xai-shows-hard-use-lot-gpus"
-    },
-    {
-      "id": "35103df8-2d23-813d-a36b-d8a21dbd59bd",
-      "title": "华为鸿蒙“龙虾”小艺 Claw 迎重磅更新：上线“自进化”能力、接入 DeepSeek V4",
-      "summary": "IT之家 4 月 29 日消息，华为官方今日宣布，鸿蒙“龙虾”小艺 Claw 迎来重磅更新，上线“自进化”能力。在 11.6.3.300 新版本上线后，对小艺提出“记住这种风格”、“以后都用这种格式”、“永远都不要犯这种错”这类要求时，它会识别并学习长期偏好，可减少重复沟通。另外，小艺 Claw 正式接入 DeepSeek V4。新版本上线后，小艺 Claw 支持百万级超长上下文处理，可一次性读取并理解更长材料。同时，小艺 Claw 理解能力也得到提升，在信息搜集、文档处理、内容创作等任务中有更强的 Agent 推理能力。IT之家注意到，小艺 App 更新 11.6.3.300 新版本后，还引",
-      "source": "IT之家",
-      "publishTime": "2026-04-29",
-      "link": "https://www.ithome.com/0/945/229.htm"
-    },
-    {
-      "id": "35103df8-2d23-812d-84a4-fa757aa17a4c",
-      "title": "I'm an American mom raising my son in Denmark. I want him to belong here, even when I still feel in between 2 cultures.",
-      "summary": "Living in Denmark has many benefits for families, but raising a child here has made me confront what it means to belong.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-29",
-      "link": "https://www.businessinsider.com/moving-denmark-family-life-expat-motherhood-2026-4"
-    },
-    {
-      "id": "35103df8-2d23-8166-815b-dce028839665",
-      "title": "I planned a Disneyland trip around my 9-year-old. Here are 3 things I'd do again and 2 things I wouldn't.",
-      "summary": "I took my 9-year-old to Disneyland for a weekend. The Lightning Lane Multi Pass was worth it, and I learned lunch reservations are crucial.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-29",
-      "link": "https://www.businessinsider.com/family-disneyland-trip-tips-mistakes-2026-4"
-    },
-    {
-      "id": "35103df8-2d23-8124-be15-fec321147960",
-      "title": "Earth AI is vertically integrating the search for critical minerals",
-      "summary": "When Earth AI started hitting months-long delays in its search for critical minerals, it decided to take matters into its own hands.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-29",
-      "link": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/"
     }
   ],
   "macroEvents": [
