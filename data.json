@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-04-30 07:29",
+  "updatedAt": "2026-04-30 09:17",
   "news": [
+    {
+      "id": "35103df8-2d23-8184-9f55-f736625d4fcd",
+      "title": "苹果发布 AI 框架 LaDiR：突破单一思维，并行探索多条推理路径",
+      "summary": "IT之家 4 月 30 日消息，苹果公司携手加州大学圣迭戈分校团队，在新版论文《LaDiR：潜在扩散增强 LLM 文本推理》中提出新框架，让大语言模型（LLM）在回答前并行探索多条推理路径，再用自回归方式输出提高结果质量。IT之家援引博文介绍，该框架并非新模型，而是叠加在现有模型之上的通用框架，重点改变模型思考问题的方式。LaDiR 结合扩散（Diffusion）和自回归（Autoregression）两种主流生成范式，在推理阶段采用扩散模型，在最终输出阶段使用自回归模型。这种混合架构有效提升了模型处理复杂问题的能力，既保留了扩散模型并行处理的优势，又延续了自回归模型生成的连贯性。LaDiR ",
+      "source": "IT之家",
+      "publishTime": "2026-04-30",
+      "link": "https://www.ithome.com/0/945/247.htm"
+    },
+    {
+      "id": "35103df8-2d23-81af-aff1-fa712ba74b7a",
+      "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+      "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+      "source": "Wired",
+      "publishTime": "2026-04-30",
+      "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/"
+    },
+    {
+      "id": "35103df8-2d23-81b0-b16d-e1b17cb69d25",
+      "title": "华为路由 X3 Pro 日照金山双母典藏版预售：透明天线、凌霄 PLC 千兆组网，2408 元",
+      "summary": "IT之家 4 月 30 日消息，华为路由 X3 Pro 日照金山双母典藏版今日 10:08 开启预售，5 月 15 日 10:08 首销，预售价 2408 元，政府补贴价 2289.5 元。这款路由器采用“日照金山”美学设计，宣称把自然之美置于居家日常；行业首发透明天线，以微米级工艺在透明材质上蚀刻电路，将天线藏于雪山造型内。X3 Pro 采用了华为自研凌霄芯片，搭配 4 颗高性能信号放大器，支持 Wi-Fi 7+ 自研芯片级网络协同，支持 2.4GHz 与 5GHz 双频段无缝切换。该路由采用华为第三代 PLC 技术，搭载全新凌霄 PLC 芯片，利用电线传输信号，子路由房内插上电，即可实现自",
+      "source": "IT之家",
+      "publishTime": "2026-04-30",
+      "link": "https://www.ithome.com/0/945/246.htm"
+    },
+    {
+      "id": "35103df8-2d23-81e6-b4ba-f31fed733589",
+      "title": "IT早报 0430：微信朋友圈灰度改版；追觅回应造车质疑称我们不可能是乐视；小米自研芯片玄戒 O3 曝光；DeepSeek 灰度“识图模式”...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 4 月 30 日星期四，今天的重要科技资讯有：1、微信朋友圈灰度改版：文字移至配图上方，新增“时间轴相册”入口微信朋友圈界面迎来新调整，文字描述移至配图上方，日期显示更精简，并新增“朋友圈相册”入口，支持按时间轴浏览历史动态。音频播放界面也同步优化，新增“原文”和“评论”入口。目前改动仍在灰度测试中，部分用户已尝鲜。>> 查看详情2、我们不可能是乐视！追觅首次回应造车：启动时间与小米同步，采用“华为模式”走高端路线追觅在美国硅谷发布高端新能源品牌“星空计划”，首款概念车零百加速 0.9 秒。公司回应资金链与乐视质疑，称启动时间与小米同步，采用“华",
+      "source": "IT之家",
+      "publishTime": "2026-04-30",
+      "link": "https://www.ithome.com/0/945/245.htm"
+    },
+    {
+      "id": "35103df8-2d23-81a2-b853-caf78ee0e339",
+      "title": "消息称苹果已搁置研发 Vision Pro 头显，重心转向 Siri 和 AI 眼镜",
+      "summary": "IT之家 4 月 30 日消息，科技媒体 MacRumors 昨日（4 月 29 日）发布博文，报道称 Vision Pro 头显在升级 M5 芯片之后，仍未扭转市场冷淡局面，因此苹果公司内部已搁置研发新款 Vision Pro，团队重心转向 Siri 和 AI 智能眼镜。这款设备的争议集中在价格与佩戴体验。Vision Pro 售价为 3499 美元，机身重量超过 1.3 磅。新头带可分散重量，但长时间佩戴仍吃力。报道称，Vision Pro 自发布以来热度不足，总销量约 60 万台。内部消息人士还称，该产品退货比例异常偏高，超过近年其他苹果硬件产品。M5 版本未能改善需求，也让后续路线承压",
+      "source": "IT之家",
+      "publishTime": "2026-04-30",
+      "link": "https://www.ithome.com/0/945/244.htm"
+    },
+    {
+      "id": "35103df8-2d23-8109-9624-d69747fcc4f3",
+      "title": "比亚迪李云飞：仰望 U9 Xtreme 单台售价超两千万元，是本届北京车展上成交的最贵车型",
+      "summary": "IT之家 4 月 30 日消息，在 4 月 24 日的 2026 北京国际车展上，比亚迪发布了纽北创纪录车型 —— 仰望 U9 Xtreme 的量产版。IT之家注意到，比亚迪集团-品牌及公关处总经理李云飞昨晚发文透露，仰望 U9 Xtreme 单台售价超两千万元，是本届北京车展上成交的最贵车型，全球限量 30 台，获得全球顶级圈层认可。据IT之家此前报道，在 2025 年 11 月 21 日举行的 2025 广州车展上，比亚迪宣布仰望 U9 Xtreme 刷新株洲国际赛车场、珠海国际赛车场、成都天府国际赛车场、上海国际赛车场四大专业赛车场圈速纪录，成为四大专业赛道量产圈速第一。仰望汽车还在 2",
+      "source": "IT之家",
+      "publishTime": "2026-04-30",
+      "link": "https://www.ithome.com/0/945/243.htm"
+    },
+    {
+      "id": "35103df8-2d23-8111-a4e0-e0575facf7bf",
+      "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
+      "summary": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI.",
+      "source": "BBC Tech",
+      "publishTime": "2026-04-30",
+      "link": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "35103df8-2d23-8175-ae1b-ce262a5ce4ba",
+      "title": "新华三 H3C MegaBook Air 14 英寸笔记本上架：酷睿 Ultra 5 226V/228V、重量小于 1kg，7999 元起",
+      "summary": "IT之家 4 月 30 日消息，新华三 H3C 上架了一款名为 MegaBook Air 的笔记本电脑，搭载英特尔 Lunar Lake 处理器，活动到手价 7999 元起：酷睿 Ultra 5 226V+16GB+1TB：7999 元酷睿 Ultra 5 228V+32GB+1TB：8999 元据介绍，这款笔记本电脑搭载 14 英寸 16:10 比例 LCD 屏幕，分辨率 2240×1400，支持约 178 度开合；搭载 8 核 8 线程酷睿 Ultra 5 226V/228V 处理器，电池容量 60Wh。MegaBook Air 的 A/C/D 面采用镁合金，机身厚度 15.95mm，重量",
+      "source": "IT之家",
+      "publishTime": "2026-04-30",
+      "link": "https://www.ithome.com/0/945/242.htm"
+    },
+    {
+      "id": "35103df8-2d23-8108-ba87-fdb528122c45",
+      "title": "苹果 AI 眼镜曝光：内置 2 颗摄像头、支持 Siri 智能交互、可手势控制",
+      "summary": "IT之家 4 月 30 日消息，科技媒体 MacRumors 昨日（4 月 29 日）发布博文，报道称苹果内部正在加速研发其首款智能眼镜，预估上市后将会和 Meta Ray-Bans 等产品竞争。而最新内部消息称，该产品的定位并非直接切入完整 AR 眼镜赛道，而是把拍摄、语音助手和手势控制作为核心能力。硬件规格方面，消息称苹果智能眼镜配备 2 颗摄像头。其中高分辨率摄像头用于拍摄照片和视频，内容可分享至社交平台；另 1 颗低分辨率广角镜头，则负责读取手部动作，并为 Siri 提供环境视觉信息。IT之家援引博文介绍，首代苹果智能眼镜不会内置显示屏，也不会配备 LiDAR、3D 摄像头等模块。报道",
+      "source": "IT之家",
+      "publishTime": "2026-04-30",
+      "link": "https://www.ithome.com/0/945/241.htm"
+    },
+    {
+      "id": "35103df8-2d23-811e-b00b-fad70d955f02",
+      "title": "华为乾崑 | 奕境 X9 汽车官宣搭载 HUAWEI XSCENE 车载激光投影，将支持单人 / 多人 / 灵动岛模式",
+      "summary": "IT之家 4 月 30 日消息，华为乾崑 | 奕境汽车官方昨晚发布视频，宣布奕境 X9 大六座 SUV 将搭载 HUAWEI XSCENE 车载激光投影。据介绍，奕境 X9 上的 HUAWEI XSCENE 车载激光投影支持行业最高的 2000:1 对比度、98% D3-P3 广色域，并通过德国莱茵蓝光认证。另外，还支持单人模式、多人模式和灵动岛模式（灵动岛的效果暂未得到展示）。值得一提的是，奕境 X9 此前还宣布行业首发后排吸顶柔光屏，号称“强光也清晰”。根据官方信息来看，这块吸顶屏采用柔光设计，具备强光不反光的特性。由此来看，奕境 X9 可自行选配二排吸顶屏或者投影仪。IT之家了解到，作为",
+      "source": "IT之家",
+      "publishTime": "2026-04-30",
+      "link": "https://www.ithome.com/0/945/240.htm"
+    },
+    {
+      "id": "35103df8-2d23-81ef-9d4f-d3bc481b366b",
+      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+      "source": "TechCrunch",
+      "publishTime": "2026-04-30",
+      "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/"
+    },
+    {
+      "id": "35103df8-2d23-8193-a7ce-f4c26bb858ed",
+      "title": "小米米家智能燃气热水器 2 恒温 1 级能效 16L 开售，新品首发价 1763 元",
+      "summary": "IT之家 4 月 30 日消息，小米“米家智能燃气热水器 2 恒温 1 级能效 16L”现已正式开售，建议零售价 1999 元，新品首发价 1763 元。据介绍，这款新品为超国标 1 级能效标准，采用智能算法精准恒温，不怕水温忽冷忽热；支持全屋零冷水，热水即开即热不用久等。这款热水器采用白色家族式设计，正面配有圆形数显屏，最小负载运行状态下的噪音为 45dB(A)；支持无级变频水伺服，确保全家同时用水水温恒定；支持 TSI 增压技术，除菌率高达 99.9%；支持小米澎湃智联。IT之家附这款新品详细参数如下：京东米家小米智能燃气热水器 2 恒温 16L1763 元直达链接",
+      "source": "IT之家",
+      "publishTime": "2026-04-30",
+      "link": "https://www.ithome.com/0/945/239.htm"
+    },
+    {
+      "id": "35103df8-2d23-81d5-bf54-c58508fd7ff0",
+      "title": "Jim Cramer reveals the secret to finding a winning tech stock in this market",
+      "summary": "CNBC's Jim Cramer said tech stocks need more than an earnings beat to rally right now. They need a shortage.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-04-30",
+      "link": "https://www.cnbc.com/2026/04/29/jim-cramer-secret-winning-tech-stock.html"
+    },
     {
       "id": "35103df8-2d23-8174-b8b1-e3f304e8f209",
       "title": "Microsoft expects headcount to decrease in coming quarters",
@@ -186,6 +290,14 @@
       "link": "https://www.businessinsider.com/april-fed-takeaways-kevin-warsh-jerome-powell-legacy-interest-rates-2026-4"
     },
     {
+      "id": "35103df8-2d23-8125-9c06-caf437ef0b11",
+      "title": "微软 2026 财年第三财季净利润 317.78 亿美元，同比增长 23%",
+      "summary": "IT之家 4 月 30 日消息，微软今日发布 2026 财年第三财季（截至 2026 年 3 月 31 日）报告：营业总收入： 828.86 亿美元，同比增长 18%归母净利润： 317.78 亿美元，同比增长 23%经营现金流： 466.79 亿美元基本每股收益： 4.28 美元 / 股，同比增长 23.33%稀释每股收益： 4.27 美元 / 股，同比增长 23.41%🤖 AI 解读微软 2026 财年第三季度（截至 2026 年 3 月 31 日）实现 828.86 亿美元营业收入，同比增长 18%（固定汇率下增长 15%）；归属于股东的净利润为 317.78 亿美元，GAAP 口径下同",
+      "source": "IT之家",
+      "publishTime": "2026-04-30",
+      "link": "https://www.ithome.com/0/945/237.htm"
+    },
+    {
       "id": "35103df8-2d23-81fe-aaff-d94f0c288d15",
       "title": "Meta 2026 财年第一财季净利润 267.73 亿美元，同比增长 61%",
       "summary": "IT之家 4 月 30 日消息，Meta 今日发布 2026 财年第一财季（截至 3 月 31 日）报告：营业总收入：563.11 亿美元，同比增长 33%归母净利润：267.73 亿美元，同比增长 61%经营现金流：322.26 亿美元基本每股收益：10.57 美元 / 股稀释每股收益：10.44 美元 / 股，同比增长 62%🤖 AI 解读Meta 发布了 2026 年第一季度财报，实现 营业收入 563.11 亿美元，同比增长 33%，若按不变汇率计算则同比增长 29%；净利润 267.73 亿美元，同比增长 61%；稀释每股收益 10.44 美元 / 股，同比增长 62%；经营活动现金",
@@ -288,118 +400,6 @@
       "source": "Wired",
       "publishTime": "2026-04-30",
       "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/"
-    },
-    {
-      "id": "35103df8-2d23-81f3-8a66-efa30cd57ad1",
-      "title": "Uber is turning its app — and gig workers — into your personal assistant",
-      "summary": "Uber is adding features from hotel booking to special snacks during rides to its app as it moves closer to becoming a \"super app.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-04-30",
-      "link": "https://www.businessinsider.com/uber-new-features-hotel-booking-shopping-personal-assistant-2026-4"
-    },
-    {
-      "id": "35103df8-2d23-8191-b2af-c08c9745b513",
-      "title": "Melania Trump and Queen Camilla wore matching outfits during the royals' White House visit. It was no accident.",
-      "summary": "King Charles and Queen Camilla are in the US for a state visit. At White House events, Melania Trump and Camilla have worn subtly coordinated outfits.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-30",
-      "link": "https://www.businessinsider.com/melania-trump-queen-camilla-style-white-house-visit-2026-4"
-    },
-    {
-      "id": "35103df8-2d23-814e-bc57-c7cfb9d9415c",
-      "title": "OpenAI really really really wants GPT 5.5 to stop randomly talking about gremlins and goblins",
-      "summary": "OpenAI included a line in Codex's instructions restricting references to goblins, gremlins, trolls, and ogres, and even Sam Altman joined the memes.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-30",
-      "link": "https://www.businessinsider.com/openai-really-really-wants-gpt55-stop-talking-about-goblins-2026-4"
-    },
-    {
-      "id": "35103df8-2d23-81e5-8629-e539e1d0cc98",
-      "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
-      "summary": "Google recreates Cher's closet from \"Clueless\" with AI.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-30",
-      "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/"
-    },
-    {
-      "id": "35103df8-2d23-815e-b841-e0b6df2601d9",
-      "title": "The best-selling album the year you were born, according to Billboard",
-      "summary": "Business Insider compiled each year's best-selling album dating back to 1956. See which album was the soundtrack to your birth year.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-30",
-      "link": "https://www.businessinsider.com/the-best-selling-album-the-year-you-were-born"
-    },
-    {
-      "id": "35103df8-2d23-81ad-850d-f63b87b4f4f2",
-      "title": "More Gemini features are coming to Google TV",
-      "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-30",
-      "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/"
-    },
-    {
-      "id": "35103df8-2d23-8144-80f7-e53543f4c0b7",
-      "title": "NXP Semiconductors soars 26%, paces for its best day ever after earnings beat",
-      "summary": "Shares rose 26% Wednesday, the biggest surge since the Dutch chipmaker went public in 2010.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-30",
-      "link": "https://www.cnbc.com/2026/04/29/nxp-semiconductors-stock-earnings-beat.html"
-    },
-    {
-      "id": "35103df8-2d23-814c-b15c-dd1be9cdc1da",
-      "title": "The Marines are rushing to stand up a new counter-drone team as stress tests spotlight gaps in their defenses",
-      "summary": "A Marine unit recently struggled to confront enemy drones in realistic training, underscoring gaps as the Corps looks into counter-drone solutions.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-30",
-      "link": "https://www.businessinsider.com/marines-forming-new-counter-drone-teams-to-meet-the-threat-2026-4"
-    },
-    {
-      "id": "35103df8-2d23-81d0-9ce2-ec17c22a860d",
-      "title": "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government",
-      "summary": "On Wednesday, Pursuit announced a $22 million seed round led by Mike Rosengarten, the co-founder of OpenGov with out big-name VCs participating.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-30",
-      "link": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/"
-    },
-    {
-      "id": "35103df8-2d23-8116-b344-fd2574dd9b0c",
-      "title": "The Moto Razr and Razr Plus are victims of shrinkflation",
-      "summary": "The memory crisis claims another couple of victims. Motorola's midtier and entry-level flip phones cost $100 more than their predecessors, and have few upgrades to show for it. The 2026 Razr Plus costs $1,099, up from $999. It still comes with a Snapdragon 8S Gen 3 chipset - two years old at this po",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/tech/920236/motorola-razr-plus-2026-price"
-    },
-    {
-      "id": "35103df8-2d23-8177-a616-c8f8ab348e69",
-      "title": "Microsoft's earnings report lands after stock's worst quarterly performance since 2008",
-      "summary": "Microsoft is coming off its worst quarterly stock performance since 2008, partly due to broader market concern that AI will eat software.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-30",
-      "link": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html"
-    },
-    {
-      "id": "35103df8-2d23-8184-b8c7-d4c2966c7c46",
-      "title": "Amazon set to report first-quarter earnings after the bell",
-      "summary": "Amazon's earnings report will show investors what growth looks like in the cloud business, where revenue is expected to increase 26%",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-30",
-      "link": "https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html"
-    },
-    {
-      "id": "35103df8-2d23-818d-a69a-d0b0eb7c4f9a",
-      "title": "Alphabet first-quarter results likely to show continued growth, boosted by cloud",
-      "summary": "Wall Street expects Alphabet to report its strongest quarter for revenue growth since 2022.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-30",
-      "link": "https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html"
-    },
-    {
-      "id": "35103df8-2d23-81a2-96c9-cebcc013dee4",
-      "title": "Meta looks to report fastest revenue growth since 2021",
-      "summary": "In Meta's earnings report after the bell, investors will be monitoring the company's hefty AI spending and whether the war in Iran is having an impact.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-30",
-      "link": "https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html"
     }
   ],
   "macroEvents": [
