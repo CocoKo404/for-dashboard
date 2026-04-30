@@ -1,6 +1,174 @@
 {
-  "updatedAt": "2026-05-01 02:52",
+  "updatedAt": "2026-05-01 04:38",
   "news": [
+    {
+      "id": "35203df8-2d23-819a-a4c2-da45ac51fb87",
+      "title": "Rivian downsizes its goals for its EV factory in Georgia",
+      "summary": "Rivian announced some changes today with regard to the factory its building in the state of Georgia. The company was planning to build the facility in two phases, each resulting in 200,000 vehicles of annual production capacity, for a total of 400,000 units. Now the company says it is only planning ",
+      "source": "The Verge",
+      "publishTime": "2026-05-01",
+      "link": "https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan"
+    },
+    {
+      "id": "35203df8-2d23-81b6-9241-c8f4f3ea63d0",
+      "title": "Rivian downsizes DOE loan to $4.5B, while boosting capacity of Georgia factory",
+      "summary": "Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4.5 billion to build its new factory in Georgia, down from the original amount of $6.6 billion.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-01",
+      "link": "https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/"
+    },
+    {
+      "id": "35203df8-2d23-8111-aeae-ef187bd586e7",
+      "title": "Meta just told staff in an internal meeting that it isn't ruling out further layoffs",
+      "summary": "Meta may cut more jobs beyond its planned 10% layoffs, HR chief Janelle Gale told staff, saying that morale has been hit.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/meta-layoffs-hr-ceo-mark-zuckerberg-address-staff-concerns-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-81f8-9aee-eed57533caba",
+      "title": "The logic of the racist Supreme Court isn’t adding up",
+      "summary": "Close watchers of the Supreme Court knew that the conservative supermajority was about to murder what was left of the Voting Rights Act. Wednesday's decision in Louisiana v. Callais took down Section 2 of the law, clearing the way for racist gerrymandering, because it is now racist to remedy racism.",
+      "source": "The Verge",
+      "publishTime": "2026-05-01",
+      "link": "https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act"
+    },
+    {
+      "id": "35203df8-2d23-819f-87f3-f466a92e1992",
+      "title": "How The Cheesecake Factory Runs One Of America's Biggest Menus",
+      "summary": "The Cheesecake Factory runs a massive 250+ item menu made fresh daily—and still out-earns most competitors. Here's how it pulls it off.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/how-the-cheesecake-factory-runs-one-of-americas-biggest-menus-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-81b2-b573-dea345d8a72c",
+      "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites",
+      "summary": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-01",
+      "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/"
+    },
+    {
+      "id": "35203df8-2d23-81a0-a2f7-fa3b0d674580",
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "summary": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-01",
+      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/"
+    },
+    {
+      "id": "35203df8-2d23-8144-8101-ca3506e7e375",
+      "title": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
+      "summary": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Experience (FSE) with Asus' Xbox Ally devices. \"Some players in select markets will ",
+      "source": "The Verge",
+      "publishTime": "2026-05-01",
+      "link": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11"
+    },
+    {
+      "id": "35203df8-2d23-81a4-b455-e56391befd73",
+      "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
+      "summary": "Meta says it may be forced to pull Facebook, Instagram, and WhatsApp from New Mexico if the attorney general gets his way. The state is demanding a host of changes that the company says are impossible to achieve. After winning a $375 million jury award against Meta in a trial that argued the company",
+      "source": "The Verge",
+      "publishTime": "2026-05-01",
+      "link": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico"
+    },
+    {
+      "id": "35203df8-2d23-81d9-8ef7-e186c9ee73ec",
+      "title": "The blame game over AI hallucinations in court filings has started",
+      "summary": "A Louisiana lawyer apologized for errors in filings. He disclosed the tool he uses, and that company said they are not responsible.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/ai-hallucinations-court-filings-eve-dudley-debosier-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-8136-9cf0-d599ec8b9068",
+      "title": "With Saros, Housemarque makes a case for doing next-gen games differently",
+      "summary": "It is generally frowned upon to care too much about appearances. We have a lot of little aphorisms discouraging this - books and their covers, beauty being skin deep, style over substance, that sort of thing. Vanity is a risk. Should one put a disproportionate effort into how a thing looks, then sai",
+      "source": "The Verge",
+      "publishTime": "2026-05-01",
+      "link": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5"
+    },
+    {
+      "id": "35203df8-2d23-8117-8d83-e34c98960056",
+      "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
+      "summary": "The perpetually struggling EV company made the payments while being investigated by the SEC. That four-year probe was ultimately closed in March.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-01",
+      "link": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/"
+    },
+    {
+      "id": "35203df8-2d23-81d5-b5ae-ea3192384e41",
+      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+      "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
+      "source": "Wired",
+      "publishTime": "2026-05-01",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/"
+    },
+    {
+      "id": "35203df8-2d23-8166-a770-ec1e53f49053",
+      "title": "Inside Wealth: Markets are underpricing the risk of Middle East pullback in AI, says tech investor Jack Selby",
+      "summary": "Middle East investors account for roughly a quarter of global AI investments over the next 5 years, said Jack Selby, managing director of Thiel Capital.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-01",
+      "link": "https://www.cnbc.com/2026/04/30/investor-jack-selby-markets-underpricing-middle-east-ai-pullback-risk.html"
+    },
+    {
+      "id": "35203df8-2d23-81b6-b4c4-ff960729ad75",
+      "title": "A Michelin-starred restaurant uses agentic AI to source the freshest ingredients possible",
+      "summary": "Chef Silvio Pfeufer uses Saltz, a food procurement platform with agentic AI, to find top suppliers and cut down on time-consuming sourcing calls.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/agentic-ai-platform-saltz-modernizes-restaurant-food-procurement-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-81cc-acac-ffbe9a1a8f63",
+      "title": "AI boom: Big Tech capital expenditures now seen topping $1 trillion in 2027",
+      "summary": "The overall cost has been causing heads to spin, but analysts say they're seeing flowthrough from investments to revenue.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-01",
+      "link": "https://www.cnbc.com/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html"
+    },
+    {
+      "id": "35203df8-2d23-8115-a3b9-ef744f994619",
+      "title": "Would you like a zombie app? Friendster and Vine are back from the dead.",
+      "summary": "Two defunct social media platforms are getting revived this week: Vine and Friendster. But the new versions each have a twist.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/vine-friendster-social-app-back-with-twist-divine-jack-dorsey-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-815e-8f0e-de7e8f6c84d6",
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-01",
+      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/"
+    },
+    {
+      "id": "35203df8-2d23-8167-ad3e-ee532f94ebf2",
+      "title": "MAGA Is Confused About ‘Animal Farm’",
+      "summary": "The new film is the latest adaptation of George Orwell’s novel. Based on the critiques coming from right-wing influencers, it seems few of them fully grasp the book’s message.",
+      "source": "Wired",
+      "publishTime": "2026-05-01",
+      "link": "https://www.wired.com/story/maga-is-confused-about-animal-farm/"
+    },
+    {
+      "id": "35203df8-2d23-8106-ba94-c256451bb305",
+      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+      "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to ",
+      "source": "The Verge",
+      "publishTime": "2026-05-01",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation"
+    },
+    {
+      "id": "35203df8-2d23-8196-957f-d8dd0024be4b",
+      "title": "Senator pushes pandemic-era fraud bill forward, citing Business Insider's report on Chris Brown's taxpayer-funded birthday party",
+      "summary": "Prosecutors could soon get more time to pursue fraud charges related to pandemic bailouts for restaurants and music businesses.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/svog-restaurant-pandemic-fraud-prosecution-extension-passes-senate-2026-4"
+    },
     {
       "id": "35203df8-2d23-8106-acae-ce3ecf03f24b",
       "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
@@ -232,174 +400,6 @@
       "source": "Wired",
       "publishTime": "2026-04-30",
       "link": "https://www.wired.com/gallery/the-best-mattress-for-side-sleeper/"
-    },
-    {
-      "id": "35203df8-2d23-81c3-b594-e27636e7ebf2",
-      "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
-      "summary": "Amazon, Google and Microsoft all reported better-than-expected first-quarter cloud results, signaling an acceleration of AI demand",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-30",
-      "link": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html"
-    },
-    {
-      "id": "35203df8-2d23-8112-a4ce-df98e61e3d96",
-      "title": "Uber taps Hertz to clean, charge, and fix its Lucid Motors robotaxis",
-      "summary": "Hertz is creating a new affiliate company called \"Oro Mobility\" to provide fleet management solutions \"across a range of mobility segments.\"",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-30",
-      "link": "https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/"
-    },
-    {
-      "id": "35203df8-2d23-8113-b0f6-f1b7f6863002",
-      "title": "加州新规：警察能给无人驾驶汽车开罚单了",
-      "summary": "IT之家 4 月 30 日消息，据外媒 The Verge 报道，今年 7 月 1 日起，自动驾驶车辆在加州也不能再免罚了。加州机动车辆管理局本周公布新规，今后如果自动驾驶汽车出现交通违法，执法部门可以向车企发出“自动驾驶车辆违规通知”。据IT之家了解，适用情形包括闯红灯、遇到校车未按规定停车等。这项新规出台前，自动驾驶出租车已经多次因为交通违法视频引发关注，也卷入过多起安全调查。特斯拉的 FSD 系统同样正在接受调查，问题涵盖闯红灯、逆行等诸多方面。新规实施后，至少在加州，无人驾驶汽车公司也会因为这些行为收到处罚通知。新规还试图解决自动驾驶车辆在紧急情况下添乱的问题。譬如，去年旧金山停电期间",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/750.htm"
-    },
-    {
-      "id": "35203df8-2d23-8166-842d-e36ade7a5b30",
-      "title": "Now California&#8217;s cops can give tickets to driverless cars",
-      "summary": "Autonomous vehicles roving California's roads will no longer be immune to traffic tickets starting on July 1st. New regulations announced by the California DMV this week allow law enforcement to give AV manufacturers a \"notice of AV noncompliance\" when one of their cars commits a traffic violation, ",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/transportation/921290/california-driverless-vehicles-traffic-tickets"
-    },
-    {
-      "id": "35203df8-2d23-819e-9b05-ecce3501a512",
-      "title": "保时捷燃油版 Macan 车型生命仅剩一个月，官方承诺“尽可能多造一些”",
-      "summary": "IT之家 4 月 30 日消息，北京时间 4 月 30 日（今天）晚间，据外媒 Carscoops 报道，保时捷准备停产燃油版 Macan，然而市场上仍有不少人想要购买，真正接班的燃油版车型最早要等到 2028 年才能买到。对保时捷来说，这等于在最重要的产品线之一上留下了一个很难受的空档。保时捷 CFO 约亨 · 布雷克纳在本周财报电话会上披露，该车生产将在 2026 年夏季停止。“在最后一个月里，我们会尽可能多造一些。当然，产能是一方面，但真正的限制不是产能，而是供应商零部件。”也就是说，莱比锡工厂会在今年夏天停产燃油版 Macan，销售端不会马上归零。布雷克纳称，部分市场到 2027 年仍",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/749.htm"
-    },
-    {
-      "id": "35203df8-2d23-8101-980a-e77cc2a8205c",
-      "title": "After working on the Vision Pro, this AR veteran is going back to phones",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Mark Drummond was working on the Vision Pro at Apple, he had a bit of an epiphany that didn't really fit Cupertino's preferred nar",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/column/921101/ar-mobile-pixi"
-    },
-    {
-      "id": "35203df8-2d23-8188-8d9e-ecdb915ec340",
-      "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
-      "summary": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-30",
-      "link": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/"
-    },
-    {
-      "id": "35203df8-2d23-81f9-8b85-e7f6a24685c2",
-      "title": "交通运输部：预计“五一”假期新能源车日均流量约 1540 万辆，同比增长 33%",
-      "summary": "IT之家 4 月 30 日消息，4 月 28 日下午 14 时，交通运输部举行 4 月例行新闻发布会，介绍“五一”交通运输出行服务保障工作情况。会上介绍，今年“五一”假期，全国天气总体利于出行，高速公路车流量将持续保持高位运行，假期路网运行将呈现以下特征：一是高速公路流量或创历史同期新高。预计今年“五一”假期全国高速公路日均流量约为 6400 万辆，较去年同期增长 3.4%，峰值预计达 7000 万辆，创历年 \" 五一 \" 假期新高。二是新能源车流量明显增长。预计今年“五一”假期新能源车日均流量约 1540 万辆，较去年同期增长 33%。假期期间，新能源车充电需求旺盛。三是景区周边路网压力较大",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/748.htm"
-    },
-    {
-      "id": "35203df8-2d23-811e-9c8b-eccfb7873116",
-      "title": "微星 Intel Arc G3 Extreme 掌机 Claw 8 EX AI+ 规格现身意大利电商",
-      "summary": "IT之家 4 月 30 日消息，意大利电商平台 Ollo Store 提前上架了微星 (MSI) 尚未推出的 Claw 8 EX AI+ 掌机。该设备搭载 Intel Arc G3 Extreme，这也确认了英特尔掌机处理器产品线的命名规则。此掌机的具体型号名称为 CG3EM-013，IT 后缀显示其是面向意大利市场的版本。其标价为 1599 欧元（IT之家注：现汇率约合 12796 元人民币）；考虑到意大利的 VAT 税率为 22%，这对应着 1311 欧元（现汇率约合 10491 元人民币）左右的税前价格。该产品整体为“虚空紫”配色，拥有一块 8\" 1920×1200 120Hz 触控屏（",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/747.htm"
-    },
-    {
-      "id": "35203df8-2d23-815d-b3a6-e741d84144a2",
-      "title": "Epic 喜加一：《火花奇遇记：自动化冒险》游戏免费领取",
-      "summary": "IT之家 4 月 30 日消息，Epic 本周送出的游戏是《火花奇遇记：自动化冒险》，下周送出的游戏是《编织者：角色谜题冒险》《变废为宝哥布林》。领取链接：《火花奇遇记：自动化冒险》IT之家附《火花奇遇记：自动化冒险》游戏简介：《火花奇遇记：自动化冒险》是一款融合了自动化和实时战略的游戏，既适合自动化类型的死忠玩家，也适合对自动化充满好奇的玩家。设计、装饰、建造、自动化！《Oddsparks》是自动化游戏的绝佳入门之作，同时也为该类型的资深玩家带来了新鲜感。你将设计自动化工坊，指派你的火花们去搬运和制作你所需的一切 —— 甚至包括制作更多的火花！在没有传送带的情况下，你必须管理火花的交通以优化",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/744.htm"
-    },
-    {
-      "id": "35203df8-2d23-8169-b612-d607ef30f0e5",
-      "title": "车顶能升起：小米“YU9”增程 SUV 新谍照曝光，消息称启用新品牌“寻天”",
-      "summary": "IT之家 4 月 30 日消息，昨天下午开始，@SugarDesign、@新出行贺磊 等博主晒出多张小米第三款车型 —— 增程 SUV“昆仑 N3（YU9）”的谍照。@SugarDesign 放出的谍照显示，这款车型将提供可升降车顶，车顶升起后预计可作为房车使用。他表示，这款新车“疑似将使用新品牌 SKYNOMAD”。@新出行贺磊 放出的谍照，则展示了小米旗下 SUV 车型的“全家桶”。除了外观已经公之于众的 YU7 和 YU7 GT 外，另外三款仍覆盖伪装的车型从上到下依次为七座版 YU9（IT之家注：该命名仅供参考，实际暂未官宣）、升顶版 YU9、五座版 YU9。博主 @小宇不膨胀 则补充",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/746.htm"
-    },
-    {
-      "id": "35203df8-2d23-810b-96cb-d0907fbd28e9",
-      "title": "Subnautica 2 launches soon after lengthy legal dispute",
-      "summary": "After some protracted legal drama, Subnautica 2 is finally about to launch. The game, which is currently Steam's most-wishlisted title and was caught up in a dispute between top executives at developer Unknown Worlds and its owner, Krafton, will be available in early access on PC and Xbox Series X /",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/games/920668/subnautica-2-early-access-release-date-unknown-worlds-krafton"
-    },
-    {
-      "id": "35203df8-2d23-8153-bc73-d085b1e31a58",
-      "title": "Dental practice software maker fixes bug that exposed patients’ medical records",
-      "summary": "The security bug is now fixed, but the patient who found it said it was challenging to alert the software company about the issue.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-30",
-      "link": "https://techcrunch.com/2026/04/30/dental-practice-software-maker-fixes-bug-that-exposed-patients-medical-records/"
-    },
-    {
-      "id": "35203df8-2d23-81ac-902e-fb63412a6836",
-      "title": "$100 Nintendo gift cards are $20 off at Newegg today",
-      "summary": "Nintendo eShop gift cards can be used to buy games, apparel, and even hardware or accessories from its online storefront. No matter what you want to get, you can save a fairly substantial amount by purchasing a twin-pack of $50 eShop gift cards from Newegg. Originally $100, you can get them for $80.",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/gadgets/921157/100-nintendo-gift-cards-are-20-off-at-newegg-today"
-    },
-    {
-      "id": "35203df8-2d23-814d-981e-e41c6617f78d",
-      "title": "X announces a rebuilt ad platform powered by AI",
-      "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
-      "source": "TechCrunch",
-      "publishTime": "2026-04-30",
-      "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/"
-    },
-    {
-      "id": "35203df8-2d23-81ab-a444-cc992a313466",
-      "title": "三星和 SK 海力士纷纷警告：AI 导致的内存短缺问题可能持续至 2027 年及以后",
-      "summary": "IT之家 4 月 30 日消息，三星电子今日发布了 2026 财年第一财季财报，公司存储业务负责人 Kim Jaejune 警示，各类存储芯片的严重短缺局面至少将持续至 2027 年。据《南华早报》报道，由于各大客户争相锁定未来供货，当前产品履约率已跌至历史低位。这一预警与仅一周前竞争对手 SK 海力士在财报电话会议上的表态高度一致。三星、SK 海力士与美国美光科技三家企业合计掌控全球超 90% 的 DRAM 内存市场。全球三大存储芯片供应商中，有两家同时预警长达数年的供货短缺，市场产生担忧实属情理之中。此次芯片短缺主要由人工智能基础设施建设需求拉动。现代人工智能系统需要海量高速内存，持续为图",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/745.htm"
-    },
-    {
-      "id": "35203df8-2d23-8108-a862-c5dab8a2267e",
-      "title": "I'm slowly giving my 12-year-old more independence. Even though I knew this was coming, it's not easy.",
-      "summary": "My 12-year-old is pushing for independence, and I'm learning to balance trust and safety with clear rules and boundaries.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-30",
-      "link": "https://www.businessinsider.com/giving-kids-independence-rules-boundaries-parenting-2026-4"
-    },
-    {
-      "id": "35203df8-2d23-815e-9881-d728d39c11d5",
-      "title": "Jim Cramer sees these 2 stocks as buys after a busy night of Big Tech earnings",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-30",
-      "link": "https://www.cnbc.com/2026/04/30/jim-cramer-sees-these-2-stocks-as-buys-after-a-busy-night-of-big-tech-earnings.html"
-    },
-    {
-      "id": "35203df8-2d23-8191-9236-ea3c7a73ddc2",
-      "title": "The coolest building in every US state, from historic landmarks to modern marvels",
-      "summary": "From futuristic-looking skyscrapers to kitsch roadside attractions, the architecture across all 50 states is as diverse as its population and history.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-30",
-      "link": "https://www.businessinsider.com/coolest-building-in-every-state"
-    },
-    {
-      "id": "35203df8-2d23-8165-a439-eb7497223125",
-      "title": "Anbernic’s new rotating screen handheld will start at less than $100",
-      "summary": "Following its sliding screen handheld that debuted last June with a design that some reviewers found to be too chunky and thick, Anbernic has shared more details about its new rotating screen handheld that looks more pocketable. The RG Rotate (Anbernic has never been known for its clever device nami",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/tech/921203/anbernic-rg-rotate-android-handheld-pricing-availability-preorders"
-    },
-    {
-      "id": "35203df8-2d23-8199-b414-d4445df4c77d",
-      "title": "All these smart glasses and nothing to do",
-      "summary": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their Neural Wristband. In my closet are six pairs of $50 smart sunnies that an overzealous Walmart rep sen",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard"
     }
   ],
   "macroEvents": [
