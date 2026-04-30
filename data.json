@@ -1,6 +1,190 @@
 {
-  "updatedAt": "2026-05-01 00:55",
+  "updatedAt": "2026-05-01 02:52",
   "news": [
+    {
+      "id": "35203df8-2d23-8106-acae-ce3ecf03f24b",
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-01",
+      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/"
+    },
+    {
+      "id": "35203df8-2d23-818a-afb0-f45cfb770f3d",
+      "title": "Senator cites Business Insider reporting on pandemic grants for celebrity musicians",
+      "summary": "Joni Ernst invoked Business Insider reporting about Chris Brown's use of a federal grant to urge passage of a bill.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/senator-cites-business-insider-on-pandemic-grants-for-musicians-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-8162-a845-ccc85a223854",
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-01",
+      "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/"
+    },
+    {
+      "id": "35203df8-2d23-812c-a1e0-c96266043545",
+      "title": "Xbox owners can now disable Quick Resume for specific games",
+      "summary": "Microsoft has released a new Xbox update that adds a bunch of new features, including the ability to disable Quick Resume for individual games. Quick Resume, which lets you swap between your games with minimal wait time, is one of the best features on the Xbox Series X / S consoles. But it can also ",
+      "source": "The Verge",
+      "publishTime": "2026-05-01",
+      "link": "https://www.theverge.com/games/921504/xbox-update-quick-resume-disable"
+    },
+    {
+      "id": "35203df8-2d23-8131-a009-d9f22789999c",
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "summary": "Google announced on Thursday that it will begin rolling out Gemini to cars with Google built-in, marking a significant upgrade from the current Google Assistant. The move signals Google’s push to bring more advanced, conversational AI into the driving experience. The announcement follows closely beh",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-01",
+      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/"
+    },
+    {
+      "id": "35203df8-2d23-811f-ad39-e735bcba162d",
+      "title": "Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed",
+      "summary": "Why the terms “smart bed,” \"adjustable mattress,\" and “adjustable frame” are not interchangeable, and how to avoid an expensive mistake.",
+      "source": "Wired",
+      "publishTime": "2026-05-01",
+      "link": "https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/"
+    },
+    {
+      "id": "35203df8-2d23-8165-b8fe-ffc366c0acdc",
+      "title": "Inside Pinterest's efforts to replace expensive AI with open-source models",
+      "summary": "Pinterest uses a multimodal generative AI strategy to lower computing costs. Their approach includes OpenAI's and Alibaba's large language models.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/multimodal-generative-ai-pinterest-open-closed-source-llms-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-8130-b886-f6c197ce0c05",
+      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
+      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors' models.",
+      "source": "Wired",
+      "publishTime": "2026-05-01",
+      "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/"
+    },
+    {
+      "id": "35203df8-2d23-810b-810a-ed633e154c87",
+      "title": "Senators just banned themselves from trading on prediction markets",
+      "summary": "\"Serving in Congress is an honor, not a side hustle,\" said Sen. Bernie Moreno, the sponsor of the resolution.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/senate-ban-prediction-market-trading-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-8138-9373-ea564ee31f33",
+      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+      "source": "Wired",
+      "publishTime": "2026-05-01",
+      "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/"
+    },
+    {
+      "id": "35203df8-2d23-8172-8186-dfe7b258cc96",
+      "title": "Twitch streamer hit by car live on camera - 'It felt like slow motion'",
+      "summary": "Isaiah Thomas, known as hmblzayy, was walking a 3,000-mile challenge when he was hit",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-01",
+      "link": "https://www.bbc.com/news/articles/cn8pjz2qwego?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "35203df8-2d23-81a2-85dc-d4295e6837df",
+      "title": "TikTok’s new ‘Campus Hub’ features college group chats and feeds",
+      "summary": "The new hub features dedicated college group chats and personalized feeds designed to help students stay connected with their campus communities, even while they’re away for the summer.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-01",
+      "link": "https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/"
+    },
+    {
+      "id": "35203df8-2d23-819f-ba25-c39aeb44d262",
+      "title": "Sam Altman's management quirk? DMing 'a few hundred' OpenAI employees every day",
+      "summary": "Rough napkin math suggests that Altman is sending somewhere around 39,000 messages a year, and that's limited to a five-day workweek.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/sam-altman-messages-dms-openai-employees-management-style-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-8193-9137-f72580f9aae3",
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-01",
+      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/"
+    },
+    {
+      "id": "35203df8-2d23-8147-aa7c-dfadff397ee8",
+      "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
+      "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-01",
+      "link": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html"
+    },
+    {
+      "id": "35203df8-2d23-81c7-bc25-ff7ecf5b8321",
+      "title": "I left my full-time job at 50 and retired to Mexico. After 3 years, I've built a life I love and clear plans to sustain it.",
+      "summary": "I left my job in the US so I could retire early in Mexico in my 50s. With proper planning and advice, I have built a happy, sustainable life abroad.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/american-retired-early-mexico-built-sustainable-life-abroad-advice-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-81f4-a82f-f29328c383d3",
+      "title": "Nvidia's $4.9 trillion chip empire has a new problem: its biggest customers",
+      "summary": "Taking on Nvidia won't be easy, but one analyst said the process of companies diversifying their chips is underway and \"irreversible.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/google-amazon-nvidia-chips-ai-tpu-trainium-customers-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-81a9-9b4e-ea1981378fef",
+      "title": "Meta is running get-rich-quick ads for its AI tools",
+      "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them. As part of the campaign, Manus was paying content creators to bu",
+      "source": "The Verge",
+      "publishTime": "2026-05-01",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop"
+    },
+    {
+      "id": "35203df8-2d23-81dd-b51c-e49eb359af9c",
+      "title": "Employees react to looming Meta layoffs",
+      "summary": "Inside Meta, employees are facing 28 days of uncertainty before layoffs hit.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/employees-react-to-looming-meta-layoffs-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-8110-9175-cedafb90da90",
+      "title": "Cricut’s Joy 2 makes creating stickers easier for beginners, and it’s on sale",
+      "summary": "If you’ve ever thought about making your own stickers for Etsy or just for fun but don’t know where to begin, I’d recommend taking a look at the Cricut Joy 2. I’ve been testing one for a couple of weeks now, and as someone completely new to the Cricut ecosystem, I’ve found it to be […]",
+      "source": "The Verge",
+      "publishTime": "2026-05-01",
+      "link": "https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale"
+    },
+    {
+      "id": "35203df8-2d23-814b-b7a6-f1bac2efbaa6",
+      "title": "My favorite weekend getaway is a coastal spot in Southern California — and the $28 train ride there is half the fun",
+      "summary": "I love taking the Amtrak from Los Angeles to Oceanside, California. This coastal city has great food, gorgeous beaches, and lots of art and culture.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-01",
+      "link": "https://www.businessinsider.com/favorite-weekend-trip-southern-california-oceanside-beaches-food-train-2026-4"
+    },
+    {
+      "id": "35203df8-2d23-8134-be16-d73b17350392",
+      "title": "Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System",
+      "summary": "At WIRED Health, immunologist Daniel Davis detailed the ways in which new technologies are enabling a better understanding of the human immune system.",
+      "source": "Wired",
+      "publishTime": "2026-05-01",
+      "link": "https://www.wired.com/story/daniel-davis-immunology-wired-health/"
+    },
+    {
+      "id": "35203df8-2d23-8110-8d77-ce4ae51a7288",
+      "title": "极越深夜官宣：上海集度汽车六家关联主体进入实质合并重整程序",
+      "summary": "IT之家 5 月 1 日消息，今天凌晨，极越通过官方公众号发布《上海集度汽车有限公司关于六家关联主体进入实质合并重整程序的公告》。IT之家附上公告正文如下：上海市第三中级人民法院已裁定受理上海集度汽车有限公司和上海集度科技有限公司、集度科技（武汉）有限公司、武汉集度汽车服务有限公司、北京集度科技有限公司、北京集度汽车零部件有限公司进行实质合并重整的申请。民事裁定书（2026）沪 03 破 515 号。本次实质合并重整程序，旨在盘活现有资产与资源，维护资产价值，为引入战略投资奠定基础。公司及合并范围内各主体将在管理人的监督下，维持核心业务正常运转，依法保障用户、债权人及相关方的合法权益，确保服务",
+      "source": "IT之家",
+      "publishTime": "2026-05-01",
+      "link": "https://www.ithome.com/0/945/751.htm"
+    },
     {
       "id": "35203df8-2d23-81c4-acc6-f3434c6c4797",
       "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
@@ -216,190 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-04-30",
       "link": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard"
-    },
-    {
-      "id": "35203df8-2d23-81f0-a33d-cbc76cbddc70",
-      "title": "Light Phone Is Making Its Dumb Phone More Useful With Third-Party ‘Tools’",
-      "summary": "A new developer program for LightOS allows anyone to create tools for the Light Phone, whether that’s a local public transit app for your city or a way to read ebooks.",
-      "source": "Wired",
-      "publishTime": "2026-04-30",
-      "link": "https://www.wired.com/story/exclusive-light-phone-developer-kit/"
-    },
-    {
-      "id": "35203df8-2d23-814f-a9a5-c51397560ce2",
-      "title": "长城汽车与神州租车达成深度合作，未来采购一万台坦克 300",
-      "summary": "IT之家 4 月 30 日消息，4 月 28 日，长城汽车与神州租车在北京举行采购框架协议签署暨车辆交付仪式。在近年累计采购超万台坦克 300 之后，神州租车未来继续采购一万台长城汽车坦克 300 车型。据介绍，此次神州租车追加超万台坦克 300 车型，将进一步强化坦克 300 在租赁行业的地位，同时双方将探索长城汽车哈弗、魏牌等产品在不同租车场景下的应用机会。通过引入更多车型，神州租车将丰富其车队结构，提升对不同客群的覆盖能力；长城汽车则借助租赁场景，让更多用户实际体验其产品，从而拓宽品牌认知与潜在客户触点。IT之家注意到，在售坦克 300 售价 19.98 万-24.98 万元，提供汽油、",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/743.htm"
-    },
-    {
-      "id": "35203df8-2d23-81ad-ac35-cd9d27735b32",
-      "title": "2980 港币起 → 4257 港币起：索尼 PS5 / PS5 Pro 游戏机港版明起涨价",
-      "summary": "IT之家 4 月 30 日消息，继国行之后，索尼 PS5 / Pro 机型港版也将迎来涨价，明起（5 月 1 日）实行新价格：PS5 数字版（825GB）港版：原价 2980 港币，涨至 4257 港币（IT之家注：现汇率约合 3720 元人民币）PS5（1TB）港版：原价 3780 港币，涨至 4730 港币（现汇率约合 4134 元人民币）PS5 Pro（2TB）港版：原价 5780 港币，涨至 6502 港币（现汇率约合 5682 元人民币）PS Portal港版：原价 1580 港币，涨至 1936 港币（现汇率约合 1692 元人民币）台区和韩区涨价后定价如下：PS5：19,989 ",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/742.htm"
-    },
-    {
-      "id": "35203df8-2d23-8128-84b4-cda8a945e20e",
-      "title": "机械革命耀世 18 Pro 游戏本可选 270HX Plus + 5070 12GB，到手 10499 元",
-      "summary": "IT之家 4 月 30 日消息，机械革命 (Mechrevo) 现已为其 18\" 大屏游戏本耀世 18 Pro 提供了 Ultra 270HX Plus + 5070 12GB 的新配置。该 SKU 搭载 16GB + 1TB 存储器组合，即将于明日 10:00 开售，标价 11999 元、国补后到手价 10499 元。新款耀世 18 Pro 拥有同级别机型中较为“轻薄”的整体设计：最薄处 21.85mm、质量 2.8kg。其基于三风扇内吹散热架构，支持 215W 整机性能释放；配备一块 2560×1600 180Hz 500nits 大屏。该游戏本 A 面为铝镁合金，C 面为 1.8mm 长",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/741.htm"
-    },
-    {
-      "id": "35203df8-2d23-81bd-9bf9-de847e3fde51",
-      "title": "DeepSeek 公布多模态模型技术报告",
-      "summary": "IT之家 4 月 30 日消息，DeepSeek 在 GitHub 平台正式发布了其多模态大模型，并同步公开了配套技术报告。该报告提出了一种基于“视觉原语”的创新推理框架，旨在突破当前多模态大语言模型（MLLMs）在空间参照任务中的核心瓶颈。技术报告指出，尽管多模态大语言模型近年来取得长足进步，但主流的链式思维（CoT）推理范式仍主要局限于语言学领域。现有研究多聚焦于通过高分辨率图像裁剪等技术手段弥合“感知鸿沟”，即提升模型对视觉细节的识别能力。然而，DeepSeek 团队认为，这一思路忽视了一个更为根本的限制：参照鸿沟。自然语言固有的模糊性使其难以对复杂的空间布局提供精确、明确的指引。当模型",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/740.htm"
-    },
-    {
-      "id": "35203df8-2d23-81ab-9cda-e4e809ca150d",
-      "title": "Meta tanks 10%, Alphabet climbs 5% as each company raises capex spend",
-      "summary": "Both Alphabet and Meta said they expect their capex to continue growing this year, but investors sent Alphabet's shares up, while Meta's stock slid.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-04-30",
-      "link": "https://www.cnbc.com/2026/04/30/alphabet-meta-stock-ai-capex-spend.html"
-    },
-    {
-      "id": "35203df8-2d23-816f-b52f-f2015ff508e0",
-      "title": "KTC 推出“M27P6S”显示器：4K 160Hz/1080P 320Hz 双模 Mini LED，2999 元",
-      "summary": "IT之家 4 月 30 日消息，KTC 现已在京东上架一款型号为“M27P6S”的 27 英寸显示器，该机主打 4K 160Hz/1080P 320Hz 双模，定价为 2999 元。该机配备的 Mini LED 背光（2304 分区）Fast IPS 面板支持以 3840x2160 分辨率 160Hz 或 1920x1080 分辨率 320Hz 显示，其 HDR 亮度至高 1400 尼特，GtG 响应速度 2ms，覆盖 99% sRGB、99% DCI-P3、97% Adobe RGB。该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，提供 2 个 HDMI 2.1、1 个",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/739.htm"
-    },
-    {
-      "id": "35203df8-2d23-81f6-8925-f71eaaa5eae6",
-      "title": "We tried Texas Roadhouse's $55 'family pack' deal. Between the steak and sides, it was a great value for the 4 of us.",
-      "summary": "The Texas Roadhouse \"family pack\" meal deal with steak, rolls, salad, and sides kept the four of us fed for days and was a great value for dinner.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-30",
-      "link": "https://www.businessinsider.com/texas-roadhouse-family-pack-deal-review-great-value-meals-steak-2026-4"
-    },
-    {
-      "id": "35203df8-2d23-8169-a8cc-d463052be052",
-      "title": "How Adam Scott became an accidental horror movie star",
-      "summary": "Adam Scott grew up watching horror movies at, as he describes it, \"probably too young\" an age. But he never set out to work specifically in the genre. Even still, horror seemed to follow him around from the very beginning. His first major film role was in Hellraiser IV in 1996. \"It wasn't because I ",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/entertainment/920921/adam-scott-interview-hokum-horror"
-    },
-    {
-      "id": "35203df8-2d23-8156-b92c-ddad067d0ac4",
-      "title": "国产 C909 飞机运行突破 100 万小时",
-      "summary": "IT之家 4 月 30 日消息，中国商飞官方公众号“大飞机”今晚宣布，C909 飞机运行已经突破 100 万小时。自 2016 年 6 月 28 日商业首航以来，C909 飞机累计安全运送旅客突破 3000 万人次（截至 2025 年 12 月 3 日），标志着 C909 飞机开启了规模化运营新征程。据IT之家了解，C909 飞机是我国首次按照国际民航规章自行研制、具有自主知识产权的中短程新型涡扇支线客机，座级 78-97 座，航程 2225-3700 公里，于 2014 年 12 月 30 日取得中国民航局型号合格证，2017 年 7 月 9 日取得中国民航局生产许可证。",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/737.htm"
-    },
-    {
-      "id": "35203df8-2d23-8159-b935-e116c99d5816",
-      "title": "微星神影 16 Max 2026 游戏本新增配置，5 月 13 日发售",
-      "summary": "IT之家 4 月 30 日消息，微星 (MSI) 现已为神影 16 Max 2026 (Crosshair 16 Max HX) 游戏笔记本电脑提供 2 个新的配置，开售时间为 5 月 13 日 10:00，定价尚未公布。Ultra 9 285HX + RTX 5070 12GB + 16GB + 1TB；Ultra 9 290HX Plus + RTX 5060 8GB + 16GB + 1TB。神影 16 Max 2026 采用 200W 整机性能释放的双风扇五热管模具，GPU 功耗可达 115W。其配备一块 2560×1600 240Hz 屏幕，亮度可达 500nits，色域覆盖 100",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/736.htm"
-    },
-    {
-      "id": "35203df8-2d23-81a0-9c63-c476ee60ee80",
-      "title": "上汽通用五菱出口车突破 150 万辆，4 月海外月销首破 3 万台 / 套",
-      "summary": "IT之家 4 月 30 日消息，4 月 30 日，上汽通用五菱 I²KD 车间落成暨 150 万辆出口车纪念仪式在柳州总部举行。据官方介绍，2025 年上汽通用五菱海外销量 26.7 万台 / 套，同比增长 18.6%，新能源同比劲增 128.6%，产品足迹累计遍布全球 105 个国家和地区。进入 2026 年，上汽通用五菱全球化势能持续增强，1-4 月全球销量同比四连涨，4 月海外月销首破 3 万台 / 套。Darion（星光 730）、Eksion（星光 560）、Bingo（五菱缤果）、Bingo S（缤果 S）等车型均闪耀海外市场。IT之家查询公开资料获悉，2025 年，上汽通用五菱累",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/735.htm"
-    },
-    {
-      "id": "35203df8-2d23-8116-b1b1-ca6cc42e3552",
-      "title": "Trump's sweeping student-loan repayment overhaul cleared its final hurdle",
-      "summary": "Trump's Department of Education announced the final rule for its student-loan repayment overhaul that will roll out in July.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-30",
-      "link": "https://www.businessinsider.com/trump-student-loan-debt-repayment-overhaul-final-rule-new-plans-2026-4"
-    },
-    {
-      "id": "35203df8-2d23-81f8-9834-d472419548b4",
-      "title": "初创公司 Neurable“秀肌肉”：宣称一副耳机就能读取你的脑信号",
-      "summary": "IT之家 4 月 30 日消息，消费电子品牌一直想更了解你：有的靠收集数据，有的靠推送广告。当地时间 4 月 29 日，据外媒 Futurism 报道，一家神经科技初创公司 Neurable 声称自家设备可以更进一步：直接读懂你的大脑状态。Neurable 宣布，将把自己的“非侵入式”脑机接口耳机技术授权给消费产品制造商。其寻找合作方的范围很广，健康、游戏、生产力等行业都在目标之内。“通过 Neurable 的授权平台，原始设备制造商可以把其 AI 驱动的脑感知技术直接整合进耳机、帽子、眼镜和头带等现有硬件，同时继续完全掌控产品设计、用户体验和分销。”与 Neuralink 这类试图把硬件植入",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/734.htm"
-    },
-    {
-      "id": "35203df8-2d23-8103-a221-e029cc902dce",
-      "title": "What longtime attendees expect from Berkshire's first big bash without Warren Buffett as host",
-      "summary": "Warren Buffett leaving the spotlight has set the stage for a more sober Q&A and a smaller, more hardcore gathering.",
-      "source": "Business Insider",
-      "publishTime": "2026-04-30",
-      "link": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-meeting-greg-abel-omaha-expectation-2026-4"
-    },
-    {
-      "id": "35203df8-2d23-81e3-a015-d23fb3fddb20",
-      "title": "索尼推出 HT-B500 回音壁：前置实体 3 声道、支持一键 3D 升频环绕，2341 元",
-      "summary": "IT之家 4 月 30 日消息，索尼现已在京东上架 HT-B500 回音壁，该机提供前置实体 3 声道、支持一键 3D 升频环绕，定价为 2341 元，部分地区国补后低至 1990 元。该机搭载 B600 同款单元，在杜比全景声和 DTS:X 加持下可实现沉浸式环绕音效，同时搭载索尼 VSE 垂直环绕引擎技术和 S-Force Pro 前置虚拟环绕技术，能够带来更具高度感的音效。该机还内置 AI 语音增强 3.0 技术，能够智能分离对白和背景音，提升影音内容中的台词清晰度。IT之家附产品参数：京东索尼 HT-B500 低音炮 2341 元直达链接",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/733.htm"
-    },
-    {
-      "id": "35203df8-2d23-8103-a2d2-c9e0c4120157",
-      "title": "How to win — and lose — Decoder",
-      "summary": "This interview has been lightly edited for length and clarity. Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer, and I’m joined by host and very occasional guest, Nilay Patel. Nilay, welcome back to your own show. Hello. I hate being ",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/podcast/920768/decoder-mailbag-how-to-win-lose-ai-nilay-interview"
-    },
-    {
-      "id": "35203df8-2d23-81c9-bb36-e569908fd758",
-      "title": "三星今年 Q1 交出创纪录利润，芯片业务利润暴增 49 倍",
-      "summary": "IT之家 4 月 30 日消息，据路透社报道，三星电子今日交出创纪录季度利润，核心动力来自芯片业务利润暴增 49 倍。三星称，随着客户继续加码 AI，存储芯片供应短缺明年还会进一步加剧，价格也将继续被推高。按销量计算，三星是全球最大存储芯片制造商。公司还透露，已经与部分希望锁定供应的客户签下多年期约束性合同，不过没有公布客户身份和具体条款。AI 数据中心建设热潮，正在推动三星和其他芯片厂把更多产能投向先进芯片。这类芯片被英伟达用于 AI 加速器。即便如此，芯片厂仍难以满足需求，而先进芯片扩产也进一步挤压了传统芯片供应。三星存储芯片业务高管 Kim Jaejune 在财报电话会上说：“我们的供应",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/727.htm"
-    },
-    {
-      "id": "35203df8-2d23-8179-85cd-df2c1c048243",
-      "title": "索尼 PS-LX5BT 黑胶音乐唱机国行发售：内置一键全自动播放系统、支持蓝牙无线连接，3490 元",
-      "summary": "IT之家 4 月 30 日消息，索尼旗下 PS-LX5BT 黑胶音乐唱片机现已在京东发售，国行定价为 3490 元，5 月 10 日开启首销。京东索尼 PS-LX5BT 蓝牙无线唱盘机 3490 元直达链接该机采用经典皮带传动，使用 J 形铝制唱臂与铝制唱盘，搭载动磁（MM）唱头，唱针压力为 2 克，结合一体成型的高刚性底座与优化脚垫，能够更精准地捕捉唱片沟槽中的细节。机身同时内置一键全自动播放系统，用户只需放置唱片并按下播放键，唱臂即可自动下落、循迹播放；播放结束后唱臂自动复位并停机，无需手动操作唱针。该机支持蓝牙无线连接，兼容 SBC、aptX 及 aptX Adaptive 多种高清音频",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/726.htm"
-    },
-    {
-      "id": "35203df8-2d23-8145-8d18-e2dc39035a0c",
-      "title": "谷歌云业务营收占比突破 18%，AI 驱动下公司迎来结构性拐点",
-      "summary": "IT之家 4 月 30 日消息，自 1998 年谷歌成立以来，搜索一直是这家公司的立身之本。在很长一段时间里，搜索也是驱动谷歌业务发展的核心引擎。而就在当地时间本周三，这一格局开始发生转变。在母公司 Alphabet 第一季度财报中，云计算业务毫无争议地成为最大亮点，营收同比大涨 63%，总额达到 200 亿美元（IT之家注：现汇率约合 1369.73 亿元人民币），增速十分惊人。正如谷歌首席执行官桑达尔 · 皮查伊及公司其他高管在财报电话会议上所言，人工智能无疑是谷歌云业务迅猛增长的核心驱动力。投资者对此反响热烈，推动 Alphabet 公司盘后股价大涨 7%。但在这份亮眼成绩带来的热潮之下",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/725.htm"
-    },
-    {
-      "id": "35203df8-2d23-81be-a99f-f8fa23f53e32",
-      "title": "Samsung says the RAM shortage could get even worse next year",
-      "summary": "There may be a long wait before the end of the RAM shortage that's driving up prices on everything from phones to gaming handhelds. During an earnings call on Thursday, Samsung predicted that the severe memory shortage, driven by demand from AI data centers, will not only continue next year, but lik",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027"
-    },
-    {
-      "id": "35203df8-2d23-810d-8cf1-c7ea084e6687",
-      "title": "雷神推出“ZQ27F540E”26.5 英寸显示器：2K 540Hz/720P 720Hz 双模，5499 元",
-      "summary": "IT之家 4 月 30 日消息，雷神现已在京东上架一款型号为“ZQ27F540E”的 26.5 英寸显示器，该机主打 2K 540Hz/720P 720Hz 双模，定价为 5499 元，部分地区国补后到手价低至 4949 元。京东雷神“ZQ27F540E”显示器 5499 元直达链接该机配备的 LG WOLED 面板支持以 2560x1440 分辨率 520Hz 或 1280x720 分辨率 720Hz 显示，其 HDR 亮度值高 1500 尼特，GtG 响应速度 0.02ms，显示器支持 10-Bit 色彩，覆盖 99.5% DCI-P3 色域及 99% sRGB 色域。该机支架支持升降 /",
-      "source": "IT之家",
-      "publishTime": "2026-04-30",
-      "link": "https://www.ithome.com/0/945/724.htm"
-    },
-    {
-      "id": "35203df8-2d23-8123-9508-d0b967eb703a",
-      "title": "The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds",
-      "summary": "Blaze Entertainment, the company behind the cartridge-based Evercade consoles, has announced two new handhelds that reimagine iconic '80s personal computers as portable gaming machines. The Spectrum Handheld and The C64 Handheld eschew the productivity aspects of the Commodore 64 and ZX Spectrum to ",
-      "source": "The Verge",
-      "publishTime": "2026-04-30",
-      "link": "https://www.theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds"
     }
   ],
   "macroEvents": [
