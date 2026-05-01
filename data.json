@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-05-02 05:13",
+  "updatedAt": "2026-05-02 06:11",
   "news": [
+    {
+      "id": "35303df8-2d23-8108-a70e-cccb07b80a0a",
+      "title": "I applied for Canadian citizenship for my kids. I don't want them to have the student loans my husband and me still have.",
+      "summary": "I applied for Canadian citizenship for my kids, opening up more opportunities for travel, education, and work.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-02",
+      "link": "https://www.businessinsider.com/second-passport-kids-canada-benefits-education-travel-2026-5"
+    },
+    {
+      "id": "35303df8-2d23-81e0-b546-f08ed45c3139",
+      "title": "Bright idea? UK firm pioneers data centres using lampposts",
+      "summary": "The solar-powered iLamps will have a built-in Nvidia chip but there are questions over their security and scalability.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-02",
+      "link": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "35303df8-2d23-8133-97b1-d7d995421104",
+      "title": "Pentagon says US military to be an 'AI-first' fighting force",
+      "summary": "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-02",
+      "link": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "35303df8-2d23-81c9-a161-d3c8165b56c1",
+      "title": "The US Army's Dark Eagle hypersonic missile could soon be deployed. Here's what it does.",
+      "summary": "The US Army's Dark Eagle hypersonic missile is drawing attention after a reported deployment request amid a fragile ceasefire with Iran.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-02",
+      "link": "https://www.businessinsider.com/army-dark-eagle-hypersonic-missile-in-focus-4-26"
+    },
+    {
+      "id": "35303df8-2d23-81af-a5da-ed954b5b5c36",
+      "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
+      "summary": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched—but many machines remain at risk.",
+      "source": "Wired",
+      "publishTime": "2026-05-02",
+      "link": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/"
+    },
+    {
+      "id": "35303df8-2d23-8181-938f-e67b55fcca63",
+      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+      "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+      "source": "Wired",
+      "publishTime": "2026-05-02",
+      "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/"
+    },
     {
       "id": "35303df8-2d23-8151-b4c8-d0b7de6ab261",
       "title": "Sam Altman says AI has led to the 'revenge of the idea guys'",
@@ -352,54 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-05-01",
       "link": "https://www.ithome.com/0/945/944.htm"
-    },
-    {
-      "id": "35303df8-2d23-810e-b79f-e873e7712a48",
-      "title": "消息称 SpaceX“星舰”项目投入超 150 亿美元，力求“航空式”火箭技术",
-      "summary": "IT之家 5 月 1 日消息，路透社 5 月 1 日（今天）披露的 IPO 注册文件显示，SpaceX 为开发下一代“星舰”火箭已经投入超过 150 亿美元（IT之家注：现汇率约合 1026.14 亿元人民币），旨在实现“航空式”的火箭技术，已远超公司主力“猎鹰”系列火箭的开发成本。SpaceX 正以 1.75 万亿美元（现汇率约合 11.97 万亿元人民币）估值冲刺上市，而公司最赚钱业务的未来，很大程度上都押在星舰上。星舰是一套两级重型火箭系统，也是马斯克多项计划的核心工具：一次发射更大批量 Starlink 卫星，把人送上月球和火星，未来甚至部署数千颗 AI 算力卫星，用来替代地面高耗能数",
-      "source": "IT之家",
-      "publishTime": "2026-05-01",
-      "link": "https://www.ithome.com/0/945/939.htm"
-    },
-    {
-      "id": "35303df8-2d23-8143-b725-e8a458603405",
-      "title": "Some of Xteink’s credit card-sized e-readers are losing their best feature",
-      "summary": "The Xteink X4 and X3 are excellent alternatives to Kindles and Kobos if you want an e-reader that's as easy to slip into your pocket - just not out of the box. Both devices come with stock firmware that's clunky, limited, and occasionally confusing, but that can be easily fixed by plugging them into",
-      "source": "The Verge",
-      "publishTime": "2026-05-01",
-      "link": "https://www.theverge.com/tech/921552/xteink-x3-x4-e-reader-third-party-crosspoint-firmware-usb-blocked"
-    },
-    {
-      "id": "35303df8-2d23-8145-a09d-e585399620d4",
-      "title": "惠普 HyperX 宣布新款手柄 Clutch Talon：多个输入组件均支持定制",
-      "summary": "IT之家 5 月 1 日消息，HP（惠普）美国加州当地时间 4 月 30 日宣布为其游戏产品线 HyperX（极度未知）新增手柄控制器 Clutch Talon。该型号预计于今年夏天在第一方渠道发售，定价 159.99 美元（IT之家注：现汇率约合 1094 元人民币）。HyperX Clutch Talon 主打丰富可自定义空间，支持免工具定制，摇杆、D-pad、扳机键、背键均采用可更换设计，玩家还可借助 3D 打印进一步扩展个性化设置。这款手柄原装搭载霍尔效应传感器摇杆和扳机键，拥有 3 档扳机锁定，背键支持输入重编程。其支持 PC、Android、Xbox 平台，具备双无线连接能力，内置",
-      "source": "IT之家",
-      "publishTime": "2026-05-01",
-      "link": "https://www.ithome.com/0/945/919.htm"
-    },
-    {
-      "id": "35303df8-2d23-816e-9c5f-ebeae6315c9e",
-      "title": "AI writes code now. A longtime coder explains what that means for the rest of us.",
-      "summary": "Coder and writer Paul Ford says he's blown away by the work AI can do in software now. \"It's a very shocking moment.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-05-01",
-      "link": "https://www.businessinsider.com/ai-code-vibe-claude-software-paul-ford-interview-2026-5"
-    },
-    {
-      "id": "35303df8-2d23-8126-99cc-c10dcb43f7a5",
-      "title": "美国防部与 OpenAI、谷歌、英伟达、微软等 7 家 AI 公司达成协议",
-      "summary": "IT之家 5 月 1 日消息，当地时间 5 月 1 日（今天），美国国防部宣布与 7 家 AI 公司达成协议，将把这些公司的先进能力部署到国防部机密网络上，旨在扩大军方可合作的 AI 公司范围。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务将接入国防部 IL6 和 IL7 级涉密网络环境，从而让更多军方人员接触和使用相关 AI 工具。据路透社报道，名单中没有 Anthropic，Anthropic 此前与五角大楼围绕军方使用其 AI 工具的限制规则发生争议。今年早些时候，五角大楼将 Anthropic 列为供应链风险，禁止国防部及其承包商使用其产品。此前，A",
-      "source": "IT之家",
-      "publishTime": "2026-05-01",
-      "link": "https://www.ithome.com/0/945/912.htm"
-    },
-    {
-      "id": "35303df8-2d23-81dd-a3bd-e41db64edd36",
-      "title": "Pentagon Signs Classified AI Deals with Seven Companies Following Anthropic Spat",
-      "summary": "The U.S. Department of Defense has signed deals with seven AI companies to use their technology on classified networks, the agency said Friday. The AI providers include SpaceX’s xAI, OpenAI, Google, Nvidia, Microsoft, Amazon Web Services, and the AI startup Reflection, the Pentagon said. Those ...",
-      "source": "The Information",
-      "publishTime": "2026-05-01",
-      "link": "https://www.theinformation.com/briefings/pentagon-signs-classified-ai-deals-seven-companies-following-anthropic-spat"
     }
   ],
   "macroEvents": [
