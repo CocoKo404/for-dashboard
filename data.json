@@ -1,6 +1,182 @@
 {
-  "updatedAt": "2026-05-02 14:24",
+  "updatedAt": "2026-05-02 16:06",
   "news": [
+    {
+      "id": "35403df8-2d23-8118-91ee-d4f2781cb836",
+      "title": "威联通推出 GPU-Ready 边缘 AI 存储服务器 QAI-h1290FX",
+      "summary": "IT之家 5 月 2 日消息，QNAP（威联通）4 月 29 日宣布推出 GPU-Ready 架构边缘 AI 存储服务器 QAI-h1290FX。这一产品基于 AMD EPYC（霄龙）7302P，该处理器基于 \"Zen 3\" 微架构，拥有 16 核心 32 线程。QAI-h1290FX 具备 8 条 DDR4 RDIMM 内存插槽，预装 128GB 内存；集成 8GB 闪存；提供 4 条 PCIe Gen4 插槽（IT之家注：3 个为 ×16、1 个为 ×8），具备 12 个 2.5\" U.2 / SATA SSD 盘位，提供 2 个 25GbE SFP28、2 个 2.5GbE RJ45 网",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/946/010.htm"
+    },
+    {
+      "id": "35403df8-2d23-811d-b3ca-e3dad8e66e8e",
+      "title": "创历史新高！5 月 1 日全国铁路发送旅客 2484.4 万人次",
+      "summary": "IT之家 5 月 2 日消息，中国铁路今日宣布，5 月 1 日，全国铁路发送旅客 2484.4 万人次，创单日旅客发送量历史新高，运输安全平稳有序。5 月 2 日，全国铁路预计发送旅客 1970 万人次，计划加开旅客列车 1222 列。截至 5 月 2 日 8 时，铁路 12306 已累计发售五一假期运输火车票 11718 万张。从车票预售情况看，今日热门出发城市主要有北京、上海、广州、成都、杭州、深圳、郑州、南京、武汉、西安；热门到达城市主要有北京、杭州、广州、上海、成都、南京、武汉、郑州、深圳、长沙；北京至沈阳、广州至南宁、北京至郑州、北京至济南、西安至成都、武汉往返长沙、北京至青岛等热门",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/946/009.htm"
+    },
+    {
+      "id": "35403df8-2d23-8131-8131-eb380084c860",
+      "title": "我国首个算电协同绿电直供项目投运，实现沙漠光电与数字算力直连直通",
+      "summary": "IT之家 5 月 2 日消息，据央视新闻今天报道，我国首个大规模“算电协同”绿电直供项目现已正式投运。标志着我国“东数西算”工程实现从沙漠风光光电到数字算力直连直通。据报道，本项目名为“中国大唐中卫云基地 50 万千瓦光伏电站”，位于宁夏中卫，是我国首个新能源综合示范区。该项目拥有 50 万千瓦光伏电站和 150 万千瓦风电场以及配套储能装置，可让算力园区用上清洁、低价、稳定的电力。该项目全容量投产后，发电量可达 43 亿千瓦时，每年减少碳排放 365 万吨。届时可以保障整个中卫云基地 22.9 亿千瓦时的用电需求，实现了绿电消纳与电网稳定性的“双向奔赴”。",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/946/008.htm"
+    },
+    {
+      "id": "35403df8-2d23-81f3-b01e-c2395a71f5e3",
+      "title": "“五一”假期首日高速公路充电量刷新往年同期历史纪录，同比增长 55.6%",
+      "summary": "IT之家 5 月 2 日消息，据国家能源局消息，“五一”假期首日，全国高速公路迎来出行高峰。通过对纳入国家充电设施监测服务平台的 5.76 万个高速公路充电设施（枪）进行统计分析，“五一”假期首日（5 月 1 日 0 时至 24 时），高速公路新能源汽车充电量达到 2303.39 万千瓦时，同比增长 55.6%，充电服务次数超 94.63 万次，刷新“五一”假期首日充电量历史纪录。下一步，国家能源局将会同有关方面持续强化高速公路充电设施监测，加强应急充电资源动态调配，全力做好“五一”假期后续充电服务保障工作。另据交通运输部 5 月 1 日消息，当日全国高速公路车流量预计达到 7000 万辆次，",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/946/007.htm"
+    },
+    {
+      "id": "35403df8-2d23-8124-bf70-d3b105a309e5",
+      "title": "育碧确认：《刺客信条：黑旗》重制版不会扩大地图，但会增加可探索地点",
+      "summary": "IT之家 5 月 2 日消息，据游戏媒体 GamesRadar 昨天报道，育碧创意总监 Paul Fu 在一次问答活动中表示，《刺客信条：黑旗》重制版不会扩大地图，但体验有大不同。Paul Fu 对此解释道：“地图大小保持不变，仍为 16*16 公里。不过我们为地图增加了岛屿、新地点，让世界看起来更密集”。IT之家在此援引 GamesRadar，这种做法可以说是非常合理。原版《刺客信条：黑旗》的地图已经很大，为海战和岛屿跳跃提供了充足空间。Paul Fu 进一步表示，他认为让现有世界更加丰富、生动是明智之举。并且，游戏世界周围会有更多宝藏，如果你想 100% 全收集，就需要投入更多时间。总体来",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/946/005.htm"
+    },
+    {
+      "id": "35403df8-2d23-8155-8952-e5e3e53798b8",
+      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "summary": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-02",
+      "link": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/"
+    },
+    {
+      "id": "35403df8-2d23-81d3-afa6-cfe60a3f5cda",
+      "title": "StarTech 推出业界首创 MacBook 免驱 USB4 原生双屏扩展坞",
+      "summary": "IT之家 5 月 2 日消息，加拿大配件制造商 StarTech.com 当地时间 4 月 30 日宣布推出“业界首创”的 MacBook 免驱动 USB4 原生双屏扩展坞 208N-USB4-DOCK，该设备同时支持 Windows 和 Linux 操作系统。这款扩展坞采用 21V DC-in 供电，正面提供 2 个 USB-A 10Gbps、1 个 USB-C 10Gbps；反面则包括 1 个 2.5GbE RJ45、1 个 USB-A 480Mbps、2 个 DisplayPort 1.4、1 个支持 DP Alt 的 USB-C 10Gbps、1 个全功能 USB-C 40Gbps 上",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/946/004.htm"
+    },
+    {
+      "id": "35403df8-2d23-8193-aa13-d696f458e731",
+      "title": "曝马斯克 1583 亿美元年薪为会计估值，实际一分没拿",
+      "summary": "IT之家 5 月 2 日消息，据科技媒体 Quartz 今天报道，监管文件显示，特斯拉 CEO 埃隆 · 马斯克去年总薪酬约为 1583 亿美元（IT之家注：现汇率约合 1.08 万亿元人民币）。但公司指出，该数字并不能反映马斯克收到的真实现金。据报道，这 1583 亿美元中大部分是会计估值，与 2025 年 CEO 绩效奖励（特斯拉董事会去年批准的股票激励计划）息息相关。截至文件披露日期，该奖励的任何股份都未有归属，并且所有股份都需要按每股 334.09 美元（现汇率约合 2284 元人民币）的价格抵扣，除非马斯克选择用现金支付。事实上，马斯克 2025 年的真实薪酬为零，他带领的特斯拉并未",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/946/003.htm"
+    },
+    {
+      "id": "35403df8-2d23-8187-b609-ce92ebac880d",
+      "title": "富士通发布十年愿景：预计 2035 年退出大型机业务",
+      "summary": "IT之家 5 月 2 日消息，日本科技巨头富士通 (Fujitsu) 当地时间 28 日公布了 2025 财年（截至 2026 年 3 月 31 日）业绩情况和中期经营计划概要与未来方向，对该企业未来 10 年的发展进行了展望。2035 年将是富士通成立 100 周年，该企业预计届时将退出支撑其当前发展的大型机业务。而到那时，AI 超级计算机和量子计算机等新型计算基础架构将进入实际应用阶段，富士通也将完成向 AI 驱动企业的转型。富士通 2025 财年合并营收为 35029 亿日元（IT之家注：现汇率约合 1519.28 亿元人民币），下降 1.3%、排除重组影响后增长 0.9%；调整后营业利",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/946/002.htm"
+    },
+    {
+      "id": "35403df8-2d23-8108-9844-d4ff79c06e57",
+      "title": "Nothing 旗下多款手机在印度涨价，最高涨幅 5000 卢比",
+      "summary": "IT之家 5 月 2 日消息，据科技媒体 91mobiles 昨天报道，Nothing 现已在印度市场调整多款手机售价，涨幅最高达 5000 卢比（IT之家注：现汇率约合 360.7 元人民币）。据报道，本次涨价主要受 DRAM 芯片涨价潮影响，目前新价格已在 Flipkart 平台生效，涵盖 Nothing Phone (4a) Pro、Phone (4a) 以及 Phone (3a) Lite 三款手机。IT之家附各机型新旧价格如下：Nothing Phone (4a) Pro：配置旧价格新价格8GB+128GB39999 卢比（现汇率约合 2886 元人民币）44999 卢比（现汇率约合",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/946/001.htm"
+    },
+    {
+      "id": "35403df8-2d23-8118-960d-e776fdd82169",
+      "title": "AMD 第一方迷你主机锐龙 AI Halo 实物现身，消息称 6 月推出",
+      "summary": "IT之家 5 月 2 日消息，AMD 在 CES 2026 上宣布了第一方迷你主机锐龙 AI Halo，该设备基于 AMD 锐龙 AI Max+ 395 处理器，最高可支持 128GB 的统一内存。而在北京时间 4 月 30 日，Reddit 网友 1ncehost 分享了这款设备的实物照片。可以看到这款迷你主机造型方正，顶部为 AMD 企业徽标，四周环绕以 ARGB 灯带，后方的 I/O 接口包括多个 USB-C、HDMI，应还配备了有线网口。1ncehost 表示锐龙 AI Halo 将在今年 6 月正式推出。相关阅读：《AMD 官方迷你主机 Ryzen AI Halo 发布：最高 128",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/946/000.htm"
+    },
+    {
+      "id": "35403df8-2d23-81f3-9581-c456f663868e",
+      "title": "网传东航一飞机与廊桥相撞，官方回应并致歉",
+      "summary": "IT之家 5 月 2 日消息，网传中国东方航空（东航）MU5406 航班（注册号 B324W）从四川成都双流飞往上海虹桥机场后，于今日午间在停机坪未能刹停，撞上廊桥。IT之家注意到，东航官方微博已发文回应：今日公司一成都到上海的航班落地后，在缓速滑行靠近机位过程中，发生机械故障，机组立即按程序处置，最终飞机与廊桥发生局部碰擦。机上旅客安全，已有序下机。事件具体原因正在调查中。对于此次事件给旅客出行带来的不便，我们深表歉意。",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/945/998.htm"
+    },
+    {
+      "id": "35403df8-2d23-815a-b5d4-c63bfa493e73",
+      "title": "消息称英伟达 RTX 3060 12G 系列显卡 6-7 月复产",
+      "summary": "IT之家 5 月 2 日消息，据博板堂 & 视讯堂旗下公众号“ChannelGate 视博合聚”本周（4 月 29 日）更新，英伟达 RTX 3060 12G 系列显卡的显示芯片将于 6 月复产，相关芯片即将到货。据悉，该批次芯片主要由各大 AIC 品牌厂商进行分配。预计到 7 月左右，各大品牌将逐步启动量产工作，并陆续向市场推出现货产品。七彩虹、华硕、微星、影驰等主要厂商均会分到一定数量货源，但各家具体配额存在差异，整体供货量较为有限。IT之家注：AIC（Add-in-Card）厂商指的是与英伟达深度合作的授权显卡制造商，能够直接从官方获取 GPU 芯片并进行研发制造。AMD 这边也有类似的",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/945/997.htm"
+    },
+    {
+      "id": "35403df8-2d23-81f9-95ae-c2c69a7f2ebc",
+      "title": "苹果官方 App 误打包了 Claude.md，原来也在用 Vibe Coding",
+      "summary": "苹果大失误！把自用的 Claude.md 打包到了官方 App 里。这下直接被坐实了：苹果内部在使用 Claude Code 构建生产级应用。这么大的公司，也在 Vibe Coding？项目级的 Claude.md 通常用来告诉 AI 这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……这家全球最注重保密的科技公司，还是把自己的秘密泄露了。事故发生后，苹果在 24 小时内已紧急撤回，但部分内容已经曝光。等一下。这和 Claude Code 源码泄露时把 source map 打包进发布版怎么一样一样的。该不会这两个事故，罪魁祸首都是 Claude Code 自己吧？苹果用 Claude ",
+      "source": "IT之家",
+      "publishTime": "2026-05-02",
+      "link": "https://www.ithome.com/0/945/996.htm"
+    },
+    {
+      "id": "35403df8-2d23-8104-a5a2-f8eb7210373e",
+      "title": "Newegg Promo Code: 10% Off in May 2026",
+      "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "source": "Wired",
+      "publishTime": "2026-05-02",
+      "link": "https://www.wired.com/story/newegg-promo-code/"
+    },
+    {
+      "id": "35403df8-2d23-812b-95c9-dc4965f817c7",
+      "title": "30% VistaPrint Coupon & Promo Codes | May 2026",
+      "summary": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
+      "source": "Wired",
+      "publishTime": "2026-05-02",
+      "link": "https://www.wired.com/story/vistaprint-coupon-code/"
+    },
+    {
+      "id": "35403df8-2d23-8134-8e75-cc01045f6550",
+      "title": "30% Off Canon Promo Codes | May 2026",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
+      "source": "Wired",
+      "publishTime": "2026-05-02",
+      "link": "https://www.wired.com/story/canon-promo-code/"
+    },
+    {
+      "id": "35403df8-2d23-813f-8e3b-e7ea8d0986a4",
+      "title": "20% Off Brooks Promo Code & Deals for | May 2026",
+      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "source": "Wired",
+      "publishTime": "2026-05-02",
+      "link": "https://www.wired.com/story/brooks-promo-code/"
+    },
+    {
+      "id": "35403df8-2d23-815a-abff-c7bb719f6b51",
+      "title": "Therabody Promo Codes: 15% Off May 2026",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "source": "Wired",
+      "publishTime": "2026-05-02",
+      "link": "https://www.wired.com/story/therabody-promo-code/"
+    },
+    {
+      "id": "35403df8-2d23-818b-92c8-f1a536b8db15",
+      "title": "Columbia Promo Codes: 15% Off | May2026",
+      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "source": "Wired",
+      "publishTime": "2026-05-02",
+      "link": "https://www.wired.com/story/columbia-promo-code/"
+    },
+    {
+      "id": "35403df8-2d23-8191-accb-c3a29e5dc494",
+      "title": "Surfshark Promo Codes: 87% Off | May 2026",
+      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "source": "Wired",
+      "publishTime": "2026-05-02",
+      "link": "https://www.wired.com/story/surfshark-coupon/"
+    },
+    {
+      "id": "35403df8-2d23-81e2-8100-f3b0f5600d1a",
+      "title": "Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for May",
+      "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+      "source": "Wired",
+      "publishTime": "2026-05-02",
+      "link": "https://www.wired.com/story/sony-promo-code/"
+    },
     {
       "id": "35403df8-2d23-81f5-a18e-daeebb8c393c",
       "title": "三星被判向中兴通讯支付 3.92 亿美元专利赔偿金，英国法院裁定出炉",
@@ -224,182 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-05-02",
       "link": "https://www.ithome.com/0/945/963.htm"
-    },
-    {
-      "id": "35403df8-2d23-8170-91a8-f096a1211e7b",
-      "title": "美国五角大楼与 SpaceX、OpenAI、谷歌、英伟达、微软等 8 家公司合作，在机密网络部署 AI、用于作战",
-      "summary": "IT之家 5 月 2 日消息，美国五角大楼（战争部）于当地时间 5 月 1 日宣布，它已与八家领先的 AI 公司 ——SpaceX、OpenAI、谷歌、英伟达、Reflection、微软、亚马逊网络服务（AWS）以及甲骨文达成协议，将在部门的机密网络上部署其 AI 能力，用于“合法的作战使用”。美国五角大楼声明中写道：“这些协议加速了美国军队向建立 AI 优先的作战力量的转型，并将加强我们的作战人员在不同战域保持决策优势的能力。”将安全的边界 AI 能力集成到美国五角大楼的影响级别 6（IL6）和影响级别 7（IL7）网络环境中，将简化数据合成，提升态势感知能力，并增强作战人员在复杂作战环境中",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/962.htm"
-    },
-    {
-      "id": "35403df8-2d23-8102-b5e1-d9fb1684bea2",
-      "title": "亚马逊 AWS CEO：AI 并未让程序员丢饭碗，今年计划招聘 11000 名实习生",
-      "summary": "IT之家 5 月 2 日消息，据《商业内幕》昨天报道，亚马逊 AWS 首席执行官 Matt Garman 表示，AI 并不会让程序员丢饭碗，公司将在今年招聘 11000 名软件开发工程师实习生。IT之家从报道中了解到，Matt Garman 周二表示，尽管 AI 工具正在改变开发者的工作流，但亚马逊仍在持续招聘员工。他透露：“我可以告诉你，我们招聘的软件开发人员数量与以往一样多，甚至这种需求正在加速增长”。他认为，随着 AI 工具将部分工作流程自动化，软件工程师的角色正在发生变化：“未来几年，熟练编写 Java 代码的能力可能没那么重要”。Garman 强调，软件工程师们应该学习更多技能，例如",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/961.htm"
-    },
-    {
-      "id": "35403df8-2d23-815d-a743-ea8880cb3bfd",
-      "title": "奥斯卡明确规定：AI 演员和剧本没资格获奖",
-      "summary": "IT之家 5 月 2 日消息，据路透社 5 月 1 日报道，由 AI 生成的表演和剧本将不再符合奥斯卡奖的资格。美国电影艺术与科学学院的最新规则将于 2027 年 3 月举行的下一届颁奖典礼开始生效。学院更新的规则指出，虽然电影制作人可以使用 AI 工具，但“合成”表演者不能获得任何奖项。同样，获奖剧本必须是“人类创作的”。学院可以从提交的作品中要求更多信息，以确认它们是由人类创作的。值得一提的是，已故美国著名演员方 · 基默（Val Kilmer）通过 AI 出现在了一部新电影中，《深如坟墓》在今年 4 月发布了预告片，其中方 · 基默的角色由 AI 技术生成。综合IT之家此前报道，行业内多",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/960.htm"
-    },
-    {
-      "id": "35403df8-2d23-81a6-882c-ffb5e40d8b86",
-      "title": "AirTag 被指存在跟踪隐患，苹果面临数十项相关诉讼",
-      "summary": "IT之家 5 月 2 日消息，据科技媒体 Macrumors 昨天报道，苹果正面临 30 多起诉讼，原告均声称自己曾被 AirTag 跟踪。据报道，苹果被所有原告指控：在明知 AirTag 可能被危险人士购买并利用于跟踪、胁迫、控制，或以其他方式危害无辜受害者的情况下，仍将 AirTag 推向市场。诉讼指出，苹果 2021 年发布 AirTag 时并未建立足够的安全防护措施。公司在 2021 年 4 月-2024 年 4 月期间收到超过 4 万起跟踪报告。原诉讼的内部文件显示，苹果知道现有防护措施只能起威慑作用，无法阻止坏人滥用。IT之家注：AirTag 支持“查找”网络，它可以通过附近的苹果",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/959.htm"
-    },
-    {
-      "id": "35403df8-2d23-8136-9165-c3514a060504",
-      "title": "Meta bought some help in its quest for humanoid robots",
-      "summary": "Meta is making another push toward robotics with its acquisition of Assured Robot Intelligence, a small San Diego-based startup.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-02",
-      "link": "https://www.businessinsider.com/meta-acquires-assured-robot-intelligence-humanoid-robotics-2026-5"
-    },
-    {
-      "id": "35403df8-2d23-8177-b769-effa9c2fbf3d",
-      "title": "日产放弃在美国建 5 亿美元电动汽车工厂计划，改为生产燃油和混动车",
-      "summary": "IT之家 5 月 2 日消息，据 Automotive News 昨日报道，日产在一份声明中宣布放弃在美国密西西比州坎顿装配厂建设 5 亿美元（IT之家注：现汇率约合 34.2 亿元人民币）全电动汽车生产计划。这家汽车制造商将转而在这座 470 万平方米的设施中生产传统汽油和混合动力汽车。日产在声明中表示：“此举是为了‘更好地与市场条件、客户需求和日产更新的战略方向保持一致’。”作为“2030 年愿景”的一部分，日产在 2021 年宣布将改造其坎顿设施，以生产电动汽车以及为多款日产和英菲尼迪车型生产电池，目标是到 2028 年在美国销售 20 万辆电动汽车。然而，美国电动汽车销售疲软以及美国政",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/958.htm"
-    },
-    {
-      "id": "35303df8-2d23-814f-a501-dc383899f76b",
-      "title": "IT早报 0502：曝苹果 iPhone Air 多轮降价后激活量勉强破 70 万台；4 月汽车销量汇总：比亚迪、奇瑞、吉利前三；新华社曝光网购平台商家“AB 货”...",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 2 日星期六，今天的重要科技资讯有：1、消息称苹果 iPhone Air 多轮降价后激活量才勉强破 70 万台，国内某厂商计划放弃系列产品线迭代博主爆料，国内某厂商 Air 手机激活量仅 5 万台，因“叫好不叫座”计划搁置明年迭代。小米卢伟冰此前就认为极致超薄会牺牲续航、散热等体验，实际销售非常小众。>> 查看详情2、2026 年 4 月汽车销量 / 交付榜出炉：比亚迪、奇瑞、吉利暂居前三，出口表现亮眼2026 年 4 月汽车销量 / 交付数据现已陆续公布，其中比亚迪销售整车 32.1 万辆暂居榜首，其余多家新势力车企均有亮眼表现。>> ",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/957.htm"
-    },
-    {
-      "id": "35303df8-2d23-812e-8c0f-ecb32d1b1cc1",
-      "title": "美国电玩零售商 GameStop 欲上演“蛇吞象”收购电商平台 eBay，CEO 豪赌千亿市值",
-      "summary": "IT之家 5 月 2 日消息，据《华尔街日报》昨天报道，美国电玩零售商 GameStop 正在悄悄增持 eBay 股份，为本月底可能提出的收购要约做准备。消息人士透露，如果 eBay 高管对收购不感兴趣，GameStop 可能会直接将收购合同提交给 eBay 股东。不过收购要约的形式、管理层反映目前还没有风声。作为参考，GameStop 市值约 120 亿美元（IT之家注：现汇率约合 820.91 亿元人民币），2025 年销售额 36 亿美元（现汇率约合 246.27 亿元人民币）。而电商平台 eBay 的市值大约是 460 亿美元（现汇率约合 3146.82 亿元人民币），2025 年全年",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/956.htm"
-    },
-    {
-      "id": "35303df8-2d23-8162-a121-f979537a55fb",
-      "title": "能否摘得第三冠？张雪机车 WSBK 匈牙利站超级杆位赛排名第 6，今晚正赛见",
-      "summary": "IT之家 5 月 2 日消息，在昨晚的 WSBK 匈牙利站超级杆位赛（排位赛）上，张雪机车 53 号车手德比斯和 64 号车手卡里卡苏洛分别获得第 6 和第 9。53 号瓦伦丁 · 德比斯位排位赛第 664 号费德里科 · 卡里卡苏洛排位赛第 9IT之家注：杆位赛通常指赛车运动中的排位赛，是决定正赛发车顺序的关键环节，其中成绩最佳者获得杆位（第一发车位置）。今日（5 月 2 日），张雪机车 15:20 将进行热身赛，20:00 将进行 SSP 正赛，大家可以期待一下正赛表现。5 月 2 日比赛日程（北京时间）：15:00 热身（WCR）15:20 热身（SSP）张雪机车组别15:40 第三次自",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/955.htm"
-    },
-    {
-      "id": "35303df8-2d23-8182-b5ed-ca52ecc58061",
-      "title": "极狐汽车 4 月销量 16532 辆，同比增长 101.7%",
-      "summary": "IT之家 5 月 2 日消息，极狐汽车官宣 4 月销量 16532 辆，同比增长 101.7% 实现翻番。IT之家注意到，北汽新能源旗下极狐汽车 4 月发布了两款新品，可以期待一下 5 月的销量数据。极狐汽车在 2026 北京车展举行发布会，极狐 S3 正式开启预售，电池租赁 6.48 万元起。新车长宽高分别为 4916/1900/1480mm，轴距 2876mm。其中换电版车型搭载最大功率 159 千瓦电机，纯电车型续航里程提供 550 公里与 650 公里两种供选择。4 月 28 日，极狐旗下首款 MPV 车型 —— 问道 V9 正式开启预售，新车共推出 4 款车型，预售补贴价为 21.9",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/954.htm"
-    },
-    {
-      "id": "35303df8-2d23-810b-9313-cacf692ec5ff",
-      "title": "谷歌将为 Gemini 投放广告，目前处于准备阶段",
-      "summary": "IT之家 5 月 2 日消息，据科技媒体 Android Central 今天报道，谷歌母公司 Alphabet 本周举行财报电话会议，首席商务官 Philipp Schindler 在会议中表示，Gemini 未来可能会出现广告。这名首席商务官在会议中透露：“我们需要明确，广告一直是将产品规模化、覆盖数十亿用户的重要手段。如果执行得当，广告可以非常有价值，也能提供真正有用的商业信息”。IT之家在此援引 Android Central，谷歌高管说“可能出现广告”代表公司决心已定。并且业内已经有 OpenAI 为 ChatGPT 投放广告。他也提到，目前谷歌仍在进行准备工作：“我们会在合适的时机",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/953.htm"
-    },
-    {
-      "id": "35303df8-2d23-810b-a849-d221c4cf88de",
-      "title": "库克：MacBook Neo 供不应求，需求超出苹果预期，Mac 新用户数量创纪录",
-      "summary": "IT之家 5 月 2 日消息，根据苹果 CEO 蒂姆 · 库克本周分享的评论，苹果迄今为止最实惠的 MacBook 似乎深受顾客喜爱。在当地时间周四的财报电话会议上，库克表示，自从 3 月份 MacBook Neo 发布以来，顾客对该产品的反应一直“非常热烈”。他说：“我们目前的情况再好不过了。”MacBook Neo 的需求已经超过了苹果的预期，并帮助推动了上一季度创纪录的 Mac 新买家数量。库克表示：“我们非常关注新接触 Mac 的客户以及已经长期使用 Mac 的客户。”由于需求旺盛，库克补充说 MacBook Neo 目前处于“供应受限”状态。IT之家注意到，此前还消息显示苹果计划在明",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/952.htm"
-    },
-    {
-      "id": "35303df8-2d23-81d4-a22b-d90711a939e6",
-      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-02",
-      "link": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/"
-    },
-    {
-      "id": "35303df8-2d23-81a4-bb20-d890055bf8bd",
-      "title": "起售价升至 5999 元，苹果 Mac mini 16+256GB 版本官网悄然停售",
-      "summary": "IT之家 5 月 2 日消息，苹果现已在官网悄悄下架了基础款 Mac mini，目前的最低配置为 16GB 内存 +512GB 硬盘。IT之家查询苹果中国官网发现，目前 16GB 内存 +256GB 硬盘（4499 元）的基础款 Mac mini 已经无法选购，目前可选的最低配置为 16GB+512GB，起售价升至 5999 元，相比之前升 1500 元。值得注意的是，香港、日本和美国等地区的苹果官网也下架了 16+256GB 的基础配置。而京东平台目前 16+256GB 版本还有得预约。京东苹果 Mac mini 16+256GB 版本 4499 元直达链接据IT之家此前报道，苹果 CEO ",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/951.htm"
-    },
-    {
-      "id": "35303df8-2d23-81a8-892b-d82f3ad99f73",
-      "title": "俞浩晒追觅模块化手机真机，镜头模组、后盖都能拆",
-      "summary": "IT之家 5 月 2 日消息，追觅科技创始人兼 CEO 俞浩昨日晒出视频，展示了追觅研发中的模块化手机真机。从视频可以看到，这款手机采用了白色后盖，圆形的后置镜头模组可以直接拿下来，采用磁吸触点连接。此外，机身的整个后盖也可以拿下来，让手机变得更加轻薄。正面来看，这款手机采用了居中前置摄像头，不过屏幕没有点亮，暂时看不到其他信息。据IT之家此前报道，今年 1 月，追觅手机团队携高奢系列与旗舰模块化系列亮相西南欧经销商大会，官方在 PPT 中展示了一款模块化手机，可以看到有丰富的配件。博主 @数码闲聊站 今年 3 月爆料称，据可靠信息，追觅 AURORA 新机会定位高端影像旗舰，1 英寸主摄 +",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/950.htm"
-    },
-    {
-      "id": "35303df8-2d23-8188-8a04-fd17f5b4c8b6",
-      "title": "637 米刷新纪录！我国抽水蓄能电站最深竖井全线贯通，200 多层楼高度嵌入山体",
-      "summary": "IT之家 5 月 2 日消息，据央视新闻报道，国家“十四五”规划重点能源项目 —— 浙江松阳抽水蓄能电站两条深度达 637 米的竖井今日（5 月 2 日）实现全线贯通，刷新我国抽水蓄能领域最深竖井工程纪录。松阳抽水蓄能电站位于浙江省丽水市松阳县，设计安装 4 台单机容量 35 万千瓦的可逆式水轮发电机组。此次贯通的竖井，是电站能量转换的核心通道，其深度达 637 米，相当于将 200 多层楼的高度垂直嵌入山体，创下国内抽水蓄能领域同类工程之最。在超深、复杂地层中施工，面临断层、涌水、通风、出渣等一系列技术挑战，而传统方式存在施工效率偏低、安全管控难度较大等诸多问题。我国自主研发的首套 700 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-02",
-      "link": "https://www.ithome.com/0/945/949.htm"
-    },
-    {
-      "id": "35303df8-2d23-818e-a959-e2e3bb66b346",
-      "title": "Musely secures $360M from General Catalyst without giving up equity",
-      "summary": "The DTC skin, hair, and and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-02",
-      "link": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/"
-    },
-    {
-      "id": "35303df8-2d23-81f6-adcd-f133ff3ed72d",
-      "title": "Jim Cramer says the market powered through a tough earnings week but 'that doesn't mean we're out of the woods yet'",
-      "summary": "CNBC's Jim Cramer looks to the jam-packed earnings week ahead and explains what he's looking for.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-02",
-      "link": "https://www.cnbc.com/2026/05/01/cramer-look-ahead-earnings.html"
-    },
-    {
-      "id": "35303df8-2d23-81bd-a209-dd7688b32a59",
-      "title": "Demand for the Mac Mini is surging — and Apple just raised the starting price from $599 to $799",
-      "summary": "The entry-level model of the Mac Mini is no longer listed on Apple's website, making the $799 version the cheapest.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-02",
-      "link": "https://www.businessinsider.com/apple-raises-mac-mini-starting-price-799-ai-boosts-demand-2026-5"
-    },
-    {
-      "id": "35303df8-2d23-816e-905e-e47ef8dd4e3c",
-      "title": "Oscars says AI actors, writing cannot win awards",
-      "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
-      "source": "BBC Tech",
-      "publishTime": "2026-05-02",
-      "link": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "35303df8-2d23-8194-8f28-f4988869246a",
-      "title": "Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars",
-      "summary": "As adult riders report new age-verification checks, the self-driving car company says it’s continuing to “refine” its system in places where kids aren’t allowed to ride alone.",
-      "source": "Wired",
-      "publishTime": "2026-05-02",
-      "link": "https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/"
-    },
-    {
-      "id": "35303df8-2d23-8166-b459-dd7b6a692725",
-      "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
-      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-02",
-      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/"
     }
   ],
   "macroEvents": [
