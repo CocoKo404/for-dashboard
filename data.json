@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-05-04 02:09",
+  "updatedAt": "2026-05-04 03:32",
   "news": [
+    {
+      "id": "35503df8-2d23-815a-9daa-f85079ac0d7f",
+      "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-04",
+      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/"
+    },
     {
       "id": "35503df8-2d23-815e-9e25-ecc653d7b46b",
       "title": "I'm not worried about AI taking my job. Guests and clients still want a real person to make them feel special.",
@@ -392,14 +400,6 @@
       "source": "Wired",
       "publishTime": "2026-05-03",
       "link": "https://www.wired.com/story/how-to-track-your-luggage/"
-    },
-    {
-      "id": "35503df8-2d23-818d-9200-f47536d7dc3b",
-      "title": "The first week in Elon Musk and Sam Altman's federal civil trial has wrapped. BI's Katherine Li shares what week one was like.",
-      "summary": "In this Sunday edition of Business Insider Today, a reporter takes us inside the courtroom where Elon Musk and Sam Altman's legal battle is playing out.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-03",
-      "link": "https://www.businessinsider.com/bi-today-sunday-newsletter-musk-altman-openai-trial-2026-5"
     }
   ],
   "macroEvents": [
