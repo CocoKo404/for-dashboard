@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-05-03 15:05",
+  "updatedAt": "2026-05-03 17:02",
   "news": [
+    {
+      "id": "35503df8-2d23-817b-9d0e-fdb98f080050",
+      "title": "华为手机星闪（NearLink）最新适配清单公布，功能差异一表看懂",
+      "summary": "IT之家 5 月 3 日消息，华为官网最近公布了华为手机星闪 NearLink 最新适配清单（此前有相关页面进行介绍，不过短暂下线过一段时间）。此次公布的清单，详细介绍了各机型之间的能力差异。华为手机星闪（NearLink）功能适配情况品类型产品系列产品型号 (发布名称)星闪星闪音频星闪车钥匙星闪精确查找连接支持星闪功能的手写笔 / 键盘 / 鼠标连接支持星闪功能的手表（共享手机网络）在线查找离线查找关机查找关机响铃手写笔键盘 & 鼠标手机旗舰手机 Mate 系列HUAWEI Mate X7 系列星闪 E2.0支持支持支持支持支持支持支持支持支持HUAWEI Mate80 RS 非凡大师星闪 ",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/131.htm"
+    },
+    {
+      "id": "35503df8-2d23-812a-8274-fd996ca066ea",
+      "title": "VideoLAN 团队提前布局，发布开源 AV2 解码器 Dav2d",
+      "summary": "IT之家 5 月 3 日消息，据科技媒体 Phoronix 昨天报道，开放媒体联盟原计划 2025 年底发布 AV2 标准，但目前仍处于草案阶段。不过开发 VLC 播放器的 VideoLAN 团队已经提前行动，本周发布开源 AV2 解码器 Dav2d。据报道，Dav2d 是一款完全开源 CPU 视频解码器，脱胎于 AV1 解码器 Dav1d。当前具备跨平台特性，强调高性能、解码正确性。官方表示，目前相关代码已经达到“经过实战验证、可用于生产环境”的水平。目前正在稳步完善 API、完整 C 语言实现，并计划移植到更多平台。此外，团队还计划针对 x86 平台的 AVX2 指令集进行优化，并将 Da",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/130.htm"
+    },
+    {
+      "id": "35503df8-2d23-8164-be77-ceb58bedc343",
+      "title": "华为鸿蒙 HarmonyOS 6.1 云空间新增支持更改使用方案，可优先用 Petal One 并暂停原套餐续费",
+      "summary": "IT之家 5 月 3 日消息，华为最近还“悄悄”更新了 HarmonyOS 6.1 版本系统的云空间，现在用户可以自由选择云空间的使用方案了。需要注意的是，此处的更改使用方案与大众所理解的有一定偏差，其并非是更改套餐方案，而是更改具体的使用策略。简单理解就是开通了 Petal One 的用户可以自由选择“延长云空间的套餐时间”或者“获得更大空间”，具体如下：叠加使用（云空间容量 + Petal One 套餐内置的空间容量）优先使用 Petal One 套餐内置的云空间容量（云空间会员服务将暂停续费）参考IT之家此前报道，去年 6 月前后，华为在鸿蒙 HarmonyOS 5 系统上线了新版 Pe",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/129.htm"
+    },
+    {
+      "id": "35503df8-2d23-8131-a76c-f1d9690747f2",
+      "title": "在轨 6 个月，神舟二十一乘组“太空出差”Vlog 上新",
+      "summary": "IT之家 5 月 3 日消息，自圆满完成第三次出舱活动后，神二十一乘组稍作休整，随即投入到新一轮的在轨工作中。“五一”假期，神舟二十一号航天员乘组张陆、武飞、张洪章值守在中国空间站，他们已经在轨驻留满 6 个月，官方发布最新一期“太空出差”Vlog。IT之家从视频获悉，在轨脑电测试研究进展顺利，乘组利用脑电采集设备、VR 眼镜等，开展弱刺激脑机、微重力直觉物理、空间合作编码及调控等多项脑电实验测试，地面科研人员将依托下行数据开展后续研究。在心理与行为能力研究方面，乘组完成了应急决策能力评估和在轨情绪状态测试，持续积累测试数据。在天和核心舱内，三名航天员使用遥操作交会对接系统和平移与姿态控制手柄",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/128.htm"
+    },
+    {
+      "id": "35503df8-2d23-81fc-af7d-df21508ff63a",
+      "title": "消息称《刺客信条》类糖豆人新作试玩反馈非常糟糕，项目或面临取消",
+      "summary": "IT之家 5 月 3 日消息，消息人士 @xj0nathan 昨天在 X 平台透露，育碧 4 月 30 日为《刺客信条》类糖豆人新作（代号 Invictus）进行测试，但玩家反馈“非常糟糕”，很可能会延期，甚至直接取消。作为参考，《刺客信条 Invictus》最初公布于 2022 年，原计划今年内发售。主打多人 PvP 玩法，是一款独立线上新作，画风类似《糖豆人》，视觉风格更加卡通化。育碧曾在今年 3 月 4 日表示，本作仍在正常开发，由 For Honor 团队成员主导。据IT之家此前援引 @xj0nathan 消息，这款游戏在内部的处境非常严峻，概念很糟糕，很可能会失败，开发团队自己都不认",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/127.htm"
+    },
+    {
+      "id": "35503df8-2d23-8185-bdc1-f9f893dd8ac6",
+      "title": "微软修复 Outlook 奇怪 Bug：打开 Office 文档显示空白或“已损坏”",
+      "summary": "IT之家 5 月 3 日消息，据 Neowin 今日报道，微软刚刚修复了一个影响经典 Outlook 的奇怪 Bug，该 Bug 会导致 Office 文档打开时显示为空白或“已损坏”。微软此前发布了最新的星期二更新补丁，尽管没有公布已知问题，但微软解释称，由于近期的一项特定新增内容，某些应用（如备份应用）将无法正常工作。对于经典 Outlook 用户来说，当其访问存放在 SharePoint 或 OneDrive 上的共享文件时就可能会遇到上述 Bug。在某些情况下，即使在用户偏好设置中已经指定在 Web 浏览器中打开文件，点击电子邮件中的文档链接也会强制文件在桌面应用程序中打开。此外，部分",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/126.htm"
+    },
+    {
+      "id": "35503df8-2d23-8192-800c-f2ac32029af0",
+      "title": "小米澎湃 OS 最新优化进展公布，Xiaomi 17 Pro Max 手机相册体验等已修复",
+      "summary": "IT之家 5 月 3 日消息，小米员工本周在小米社区发布了澎湃 HyperOS 3 最新优化进展，其中提到用户所反馈的 Xiaomi 17 Pro Max 手机在 3.0.306.0 版本部分场景下原照片下载失败、选择照片时闪退等问题已优化。▲ IT之家开箱：小米 17 Pro / Pro Max 手机图赏IT之家附小米澎湃 OS 系统最新优化进展如下：已优化问题1. Xiaomi 17 Ultra 3.0.304.0 版本部分场景手机管家执行优化后，退回首页仍显示原分数的问题2. Xiaomi 17 Pro Max 3.0.306.0 版本部分场景原照片下载失败的问题3. Xiaomi 17",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/125.htm"
+    },
+    {
+      "id": "35503df8-2d23-8186-83be-c6a858b597e0",
+      "title": "全国铁路单日旅客发送量连续三天超 1900 万人次",
+      "summary": "IT之家 5 月 3 日消息，据“中国铁路”公众号今日发文，5 月 2 日，全国铁路发送旅客 1978.1 万人次，继 4 月 30 日、5 月 1 日后，铁路单日旅客发送量再次超 1900 万人次，运输安全平稳有序。而 5 月 3 日，全国铁路预计将发送旅客 1855 万人次，计划加开旅客列车 923 列。IT之家从文中了解到，五一假期期间，探亲、旅游、休闲等出行需求十分旺盛，铁路客流保持高位运行。从车票预售情况来看，今年主要有北京、广州、上海、杭州、成都、南京等城市处于热门出发状态；而热门到达城市则有北京、广州、上海、杭州、成都、深圳、武汉、南京等。从余票情况看，5 月 3 日至 6 日，",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/124.htm"
+    },
+    {
+      "id": "35503df8-2d23-81ac-b777-f18d598454cc",
+      "title": "鸿蒙智行全新一代问界 M9 系列汽车累计预订量突破 3.5 万台，预售价 49.98 万元起",
+      "summary": "IT之家 5 月 3 日消息，据博主 @我鸿 今日分享，鸿蒙智行全新一代问界 M9 系列累计预订量突破 3.5 万台。该车在 4 月 22 日开启预订，提供标准版及 Ultimate 领世加长版两款车型，预售价 49.98 万元起。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东曾表示，全新一代问界 M9 全车搭载超 140 项创新技术，不是一次升级，而是一次重构，后续还会公布更多惊喜。另外，全国首批 100 台展车已陆续到店。IT之家注意到，目前华为官网已开启新车预订。相关页面还曝光了全新一代问界 M9 更多配置信息：全新一代问界 M9预售价 49.98 万元起双腔双阀 | 后",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/123.htm"
+    },
+    {
+      "id": "35503df8-2d23-8160-b8e8-fbb7ec1894e7",
+      "title": "华为 WATCH Ultimate 2 / ULTIMATE DESIGN 非凡大师紫金款 HarmonyOS 6.1 版本升级亮点公布",
+      "summary": "IT之家 5 月 3 日消息，华为官网最近“悄悄”更新了 HarmonyOS 6.1 支持机型。相关页面显示，目前，HUAWEI WATCH Ultimate 2 / ULTIMATE DESIGN 非凡大师紫金款等已更新至公测版 HarmonyOS 6.1 系统。▲ IT之家评测室：华为 WATCH Ultimate 2 非凡探索体验IT之家注意到，华为官方发布了 HUAWEI WATCH Ultimate 2 / ULTIMATE DESIGN 非凡大师紫金款 HarmonyOS 6.1 版本升级一图览，介绍了这两款手表的更新亮点。具体如下：表盘1.新增“舞林萌主”表盘，宠物“憨憨”“跳跳",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/122.htm"
+    },
+    {
+      "id": "35503df8-2d23-8108-8497-dd08bcd8faff",
+      "title": "苹果联合密歇根大学联合研究揭示：听力正常者中 16% 自认听力不佳，听力下降或影响行动能力",
+      "summary": "IT之家 5 月 3 日消息，据科技媒体 9To5Mac 前天报道，苹果最近与密歇根大学联合研究听力健康，共调查 16 万人，相关成果已在本周公开。据报道，这 16 万人中有 8.5 万名符合世界卫生组织的听力正常（≤25 dB）测试者参与，其中 16% 的人认为自己听力“较差或不好”。研究指出，即使检测结果显示听力正常，许多人仍会遇到实际问题，例如难以集中注意力听别人说话、有噪音时难以理解对话内容。同时，研究学者在另一组覆盖 57183 人的样本中发现，听力越差行走速度越慢，在 60 岁以上人群中尤为明显，表明听力可能与身体健康整体有关。研究总结中指出，使用 AirPods 耳机“四频率纯音",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/121.htm"
+    },
+    {
+      "id": "35503df8-2d23-813f-bf28-c0e4965f564a",
+      "title": "任天堂前总裁雷吉解读：为何自家游戏坚持“不打折”策略",
+      "summary": "IT之家 5 月 3 日消息，据游戏媒体 The Gamer 昨天报道，前任天堂美国总裁雷吉 · 菲尔斯-埃米（Reggie Fils-Aimé）最近在纽约大学发表演讲，谈及任天堂此前备受争议的定价策略。雷吉首先以任天堂总部所在地京都举例，他认为京都以精湛工艺闻名，纺织、瓷器、陶艺产品质量极高。而任天堂也传承了类似理念，专注“高品质成品”，而不是先端一个半成品出来然后慢慢修补。他指出，如今许多游戏需要首发大型补丁才能是“完整版本”，而任天堂虽然偶尔会这么做，但整体并不认同这种理念。雷吉举例，《塞尔达传说旷野之息》游戏从 2017 年发售以来，官方渠道从未降价。这其中就体现了任天堂的理念：游戏尽",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/120.htm"
+    },
+    {
+      "id": "35503df8-2d23-81a6-a060-c3129dfc843c",
+      "title": "国内首部院线 AI 原生动画电影将至，《三星堆：未来往事》获颁“龙标”",
+      "summary": "IT之家 5 月 3 日消息，据北京国际电影节分享，《三星堆：未来往事》已正式获得国家电影局颁发的“龙标”，标志着国内首部将三星堆文化与 AI 原生技术深度结合的科幻院线电影即将登陆全国大银幕。据介绍，电影《三星堆：未来往事》以三星堆文化为核心、以 AI 技术为手段，将古蜀文明与科幻叙事相结合，用 AI 技术呈现三星堆文物，构建一个连接过去与未来的科幻世界。电影《三星堆：未来往事》概念预告片已在第 30 届香港国际影视展上正式亮相。另外，本片的创作脉络可追溯至 2024 年 7 月上线的 AI 科幻短剧集《三星堆 · 未来启示录》第一季，该短剧全网已斩获 1.6 亿播放量。作为参考，《三星堆：",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/119.htm"
+    },
+    {
+      "id": "35503df8-2d23-8149-8828-d763c2c96679",
+      "title": "铁路 12306 回应热门车次开售即售罄：主要有两大原因",
+      "summary": "IT之家 5 月 3 日消息，五一假期期间，相信有不少IT之家小伙伴选择坐火车出行，然而不少列车车票会在开售后快速售罄。据央视网前天报道，铁路 12306 有关负责人对此解释道，与“开售即候补”不同，部分热门列车车票开售后快速售罄、进入候补状态的原因主要有两个。其一是热门车次的全程及长途票快速售罄。部分热门线路、热门目的地的列车、旅行时间较短的列车更受旅客青睐。在车票开售时，由于购票需求远超站间可发售票额，因此无论是全程票还是长途票，都会快速进入售罄、候补状态。其二则是热门车次裂解出的少量短途票快速售罄。部分热门长途列车在预分票额时，会裂解出少量站间短途票，这类票数量少，开售后会快速售罄、进入",
+      "source": "IT之家",
+      "publishTime": "2026-05-03",
+      "link": "https://www.ithome.com/0/946/118.htm"
+    },
     {
       "id": "35503df8-2d23-8185-a5bc-f7b527e1ae49",
       "title": "V社员工：Steam Machine 主机将尽力保持竞争力定价，但内存短缺影响难以避免",
@@ -288,118 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-05-03",
       "link": "https://www.ithome.com/0/946/089.htm"
-    },
-    {
-      "id": "35403df8-2d23-8159-b242-e3b533c1e25d",
-      "title": "苹果 iOS 27 系统前瞻：卫星通信新增多项功能、全新虚拟键盘，预计 WWDC 26 亮相",
-      "summary": "IT之家 5 月 3 日消息，科技媒体 Macrumors 昨天发布博文，对苹果 iOS 27 系统的新功能进行前瞻。苹果预计将在 WWDC 26 开发者大会介绍 iOS 27 系统，首个开发者测试版一般会在主题演讲结束后立即提供，公开测试版通常在 7 月推出。最终的正式版将在 9 月面向所有用户发布。IT之家附 iOS 27 系统前瞻要点如下：独立 Siri 应用：据传，苹果计划推出独立 Siri 应用，并为 iOS 27、iPadOS 27、macOS 27 引入“扩展（Extensions）”功能。iPhone、iPad 和 Mac 可以通过独立 Siri 应用进行文字、语音互动，还可以",
-      "source": "IT之家",
-      "publishTime": "2026-05-03",
-      "link": "https://www.ithome.com/0/946/088.htm"
-    },
-    {
-      "id": "35403df8-2d23-81a5-b139-f07ef14377a9",
-      "title": "IT早报 0503：张雪机车匈牙利站再夺冠军；俞浩再放狠话称追觅手机对标苹果三星；苹果 iPhone18Pro 或采取激进定价策略；中国移动“移动梦网”等业务下线...",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 3 日星期日，今天的重要科技资讯有：1、三冠加冕！张雪机车 WSBK 匈牙利站第一回合正赛夺冠在 5 月 2 日结束的 2026 世界超级摩托车锦标赛（WSBK）匈牙利站 WorldSSP 组别第一回合正赛中，中国摩托车制造商“张雪机车”的法国车手瓦伦丁 · 德比斯夺得冠军。>> 查看详情2、俞浩再放狠话：追觅手机要与苹果、三星三分天下，必然会最终站上世界第一俞浩曾在内部讲话中提出“手机，追觅、华为、小米未来要三分天下”，这一说法引发网络热议。>> 查看详情3、最低配不涨价？消息称苹果计划对 iPhone 18 Pro 系列手机采取激进定",
-      "source": "IT之家",
-      "publishTime": "2026-05-03",
-      "link": "https://www.ithome.com/0/946/087.htm"
-    },
-    {
-      "id": "35403df8-2d23-8182-87b4-cb4becc43623",
-      "title": "跨越百亿里程碑：华为乾崑 4 月安全出行报告发布，累计辅助驾驶里程 104.7 亿公里",
-      "summary": "IT之家 5 月 3 日消息，华为乾崑智能汽车解决方案昨晚发布了 4 月安全出行报告。据介绍，华为乾崑累计辅助驾驶里程 104.7 亿公里，月度辅助驾驶里程 9.1 亿公里，跨越百亿里程碑。另外，华为乾崑智驾辅助驾驶月活用户数 143 万，月度人均辅助驾驶里程 637 公里，月活用户占比 94.8%；车位到车位使用 956 万次，辅助泊车 6548 万次。据IT之家此前报道，在今年 4 月 23 日，华为正式发布了乾崑智驾 ADS 5：首发防误打方向盘，车位到车位 3.0 版本。系统层面，首发面向自动驾驶的操作系统乾崑 OS。该系统包含确定性低时延引擎、全链路零信任安全模型以及全维安全冗余架构",
-      "source": "IT之家",
-      "publishTime": "2026-05-03",
-      "link": "https://www.ithome.com/0/946/086.htm"
-    },
-    {
-      "id": "35403df8-2d23-81f9-9d3d-e5a5ff8ce7ea",
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "summary": "Bad news for Tilly Norwood.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-03",
-      "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"
-    },
-    {
-      "id": "35403df8-2d23-8147-b419-db9fb053712e",
-      "title": "Farewell, Jeeves: Ask.com shuts down",
-      "summary": "Owner IAC says it's discontinuing its search business.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-03",
-      "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/"
-    },
-    {
-      "id": "35403df8-2d23-8177-aaf0-ea12e236ff5d",
-      "title": "Sam Altman says Elon Musk can come to his GPT 5.5 party: 'World needs more love'",
-      "summary": "Sam Altman and Elon Musk, the OpenAI cofounders turned rivals, are locked in a legal battle over the direction of the company.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-03",
-      "link": "https://www.businessinsider.com/sam-altman-elon-musk-trial-rivalry-gpt-party-openai-2026-5"
-    },
-    {
-      "id": "35403df8-2d23-81c7-b354-fe6e28e89c1b",
-      "title": "I was in the room when Warren Buffett gave a surprise interview at Berkshire's annual conference. The mood swung from excited to gloomy, then hopeful.",
-      "summary": "Warren Buffett called out unprecedented amounts of \"gambling\" in markets, and sounded the alarm on deepfakes and nuclear weapons.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-03",
-      "link": "https://www.businessinsider.com/warren-buffett-surprise-interview-berkshire-hathaway-meeting-gambling-nuclear-deepfakes-2026-5"
-    },
-    {
-      "id": "35403df8-2d23-81e2-8b3d-e869f001c0b1",
-      "title": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
-      "summary": "New Mexico Attorney General Raúl Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more consequential for Meta and the social media industry at large. Beginning Monday, attorneys for Meta and New Me",
-      "source": "The Verge",
-      "publishTime": "2026-05-03",
-      "link": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety"
-    },
-    {
-      "id": "35403df8-2d23-81ff-af6c-c71ebc02fd1d",
-      "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
-      "summary": "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.com, instructing fliers not to go to airports, with air traffic control records capturing controller",
-      "source": "The Verge",
-      "publishTime": "2026-05-03",
-      "link": "https://www.theverge.com/business/922788/spirit-airlines-shutdown"
-    },
-    {
-      "id": "35403df8-2d23-8198-93f2-d3774077cf14",
-      "title": "My 4-year-old was a picky eater. Allowing him to cook dinner changed that.",
-      "summary": "I was hesitant to let my toddler help in the kitchen, but it boosted his confidence, improved his eating, and changed our routine.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-03",
-      "link": "https://www.businessinsider.com/toddler-cooking-help-picky-eating-parenting-montessori-2026-5"
-    },
-    {
-      "id": "35403df8-2d23-8147-99bf-f605c322adef",
-      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-      "summary": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-03",
-      "link": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/"
-    },
-    {
-      "id": "35403df8-2d23-81d5-bf85-f555dc53452a",
-      "title": "Aura’s delightful Aspen photo frame is on sale for $30 off this weekend",
-      "summary": "Aura’s digital frames are kind of like living photo albums that get better with time, which is why we often recommend them for Mother’s Day. They’re gifts that keep on giving, in a way, and right now, a number of Aura’s connected frames are on sale ahead of the holiday. One of the best deals […]",
-      "source": "The Verge",
-      "publishTime": "2026-05-03",
-      "link": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale"
-    },
-    {
-      "id": "35403df8-2d23-818d-99d9-ce9188b99479",
-      "title": "I'm an 84-year-old landlord. I charge reduced rent to my housemates who help me with food, tech, and transportation.",
-      "summary": "Jacob Watson, 84, shares his home with tenants who provide a limited amount of caring in exchange for a reduced rent. He said the arrangement works.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-03",
-      "link": "https://www.businessinsider.com/avoided-assisted-living-housemates-aging-in-place-2026-5"
-    },
-    {
-      "id": "35403df8-2d23-8106-9d9a-fc565b3dbe4e",
-      "title": "All 'The Devil Wears Prada 2' celebrity cameos",
-      "summary": "Stars from fashion, sports, the internet, and music all appear in the \"Devil Wears Prada: sequel.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-03",
-      "link": "https://www.businessinsider.com/the-devil-wears-prada-2-celebrity-cameos-2026-5"
     }
   ],
   "macroEvents": [
