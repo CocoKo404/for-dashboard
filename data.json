@@ -1,6 +1,166 @@
 {
-  "updatedAt": "2026-05-06 01:03",
+  "updatedAt": "2026-05-06 02:52",
   "news": [
+    {
+      "id": "35703df8-2d23-8157-953a-e9f58f4c8e7f",
+      "title": "Trump admin moves further into AI oversight, will test Google, Microsoft and xAI models",
+      "summary": "The White House is also considering a new AI working group that would explore potential oversight and vet models before release, CNBC confirmed.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-06",
+      "link": "https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html"
+    },
+    {
+      "id": "35703df8-2d23-812f-9923-e41baad4e83d",
+      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+      "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\"",
+      "source": "The Verge",
+      "publishTime": "2026-05-06",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant"
+    },
+    {
+      "id": "35703df8-2d23-8156-9852-d7229a297842",
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "summary": "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-06",
+      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/"
+    },
+    {
+      "id": "35703df8-2d23-8113-a9a6-edb163be3501",
+      "title": "How a quarterly earnings shake-up could disrupt a sprawling white-collar ecosystem",
+      "summary": "The potential for fewer earnings reports could save publicly traded companies millions, including money spent on white-collar jobs.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-06",
+      "link": "https://www.businessinsider.com/quarterly-earnings-proposal-sec-accountants-lawyer-investor-relations-jobs-impact-2026-3"
+    },
+    {
+      "id": "35703df8-2d23-8109-84ce-d19c6884c7a5",
+      "title": "2 forces are driving US economic growth, and the Iran war threatens to derail both, BofA says",
+      "summary": "Bank of America says there are two pillars of the US economy: AI and consumer spending. They warn that the Iran war threatens both.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-06",
+      "link": "https://www.businessinsider.com/us-economy-inflation-growth-ai-consumer-spending-iran-war-risk-2026-5"
+    },
+    {
+      "id": "35703df8-2d23-81f5-b2b7-e1af809e1b70",
+      "title": "My husband and I paid for our own college degrees. We told our 3 kids they have to do the same.",
+      "summary": "My husband and I can't afford to send our 3 kids to college, so the financial burden is on them. We try to help them in other ways.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-06",
+      "link": "https://www.businessinsider.com/paying-for-college-mom-making-kids-pay-tuition-2026-5"
+    },
+    {
+      "id": "35703df8-2d23-8114-a38a-d3be65e5e444",
+      "title": "Meta sued by major book publishers over copyright infringement",
+      "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmill",
+      "source": "The Verge",
+      "publishTime": "2026-05-06",
+      "link": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright"
+    },
+    {
+      "id": "35703df8-2d23-81d1-af59-dbfa82493e3d",
+      "title": "The best photos you missed from the 2026 Met Gala",
+      "summary": "From photo ops with the exhibit to hugs between A-list attendees, check out the best photos you missed from inside the 2026 Met Gala.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-06",
+      "link": "https://www.businessinsider.com/met-gala-best-photos-inside-fashion-event-2026-5"
+    },
+    {
+      "id": "35703df8-2d23-81d5-9397-d1d821cdec7b",
+      "title": "Microsoft’s new Xbox shake-up is all about platform changes",
+      "summary": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma is now reorganizing the Xbox platform tea",
+      "source": "The Verge",
+      "publishTime": "2026-05-06",
+      "link": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes"
+    },
+    {
+      "id": "35703df8-2d23-81a2-8a4c-d2f3718bcd5a",
+      "title": "The SEC just took a big step toward letting companies report earnings twice a year",
+      "summary": "The SEC issued a proposed rule Tuesday that would cut the number of mandatory earnings reports for public companies to two a year.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-06",
+      "link": "https://www.businessinsider.com/sec-proposes-semiannual-earnings-reporting-requirement-2026-5"
+    },
+    {
+      "id": "35703df8-2d23-81cd-b7a3-e84a34b57157",
+      "title": "I live in a 200-square-foot camper on my parents' property. Instead of paying rent, I cook them dinner every night.",
+      "summary": "I temporarily moved into a camper van on my parents' property. The living situation has brought us closer and helped me save money while I job-hunt.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-06",
+      "link": "https://www.businessinsider.com/living-in-camper-van-on-parents-property-temporary-saving-money-2026-5"
+    },
+    {
+      "id": "35703df8-2d23-81eb-a091-fd6da50bbddb",
+      "title": "From Alan Shepard to Artemis, celebrating 65 years of Americans in space",
+      "summary": "On the morning of May 5th, 1961, 37-year-old Alan Shepard woke up, ate a breakfast (consisting of a filet mignon wrapped in bacon, scrambled eggs, and orange juice), strapped into the Freedom 7 rocket, and blasted off into space, becoming the first American astronaut to do so. Shepard's historic fli",
+      "source": "The Verge",
+      "publishTime": "2026-05-06",
+      "link": "https://www.theverge.com/science/918596/alan-shepard-american-spaceflight-photos-anniversary"
+    },
+    {
+      "id": "35703df8-2d23-81be-af8a-dddb50f96670",
+      "title": "Microsoft Xbox CEO overhauls leadership amid sinking sales: 'We need to evolve how we work'",
+      "summary": "Asha Sharma, the former Instacart and Meta executive who took over Xbox at Microsoft, said the unit doesn't spend enough time with developers and players.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-06",
+      "link": "https://www.cnbc.com/2026/05/05/microsoft-xbox-ceo-asha-sharma-executive-overhaul.html"
+    },
+    {
+      "id": "35703df8-2d23-810a-b59e-eafd4b42c902",
+      "title": "The new AirPods Max 2 are already on sale for $40 off",
+      "summary": "In terms of pricing, the original AirPods Max remained stubbornly high even years after their debut, which made them hard to recommend over the Bose QC Ultra or Sony’s XM series headphones unless you were an Apple die-hard. The AirPods Max 2, however, have been out for just over a month, and we’re a",
+      "source": "The Verge",
+      "publishTime": "2026-05-06",
+      "link": "https://www.theverge.com/gadgets/923396/airpods-max-2-echo-dot-smart-speaker-deal-sale"
+    },
+    {
+      "id": "35703df8-2d23-81ba-98a2-d09f2a3e3d8f",
+      "title": "Why Meta's head of Threads thinks it's great if users move to DMs and 'lurk' in the feed",
+      "summary": "Meta is expanding Threads messaging to web users as weekly DMs cross 350 million, the app's top executive Connor Hayes said.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-06",
+      "link": "https://www.businessinsider.com/metas-threads-exec-said-its-expanding-messaging-for-power-users-2026-5"
+    },
+    {
+      "id": "35703df8-2d23-81b7-bbb5-e329cf170c6b",
+      "title": "How Marc Andreessen says he sets up his AI chatbot — and why critics are skeptical it works",
+      "summary": "Marc Andreessen shared his ideal AI prompt calling for less constraints. Critics say today's models can't reliably follow such instructions.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-05",
+      "link": "https://www.businessinsider.com/marc-andreessens-ai-prompt-blunt-aggressive-answers-2026-5"
+    },
+    {
+      "id": "35703df8-2d23-81e3-b8be-f57c9e09ffb9",
+      "title": "12 of the most successful celebrity production companies",
+      "summary": "Although these celebrities started out as actors or musicians, they eventually found success as producers as well.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-05",
+      "link": "https://www.businessinsider.com/celebrity-production-companies"
+    },
+    {
+      "id": "35703df8-2d23-816d-87e7-c179c10f7c5d",
+      "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
+      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5B in savings as it cuts jobs and works to modernize its tech stack.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-05",
+      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/"
+    },
+    {
+      "id": "35703df8-2d23-811b-ab42-e3c557d0d651",
+      "title": "3 key things we learned about Brian Armstrong's vision for Coinbase's post-layoff workforce",
+      "summary": "Coinbase is laying off 14% of its staff. Those who remain at the company are about to see quite a different workflow.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-05",
+      "link": "https://www.businessinsider.com/coinbase-layoffs-new-vision-future-memo-2026-5"
+    },
+    {
+      "id": "35703df8-2d23-814b-891f-c586968d314a",
+      "title": "The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy",
+      "summary": "The voice actors from the original film have returned for the sequel—and not everyone is happy about it.",
+      "source": "Wired",
+      "publishTime": "2026-05-05",
+      "link": "https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/"
+    },
     {
       "id": "35703df8-2d23-81e9-9028-e23d387d6cec",
       "title": "Etsy launches its app within ChatGPT as it continues its AI push",
@@ -240,166 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-05-05",
       "link": "https://www.businessinsider.com/best-college-towns-us-ranked"
-    },
-    {
-      "id": "35703df8-2d23-81d7-8aae-f3f254c2f75e",
-      "title": "世界先进：已开始讨论新加坡 VSMC 晶圆厂第二阶段产能扩充计划",
-      "summary": "IT之家 5 月 5 日消息，特色工艺晶圆代工企业世界先进 (VIS) 高管在公司 2026Q1 财报法人说明会上表示，已开始 VSMC 晶圆厂产能扩充计划的初步讨论与规划，将谨慎评估第二阶段的可能性。VSMC 为世界先进与 NXP（恩智浦）以 6:4 合股的企业，正在新加坡建设一座 12 英寸晶圆厂。这一晶圆厂将生产 130~40nm 制程的中介层、混合信号、电源管理、模拟产品。该厂正准备进行试产，预计今年 6~7 月启动出样，2027Q1 开始量产。世界先进高管表示，受产品组合与工艺复杂度变化影响，VSMC 第一阶段的满载月产能将从此前预计的 5.5 万片下调至 4.4 万片。而由于客户近",
-      "source": "IT之家",
-      "publishTime": "2026-05-05",
-      "link": "https://www.ithome.com/0/946/474.htm"
-    },
-    {
-      "id": "35703df8-2d23-8148-a3bf-e0b87fed3f5d",
-      "title": "游戏《控制》销量突破 600 万，续作《控制：共振》仍计划在年内发售",
-      "summary": "IT之家 5 月 5 日消息，开发商 Remedy 在最新一期财报中透露，旗下游戏《控制》全球累计销量现已突破 600 万份，本作于 2019 年 8 月发售，近期还登陆了苹果 Mac 平台，定价 6.99 美元（IT之家注：现汇率约合 47.8 元人民币）。Remedy 同时透露，旗下新作《控制：共振》仍计划在年内发售，游戏在正式推出前会逐渐加大宣发力度。本作在玩法层面相对于初代主要引入全新变形武器“Aberrant”，该武器能在战斗中实时改变形态，配合迪伦的移动能力，可以构建行云流水的立体化攻防体系。至于当前 Remedy 的其他项目，据悉与 R 星合作的《马克思佩恩 1&2》重制版仍在全",
-      "source": "IT之家",
-      "publishTime": "2026-05-05",
-      "link": "https://www.ithome.com/0/946/472.htm"
-    },
-    {
-      "id": "35703df8-2d23-81e6-bda5-d032f6991136",
-      "title": "What an AI-designed car looks like",
-      "summary": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason car manufacturers are so enthusiastic abo",
-      "source": "The Verge",
-      "publishTime": "2026-05-05",
-      "link": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast"
-    },
-    {
-      "id": "35703df8-2d23-815f-bdae-c183b7c3dca7",
-      "title": "I ordered the same meal at Olive Garden and Red Lobster, and the winning chain had slightly lower prices",
-      "summary": "I ordered the same meal of shrimp Alfredo, an appetizer, and dessert from Olive Garden and Red Lobster to see which chain has the best value.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-05",
-      "link": "https://www.businessinsider.com/olive-garden-vs-red-lobster-which-is-better-value-review-2026-5"
-    },
-    {
-      "id": "35703df8-2d23-8144-b583-e70c80db0631",
-      "title": "NASA 测试新型离子发动机：功率达现役顶尖型号 25 倍，助力载人火星任务",
-      "summary": "IT之家 5 月 5 日消息，一款新型离子发动机已在实验室完成测试，其动力性能达到了美国国家航空航天局（NASA）现役顶尖离子发动机的 25 倍。这项先进技术未来有望助力人类登陆火星。离子发动机与传统燃烧化学推进剂的推进器原理截然不同，其利用电磁场加速离子（带电原子），使其从喷口喷射而出从而产生推力，因此也常被称作“电力推进系统”。尽管离子发动机初始加速缓慢，但其推力能够逐步累积，最终实现超高飞行速度；同时，其消耗的推进剂比化学火箭少 90%，既能减轻航天器自重，也能降低发射成本。目前，航天器上搭载的最强离子发动机，隶属于 NASA 针对灵神星开展的灵神星任务。该发动机最高可将飞行器加速至每小",
-      "source": "IT之家",
-      "publishTime": "2026-05-05",
-      "link": "https://www.ithome.com/0/946/471.htm"
-    },
-    {
-      "id": "35703df8-2d23-8124-9203-d1dafa402df6",
-      "title": "鸿海 2026 年 4 月营收 8321 亿新台币：同比 +29.74%、环比 +3.53%",
-      "summary": "IT之家 5 月 5 日消息，鸿海精密工业股份有限公司今日发布公告，其 2026 年 04 月自结算合并营收为 8320.98 亿新台币（IT之家注：现汇率约合 1801.49 亿元人民币），同比增长 29.74%、环比增长 3.53%，创下历年同期新高。该企业四大产品类别中元件及其它、云端网络均在 4 月实现同比环比双增，电脑终端则是同比衰退但环比成长，唯有消费智能在两种比较维度上均有所衰退。此外，鸿海 2026 年 1~4 月累计营收为 29618.89 亿新台币（现汇率约合 6412.49 亿元人民币），同比增长 29.70%。鸿海表示：第二季属 ICT 传统淡季，主要产品进入新旧产品转",
-      "source": "IT之家",
-      "publishTime": "2026-05-05",
-      "link": "https://www.ithome.com/0/946/470.htm"
-    },
-    {
-      "id": "35703df8-2d23-81d2-a9d3-d54cebc66ece",
-      "title": "威刚 XPG 发布全球首款“无限镜”电竞内存 NOVAKEY RGB DDR5",
-      "summary": "IT之家 5 月 5 日消息，威刚 (ADATA) 旗下电竞品牌 XPG 今日宣布推出全球首款“无限镜”光效电竞内存模组 NOVAKEY RGB DDR5。这一型号采用 10 层 PCB，速度至高 6400MT/s，时序低至 CL30，提供 16GB 与 32GB 的单支及双支包装。威刚表示，NOVAKEY 的前半部分 \"NOVA\" 象征如超新星般的耀眼能量，代表突破框架的无限潜能与创造力；而 \"KEY\" 则象征解锁效能与进化的关键技术。两者结合便诞生了 NOVAKEY 这一兼具前瞻技术、大胆设计与 XPG 强悍性能的旗舰内存系列。NOVAKEY 外观延续品牌的斜切设计语言，导光条顶部由雾面黑",
-      "source": "IT之家",
-      "publishTime": "2026-05-05",
-      "link": "https://www.ithome.com/0/946/469.htm"
-    },
-    {
-      "id": "35703df8-2d23-8100-bf9f-c92ec30617fc",
-      "title": "Wall Street loves to team up when tech threatens its business",
-      "summary": "Finance giants are teaming up with OpenAI and Anthropic to help them spin up consulting arms. It's a classic strategy Wall Street has deployed before.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-05",
-      "link": "https://www.businessinsider.com/wall-street-partnership-playbook-for-ai-antropic-openai-2026-5"
-    },
-    {
-      "id": "35703df8-2d23-8194-902e-cbf826ad6897",
-      "title": "Remedy’s new boss says the Control studio will ‘double down’ on what makes it unique",
-      "summary": "It's a big year for Remedy Entertainment. Last year was marred by the ill-fated launch of the multiplayer shooter FBC: Firebreak, which was so disastrous it led to former CEO Tero Virtala stepping down from his position. Now, with the much-anticipated sequel Control Resonant slated for later in 2026",
-      "source": "The Verge",
-      "publishTime": "2026-05-05",
-      "link": "https://www.theverge.com/games/923962/remedy-ceo-statement-double-down"
-    },
-    {
-      "id": "35703df8-2d23-814d-a7e0-fd4d367708c3",
-      "title": "Tiny teams, no 'pure managers,' and AI: Coinbase's memo has all the classic ingredients of a 2026 layoff letter",
-      "summary": "\"Over the past year, I've watched engineers use AI to ship in days what used to take a team weeks,\" Coinbase CEO Brian Armstrong wrote.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-05",
-      "link": "https://www.businessinsider.com/coinbase-layoffs-ai-tiny-teams-no-pure-managers-2026-5"
-    },
-    {
-      "id": "35703df8-2d23-81f7-9bc4-d116109b0286",
-      "title": "十铨推出 JEDEC 标准 DDR5-8000 规格 ELITE 系列 UDIMM 内存条",
-      "summary": "IT之家 5 月 5 日消息，十铨科技 (Team Group) 今日宣布推出符合 JEDEC 规范的 ELITE PLUS DDR5 / ELITE DDR5 系列 8000MT/s 高传输速率标准台式机内存。IT之家注意到，这批内存采用 1.1V 标准电压，时序为 CL56-56-56-128，初期提供 16GB×2 规格，可凭借高稳定性和高性能满足用户在桌面平台进行学习、创作、娱乐等多元应用的需求。",
-      "source": "IT之家",
-      "publishTime": "2026-05-05",
-      "link": "https://www.ithome.com/0/946/468.htm"
-    },
-    {
-      "id": "35703df8-2d23-8173-a056-ce1ade20716e",
-      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-      "summary": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-05",
-      "link": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/"
-    },
-    {
-      "id": "35703df8-2d23-81d5-ba9c-dd26a2ddb48f",
-      "title": "Bose 推出 Lifestyle Ultra 系列音频产品：含回音壁 / 低音炮等、支持苹果隔空播放，299-1099 美元",
-      "summary": "IT之家 5 月 5 日消息，Bose 今天宣布重启 Lifestyle 子品牌，推出三款音频产品，定价为 299-1099 美元，IT之家整理规格如下：Bose Lifestyle Ultra 音箱定价：299 美元（IT之家注：现汇率约合 2045 元人民币）起该产品主打通用性，配备三个驱动单元，内置 Direct / Reflecting 扬声器技术及 TrueSpatial 音频处理技术，能够增强声音的高度和立体感。Bose Lifestyle Ultra 回音壁定价：1099 美元（现汇率约合 7517 元人民币）该产品采用全新声学架构，旨在从单个箱体中呈现影院级音效，其配备六个全频",
-      "source": "IT之家",
-      "publishTime": "2026-05-05",
-      "link": "https://www.ithome.com/0/946/467.htm"
-    },
-    {
-      "id": "35703df8-2d23-8178-9005-ec59ed6ec131",
-      "title": "Ukrainian pilots are breaking from Soviet-era tactics and learning to fly with a Western mindset, trainers say",
-      "summary": "Business Insider spoke with Royal Air Force instructors teaching Ukrainian pilots in early-stage F-16 training about how they learn to fly.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-05",
-      "link": "https://www.businessinsider.com/ukrainian-pilots-break-from-soviet-mindset-fly-with-western-thinking-2026-4"
-    },
-    {
-      "id": "35703df8-2d23-81b3-bd2c-e1cc686dcd73",
-      "title": "Researchers gaslit Claude into giving instructions to build explosives",
-      "summary": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability. Researchers at AI red-teaming company Mindgard say they got Claude to offer up erotica, maliciou",
-      "source": "The Verge",
-      "publishTime": "2026-05-05",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information"
-    },
-    {
-      "id": "35703df8-2d23-81b2-9c61-e345c2c04c4c",
-      "title": "Google’s AI architect lived rent-free in Elon Musk’s head",
-      "summary": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself. But one of the most prominent characters is hovering around the margins: Demis Hassabis, CEO of Google",
-      "source": "The Verge",
-      "publishTime": "2026-05-05",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind"
-    },
-    {
-      "id": "35703df8-2d23-811a-a41f-d9dfc91cc7e4",
-      "title": "This new AI model hears your tone, senses your mood, and talks back like a real human. Siri could never.",
-      "summary": "Inworld launches voice AI that detects tone and emotion in real time, making conversations with machines feel more natural and human",
-      "source": "Business Insider",
-      "publishTime": "2026-05-05",
-      "link": "https://www.businessinsider.com/ai-feels-how-you-speak-inworld-kylan-gibbs-2026-4"
-    },
-    {
-      "id": "35703df8-2d23-81d2-afab-e6f5909d2794",
-      "title": "Amazon bets Nobel Prize-based dehumidification can cut its energy use",
-      "summary": "Amazon will buy a new type of HVAC system for its commercial buildings to slash energy use.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-05",
-      "link": "https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/"
-    },
-    {
-      "id": "35703df8-2d23-81d6-8e23-d823f35e4c5f",
-      "title": "Inside the lab where Ford is trying to crack the code on cheap EVs",
-      "summary": "Ford isn't sending the clearest signals regarding its EV future. We got a glimpse of its Universal EV (UEV) Project last February, but then it pulled the plug on the F-150 Lightning, which is regarded as one of the more successful electric pickup trucks to date. The climate surrounding electric vehi",
-      "source": "The Verge",
-      "publishTime": "2026-05-05",
-      "link": "https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach"
-    },
-    {
-      "id": "35703df8-2d23-81bf-81f7-f308ee409b67",
-      "title": "沧野推出 C3 Mark I 玩具相机：可换 35/50mm 镜头、配过片扳手 / 30 万像素传感器，288 元起",
-      "summary": "IT之家 5 月 5 日消息，沧野宣布推出一款型号为 C3 Mark I 的玩具相机，定价为 288 元起，不过目前暂时无货，需等待官方补货。 该机整体造型类似于徕卡 0 系，外壳为注塑工艺，顶部零件为铝合金，使用可换镜头设计（官方称不借助工具的情况下镜头无法拆卸），可选等效 35 和 50mm 手动镜头，机身顶部具备过片扳手，同时提供了 2 英寸 320x240 分辨率 IPS 面板。该机搭载 30 万像素图像传感器，支持 RAW 拍摄，四档 ISO 可选，内置 1000 毫安内置电池，配备 USB-C 充电接口。IT之家附产品参数：",
-      "source": "IT之家",
-      "publishTime": "2026-05-05",
-      "link": "https://www.ithome.com/0/946/465.htm"
     }
   ],
   "macroEvents": [
