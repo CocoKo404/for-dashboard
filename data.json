@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-05-07 06:12",
+  "updatedAt": "2026-05-07 07:13",
   "news": [
+    {
+      "id": "35803df8-2d23-8109-a1fe-f614f537134f",
+      "title": "Jim Cramer says Big Tech cannot afford to be cheap on AI spending",
+      "summary": "Cloud computing giants cannot afford to pinch pennies on the artificial intelligence buildout, CNBC's Jim Cramer argued Wednesday.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-07",
+      "link": "https://www.cnbc.com/2026/05/06/jim-cramer-big-tech-cannot-afford-to-be-cheap-on-ai-spending.html"
+    },
+    {
+      "id": "35803df8-2d23-81df-a24b-c1067f1041c1",
+      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+      "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-07",
+      "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/"
+    },
+    {
+      "id": "35803df8-2d23-8132-9538-fd180d908a9d",
+      "title": "Anthropic CEO says 80-fold growth in first quarter explains 'difficulties with compute'",
+      "summary": "At Anthropic's developer conference in San Francisco, CEO Dario Amodei said the company is 'working as quickly as possible' to provide additional compute.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-07",
+      "link": "https://www.cnbc.com/2026/05/06/anthropic-ceo-dario-amodei-says-company-crew-80-fold-in-first-quarter.html"
+    },
+    {
+      "id": "35803df8-2d23-8132-ad18-c3f1df28fd73",
+      "title": "Nintendo announces a new Star Fox for the Switch 2",
+      "summary": "It turns out Fox McCloud's appearance in the Super Mario Galaxy Movie was a tease of things to come: Nintendo just surprise announced the first new Star Fox game in a decade. The game is called, simply, Star Fox, and it's out very soon, launching on June 25th. Nintendo says that it's \"based\" on the ",
+      "source": "The Verge",
+      "publishTime": "2026-05-07",
+      "link": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2"
+    },
+    {
+      "id": "35803df8-2d23-8151-8edc-fe1ae04636a0",
+      "title": "Shivon Zilis tells jury that Elon Musk was her twins' secret IVF donor — until Business Insider found out",
+      "summary": "Elon Musk's lawsuit against OpenAI's Sam Altman features Shivon Zilis as a key witness. Zilis discusses her ties to Musk and denies leaking info.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-07",
+      "link": "https://www.businessinsider.com/shivon-zilis-clears-the-air-around-her-relationship-with-elon-musk-2026-5"
+    },
+    {
+      "id": "35803df8-2d23-8143-a3f0-e860e84d676e",
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-07",
+      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/"
+    },
+    {
+      "id": "35803df8-2d23-8116-8db8-de9b64d56a3c",
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-07",
+      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/"
+    },
+    {
+      "id": "35803df8-2d23-813b-a5e9-e9e899b02665",
+      "title": "Is xAI a neocloud now?",
+      "summary": "xAI's real business may be more about building data centers than training AI models.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-07",
+      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/"
+    },
+    {
+      "id": "35803df8-2d23-812e-b863-f041c819a9bb",
+      "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
+      "summary": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for “visual cues,” such as height and bone structure.",
+      "source": "Wired",
+      "publishTime": "2026-05-07",
+      "link": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/"
+    },
+    {
+      "id": "35803df8-2d23-8145-bc93-d58698108fe4",
+      "title": "Google shuts down Project Mariner",
+      "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, ",
+      "source": "The Verge",
+      "publishTime": "2026-05-07",
+      "link": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down"
+    },
     {
       "id": "35803df8-2d23-814a-8a06-c42276e35404",
       "title": "DoorDash pops 12% on strong earnings, upbeat order growth guidance",
@@ -320,86 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-05-07",
       "link": "https://www.businessinsider.com/anthropic-dreaming-ai-agents-2026-5"
-    },
-    {
-      "id": "35803df8-2d23-8177-aa35-d69701aa4e37",
-      "title": "Jim Cramer warns this stock may have run up too much ahead of earnings",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-07",
-      "link": "https://www.cnbc.com/2026/05/06/jim-cramer-warns-this-stock-may-have-run-too-much-ahead-of-its-earnings.html"
-    },
-    {
-      "id": "35803df8-2d23-81d7-bb5b-cde543639ea3",
-      "title": "This slim ice cream maker could fit in my already crowded kitchen",
-      "summary": "For the past few months, I've defiantly walked past the Ninja Creami at Costco as I think about our air fryer, toaster oven, breadmaker, rice cooker, and stand mixer already vying for limited counter space. Nutribullet's new Chill ice cream maker could finally break my resolve with its smaller footp",
-      "source": "The Verge",
-      "publishTime": "2026-05-07",
-      "link": "https://www.theverge.com/tech/925124/nutribullet-chill-ice-cream-maker"
-    },
-    {
-      "id": "35803df8-2d23-8111-a8b9-d86ff7cf77fb",
-      "title": "Chrome on Android now supports approximate instead of precise location sharing",
-      "summary": "The new feature is a small win for Android users, as it gives them more control over how much location data they share with websites.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-06",
-      "link": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/"
-    },
-    {
-      "id": "35803df8-2d23-8187-bdf5-c456a3ea01f3",
-      "title": "夏尔马新官上任三把火，宣布下周将推新版 Xbox 主机开机动画及音效",
-      "summary": "IT之家 5 月 6 日消息，最近几乎天天都能出现关于微软 Xbox 的新闻，今天也不例外。Xbox CEO 阿莎 · 夏尔马宣布，Xbox 主机将在 5 月 13 日上线新的开机音效和开机动画。新的开机动画会展示新版 Xbox 标志，开机音效也会在现有版本基础上做出轻微调整。 微软上个月首次公布新版 Xbox 标志。随后，微软已经推出以新标志为主题的 Xbox 动态背景，也为 Xbox 玩家提供了头像。据IT之家了解，新版 Xbox 标志采用了更明显的玻璃质感。同时，微软也在部分内部下一代 Project Helix 材料中使用了这一设计。开机动画更新的消息发布前一天，夏尔马刚刚公布她接手 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-06",
-      "link": "https://www.ithome.com/0/947/021.htm"
-    },
-    {
-      "id": "35803df8-2d23-8124-af90-fccf6bbe394f",
-      "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-06",
-      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
-    },
-    {
-      "id": "35803df8-2d23-81be-a675-d678dfda25c3",
-      "title": "Hackers Hate AI Slop Even More Than You Do",
-      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
-      "source": "Wired",
-      "publishTime": "2026-05-06",
-      "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/"
-    },
-    {
-      "id": "35803df8-2d23-8128-a9eb-e68a914b897b",
-      "title": "I bought a 54-acre ranch to teach my kids self-reliance. Then I lost millions overnight and learned another lesson.",
-      "summary": "Brent Phillips bought a Texas ranch for himself and his family. When he lost millions in a stock crash, he began renting it out on Airbnb.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-06",
-      "link": "https://www.businessinsider.com/rented-texas-ranch-airbnb-after-losing-millions-2026-5"
-    },
-    {
-      "id": "35803df8-2d23-8172-a2e1-f42916177521",
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-06",
-      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/"
-    },
-    {
-      "id": "35803df8-2d23-8116-ae45-e1e211969e30",
-      "title": "The spike in gas prices is worsening the K-shaped economy",
-      "summary": "A new report from the Federal Reserve Bank of New York showed what higher prices at the gas pump mean for the K-shaped economy and low-income earners.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-06",
-      "link": "https://www.businessinsider.com/gas-prices-worsening-k-shaped-economy-research-2026-5"
-    },
-    {
-      "id": "35803df8-2d23-8178-bffc-ea6e34aeac4e",
-      "title": "These airlines have cut the most flights this summer as jet fuel prices skyrocket",
-      "summary": "Over a 10-day period, airlines removed over 75,000 flights from their summer schedules. Spirit Airlines and United Airlines canceled the most flights.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-06",
-      "link": "https://www.businessinsider.com/airlines-cutting-most-flights-summer-chart-graph-spirit-united-2026-5"
     }
   ],
   "macroEvents": [
