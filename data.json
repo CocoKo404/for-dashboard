@@ -1,6 +1,318 @@
 {
-  "updatedAt": "2026-05-08 08:13",
+  "updatedAt": "2026-05-08 11:58",
   "news": [
+    {
+      "id": "35a03df8-2d23-8195-80b3-c51bc4aa254d",
+      "title": "Win11 学院：如何阻止谷歌 Chrome 浏览器 147 静默下载 4GB 端侧 AI 模型",
+      "summary": "IT之家 5 月 8 日消息，科技媒体 NeoWin 昨日（5 月 7 日）发布博文，分享了通过修改注册表方式，在 Windows 11 系统上阻止 Chrome 浏览器下载 AI 模型（占用约 4GB）。IT之家此前报道，谷歌 Chrome 浏览器 147 版本为支持端侧 AI 模型 Gemini Nano，会静默下载 weights.bin 文件，空间占用约 4GB。这个 4GB 的模型在未经用户同意、通知或选择退出开关的情况下，安装在用户设备上，且删除该文件后，Chrome 还会悄悄重新下载模型。该媒体指出，可以通过修改 Windows 11 注册表方式，阻止谷歌 Chrome 浏览器下",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/544.htm"
+    },
+    {
+      "id": "35a03df8-2d23-81f0-a00b-e298112f1211",
+      "title": "红魔 11S Pro 新品发布会官宣定档 5 月 18 日，主打“风生水起 超频领先”",
+      "summary": "IT之家 5 月 8 日消息，红魔官方刚刚宣布，红魔 11S Pro 新品发布会将于 5 月 18 日 15∶00 举行，slogan 为“风生水起 超频领先”。根据此前爆料，全新红魔游戏平板 5 Pro、红魔 11S Pro+ 手机有望 6 月发布，这两款产品全部配备骁龙 8 Elite Gen 5 芯片 + 风冷 + 液冷 +PC / 掌机，平板有 OLED 屏幕，手机有肩键，号称“全面电竞”。据IT之家此前援引博主 @数码闲聊站 消息，红魔游戏平板 5 Pro 最新一版工程机搭载 9 英寸 2400*1504p OLED 屏幕，支持 185Hz 超高刷，搭载骁龙 8 Elite Gen ",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/543.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8131-8bbf-d80e044abd53",
+      "title": "《红色沙漠》开发商谈更新策略：以玩家为先、无固定路线图",
+      "summary": "IT之家 5 月 8 日消息，《红色沙漠》游戏目前销量已突破 500 万份，开发商珍艾碧丝发行主管 Will Powers 最近接受《华盛顿邮报》采访时谈到了他们的成功秘诀。Will Powers 表示，《红色沙漠》成功的核心在于团队能快速响应玩家诉求，并在没有事先公布路线图的情况下定期更新。公司不制定路线图是刻意而为之，因为他们不想被固定日期约束、也不做任何假设。他对此解释道：“我们的补丁和内容都是根据玩家反馈实时迭代的，如果你事先制定路线图就是在做假设，我们不会去猜玩家想要什么”。然而，珍艾碧丝（IT之家注：Pearl Abyss）也会回应玩家的创新。例如有玩家发现主角克里夫在空中快速移动",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/531.htm"
+    },
+    {
+      "id": "35a03df8-2d23-81a2-b541-ef66a5aa64c2",
+      "title": "英诺赛科胜诉：ITC 终裁确认可继续在美进口、销售 GaN 功率器件，不受英飞凌诉讼影响",
+      "summary": "IT之家 5 月 8 日消息，英诺赛科今日宣布，美国国际贸易委员会（ITC）在第 337‑TA‑1414 号调查中作出最终裁定，确认英诺赛科当前的氮化镓 GaN 功率器件产品未侵犯英飞凌的相关专利，并可不受限制地继续在美国进口和销售。IT之家注：英诺赛科是一家总部位于珠海的氮化镓类器件制造商，产品包括高低压氮化镓电源 IC、功率半导体等。2024 年底，英诺赛科在香港联合交易所主板挂牌上市，标志着国内氮化镓半导体第一股诞生。▲ 英诺赛科氮化镓产品ITC 全体委员一致同意英诺赛科现有产品未侵犯英飞凌的美国第 9,070,755 号专利（涉及电极设计）和第 9,899,481 号专利（涉及封装设计",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/529.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8168-ae59-e14a8a170eb6",
+      "title": "荣耀 600/Pro 海外发布：搭载高通骁龙 7 Gen4、骁龙 8 Elite",
+      "summary": "IT之家 5 月 8 日消息，据新华社今日报道，荣耀 5 月 6 日在土耳其伊斯坦布尔举行新品发布会，推出新一代荣耀 600 及荣耀 600 Pro 智能手机。这是荣耀公司 2026 年在土耳其第二次发布新品。据统计，2026 年一季度，荣耀公司在土耳其销量实现快速增长，单季表现已超 2025 年上半年总和。两款机型采用了类似的外观设计，采用 6.57 英寸 AMOLED 屏幕（1264x2728 像素，120Hz 刷新率，8000 尼特）；配备 6400mAh 大电池（符合欧洲标准），支持 80W 有线快充；后置 200MP 主摄，支持 OIS 光学防抖；支持 IP68 和 IP69K 防水",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/528.htm"
+    },
+    {
+      "id": "35a03df8-2d23-81f8-a9d8-cb18bbf3699f",
+      "title": "更多原相 PAW3955 传感器鼠标即将到来，雷神、黑爵宣布各自新品",
+      "summary": "IT之家 5 月 8 日消息，原相 (PixArt) 最近推出了新款旗舰“公版”电竞光学鼠标传感器 PAW3955，多家厂商陆续宣布了自家产品。最近加入这波浪潮的品牌是雷神 (THUNDEROBOT) 与黑爵 (AJAZZ)。其中雷神的产品归属炽刃 X7s 系列，搭载的传感器变体为 PAW3955 Turbo；黑爵则将推出集成 AI 功能的 AJ200 AI 飞梭版，使用 PAW3955 PRIME。IT之家整理目前已知原相 PAW3955 传感器鼠标如下：Akko 灵动 V9 Master；ATK 蜻蜓 A9 MINI 大师版 +；阿斯盾 G06 系列；黑爵 AJ200 AI 飞梭版；雷神炽",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/527.htm"
+    },
+    {
+      "id": "35a03df8-2d23-817e-98fe-d2f2f237b286",
+      "title": "小米汽车高层调整：宋钢分管生产与智能制造，曾在特斯拉任职担任上海工厂厂长",
+      "summary": "5 月 8 日上午消息，新浪科技独家获悉，小米汽车近日迎来人事调整，汽车部副总裁宋钢分管生产制造部、智能制造部、体系运营部。资料显示，宋钢曾在特斯拉任职，2018 年加入特斯拉上海超级工厂，历任生产制造高级总监、生产制造副总裁及上海工厂厂长，并主导建立了特斯拉上海储能超级工厂。2024 年，他加入远景能源担任集成供应链高级副总裁；今年 4 月，宋钢出任小米集团汽车部副总裁、参谋长。此次宋钢分管生产制造部、智能制造部、体系运营部，则是干起了在特斯拉的老本行，他将向集团 CEO、汽车部总裁雷军直接汇报，同时宋钢继续兼任汽车部参谋长。",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/526.htm"
+    },
+    {
+      "id": "35a03df8-2d23-81b3-968f-ffdcb567208a",
+      "title": "谷歌 Pixel 12 系列手机自研芯片 Tensor G7 曝光：代号 Lajolla，改进版 2nm 工艺",
+      "summary": "IT之家 5 月 8 日消息，消息源 mysticleaks 昨日（5 月 7 日）在 Telegram 平台上爆料，称在 2027 年登场的 Pixel 12 系列手机中，谷歌将继续搭载自研 Tensor G7 芯片，内部代号为“Lajolla”。IT之家援引博文介绍，谷歌继续推进自研手机芯片路线，不会采用第三方旗舰芯片，而代号名称可能源自加利福尼亚州圣地亚哥的 La Jolla 地区。规格方面，目前关于 Tensor G7 的信息较少，不过基于现有线索，预估该芯片采用台积电的 2nm 工艺。谷歌的 Tensor G6 预估是谷歌首款采用台积电 2nm 工艺的芯片，而 Tensor G7 有",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/524.htm"
+    },
+    {
+      "id": "35a03df8-2d23-815d-864e-e96cc9ccc6ab",
+      "title": "小米汽车加码出海：副总裁于立国兼任海外业务筹备组组长，直接向雷军和卢伟冰双线汇报",
+      "summary": "5 月 8 日上午消息，新浪科技独家获悉，小米汽车近日迎来人事调整，汽车部副总裁于立国兼任海外业务筹备组组长。资料显示，于立国曾担任北汽极狐事业部总裁。加入小米汽车后，2022 年 1 月，于立国先是担任小米汽车副总裁兼小米汽车北京总部政委，负责统筹小米汽车综合管理工作、专项业务推进以及小米汽车北京总部组织和人才建设；同年 8 月，于立国兼任小米汽车产品部总经理，负责小米汽车产品定义和产品线的管理工作；2025 年，于立国分管智能制造部、工厂、体系运营部。此次，于立国兼任海外业务筹备组组长后，将向集团 CEO、汽车部总裁雷军和集团总裁卢伟冰双线汇报。目前，小米汽车正在加速出海布局，根据小米集团",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/523.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8166-a4be-cb589ffac823",
+      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+      "source": "Wired",
+      "publishTime": "2026-05-08",
+      "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/"
+    },
+    {
+      "id": "35a03df8-2d23-8147-8c72-c6d8ac89c0e2",
+      "title": "宏碁海外发布 Iconia iM11 5G 平板：天玑 7050 芯片、11.45 英寸 IPS 屏幕",
+      "summary": "IT之家 5 月 8 日消息，宏碁现已在海外市场推出 Iconia iM11 5G 平板，新品定位中端，支持 5G 移动数据网络。据介绍，这款平板搭载 11.45 英寸 IPS 屏幕，分辨率为 2200*1440 像素，最高亮度可达 450 尼特。拥有四扬声器系统，适合观影等多媒体应用。规格方面，这款平板配备联发科天玑 7050 芯片，包含四个 A78 核心和四个 A55 核心，拥有 8GB 内存和 128GB 存储空间，带有双实体 SIM 卡槽和 microSD 卡槽，最高可扩容至 1TB，支持 5G 蜂窝网络。此外，这款平板内置 7400mAh 电池，支持 18W 充电，出厂预装 Andr",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/518.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8151-a569-f06502d7ce0e",
+      "title": "焕新极氪 009 MPV 官宣 5 月 19 日上市，5 月 9 日开启试驾",
+      "summary": "IT之家 5 月 8 日消息，极氪今日官宣，新一代旗舰 MPV · 焕新极氪 009 将于 5 月 9 日全面开启试驾，5 月 19 日上市。焕新极氪 009 已在 2026 北京车展上开启预售，提供七座 Ultra 版、七座 Ultra+ 齐家版、六座 Ultra+ 行政版三种配置。IT之家汇总新车主要的配置信息如下：七座 Ultra 版：全栈 800V 高压架构，电机功率 310kW，搭载 108kWh 麒麟电池；配备闭式双腔空悬、二排双零重力座椅、限免 Naim 殿堂之声音响系统等，内置英伟达 DRIVE Thor-U 辅助驾驶芯片和千里浩瀚 H7 G-ASD 辅助驾驶系统。七座 Ult",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/516.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8193-90ba-c480516c6aae",
+      "title": "联力推出 DK-07 WOOD 电脑桌：桌面采用深色胡桃木",
+      "summary": "IT之家 5 月 8 日消息，联力 (LIAN LI) 现已推出 DK-07 WOOD 电脑桌。这一型号在原版 DK-07 的基础上将桌面替换为深色胡桃木，“在温暖、耐用性和性能之间实现了完美的平衡”，“无论是工作还是娱乐都能轻松应对”。DK-07 WOOD 至多可容纳 2 套 E-ATX 系统（具备 2 组前置 I/O 面板），支持显卡垂直安装，具有可拆卸主板托架和滑动式前面板。其可承受高达 100kg 的均匀分布质量，高度能在 676~1162mm 调整，桌面集成 LED 显示控制单元、无线充电板，两侧设有集成抽屉，还提供了两处线孔理线槽。联力的 DK-07 WOOD 电脑桌建议零售价为 ",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/512.htm"
+    },
+    {
+      "id": "35a03df8-2d23-81fb-afe0-f943fce87af5",
+      "title": "商汤发布日日新 SenseNova 6.7 Flash-Lite 多模态模型，Token Plan 限时免费",
+      "summary": "IT之家 5 月 8 日消息，商汤科技今日宣布，推出新一代轻量化多模态智能体模型商汤日日新 SenseNova 6.7 Flash-Lite。同时，SenseNova Token Plan 限时免费开放，全线办公技能 SenseNova-Skills 同步在 GitHub 开源。官方表示，SenseNova 6.7 Flash-Lite 专为“真实世界工作流”而生，采用原生多模态架构，能够像人类一样，能直接“看懂”复杂的网页布局、文档结构与财务图表，实现“看、想、做”一体化，可大幅提升数据分析、深度调研、PPT 生成等长链路复杂任务的成功率。同时在取消了视觉转文本中间层后，它能以更小的参数量，",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/507.htm"
+    },
+    {
+      "id": "35a03df8-2d23-811e-b32a-c3619be16e4b",
+      "title": "黄牛囤货致 Steam Controller 手柄秒空，Valve 出手整治",
+      "summary": "IT之家 5 月 8 日消息，Valve 昨日（5 月 7 日）发布公告，为了打击 Steam Controller 黄牛囤货炒作行为，推出预约队列系统，要求账户在 2026 年 4 月 27 日前有消费记录且状态良好，每人限购一台并在 72 小时内完成支付。Steam Controller 手柄于北京时间 5 月 5 日凌晨 1 点发售，定价 99 美元（IT之家注：现汇率约合 674.8 元人民币）。但首发过程并不顺利，商店出现技术故障，库存几乎瞬间耗尽，大量用户因此错失购买机会。IT之家曾于 5 月 6 日报道，这款手柄在 Steam 平台上架后很快售罄，黄牛党迅速借机炒作，已确认成交的",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/503.htm"
+    },
+    {
+      "id": "35a03df8-2d23-814c-a0b3-ea4243c3728b",
+      "title": "Instagram privacy tech is turned off today- what does this mean for your DMs?",
+      "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-08",
+      "link": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "35a03df8-2d23-81b8-96d3-c22ddce00cc3",
+      "title": "OpenAI 诉讼案牵出“72 小时 CEO”：当事人埃米特 · 希尔自嘲被网友玩梗，马斯克回应",
+      "summary": "5 月 8 日，据《商业内幕》报道，2023 年，当 OpenAI 董事会短暂罢免 CEO 萨姆 · 奥尔特曼 (Sam Altman) 时，曾任命前直播平台 Twitch CEO 埃米特 · 希尔 (Emmett Shear) 为临时 CEO。但是仅仅 72 小时后，奥尔特曼重新出任 OpenAI CEO。图 1：希尔曾短暂担任 OpenAI CEO现在，埃隆 · 马斯克 (Elon Musk) 起诉奥尔特曼的诉讼，再次把希尔推到了聚光灯下。这场诉讼披露了时任 OpenAI 首席技术官米拉 · 穆拉蒂 (Mira Murati) 与奥尔特曼的短信交流记录。当穆拉蒂得知希尔被任命为临时 CEO",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/502.htm"
+    },
+    {
+      "id": "35a03df8-2d23-81d0-be6a-cde073a7bbdc",
+      "title": "Anthropic 成立 AI 研究院，聚焦四大方向开展 AI 社会影响研究",
+      "summary": "IT之家 5 月 8 日消息，美国人工智能公司 Anthropic 昨天宣布成立 AI 研究院（The Anthropic Institute，TAI），主要研究 AI 对世界的影响。IT之家在此援引官网新闻稿，Anthropic 的研究议程主要聚焦在经济扩散、威胁与心理弹性、现实环境 AI 系统和 AI 驱动研发四个方向。公司将从前沿实验室角度发布研究结果，帮助外部组织、政府和公众在 AI 开发上作出更明智的决策。同时，TAI 的研究将影响 Anthropic 的决策，公司可能向外界分享原本不会公开的数据（如经济指数），或在技术发布方式上采取不同方法。此外，Anthropic 还邀请业界有识",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/500.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8187-b8d7-f6932953b5da",
+      "title": "微信未读语音消息由红变灰被吐槽，腾讯客服回应称 iOS 端逐步开放",
+      "summary": "IT之家 5 月 8 日消息，多位网友日前发帖称，更新微信版本后，未读的语音消息显示为灰色而非红色，有网友吐槽，“会经常以为语音消息已读了”。腾讯客服对此回应称：关于未读语音消息的显示问题，请您确保使用的是微信官方最新版本。在 iOS 客户端，该功能正在逐步开放中，若您未看到未读标识，可能是暂未获得灰度权限，建议稍后再尝试。安卓客户端的该功能仍在开发中，暂时无法使用。同时，请检查手机系统设置中是否允许微信使用麦克风权限，若有相关权限限制也可能影响消息正常显示。大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/499.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8131-9166-e3356dc3adc8",
+      "title": "2.5 亿月活用户支撑，微软 Win11 应用商店免除 99 美元企业开发者注册费",
+      "summary": "IT之家 5 月 8 日消息，微软昨日（5 月 7 日）发布公告，宣布调整微软应用商店（Microsoft Store），为了降低企业入驻门槛，宣布取消公司开发者账户 99 美元（IT之家注：现汇率约合 674.8 元人民币）的注册费。微软应用商店月活跃用户已超 2.5 亿，支持 Win32、UWP、PWA 等多种应用架构。微软去年已免除个人开发者注册费用，而现在为了进一步降低企业入驻门槛，现在取消公司开发者账户也能零成本发布应用。微软商店发布政策更新配图微软为解决以往身份割裂的问题，在注册流程中引入 Microsoft Entra ID 支持，企业可直接使用工作账户创建开发者账号，让账号从创",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/497.htm"
+    },
+    {
+      "id": "35a03df8-2d23-81a0-8b70-d32dc4e3fc81",
+      "title": "微软《帝国时代 4》上线“岳飞传奇”中国战役 DLC，Steam 国区 88 元",
+      "summary": "IT之家 5 月 8 日消息，微软旗下即时战略游戏《帝国时代 4》的全新 DLC《岳飞传奇》于 5 月 8 日正式发售，Steam 国区定价为 88 元。该 DLC 上市后，目前在 Steam 平台上的整体玩家评价为“褒贬不一”，部分玩家认为 DLC 的整体内容体量偏小，不值这个价。该 DLC 以南宋初年为背景，玩家将亲历岳飞与将领韩世忠护送年幼宋皇子逃离金军追击并集结力量为王朝存续而战的故事。官方表示，《岳飞传奇》灵感源于历史事件，但为了游戏性进行了一定程度的艺术加工。内容方面，该 DLC 包含由 8 个任务组成的叙事战役，涉及黄天荡之战、德安之战等历史事件，并新增了 4 张地图和 2 种生",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/498.htm"
+    },
+    {
+      "id": "35a03df8-2d23-811a-b409-f0e962e5403b",
+      "title": "韶音 OpenDots 2 耳夹耳机开售：IP57、杜比音效，1298 元",
+      "summary": "IT之家 5 月 8 日消息，韶音 OpenDots 2 耳夹耳机今日 10:00 正式开售，到手价 1298 元。韶音 OpenDots 2 耳夹耳机升级柔韧钛片，优化宽厚比，动钛弧自带 9g 预紧力，采用不对称弧形设计；内置 11.8mm 对称双单元，失真相比上一代优化 70%；搭载全新升级杜比音效。韶音 OpenDots 2 耳夹耳机有白金缮、黑芒星、银雪松三种颜色可选；不区分左右耳，搭载内置 AI 通话降噪技术；支持无线充电，耳机续航 10 小时，搭配充电盒续航 40 小时。韶音 OpenDots 2 耳夹耳机支持 IP57 级防尘防水，升级蓝牙 6.1，支持双设备连接，IT之家附这款",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/495.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8135-9a3f-f10ceaa5d950",
+      "title": "鸿蒙智行尚界 Z7 / Z7T 试驾车已到全国 128 城市 600+ 店，售价 21.98 万元 / 22.98 万元起",
+      "summary": "IT之家 5 月 8 日消息，尚界汽车官方今日宣布，即日起，尚界 Z7 与尚界 Z7T 在全国超 600 家门店均可预约试驾，两款新车售价分别为 21.98 万元 / 22.98 万元起。IT之家附已到店城市信息如下：北京上海天津重庆浙江：杭州、湖州、嘉兴、金华、丽水、宁波、衢州、绍兴、台州、温州、舟山江苏：常州、淮安、连云港、南京、南通、苏州、泰州、无锡、宿迁、徐州、盐城、扬州、镇江广东：东莞、佛山、广州、河源、江门、揭阳、韶关、深圳、中山、珠海安徽：安庆、蚌埠、池州、滁州、阜阳、合肥、六安、芜湖福建：福州、宁德、泉州、厦门甘肃：兰州广西：桂林、柳州、南宁贵州：贵阳、遵义海南：海口河北：保定",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/496.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8158-bd86-e709c15f6d97",
+      "title": "联想小新 Air 轻薄本 5 月 19 日三款齐发，分别为 13 / 14 / 15 版本",
+      "summary": "IT之家 5 月 8 日消息，联想小新昨日宣布将在 5 月 19 日的 2026 天禧 AI 一体多端全场景新品超能之夜上推出三款 Air 系列轻薄笔记本新品，分别是此前已有提及的小新 Air 14 2026 和此次首度公布的小新 Air 13 / 15 2026。IT之家注意到，联想在全球官网的 PSREF 站点近期上架了多款 IdeaPad 笔电新品，包括 14 / 15 / 16 / 17 尺寸的 IdeaPad Slim IWC11（均基于英特尔酷睿 300 \"Wildcat Lake\" 处理器）。而 13 尺寸的最新“11 代”IdeaPad 产品则是基于高通骁龙 X2 Plus 家",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/494.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8122-bf28-d1d843f753f7",
+      "title": "苹果 Apple Watch 全系加入教育优惠，最高便宜 700 元",
+      "summary": "IT之家 5 月 8 日消息，自 2026 年 5 月 8 日起，苹果 Apple Watch 加入教育优惠范围，消费者可在 Apple 在线教育商店和全球 Apple Store 零售店以教育优惠价购买（点此购买）。教育优惠仅在 Apple Store 零售渠道提供，可帮助符合条件的顾客在购买新 Mac 或 iPad 以及软件和服务（如 Apple Creator Studio、AppleCare 和 Apple Music）时节省更多。Apple Watch 通过多项核心功能，包括“健身记录”App、支持跟测众多体能训练项目的“体能训练”App，以及“睡眠评分”这样的睡眠跟踪功能，鼓励用户",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/492.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8110-9f12-f23c470d34b5",
+      "title": "Dirty Frag 漏洞链曝光：几乎影响所有主流 Linux 发行版，可提权至 root",
+      "summary": "IT之家 5 月 8 日消息，科技媒体 cyberkendra 昨日（5 月 7 日）发布博文，就在 Copy Fail 高危漏洞曝光后没几天，又一个重磅 Linux 内核漏洞链 Dirty Frag 被披露，几乎影响所有主流 Linux 发行版。该漏洞链由韩国安全研究员 Hyunwoo Kim 发现，通过串联 xfrm-ESP 和 RxRPC 两个独立漏洞，让本地用户直接获取 root 权限。目前尚无 CVE 编号，各发行版也未发布修复补丁。攻击者通过串联 Dirty Frag 漏洞链，利用 Linux 内核的页缓存机制，无需文件写权限，就能让内核覆写内存中的文件副本。与传统竞态条件漏洞不同",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/490.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8183-a6ed-c7663f706e88",
+      "title": "小米 17 Max 新机通过 3C 认证：支持 100W 闪充，预计本月下旬发布",
+      "summary": "IT之家 5 月 8 日消息，昨天有一款型号为 2605EPN8EC 的小米新机通过了国家 CCC 质量认证，经 @数码闲聊站 确认为即将发布的小米 17 Max。3C 认证显示，这款新机将标配 MDY-18-EW 电源适配器（小米 17 原装充电器），支持 100W 闪充。结合此前爆料，这款新机将搭载高通第五代骁龙 8 至尊版平台，采用 6.9 英寸 1.5K 四等窄直屏、200Mp 主摄 +50Mp 长焦微距、大师级对称双扬、8000mAh 级电池、3D 超声波指纹、满级防水，暂定 5 月下旬发布。IT之家后续将保持关注。相关阅读：《8E5 大屏旗舰手机被曝暂定 5 月下旬，预计为小米 1",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/491.htm"
+    },
+    {
+      "id": "35a03df8-2d23-815c-837a-cb1dbd86dcf3",
+      "title": "向 AI 优先运营模式转型，Cloudflare 裁员超 1100 人",
+      "summary": "IT之家 5 月 8 日消息，据路透社报道，美国科技企业 Cloudflare 昨天宣布裁员 20%，原因是转型 AI 优先运营模式。据报道，Cloudflare 本次将裁员超 1100 人。公司 CEO Matthew Prince 在声明中表示，这次裁员并非单纯的降本增效，而是证明公司转向 AI 驱动运营模式。Cloudflare 的 AI 使用量已在三个月内增长超 600%。这名 CEO 解释道：“我们公司的工程师、HR、财务员工，每天运行数千次 AI 智能体对话完成工作，这意味着我们必须为智能体时代重新设计公司架构”。截至去年年底，Cloudflare 一共有 5156 名全职员工。公",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/489.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8129-bf38-ea88a0309fb4",
+      "title": "三模 + 分体：Keychron 推出 Q11 Ultra 8K 机械键盘",
+      "summary": "IT之家 5 月 8 日消息，Keychron（渴创）现已上线 Q11 Ultra 8K 机械键盘。这一型号是对此前 Q11 的一次全面升级，在保留分体式 75% 配列的同时提供了三模连接支持，还取消了左右两部分之间的数据线，让使用体验更为自由。Q11 Ultra 8K 搭载 ZMK 固件，集成 300hr 续航 4000mAh 电池。其拥有 CNC 工艺铝合金机身，内部为 6 层声学阻尼、PC 定位板，PCB 支持轴体热插拔并具有南向 RGB 背光，预装 Keychron Silk POM 系列轴体、KSA 高度 PBT 材质二色注塑工艺键帽，支持 8kHz 回报率。Keychron Q11",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/488.htm"
+    },
+    {
+      "id": "35a03df8-2d23-81b7-8667-f96f0ed94e6c",
+      "title": "候任 CEO 特努斯定调苹果 AI 战略：不追求营销噱头，专注用户体验",
+      "summary": "IT之家 5 月 8 日消息，科技媒体 9to5Mac 昨日（5 月 7 日）发布博文，苹果候任首席执行官（2026 年 9 月生效）约翰 · 特努斯（John Ternus）阐明 AI 战略，强调苹果从不考虑单纯“发布技术”，而是聚焦于利用技术为用户提供出色的产品体验。IT之家援引博文介绍，在 iOS 27 预计将带来重大 AI 更新的背景下，特努斯明确表示，苹果从不考虑单纯“发布技术”，而是聚焦于如何利用技术为用户带来出色的产品、功能和体验。该媒体解读认为，这一观点直击当前科技行业的痛点，许多公司为追赶 AI 浪潮，往往在未验证用户体验前便匆忙发布新技术。特努斯强调，苹果公司避免陷入这一陷",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/487.htm"
+    },
+    {
+      "id": "35a03df8-2d23-815b-ab0e-cd7a7fd4849e",
+      "title": "派早报：Google 发布 Fitbit Air 等",
+      "summary": "高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-05-08",
+      "link": "https://sspai.com/post/109489"
+    },
+    {
+      "id": "35a03df8-2d23-81c7-8cae-c53987d23833",
+      "title": "HubSpot Forecasts Slowing Quarterly Sales Growth, Shares Drop 20%",
+      "summary": "Shares of HubSpot dropped more than 20% after its March quarter earnings, as some investors seemed to be unimpressed by its revenue forecast for its current quarter and full fiscal year. HubSpot’s revenue grew 23% to $881 million during the quarter compared to last year, around $20 million more ...",
+      "source": "The Information",
+      "publishTime": "2026-05-08",
+      "link": "https://www.theinformation.com/briefings/hubspot-forecasts-slowing-quarterly-sales-growth-shares-drop-20"
+    },
+    {
+      "id": "35a03df8-2d23-81f8-909b-e9f83f61197e",
+      "title": "Omdia：IJP 工艺可为笔记本电脑 OLED 显示面板降低 30~35% 成本",
+      "summary": "IT之家 5 月 8 日消息，研调机构 Omdia 英国当地时间 7 日表示，根据其最新研究，IJP（喷墨打印 / 印刷）OLED 在笔记本电脑显示面板上相较传统 FMM（精细金属掩模版）工艺可带来 30~35% 的成本优势。Omdia 指出，IJP 工艺支持全尺寸基板加工，而 FMM 通常需要对前板进行对半切割，这一过程会产生颗粒，从而降低工艺效率且浪费宝贵的玻璃面积。对于 G8.6 基板而言，使用 IJP 工艺可生产出 66 片 16.3\" OLED 屏幕，比 FMM 多出 10%。同时，IJP 路径在 RGB 子像素图案化上具有诸多优势，包括更高的材料利用率、更好的柔韧性、更优的面板化能",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/486.htm"
+    },
+    {
+      "id": "35a03df8-2d23-81c2-97d7-c453400cb835",
+      "title": "昆仑芯启动科创板 IPO 上市辅导，百度持股 57.67%",
+      "summary": "IT之家 5 月 8 日消息，根据证监会官网披露的信息，昆仑芯（北京）科技股份有限公司于 2026 年 5 月 7 日正式启动科创板上市辅导，辅导机构为中国国际金融股份有限公司。实际上，这并非昆仑芯首次传出上市消息。早在 2026 年 1 月 1 日，昆仑芯便已通过联席保荐人以保密形式向香港联交所提交 A1 上市申请表格，申请在港交所主板挂牌。1 月 2 日，百度对外公告了该事项，港交所已确认百度可进行建议分拆，分拆完成后，昆仑芯预计仍为百度的附属公司。公开资料显示，昆仑芯的前身为百度智能芯片及架构部，最早可追溯至 2011 年百度对 AI 加速计算的早期布局。2018 年，百度推出昆仑 1 ",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/484.htm"
+    },
+    {
+      "id": "35a03df8-2d23-816d-b4df-ee9d1269016b",
+      "title": "消息称软银与英伟达、富士康磋商，拟开发“日本制造”AI 服务器",
+      "summary": "IT之家 5 月 8 日消息，据路透社今天报道，软银公司已开始与英伟达和富士康进行讨论，评估“日本制造”AI 服务器计划是否可行。据报道，软银首先计划通过组装外购组件建立生产系统，随后在 2029 年以前逐步掌握 AI 服务器制造流程。同时，软银将打造具备高级图形处理单元（GPU）的高性能服务器。目前公司已将该蓝图纳入中期经营计划，预计最快将在下周一官宣。值得注意的是，软银 CEO 孙正义迄今为止已向 AI 巨头 OpenAI 投资超 300 亿美元（IT之家注：现汇率约合 2044.77 亿元人民币），表明其正在大型语言模型（LLM）开发商的竞争中“全力下注”，希望成为最终赢家。",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/483.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8115-8dd4-e1900493791e",
+      "title": "OpenAI 最智能 AI 语音模型：GPT-Realtime-2 登场，GPT-5 级推理能力",
+      "summary": "IT之家 5 月 8 日消息，OpenAI 发布三款实时语音模型，分别针对推理、翻译和转录场景，集成于 Realtime API 供开发者调用。这三款模型为实时语音应用提供底层技术支撑，目标解决语音交互中的延迟、打断处理和多语言支持难题。GPT-Realtime-2 专为实时交互设计，是首款具备 GPT-5 级推理能力的语音模型。它在保持对话自然流畅的前提下，能在对话过程中进行推理、调用工具，并处理用户的打断或纠正。这意味着开发者可以构建更复杂的语音助手，并能执行多步骤任务。定价方面，GPT-Realtime-2 音频输入定价为每百万 Token 费用 32 美元（IT之家注：现汇率约合 21",
+      "source": "IT之家",
+      "publishTime": "2026-05-08",
+      "link": "https://www.ithome.com/0/947/482.htm"
+    },
+    {
+      "id": "35a03df8-2d23-817b-a912-fa946c27a374",
+      "title": "The Problem With Fast Follows",
+      "summary": "How soon is too soon to raise a new funding round?I’ve been covering venture capital long enough (more than a decade!) to remember that the hottest startups used to raise financing every 12-18 months. Then it was 9-12 months. Then 6-9 months. And now…two months? Two weeks? Recently, a wave of both e",
+      "source": "The Information",
+      "publishTime": "2026-05-08",
+      "link": "https://www.theinformation.com/articles/problem-fast-follows"
+    },
+    {
+      "id": "35a03df8-2d23-8134-9be5-f06552d51c5d",
+      "title": "Musk’s Legal Expert Says OpenAI Foundation Should Have “A Lot More” Than $200 Billion",
+      "summary": "Elon Musk’s team called the former dean of Columbia Law School to testify Thursday in his lawsuit against OpenAI that the ChatGPT maker acted in several ways inconsistent with nonprofit customs. David Schizer, who served as dean from 2004 to 2014 and specializes in tax and nonprofit law, ...",
+      "source": "The Information",
+      "publishTime": "2026-05-08",
+      "link": "https://www.theinformation.com/briefings/musks-legal-expert-says-openai-foundation-lot-200-billion"
+    },
+    {
+      "id": "35a03df8-2d23-8181-b780-c2304ac86530",
+      "title": "CoreWeave’s Balancing Act",
+      "summary": "If you’re getting dizzy watching CoreWeave’s balancing act, you’re not alone. The AI cloud startup reported first-quarter numbers Thursday evening showing that its business is ramping up quickly—revenue doubled in the quarter to $2 billion compared to the year-earlier period—but its investment spend",
+      "source": "The Information",
+      "publishTime": "2026-05-08",
+      "link": "https://www.theinformation.com/articles/coreweaves-balancing-act"
+    },
     {
       "id": "35903df8-2d23-811c-bbcb-f547674185c5",
       "title": "特斯拉 Model Y 成首款通过美国辅助驾驶安全测试车型",
@@ -24,6 +336,14 @@
       "source": "IT之家",
       "publishTime": "2026-05-08",
       "link": "https://www.ithome.com/0/947/463.htm"
+    },
+    {
+      "id": "35a03df8-2d23-8169-8406-e5e75131d16c",
+      "title": "Ex-OpenAI Researcher’s Six-Week-Old Startup Targets Funding at $4 Billion Valuation",
+      "summary": "Nvidia’s investment spree in startups that use its AI chips has stoked traditional venture capital firms’ interest in those companies. That has paved the way for brand-new startups taking on Anthropic and OpenAI to raise back-to-back funding rounds, sometimes in a matter of weeks. In the latest exam",
+      "source": "The Information",
+      "publishTime": "2026-05-08",
+      "link": "https://www.theinformation.com/articles/ex-openai-researchers-six-week-old-startup-targets-funding-4-billion-valuation"
     },
     {
       "id": "35903df8-2d23-810d-9b0e-d28b6d71ba00",
@@ -80,326 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-05-08",
       "link": "https://www.ithome.com/0/947/457.htm"
-    },
-    {
-      "id": "35903df8-2d23-813c-97d1-d399587c3929",
-      "title": "消息称微软 Xbox 掌舵人阿莎 · 夏尔马发出承诺：每两周发布一次 Xbox 更新，修复基础功能",
-      "summary": "IT之家 5 月 8 日消息，据科技媒体 Windows Central 今天报道，自阿莎 · 夏尔马（IT之家注：Asha Sharma）接任 Xbox 掌舵人以来，她一直在强化品牌核心。目前外界已经看到她终止“Microsoft Gaming”品牌、让 XGP 大幅降价、带来成就系统更新。几周前，阿莎 · 夏尔马发布了 Xbox 未来的宏大宣言，称要把 Xbox 打造成全球玩家的平台，并列出品牌未来四大前进方向：硬件、内容、体验、服务。这四个关键词是她主持的一次 40 分钟全公司会议的核心。据消息人士透露，夏尔马在会议中表示：“我们看到现状，我们还有许多工作要做。玩家们对我们感到失望，认为",
-      "source": "IT之家",
-      "publishTime": "2026-05-08",
-      "link": "https://www.ithome.com/0/947/456.htm"
-    },
-    {
-      "id": "35903df8-2d23-815c-87ec-f999908d1926",
-      "title": "苹果首款 AI 可穿戴设备：内置摄像头的 AirPods 已进入 DVT 阶段，预计最快 9 月搭载新 Siri 亮相",
-      "summary": "IT之家 5 月 8 日消息，彭博社马克 · 古尔曼今日报道称，传闻已久的内置摄像头的 AirPods 已进入开发后期阶段，有望成为苹果首款 AI 可穿戴设备，标志着其在 AI 硬件领域迈出重要一步。知情人士透露，该项目已进入设计验证测试（DVT）阶段，原型产品的外形设计和功能已接近最终版本。如此前爆料，这款耳机中搭载的摄像头并非用于拍照或录制视频，而是充当 Siri 的“眼睛”—— 左右耳机均配备低分辨率摄像头，旨在捕捉用户周围环境中的视觉信息。除耳机柄因容纳摄像头而略微加长外，其整体外观与 AirPods Pro 3 相似。▲ AirPods Pro 3古尔曼提到，苹果原计划最早于 202",
-      "source": "IT之家",
-      "publishTime": "2026-05-08",
-      "link": "https://www.ithome.com/0/947/455.htm"
-    },
-    {
-      "id": "35903df8-2d23-8184-8ec4-f2106e72ecee",
-      "title": "Jim Cramer says the AI boom has 'the power to keep the country's economy humming'",
-      "summary": "CNBC's Jim Cramer said he's confident in the power of the artificial intelligence boom to keep driving stocks higher, despite short pullbacks.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/jim-cramer-ai-boom-stock-market-impact.html"
-    },
-    {
-      "id": "35903df8-2d23-8177-a4b1-f2874aa04d9d",
-      "title": "'Directionally very bad' has entered the lexicon, thanks to Sam Altman and Mira Murati",
-      "summary": "Resurfaced texts between Sam Altman and Mira Murati, shown as exhibits in the OpenAI trial underway in San Francisco, have become memes.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-08",
-      "link": "https://www.businessinsider.com/sam-altman-mira-murati-elon-musk-trial-text-memes-2026-5"
-    },
-    {
-      "id": "35903df8-2d23-814a-bc78-d355e469e930",
-      "title": "Nvidia CEO says AI partnership with Corning will 'revitalize American manufacturing'",
-      "summary": "Nvidia CEO Jensen Huang highlighted his company's partnership with Corning as an opportunity to reinvest in American manufacturing.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/nvidia-ceo-ai-partnership-corning-revitalize-american-manufacturing.html"
-    },
-    {
-      "id": "35903df8-2d23-8117-b892-e3524020060c",
-      "title": "Corning CEO to Cramer: Deals with 2 unnamed hyperscalers 'larger' than $6B Meta pact",
-      "summary": "The investment story for Corning looks even sweeter in the wake of Jim Cramer's sit-down with CEO Wendell Weeks.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/corning-ceo-to-cramer-deals-with-2-unnamed-hyperscalers-larger-than-6b-meta-pact.html"
-    },
-    {
-      "id": "35903df8-2d23-81c6-89de-cf7685981b93",
-      "title": "OpenAI 为 ChatGPT 推出“可信联系人”，应对 AI 对话中的自残风险",
-      "summary": "IT之家 5 月 8 日消息，据科技媒体 TechCrunch 昨天报道，OpenAI 现已为 ChatGPT 推出“可信联系人”新功能，当用户对话中出现自残相关内容时，可鼓励成年用户主动联系他人，并向联系人自动发送提醒，让他们多一分沟通。IT之家在此援引 TechCrunch，此前 OpenAI 曾面临多起诉讼，原告指控 ChatGPT 鼓励他们的亲人自杀，甚至协助其制定自杀计划。目前，OpenAI 采用自动审核与人工复核两种方式处理潜在自残、自杀事件。当对话触发提醒系统后，信息会被转交给人工安全团队。官方表示，每当收到此类通知时都会人工审核，力求一小时内完成相关工作。如果公司内部判定用户存",
-      "source": "IT之家",
-      "publishTime": "2026-05-08",
-      "link": "https://www.ithome.com/0/947/454.htm"
-    },
-    {
-      "id": "35903df8-2d23-815e-b8a8-ea740fc106b8",
-      "title": "vivo X500 系列手机踪迹曝光：预估天玑 9600 芯片、7000mAh 电池",
-      "summary": "IT之家 5 月 8 日消息，科技媒体 smartprix 昨日（5 月 7 日）发布博文，通过挖掘 GSMA IMEI 数据库，发现了 vivo X500 系列手机的踪迹，产品线至少包含 vivo X500、vivo X500 Pro 与 vivo X500e。该媒体指出，基于现有的爆料信息，X500 标准版可能主打小尺寸旗舰定位，Pro 版面向高端影像与综合性能用户，X500e 则更像是兼顾价格与配置，追求性价比的产品。命名方面，从曝光的机型来看，vivo 可能比较忌讳使用数字“4”，跳过 X400 系列，从 X300 直接跨到 X500。硬件方面，标准版预计配备 6.37 英寸屏幕，Pr",
-      "source": "IT之家",
-      "publishTime": "2026-05-08",
-      "link": "https://www.ithome.com/0/947/453.htm"
-    },
-    {
-      "id": "35903df8-2d23-81e6-b4ab-c81e2f0464b7",
-      "title": "OpenAI launches new voice intelligence features in its API",
-      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
-    },
-    {
-      "id": "35903df8-2d23-81bb-be04-debaa597803c",
-      "title": "Cloudflare stock sinks 18% after earnings as company cuts 1,100 employees due to AI changes",
-      "summary": "The cloud provider announced it is laying off 20% of its workforce as agentic artificial intelligence \"fundamentally changes\" the company's work.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html"
-    },
-    {
-      "id": "35903df8-2d23-81d8-94a6-f3c9e7885257",
-      "title": "OpenAI rolls out new model for cybersecurity teams a month after Anthropic's Mythos debut",
-      "summary": "OpenAI said GPT-5.5-Cyber, a variation of its latest AI model, is rolling out in a limited preview capacity to vetted cybersecurity teams.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/openai-rolls-out-new-gpt-5point5-cyber-to-vetted-cybersecurity-teams.html"
-    },
-    {
-      "id": "35903df8-2d23-81ba-8fd3-f3a9c2626660",
-      "title": "Sam Altman had a bad day in court",
-      "summary": "From claims of safety taking a back seat to the \"toxic culture\" he created, OpenAI CEO Sam Altman faced a tough day in court.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-08",
-      "link": "https://www.businessinsider.com/elon-musk-witness-testimony-hits-sam-altman-in-trial-2026-5"
-    },
-    {
-      "id": "35903df8-2d23-8148-a30c-fafe7523ed5e",
-      "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
-      "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboratio",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/"
-    },
-    {
-      "id": "35903df8-2d23-814f-9858-e3264c6c9d35",
-      "title": "Disney looking to make a unified ‘super app,’ report says",
-      "summary": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/"
-    },
-    {
-      "id": "35903df8-2d23-814a-ba7e-e042a0ed16a0",
-      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-      "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
-      "source": "Wired",
-      "publishTime": "2026-05-08",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/"
-    },
-    {
-      "id": "35903df8-2d23-8164-a6c1-d0ed42ab194f",
-      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "summary": "The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages. Students attempting to access the system on Thursday saw a message from the hacking group ShinyHunters, which cl",
-      "source": "The Verge",
-      "publishTime": "2026-05-08",
-      "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"
-    },
-    {
-      "id": "35903df8-2d23-81c2-bf6d-e5ef6595e795",
-      "title": "IREN shares pop 13% on AI infrastructure deal with Nvidia",
-      "summary": "IREN shares soared after the data center operator announced a partnership with semiconductor giant Nvidia.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html"
-    },
-    {
-      "id": "35903df8-2d23-81b6-8d63-f3bd874f4a37",
-      "title": "Read the memo: Cloudflare is laying off 1,100 employees to prepare for 'the agentic AI era'",
-      "summary": "Cloudflare announced 1,100 layoffs as it restructures for the age of agentic AI, sending shares tumbling.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-08",
-      "link": "https://www.businessinsider.com/cloudflare-announces-1100-layoffs-amid-ai-focus-shift-2026-5"
-    },
-    {
-      "id": "35903df8-2d23-8188-891d-f4ba91e348c4",
-      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/"
-    },
-    {
-      "id": "35903df8-2d23-810c-b2b8-f8db2ffcfcb1",
-      "title": "Hackers deface school login pages after claiming another Instructure hack",
-      "summary": "The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/"
-    },
-    {
-      "id": "35903df8-2d23-81a6-83eb-c75d5328ce9a",
-      "title": "I got turned down to be a NASA astronaut 3 times — here's what finally worked",
-      "summary": "Former NASA astronaut, Mike Massimino, shares his journey to achieving his dream by overcoming vision challenges and multiple rejections.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-08",
-      "link": "https://www.businessinsider.com/nasa-astronaut-shares-3-times-he-was-turned-down-2026-5"
-    },
-    {
-      "id": "35903df8-2d23-811a-ae30-d97599fb8e4e",
-      "title": "French prosecutors escalate probe of Elon Musk and X to criminal investigation",
-      "summary": "France is investigating whether Elon Musk and his social media app X were complicit in spreading harmful AI deepfakes.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/french-prosecutors-probe-of-elon-musk-x-now-a-criminal-investigation.html"
-    },
-    {
-      "id": "35903df8-2d23-81d9-b09b-d54e91af89dc",
-      "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
-      "summary": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/"
-    },
-    {
-      "id": "35903df8-2d23-8140-a516-da2f309463a0",
-      "title": "CoreWeave revenue more than doubles in first quarter, topping estimates",
-      "summary": "CoreWeave has been raising billions of dollars in debt to finance its data center buildout as it serves the leading AI companies.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html"
-    },
-    {
-      "id": "35903df8-2d23-8154-af63-d1cf9c79b280",
-      "title": "Coinbase posts steep first-quarter loss after slide in crypto prices, shares fall 4%",
-      "summary": "Crypto trading platform Coinbase reported a surprise first-quarter loss and weaker-than-estimated revenue after the market close Thursday.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/coinbase-coin-earnings-q1-2026.html"
-    },
-    {
-      "id": "35903df8-2d23-8127-8530-e8d540752202",
-      "title": "How to Disable Google's Gemini in Chrome",
-      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
-      "source": "Wired",
-      "publishTime": "2026-05-08",
-      "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/"
-    },
-    {
-      "id": "35903df8-2d23-81f5-8fe6-f7fe10af965f",
-      "title": "Datadog stock soars 31% on blockbuster earnings as AI winners emerge in software",
-      "summary": "Datadog's results fueled shares of other cloud infrastructure names like Snowflake and MongoDB.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/ai-winners-software-datadog-stock.html"
-    },
-    {
-      "id": "35903df8-2d23-817e-894c-d64dc32dcd04",
-      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
-    },
-    {
-      "id": "35903df8-2d23-814f-9652-d06eefe4145d",
-      "title": "Airbnb tops revenue estimates, but Middle East cancellations rise due to Iran war",
-      "summary": "Airbnb reported mixed first-quarter results after the bell on Thursday and warned of regional weakness due to the war in Iran.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-08",
-      "link": "https://www.cnbc.com/2026/05/07/airbnb-abnb-earnings-q1-2026.html"
-    },
-    {
-      "id": "35903df8-2d23-816b-b211-d2e247f47595",
-      "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
-      "summary": "The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/"
-    },
-    {
-      "id": "35903df8-2d23-815f-b7ad-e5a11779a3f1",
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
-    },
-    {
-      "id": "35903df8-2d23-81db-90d4-c0482aa96a7d",
-      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-      "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT-maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and tria",
-      "source": "The Verge",
-      "publishTime": "2026-05-08",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster"
-    },
-    {
-      "id": "35903df8-2d23-81e6-8729-d4818e952d69",
-      "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
-      "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test ",
-      "source": "The Verge",
-      "publishTime": "2026-05-08",
-      "link": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production"
-    },
-    {
-      "id": "35903df8-2d23-81b7-bacc-d7d7ff5816f0",
-      "title": "Why the Hantavirus Cruise Ship Outbreak Isn’t Likely to Become a Global Crisis",
-      "summary": "While the outbreak aboard a cruise ship in the Atlantic is concerning, the virus isn’t easily transmitted through casual contact.",
-      "source": "Wired",
-      "publishTime": "2026-05-08",
-      "link": "https://www.wired.com/story/hantavirus-cruise-ship-what-you-need-to-know/"
-    },
-    {
-      "id": "35903df8-2d23-812f-bd1d-d3e46e1e9efc",
-      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes",
-      "source": "The Verge",
-      "publishTime": "2026-05-08",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips"
-    },
-    {
-      "id": "35903df8-2d23-81d0-988c-e30f53156bca",
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "summary": "Can Sam Altman—or any CEO—be trusted with super intelligence?",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/"
-    },
-    {
-      "id": "35903df8-2d23-812f-82af-e8a152ca7cce",
-      "title": "Bumble is getting rid of the swipe, CEO says",
-      "summary": "\"We are going to be saying goodbye to the swipe,\" CEO Whitney Wolfe Herd said.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/"
-    },
-    {
-      "id": "35903df8-2d23-8158-8657-fda7848787fc",
-      "title": "Peak Design is taking up to 50 percent off some of our favorite bags right now",
-      "summary": "To celebrate founder Peter Dering’s birthday, Peak Design is taking up to 50 percent off a host of bags and accessories through May 8. The sale includes steep discounts on many of the company’s most popular backpacks and bags, as well as a couple of other items, including camera accessories. Many Ve",
-      "source": "The Verge",
-      "publishTime": "2026-05-08",
-      "link": "https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal"
-    },
-    {
-      "id": "35903df8-2d23-816a-991e-c21ceb26cd9b",
-      "title": "Karoline Leavitt welcomed her second child with husband Nicholas Riccio. Here's what to know about her life and career.",
-      "summary": "White House press secretary Karoline Leavitt, 28, gave birth to a baby girl, her second child with husband Nicholas Riccio, 60.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-08",
-      "link": "https://www.businessinsider.com/karoline-leavitt-white-house-press-secretary"
-    },
-    {
-      "id": "35903df8-2d23-819c-814e-ff3c5e517087",
-      "title": "Tome, another Goodreads book-tracker rival, shuts down",
-      "summary": "Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate their books, get recommendations, and even add photos of things like favorite quotes or memes, or share playlists that match ",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-08",
-      "link": "https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/"
     }
   ],
   "macroEvents": [
