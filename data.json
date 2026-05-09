@@ -1,6 +1,254 @@
 {
-  "updatedAt": "2026-05-09 09:16",
+  "updatedAt": "2026-05-09 12:45",
   "news": [
+    {
+      "id": "35b03df8-2d23-8157-a7b0-e46a7d16b2e5",
+      "title": "华硕天选游戏路由 2 Pro 发售：BE5000，低至 699 元",
+      "summary": "IT之家 5 月 9 日消息，华硕 (ASUS) 昨日正式发售了天选游戏路由 2 Pro (TX-BE5000)。该型号拥有纯白机身，附赠天选姬专属个性贴纸和磁吸装饰，到手价低至 699 元。IT之家了解到，其基于联发科 4 核 2.0GHz CPU 处理器，配备 1GB DDR4 内存，无线规格为双频五流 BE5000，有线规格为 2× 2.5GbE RJ45 + 3× 1GbE RJ45。这款无线路由器能一键开启性能模式，支持 AIProtechtion 本地网络神盾、AiMesh 随心组网、AI 场景加速，还可设置三组不同 SSID。",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/054.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8129-bdcc-c578cf213467",
+      "title": "不会跳票了？将《GTA6》加入愿望单的 PS4 玩家收到索尼邮件，邀请其升级 PS5",
+      "summary": "IT之家 5 月 9 日消息，据 X 平台博主 GTA 6 Countdown 今天爆料，部分将《GTA6》加入愿望单的 PS4 玩家已经收到索尼邮件，邀请他们升级 PS5，以便 11 月 19 日能如期体验本作。索尼在邮件中写道：“今天就将 PS5 收入囊中，为 2026 年 11 月 19 日发售的《GTA6》做好准备”。虽然这封邮件并不能保证《GTA6》不再跳票，尤其考虑到 PS5 近期涨价，升级主机并非轻松的决定。索尼在 5 月 8 日的财报电话会议中提到，这款开放世界犯罪冒险游戏将在 PS 首发游戏宣传幻灯片中出现。部分玩家对此解读道，索尼将在近期启动 PS5 版《GTA6》营销活动",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/052.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8166-b233-fb27f7fb600b",
+      "title": "阶跃星辰发布新一代实时语音大模型 StepAudio 2.5 Realtime，支持情绪感知与人设自定义",
+      "summary": "IT之家 5 月 9 日消息，阶跃星辰昨晚发布了新一代实时语音大模型 StepAudio 2.5 Realtime，目前已全量上线，开发者可通过阶跃星辰开放平台接入使用。该模型定位于打造更具“活人感”的 AI 对话体验，重点围绕副语言感知、人设自定义与对话能力三个方向进行技术升级。IT之家从官方获悉，StepAudio 2.5 Realtime 的核心突破在于其对“副语言”信息的处理能力。所谓副语言，指的是语调、语速、停顿乃至一声叹息或轻笑等文字以外的表达方式，这些细节恰恰是人类情感传递的主要载体。模型通过对这些元素的解读，可以感知对话者的情绪状态与潜在意图，比如从低沉的声线中察觉疲惫，或是从",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/051.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8198-bd7c-c697a69bbacd",
+      "title": "无人机侵入高铁线路致列车晚点，公安部公布五起典型案例",
+      "summary": "IT之家 5 月 9 日消息，随着我国无人机保有量的持续攀升及应用场景的不断拓展，无人机在农林植保、航拍等领域的运用日益广泛。然而，个别飞手在铁路沿线操控无人机开展飞行拍摄或从事农林作业时，因安全意识淡薄或操作不当侵入高铁线路，严重威胁了铁路运输秩序。针对这些危害高铁运行安全的违法行为，公安部今日公布了今年以来公安机关查处的五起无人机影响铁路安全的典型案例。IT之家附原文如下：一、吴某某过失损坏交通工具案2026 年 4 月，吴某某在河北省沧州市境内京沪高铁沿线操控无人机为麦田喷洒农药，其间无人机违法从铁路高架桥下穿越飞行，之后又上升到高架桥面，随后失控坠入铁路线路。G15 次列车途经坠落点撞",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/050.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8175-b3fb-d46e2a962591",
+      "title": "OpenAI 将补齐 Codex 跨端连接拼图，安卓版 ChatGPT 酝酿远程接管功能",
+      "summary": "IT之家 5 月 9 日消息，科技媒体 Android Authority 昨日（5 月 8 日）发布博文，通过挖掘安卓 1.2026.125 版 ChatGPT 之后，发现 OpenAI 正为 Codex 酝酿远程控制能力。根据代码描述，用户未来先在桌面打开 Codex，并登录同一 ChatGPT 账号，然后再用手机连接、恢复或重连远程会话。该功能瞄准开发者真实痛点，开发者不必一直守在桌前，在离开工位后，依然能查看任务状态、继续下指令，甚至处理中途卡住的开发流程。IT之家援引博文介绍，基于代码中的相关字符串，OpenAI 不只是做基础连接，还在铺设完整的远程操作界面。如果桌面环境版本过旧，应",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/049.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81e2-a39e-f782bee49db3",
+      "title": "华为 Sound X5 智能音箱开售：全新悦彰音质、升级 AI 大模型，2199~2499 元",
+      "summary": "IT之家 5 月 9 日消息，华为 Pura 90 标准版、华为 Sound X 5 宣布 10:08 正式开售，后者主打“全新悦彰音质 + 鸿蒙 AI + 全场景互联”，定价 2199~2499 元。京东华为 Sound X5 智能音箱 鎏金悦彰音质 | 鸿蒙 AI2499 元起直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取：点此查看。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券6 类家电支持 8.5 折政府补贴，单品至高补贴 1500 元",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/043.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81e3-bbe8-d2b6625cdb18",
+      "title": "KDE Plasma 6.7 桌面环境将支持 HDR 模式 ICC 颜色描述文件，预计下月发布",
+      "summary": "IT之家 5 月 9 日消息，据科技媒体 Phoronix 昨天报道，KDE 开发者们正在稳步推进 Plasma 6.7 桌面环境，稳定版预计 6 月中旬发布。据报道，Plasma 6.7 在 KWin HDR 模式下，将支持应用显示器的 ICC 颜色描述文件。同时允许新款 AMD 锐龙笔记本用户禁用 / 调节自适应背光调制（IT之家注：Adaptive Backlight Modulation）。Plasma 6.7 将大幅提升 CPU 渲染性能，使用 QtWidgets 时性能表现更好。同步改进 KWin 算法，使其能够更好地判断何时使用 Direct Scan-Out，提升全屏窗口性能并",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/039.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8106-a80f-f6cf59be4d62",
+      "title": "豪爵旅行者 TVL350 摩托车发布：搭载自研 22kW 发动机，第三季度上市",
+      "summary": "IT之家 5 月 9 日消息，豪爵摩托今日宣布推出全新的旅行者 TVL350 车型，价格暂未公布，只透露将于第三季度上市。这款摩托车采用了豪爵自研发动机，最大功率 22.0kW、最大扭矩 32.2N.m、最高车速 138km/h，搭载多重滤振悬挂 + 电动无级可调风挡，配备博世直道 / 弯道 ABS（博世 IMU）+ 安斯泰莫 TCS 系统。照明方面，旅行者 TVL350 还采用了双透镜大灯 + 位置灯 + 弯道辅助照明灯（车身倾斜 7° 以上自动开启），配备飞翼式厚壁尾灯 + 双闪紧急刹车警示灯（IT之家注：50km/h 以上急刹时自动频闪）。它还配备了智能电子中控锁，支持蓝牙 / NFC ",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/031.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8169-ac40-c68f6fb93983",
+      "title": "三星 AR 新专利：10 级可调沉浸界面，动态平衡虚拟 / 现实环境",
+      "summary": "IT之家 5 月 9 日消息，科技媒体 sammyguru 昨日（5 月 8 日）发布博文，探究三星最新获批的专利，显示三星公司研发可自适应调节沉浸程度的增强现实（AR）系统，目标是可以更自然地切换虚拟内容与现实环境。根据披露的专利细节，三星不希望固化虚拟内容的沉浸程度，而是希望其随现实环境、用户姿态与交互状态动态变化。IT之家援引博文介绍，专利还给出多级沉浸机制：1 级对应轻量叠加和通知，5 级对应更大的虚拟工作区，10 级接近完全沉浸。这项专利瞄准的关键问题，是现有混合现实设备常见的“与环境脱节”。即便设备已配备透视摄像头，用户在长时间使用后，仍可能感到界面压迫感较强，或现实环境与虚拟界面",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/029.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81e7-a3da-d92e90f5790f",
+      "title": "国家安全部披露：某手机芯片厂商漏洞被利用，“秒解 BL 锁”暗藏安全风险",
+      "summary": "IT之家 5 月 9 日消息，据国家安全部今日更新，近期某手机芯片厂商相关漏洞被不法分子定向利用，给网上热炒的“秒解 BL 锁”行为敲响警钟。IT之家从官方公众号获悉，所谓“BL”是 Bootloader（引导加载程序）的简称，它可以说是手机自带的官方防盗门，是开机后最先运行的底层程序，负责验证并加载操作系统。而解除掉这层锁就相当于“拆门”，能够获得刷机自由。随着“秒解 BL 锁”走红，个别论坛、网盘上打着“简化流程”旗号的解锁工具、刷机包，实则可能被篡改。一旦用户下载安装，恶意程序就会植入设备底层，隐私泄露、设备失控的风险随之而来。并且所谓“手把手”教程其实是诱导用户下载不明驱动、应用程序，",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/028.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8195-a3be-fa963cc01910",
+      "title": "消息称三星电子有意为 Galaxy S27 手机 OLED 显示面板引入第二供应商京东方",
+      "summary": "IT之家 5 月 9 日消息，韩媒 ZDNET Korea 当地时间今日报道称，三星电子有意在明年 Galaxy S27（标准版）智能手机中引入“自家人”三星显示 (SDC) 外的第二家 OLED 显示面板供应商，而这一潜在人选是京东方 (BOE)。三星电子的旗舰手机面板双源化策略旨在引入一条“鲶鱼”，通过供应商之间的竞争拉低屏幕采购价格，在存储器暴涨的局面下挖掘新的盈利空间。报道指出，中国显示企业已打入三星电子 Galaxy A 系列中端智能手机的面板供应链，Galaxy A57 就部分配备了来自 TCL 华星 (TCL CSOT) 的柔性 OLED；不过在屏幕规格与 A57 一致的 S26",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/027.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8176-ac8b-c2ed2db839b1",
+      "title": "抖音电商试水自营旗舰店：覆盖北上广深等，主打本地好物与次日达服务",
+      "summary": "IT之家 5 月 9 日消息，Tech 星球发现，抖音电商在抖音 App 内开设了多个以城市命名的线上自营旗舰店，北京、上海、广州、深圳、杭州、武汉、重庆、青岛、济南等多个核心城市均在列，主打本地好物销售。IT之家注：用户打开抖音 App 后，在搜索栏中选择商城或店铺，再搜索“抖音电商自营”等关键词，即可找到这些城市自营店铺。这类店铺整体采用货架式陈列，与传统兴趣导向的直播带货模式形成明显差异。根据店铺客服的回复，这些自营店的商品均由抖音自有门店负责发货，发货环节会优先从收货地附近的本地仓或合作方仓储调配出库，部分地区可实现明日达和隔日达，物流时效较此前有明显提升。整体来看，这批店铺的商品品类",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/026.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81d7-8b2e-dfbd7feca354",
+      "title": "初探苹果 watchOS 26.5 的 Pride Luminance 表盘：12 色自由搭配，2 种渐变加 2 种布局",
+      "summary": "yIT之家 5 月 9 日消息，科技媒体 MacRumors 今天（5 月 9 日）发布博文，报道称在 watchOS 26.5 更新中，苹果公司引入了全新 Pride Luminance 表盘，并同步为 iOS 26.5 提供同主题壁纸。iOS 26.5 的 Luminance 颜色效果示意图全新 Pride Luminance 表盘它不只提供预设配色，还扩展颜色组合，支持用户从调色板中选择 1 到 12 种颜色，范围覆盖彩虹色、过渡色，以及黑、白、棕、灰等中性色。Pride Luminance 表盘的设计样式选项在颜色分布方面，苹果公司为了让表盘更贴近穿搭和日常审美，提供放射状（从中间向外",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/025.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8138-a63b-d950f9985958",
+      "title": "Tech Now",
+      "summary": "Andrew Rogers explores new tech trials helping people stay underwater for longer.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-09",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "35b03df8-2d23-81f7-ae8f-c14c5839dd29",
+      "title": "Arm：客户近两年对 AGI CPU 的总需求已超 20 亿美元",
+      "summary": "IT之家 5 月 9 日消息，Arm 在本周早些时候的 FY2026Q4 财报电话会议上表示，客户在 FY2027~2028 对其首款自研处理器 —— Arm AGI CPU 的总需求规模已突破 20 亿美元，是 3 月 24 日发布时的 2 倍有余。Arm 预计 AGI CPU 可在 FY2027Q4 创造近 1 亿美元的首批收入，而到 2031 财年的其自研 CPU 业务将累计实现 150 亿美元收入。对于首代 CPU，Arm 表示软件支持已做好准备，机架设计也是现成的，因此该芯片可以很快地部署到数据中心中。此外，Arm 预测其 2027 财年许可收入将增长约 20%；而数据中心端 Neo",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/023.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81e2-a664-f1ca421de074",
+      "title": "美国加州拟对 10 亿美元以上富豪一次性征税 5%，谷歌联合创始人布林公开反对",
+      "summary": "IT之家 5 月 9 日消息，科技媒体 Android Headline 昨日（5 月 8 日）发布博文，报道称谷歌联合创始人谢尔盖 · 布林（Sergey Brin）反对美国加州拟议的《2026 亿万富翁税法》，并向反税组织 Building a Better California 捐款 5700 万美元（IT之家注：现汇率约合 3.88 亿元人民币）。IT之家援引博文介绍，美国加州拟议的《2026 亿万富翁税法》（2026 Billionaire Tax Act）提案瞄准亿万富翁，计划对其累计财富一次性征收 5% 税款。按 10 亿美元资产计算，单次税负就是 5000 万美元，力度明显高于",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/022.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81fd-9f9d-f114cb3a6ecf",
+      "title": "首创可拆卸屏幕，影石 Insta360 Luna Ultra 手持云台相机包装盒曝光",
+      "summary": "IT之家 5 月 9 日消息，据科技媒体 Notebookcheck 今天报道，影石 Insta360 Luna Ultra 手持云台相机的零售版包装盒现已曝光，显示该机将搭载首创可拆卸式屏幕。据报道，这款相机的“模块化设计”并非噱头，机身手柄前端的整个区域都能通过磁吸拆卸，当作遥控器使用，具备 OLED 屏幕、变焦按钮、摇杆以及录制按键。IT之家援引博文介绍，这种可拆卸式设计可以提供无可比拟的使用体验，用户可以将 Luna Ultra 放在任意位置，然后把屏幕拆卸来控制云台移动、变焦，并通过屏幕实时查看拍摄画面。不过我们目前还无法得知，单摄像头版本的 Insta360 Luna Pro 是否",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/021.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8179-98fd-d1842d223634",
+      "title": "DeepSeek 大范围开放“识图模式”，正式跨入图文交互时代",
+      "summary": "IT之家 5 月 9 日消息，上个月底，DeepSeek 开始灰度测试“识图模式”。该模式并非简单的文字 OCR，而是终于具备了图片识别理解能力。根据最新用户反馈，DeepSeek 已经大范围开放“识图模式”供用户体验，目前几乎所有测试账号都能看到该入口。但截至IT之家发稿，DeepSeek 中的“识图模式”仍标注为“图片理解功能内测中”。如图所示，拥有灰度测试资格的用户会发现，输入框上方与“快速模式”和“专家模式”并列，出现了一个全新的“识图模式”按钮。在具体的实测体验中，开启该模式后，用户可以直接上传图片让 DeepSeek“看”世界，其能力边界远超简单的文字提取。在基础的图像识别领域，它",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/020.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8170-9704-db62d8353e23",
+      "title": "追觅 Aurora Lux 系列手机展示：29 种奢华设计",
+      "summary": "IT之家 5 月 9 日消息，科技媒体 The Verge 于 5 月 7 日发布博文，报道称追觅于 4 月 27 日至 30 日，在旧金山举办为期 4 天的 Dreame Next 2026 发布活动，展示手机、概念电动车等，并邀请苹果联合创始人史蒂夫 · 沃兹尼亚克（Steve Wozniak）等名流到场。Dreame Aurora Lux 手机宣传图IT之家援引博文介绍，在本次展示活动中，现场展示了模块化手机、镶金镶宝石手机、智能戒指、智能眼镜、手表、带机械臂冰箱、洗衣机器人、带机械臂电视，以及概念电动车。在手机部分，最受关注的是 Aurora Nex LS1，支持模块化扩展，可连接 1",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/019.htm"
+    },
+    {
+      "id": "35b03df8-2d23-813e-8b54-d612cbafa897",
+      "title": "我国日均 Token（词元）调用量飙涨超 100000%、两年增长超千倍",
+      "summary": "IT之家 5 月 9 日消息，据央视财经昨天报道，数据显示，到今年 3 月份，我国日均 Token（词元）调用量突破 140 万亿，飙涨超 100000%、两年增长超千倍。据报道，今年以来国内外多款大模型接连上新、AI 智能体（Agent）快速普及，带动算力市场持续升温。专家表示，从当前的供需情况看，未来一段时间算力租赁市场仍有望持续增长。赛迪研究院电子所先进计算研究室副主任徐子凡表示，当前算力租赁行业处于高景气、结构性紧缺的阶段，2026 年市场规模预计达到 2600 亿元，高端的 GPU 出租率超过 90%。IT之家注：Token（词元）是计算机科学与自然语言处理领域中的一个基础且重要的概",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/018.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8122-8336-fa97d6cb26e0",
+      "title": "日月光携手楠梓电投资高雄新厂，建设“CoWoS 替代”先进封装产能",
+      "summary": "IT之家 5 月 9 日消息，日月光半导体 (ASE) 昨日与楠梓电子一道宣布将在高雄楠梓科技产业园区建设先进封装设施。该项目总投资 352.35 亿新台币（IT之家注：现汇率约合 76.28 亿元人民币），占地面积约 17637 平方米，将兴建地上 8 层、地下 2 层的现代化厂房，总建筑面积达 113402.42 平方米，预计于 2029 年 9 月正式启用。▲ FOCoSIT之家注意到，日月光半导体表示该工厂将以先进封装工艺为核心，导入 FOCoS 与 FC BGA 技术。而扇出型基板上芯片封装 FOCoS 的一些变体可实现 XPU 与 HBM 的集成，能起到替代台积电 CoWoS 工艺",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/016.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81e9-aa13-f2e6b7b8826e",
+      "title": "谷歌发布 Snapseed 4.0 安卓版修图软件，新增相机与胶片滤镜",
+      "summary": "IT之家 5 月 9 日消息，谷歌现已在 Play 商店发布 Snapseed 4.0 修图软件，为安卓用户带来 Snapseed Camera 相机，让用户能使用胶片滤镜拍照。IT之家附本次更新详情如下：重新设计的用户界面：更快的编辑速度、新的收藏夹栏和简化的工具视图。核心升级：无损和批量编辑现已推出！专业功能：智能蒙版、Snapseed 相机以及人像和胶片的重大更新。新工具：使用色彩 HSL、去雾、光晕和泛光掌握色彩和光线。结合 9To5Google 报道，本次更新重新设计了首页界面，顶部展示编辑过的照片，底部的“添加照片”按钮则可以从系统文件管理器选择图片，开始编辑。编辑器底部则被分为三",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/015.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81a9-8720-d74f3ee026d5",
+      "title": "My mom saw strengths where others saw hobbies. I parent the same way now.",
+      "summary": "I excelled in biology, but it wasn't my passion. I eventually fell into a career my mom knew I was suited for all along.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-09",
+      "link": "https://www.businessinsider.com/nurturing-kid-children-strengths-hobbies-future-career-2026-5"
+    },
+    {
+      "id": "35b03df8-2d23-8141-9a0f-e9830be58aa1",
+      "title": "微软强化 Win11 驱动生态，Visual Studio 2026 补齐 WDK 支持",
+      "summary": "IT之家 5 月 9 日消息，微软昨日（5 月 8 日）发布公告，宣布在其集成开发环境 Visual Studio 2026 中，已集成最新版 Windows 驱动程序工具包（WDK），让开发者可以构建、测试和打包 Windows 驱动。IT之家注：Windows 驱动程序工具包是微软提供的驱动开发工具集合，包含编译、测试、打包驱动所需组件，以及代码示例、文档和调试支持。该工具包主要面向硬件厂商、系统开发者和企业 IT 团队，用来为 Windows 编写和验证驱动。微软表示开发者目前已能在 Visual Studio 2026 中构建、测试和打包 Windows 驱动，同时继续选择 NuGet",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/014.htm"
+    },
+    {
+      "id": "35b03df8-2d23-817f-93e7-d2a32e307c0c",
+      "title": "前行者 X87 V2 三模机械键盘发售：双 8kHz 回报率，12000mAh 大电池",
+      "summary": "IT之家 5 月 9 日消息，前行者 (EWEADN) 昨日上午发售了机械键盘新品 X87 V2。这一型号采用 80% (TKL) 配列，支持三模连接（USB-C 和 2.4GHz 下回报率可达 8kHz），集成 12000mAh 电池，日常价 299.65 元、首发价 279.65 元。X87 V2 整体采用 Gasket 结构，具备支持全键热插拔且集成下灯位高刷 RGB 背光的 1.2mm 厚度单键开槽 PCB、PC 材质横向开槽定位板、5 层填充，方向键区上方则是兼具音量调节功能的阳极氧化喷砂金属灯带装饰板，整体支持音乐律动。这款键盘搭载幻影拿铁轴，触发行程 1.0±0.5mm、总行程 ",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/013.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8142-8d03-e7997d54186f",
+      "title": "时尚品牌 Zara 遭数据泄露，约 19.74 万用户恐面临钓鱼风险",
+      "summary": "IT之家 5 月 9 日消息，科技媒体 bleepingcomputer 昨日（5 月 8 日）发布博文，报道称关联西班牙快时尚品牌 Zara 的数据泄露事件，已确认影响 197400 名用户。IT之家援引博文介绍，Have I Been Pwned 分析指出，本次数据泄露事件影响 197400 名用户，泄露内容主要包括邮箱地址、地理位置、购买记录、产品 SKU、订单 ID，以及客服工单对应的市场信息。这些数据泄露后，可能无法直接威胁用户账户，但是黑客拼接邮箱和消费轨迹等信息，可以构建针对消费者的完整画像，从而铺垫后续的钓鱼或者其它类型攻击。比如攻击者可以伪装成客服，引用真实订单信息联系用户，",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/012.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8139-97b7-ca146eafa6d6",
+      "title": "任天堂传奇游戏设计师手冢卓志下月退休，曾负责《塞尔达传说》《超级马力欧》系列",
+      "summary": "IT之家 5 月 9 日消息，据游戏媒体 Insider Gaming 昨天报道，任天堂在 2026 财年年底报告中宣布，传奇游戏设计师手冢卓志将于 6 月 26 日正式退休。▲ 手冢卓志（右）IT之家从报道中获悉，手冢卓志曾在 20 世纪 80-90 年代负责打造《超级马力欧兄弟》《塞尔达传说》系列作品，在两款游戏的初期发展阶段发挥了重要作用。虽然外界对宫本茂更为熟悉，但手冢卓志从 1980 年代起便操刀多款任天堂热门 IP，并担任《超级马力欧兄弟 3》《超级马力欧世界》导演。近年来，他还负责监督 / 制作《超级马力欧制造》《塞尔达传说旷野之息》《皮克敏 4》等作品。此外，他还参与了《超级马",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/011.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81f1-bb02-c39888ebc1f3",
+      "title": "大众首款纯电 GTI 定档 5 月 15 日首发亮相纽博格林 24 小时耐力赛，ID. Polo GTI 将搭载 223 马力前电机",
+      "summary": "IT之家 5 月 9 日消息，为庆祝 GTI 诞生 50 周年，大众汽车昨日宣布将于下周末在纽博格林 24 小时耐力赛期间发布其首款电动 GTI 车型 ——ID. Polo GTI。▲ ID. Polo GTI新车将于 5 月 15 日在赛道旁的 Ring-Boulevard 区域面向车迷公开亮相，这既是 GTI 诞生 50 周年庆典的一部分，也标志着 GTI 徽标首次出现在纯电动车型上。在发布现场，大众还将组织由 40 辆 GTI 历史车型组成的巡游车队，涵盖全部八个世代。这些车辆将与 ID. Polo GTI 一同在正赛前完成一圈纽博格林北环巡游。▲ 高尔夫 GTI EDITION 50作",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/010.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81a4-9d02-fa501de6013a",
+      "title": "需 2 步生效：微软解释 Teams 会议为何启用策略后无法自动录制",
+      "summary": "IT之家 5 月 9 日消息，微软于 5 月 7 日发布博文，详细解释了 Teams 会议“自动录制”策略的实际用法。这项功能主要面向 IT 管理员，可通过 PowerShell 命令配合 -AutoRecording 参数启用。很多企业原本以为，策略一开，所有 Teams 会议都会自动录制；但微软现在明确表示，事实并非如此。IT之家援引博文介绍，这项配置其实分两步走。第一步，管理员先在 Teams 侧启用相关策略；但这一步只是开放权限，并不会直接替每场会议打开录制。管理员做完配置后，系统只是把功能入口交给会议组织者，而不是全局强制生效。第二步才是实际使用阶段。策略启用后，会议组织者在创建每一",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/009.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8187-b9ef-f5cb2c8e974e",
+      "title": "前任天堂营销员工：Switch 2 迫切需要对标《GTA6》的大作，否则涨价后主机更难卖出",
+      "summary": "IT之家 5 月 9 日消息，前任天堂公关、营销负责人 Kit & Krysta 今天在 YouTube 发布视频，认为 Switch 2 游戏机迫切需要对标《GTA6》的大作，否则涨价后更难说服消费者购机 / 换机。任天堂 2026 年财报指出，《宝可梦：Pokopia》助推 Switch 2 销量增长，发售 5 周后销量达 400 万份；而《朋友收集梦想生活》也是近期成功作品之一，但该游戏同步登陆 Switch 1/Switch 2，仍有 60% 玩家选择用 Switch 1 游玩。Kit 和 Krysta 认为，Switch 2 涨价后更难说服观望用户换机，任天堂应该在今年晚些时候端出“",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/008.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8136-915a-eec20f039fcb",
+      "title": "ARCTIC 推出 P12 Pro LN 系列风扇：低噪声优化，支持低负载停转",
+      "summary": "IT之家 5 月 9 日消息，散热与机箱制造商 ARCTIC 北京时间本月 7 日发布了 P12 Pro LN 系列风扇。这是标准 P12 Pro 风扇家族的低噪声 (Low Noise) 分支，对转速区间进行了调整。P12 Pro LN 系列继承了 P Pro 家族的一系列改进，包括经优化的叶片、FDB 轴承设计，0.855mm 叶框间隙，支持转速补偿的 SOTA MCU，低负载停转功能等。IT之家附上 P12 Pro LN 家族与标准 P12 Pro 的参数对比：P12 Pro LNP Pro转速区间450~2000 RPM600~3000 RPM最大风量48 CFM77 CFM最大静压3",
+      "source": "IT之家",
+      "publishTime": "2026-05-09",
+      "link": "https://www.ithome.com/0/948/007.htm"
+    },
     {
       "id": "35a03df8-2d23-8130-89b3-f0025bf8843d",
       "title": "告别“看天吃饭”：我国室内最大全季冰雪汽车试验基地开建",
@@ -152,254 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-05-09",
       "link": "https://www.cnbc.com/2026/05/08/jim-cramer-its-not-to-late-to-own-ai-winners.html"
-    },
-    {
-      "id": "35a03df8-2d23-81c3-8688-f1912519dfaf",
-      "title": "San Francisco’s housing market has lost its mind",
-      "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-09",
-      "link": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/"
-    },
-    {
-      "id": "35a03df8-2d23-81ae-b75d-fe044f919e30",
-      "title": "The corporate benefits rollback is spreading",
-      "summary": "AI spending is reshaping workplace benefits. TTEC has paused 401(k) matching for US employees through the end of 2026.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/the-corporate-benefits-rollback-is-spreading-2026-5"
-    },
-    {
-      "id": "35a03df8-2d23-81c1-a2d1-e21130ce1c7d",
-      "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
-      "summary": "Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-09",
-      "link": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html"
-    },
-    {
-      "id": "35a03df8-2d23-81e6-a9d3-db34fec1cc1f",
-      "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
-      "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-09",
-      "link": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/"
-    },
-    {
-      "id": "35a03df8-2d23-81ee-9dee-edf602887ff4",
-      "title": "Jeffrey Epstein's brother says newly surfaced 'suicide note' is a forgery",
-      "summary": "Mark Epstein says the \"Little Rascals\" reference in the note was copied from the Epstein files emails — but a judge says it was filed earlier.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/jeffrey-epstein-brother-says-suicide-note-forgery-little-rascals-2026-5"
-    },
-    {
-      "id": "35a03df8-2d23-8194-8131-cfecf5e57fa3",
-      "title": "Asus chases Elgato with its own secondary touchscreen display",
-      "summary": "Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14.1-inch secondary display in the 2020 Asus ROG Zephyrus Duo 15. It's a slightly ",
-      "source": "The Verge",
-      "publishTime": "2026-05-09",
-      "link": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display"
-    },
-    {
-      "id": "35a03df8-2d23-81c4-b899-e99d1a6a375a",
-      "title": "California babies are getting a free diaper stash at birth",
-      "summary": "California will give new parents 400 free diapers at select hospitals under a new Gavin Newsom-backed program launching this summer.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/california-babies-free-diapers-gavin-newsom-2026-5"
-    },
-    {
-      "id": "35a03df8-2d23-818d-be9b-fe8e3679be08",
-      "title": "Amazon is adding a vertical video feed to Prime Video",
-      "summary": "Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new \"Clips\" feed will offer a stream of short-form videos from shows and movies, with options to jump into the full title, rent, or buy it. Prime Video previously offered a TikTok-styl",
-      "source": "The Verge",
-      "publishTime": "2026-05-09",
-      "link": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed"
-    },
-    {
-      "id": "35a03df8-2d23-81c9-9ab4-f9ec03dcd229",
-      "title": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
-      "summary": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-09",
-      "link": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html"
-    },
-    {
-      "id": "35a03df8-2d23-8139-adc8-e9548841d34f",
-      "title": "Intel’s comeback story is even wilder than it seems",
-      "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-09",
-      "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/"
-    },
-    {
-      "id": "35a03df8-2d23-813e-bd58-e22e567df524",
-      "title": "Disney's new Trump strategy: Push back, politely",
-      "summary": "Disney CEO Josh D'Amaro is using a new tactic when it comes to Donald Trump: Push back.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/disney-trump-view-kimmel-damaro-iger-fcc-carr-2026-5"
-    },
-    {
-      "id": "35a03df8-2d23-8121-b04f-cfa0b15da7ac",
-      "title": "Here is Yarbo’s promise to fix the robot mower that ran me over",
-      "summary": "Yesterday, I told you how a hacker ran me over with a robot lawn mower. We explained how thousands of these bladed Chinese robots, made by Yarbo, could be hijacked with ease - exposing people's GPS coordinates, Wi-Fi passwords, email addresses, and more to any casual hacker who comes along. Today, Y",
-      "source": "The Verge",
-      "publishTime": "2026-05-09",
-      "link": "https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise"
-    },
-    {
-      "id": "35a03df8-2d23-8180-b04d-c453eeb99c05",
-      "title": "The University of Michigan may have landed the steal of the AI era",
-      "summary": "The University of Michigan's early stake in OpenAI, before Microsoft's massive investment, could yield $2 billion.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/michigan-early-openai-investment-yield-billions-2026-5"
-    },
-    {
-      "id": "35a03df8-2d23-81b3-9027-f06df570f68b",
-      "title": "Kevin O'Leary defends his Utah data center project: 'Think about the number of jobs'",
-      "summary": "Kevin O'Leary has clashed with residents in Box Elder County, Utah over a new AI data center on a 40,000-acre campus.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/kevin-oleary-utah-data-center-stratos-opposition-water-electricity-jobs-2026-5"
-    },
-    {
-      "id": "35a03df8-2d23-8199-b766-eef800fa496e",
-      "title": "Claude, brought to you by Elon Musk",
-      "summary": "Anthropic now relies on a huge SpaceX data center for AI compute, tying Claude's rapid growth and reliability to Elon Musk.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/claude-elon-musk-anthropic-ai-compute-2026-5"
-    },
-    {
-      "id": "35a03df8-2d23-81dc-8252-eff60a91bbc6",
-      "title": "All the latest updates on AI data centers",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. From ",
-      "source": "The Verge",
-      "publishTime": "2026-05-09",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
-    },
-    {
-      "id": "35a03df8-2d23-81b8-8b80-e71ccc784f19",
-      "title": "Rocket Lab surges 30% to fresh highs on revenue beat, record-setting launch deal",
-      "summary": "Enthusiasm for space stocks has skyrocketed ahead of SpaceX's anticipated IPO.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-09",
-      "link": "https://www.cnbc.com/2026/05/08/rocket-lab-rklb-q1-earnings-2026.html"
-    },
-    {
-      "id": "35a03df8-2d23-8131-969c-fe1caeb4958e",
-      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-09",
-      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
-    },
-    {
-      "id": "35a03df8-2d23-8105-bd85-d77cd4515c2d",
-      "title": "Here's the best street style we spotted at the New York City Ballet's Spring Gala 2026",
-      "summary": "The New York City Ballet hosted its annual Spring Gala at Lincoln Center. Art lovers, philanthropist's, and celebrities were all in attendance.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/new-york-city-ballet-spring-gala-street-style-status-symbols-2026-5"
-    },
-    {
-      "id": "35a03df8-2d23-8189-b758-f35fb1089e46",
-      "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
-      "summary": "More than 500 people will be affected by the closures.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-09",
-      "link": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/"
-    },
-    {
-      "id": "35a03df8-2d23-81a5-9151-e2726d4960f5",
-      "title": "The Pentagon Releases New Trove of Declassified UFO Files",
-      "summary": "The Defense Department has released a new trove of declassified documents about government UFO sightings.",
-      "source": "Wired",
-      "publishTime": "2026-05-09",
-      "link": "https://www.wired.com/story/pentagon-drops-new-ufo-files/"
-    },
-    {
-      "id": "35a03df8-2d23-8149-8262-c8bc404ba46b",
-      "title": "Tesla’s Latest Recall? Wheels May Fall Off Cybertrucks",
-      "summary": "In what is the 11th Cybertruck recall, certain models of Elon Musk’s embattled pickup could experience a sudden, unexpected wheel separation, thanks to the wrong grease and loose nuts.",
-      "source": "Wired",
-      "publishTime": "2026-05-09",
-      "link": "https://www.wired.com/story/the-latest-tesla-recall-wheels-may-fall-off-cybertrucks/"
-    },
-    {
-      "id": "35a03df8-2d23-8175-90da-e4a36f00b6eb",
-      "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
-      "summary": "The Department of Government Efficiency's cancellation of over $100 million in grants was unconstitutional, according to a ruling on Thursday. In the 143-page decision, US District Judge Colleen McMahon cites DOGE's process for eliminating grants, which involved using ChatGPT to determine if somethi",
-      "source": "The Verge",
-      "publishTime": "2026-05-09",
-      "link": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled"
-    },
-    {
-      "id": "35a03df8-2d23-81b6-943a-e3693b4ddd6a",
-      "title": "These hedge funds crushed it in April — and a key Liberation Day lesson helped them",
-      "summary": "Hedge funds thrived in April. Here's who had double-digit returns, and how lessons from last year's Liberation Day chaos paid off.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/april-hedge-fund-performance-tiger-global-castleknight-graham-2026-5"
-    },
-    {
-      "id": "35a03df8-2d23-812a-86b1-ce077b7019d3",
-      "title": "ABC and Disney accuse Trump admin of violating First Amendment rights",
-      "summary": "ABC is accusing the Federal Communications Commission (FCC) of violating its First Amendment rights by making \"major shifts in policy and practice\" that the network claims will chill free speech. The network is asking the FCC to \"affirm its long-standing approach to the bona fide news interview exem",
-      "source": "The Verge",
-      "publishTime": "2026-05-09",
-      "link": "https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view"
-    },
-    {
-      "id": "35a03df8-2d23-81b8-b3ab-cf043566fc04",
-      "title": "苹果 iOS/iPadOS 26.5 RC 2 发布",
-      "summary": "【点此直达升级教程】 IT之家 5 月 9 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.5 RC 2 更新（内部版本号：23F77），本次更新距离上次发布 Beta/RC 间隔 4 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / ",
-      "source": "IT之家",
-      "publishTime": "2026-05-09",
-      "link": "https://www.ithome.com/0/947/990.htm"
-    },
-    {
-      "id": "35a03df8-2d23-8120-ace1-c33aaa837693",
-      "title": "Mother Ventures is looking at moms as the ‘economic engine’",
-      "summary": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-09",
-      "link": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/"
-    },
-    {
-      "id": "35a03df8-2d23-81a6-b086-da8a2f8d5a0c",
-      "title": "Someone out-Trumped the Trump phone",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, Trump Mobile has been trumped. It's been another long week without the Trump phone, but it's no longer the only nonexistent phone I have to wo",
-      "source": "The Verge",
-      "publishTime": "2026-05-09",
-      "link": "https://www.theverge.com/gadgets/926968/trump-mobile-t1-phone-dreame-aurora-phones"
-    },
-    {
-      "id": "35a03df8-2d23-8189-82c1-d80538b6bc1e",
-      "title": "Uber partner Avride is under investigation for self-driving crashes",
-      "summary": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-09",
-      "link": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/"
-    },
-    {
-      "id": "35a03df8-2d23-81ba-8739-f6faedcb8ca2",
-      "title": "The $42 billion auto giant you've never heard of is building AI into its factories",
-      "summary": "Magna builds parts for some of the world's biggest automakers, like BYD, Ford, and Toyota. It has a five-pronged AI strategy for its plants.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/auto-giant-magna-ai-factories-2026-5"
-    },
-    {
-      "id": "35a03df8-2d23-8181-8839-d2ff93ddaa99",
-      "title": "Apple reportedly has a deal to use Intel-made chips again",
-      "summary": "Apple and Intel reached a \"preliminary agreement\" for Intel to make chips for Apple hardware, The Wall Street Journal reported Friday. Apple had famously moved on from Intel-powered computers with its highly successful transition to Apple Silicon, but now it appears the two companies will be working",
-      "source": "The Verge",
-      "publishTime": "2026-05-09",
-      "link": "https://www.theverge.com/tech/926988/apple-intel-chips"
     }
   ],
   "macroEvents": [
