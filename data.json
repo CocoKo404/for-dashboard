@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-05-10 07:11",
+  "updatedAt": "2026-05-10 08:10",
   "news": [
+    {
+      "id": "35b03df8-2d23-8143-96e5-edea2028bec6",
+      "title": "消息称天美 G1 工作室总经理高敏离职，未来或被整体裁撤",
+      "summary": "IT之家 5 月 10 日消息，据竞核报道，5 月 8 日天美内部发布公告，宣布高敏（Vincent Gao）不再担任 G1 工作室总经理职务。知情人士透露，高敏已在 5 月初正式离职。IT之家查询领英平台发现，高敏毕业于南京大学，曾在宝洁、Elex 智明星通等公司工作。他在 2016 年 11 月加入腾讯，一开始负责《王者荣耀》国际版《Arena of Valor》发行业务。2018 年起担任天美全球工作室经理。天美 G1 是天美工作室群旗下专注全球化业务的研发工作室，曾下设 Team Kaiju 和天美蒙特利尔工作室。前者由天美西雅图和洛杉矶工作室孵化，计划打造 3A 射击游戏但在 202",
+      "source": "IT之家",
+      "publishTime": "2026-05-10",
+      "link": "https://www.ithome.com/0/948/385.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81eb-a43a-e10039e9e775",
+      "title": "AMD 新技术可让 Linux 直接读取 CPU 最大频率，未来有望用于提升 Win11 系统调度能力",
+      "summary": "IT之家 5 月 10 日消息，Gazlog 发现，AMD 为 Linux AMD P-State 驱动提交了一项名为“CPPC HighestFreq”的新特性。该特性允许 CPU 通过固件直接向操作系统（预计也将应用于 Win11）报告每个核心最真实的最大加速频率，从而跳过操作系统频率估算环节。目前，Windows 和 Linux 等操作系统无法直接从固件读取 CPU 的加速频率信息，只能依赖 CPPC（Collaborative Processor Performance Control）提供的抽象性能数值，通过线性插值方法来估算加速行为。然而，在新款 Ryzen 处理器上，不同核心的性",
+      "source": "IT之家",
+      "publishTime": "2026-05-10",
+      "link": "https://www.ithome.com/0/948/384.htm"
+    },
+    {
+      "id": "35b03df8-2d23-815a-850b-e14dc3fd478c",
+      "title": "IT早报 0510：SK 海力士回应“员工人均奖金 610 万人民币”；多家车企辟谣“锁电”被约谈；曝 iPhone 18 Pro 灵动岛缩小 25%；DeepSeek 大范围开放“识图模式”...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 10 日星期日，今天的重要科技资讯有：1、SK 海力士回应“员工人均奖金 610 万人民币”：无法预测，今明年度业绩尚未确定SK 海力士 5 月 9 日向第一财经回应称，由于今年与明年的年度业绩尚未确定，奖金规模也无法预测。该公司同时表示，已在总部层面建立了一套新制度，即以营业利润的 10% 作为资金来源，每年发放一次绩效奖金。>> 查看详情2、中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息中国汽车工业协会相关负责人表示，针对近日网络上盛传的关于“8 家新能源车企因锁电问题被约谈”“3 家车企被立案”的说法，网传内容",
+      "source": "IT之家",
+      "publishTime": "2026-05-10",
+      "link": "https://www.ithome.com/0/948/383.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8157-a788-f03a0a899716",
+      "title": "美国加速 6G 频谱储备：NTIA 公布四大频段研究里程碑，7GHz 进度领先",
+      "summary": "IT之家 5 月 10 日消息，美国国家电信和信息管理局（NTIA）本周公布了其为 6G 开放新频谱的工作进展，四个不同频段的研究均在推进，其中 7GHz 频段进度最为领先。根据特朗普去年 12 月签署的“赢得 6G 竞赛”备忘录的指示，NTIA 主要负责研究并重配移动通信频谱。特朗普给予 NTIA 一年时间研究低段 7GHz 频段（7125MHz–7400MHz），同时探索将现有联邦用户迁移至其他频段（可能为 7.4GHz–8.4GHz）。备忘录还要求 NTIA 同步推进 2.7GHz 频段（2700MHz–2900MHz）和 4.4GHz 频段（4400MHz–4940MHz）的工作。此外",
+      "source": "IT之家",
+      "publishTime": "2026-05-10",
+      "link": "https://www.ithome.com/0/948/382.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81fb-acbf-fbdca25e9dc4",
+      "title": "任天堂研发支出激增 23.7%，Switch 2 改款机型或在研发中",
+      "summary": "IT之家 5 月 10 日消息，据科技媒体 Notebookcheck 昨天报道，任天堂 2026 财年年报显示，其研发支出同比增长 23.7%，让外界认为改款 Switch 2 呼之欲出。在 2026 财年，任天堂的研发费用达到 1778 亿日元（IT之家注：现汇率约合 77.28 亿元人民币），相比 2025 财年的 1446 亿日元（现汇率约合 62.85 亿元人民币）增长 23.7%。尽管任天堂这些年一直在逐步扩大研发预算，但如此大幅度的增长实属罕见。并且，任天堂上一次出现这么大规模的增长还是 2023-2024 财年，随后 Switch 2 就在 2025 年正式发布。如果再往前回顾",
+      "source": "IT之家",
+      "publishTime": "2026-05-10",
+      "link": "https://www.ithome.com/0/948/381.htm"
+    },
+    {
+      "id": "35b03df8-2d23-8141-bbbc-fe0053fd88f0",
+      "title": "铭瑄推出 MS-MoDT 230H/205H D4 WIFI 主板，搭载酷睿 7 230H / 酷睿 5 205H 处理器",
+      "summary": "IT之家 5 月 10 日消息，据 Videocardz 今天报道，铭瑄现已推出两款主板产品 MS-MoDT 230H D4 WIFI、MS-MoDT 205H D4 WIFI，采用移动端处理器，专为 SFF 小型化主机、工作站、边缘计算设备打造。IT之家了解到，虽然这两款主板名字里带有“200H”但并不属于英特尔 Arrow Lake 平台，酷睿 7 230H 与酷睿 5 205H 均被官方归类为 Raptor Lake 产品。前者（230H D4 WIFI）采用 10 核 16 线程设计、配备 6 个性能核与 4 个能效核心，最高睿频可达 5.2GHz，带有 24MB 缓存，基础功耗 45",
+      "source": "IT之家",
+      "publishTime": "2026-05-10",
+      "link": "https://www.ithome.com/0/948/380.htm"
+    },
+    {
+      "id": "35b03df8-2d23-81aa-bd75-d5ebcda3a8cb",
+      "title": "78 岁中芯国际创始人张汝京最新发声：网上很多人执着于 2/3nm 尖端芯片是认知误区，80% 的市场不需要先进制程",
+      "summary": "IT之家 5 月 10 日消息，昨日，有着“中国半导体教父”之称的中芯国际创始人张汝京接受了《科创板日报》专访。年届 78 岁的他，仍为我国半导体产业发展与人才培育持续奔走。在接受采访前，张汝京刚从上海临港驱车约 5 小时抵达江苏扬州，此行是为了深入了解高邮市半导体产业发展情况，并实地走访了位于当地的矽谦高端 3D 电容项目建设现场以及江苏鑫沣尚先进材料科技有限公司生产车间。在考察过程中，张汝京多次向当地企业问及“这个产线是不是国产的”，特别关注设备和材料国产化的进展，听到肯定的回答后，他一连说了几声“太好了”。针对当前国内半导体产业的发展路径，张汝京指出，“很多人觉得，半导体产业的竞争就是先",
+      "source": "IT之家",
+      "publishTime": "2026-05-10",
+      "link": "https://www.ithome.com/0/948/379.htm"
+    },
     {
       "id": "35b03df8-2d23-815d-b0e0-ed5998fbb4e3",
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
@@ -344,62 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-05-09",
       "link": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy"
-    },
-    {
-      "id": "35b03df8-2d23-81de-af96-e723080553f5",
-      "title": "奥海推出“普罗米修斯”USB-C 充电线：可当打火机和小刀使用，298 元",
-      "summary": "IT之家 5 月 9 日消息，奥海宣布推出一款“普罗米修斯”240W USB-C 充电线，该产品集成了打火机和伸缩隐藏式钛合金刀头，定价为 298 元。据介绍，该充电线长度 166 毫米，在连接手机后即可点火，支持手机 / 电脑 / 汽车等供电。同时该充电线内置了可伸缩钛合金多功能刀头，号称布氏硬度达 400，可以随时随地切割电线等各种物体。IT之家附产品参数：天猫奥海“普罗米修斯”充电线 298 元直达链接",
-      "source": "IT之家",
-      "publishTime": "2026-05-09",
-      "link": "https://www.ithome.com/0/948/350.htm"
-    },
-    {
-      "id": "35b03df8-2d23-81c0-a82b-c8ee4ca7af9a",
-      "title": "比亚迪方程豹豹 8 / 豹 5 闪充版上市发布会定档 5 月 13 日",
-      "summary": "IT之家 5 月 9 日消息，方程豹今日宣布，比亚迪云辇-P Ultra 暨方程豹豹 8、豹 5 闪充版定档 5 月 13 日 19:00，定位“闪充混动高端越野 SUV”。IT之家注意到，在今年 3 月举行的比亚迪二代刀片电池暨闪充技术发布会上，比亚迪发布了全球量产单枪最大功率充电桩 —— 比亚迪闪充桩，单枪充电功率可达 1500KW。比亚迪董事长兼总裁王传福发布“闪充中国”战略 —— 在全国范围内大规模建设闪充站，预计到今年年底建成 2 万座闪充站。随后，比亚迪发布方程豹钛 3 闪充版 / 钛 7 EV 闪充版车型，售价分别为 15.38 万元起和 19.98 万元起。",
-      "source": "IT之家",
-      "publishTime": "2026-05-09",
-      "link": "https://www.ithome.com/0/948/349.htm"
-    },
-    {
-      "id": "35b03df8-2d23-814a-afc8-cef239820cdf",
-      "title": "I moved back in with my parents at 24. It made me grow up way more than renting with friends.",
-      "summary": "I'm one of the adult children still living with my parents. I've grown up more in the last few months than I did renting with friends.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/boomerang-kid-adult-living-with-parents-made-me-grow-up-2026-5"
-    },
-    {
-      "id": "35b03df8-2d23-81e2-b9b4-c47607dec8b5",
-      "title": "I cashed out $60,000 from my retirement account to pay for my child's education. I have no regrets.",
-      "summary": "I used my retirement savings to pay for my son's specialized school. It wasn't easy, but it changed his life.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/cashed-out-retirement-pay-son-school-tuition-2026-5"
-    },
-    {
-      "id": "35b03df8-2d23-81cc-8568-cf678d6fa740",
-      "title": "加拿大多伦多查获一起“伪基站”电信诈骗案，三名涉案男子因发送钓鱼短信面临 44 项指控",
-      "summary": "IT之家 5 月 9 日消息，据外媒 TechCrunch 报道，近期加拿大多伦多警察局破获一起伪基站案件，涉案 3 名男子在加拿大多伦多市中心操作伪基站发送钓鱼短信，面临 44 项指控。据介绍，这起调查始于 2025 年 11 月，当时有公司向执法部门报告称多伦多市中心疑似出现了伪基站设备。查获的钓鱼短信案例主要伪装成来自各大权威机构的通知，要求用户点击短信附带的链接进入黑客架设的钓鱼网站，用户在访问网站后就有可能被欺骗输入个人信息、银行账号以及密码等敏感数据。多伦多警察局表示，执法部门最终查获发现相应伪基站被安放在一辆经过特殊改装的汽车后部，允许诈骗分子能够随时移动至不同地点实施诈骗并逃离",
-      "source": "IT之家",
-      "publishTime": "2026-05-09",
-      "link": "https://www.ithome.com/0/948/347.htm"
-    },
-    {
-      "id": "35b03df8-2d23-81b2-8cc0-c5628dc5a4c8",
-      "title": "吉利全新博越十周年冠军版上市：搭载 Flyme Auto 智能座舱，限时价 8.79 万元",
-      "summary": "IT之家 5 月 9 日消息，今天晚间，吉利全新博越十周年冠军版正式上市，上市指导价 9.69 万元，限时价 8.79 万元，6 月 30 日前购买用户限时赠送价值 2199 元的十周年冠军套装。目前，吉利全新博越车型共包含 5 款配置，限时价区间为 7.69 万-9.79 万元。新车采用专属时光蓝车色，内饰多处增加十周年专属纪念徽标，并搭载 Flyme Auto 智能座舱，通过 GEEA3.0 电子电气架构的加持，智能化迎来提升，并支持 L2 级辅助驾驶系统。据IT之家了解，新车长宽高分别为 4549/1865/1650mm，轴距为 2707mm，拥有 85.4% 的得房率以及 37 处储物",
-      "source": "IT之家",
-      "publishTime": "2026-05-09",
-      "link": "https://www.ithome.com/0/948/346.htm"
-    },
-    {
-      "id": "35b03df8-2d23-818d-8d2f-da5e0902b38b",
-      "title": "I'm an aunt to 12 kids. Staying close to them as teenagers takes more effort than I expected.",
-      "summary": "I have 12 nieces and nephews and love being the 'cool aunt.' As they get older, though, staying close to them takes more effort.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-09",
-      "link": "https://www.businessinsider.com/aunt-nieces-nephews-relationship-older-takes-effort-2026-5"
     }
   ],
   "macroEvents": [
