@@ -1,6 +1,350 @@
 {
-  "updatedAt": "2026-05-11 23:44",
+  "updatedAt": "2026-05-12 02:16",
   "news": [
+    {
+      "id": "35d03df8-2d23-816e-a00b-d2731de59554",
+      "title": "Capital, Not Compute, is the Real AI Bottleneck",
+      "summary": "Satisfying AI’s ravenous appetite for power and compute has kicked off a once-in-a-generation infrastructure expansion that is also one of the most expensive in modern history. Nvidia CEO Jensen Huang has estimated a single gigawatt of capacity can cost as much as $50 billion. With McKinsey projecti",
+      "source": "The Information",
+      "publishTime": "2026-05-12",
+      "link": "https://www.theinformation.com/articles/capital-compute-real-ai-bottleneck"
+    },
+    {
+      "id": "35d03df8-2d23-81aa-b711-ecb37486a48c",
+      "title": "Microsoft CEO Satya Nadella takes stand in Musk v. Altman trial",
+      "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-12",
+      "link": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html"
+    },
+    {
+      "id": "35d03df8-2d23-8154-9e16-cb65700f665f",
+      "title": "Hassett says AI isn't costing anybody their job right now — but tech layoffs keep coming",
+      "summary": "Tech companies have continued to announce layoffs tied to AI, including recent cuts from Amazon, Meta and Oracle.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-12",
+      "link": "https://www.cnbc.com/2026/05/11/trump-white-house-hassett-ai-jobs.html"
+    },
+    {
+      "id": "35d03df8-2d23-81ae-80ad-f89f325a80cd",
+      "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit",
+      "summary": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-12",
+      "link": "https://www.cnbc.com/2026/05/11/trump-ceos-elon-musk-tim-cook-larry-fink-xi-china-summit.html"
+    },
+    {
+      "id": "35d03df8-2d23-8119-94d2-f4d93fe4e87c",
+      "title": "Google stopped a zero-day hack that it says was developed with AI",
+      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed th",
+      "source": "The Verge",
+      "publishTime": "2026-05-12",
+      "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped"
+    },
+    {
+      "id": "35d03df8-2d23-81df-bad9-e31cc99aa8fa",
+      "title": "Passengers on the Frontier flight that hit a person broke a key rule of airline evacuations",
+      "summary": "After a Frontier Airlines plane struck a person on the runway, passengers were evacuated, but many ignored the crew and still took their bags.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/frontier-airlines-passengers-broke-key-safety-rule-taking-their-bags-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-812a-853b-f54430dcf278",
+      "title": "A million baby monitors and security cameras were easily viewable by hackers",
+      "summary": "A baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that reminds me of my own daughters, with an unmade bunk bed, a little girl's hat and headband, and Hello Kitty […]",
+      "source": "The Verge",
+      "publishTime": "2026-05-12",
+      "link": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera"
+    },
+    {
+      "id": "35d03df8-2d23-8156-b424-d5382242d87a",
+      "title": "Former Tesla CFO Deepak Ahuja joins EV battery recycler Redwood Materials",
+      "summary": "Before joining Redwood Materials, Ahuja served as chief financial and business officer at the drone delivery startup Zipline for about three years.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-12",
+      "link": "https://www.cnbc.com/2026/05/11/redwood-materials-deepak-ahuja-tesla-straubel.html"
+    },
+    {
+      "id": "35d03df8-2d23-81bf-9863-f51ba5adaf20",
+      "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
+      "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-12",
+      "link": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/"
+    },
+    {
+      "id": "35d03df8-2d23-81dd-af2a-ca930160bfc4",
+      "title": "SpaceXAI 组建进行时，马斯克已提交商标注册申请",
+      "summary": "xAI 撤销后，新的 SpaceXAI 正在建立。美国专利部门网站显示，马斯克已经提交了 SpaceXAI 的商标注册申请。xAI 摇身一变，从独立公司变成了 SpaceX 的一部分。合并之后，马斯克对 AI 和太空基础设施的整合，也将进一步增强。SpaceXAI 成立进行时根据美国专利商标局的文件，SpaceX 已就 SpaceXAI 提交了两份商标申请。第一份明确指向太空算力方向，覆盖范围包括基于卫星的数据中心服务及轨道计算基础设施，以及用于数据处理的 AI SaaS。第二份则范围更广，涵盖使用卫星星座的全球定位系统、互联网服务器、电信硬件、云存储服务、和社交网络等。去年 xAI 收购了社",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/033.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8179-ba36-d25e9e934577",
+      "title": "菲尔兹奖得主亲测 ChatGPT 5.5 Pro：17 分钟出论文级成果，替学生拉响红色警报",
+      "summary": "如果 AI 的数学水平继续按目前速度发展，我们（数学研究者）很快会面临一场危机。数学最高奖菲尔兹奖得主 ——Timothy Gowers，在最新体验到 ChatGPT 5.5 Pro 后，替学生们拉响了红色警报。其对博士生的影响，尤为紧迫。事情是这样的，这位剑桥大学的数学大牛，最近搞到了尊贵的 5.5 Pro「优速通」权限。拿到新玩具后，Gowers 随手把几道加法数论的公开难题丢给了 AI，想瞅瞅怎么个事。但接下来发生的事，完全超出了他的预料。不到两个小时，小 GPT 独立完成了一项他认为「完全够格写进博士论文」的数学成果。全程，Gowers 教授没有提供任何数学层面的指导。唯一需要他做的事",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/032.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8106-844a-fd3c11970618",
+      "title": "7 of our favorite deals from Amazon’s Pet Days sale",
+      "summary": "A big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I’m not spending anywhere near as much money on tech as I am on food, litter, and other supplies for our two cats. Sad, but true. If your life is […]",
+      "source": "The Verge",
+      "publishTime": "2026-05-11",
+      "link": "https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale"
+    },
+    {
+      "id": "35d03df8-2d23-8181-8e12-f8be2236b0b2",
+      "title": "OpenAI Launches $10 Billion Private-Equity Joint Venture, Acquires Consultancy",
+      "summary": "OpenAI on Monday announced its $10 billion private-equity joint venture called the OpenAI Deployment Company, which aims to help businesses deploy and integrate AI into their operations. As part of the new company, OpenAI also announced it had bought Tomoro, an AI consulting and engineering ...",
+      "source": "The Information",
+      "publishTime": "2026-05-11",
+      "link": "https://www.theinformation.com/briefings/openai-launches-10-billion-private-equity-joint-venture-acquires-consultancy"
+    },
+    {
+      "id": "35d03df8-2d23-81f0-b08a-ff379de41af0",
+      "title": "新款路虎卫士 110 谍照曝光，新增四座布局",
+      "summary": "IT之家 5 月 11 日消息，路虎正在准备卫士的第二次重大更新。外媒 Autocar 在 11 日（今天）公布的最新卫士 110 测试车谍照显示，新车将迎来外观细节调整，并新增一种四座座舱布局。从被拍到的原型车看，新车换装了前后保险杠和日间行车灯，车顶还增加了一条小型扰流唇。座舱变化更明显。新款卫士 110 预计会取消三座式后排长椅，改用两张此前已被卫士 130 应用的独立“船长椅”。卫士上一次更新是在去年 5 月，主要调整了大灯设计，使投影灯组变得更小，并加入多项欧盟 GSR2 法规要求的新安全系统。这次更新，有望增强卫士面对新对手时的竞争力。接下来，卫士在英国本土将面对即将推出的宝马 X",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/031.htm"
+    },
+    {
+      "id": "35d03df8-2d23-811d-bad3-f27cc72b82ca",
+      "title": "Here's how much the governor of every US state makes, ranked",
+      "summary": "From $70,000 in Maine to $253,870 in Pennsylvania, here's what every US governor makes, and why some even give up their salaries.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-11",
+      "link": "https://www.businessinsider.com/governor-salary-in-every-us-state"
+    },
+    {
+      "id": "35d03df8-2d23-818a-bf55-d2c5152a761e",
+      "title": "Shift Up 称《剑星 2》顺利推进中，更多细节年内公布",
+      "summary": "IT之家 5 月 11 日消息，据外媒 Wccftech 报道，《剑星》开发商 Shift Up 当地时间 11 日（今天）表示，《剑星 2》开发“进展顺利”，更多消息将在今年年底前公布。这项消息来自 Shift Up 最新财报问答环节。被问及下一款《剑星》游戏的开发进度和发行策略时，Shift Up 表示：“下一款《剑星》作品开发进展顺利，正在按计划达到我们的目标质量标准。”Shift Up 随后也确认，《剑星 2》将由公司自行发行。对 Shift Up 来说，《剑星 2》也是公司转向“第一方服务模式”的起点。公司希望依靠“高质量自发行能力、销售最大化战略，以及已经得到验证的 IP 粉丝基础",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/030.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8167-bcd7-dbbb8826af37",
+      "title": "I was raised by my mom and her sisters. Growing up with 3 'mothers' has made me a more thoughtful adult.",
+      "summary": "After my parents' divorce, my mom and I moved in with my aunts. My non-traditional upbringing with three \"moms\" was great and helped my social skills.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-11",
+      "link": "https://www.businessinsider.com/raised-by-mom-and-her-sisters-unconventional-upbringing-shaped-me-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-810b-9013-c93a29e09b31",
+      "title": "MiniMax 启动“10x Team”合作计划，提供无限的 Token",
+      "summary": "IT之家 5 月 11 日消息，MiniMax 今日宣布启动“10x Team”合作计划：每个领域，都值得十倍增长。据官方介绍，过去一年大模型生产力属性持续凸显，编程、内容创作率先实现智能化升级。此前数月，MiniMax 已与工业软件、游戏引擎、芯片设计、金融、财务等多个领域的行业专家开展实质性合作，验证了行业顶尖人才参与模型迭代优化的技术价值，相关合作成果将整合应用于后续迭代模型中。IT之家注意到，本次 10x Team 计划面向具备行业积累、认可 AI 赋能行业发展逻辑，且能够自主参与问题定义、评测体系与工作流搭建的专业人士。MiniMax 表示，项目相关评测内容将进行开源，合作成果不仅会",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/029.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81b0-be12-d27ed14d3240",
+      "title": "GM settles California lawsuit claiming it sold driving habit data to insurance companies",
+      "summary": "General Motors has agreed to pay $12.75 million to settle a California data privacy lawsuit that accused the automaker of selling driver location and driver data, as reported earlier by Reuters. In a proposed settlement filed on Friday, GM agreed to stop selling customer information to data brokers ",
+      "source": "The Verge",
+      "publishTime": "2026-05-11",
+      "link": "https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies"
+    },
+    {
+      "id": "35d03df8-2d23-8184-b224-fb6f5a5cb17e",
+      "title": "领克 07 GT 旅行车蓝色外观公布，配备专属运动套件",
+      "summary": "IT之家 5 月 11 日消息，今天晚间，领克汽车公布了领克 07 GT 旅行车的首批外观官图。据介绍，新车沿袭 The Next Day 原创设计，号称“看得爽更开得爽”。此次亮相的新车采用蓝黑双拼色，官方提供“蒂卡波蓝”“帕米尔蓝”“马略卡蓝”三种备选名称，并发起命名征集。IT之家获悉，新车还将配备专属运动套件。上周工信部发布的第 407 批《道路机动车辆生产企业及产品公告》新产品公示中，领克 07 GT 的部分参数信息得以公开。该车车身尺寸为 4846（4866）mm x 1900mm x 1485mm，轴距为 2843mm，产品名称为插电式混合动力轿车。从图上看，该车延续了家族式外观设",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/028.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81a1-9e9b-fc59e1f33449",
+      "title": "OpenAI 豪掷 40 亿美元成立新公司，要帮企业部署 AI",
+      "summary": "IT之家 5 月 11 日消息，OpenAI 于当地时间周一宣布，将成立一家新公司，初始投资超 40 亿美元（IT之家注：现汇率约合 272.29 亿元人民币），助力各类机构搭建并落地人工智能系统；同时将收购人工智能咨询公司 Tomoro，以此快速壮大新业务板块。在早期模型获得消费者广泛认可后，OpenAI 便积极推进企业合作签约，着力深耕商业领域，推动其人工智能技术实现大规模落地应用。这家新合资企业将由 OpenAI 持有多数股权并掌控运营。与此同时，竞争对手 Anthropic 在企业级人工智能布局中斩获颇丰，旗下 Claude 系列模型正被众多企业快速采用。OpenAI 表示，这家名为 ",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/027.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8163-b2e4-cd49a8eeebfb",
+      "title": "Water Use Isn’t a Data Center Problem, It’s an AI Problem",
+      "summary": "Critics of the AI build-out are picking the wrong fight when they attack data centers for their water use. But they are right when they say the digital economy is getting thirstier and the tech industry should answer for it.The whole AI supply chain is water intensive, and reducing use in one place ",
+      "source": "The Information",
+      "publishTime": "2026-05-11",
+      "link": "https://www.theinformation.com/articles/water-use-data-center-problem-ai-problem"
+    },
+    {
+      "id": "35d03df8-2d23-81ce-974d-dbd635c8dc37",
+      "title": "Anthropic's Daniela Amodei shares her cofounder test: 'Go on vacation together'",
+      "summary": "Anthropic president Daniela Amodei shared her tips for picking a good cofounder. She recommended sharing a room while traveling first.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-11",
+      "link": "https://www.businessinsider.com/daniela-amodei-anthropic-test-cofounder-vacation-advice-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-8135-a3b8-cdf90eec7ffd",
+      "title": "消息称 AMD 准备推出 Radeon RX 9050 8GB 显卡",
+      "summary": "IT之家 5 月 11 日消息，外媒 VideoCardz 刚刚报道称，根据其从 AIB 合作伙伴处掌握到的情况，AMD 准备推出在桌面端推出一款定位低于现有全部款式的 \"RDNA 4\" 显卡新品，即 Radeon RX 9050 8GB。根据泄露，该显卡将基于 \"Navi 44\" 核心，拥有完整的 2048 个流处理器，但运行速度降至游戏频率 1920MHz、提升频率 2600MHz；显存方面，其配备 128-bit 位宽 8GB 容量 18Gbps 等效速率的 GDDR6，带宽持平 RX 9060。IT之家注：泄露数据对应 21.3 TFLOPs 的 FP32 矢量峰值算力，略低于 RX ",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/026.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81a0-8966-ff3fdccf7608",
+      "title": "Cerebras Raises Pricing Range Ahead of IPO",
+      "summary": "AI chip designer Cerebras Systems raised its preliminary IPO pricing range to between $150 and $160 a share, from between $115 and $125, in a sign that investor demand for the company is strong. At the new pricing range, Cerebras would raise about $4.5 billion. It would also value Cerebras at ...",
+      "source": "The Information",
+      "publishTime": "2026-05-11",
+      "link": "https://www.theinformation.com/briefings/cerebras-raises-pricing-range-ahead-ipo"
+    },
+    {
+      "id": "35d03df8-2d23-81d8-9e92-d59e69b09b23",
+      "title": "A Ukrainian arms maker was surprised to see Russian soldiers surrender to its war robots",
+      "summary": "Using robots to approach Russian soldiers in surrender situations keeps Ukrainian soldiers safe from attacks, manufacturer DevDroid said.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-11",
+      "link": "https://www.businessinsider.com/russians-surrendering-to-ukraine-ground-robots-surprise-to-maker-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-81d8-ad16-f0b73be31e1b",
+      "title": "Matter and OpenADR team up to connect smart homes to the grid",
+      "summary": "Smart energy management just took a step closer to becoming simpler. This week, the organizations behind Matter, the smart-home interoperability standard, and the OpenADR protocol, which sends signals between the grid and the home, announced an agreement to work together. This should make it easier ",
+      "source": "The Verge",
+      "publishTime": "2026-05-11",
+      "link": "https://www.theverge.com/tech/927756/matter-openadr-demand-response-smart-home-energy-management"
+    },
+    {
+      "id": "35d03df8-2d23-8106-9882-d02ff2ae55a0",
+      "title": "快手可灵被传将以 200 亿美元估值融资，谋求“单飞”上市",
+      "summary": "IT之家 5 月 11 日消息，据《科创板日报》援引媒体消息，快手科技计划将其旗下可灵（Kling）AI 视频业务分拆，并计划明年实现 IPO 上市。报道称，快手已与潜在投资者就可灵 Pre-IPO 融资进行洽谈，该轮融资对可灵的估值将达到 200 亿美元（IT之家注：现汇率约合 1361.47 亿元人民币）。值得关注的是，周末创投圈已率先传出可灵拟独立融资的消息，引发行业广泛关注。针对上述分拆及 IPO 传闻，《科创板日报》记者向快手科技方面进行核实，截至发稿，对方暂未给出明确回应。一位不愿具名的 TMT 行业分析师向记者分析指出，快手推动可灵分拆上市，核心动因或源于估值重构需求。IT之家注",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/024.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8146-b776-df011e676da8",
+      "title": "徕芬预热智能化妆镜 M8：内置 64 颗 Ra98 高显色灯珠、配毫米波雷达",
+      "summary": "IT之家 5 月 11 日消息，在目前正在进行的徕芬发布会上，徕芬预热了旗下智能化妆镜 M8，目前该产品已上架京东，将于 5 月 14 日直播中公布更多详情。该产品提供四种配色，采用铝合金支架，内置 64 颗 Ra98 高显色灯珠，拥有 1450lux 照度，可实现 360 度均匀补光。化妆镜提供三挡色温 / 六挡亮度可选，内置 24GHz 毫米波雷达，可实现近 30 厘米自动亮灯。",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/023.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81f3-b0a9-ccb0466ef32c",
+      "title": "Discord 平台 Nitro 付费会员正式集成 Xbox Game Pass 入门版",
+      "summary": "IT之家 5 月 11 日消息，以游戏领域起家的频道社交平台 Discord 当地时间今日宣布为其 Nitro 付费会员推出 Nitro Rewards 回馈奖励机制，而这其中就包括此前泄露的 Microsoft（微软）Xbox Game Pass 游戏订阅入门版 (starter edition) 权益。这一特殊版本的 XGP 包含 50 多款 PC 和主机游戏的游玩权限（游戏阵容包括《辐射 4》《DayZ》《深岩银河》《胡闹厨房 2》等且会定期扩展），此外每月 10 小时的 xCloud 云游戏时长也在其中。Nitro Rewards 亦包括购买 Logitech G（罗技 G）、Stee",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/022.htm"
+    },
+    {
+      "id": "35d03df8-2d23-817d-82f1-ced5fe2c2507",
+      "title": "马斯克诉奥尔特曼案进入最后阶段，苏茨克维的证词或成判决转折点",
+      "summary": "IT之家 5 月 11 日消息，据《商业内幕》今日报道，埃隆 · 马斯克起诉萨姆 · 奥尔特曼和 OpenAI 的案件即将进入尾声。双方作结案陈词前，仍有几名关键证人预计出庭，其中包括 OpenAI 联合创始人、前高管伊利亚 · 苏茨克维，微软 CEO 萨蒂亚 · 纳德拉，以及奥尔特曼本人。结案陈词最快可能在本周进行。简单来说，OpenAI 联合创始人马斯克指控奥尔特曼和 OpenAI 总裁格雷格 · 布罗克曼欺骗自己，推动 OpenAI 从 AI 初创公司转向营利性实体。OpenAI 则认为，马斯克此举是为了拖慢 OpenAI，让自己的 AI 初创公司 xAI 争取追赶时间。IT之家从报道中",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/021.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8138-8e8b-f8c1a5e1e598",
+      "title": "The Startup Helping OpenAI Optimize Its AI For Cerebras Chips",
+      "summary": "As access to Nvidia AI chips become more elusive, major developers such OpenAI and Meta Platforms are diversifying their sources of computing power, including by striking deals to use a variety of AI server chips. But making that approach work is not a cinch. The AI labs need to tailor the code that",
+      "source": "The Information",
+      "publishTime": "2026-05-11",
+      "link": "https://www.theinformation.com/articles/startup-helping-openai-optimize-ai-cerebras-chips"
+    },
+    {
+      "id": "35d03df8-2d23-8119-8abb-d4613ad50419",
+      "title": "NYT’s Wordle to become a TV game show",
+      "summary": "The popular mobile puzzle game will become a TV game show next year.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-11",
+      "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/"
+    },
+    {
+      "id": "35d03df8-2d23-81d8-b58a-fb38657a4022",
+      "title": "The AI industry is turning to an old energy favorite to bring its data centers online fast",
+      "summary": "AI companies are in a race to secure energy for their data centers. They are finding that natural gas is the easiest solution, if not the cleanest.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-11",
+      "link": "https://www.businessinsider.com/ai-data-center-energy-natural-gas-renewables-environment-2026-4"
+    },
+    {
+      "id": "35d03df8-2d23-8110-ab80-d22ebdb97afb",
+      "title": "TikTok launches an ad-free subscription plan in the UK",
+      "summary": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-11",
+      "link": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/"
+    },
+    {
+      "id": "35d03df8-2d23-8118-9b3b-e16d33895e27",
+      "title": "Google Says Hackers Used AI to Find Critical Security Flaw",
+      "summary": "Google recently observed hackers using AI models to find a previously undiscovered security flaw, the company said on Monday. The hacker planned to use the flaw for a “mass exploitation event,” but Google security researchers believe they successfully warded off the attack after noticing the ...",
+      "source": "The Information",
+      "publishTime": "2026-05-11",
+      "link": "https://www.theinformation.com/briefings/google-says-hackers-used-ai-find-critical-security-flaw"
+    },
+    {
+      "id": "35d03df8-2d23-814a-b171-c40896cf1d2c",
+      "title": "12306 回应动车卧铺加装床帘：暂未接到统一通知，仅少量新车配备便民设施",
+      "summary": "IT之家 5 月 11 日消息，据《经视直播》今日报道，近日，有网友在社交平台发帖分享，乘坐中国铁路济南局集团有限公司动车组二等卧时发现车厢配备了卧铺床帘，私密性大幅提升，纷纷点赞该便民举措。据网友反馈，目前仅有济南局部分新款动卧列车配备床帘，并非该局所有车次全覆盖。不少网友纷纷留言，希望这项便民配置能在全国动车组动卧列车全面推广。针对网友关注的动卧床帘安装普及问题，5 月 11 日，12306 客服回应，目前官方暂未接到动车组卧铺统一加装床帘的相关通知，个别车次出现床帘配置，大概率属于零星的便民举措。记者向济南局一名动车组列车工作人员求证后得知，济南局动卧列车，目前仅有 1 至 2 辆新车出",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/020.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81e8-a71b-ec9442bac624",
+      "title": "Joanna Stern is not a robot, but she lived with them",
+      "summary": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my very closest friends. I mention that becau",
+      "source": "The Verge",
+      "publishTime": "2026-05-11",
+      "link": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation"
+    },
+    {
+      "id": "35d03df8-2d23-811e-a7a0-ff436a7b729d",
+      "title": "因出售车主驾驶行为数据，通用汽车在加州被罚 1275 万美元",
+      "summary": "IT之家 5 月 11 日消息，通用汽车将向加州支付 1275 万美元（现汇率约合 8679.4 万元人民币）民事罚款，以了结出售驾驶员数据相关指控。此前，通用汽车被曝把车主位置和驾驶行为数据出售给第三方数据经纪商。加州也成为美国首个就此事与通用汽车达成和解的州。和解协议仍需法院批准。协议还规定，通用汽车未来 5 年不得向任何消费者报告机构出售驾驶数据。通用汽车必须删除已获取的信息，并要求曾购买这些数据的两家数据经纪商 LexisNexis Risk Solutions 和 Verisk Analytics 同步删除。通用汽车发言人回应称：“这项协议涉及已在 2024 年停用的 Smart D",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/018.htm"
+    },
+    {
+      "id": "35d03df8-2d23-810b-9f63-f4896b22ec8b",
+      "title": "国产晶圆代工最大并购，中芯国际 406 亿元方案获上交所通过",
+      "summary": "IT之家 5 月 11 日消息，今日，中芯国际发行股份购买资产获上交所并购重组审核委员会审议通过：本次交易符合重组条件和信息披露要求。据IT之家此前报道，中芯国际于 2025 年底披露发行股份购买资产暨关联交易报告书草案，公司拟向国家集成电路基金等 5 名中芯北方股东发行股份购买其所持有的标的公司 49.00% 股权，交易价格 406.01 亿元。这是国产晶圆代工行业历史上金额最大的并购案。中芯北方作为中芯国际的控股子公司，主要为客户提供不同工艺平台的 12 英寸集成电路晶圆代工及配套服务。本次交易完成后，中芯国际将持有中芯北方 100.00% 的股权，中芯北方将成为中芯国际的全资子公司。中芯",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/016.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81ab-8677-d35a0e07cbce",
+      "title": "张雪祝贺吉利汽车意大利米萨诺夺冠，6 月 12 日将挑战同一条赛道",
+      "summary": "IT之家 5 月 11 日消息，5 月 10 日，2026 赛季 FIA TCR 世界巡回赛揭幕战在意大利米萨诺世界赛道结束全部争夺。首次出战的吉利中国星车队在第二回合比赛中实现突破，中国车手马青骅驾驶全新吉利星瑞 TCR 赛车夺得冠军。赛后，张雪机车创始人张雪发布祝贺视频，并表示张雪机车 6 月 12 日也会在这条赛道进行比赛，希望取得和吉利一样的战绩。对此，吉利汽车表示感谢：“期待张雪机车在 6 月 12 日意大利米萨诺赛道再创佳绩！我们一起将每一份热爱铸成中国力量，让中国星闪耀世界！”IT之家注意到，5 月 8 日-10 日，2026 赛季 FIA TCR 世界巡回赛揭幕战在意大利米萨诺",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/015.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81c7-b6be-d9fb04b5a0ff",
+      "title": "“智界版 FUV”跨界轿跑车谍照曝光：运动姿态，车头修长",
+      "summary": "IT之家 5 月 11 日消息，博主 @SugarDesign 今天发布了“智界版 FUV”车型的谍照，新车覆盖伪装，但车身轮廓已经一览无余。新车大范围地使用曲线，营造出较为优雅、动感的整体姿态，并采用了长车头设计，是一款跨界轿跑车型。其他细节方面，这款新车预计会采用半隐藏式门把手（IT之家注：根据图片初步判断系上翻式），尾部预计将配备一个大尺寸尾翼。而在今年 4 月有消息称，智界正规划一款轿跑车型，计划达到一个“较为极限的性能目标”。这款车或将被送往纽北赛道，挑战一众国外豪华超跑车型。这款轿跑的推出，或将加速智界品牌的高端化。相关阅读：《消息称鸿蒙智行正规划智界轿跑车型，或赴纽北赛道挑战国外",
+      "source": "IT之家",
+      "publishTime": "2026-05-11",
+      "link": "https://www.ithome.com/0/949/014.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8114-9441-f7e8b5557e38",
+      "title": "The reviews are in: Warren Buffett's faithful fans share their thoughts on Greg Abel",
+      "summary": "At Warren Buffett's big bash in Omaha, we asked Berkshire Hathaway investors, authors, and managers what they thought of his successor, Greg Abel.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-11",
+      "link": "https://www.businessinsider.com/warren-buffett-greg-abel-berkshire-hathaway-shareholder-meeting-management-leadership-2026-5"
+    },
     {
       "id": "35d03df8-2d23-8187-83f9-fbf6c2fa0e27",
       "title": "Micron shares are rising again despite weak overall market. Why memory chip rally seems unstoppable",
@@ -56,350 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-05-11",
       "link": "https://www.ithome.com/0/948/998.htm"
-    },
-    {
-      "id": "35d03df8-2d23-811e-8a0a-c350e42b8315",
-      "title": "TikTok launches £3.99 subscription for no ads in UK",
-      "summary": "Those who don't subscribe will be able to use the platform for free - but be shown personalised ads by default.",
-      "source": "BBC Tech",
-      "publishTime": "2026-05-11",
-      "link": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "35d03df8-2d23-814c-a156-e773970f6779",
-      "title": "徕芬 AirFold 折叠风扇发布：定制轴向磁通电机、至高 14 小时续航，399 元起",
-      "summary": "IT之家 5 月 11 日消息，在目前正在进行的徕芬科技发布会上，徕芬 CEO 叶洪新推出了 AirFold 折叠风扇，该产品主打便携场景，标准版定价 399 元，部分地区国补后到手价低至 339 元。透明探索版 459 元，部分地区国补后 359 元。据官方介绍，该风扇采用创新折叠结构，同时拥有定制轴向磁通电机，能够在有限空间内实现更强风力和更低噪音，风扇拥有“自然风”体感，能够通过电机算法与扇叶结构协同模拟柔和气流，避免传统风扇直吹的生硬感，提升舒适度。风扇在一档风速下至高拥有 14 小时续航。",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/997.htm"
-    },
-    {
-      "id": "35d03df8-2d23-812b-8061-e27586a67416",
-      "title": "Box's new role for the AI era is the latest to take inspiration from Palantir",
-      "summary": "Box's CEO said the new \"AI Business Automation Engineer\" role is similar to Palantir's forward-deployed engineer model, but for internal functions.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-11",
-      "link": "https://www.businessinsider.com/box-hiring-ai-business-automation-engineer-agent-role-palantir-2026-5"
-    },
-    {
-      "id": "35d03df8-2d23-8180-9a66-cdf5c8752e58",
-      "title": "追觅推出 Y-Wind31 系列空调：送风距离 7.2m、噪音低至 18dB、APF5.26 超一级能效",
-      "summary": "IT之家 5 月 11 日消息，追觅宣布推出 Y-Wind31 系列空调，相应产品主打“舒适焕新风静享深呼吸”，将于 5 月 12 日（明天）晚 8 点发布。系列空调采用静谧白配色，表面经哑光柔化与高精度注塑工艺处理，搭载全新风道设计，送风距离 7.2m，内置独立新风系统，运行噪音可低至 18dB(A)，每小时可输送约 40m³ 新鲜空气，并采用微正压换风技术持续排出室内污浊空气，降低 CO₂浓度。同时其配备 HEPA 滤网，搭配初效过滤、高效抗菌等多重净化结构，高效隔离空气污染。系列空调提供 APF5.26 超一级能效标准，内置全直流变频系统，支持-35°C 至 65°C 宽温域稳定运行，并",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/996.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81dc-b493-d927f9541da2",
-      "title": "TikTok is letting UK users pay to remove ads",
-      "summary": "TikTok is preparing to roll out a paid, ad-free version of its app in the UK. The new subscription announced today will be available to users over 18 \"over the coming months,\" according to TikTok's announcement and will cost £3.99 (about $5.40) per month. In exchange for that, TikTok will remove ads",
-      "source": "The Verge",
-      "publishTime": "2026-05-11",
-      "link": "https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk"
-    },
-    {
-      "id": "35d03df8-2d23-814c-8e68-d8c75efbd646",
-      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
-      "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-11",
-      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
-    },
-    {
-      "id": "35d03df8-2d23-8150-8dcc-d225be9d3547",
-      "title": "Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers",
-      "summary": "Discord is announcing the launch of Nitro Rewards today, a new program for subscribers that bundles benefits from third parties like Microsoft, Logitech, and SteelSeries, into a Nitro subscription. The main addition is that Nitro members will now get a new starter edition of Xbox Game Pass at no ext",
-      "source": "The Verge",
-      "publishTime": "2026-05-11",
-      "link": "https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers"
-    },
-    {
-      "id": "35d03df8-2d23-81e6-9869-da023ba09f4f",
-      "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
-      "summary": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass, and discounts from Logitech, SteelSeries, and other gaming brands.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-11",
-      "link": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/"
-    },
-    {
-      "id": "35d03df8-2d23-8196-ae3c-db20799db612",
-      "title": "‘The haters will hate’: Dan Ives predicts Nasdaq 30,000 as AI rally expands",
-      "summary": "A solid tech earnings season has seen investor jitters earlier this year evaporate",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-11",
-      "link": "https://www.cnbc.com/2026/05/11/the-haters-will-hate-dan-ives-predicts-nasdaq-rally.html"
-    },
-    {
-      "id": "35d03df8-2d23-81f0-936a-eb2f02525789",
-      "title": "全球首套，中天科技交付 220kV 3500mm² 平铝套超大截面电缆系统",
-      "summary": "IT之家 5 月 11 日消息，据中天科技集团消息，近日，中天科技交付全球首套 220kV 3500mm² 超大截面平铝套电缆及附件系统，填补行业超大截面高压输电技术应用空白，为远距离大容量输电提供全新解决方案。IT之家从官方介绍获悉，中天科技联合中国大唐、广东电网、中能建广东院开展该系统研究、应用，实现三大核心突破，攻克绿电传输瓶颈：自主研发超大截面平铝套生产工艺 —— 攻克 3500mm² 超大截面电缆导体、平铝套缩径等系列生产难题，实现电缆、平铝套的同步稳定生产。首创平铝套电缆附件接头施工工艺 —— 提升铝套与附件之间密封性，攻克电动力对连接处机械强度影响的难题，保证电缆附件与电缆金属护",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/995.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8190-a911-ef695279a8be",
-      "title": "Wordle is turning into a primetime TV game show on NBC",
-      "summary": "Wordle could be the next great game show. NBC has greenlit a game show version of The New York Times' popular puzzle game, and it's set to debut in 2027 with Savannah Guthrie as the host. The show will be produced by Universal Television Alternative Studio \"in partnership with\" Jimmy Fallon's produc",
-      "source": "The Verge",
-      "publishTime": "2026-05-11",
-      "link": "https://www.theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times"
-    },
-    {
-      "id": "35d03df8-2d23-8154-be91-f085d4e39c79",
-      "title": "哈曼发布 AI 赋能车载 K 歌平台 Sing Drive：支持实时人声消除，打破预授权曲库依赖",
-      "summary": "IT之家 5 月 11 日消息，今天晚间，哈曼中国通过公众号宣布：AI 赋能的 K 歌平台 Sing Drive 正式问世，可将座舱转变为“私密又共享”的音乐表达空间。该平台融合实时 AI 人声消除、与整车系统的深度集成以及殿堂级音频处理技术，号称重新定义车内娱乐的想象空间，让音乐从被动聆听进化为“人人参与的沉浸体验”。不同于依赖手机投屏或受限曲库的传统 K 歌方案，Sing Drive 原生集成于整车信息娱乐与音响系统之中，以车规级标准打造，带来更顺畅、更稳定的体验。同时，部分 Sing Drive 平台还采用低时延 AI 技术，可对任意音乐进行实时人声分离，让乘客能够选择流媒体平台或个人曲",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/994.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8105-9e44-e7bc84cfd580",
-      "title": "Cerebras bumps up IPO range as it looks to raise up to $4.8 billion",
-      "summary": "Elon Musk was open to having OpenAI merge with Cerebras. Now Cerebras is looking at going public as soon as this week.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-11",
-      "link": "https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html"
-    },
-    {
-      "id": "35d03df8-2d23-81e7-84ad-e04a7309be55",
-      "title": "I became a journalist because I love storytelling. I didn't think I'd end up spending over $6,000 on my appearance.",
-      "summary": "As I built my career in journalism and went on camera, I spent a lot of money on Botox, lip filler, beauty products, and clothes. It wasn't worth it.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-11",
-      "link": "https://www.businessinsider.com/spent-thousands-on-appearance-for-job-journalism-regret-2026-5"
-    },
-    {
-      "id": "35d03df8-2d23-8103-b733-f86495bd2060",
-      "title": "5499 元起，大疆发布全新 AI 超幅扫拖机器人 ROMO 2 系列",
-      "summary": "IT之家 5 月 11 日消息，DJI 大疆今日推出全新 AI 超幅扫拖机器人 —— DJI ROMO 2 系列，包含 ROMO P2 和 ROMO A2。据官方介绍，该系列以“家净，即入佳境”为理念，深度整合大疆在空间感知与智能家居领域的技术积淀，将贯穿清洁全链路的 AI 应对能力、雷达自适应超幅外摆机械臂、36000Pa 聚能吸力与进阶的基站自清洁系统融为一体，以更聪慧的“大脑”、更强大的“手脚”及更省心的“协作”，重新定义高端智能清洁体验。ROMO 2 系列致力于实现 AI 智能全场景应对方案。它能够深度感知并理解不同区域、不同脏污的特性，并自主执行最优清洁方案：遇到地毯自动增压，深吸积",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/993.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81e5-9dc6-cfd62eb1380b",
-      "title": "总面积超 2000 平方米，上海张江 AI 应用商店今起开门迎客",
-      "summary": "IT之家 5 月 11 日消息，据央视财经，上海张江 AI 应用商店今起正式开门迎客，从能教你弹吉他的 AI 助教到各种智能机器人和办公神器，500 多款最新最潮的 AI 产品集中亮相。该商店总面积超 2000 平方米，汇聚了全球 80 大品类、500 余款前沿 AI 产品，涵盖教育机器人、健康智能助手、智能办公设备、宠物智能伴侣等，普通消费者可以像逛科技潮玩店一般零距离体验、随心选购未来生活好物。商店还设置了“极客创意空间”，为科创人员提供低成本生产资料。商店负责人表示，原来要六个月才推向市场的产品，现在可能缩短到两到三个月，希望 AI 商品从遥远的代码走到千家万户。此外，IT之家从“张江 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/992.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81b0-ae0e-dcc1811ab340",
-      "title": "My great-great-grandfather started our insurance company. At 27, I sit where my 90-year-old grandfather once did.",
-      "summary": "Evan O'Dowd left a startup career in New York to join his family's insurance company and help shape its future.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-11",
-      "link": "https://www.businessinsider.com/left-nyc-joined-family-business-career-decision-2026-5"
-    },
-    {
-      "id": "35d03df8-2d23-814c-8478-e05eb4a3cd6d",
-      "title": "You can spend either $4 or $8,500 to own one of the world's hottest bags right now",
-      "summary": "What makes the Trader Joe's tote bag and the Chanel Maxi Flap Bag both status symbols is a question the fashion industry is still catching up to.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-11",
-      "link": "https://www.businessinsider.com/hottest-handbag-chanel-maxi-flap-trader-joes-tote-fashion-2026-5"
-    },
-    {
-      "id": "35d03df8-2d23-81a6-b491-d848750e26c9",
-      "title": "古尔曼：苹果研发重心转向智能眼镜，新款 Vision Pro 至少要等两年",
-      "summary": "IT之家 5 月 11 日消息，据彭博社记者马克 · 古尔曼透露，苹果并未彻底放弃 Vision Pro，但所有期待该产品推出继任机型的消费者，至少还要再等两年。古尔曼在最新一期《Power On》时事通讯中撰文，否认了苹果已完全放弃这款头显设备的说法。这位人脉广泛的记者表示，苹果仍在幕后研发新技术与新材料，目标是最终打造一款价格更低、机身更轻便的一体式头显。尽管如此，目前这类新品并未进入实际研发阶段，此前传闻已久的 Vision Air 机型也已于去年被取消。古尔曼称，即便未来真的推出一款同 Vision Pro 定位相近的全新设备，至少还要再等约两年时间。原因在于，苹果混合现实硬件部门的核",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/991.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8166-b7f4-d63ec0db5ab5",
-      "title": "首款宝马全资拥有下的 Alpina 车型 5 月 15 日见，预计为豪华轿跑",
-      "summary": "IT之家 5 月 11 日消息，据外媒 Carscoops 今晚报道，宝马收购 Alpina 后，终于要拿出不只是“更豪华版宝马轿车”的新成果了：当地时间 5 月 15 日，在埃斯特别墅优雅竞赛上发布 Vision BMW Alpina 概念车后，宝马展示 Alpina 并入宝马后的未来方向。官方最新发布的预告图显示，新车停在悬崖边，阴影中的车身轮廓低矮修长，采用溜背轿跑姿态，车尾明显收紧。其整体气质更接近一辆优雅的豪华 GT，目前还看不出是双门还是四门。部分报道认为，Vision BMW Alpina 的视觉定位接近过去的 8 系 Gran Coupe，灯组设计看起来完全不同。新车大概率会面",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/990.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81b5-b310-da8f0a1f7eba",
-      "title": "Trump rejects Iran's proposal, Alphabet's rally, Target 'baby boutiques' and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-11",
-      "link": "https://www.cnbc.com/2026/05/11/5-things-to-know-before-the-market-opens.html"
-    },
-    {
-      "id": "35d03df8-2d23-8110-91fa-d0f748f702b3",
-      "title": "星际彗星 3I/ATLAS 来自宇宙极寒之地，重水含量超太阳系彗星约 30 倍",
-      "summary": "IT之家 5 月 11 日消息，一颗来自太阳系之外的彗星，让天文学家得以难得地窥见：外星行星系统，可能在与塑造我们太阳系周遭环境截然不同的条件下形成。这颗天体就是 3I/ATLAS，不到一年前，它在穿越太阳系时被人类发现。尽管科学家目前仍无法确定其确切起源，但由密歇根大学主导的一项新研究表明，这颗彗星诞生于宇宙中一处极寒区域。这项研究发表于《自然・天文学》期刊，研究发现 3I/ATLAS 内部富含高浓度的富氘水，也就是常说的“重水”。该研究还获得了美国国家航空航天局（NASA）、美国国家科学基金会以及智利国家研究与发展局的部分资助支持。本研究第一作者、密歇根大学天文系博士生路易斯・萨拉查・曼萨",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/988.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81a2-a607-eb63415f1019",
-      "title": "How Keren Bartov built a skincare empire on $900 facials and celebrity clients",
-      "summary": "High-tech machines and $900 treatments: How Keren Bartov built a skincare empire and global celebrity following.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-11",
-      "link": "https://www.businessinsider.com/beyonce-kim-kardashian-celebrity-facialist-keren-bartov-skincare-empire-2026-5"
-    },
-    {
-      "id": "35d03df8-2d23-815d-94ba-d7f9a702fa78",
-      "title": "广汽与华为乾崑合作启境 GT7 电池信息曝光，最大续航 900km",
-      "summary": "IT之家 5 月 11 日消息，在工信部近日发布的《第三十批减免车辆购置税的新能源汽车车型目录》中，启境 GT7 的电池信息正式曝光。申报信息显示，该车搭载 86.111kWh 和 102.768kWh 两种容量的电池组，其中 86.111kWh 电池对应续航为 675/735/770km；102.768kWh 电池组对应续航为 800/860/900km。IT之家注意到，启境 GT7 为广汽与华为乾崑合作车型，计划 6 月举办上市发布会，届时公布正式售价、配置及交付细则；新车预计上市即交付，交付周期会因车型配置、锁单及确认交付方案时间的变化而变化。新车定位为智能猎装车型，将搭载十大智能技术，",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/986.htm"
-    },
-    {
-      "id": "35d03df8-2d23-813f-adc6-dbc55ff9a11f",
-      "title": "Venmo’s biggest makeover in years comes at a very interesting time",
-      "summary": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a standalone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-11",
-      "link": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/"
-    },
-    {
-      "id": "35d03df8-2d23-8153-83e6-e3a22de89444",
-      "title": "Papa Johns Is Getting Into Drone Delivery—but Not for Pizza",
-      "summary": "A new collaboration with Alphabet’s Wing will only deliver sandwiches. It demonstrates the tricky parts of taking to the sky.",
-      "source": "Wired",
-      "publishTime": "2026-05-11",
-      "link": "https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/"
-    },
-    {
-      "id": "35d03df8-2d23-8187-8d21-d688e6ca1d2e",
-      "title": "Venmo finally takes privacy seriously",
-      "summary": "Venmo is starting to test a big redesign of its app, and as part of the changes, it will be implementing a major new privacy measure: the onboarding process for new users will set their posts to only be viewable by their friends by default instead of being public. It's a notable update for a […]",
-      "source": "The Verge",
-      "publishTime": "2026-05-11",
-      "link": "https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts"
-    },
-    {
-      "id": "35d03df8-2d23-81db-8146-f95ebfbd38e5",
-      "title": "安克推出 Zolo 70W 充电头：3C+1A、可选黑白双色，149 元",
-      "summary": "IT之家 5 月 11 日消息，安克现已在天猫上架一款 Anker Zolo 70W 充电头，该产品采用 3C +1A 设计，定价为 149 元。该充电头尺寸为 50x50x32mm，重量 125g，可选黑白双色，使用可折叠插脚，正面配备 3 个 USB-C 70W 和 1 个 USB-A 33W 接口，支持 PD / PPS / SCP / UFCS / QC 协议。IT之家附产品参数：",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/985.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81a3-81b3-ece899a00f7a",
-      "title": "“假 DDR5”内存现身日本二手平台：实为重新贴标签的空塑料芯片",
-      "summary": "IT之家 5 月 11 日消息，据外媒 Tom's Hardware 今晚报道，近期一些假 DDR5 内存现身市场，一些假货甚至把整条内存上的颗粒换成了空心塑料芯片。日本用户 TAKI 发布的图片显示，有部分笔记本 DDR5 内存（SODIMM）使用了假芯片。内存贴纸标注为三星，颗粒标识却明显是 SK 海力士。颗粒边缘异常圆滑，周围还能看到白色材料。仔细看，PCB 上还有一颗 IC 位置歪斜，说明这些部件很可能只是被粗糙地贴到了板子上。进一步观察其中一条 DDR5 内存可以发现，颗粒明显被削过，所以边缘才会发白。然而，颗粒内部其实什么都没有。这些所谓芯片只是塑料或玻璃纤维块，里面没有电路。第二",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/983.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81f6-8290-c6a0ddb0e01e",
-      "title": "谷歌母公司 Alphabet 计划首次发行日元债券，为 AI 基建融资",
-      "summary": "IT之家 5 月 11 日消息，谷歌母公司 Alphabet 当地时间周一在一份备案文件中披露，计划首次发行日元计价债券。眼下各大科技巨头正借助债券市场募资，用于人工智能基础设施的布局建设。Alphabet 并未披露此次发债规模。一位知情人士透露，本次发行规模预计达数千亿日元，相关发行条款有望于本月敲定。Alphabet 已委任瑞穗银行、美国银行及摩根士丹利牵头办理此次债券发行交易。全球头部科技企业正转向债券市场，为耗资巨大的人工智能发展规划筹措资金，一改硅谷过往依靠自有现金开展投资的传统模式。业内预计，大型科技企业今年在人工智能基础设施上的投入将超 7000 亿美元（IT之家注：现汇率约合 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/984.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8146-881e-faab3b9e8745",
-      "title": "极氪 9X & 焕新极氪 001 OTA7.2 开启推送：新增人工收费站轻松过、导航终点靠边停等",
-      "summary": "IT之家 5 月 11 日消息，极氪 9X & 焕新极氪 001 今日正式开启 OTA 7.2 推送，从辅助驾驶到智能座舱，多项核心能力全面升级。IT之家整理如下：千里浩瀚 G-ASD4.0 体验全面升级新增人工收费站轻松过：提前选择 ETC / 人工通道偏好，辅助驾驶系统会根据选择识别场景，减速入道、识别抬杆放行，通行不断点。优化乡村小路放心开：实时识别路沿边界，平稳通过颠簸路面，石墩、农用车占道的复杂路况智能避让、顺畅绕行。新增导航终点靠边停：行车至导航终点时智能识别周边路况，选择合理位置完成靠边停车。优化绕行预判更早，通行更顺：小路穿行时遇慢车、临停车，系统通过预判行驶轨迹，主动试探礼让",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/982.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81fa-b750-ebaca0a88624",
-      "title": "任天堂线上商店将更名：从“我的任天堂商店”变成“任天堂商店”",
-      "summary": "IT之家 5 月 11 日消息，任天堂宣布将更改其官方线上商店的名称。这家企业的数字商店曾在 2022 年 2 月完成全面改版，并更名为我的任天堂商店（My Nintendo Store），售卖游戏、硬件及周边商品。如今任天堂官宣，该商店将于 5 月 27 日完成品牌更名，将直接命名为任天堂商店（Nintendo Store）。任天堂表示，此次仅为名称变更，商店运营将保持正常，服务内容与在售商品均不会发生变动。IT之家注意到，任天堂日本和英国官方账号已确认此次更名。我的任天堂商店最初是为配合 My Nintendo（我的任天堂）会员忠诚度计划而打造，该会员计划于 2016 年 3 月随手游《M",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/981.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81f8-a866-e0c8d254beda",
-      "title": "科睿推出“U70X1”27 英寸显示器：4K 160Hz / FHD 320Hz 双模，1399 元",
-      "summary": "IT之家 5 月 11 日消息，科睿现已在京东上架型号为“U70X1”的 27 英寸显示器，该机主打 4K 160Hz/1080P 320Hz 双模，定价为 1399 元。京东科睿“U70X1”显示器 1399 元直达链接IT之家获悉，该机配备的 Fast IPS 面板支持以 3840x2160 分辨率 160Hz 或 1920x1080 分辨率 320Hz 显示，其 SDR 亮度 400 尼特，GtG 响应速度 1ms，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 132% sRGB 色域。该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm ",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/979.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8191-bead-c3b720724b06",
-      "title": "OpenAI to give EU access to new cyber model but Anthropic still holding out on Mythos",
-      "summary": "OpenAI announced on Thursday it was granting preview access to its latest cyber model to vetted cybersecurity teams.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-11",
-      "link": "https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html"
-    },
-    {
-      "id": "35d03df8-2d23-814e-b6d9-e8bdb356e72e",
-      "title": "戴尔电脑频繁出现蓝屏死机、重启循环，罪魁祸首并非 Win11",
-      "summary": "IT之家 5 月 11 日消息，Windows 11 更新时常出故障并引发各类问题，其中最让用户恼火的两种情况，莫过于开机直接弹出 BitLocker 恢复界面，或是系统反复重启、频繁蓝屏死机。人们很容易下意识把责任归咎于微软，毕竟微软过往的更新翻车记录由来已久（不过据悉这种情况很快将会好转），但这类系统故障，往往并不总是这家科技巨头的锅。IT之家注意到，戴尔电脑近期就曝出了这样一个故障：受影响用户的电脑出现蓝屏死机后，会陷入无限自动重启的循环。已有多名用户遭遇该问题，科技社区 Neowin 的资深论坛用户 polo69 便是其中之一。他反馈，在戴尔推送新版软件更新后，自己的电脑大约每隔 30",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/978.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81f9-a3b9-f1ce03261d36",
-      "title": "星曜光学推出 MF 7.5mm F2.8 IV APS-C 相机镜头：提供索尼 E / 富士 XF / 尼康 Z 等卡口，629 元",
-      "summary": "IT之家 5 月 11 日消息，星曜光学宣布推出一款 MF 7.5mm F2.8 IV APS-C 镜头，该产品提供索尼 E / 富士 XF / 尼康 Z / 佳能 EF-M/M43 / 佳能 RF-S 卡口可选，定价为 629 元。该镜头可选黑银双色，采用“光圈环和镜身融为一体”设计，使用 8 组 11 片光学结构，搭配 3 枚高折射镜片和 3 枚 ED 低色散镜片，最近对焦距离 0.15 米，整体重量低至 276 克。IT之家附产品参数：京东星曜光学 MF 7.5mm F2.8 IV 半画幅镜头 629 元直达链接",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/977.htm"
-    },
-    {
-      "id": "35d03df8-2d23-813c-a620-f2a943ff34b9",
-      "title": "美国数据中心纷纷“下乡”，以规避审批阻力",
-      "summary": "IT之家 5 月 11 日消息，美国开发商对在未设市县辖土地（Unincorporated county land，不属于任何城市或城镇政府管辖，而是直接由所在县政府管理）上建设数据中心的兴趣日益浓厚。这类土地能减少监管审批阻力，让建设进度大幅提速。IT之家注意到，市场分析机构 SemiAnalysis 在社交平台 X 上发布的文章称，由于这些地块位于城市辖区范围之外，无需经过市、镇议会审批，也不用参与土地重新分区投票及土地用途审核流程。不少数据中心项目因周边社区的反对而陷入延期，多个辖区甚至出台了数据中心建设暂停令，部分地区更是实施了永久性禁令。受此影响，各大人工智能超大规模科技企业纷纷寻找",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/975.htm"
-    },
-    {
-      "id": "35d03df8-2d23-816c-b4e0-c40bbd2e2659",
-      "title": "安全公司：部分使用氛围编程 Vibe Coding 开发的网络 App 缺乏身份验证机制、直接暴露于公网",
-      "summary": "IT之家 5 月 11 日消息，安全公司 RedAccess 发布报告，透露业界大量通过“Vibe Coding（氛围编程）”打造的 Web 应用存在严重安全隐患，部分系统甚至完全没有身份验证机制，导致企业敏感数据直接暴露在公网。IT之家注：Vibe Coding（氛围编程）通常是指开发者直接利用 AI 编程工具，以低代码甚至零代码方式快速打造应用，此类开发模式近年迅速流行，但也开始暴露出明显的安全问题。RedAccess 表示，安全人员对公开网络中暴露的 Web 应用进行扫描，一共发现了 38 万个疑似采用 Vibe Coding 打造的应用，其中至少有 5000 款应用毫无安全措施，没有设",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/976.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8111-b2ae-fafe15e19510",
-      "title": "When I was younger, being present was easier. Now that I have kids, I'm rethinking what it means to me.",
-      "summary": "Being a present parent isn't as easy as I thought it would be. My attention is pulled in so many directions.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-11",
-      "link": "https://www.businessinsider.com/being-present-parent-isnt-easy-2026-5"
-    },
-    {
-      "id": "35d03df8-2d23-8126-af7b-f24e55bb78ab",
-      "title": "Windows 11 is getting a macOS-like speed boost",
-      "summary": "Microsoft is currently testing a new speed boost feature in Windows 11 that is designed to improve app launch times and make things like the Start menu feel more responsive. The feature, which is reportedly called \"Low Latency Profile,\" will ramp up CPU frequency in short bursts to improve the speed",
-      "source": "The Verge",
-      "publishTime": "2026-05-11",
-      "link": "https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost"
-    },
-    {
-      "id": "35d03df8-2d23-8126-a66a-f5c945dd2274",
-      "title": "航嘉推出 X100 自带线带屏移动电源：2C+1A，20000mAh 售 199 元",
-      "summary": "IT之家 5 月 11 日消息，航嘉现已在京东上架 X100 带屏自带线移动电源，该产品采用 2C+1A 设计，内置 20000mAh 电芯，定价为 199 元。京东航嘉 X100 自带线带屏移动电源券后 199 元领 30 元券该移动电源尺寸为 103x51.5x51.5mm，重量 400g，正面配备一块 TFT 彩屏，支持显示功率 / 电压 / 电流 / 剩余充电时间信息。其顶部配备 1 个 USB-C 45W 接口、1 根 100W USB-C 充电线、1 个 USB-A 22.5W 接口。IT之家附产品参数如下：",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/974.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8165-bb9d-f12275946a78",
-      "title": "绿联 P6 系列 45W 充电宝发布：符合 2026 新国标 + 苹果同厂 ATL 电芯，199 元",
-      "summary": "IT之家 5 月 11 日消息，今天傍晚，绿联官微宣布：绿联 P6 系列 45W 充电宝正式上线。其电芯容量为 10000mAh，符合 2026 新国标并通过针刺、挤压等极限测试，采用苹果同厂 ATL 电芯，内置 TFT 交互屏及自带编织线，可上飞机、高铁，售价为 199 元。京东绿联 45W 快充 P6 系列充电宝 199 元直达链接据IT之家了解，该充电宝内置自研 BMS 安全监测系统，可在屏幕上实时显示电芯端各种异常报错信息。电芯部分则采用钴酸锂材料，循环充电 800 次，寿命相比绿联一代充电宝提升 166%。这款充电宝的详细信息如下：",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/948/973.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81e1-a127-f4b1c88103c7",
-      "title": "A Chevron Texas Power Plant Seeks School District Tax Break",
-      "summary": "The move could save the oil company hundreds of millions, even as Texas lawmakers start looking at reining in incentives for data centers.",
-      "source": "Wired",
-      "publishTime": "2026-05-11",
-      "link": "https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/"
     }
   ],
   "macroEvents": [
