@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-05-12 05:49",
+  "updatedAt": "2026-05-12 07:29",
   "news": [
+    {
+      "id": "35d03df8-2d23-811d-b039-c19bfc8c8e35",
+      "title": "苹果开发者 App 完成“液态玻璃”视觉重塑，新增多款 WWDC 2026 贴纸",
+      "summary": "IT之家 5 月 12 日消息，苹果今天还更新了 Apple Developer 应用，为其带来了 Liquid Glass 风格改版，并为开发者提供了多款可在 Messages 应用中使用的 WWDC 主题贴纸。重新设计的 Apple Developer 应用采用了全新的 Liquid Glass 风格图标，在保留部分旧版设计元素的同时，融入了半透明的 Liquid Glass 美学。与此前较为常规的图标设计有所不同，新图标以铅笔、画笔和直尺组成字母“A”的造型。应用内部也加入了 Liquid Glass 设计元素，例如半透明导航栏配备 Liquid Glass 风格的滑动条，以及独立的搜索",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/042.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81e0-aa87-c8b5bd1843d3",
+      "title": "苹果 macOS 26.5 Tahoe 新特性，Mac mini 等支持接通电源自动启动",
+      "summary": "IT之家 5 月 12 日消息，苹果公司昨日更新支持文档，在 macOS 26.5 Tahoe 系统中，针对部分 Mac mini、Mac Studio 和 iMac 设备，带来了更实用的电源控制功能。新功能集中在 Mac mini、Mac Studio 和 iMac，重点有两项：接入电源后自动开机，以及通过外部辅助配件控制关机或重启。IT之家援引苹果官方更新文档内容，在兼容的 Mac 设备上，在升级 macOS 26.5 Tahoe 系统之后，在接通电源后，设备会自动启动。使用 Mac 设备如下：2024 年以及后续推出的 Mac mini。2025 年以及后续推出的 Mac Studio。",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/041.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8152-a24b-ea179b02c3ed",
+      "title": "4 ways Microsoft CEO Satya Nadella threw cold water on Elon Musk's case",
+      "summary": "Microsoft CEO Satya Nadella was called to the stand Monday at the ongoing Musk-v-Altman trial. But Nadella may have hurt Musk more than helped him.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/satya-nadella-threw-cold-water-elon-musk-case-opeai-trial-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-8126-aa4a-e284f2e81790",
+      "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+      "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the ",
+      "source": "The Verge",
+      "publishTime": "2026-05-12",
+      "link": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor"
+    },
+    {
+      "id": "35d03df8-2d23-81e0-9aff-dcb29345f907",
+      "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+      "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collabor",
+      "source": "The Verge",
+      "publishTime": "2026-05-12",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model"
+    },
+    {
+      "id": "35d03df8-2d23-8162-9620-f1817b327b94",
+      "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
+      "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-12",
+      "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/"
+    },
+    {
+      "id": "35d03df8-2d23-814d-91f0-deb7ff7340b8",
+      "title": "The watch world is split over Audemars Piguet's Swatch collab: It's like a 'Ferrari Civic'",
+      "summary": "Audemars Piguet and Swatch partner for Royal Pop, a watch collection that's sparking excitement and debate among collectors and enthusiasts.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/audemars-piguet-and-swatch-divide-watch-fans-with-new-drop-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-81f1-8594-d481f3519960",
+      "title": "What smart people are saying about OpenAI's new $10 billion company to help businesses deploy AI",
+      "summary": "OpenAI is working with some big names to start a new company focused on advising businesses on how to build and deploy AI.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/experts-react-openai-deployment-company-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-81a2-a55b-f6a33ecea6d7",
+      "title": "I paid $102,000 for a facelift at 71. I wish I could have done it a decade ago, but I couldn't afford it.",
+      "summary": "Carolyn Rudolph paid $102K for a facelift at 71. She wished she could've afforded it a decade earlier. A downside is that it affected her friendships.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/facelift-71-wish-could-have-afforded-it-decade-ago-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-8117-a8a9-dca36113e491",
+      "title": "16 romantasy books for fans of 'A Court of Thorns and Roses' by Sarah J. Maas",
+      "summary": "If you're impatient for Sarah J. Maas' next \"ACOTAR\" novel, you can read other romantasy books from authors like Rebecca Yarros and Carissa Broadbent.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/romantasy-books-like-acotar-sarah-j-maas"
+    },
+    {
+      "id": "35d03df8-2d23-8141-8b0c-c0d0150f7cfd",
+      "title": "OpenAI made it harder to fire Sam Altman",
+      "summary": "How many directors does it take to fire OpenAI's CEO? The bar has gotten higher since Sam Altman was sacked back in 2023, new court documents show.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/openai-sam-altman-supermajority-majority-vote-fire-the-ceo-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-816e-980b-cb630899e427",
+      "title": "I'm a former flight attendant. Here are 12 ways I've watched passengers ruin their experience on long-haul flights",
+      "summary": "As a flight attendant, there are mistakes I think you should avoid on a long international flight if you want to avoid jet lag and be comfortable.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/long-flight-worst-things-to-do-mistakes-flight-attendant-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-81bc-81e0-f296f6862ee6",
+      "title": "My partner and I have lived in a van for over 3 years. Sharing a small space has helped our relationship.",
+      "summary": "Living in a van for over three years has only brought me and my boyfriend closer. There are some challenges, but the benefits generally outweigh them.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/van-life-with-partner-helps-relationship-benefits-challenges-small-space-2026-5"
+    },
     {
       "id": "35d03df8-2d23-814d-95b2-d56a20386290",
       "title": "Marines are trying to get ready for punishing future fights, but commanders say they're stretched thin and short on time",
@@ -122,20 +226,20 @@
       "link": "https://www.businessinsider.com/blackstone-jon-gray-promotion-big-firms-2026-5"
     },
     {
-      "id": "35d03df8-2d23-8139-bec8-e913f8f313d2",
-      "title": "AI millionaires are already blowing up San Francisco real estate prices. Wait until the IPOs show up.",
-      "summary": "AI money is already pushing San Francisco housing prices way, way higher — up 14% in the last year. When OpenAI and Anthropic go public, watch out.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-12",
-      "link": "https://www.businessinsider.com/san-francisco-real-estate-prices-ai-boom-openai-anthropic-ipo-2026-5"
-    },
-    {
       "id": "35d03df8-2d23-81aa-8c26-e2dcd6d25ac7",
       "title": "The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance",
       "summary": "The complaints, obtained by WIRED, described Bad Bunny’s performance as being overly sexual and protested that the show was in Spanish.",
       "source": "Wired",
       "publishTime": "2026-05-12",
       "link": "https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints/"
+    },
+    {
+      "id": "35d03df8-2d23-8139-bec8-e913f8f313d2",
+      "title": "AI millionaires are already blowing up San Francisco real estate prices. Wait until the IPOs show up.",
+      "summary": "AI money is already pushing San Francisco housing prices way, way higher — up 14% in the last year. When OpenAI and Anthropic go public, watch out.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/san-francisco-real-estate-prices-ai-boom-openai-anthropic-ipo-2026-5"
     },
     {
       "id": "35d03df8-2d23-8143-8d52-fc087d08de98",
@@ -162,14 +266,6 @@
       "link": "https://www.businessinsider.com/trader-joes-wraps-sandwiches-ranked-worst-to-best-2025-4"
     },
     {
-      "id": "35d03df8-2d23-8113-8e0c-f029ef1edeba",
-      "title": "苹果 iOS/iPadOS 15.8.8 正式版发布",
-      "summary": "IT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 15.8.8 更新（内部版本号：19H422），本次更新距离上次发布正式版间隔 60 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 15 发布历史： 2026-03-12：iOS 15.8.7 (19H411) 2026-01-27：iOS 15.8.6 (19H402) 2025-09-16：iOS 15.8.5 (19H394",
-      "source": "IT之家",
-      "publishTime": "2026-05-12",
-      "link": "https://www.ithome.com/0/949/040.htm"
-    },
-    {
       "id": "35d03df8-2d23-8134-9cf5-fc633a76b21f",
       "title": "苹果 iOS/iPadOS 26.5 正式版发布",
       "summary": "IT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.5 更新（内部版本号：23F77），本次更新距离上次发布正式版间隔 19 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-05-09：iOS 26.5 RC 2 (23F77) 2026-05-05：iOS 26.5 RC (23F75) 2026-04-28：iOS 26.5 Beta 4 (23",
@@ -186,12 +282,12 @@
       "link": "https://www.ithome.com/0/949/035.htm"
     },
     {
-      "id": "35d03df8-2d23-8154-b964-d97f046fdfb6",
-      "title": "苹果 iOS/iPadOS 16.7.16 正式版发布",
-      "summary": "IT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 16.7.16 更新（内部版本号：20H392），本次更新距离上次发布正式版间隔 60 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 16 发布历史： 2026-03-12：iOS 16.7.15 (20H380) 2026-02-03：iOS 16.7.14 (20H370) 2026-01-27：iOS 16.7.13 (20",
+      "id": "35d03df8-2d23-81f2-9e8f-dc8f0975e3f4",
+      "title": "苹果 visionOS 26.5 正式版发布",
+      "summary": "IT之家 5 月 12 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.5 更新（内部版本号：23O471），本次更新距离上次发布正式版间隔 48 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 26 发布历史： 2026-05-05：visionOS 26.5 RC (23O471) 2026-04-28：visionOS 26.5 Beta 4 (23O5468a) 2026-04-21：visionOS ",
       "source": "IT之家",
       "publishTime": "2026-05-12",
-      "link": "https://www.ithome.com/0/949/039.htm"
+      "link": "https://www.ithome.com/0/949/036.htm"
     },
     {
       "id": "35d03df8-2d23-8187-a372-c07ff0478d32",
@@ -210,12 +306,20 @@
       "link": "https://www.ithome.com/0/949/038.htm"
     },
     {
-      "id": "35d03df8-2d23-81f2-9e8f-dc8f0975e3f4",
-      "title": "苹果 visionOS 26.5 正式版发布",
-      "summary": "IT之家 5 月 12 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.5 更新（内部版本号：23O471），本次更新距离上次发布正式版间隔 48 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 26 发布历史： 2026-05-05：visionOS 26.5 RC (23O471) 2026-04-28：visionOS 26.5 Beta 4 (23O5468a) 2026-04-21：visionOS ",
+      "id": "35d03df8-2d23-8154-b964-d97f046fdfb6",
+      "title": "苹果 iOS/iPadOS 16.7.16 正式版发布",
+      "summary": "IT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 16.7.16 更新（内部版本号：20H392），本次更新距离上次发布正式版间隔 60 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 16 发布历史： 2026-03-12：iOS 16.7.15 (20H380) 2026-02-03：iOS 16.7.14 (20H370) 2026-01-27：iOS 16.7.13 (20",
       "source": "IT之家",
       "publishTime": "2026-05-12",
-      "link": "https://www.ithome.com/0/949/036.htm"
+      "link": "https://www.ithome.com/0/949/039.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8113-8e0c-f029ef1edeba",
+      "title": "苹果 iOS/iPadOS 15.8.8 正式版发布",
+      "summary": "IT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 15.8.8 更新（内部版本号：19H422），本次更新距离上次发布正式版间隔 60 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 15 发布历史： 2026-03-12：iOS 15.8.7 (19H411) 2026-01-27：iOS 15.8.6 (19H402) 2025-09-16：iOS 15.8.5 (19H394",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/040.htm"
     },
     {
       "id": "35d03df8-2d23-81a4-aa63-e00611a51364",
@@ -296,140 +400,9 @@
       "source": "Business Insider",
       "publishTime": "2026-05-12",
       "link": "https://www.businessinsider.com/mistakes-buying-first-starter-home-wrong-choice-los-angeles-regrets-2026-5"
-    },
-    {
-      "id": "35d03df8-2d23-816e-a00b-d2731de59554",
-      "title": "Capital, Not Compute, is the Real AI Bottleneck",
-      "summary": "Satisfying AI’s ravenous appetite for power and compute has kicked off a once-in-a-generation infrastructure expansion that is also one of the most expensive in modern history. Nvidia CEO Jensen Huang has estimated a single gigawatt of capacity can cost as much as $50 billion. With McKinsey projecti",
-      "source": "The Information",
-      "publishTime": "2026-05-12",
-      "link": "https://www.theinformation.com/articles/capital-compute-real-ai-bottleneck"
-    },
-    {
-      "id": "35d03df8-2d23-81aa-b711-ecb37486a48c",
-      "title": "Microsoft CEO Satya Nadella takes stand in Musk v. Altman trial",
-      "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-12",
-      "link": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html"
-    },
-    {
-      "id": "35d03df8-2d23-8154-9e16-cb65700f665f",
-      "title": "Hassett says AI isn't costing anybody their job right now — but tech layoffs keep coming",
-      "summary": "Tech companies have continued to announce layoffs tied to AI, including recent cuts from Amazon, Meta and Oracle.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-12",
-      "link": "https://www.cnbc.com/2026/05/11/trump-white-house-hassett-ai-jobs.html"
-    },
-    {
-      "id": "35d03df8-2d23-81ae-80ad-f89f325a80cd",
-      "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit",
-      "summary": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-12",
-      "link": "https://www.cnbc.com/2026/05/11/trump-ceos-elon-musk-tim-cook-larry-fink-xi-china-summit.html"
-    },
-    {
-      "id": "35d03df8-2d23-8119-94d2-f4d93fe4e87c",
-      "title": "Google stopped a zero-day hack that it says was developed with AI",
-      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed th",
-      "source": "The Verge",
-      "publishTime": "2026-05-12",
-      "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped"
-    },
-    {
-      "id": "35d03df8-2d23-81df-bad9-e31cc99aa8fa",
-      "title": "Passengers on the Frontier flight that hit a person broke a key rule of airline evacuations",
-      "summary": "After a Frontier Airlines plane struck a person on the runway, passengers were evacuated, but many ignored the crew and still took their bags.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-12",
-      "link": "https://www.businessinsider.com/frontier-airlines-passengers-broke-key-safety-rule-taking-their-bags-2026-5"
-    },
-    {
-      "id": "35d03df8-2d23-812a-853b-f54430dcf278",
-      "title": "A million baby monitors and security cameras were easily viewable by hackers",
-      "summary": "A baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that reminds me of my own daughters, with an unmade bunk bed, a little girl's hat and headband, and Hello Kitty […]",
-      "source": "The Verge",
-      "publishTime": "2026-05-12",
-      "link": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera"
-    },
-    {
-      "id": "35d03df8-2d23-8156-b424-d5382242d87a",
-      "title": "Former Tesla CFO Deepak Ahuja joins EV battery recycler Redwood Materials",
-      "summary": "Before joining Redwood Materials, Ahuja served as chief financial and business officer at the drone delivery startup Zipline for about three years.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-12",
-      "link": "https://www.cnbc.com/2026/05/11/redwood-materials-deepak-ahuja-tesla-straubel.html"
-    },
-    {
-      "id": "35d03df8-2d23-81bf-9863-f51ba5adaf20",
-      "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
-      "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-12",
-      "link": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/"
-    },
-    {
-      "id": "35d03df8-2d23-81dd-af2a-ca930160bfc4",
-      "title": "SpaceXAI 组建进行时，马斯克已提交商标注册申请",
-      "summary": "xAI 撤销后，新的 SpaceXAI 正在建立。美国专利部门网站显示，马斯克已经提交了 SpaceXAI 的商标注册申请。xAI 摇身一变，从独立公司变成了 SpaceX 的一部分。合并之后，马斯克对 AI 和太空基础设施的整合，也将进一步增强。SpaceXAI 成立进行时根据美国专利商标局的文件，SpaceX 已就 SpaceXAI 提交了两份商标申请。第一份明确指向太空算力方向，覆盖范围包括基于卫星的数据中心服务及轨道计算基础设施，以及用于数据处理的 AI SaaS。第二份则范围更广，涵盖使用卫星星座的全球定位系统、互联网服务器、电信硬件、云存储服务、和社交网络等。去年 xAI 收购了社",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/949/033.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8179-ba36-d25e9e934577",
-      "title": "菲尔兹奖得主亲测 ChatGPT 5.5 Pro：17 分钟出论文级成果，替学生拉响红色警报",
-      "summary": "如果 AI 的数学水平继续按目前速度发展，我们（数学研究者）很快会面临一场危机。数学最高奖菲尔兹奖得主 ——Timothy Gowers，在最新体验到 ChatGPT 5.5 Pro 后，替学生们拉响了红色警报。其对博士生的影响，尤为紧迫。事情是这样的，这位剑桥大学的数学大牛，最近搞到了尊贵的 5.5 Pro「优速通」权限。拿到新玩具后，Gowers 随手把几道加法数论的公开难题丢给了 AI，想瞅瞅怎么个事。但接下来发生的事，完全超出了他的预料。不到两个小时，小 GPT 独立完成了一项他认为「完全够格写进博士论文」的数学成果。全程，Gowers 教授没有提供任何数学层面的指导。唯一需要他做的事",
-      "source": "IT之家",
-      "publishTime": "2026-05-11",
-      "link": "https://www.ithome.com/0/949/032.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8106-844a-fd3c11970618",
-      "title": "7 of our favorite deals from Amazon’s Pet Days sale",
-      "summary": "A big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I’m not spending anywhere near as much money on tech as I am on food, litter, and other supplies for our two cats. Sad, but true. If your life is […]",
-      "source": "The Verge",
-      "publishTime": "2026-05-11",
-      "link": "https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale"
-    },
-    {
-      "id": "35d03df8-2d23-8181-8e12-f8be2236b0b2",
-      "title": "OpenAI Launches $10 Billion Private-Equity Joint Venture, Acquires Consultancy",
-      "summary": "OpenAI on Monday announced its $10 billion private-equity joint venture called the OpenAI Deployment Company, which aims to help businesses deploy and integrate AI into their operations. As part of the new company, OpenAI also announced it had bought Tomoro, an AI consulting and engineering ...",
-      "source": "The Information",
-      "publishTime": "2026-05-11",
-      "link": "https://www.theinformation.com/briefings/openai-launches-10-billion-private-equity-joint-venture-acquires-consultancy"
     }
   ],
   "macroEvents": [
-    {
-      "id": "32d03df8-2d23-8128-84cc-c87997c3b48b",
-      "title": "2026年1—2月份全国房地产市场基本情况",
-      "summary": "一、房地产开发投资完成情况1—2月份，全国房地产开发投资9612亿元，同比下降11.1%（按可比口径计算，详见附注5），降幅比上年全年收窄6.1个百分点；其中住宅投资7282亿元，下降10.7%，降幅收窄5.6个百分点。1—2月份，房地产开发企业房屋施工面积535372万平方米，同比下降11.7%。其中，住宅施工面积371347万平方米，下降11.9%。房屋新开工面积5084万平方米，下降23.1%。其中，住宅新开工面积3695万平方米，下降23.3%。房屋竣工面积6320万平方米，下降27.9%。其中，住宅竣工面积4625万平方米，下降26.9%。二、新建商品房销售和待售情况1—2月份，新建商品房销售面积9293万平方米，同比下降13.5%，降幅比上年全年扩大4.8个百分点；其中住宅销售面积下降15.9%。新建商品房销售额8186亿元，下降20.2%，降幅扩大7.6个百分点；其中住宅销售额下降21.8%。2月末，商品房待售面积79998万平方米，同比增长0.1%，增速比2025年末回落1.5个百分点。其中，待售3年以下面积60616万平方米，下降1.6%。三、房地产开发企业到位资金情",
-      "source": "国家统计局-数据发布",
-      "date": "2026-03-16",
-      "importance": "高",
-      "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962785.html"
-    },
-    {
-      "id": "32d03df8-2d23-819d-aea6-f6efb89e3b53",
-      "title": "1—2月份国民经济起步有力、开局良好",
-      "summary": "（2026年3月16日）国家统计局1—2月份，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真落实党中央、国务院决策部署，坚持稳中求进工作总基调，实施更加积极有为的宏观政策，加大逆周期和跨周期调节，持续扩大内需、优化供给，做优增量、盘活存量，生产供给增长加快，市场需求稳中有升，就业物价总体稳定，新质生产力成长壮大，经济运行起步有力，实现良好开局。一、工业生产加快，装备制造业和高技术制造业增势较好1—2月份，全国规模以上工业增加值同比增长6.3%，比上年12月份加快1.1个百分点。分三大门类看，采矿业增加值同比增长6.1%，制造业增长6.6%，电力、热力、燃气及水生产和供应业增长4.7%。装备制造业增加值同比增长9.3%，高技术制造业增加值增长13.1%，分别快于全部规模以上工业增加值3.0和6.8个百分点。分经济类型看，国有控股企业增加值同比增长4.2%；股份制企业增长6.9%，外商及港澳台投资企业增长4.0%；私营企业增长7.4%。分产品看，3D打印设备、锂离子电池、工业机器人产品产量同比分别增长54.1%、42.6%、31.1%。从环比看，2月份规模以上工业增加值比上月增长",
-      "source": "国家统计局-数据发布",
-      "date": "2026-03-16",
-      "importance": "高",
-      "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962780.html"
-    },
-    {
-      "id": "32d03df8-2d23-81ba-8aac-c70777fe2c0c",
-      "title": "2026年1—2月份全国固定资产投资同比增长1.8%",
-      "summary": "1—2月份，全国固定资产投资（不含农户）52721亿元，同比增长1.8%（按可比口径计算，详见附注7）。其中，民间固定资产投资同比下降2.6%。从环比看，2月份固定资产投资（不含农户）增长0.39%。分产业看，第一产业投资1093亿元，同比增长17.4%；第二产业投资17434亿元，增长5.4%；第三产业投资34194亿元，下降0.4%。工业投资同比增长5.4%。其中，采矿业投资增长13.0%，制造业投资增长3.1%，电力、热力、燃气及水生产和供应业投资增长13.1%。基础设施投资（口径详见附注1）同比增长11.4%。其中，航空运输业投资增长31.1%，燃气生产和供应业投资增长20.0%，水上运输业投资增长17.9%。分地区看，东部地区投资同比增长1.8%，中部地区投资增长1.9%，西部地区投资下降0.5%，东北地区投资下降11.4%。分登记注册统计类别看，内资企业固定资产投资同比增长2.1%，港澳台投资企业固定资产投资下降3.0%，外商投资企业固定资产投资下降9.1%。2026年1—2月份固定资产投资（不含农户）主要数据指　标同比增长（%）固定资产投资（不含农户）1.8其中：国有控股",
-      "source": "国家统计局-数据发布",
-      "date": "2026-03-16",
-      "importance": "高",
-      "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962784.html"
-    },
     {
       "id": "32d03df8-2d23-81cf-8875-f7b97fd373d1",
       "title": "2026年2月份70个大中城市商品住宅销售价格变动情况",
@@ -438,6 +411,15 @@
       "date": "2026-03-16",
       "importance": "中",
       "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962774.html"
+    },
+    {
+      "id": "32d03df8-2d23-81fe-bd84-f603d9e9d93a",
+      "title": "2026年1—2月份能源生产情况",
+      "summary": "1—2月份，规模以上工业（以下简称规上工业）原煤生产保持稳定，原油生产由降转增，天然气生产稳定增长，电力生产增速加快。一、原煤、原油和天然气生产及相关情况原煤生产降幅收窄。1—2月份，规上工业原煤产量7.6亿吨，同比下降0.3%，降幅比2025年12月份收窄0.7个百分点；日均产量1293万吨。原油生产由降转增。1—2月份，规上工业原油产量3573万吨，同比增长1.9%，2025年12月份为下降0.6%；日均产量60.6万吨。原油加工保持增长。1—2月份，规上工业原油加工量12263万吨，同比增长2.9%；日均加工207.9万吨。天然气生产稳定增长。1—2月份，规上工业天然气产量446亿立方米，同比增长2.9%；日均产量7.6亿立方米。二、电力生产情况规上工业电力生产增速加快。1—2月份，规上工业发电量15718亿千瓦时，同比增长4.1%，增速比2025年12月份加快4.0个百分点；日均发电266.4亿千瓦时。分品种看，1—2月份，规上工业火电由降转增，水电增速加快，核电、风电、太阳能发电增速放缓。其中，规上工业火电同比增长3.3%，2025年12月份为下降3.2%；规上工业水电增长6",
+      "source": "国家统计局-数据发布",
+      "date": "2026-03-16",
+      "importance": "中",
+      "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962787.html"
     },
     {
       "id": "32d03df8-2d23-81de-b75b-dd013e80afc8",
@@ -449,6 +431,24 @@
       "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962786.html"
     },
     {
+      "id": "32d03df8-2d23-8128-84cc-c87997c3b48b",
+      "title": "2026年1—2月份全国房地产市场基本情况",
+      "summary": "一、房地产开发投资完成情况1—2月份，全国房地产开发投资9612亿元，同比下降11.1%（按可比口径计算，详见附注5），降幅比上年全年收窄6.1个百分点；其中住宅投资7282亿元，下降10.7%，降幅收窄5.6个百分点。1—2月份，房地产开发企业房屋施工面积535372万平方米，同比下降11.7%。其中，住宅施工面积371347万平方米，下降11.9%。房屋新开工面积5084万平方米，下降23.1%。其中，住宅新开工面积3695万平方米，下降23.3%。房屋竣工面积6320万平方米，下降27.9%。其中，住宅竣工面积4625万平方米，下降26.9%。二、新建商品房销售和待售情况1—2月份，新建商品房销售面积9293万平方米，同比下降13.5%，降幅比上年全年扩大4.8个百分点；其中住宅销售面积下降15.9%。新建商品房销售额8186亿元，下降20.2%，降幅扩大7.6个百分点；其中住宅销售额下降21.8%。2月末，商品房待售面积79998万平方米，同比增长0.1%，增速比2025年末回落1.5个百分点。其中，待售3年以下面积60616万平方米，下降1.6%。三、房地产开发企业到位资金情",
+      "source": "国家统计局-数据发布",
+      "date": "2026-03-16",
+      "importance": "高",
+      "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962785.html"
+    },
+    {
+      "id": "32d03df8-2d23-81ba-8aac-c70777fe2c0c",
+      "title": "2026年1—2月份全国固定资产投资同比增长1.8%",
+      "summary": "1—2月份，全国固定资产投资（不含农户）52721亿元，同比增长1.8%（按可比口径计算，详见附注7）。其中，民间固定资产投资同比下降2.6%。从环比看，2月份固定资产投资（不含农户）增长0.39%。分产业看，第一产业投资1093亿元，同比增长17.4%；第二产业投资17434亿元，增长5.4%；第三产业投资34194亿元，下降0.4%。工业投资同比增长5.4%。其中，采矿业投资增长13.0%，制造业投资增长3.1%，电力、热力、燃气及水生产和供应业投资增长13.1%。基础设施投资（口径详见附注1）同比增长11.4%。其中，航空运输业投资增长31.1%，燃气生产和供应业投资增长20.0%，水上运输业投资增长17.9%。分地区看，东部地区投资同比增长1.8%，中部地区投资增长1.9%，西部地区投资下降0.5%，东北地区投资下降11.4%。分登记注册统计类别看，内资企业固定资产投资同比增长2.1%，港澳台投资企业固定资产投资下降3.0%，外商投资企业固定资产投资下降9.1%。2026年1—2月份固定资产投资（不含农户）主要数据指　标同比增长（%）固定资产投资（不含农户）1.8其中：国有控股",
+      "source": "国家统计局-数据发布",
+      "date": "2026-03-16",
+      "importance": "高",
+      "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962784.html"
+    },
+    {
       "id": "32d03df8-2d23-81f2-bacc-c1b8550f0ae1",
       "title": "2026年1—2月份规模以上工业增加值增长6.3%",
       "summary": "1—2月份，规模以上工业增加值同比实际增长6.3%（增加值增速均为扣除价格因素的实际增长率）。从环比看，2月份，规模以上工业增加值比上月增长0.83%。分三大门类看，1—2月份，采矿业增加值同比增长6.1%，制造业增长6.6%，电力、热力、燃气及水生产和供应业增长4.7%。分经济类型看，1—2月份，国有控股企业增加值同比增长4.2%；股份制企业增长6.9%，外商及港澳台投资企业增长4.0%；私营企业增长7.4%。分行业看，1—2月份，41个大类行业中有35个行业增加值同比增长。其中，煤炭开采和洗选业增长7.2%，石油和天然气开采业增长5.8%，农副食品加工业增长6.1%，酒、饮料和精制茶制造业增长4.3%，纺织业增长5.3%，化学原料和化学制品制造业增长7.6%，非金属矿物制品业增长2.5%，黑色金属冶炼和压延加工业增长2.2%，有色金属冶炼和压延加工业增长3.9%，通用设备制造业增长8.9%，专用设备制造业增长8.8%，汽车制造业增长3.4%，铁路、船舶、航空航天和其他运输设备制造业增长13.7%，电气机械和器材制造业增长8.7%，计算机、通信和其他电子设备制造业增长14.2%，电力",
@@ -458,13 +458,13 @@
       "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962782.html"
     },
     {
-      "id": "32d03df8-2d23-81fe-bd84-f603d9e9d93a",
-      "title": "2026年1—2月份能源生产情况",
-      "summary": "1—2月份，规模以上工业（以下简称规上工业）原煤生产保持稳定，原油生产由降转增，天然气生产稳定增长，电力生产增速加快。一、原煤、原油和天然气生产及相关情况原煤生产降幅收窄。1—2月份，规上工业原煤产量7.6亿吨，同比下降0.3%，降幅比2025年12月份收窄0.7个百分点；日均产量1293万吨。原油生产由降转增。1—2月份，规上工业原油产量3573万吨，同比增长1.9%，2025年12月份为下降0.6%；日均产量60.6万吨。原油加工保持增长。1—2月份，规上工业原油加工量12263万吨，同比增长2.9%；日均加工207.9万吨。天然气生产稳定增长。1—2月份，规上工业天然气产量446亿立方米，同比增长2.9%；日均产量7.6亿立方米。二、电力生产情况规上工业电力生产增速加快。1—2月份，规上工业发电量15718亿千瓦时，同比增长4.1%，增速比2025年12月份加快4.0个百分点；日均发电266.4亿千瓦时。分品种看，1—2月份，规上工业火电由降转增，水电增速加快，核电、风电、太阳能发电增速放缓。其中，规上工业火电同比增长3.3%，2025年12月份为下降3.2%；规上工业水电增长6",
+      "id": "32d03df8-2d23-819d-aea6-f6efb89e3b53",
+      "title": "1—2月份国民经济起步有力、开局良好",
+      "summary": "（2026年3月16日）国家统计局1—2月份，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真落实党中央、国务院决策部署，坚持稳中求进工作总基调，实施更加积极有为的宏观政策，加大逆周期和跨周期调节，持续扩大内需、优化供给，做优增量、盘活存量，生产供给增长加快，市场需求稳中有升，就业物价总体稳定，新质生产力成长壮大，经济运行起步有力，实现良好开局。一、工业生产加快，装备制造业和高技术制造业增势较好1—2月份，全国规模以上工业增加值同比增长6.3%，比上年12月份加快1.1个百分点。分三大门类看，采矿业增加值同比增长6.1%，制造业增长6.6%，电力、热力、燃气及水生产和供应业增长4.7%。装备制造业增加值同比增长9.3%，高技术制造业增加值增长13.1%，分别快于全部规模以上工业增加值3.0和6.8个百分点。分经济类型看，国有控股企业增加值同比增长4.2%；股份制企业增长6.9%，外商及港澳台投资企业增长4.0%；私营企业增长7.4%。分产品看，3D打印设备、锂离子电池、工业机器人产品产量同比分别增长54.1%、42.6%、31.1%。从环比看，2月份规模以上工业增加值比上月增长",
       "source": "国家统计局-数据发布",
       "date": "2026-03-16",
-      "importance": "中",
-      "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962787.html"
+      "importance": "高",
+      "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260316_1962780.html"
     },
     {
       "id": "32d03df8-2d23-81b5-8946-f0d0d92e21d6",
@@ -485,6 +485,15 @@
       "link": "https://www.stats.gov.cn/sj/zxfb/./202603/t20260309_1962732.html"
     },
     {
+      "id": "32d03df8-2d23-81b7-92c3-e62a39849f1e",
+      "title": "世界粮食计划署",
+      "summary": "世界粮食计划署",
+      "source": "国家统计局-数据发布",
+      "date": "",
+      "importance": "中",
+      "link": "http://www.wfp.org/"
+    },
+    {
       "id": "32d03df8-2d23-8111-a04b-ecd72f99d45c",
       "title": "国家外汇局",
       "summary": "国家外汇局",
@@ -503,15 +512,6 @@
       "link": "http://www.nea.gov.cn/"
     },
     {
-      "id": "32d03df8-2d23-8146-95bd-f35960c75abd",
-      "title": "工业和信息化部",
-      "summary": "工业和信息化部",
-      "source": "国家统计局-数据发布",
-      "date": "",
-      "importance": "中",
-      "link": "https://www.miit.gov.cn/"
-    },
-    {
       "id": "32d03df8-2d23-81b3-937e-fd5b70333a46",
       "title": "国家粮食和物资储备局",
       "summary": "国家粮食和物资储备局",
@@ -521,15 +521,6 @@
       "link": "http://www.lswz.gov.cn/"
     },
     {
-      "id": "32d03df8-2d23-81b7-92c3-e62a39849f1e",
-      "title": "世界粮食计划署",
-      "summary": "世界粮食计划署",
-      "source": "国家统计局-数据发布",
-      "date": "",
-      "importance": "中",
-      "link": "http://www.wfp.org/"
-    },
-    {
       "id": "32d03df8-2d23-81ee-a6df-e9938a4db6a9",
       "title": "农业农村部",
       "summary": "农业农村部",
@@ -537,6 +528,15 @@
       "date": "",
       "importance": "中",
       "link": "http://www.moa.gov.cn/"
+    },
+    {
+      "id": "32d03df8-2d23-8146-95bd-f35960c75abd",
+      "title": "工业和信息化部",
+      "summary": "工业和信息化部",
+      "source": "国家统计局-数据发布",
+      "date": "",
+      "importance": "中",
+      "link": "https://www.miit.gov.cn/"
     }
   ],
   "macroStats": [
