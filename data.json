@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-05-13 05:48",
+  "updatedAt": "2026-05-13 07:35",
   "news": [
+    {
+      "id": "35e03df8-2d23-81cd-a813-f74990a0078c",
+      "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
+      "summary": "Famous for helping build Apple's iPhones, Foxconn just suffered another cyberattack, highlighting the perils of warehousing some of the world's most valuable data.",
+      "source": "Wired",
+      "publishTime": "2026-05-13",
+      "link": "https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/"
+    },
+    {
+      "id": "35e03df8-2d23-81da-b1fc-c24b52d9fb8c",
+      "title": "7 takeaways from Sam Altman's bombshell testimony in his trial against Elon Musk",
+      "summary": "Sam Altman testified that he considered going to Microsoft to make 'a ton of money' during his ouster from OpenAI.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/sam-altman-testimony-elon-musk-trial-biggest-takeaways-2026-5"
+    },
+    {
+      "id": "35e03df8-2d23-810e-8ca7-c3eea8df512d",
+      "title": "iOS 27 might add a lot more customization to the Camera app",
+      "summary": "Apple's next iOS update could include something phone photographers have been waiting for: a lot more control over the Camera app. According to Bloomberg's Mark Gurman, the Camera app will be \"fully customizable\" in iOS 27 and users will be able to \"pick their own set of controls - called widgets - ",
+      "source": "The Verge",
+      "publishTime": "2026-05-13",
+      "link": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization"
+    },
+    {
+      "id": "35e03df8-2d23-8123-b256-c7f74134a1ae",
+      "title": "This is how much airlines pay to fuel passenger jets as oil tops $100 a barrel — and what it means for ticket prices",
+      "summary": "Fueling a Boeing 747-8 now costs more than $250,000 — driving already-expensive fares up by hundreds of dollars during the peak summer travel season.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/how-much-airlines-pay-fuel-planes-fares-impact-oil-iran-2026-5"
+    },
+    {
+      "id": "35e03df8-2d23-817b-befc-f3f1fb9f6c3f",
+      "title": "A rare Navy photo revealed the location of a nuclear-missile submarine amid Iran tensions",
+      "summary": "The Navy shared a photo of a ballistic-missile submarine docked in Gibraltar, saying its presence demonstrates the US commitment to NATO allies.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/iran-war-submarine-nuclear-missiles-photo-2026-5"
+    },
+    {
+      "id": "35e03df8-2d23-81f4-8b8c-ca6231e063c7",
+      "title": "A former OpenAI employee explains the 'open secret' of AI: Companies are building systems they still can't reliably control",
+      "summary": "Daniel Kokotajlo warns AI systems are advancing faster than companies can control, raising concerns about alignment and transparency.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/former-openai-employee-explains-open-secret-ai-alignment-control-2026-5"
+    },
+    {
+      "id": "35e03df8-2d23-81fe-8259-d784768defe0",
+      "title": "Jamie Dimon just joined Ken Griffin in warning that taxes could curb expansion plans",
+      "summary": "Dimon said that higher taxes on banks in the UK could cause him to \"reconsider\" plans for his new building in London.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/jamie-dimon-ken-griffin-taxes-london-nyc-mamdani-2026-5"
+    },
+    {
+      "id": "35e03df8-2d23-8177-89d2-c4ef4e7ca300",
+      "title": "MAHA Keeps Being Weird as Hell About Fertility",
+      "summary": "RFK Jr. and Mehmet Oz’s comments about teen sperm count and “underbabied” Americans at a recent women’s health event underscore the White House’s pronatalist agenda.",
+      "source": "Wired",
+      "publishTime": "2026-05-13",
+      "link": "https://www.wired.com/story/maha-is-still-creepily-obsessed-with-your-fertility/"
+    },
+    {
+      "id": "35e03df8-2d23-8151-9225-f53de81696eb",
+      "title": "Meta won’t let you block its AI account on Threads",
+      "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people […]",
+      "source": "The Verge",
+      "publishTime": "2026-05-13",
+      "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
+    },
     {
       "id": "35e03df8-2d23-81b7-a9f3-eb0dc0ef28a9",
       "title": "The Audemars Piguet x Swatch Collaboration Is Here for Real",
@@ -328,78 +400,6 @@
       "source": "Wired",
       "publishTime": "2026-05-13",
       "link": "https://www.wired.com/story/android-17-gemini-top-new-features/"
-    },
-    {
-      "id": "35e03df8-2d23-8143-960a-c52631f2a60f",
-      "title": "Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree'",
-      "summary": "Anthropic's new release of legal AI tools for Claude Cowork is an ambitious effort to become the law industry's new hub.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-13",
-      "link": "https://www.businessinsider.com/anthropic-expands-legal-ai-tools-claude-cowork-2026-5"
-    },
-    {
-      "id": "35e03df8-2d23-8141-b789-de373ebb9fd1",
-      "title": "Gemini&#8217;s latest updates are all about controlling your phone",
-      "summary": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want. ",
-      "source": "The Verge",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill"
-    },
-    {
-      "id": "35e03df8-2d23-81ce-8e7a-ef92b881aa90",
-      "title": "The 9 biggest new features in Android 17",
-      "summary": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google ha",
-      "source": "The Verge",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io"
-    },
-    {
-      "id": "35e03df8-2d23-814d-ae76-d18aa6b6d763",
-      "title": "Google announces its Chromebook successor: the Googlebook",
-      "summary": "Google is announcing a new line of laptops coming in the fall called Googlebooks. Details are sparse for now, as the tease is just a small part of various Android announcements during Google's Android Show. But we do know this is a major new initiative in the laptop space for Google, seemingly desig",
-      "source": "The Verge",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook"
-    },
-    {
-      "id": "35e03df8-2d23-8144-8dda-ef6e08085b0b",
-      "title": "Android Auto is now one (screen) size fits all",
-      "summary": "This week at I/O, Google rolled out a series of major updates for Android Auto that include better sizing for unconventionally shaped screens, video streaming through YouTube, widget support, and of course, more AI-powered Gemini features. The company also announced some updates for cars that run on",
-      "source": "The Verge",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all"
-    },
-    {
-      "id": "35e03df8-2d23-8105-b6bb-c5a77dd420d4",
-      "title": "Google launches new Android security feature to help uncover spyware attacks",
-      "summary": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-13",
-      "link": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/"
-    },
-    {
-      "id": "35e03df8-2d23-8147-9d63-f7dbb3026ad7",
-      "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-13",
-      "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/"
-    },
-    {
-      "id": "35e03df8-2d23-8134-a3b0-c0ec54f085d7",
-      "title": "Google’s ‘Create My Widget’ feature will let you vibe code your own widgets",
-      "summary": "The new feature will first launch on the latest Samsung Galaxy and Google Pixel phones this summer.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-13",
-      "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/"
-    },
-    {
-      "id": "35e03df8-2d23-815d-97dd-da183fddd2ba",
-      "title": "Google unveils Googlebooks, a new line of AI-native laptops",
-      "summary": "The company says Googlebooks, which are launching this fall, are the first laptops designed from the ground up for Gemini Intelligence to offer personal and proactive help.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-13",
-      "link": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/"
     }
   ],
   "macroEvents": [
