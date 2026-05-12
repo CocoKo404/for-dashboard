@@ -1,6 +1,150 @@
 {
-  "updatedAt": "2026-05-12 07:29",
+  "updatedAt": "2026-05-12 09:21",
   "news": [
+    {
+      "id": "35d03df8-2d23-81ab-a3b7-f3df3a269d04",
+      "title": "OpenAI 发布 Daybreak 项目：剑指 Anthropic，把安全检查放进日常代码流程",
+      "summary": "IT之家 5 月 12 日消息，OpenAI 今天（5 月 12 日）对标 Anthropic 的 Glasswing 方案，面向企业推出软件安全防御项目 Daybreak，主打把安全能力整合到软件开发阶段。 该项目主要亮点聚焦在把网络防御前置到开发流程、用 AI 自动发现高风险漏洞、并为企业提供评估与修复支持 3 个方面。IT之家援引博文介绍，OpenAI 公布了该项目 3 个可用模型：GPT-5.5 提供通用用途的标准安全防护；带有 Trusted Access for Cyber 的 GPT-5.5 面向经过验证的防御工作和授权环境；GPT-5.5-Cyber 则服务于专门的授权工作流，",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/054.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81b9-89f5-ef0e30bdab7c",
+      "title": "华为 Mate 80 系列手机推送鸿蒙 HarmonyOS 6.1.0.117 SP6 重要补丁包，智感畅行情景模式“上放”",
+      "summary": "IT之家 5 月 12 日消息，华为昨日面向 Mate 80 系列手机推送了最新的鸿蒙 HarmonyOS 6.1.0.117 SP6 重要补丁包。系统包大小约 414.63MB，优化了部分场景使用体验。IT之家附更新日志内容如下：系统重要补丁亲爱的用户，本次更新优化了部分场景的使用体验，推荐您进行更新。根据用户反馈，此次更新虽然仅是 Mate 80 系列的系统补丁，但却“上放”了一项情景模式 —— 智感畅行。该功能此前首发于华为畅享 90 Pro Max 手机，可联合高德导航，提供智能路况红绿灯提醒。IT之家从华为官网获悉，智感畅行模式可提供智能路况提醒、清晰播报等户外工作辅助，让用户的出行",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/053.htm"
+    },
+    {
+      "id": "35d03df8-2d23-812f-8c27-c60f4530b190",
+      "title": "纳德拉：微软投资 OpenAI 时曾设下 920 亿美元的回报目标，如今股份价值已远超预期",
+      "summary": "5 月 12 日，据彭博社报道，微软公司在其早期对 OpenAI 的大规模投资中，设定了 920 亿美元的回报目标。双方这一具有里程碑意义的合作，帮助开启了当前的 AI 时代。图注：纳德拉这一目标包含在微软 2023 年初的规划文件中，并于周一在法庭上披露。微软 CEO 萨提亚 · 纳德拉 (Satya Nadella) 在加州奥克兰联邦法院向陪审团作证时表示，这些投资“效果很好，因为我们承担了风险”。该诉讼的陪审团正在审理埃隆 · 马斯克 (Elon Musk) 针对 OpenAI 和微软发起的一起备受关注的案件。截至 2023 年初，微软已向 OpenAI 投资了大约 130 亿美元。自那",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/052.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8123-a157-cb20b351a367",
+      "title": "《匹诺曹的谎言 2》全面制作中，基于虚幻 5 引擎开发",
+      "summary": "IT之家 5 月 12 日消息，韩国游戏开发商 Neowiz 在最新发布的 2026 年第一季度财报中确认，《匹诺曹的谎言》（Lies of P）续作已通过原型审核，正式进入全面制作阶段。《匹诺曹的谎言》是一款于 2023 年推出的类魂动作角色扮演游戏，改编自经典童话《木偶奇遇记》，Steam 评价为“特别好评”。该作开发商 Round8 Studio 在 2025 年 11 月就已确认续作将采用虚幻引擎 5 开发，相较前作的虚幻引擎 4 实现了技术迭代。此外，根据此前发布的招聘信息，续作可能采用更接近开放世界的游戏地图设计。Neowiz 在财报中还提到：“《匹诺曹的谎言》续作已完成核心乐趣要",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/051.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81eb-aa97-ff00826d8741",
+      "title": "鸿蒙智行全新一代问界 M9 系列汽车官宣搭载江山画卷灯语，预售价 49.98 万元起",
+      "summary": "IT之家 5 月 12 日消息，AITO 汽车官方微博昨晚发布视频，宣布鸿蒙智行全新一代问界 M9 系列将搭载江山画卷灯语。预热视频的画面显示，全新一代问界 M9 系列的尾灯支持显示黄山、长城、黄河、天山等场景。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东曾表示，全新一代问界 M9 全车搭载超 140 项创新技术，不是一次升级，而是一次重构，后续还会公布更多惊喜。另外，全国首批 100 台展车已陆续到店。IT之家注意到，目前华为官网已开启新车预订。相关页面还曝光了全新一代问界 M9 更多配置信息：全新一代问界 M9预售价 49.98 万元起双腔双阀 | 后轮转向 | 6 激光",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/050.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8130-8e0c-ddbe544a0123",
+      "title": "IT早报 0512：苹果 iOS 26.5 正式版发布；我国地震预警手机直达用户超过 1 亿；腾讯回应尚未上线“微信状态访客记录”服务；OPPO 就母亲节文案再次致歉...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 12 日星期二，今天的重要科技资讯有：1、苹果 iOS / iPadOS 26.5 正式版发布：新增端到端加密 RCS、全新彩虹壁纸和地图广告更新，欧盟地区为第三方设备开放 AirPods 式快速配对苹果推送 iOS 26.5 正式版，核心升级是与安卓的 RCS 消息实现端到端加密，安全堪比 iMessage。同时地图 App 新增“建议地点”广告功能，并为欧盟用户开放第三方设备快速配对等权限。此外还修复了超 50 个安全漏洞。距离 iOS 27 发布仅剩不到一个月。>> 查看详情2、我国地震预警手机直达用户超过 1 亿，华为、小米已接入",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/049.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8100-8f6d-f0848fe1344b",
+      "title": "苹果推送 tvOS / HomePod 26.5：修复卡顿、改进响应速度等",
+      "summary": "IT之家 5 月 12 日消息，苹果公司今天（5 月 12 日）同步推送 tvOS 26.5、HomePod 26.5 更新，覆盖支持 Apple TV 4K、HomePod 与 HomePod mini。根据苹果官方更新日志内容，本轮 26.5 版本更新主要带来“性能和稳定性改进”，目前没有明确的新功能清单。科技媒体 9to5Mac 指出上述 26.5 版本在 Beta 阶段已测试超过 1 个月，但截至正式发布前，用户仍未发现值得特别关注的新功能或界面变化。对 Apple TV 和 HomePod 用户来说，本次更新主要改善后台体验，让系统运行更稳定、设备联动更顺畅，并减少部分异常问题。针对",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/048.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8189-8918-c6249930d9ff",
+      "title": "Not so dusty: How tech is changing woodworking",
+      "summary": "Woodworking shops have been transformed by tech to make tools safer and more precise.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-12",
+      "link": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "35d03df8-2d23-81c9-a195-ee95633ead5c",
+      "title": "苹果收购调色工具 Color.io，其技术有望用于 Final Cut Pro 等软件",
+      "summary": "IT之家 5 月 12 日消息，根据欧盟最新披露的收购文件，苹果于今年 1 月通过其子公司收购了一家名为 Patchflyer 的小型公司，并聘用该公司唯一的员工。据介绍，该公司仅由 Jonathan Ochmann 一人运营，他同时是网页调色工具 Color.io 的开发者。该工具在摄影师和电影制作人中较为流行。公开资料显示，Color.io 已于 2025 年 12 月 31 日正式下线，Ochmann 去年 11 月表示他将加入一家公司，在那里他可以从事自己作为独立开发者无法达到规模的工作。“在独自运营超过 10 年之后，我到了一个需要以无法作为单人开发者实现的方式成长的阶段。”Colo",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/047.htm"
+    },
+    {
+      "id": "35d03df8-2d23-81f8-b7c5-d62299e04465",
+      "title": "苹果更新全家桶系统，iOS 26.5 修复超 50 项安全漏洞",
+      "summary": "IT之家 5 月 12 日消息，苹果公司今天（5 月 12 日）发布公告，今天推送的 iOS 26.5、iPadOS 26.5、macOS 26.5、watchOS 26.5 等系统更新中，修复了超过 50 个安全漏洞。IT之家注：在本轮更新中涉及：macOS Tahoe 26.5macOS Sequoia 15.7.7macOS Sonoma 14.8.7iOS 18.7.9iOS 26.5iOS 16.7.16iOS 15.8.8iPadOS 18.7.9iPadOS 17.7.11iPadOS 26.5根据官方公布的 iOS 26.5 安全更新日志，苹果本次列出了 50 多项已修复的安全",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/046.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8162-9db0-e2751a24c5f6",
+      "title": "纳德拉出庭反击马斯克诉讼案：他明明有我的手机号，但从未抱怨过微软与 OpenAI 的合作",
+      "summary": "IT之家 5 月 12 日消息，当地时间 5 月 11 日，马斯克诉 OpenAI 奥尔特曼案进入最后阶段，马斯克一方传唤了最后一批证人，其中包括微软 CEO 萨提亚 · 纳德拉。纳德拉在证词中描述了微软与 OpenAI 之间长达十年、价值数十亿美元的合作关系内情，这些内容大多对马斯克的诉讼主张构成了冲击。马斯克指控萨姆 · 奥尔特曼与 OpenAI 共同“掠夺”了一家本应造福人类的非营利组织，将其转变为通过与微软合作获利数十亿美元的巨头。纳德拉在作证时向陪审团展示了一封邮件，显示马斯克曾于 2016 年感谢微软为 OpenAI 提供的财务与算力支持。纳德拉还表示，随着微软与 OpenAI 之",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/045.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8164-a3e5-cb6ad661a68a",
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely v",
+      "source": "The Verge",
+      "publishTime": "2026-05-12",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai"
+    },
+    {
+      "id": "35d03df8-2d23-8197-ab15-d9683e8f313b",
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-12",
+      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
+    },
+    {
+      "id": "35d03df8-2d23-8134-bb40-eda75e363912",
+      "title": "BuzzFeed's fire sale to Byron Allen marks the end of an era",
+      "summary": "BuzzFeed was supposed to be the future of media. But that future wasn't supposed to be a last-ditch sale.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/buzzfeed-why-byron-allen-buying-peretti-vox-vice-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-8179-a19e-fc64bfdfb280",
+      "title": "理想汽车 CEO 李想：底盘技术，可能是影响中国汽车称霸全球的最后一块短板",
+      "summary": "IT之家 5 月 12 日消息，理想汽车 CEO 李想昨晚发布动态，晒出全新理想 L9 Livis 底盘挑战视频并分享了自己对于汽车技术的看法。他直言，底盘技术，可能是影响中国汽车称霸全球的最后一块短板。李想认为，过往几年，中国新能源汽车在智能交互、辅助驾驶、能源动力等众多层面逐步达到世界领先，并得到行业与用户一致认可，但唯独在底盘上，可以说一直落后于保时捷、法拉利等顶级品牌。他随后介绍称，全新理想 L9 Livis 的 800V 主动悬架，放眼全世界大尺寸 SUV，做到了领先。除了舒适性要保持一如既往的水准外，在极致操控表现上，还要求团队对标的是法拉利的 FUV Purosangue。IT之",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/044.htm"
+    },
+    {
+      "id": "35d03df8-2d23-819c-8ea6-e7de31562603",
+      "title": "美国加州版创新 1 美元硬币公布：纪念苹果乔布斯，总产量 25950 枚",
+      "summary": "IT之家 5 月 12 日消息，科技媒体 AppleInsider 昨日（5 月 11 日）发布博文，报道称美国铸币局计划于 2026 年推出加州版“美国创新 1 美元硬币”，主角是前苹果首席执行官史蒂夫 · 乔布斯（Steve Jobs）。IT之家注：“美国创新 1 美元硬币”是美国自 2018 年启动的官方纪念硬币项目，按州、哥伦比亚特区和美国海外领地分别发行主题设计，用来纪念当地的创新成果或代表人物。到目前为止，已有 33 个州的硬币设计发布或亮相，题材覆盖宾夕法尼亚州的脊髓灰质炎疫苗、新泽西州的灯泡、俄亥俄州的地下铁路和得州的国际空间站。这些硬币虽然保留 1 美元面值，但销售时常以纪念",
+      "source": "IT之家",
+      "publishTime": "2026-05-12",
+      "link": "https://www.ithome.com/0/949/043.htm"
+    },
+    {
+      "id": "35d03df8-2d23-8141-9f5d-c7a992f4d943",
+      "title": "Ilya Sutskever voted to fire Sam Altman. He avoided the internet in the aftermath.",
+      "summary": "As a member of OpenAI's board, Ilya Sutskever voted to fire Sam Altman — but later changed his mind.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/ilya-sutskever-testifies-firing-sam-altman-openai-trial-internet-2026-5"
+    },
+    {
+      "id": "35d03df8-2d23-81f5-9ba1-c7dc13fe0abb",
+      "title": "New research suggests cancer may develop earlier than we thought — but simple changes can help prevent it",
+      "summary": "New research on more than 100 cancer risk factors suggests that simple life changes can help prevent cancer or spot it early enough for treatment.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-12",
+      "link": "https://www.businessinsider.com/simple-changes-prevent-early-onset-cancer-says-new-research-2026-5"
+    },
     {
       "id": "35d03df8-2d23-811d-b039-c19bfc8c8e35",
       "title": "苹果开发者 App 完成“液态玻璃”视觉重塑，新增多款 WWDC 2026 贴纸",
@@ -256,150 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-05-12",
       "link": "https://www.businessinsider.com/trump-federal-gas-tax-pause-2026-5"
-    },
-    {
-      "id": "35d03df8-2d23-81af-acdf-c89fc212f4ab",
-      "title": "I tried 8 wraps and sandwiches from Trader Joe's and ranked them from worst to best",
-      "summary": "I tried Trader Joe's wraps and sandwiches and ranked them. The tarragon chicken salad wrap impressed me the most.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-12",
-      "link": "https://www.businessinsider.com/trader-joes-wraps-sandwiches-ranked-worst-to-best-2025-4"
-    },
-    {
-      "id": "35d03df8-2d23-8134-9cf5-fc633a76b21f",
-      "title": "苹果 iOS/iPadOS 26.5 正式版发布",
-      "summary": "IT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.5 更新（内部版本号：23F77），本次更新距离上次发布正式版间隔 19 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-05-09：iOS 26.5 RC 2 (23F77) 2026-05-05：iOS 26.5 RC (23F75) 2026-04-28：iOS 26.5 Beta 4 (23",
-      "source": "IT之家",
-      "publishTime": "2026-05-12",
-      "link": "https://www.ithome.com/0/949/034.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8134-a086-e568b2c0ccc6",
-      "title": "苹果 macOS 26.5 正式版发布",
-      "summary": "IT之家 5 月 12 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.5 更新（内部版本号：25F71），本次更新距离上次发布正式版间隔 32 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 26 发布历史： 2026-05-05：macOS 26.5 RC (25F71) 2026-04-28：macOS 26.5 Beta 4 (25F5068a) 2026-04-21：macOS 26.5 Beta 3 (25F5058e)",
-      "source": "IT之家",
-      "publishTime": "2026-05-12",
-      "link": "https://www.ithome.com/0/949/035.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81f2-9e8f-dc8f0975e3f4",
-      "title": "苹果 visionOS 26.5 正式版发布",
-      "summary": "IT之家 5 月 12 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.5 更新（内部版本号：23O471），本次更新距离上次发布正式版间隔 48 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 26 发布历史： 2026-05-05：visionOS 26.5 RC (23O471) 2026-04-28：visionOS 26.5 Beta 4 (23O5468a) 2026-04-21：visionOS ",
-      "source": "IT之家",
-      "publishTime": "2026-05-12",
-      "link": "https://www.ithome.com/0/949/036.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8187-a372-c07ff0478d32",
-      "title": "苹果 watchOS 26.5 正式版发布",
-      "summary": "IT之家 5 月 12 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.5 更新（内部版本号：23T570），本次更新距离上次发布正式版间隔 48 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 26 发布历史： 2026-05-05：watchOS 26.5 RC (23T570) 2026-04-28：watchOS 26.5 Beta 4 (23T5568a) 2026-04-21：watchOS 26.5",
-      "source": "IT之家",
-      "publishTime": "2026-05-12",
-      "link": "https://www.ithome.com/0/949/037.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81bd-87ab-e4dfb7c3ff37",
-      "title": "苹果 iPadOS 17.7.11 正式版发布",
-      "summary": "IT之家 5 月 12 日消息，苹果今日向 iPad 用户推送了 iPadOS 17.7.11 更新，本次更新距离上次发布正式版间隔 357 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 17 发布历史： 2025-07-22：iPadOS 17.7.9 RC (21H446) 2025-05-07：iOS 17.7.7 RC (21H433) 2025-05-07：iOS 17.7.7 (21H433) 2024-09-10：iOS",
-      "source": "IT之家",
-      "publishTime": "2026-05-12",
-      "link": "https://www.ithome.com/0/949/038.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8154-b964-d97f046fdfb6",
-      "title": "苹果 iOS/iPadOS 16.7.16 正式版发布",
-      "summary": "IT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 16.7.16 更新（内部版本号：20H392），本次更新距离上次发布正式版间隔 60 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 16 发布历史： 2026-03-12：iOS 16.7.15 (20H380) 2026-02-03：iOS 16.7.14 (20H370) 2026-01-27：iOS 16.7.13 (20",
-      "source": "IT之家",
-      "publishTime": "2026-05-12",
-      "link": "https://www.ithome.com/0/949/039.htm"
-    },
-    {
-      "id": "35d03df8-2d23-8113-8e0c-f029ef1edeba",
-      "title": "苹果 iOS/iPadOS 15.8.8 正式版发布",
-      "summary": "IT之家 5 月 12 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 15.8.8 更新（内部版本号：19H422），本次更新距离上次发布正式版间隔 60 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 15 发布历史： 2026-03-12：iOS 15.8.7 (19H411) 2026-01-27：iOS 15.8.6 (19H402) 2025-09-16：iOS 15.8.5 (19H394",
-      "source": "IT之家",
-      "publishTime": "2026-05-12",
-      "link": "https://www.ithome.com/0/949/040.htm"
-    },
-    {
-      "id": "35d03df8-2d23-81a4-aa63-e00611a51364",
-      "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-      "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-12",
-      "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/"
-    },
-    {
-      "id": "35d03df8-2d23-813e-83bb-f8070a1fc619",
-      "title": "There’s an Unhinged New Video Game About Trump and the Iran War",
-      "summary": "The game, developed by the group of anonymous artists known as Secret Handshake, is available online and in person in Washington, DC.",
-      "source": "Wired",
-      "publishTime": "2026-05-12",
-      "link": "https://www.wired.com/story/video-game-trump-iran-war/"
-    },
-    {
-      "id": "35d03df8-2d23-81d8-a330-c5ca1e4a4c0e",
-      "title": "The original names of 16 iconic US cities, and how they got them",
-      "summary": "From New York City to San Francisco, cities across the US had many different names in the past. See the stories behind cities' original names.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-12",
-      "link": "https://www.businessinsider.com/old-former-names-of-cities-in-america"
-    },
-    {
-      "id": "35d03df8-2d23-81e7-b16e-e62506c6f4bc",
-      "title": "A New Hantavirus Vaccine Is in the Works",
-      "summary": "Since 2023, Moderna and Korea University have been developing a new mRNA vaccine for hantavirus. The work has been promising so far, but a finished product isn't likely coming any time soon.",
-      "source": "Wired",
-      "publishTime": "2026-05-12",
-      "link": "https://www.wired.com/story/a-new-hantavirus-vaccine-is-in-the-works/"
-    },
-    {
-      "id": "35d03df8-2d23-8110-8b3a-c1d815865894",
-      "title": "Bravo is creating unscripted microdramas for the Peacock app",
-      "summary": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-12",
-      "link": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/"
-    },
-    {
-      "id": "35d03df8-2d23-8174-a1f2-ee0d2d09da77",
-      "title": "My mom grieved the real talks dementia took away with my grandpa. I loved the nonsense ones.",
-      "summary": "My grandpa's dementia made conversations unpredictable, but I learned to embrace his reality — and it brought us closer.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-12",
-      "link": "https://www.businessinsider.com/grandparent-dementia-communication-validation-therapy-2026-5"
-    },
-    {
-      "id": "35d03df8-2d23-8137-a93a-eba682bf8b58",
-      "title": "Update Your iPhone Now for Better Encrypted Messaging With Android",
-      "summary": "As part of the iOS 26.5 update, Apple’s Messages app can now encrypt texts between some iPhone and Android smartphones.",
-      "source": "Wired",
-      "publishTime": "2026-05-12",
-      "link": "https://www.wired.com/story/update-your-iphone-now-for-better-encrypted-messaging-with-android/"
-    },
-    {
-      "id": "35d03df8-2d23-8128-b1d8-ce39f0daa168",
-      "title": "Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying",
-      "summary": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, claims Netflix has \"opened Texans' data for inspection by the same Big Ad Tech community it once criticize",
-      "source": "The Verge",
-      "publishTime": "2026-05-12",
-      "link": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy"
-    },
-    {
-      "id": "35d03df8-2d23-8180-bd0c-f237939bf147",
-      "title": "Digg tries again, this time as an AI news aggregator",
-      "summary": "Digg returns (again) as another place to read AI news.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-12",
-      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"
-    },
-    {
-      "id": "35d03df8-2d23-81c0-9b77-ff3785256cb7",
-      "title": "Buying a house was our dream. After 3 years as homeowners, we still question if it was the right choice.",
-      "summary": "We made mistakes when we bought a house in Los Angeles. I wish we did things differently as first-time homebuyers, like having a smaller down payment.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-12",
-      "link": "https://www.businessinsider.com/mistakes-buying-first-starter-home-wrong-choice-los-angeles-regrets-2026-5"
     }
   ],
   "macroEvents": [
