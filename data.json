@@ -1,6 +1,390 @@
 {
-  "updatedAt": "2026-05-14 00:39",
+  "updatedAt": "2026-05-14 03:16",
   "news": [
+    {
+      "id": "35f03df8-2d23-818d-ac38-df62982bac9d",
+      "title": "Instagram’s new ‘Instants’ feature combines elements from Snapchat and BeReal",
+      "summary": "The feature lets users share disappearing photos with their Close Friends or mutual followers that can be viewed only once and remain available for 24 hours.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-14",
+      "link": "https://techcrunch.com/2026/05/13/instagrams-new-instants-feature-combines-elements-from-snapchat-and-bereal/"
+    },
+    {
+      "id": "35f03df8-2d23-815c-b199-c95b829a2a03",
+      "title": "The best and worst outfits at the 2026 Cannes Film Festival so far",
+      "summary": "Celebrities flocked to France this week for the Cannes Film Festival. Jane Fonda and Demi Moore were some of the best-dressed stars on the red carpet.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-14",
+      "link": "https://www.businessinsider.com/cannes-film-festival-best-worst-dressed-celebrities-red-carpet-photos-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-8100-977f-f4a1ff829c52",
+      "title": "Condé Nast's CEO says he knows who could replace Anna Wintour one day",
+      "summary": "Roger Lynch explains how to run a profitable magazine company in 2026 — and how he's thinking about successors to two of his legendary editors.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-14",
+      "link": "https://www.businessinsider.com/conde-nast-roger-lynch-anna-wintour-david-remnick-interview-kafka-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-8105-894c-c62dba2360a1",
+      "title": "Data centers have a bigger NIMBY problem than nuclear reactors, a new poll shows",
+      "summary": "More Americans would rather see a nuclear energy plant built in their neighborhood than a data center, new polling shows.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-14",
+      "link": "https://www.businessinsider.com/gallup-opposition-data-centers-nuclear-reactors-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-8101-ad62-e700b55ff43d",
+      "title": "Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat",
+      "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta says its version is ",
+      "source": "The Verge",
+      "publishTime": "2026-05-14",
+      "link": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats"
+    },
+    {
+      "id": "35f03df8-2d23-811e-b546-fa1015384b22",
+      "title": "Alexandr Wang says it's 'unfair' to say Meta's AI researchers are just there for the money",
+      "summary": "Meta made eye-popping offers during the AI talent war, but Alexandr Wang says that's not why the company was able to poach key talent.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-14",
+      "link": "https://www.businessinsider.com/alexandr-wang-meta-ai-superintelligence-talent-war-pay-packages-compute-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-813a-8fef-ee4da1a0a8cd",
+      "title": "Rivian spinoff Mind Robotics raises another $400M",
+      "summary": "Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-14",
+      "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/"
+    },
+    {
+      "id": "35f03df8-2d23-817e-a740-d09fd382540f",
+      "title": "Who trusts Sam Altman?",
+      "summary": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-14",
+      "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/"
+    },
+    {
+      "id": "35f03df8-2d23-8198-802f-fcf9a12121df",
+      "title": "Every couple from the 'Love Island USA' universe who are still together",
+      "summary": "\"Love Island USA\" season eight debuts June 2. Only nine couples remain together, including three from season seven.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-14",
+      "link": "https://www.businessinsider.com/love-island-usa-couples-still-together"
+    },
+    {
+      "id": "35f03df8-2d23-8120-bcbe-f1ee2350c7d7",
+      "title": "My 70-year-old mom moved abroad with my family. Less than 6 months later, she returned to the US without us.",
+      "summary": "My 70-year-old mom struggled with the language barrier in Spain and didn't find community overseas as I'd hoped. Now, she's back in the US without us.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-14",
+      "link": "https://www.businessinsider.com/mom-moved-abroad-with-family-she-left-back-us-alone-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-8156-80e9-f27556292bb9",
+      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+      "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-14",
+      "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/"
+    },
+    {
+      "id": "35f03df8-2d23-81a2-87c3-e0d1e4f88ca3",
+      "title": "One entrepreneur nearly ran out of cash building a fancy popcorn maker. Then, Oprah saved his business.",
+      "summary": "\"I ended up selling $600,000 worth of my personal stock to keep us afloat,\" said Popsmith cofounder Tal Moore.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-14",
+      "link": "https://www.businessinsider.com/going-for-growth-how-one-entrepreneur-saved-his-failing-business-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-816a-9f19-cfac915b928f",
+      "title": "I ordered sundaes from Cold Stone Creamery, Dairy Queen, and Carvel. One stood out as the clear winner.",
+      "summary": "I ordered hot-fudge sundaes from ice-cream chains like Cold Stone, Dairy Queen, and Carvel. I compared each based on taste, price, and overall value.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-14",
+      "link": "https://www.businessinsider.com/ice-cream-sundae-cold-stone-dairy-queen-carvel-clear-winner-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-81b7-807d-c2fa03a96752",
+      "title": "A busy cardiologist and father of 3 shares his 4 simple habits for good heart health",
+      "summary": "Dr. Jake Kelly, a cardiologist in Alaska with three kids, shares how he reduces his risk of cardiovascular disease through exercise, diet, and sleep.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-14",
+      "link": "https://www.businessinsider.com/cardiologist-habits-good-heart-health-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-81fb-892c-d585c0e03ab3",
+      "title": "Anthropic courts a new kind of customer: small business owners",
+      "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-14",
+      "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/"
+    },
+    {
+      "id": "35f03df8-2d23-8186-9c42-e77ee0910975",
+      "title": "A millennial making $746,000 by working 5 remote jobs says tech layoffs have made him feel guilty about overemployment",
+      "summary": "A millennial secretly juggling 5 remote IT jobs says he earns about $746,000 a year and still logs off by 5 p.m.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/secretly-working-remote-jobs-overeremployed-tech-layoffs-millennial-overemployment-income-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-81ad-97e1-f11bc3087579",
+      "title": "Why this unheralded AI stock can go higher despite its recent massive rally",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-13",
+      "link": "https://www.cnbc.com/2026/05/13/jim-cramer-this-unheralded-stock-qnity-has-become-one-of-the-investing-clubs-top-performers.html"
+    },
+    {
+      "id": "35f03df8-2d23-8195-93b3-f3cecc48f3f9",
+      "title": "美联储：AI 使用者更倾向于认为其会助力职业发展，而非替代自己",
+      "summary": "IT之家 5 月 13 日消息，当地时间周三（13 日），美联储发布《2025 年美国居民经济福祉》报告，对美国成年人及其家庭的财务状况进行了评估。整体来看，美国居民的财务状况与近年来基本持平。调查显示，尽管较上一年略有降温，但劳动力市场仍保持稳健。物价上涨仍是最普遍的经济担忧，不过将其视为主要问题的人数略有下降。数据显示，73% 的成年人认为自己“经济状况尚可或较为舒适”，与 2024 年基本一致，但低于 2021 年 78% 的高点。能够动用现金或等价资产支付 400 美元紧急支出的人群比例同样保持在 63%，与 2024 年持平。就业方面，数据呈现出整体稳定但略有走弱的趋势。42% 的人",
+      "source": "IT之家",
+      "publishTime": "2026-05-13",
+      "link": "https://www.ithome.com/0/950/072.htm"
+    },
+    {
+      "id": "35f03df8-2d23-81ce-bdb2-d788a0c1fda6",
+      "title": "I'm a financial planner. Most people don't understand long-term care costs.",
+      "summary": "Retirement planner Tyler End shares common misconceptions about Medicare, long-term care, and aging costs.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/retirement-planning-medicare-dementia-long-term-care-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-81fd-9fa1-f23c676ee0b0",
+      "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
+      "summary": "A ransomware group has claimed responsibility for hacking the electronics manufacturing giant Foxconn and is attempting to extort the company.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-13",
+      "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/"
+    },
+    {
+      "id": "35f03df8-2d23-81de-95ec-c2680fe0f157",
+      "title": "I'm a Costco executive member who hates cooking, but loves a good deal. I buy these 10 products every month.",
+      "summary": "As an executive member, I love visiting Costco for cheap, delicious staples. Some of my go-to items are taquitos, rotisserie chicken, and raspberries.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/best-things-costco-from-executive-member-budget-cheap-items-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-81b4-b042-f0f67d859b9d",
+      "title": "Read the internal memo from LinkedIn's CEO on layoffs and 'scaling back investments'",
+      "summary": "LinkedIn is laying off employees and \"scaling back\" other investments, an internal memo shows.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/read-the-internal-memo-from-linkedins-ceo-on-layoffs-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-81c2-9ff2-d6810ed8f0ca",
+      "title": "法国一公司推出《刺客信条：黑旗》重制版主题现实寻宝活动，奖品价值 50 万美元",
+      "summary": "IT之家 5 月 13 日消息，据外媒 VGC 今晚报道，一项以《刺客信条：黑旗》重制版为主题的现实寻宝活动将于今年晚些时候启动，奖品价值 50 万美元（IT之家注：现汇率约合 340.4 万元人民币）。该活动由法国公司 Unsolved Hunts 推出，名称为《黄金 & 钻石：爱德华 · 肯维的失落宝藏》，灵感来自游戏主角。参与者需要购买官方套装才能加入，活动将于 11 月 9 日正式开启。整个挑战由 15 道谜题组成，玩家需要逐一破解线索，最终锁定埋藏在加勒比地区的宝箱位置，并通过在线系统提交答案。第一个成功找到宝箱的人，将获得一个实体宝箱，内含金币以及一枚镶嵌蛋白石的水晶骷髅，总价值约",
+      "source": "IT之家",
+      "publishTime": "2026-05-13",
+      "link": "https://www.ithome.com/0/950/071.htm"
+    },
+    {
+      "id": "35f03df8-2d23-818b-9829-f5c7f38f6638",
+      "title": "Cary Elwes went from starring in 'The Princess Bride' to being unemployed. Then Al Pacino stepped in.",
+      "summary": "After starring in \"The Princess Bride,\" Cary Elwes went through a dry period of his career. A chance meeting with Al Pacino changed everything.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/cary-elwes-unemployed-after-the-princess-bride-al-pacino-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-814e-b71a-f5c0d41dbdde",
+      "title": "Sony ups its new A7R VI to 66.8 megapixels and jumps the price to $4,500",
+      "summary": "Sony announced its new flagship high-resolution camera, the A7R VI. The standout feature is its fully stacked full-frame sensor with 66.8 megapixels of resolution and up to 16 stops of dynamic range. That's only an increase of about six megapixels for the VI model, but its stacked architecture means",
+      "source": "The Verge",
+      "publishTime": "2026-05-13",
+      "link": "https://www.theverge.com/gadgets/929667/sony-alpha-a7rvi-mirrorless-camera-price-specs"
+    },
+    {
+      "id": "35f03df8-2d23-8184-a854-f226246378c7",
+      "title": "Microsoft doesn’t want any of this",
+      "summary": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. Their opening statement was honestly one of the most Microsoft things I've ever seen. More than anythin",
+      "source": "The Verge",
+      "publishTime": "2026-05-13",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial"
+    },
+    {
+      "id": "35f03df8-2d23-815d-b5c1-fa88002b2293",
+      "title": "I built a six-figure business as a teen. When I applied to colleges, I realized I still have a lot left to learn.",
+      "summary": "I started a business as a teenager that grew to six figures. For me, college isn't a requirement, but a choice. I still have to find out who I am.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/teen-built-six-figure-business-applying-college-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-813b-9b17-cd478b35a33e",
+      "title": "中国科学家成功研制“九章四号”量子计算原型机",
+      "summary": "IT之家 5 月 13 日消息，据新华社今晚报道，中国科学技术大学潘建伟、陆朝阳、张强、刘乃乐等组成的研究团队，联合济南量子技术研究院、山西大学、清华大学、上海人工智能实验室、崂山实验室、国家并行计算机工程技术研究中心等单位，成功研制出 1024 个量子压缩态输入、8176 模式的可编程量子计算原型机“九章四号”，首次操纵和探测高达 3050 个光子的量子态，再度刷新光量子信息技术世界纪录，求解高斯玻色取样问题比目前全球最快的超级计算机快 10 的 54 次方倍。国际知名学术期刊《自然》13 日发表了该成果。量子计算机是遵循量子力学规律进行高速数学和逻辑运算、存储及处理量子信息的物理装置，具有",
+      "source": "IT之家",
+      "publishTime": "2026-05-13",
+      "link": "https://www.ithome.com/0/950/070.htm"
+    },
+    {
+      "id": "35f03df8-2d23-81a8-b4ab-eefe70acb54c",
+      "title": "Hailey Bieber says Pilates is 'a little over.' I grew up with a Pilates-teacher mom and see her point.",
+      "summary": "Thanks partly to TikTok and Hailey Bieber, Pilates is booming. But quality control problems abound, and it's hard to find comprehensively trained instructors.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/how-to-find-good-pilates-instructor-workout-classes-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-8132-9c11-fcc27c076035",
+      "title": "Tech investor Dan Niles predicts AI stocks will crash by 30% to 50% in 2027",
+      "summary": "Tech investor Dan Niles says the AI boom still has room to run, but warns stocks could crash up to 50% in 2027.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/dan-niles-ai-stocks-could-crash-50-percent-next-year-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-815c-9fd4-f555149db754",
+      "title": "微软承认：用户手动安装的最新显卡驱动会被 Win11 更新换回老版本",
+      "summary": "IT之家 5 月 13 日消息，据 Windows Latest 报道，微软已悄然证实，Windows 更新会自动降级用户手动安装的显卡驱动。这意味着，如果你从设备原厂官网手动下载并安装显卡驱动、覆盖电脑原有驱动后，后续某次 Windows 更新仍有可能将系统驱动还原为旧版本。据IT之家了解，手动替换 OEM 驱动的方法很简单：只需从英伟达、英特尔、AMD 等芯片厂商官网下载最新驱动，运行后缀为 .exe 的安装程序，就能直接用芯片厂商官方最新驱动替换电脑自带的 OEM 驱动。更换后电脑性能会有肉眼可见的提升，直到某次 Windows 更新再次将驱动覆盖回旧版本。据 Windows Lates",
+      "source": "IT之家",
+      "publishTime": "2026-05-13",
+      "link": "https://www.ithome.com/0/950/069.htm"
+    },
+    {
+      "id": "35f03df8-2d23-8189-b3f7-f919a561ada9",
+      "title": "34.4% vs 32.3%，数据显示 Anthropic 商业客户数首次反超 OpenAI",
+      "summary": "IT之家 5 月 13 日消息，据外媒 TechCrunch 今晚报道，金融科技公司 Ramp 最新发布的 AI 指数显示，Anthropic 在企业客户采用率上首次超过 OpenAI。IT之家从数据中获悉，34.4% 的参与公司正在付费使用 Anthropic 产品，高于所有其他 AI 厂商，而 OpenAI 的比例为 32.3%，这是 Anthropic 首次在该统计中登顶。Ramp 经济学家 Ara Kharazian 表示，Anthropic 在金融、科技和专业服务等高技术行业中已经占据领先优势，而 OpenAI 仍在更广泛的企业群体中保持领先，但差距正在缩小。需要注意的是，该指数仅基",
+      "source": "IT之家",
+      "publishTime": "2026-05-13",
+      "link": "https://www.ithome.com/0/950/068.htm"
+    },
+    {
+      "id": "35f03df8-2d23-81fd-b582-f8b8bd650f23",
+      "title": "I moved from Los Angeles to Brazil. I pay $1,600 a month to live in a complex with a supermarket, day care, and restaurants.",
+      "summary": "Luca Martins moved from Los Angeles to Rio de Janeiro and found a lower cost of living and stronger community.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/left-la-moved-rio-gated-community-lower-cost-2026-5"
+    },
+    {
+      "id": "35f03df8-2d23-817b-a43f-c4ad7e4e4f8e",
+      "title": "Trump's Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket",
+      "summary": "Republicans still have the midterms to get through, but administration officials have already set their sights on the next election.",
+      "source": "Wired",
+      "publishTime": "2026-05-13",
+      "link": "https://www.wired.com/story/trump-inner-circle-2028-presidential-ticket/"
+    },
+    {
+      "id": "35f03df8-2d23-813c-9362-cf9461d8caf7",
+      "title": "Garmin’s mini satellite communicators are on sale for up to 40 percent off",
+      "summary": "REI’s annual Anniversary Sale doesn’t start until March 15th, but that hasn’t stopped Garmin from rolling out discounts on a range of devices — including its InReach Mini satellite communicators. Right now, for instance, you can grab the Mini 2 at Amazon, REI, and Garmin for $249.99 ($150 off) or th",
+      "source": "The Verge",
+      "publishTime": "2026-05-13",
+      "link": "https://www.theverge.com/gadgets/928854/garmin-inreach-mini-2-3-blink-outdoor-4-floodlight-security-camera-deal-sale"
+    },
+    {
+      "id": "35f03df8-2d23-8194-97af-d961ac7f2abc",
+      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+      "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-13",
+      "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/"
+    },
+    {
+      "id": "35f03df8-2d23-8102-a0c6-dec55845051a",
+      "title": "Companies laying off staff this year include Meta, Amazon, and Walmart — see the list",
+      "summary": "Layoffs have hit more than 30 companies in 2026, including Meta, Walmart, and Coinbase, as AI and economic conditions reshape the business landscape.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026"
+    },
+    {
+      "id": "35f03df8-2d23-8175-802d-d63298d8547e",
+      "title": "The best college town in every US state",
+      "summary": "Every US state offers students a variety of possible student experiences. Here are the best college towns in every state across the US.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-13",
+      "link": "https://www.businessinsider.com/best-college-town-every-us-state"
+    },
+    {
+      "id": "35f03df8-2d23-81da-bcc7-df31f25a230f",
+      "title": "谷歌 Gboard 输入法新增 Gemini 驱动听写功能，可识别一句话中的多种语言",
+      "summary": "IT之家 5 月 13 日消息，当地时间周二（12 日），谷歌在“Android Show：I/O Edition 2026”活动上宣布推出 AI 驱动的语音听写功能 Rambler，并集成于第一方输入法 Gboard。与其他听写应用类似，Rambler 可以删除诸如“呃”“啊”等填充词。不仅如此，其还能理解句中的即时修正：“我将在周三下午 3 点在我们常去的咖啡店见面…… 呃，2 点”也能正确识别。谷歌表示，该功能使用基于 Gemini 的多语言模型，并支持“代码切换”。IT之家注：“代码切换”指用户可以在同一句话中切换不同语言，而 Rambler 能够在不丢失上下文的情况下继续识别。公司表",
+      "source": "IT之家",
+      "publishTime": "2026-05-13",
+      "link": "https://www.ithome.com/0/950/067.htm"
+    },
+    {
+      "id": "35f03df8-2d23-81ca-bb8f-c8760e4e66fe",
+      "title": "Anduril raises $5B, doubles valuation to $61B",
+      "summary": "After achieving $2.2 billion in revenue in 2025, the defense tech startup has raised another massive round, led by Thrive and a16z, it says.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-13",
+      "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/"
+    },
+    {
+      "id": "35f03df8-2d23-8142-bc78-e7c66a99c6cc",
+      "title": "r/WallStreetBets really hates the SEC’s proposal to weaken quarterly reporting",
+      "summary": "The retail trading subreddit submitted the sharpest criticism yet in response to the financial regulator's idea of letting companies report twice per year.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-13",
+      "link": "https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/"
+    },
+    {
+      "id": "35f03df8-2d23-81d2-879b-de4e5a3f788e",
+      "title": "Audemars Piguet and Swatch made a $400 &#8216;pop&#8217; pocket watch",
+      "summary": "Following a series of cryptic newspaper ads and Instagram teasers that had watch fans speculating about its next collaboration, Swatch announced a new timepiece collection created with luxury watchmaker Audemars Piguet. Inspired by Swatch's iconic Pop watches from the '80s and Audemars Piguet's Roya",
+      "source": "The Verge",
+      "publishTime": "2026-05-13",
+      "link": "https://www.theverge.com/tech/929625/swatch-audemars-piguet-x-swatch-royal-pop-pocket-watch"
+    },
+    {
+      "id": "35f03df8-2d23-818a-bbe1-e2c7dc6cc7be",
+      "title": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead'",
+      "summary": "Musk has accused Altman and another OpenAI co-founder of trying to \"steal a charity\"",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-13",
+      "link": "https://www.cnbc.com/2026/05/13/altman-musk-trial-testimony-takeaways.html"
+    },
+    {
+      "id": "35f03df8-2d23-81d6-b32e-f497b9441b0d",
+      "title": "亚马逊 Alexa 购物版上线，支持智能推荐、降价提醒、自动复购",
+      "summary": "IT之家 5 月 13 日消息，亚马逊正将 Alexa Plus 引入亚马逊官网，把这款基于大语言模型的人工智能助手，直接整合到平台购物体验中。即日起，用户在亚马逊官网输入搜索内容时，将对接全新购物助手 Alexa 购物版（Alexa for Shopping），该助手由 Alexa Plus 提供技术支持。也就是说，搜索“卫生纸”这类常规商品，页面仍会展示原有品牌列表；但如果输入“男士适合什么样的护肤流程”或“我上次什么时候买的五号电池”这类问题，现在就会由 Alexa 给出智能答复。Alexa 购物版将取代亚马逊原有的人工智能购物助手 Rufus。与 Rufus 不同的是，它将在亚马逊 A",
+      "source": "IT之家",
+      "publishTime": "2026-05-13",
+      "link": "https://www.ithome.com/0/950/066.htm"
+    },
+    {
+      "id": "35f03df8-2d23-8121-986e-f668c78ca165",
+      "title": "US lawmakers demand answers from Instructure after Canvas data breaches",
+      "summary": "U.S. House lawmakers want to know how hackers broke into education tech giant Instructure twice, and stole reams of data from students who use the company's flagship student data software Canvas.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-13",
+      "link": "https://techcrunch.com/2026/05/13/us-lawmakers-demand-answers-from-instructure-after-canvas-data-breaches/"
+    },
+    {
+      "id": "35f03df8-2d23-8197-842b-d4677e8918c0",
+      "title": "英伟达 CEO 黄仁勋称五年前的 GPU 就像“老酒”：越陈越香，还会涨价",
+      "summary": "IT之家 5 月 13 日消息，在 AI 需求进入爆发周期的背景下，GPU 成为最紧缺的算力资源之一，甚至五年前的旧芯片也开始持续涨价。据外媒 Wccftech 今晚报道，英伟达首席执行官黄仁勋将这一现象称为“好酒效应（Fine Wine）”。“Fine Wine”这一说法最早用于 AMD Vega 时期，用来形容 GPU 通过驱动优化持续提升性能，不过现在的含义已经发生变化，更多被用来描述 GPU 价格随时间上涨。英伟达方面表示，AI 需求正在推动 GPU 市场进入爆发式增长阶段。全球几乎所有运行 AI 业务的数据中心都依赖 GPU，尽管 CPU 需求同步增长，但 GPU 仍然是核心算力来源",
+      "source": "IT之家",
+      "publishTime": "2026-05-13",
+      "link": "https://www.ithome.com/0/950/065.htm"
+    },
+    {
+      "id": "35f03df8-2d23-81ca-99cf-dfd79a9e6cbd",
+      "title": "索尼发布新一代 Alpha 7R VI 全画幅微单，售价 31799 元",
+      "summary": "IT之家 5 月 13 日消息，今日索尼（中国）发布了新一代全画幅微单画质旗舰 Alpha 7R VI 和索尼首款恒定光圈超远摄变焦 G 大师镜头 FE 100-400mm F4.5 GM OSS。作为索尼微单画质标杆的 Alpha 7R 系列的第六代产品，Alpha 7R VI 延续该系列最高分辨率的产品理念，在此基础上进一步提升了连拍性能。Alpha 7R VI 售价 31799 元，FE 100-400mm F4.5 GM OSS 售价 29999 元，两款产品均将于 5 月下旬上市。IT之家附官方产品介绍如下：Alpha 7R VI 搭载新开发的约 6680 万有效像素全画幅全堆栈式 ",
+      "source": "IT之家",
+      "publishTime": "2026-05-13",
+      "link": "https://www.ithome.com/0/950/064.htm"
+    },
+    {
+      "id": "35f03df8-2d23-8111-b879-fee21cc0b540",
+      "title": "澳洲放羊大叔引爆 AI 编程革命！Claude Code 急推 goal 模式，不干完不许停",
+      "summary": "澳洲牧羊大叔随手写的三行 bash，11 天内被 OpenAI、Anthropic 和 Hermes 集体收编了。一觉醒来，Claude Code 又更新！为了让 Claude 持续工作直到任务完成，Claude Code 最近推出的新功能：/goal 。你只要设定条件，Claude 不完成任务它绝不罢休！用过 AI 编程工具的人都懂，这到底多重要！你给 Agent 下了一个任务，它跑了三个回合，改了两个文件，突然停下来问你「接下来需要我做什么？」不是，bug 你这还没修完呢啊！Agent 越来越聪明，写代码越来越快，但「从头到尾把一件事干完」这件事，到 2026 年初都没有一家能做到。然后，",
+      "source": "IT之家",
+      "publishTime": "2026-05-13",
+      "link": "https://www.ithome.com/0/950/063.htm"
+    },
     {
       "id": "35f03df8-2d23-8115-b4d6-ca77f5b814ff",
       "title": "联想上架“YOGA Air 14 Ultra”14 英寸轻薄本，提供 FIFA 世界杯限定版本",
@@ -16,390 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-05-13",
       "link": "https://www.ithome.com/0/950/061.htm"
-    },
-    {
-      "id": "35f03df8-2d23-8172-bc8f-e9df36d0f3af",
-      "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
-      "summary": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
-      "source": "Wired",
-      "publishTime": "2026-05-13",
-      "link": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/"
-    },
-    {
-      "id": "35f03df8-2d23-8116-a4ed-e25cf82685e5",
-      "title": "OpenAI just lost its enterprise AI crown to Anthropic",
-      "summary": "Anthropic surpassed OpenAI in AI business spending, according to Ramp's AI Index, marking a significant shift in AI adoption for the Claude creator.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-13",
-      "link": "https://www.businessinsider.com/anthropic-tops-openai-business-ai-adoption-ramp-index-2026-5"
-    },
-    {
-      "id": "35f03df8-2d23-81dd-8366-f680d4503650",
-      "title": "How Anthropic Could Take an OpenAI Supplier Off The Table",
-      "summary": "Is a big AI model maker about to take out a supplier to its archrival? That seems possible if a deal we reported on late Tuesday reaches the finish line. Anthropic is in talks to buy developer tools startup Stainless for at least $300 million, according to Stephanie and Katie. The New York startup m",
-      "source": "The Information",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theinformation.com/articles/anthropic-take-openai-supplier-table"
-    },
-    {
-      "id": "35f03df8-2d23-81c8-966d-c8ee12d8c63c",
-      "title": "Why does the Googlebook exist?",
-      "summary": "Google announced its new Googlebook laptop platform yesterday, and so far I've been left asking, \"Why?\" Why is Google blowing up its Chromebook and ChromeOS platform for this? I've been excited by the prospect of Android and ChromeOS unifying under the long-rumored Aluminium OS. The theory was that ",
-      "source": "The Verge",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theverge.com/report/929374/google-googlebook-laptops-aluminium-os-questions-concerns-ai-gemini"
-    },
-    {
-      "id": "35f03df8-2d23-8139-9dd5-fb8401ea9220",
-      "title": "WhatsApp launches 'incognito' AI chat with private disappearing messages",
-      "summary": "A cyber security expert says deleting chat history could lead to a lack of accountability if things go wrong.",
-      "source": "BBC Tech",
-      "publishTime": "2026-05-13",
-      "link": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "35f03df8-2d23-81e8-a50a-f0bcb000825e",
-      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
-      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-13",
-      "link": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/"
-    },
-    {
-      "id": "35f03df8-2d23-8177-9707-f9575cd30aea",
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-13",
-      "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/"
-    },
-    {
-      "id": "35f03df8-2d23-8159-899d-e3cc0b25629b",
-      "title": "Anduril doubles valuation to over $60 billion as defense tech funding boom continues",
-      "summary": "The company is working on space-based interceptors for Trump's $185 billion Golden Dome defense system",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-13",
-      "link": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html"
-    },
-    {
-      "id": "35f03df8-2d23-8116-9655-f10fe0957cff",
-      "title": "Rent the Runway Cofounder to Step Down as CEO",
-      "summary": "Rent the Runway cofounder Jennifer Hyman will step down from the CEO role at the end of this week, the clothing rental company said Wednesday. Hyman will remain an advisor to the company through early 2027, and current board member and former Nordstrom executive Teri Bariquit will serve as ...",
-      "source": "The Information",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theinformation.com/briefings/rent-runway-cofounder-step-ceo"
-    },
-    {
-      "id": "35f03df8-2d23-812c-9420-da40f38c9e2a",
-      "title": "The border is everywhere",
-      "summary": "No one paid attention to the gunshots that echoed through the convention center. They were real enough, and so were the screams that accompanied them, in the sense that they were recordings of real people who, like guest stars on Law and Order, reenacted scenarios that had clearly been plucked from ",
-      "source": "The Verge",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theverge.com/report/928726/border-security-expo-cbp-ice-dhs-surveillance"
-    },
-    {
-      "id": "35f03df8-2d23-8101-b7c0-f0d78424f494",
-      "title": "Why militaries well-equipped to fight enemy aircraft and missiles may still struggle to confront the drone threat",
-      "summary": "Traditional air defenses were primarily built to deal with much larger and faster missile and aircraft threats, rather than drones.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-13",
-      "link": "https://www.businessinsider.com/why-militaries-used-to-missile-threat-can-struggle-drones-2026-5"
-    },
-    {
-      "id": "35f03df8-2d23-814e-b032-c935cc836468",
-      "title": "I took a round-trip ferry to Martha's Vineyard for $79. The ocean views and full-service bar weren't even the best parts.",
-      "summary": "My round-trip Seastreak ferry ride to Martha's Vineyard, an island in New England, was efficient. and a great value for a day trip in Massachusetts.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-13",
-      "link": "https://www.businessinsider.com/marthas-vineyard-ferry-review-seastreak-new-england-island-day-trip-2026-5"
-    },
-    {
-      "id": "35f03df8-2d23-8149-856f-cec31960814e",
-      "title": "Nebius Reports 700% Increase in Q1 Revenue",
-      "summary": "AI cloud firm Nebius’ revenues rocketed 684% to $399 million in the first quarter, the company reported Wednesday morning, reflecting the explosion of demand for AI neoclouds’ computing capacity. But Nebius, like fellow neocloud CoreWeave, is burning cash. Its capital expenditures jumped to ...",
-      "source": "The Information",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theinformation.com/briefings/nebius-reports-700-increase-q1-revenue"
-    },
-    {
-      "id": "35f03df8-2d23-8180-ac3f-c8adadc01da4",
-      "title": "徕芬高速吹风机 SE 2 Wiggle 联名版发布，国补到手价 424.15 元",
-      "summary": "IT之家 5 月 13 日消息，徕芬高速吹风机 SE 2 Wiggle 联名版今晚正式发布，国补到手价 424.15 元。该联名版在吹风机本体的基础上增加定制发圈、挂饰等配件，并拥有限定版涂装和礼盒。京东徕芬 Laifen 高速吹风机 SE 2 Wiggle 联名款国补到手价 424.15 元直达链接IT之家汇总该产品主要信息如下：这款吹风机至高转速 10.8 万转 / 分钟，至高风速 21.5 米 / 秒（号称相比上一代提升 30%），每秒可进行 80 次自动调温，至高噪音 59 分贝。功能方面，这款吹风机提供 2 档风速，6 种风温，可产生 2 亿级负离子；同时新增儿童模式，一档风温下 3",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/058.htm"
-    },
-    {
-      "id": "35f03df8-2d23-81cf-8588-cd8bc68e7784",
-      "title": "延保 1 年仅 29.9 元：石头 P20 Max 自清洁扫拖机器人 3490 元起京东新低",
-      "summary": "石头 P20 Max 自清洁扫拖机器人今年 2 月上市，水箱版 4299 元，上下水版 4699 元。今日下单时选择“以旧换新 → 生活电器 → 普通牙刷”，水箱版实付 3490，上下水版实付 3809 元新低：京东石头 P20 Max 扫拖洗烘一体机保价 30 天以旧换新 3490 元领 9 折券京东无门槛红包至高 26618 元，支持即领即用：点此抽取。石头 P20 Max 支持 2 年官方质保，京东 618 期间推出“小家电京东延保 1 年”服务，此款仅需 29.9 元，远低市面售价：点此查看。石头 P20 Max 支持 35000 Pa 吸力，支持底盘升降 3.0，配有 0 缠系统和伸",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/057.htm"
-    },
-    {
-      "id": "35f03df8-2d23-818b-9151-ef6d53dec06b",
-      "title": "佳能推出“RF20-50mm F4 L IS USM PZ”内变焦相机镜头，9099 元",
-      "summary": "IT之家 5 月 13 日消息，佳能今天除了推出 EOS R6 V 相机外，还推出了“RF20-50mm F4 L IS USM PZ”相机镜头，国行 9099 元，6 月下旬上市。该镜头重量约 420 克，尺寸为 79.9 × 98.4mm，采用内变焦、内对焦结构，使用单一变焦环设计，用户可通过镜身侧面的锁定开关以及镜筒上的 W-T 区域在手动变焦与电动变焦模式之间切换。镜头内部配备两枚专用 Nano USM 马达，用于驱动手动与电动变焦，而第三枚 Nano USM 马达则负责通过直线驱动实现自动对焦。防抖方面，镜头自身光学防抖最高可实现中央区域约 6.0 档补偿；搭配具备 IBIS 机身防",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/056.htm"
-    },
-    {
-      "id": "35f03df8-2d23-812a-b74a-f16ae14f06bd",
-      "title": "Nvidia’s Jensen Huang Included in Trump Trip",
-      "summary": "Nvidia CEO Jensen Huang got a last-minute invitation to join President Donald Trump’s trip to China, Trump revealed in a Truth Social post. After reports surfaced that Huang had been left out of a trip that included many other tech executives, including Elon Musk and Apple CEO Tim Cook, Trump ...",
-      "source": "The Information",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theinformation.com/briefings/nvidias-jensen-huang-included-trump-trip"
-    },
-    {
-      "id": "35f03df8-2d23-8176-9e39-c0c34b6eb06e",
-      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
-      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-13",
-      "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/"
-    },
-    {
-      "id": "35f03df8-2d23-8197-b032-fc2ed983f0e5",
-      "title": "Nintendo says it has more Switch 2 games in store for 2026",
-      "summary": "With the Switch 2 getting a price hike in September, this holiday season will be pivotal for Nintendo. That increased cost means that the company will rely heavily on new games to sell its current console - but as of right now the lineup for the second half of the year is sparse. However, without […",
-      "source": "The Verge",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026"
-    },
-    {
-      "id": "35f03df8-2d23-8175-88a7-f256b1163df8",
-      "title": "佳能推出 EOS R6 V 相机：3250 万像素 7K 传感器、取消电子取景器 / 机械快门，13999 元",
-      "summary": "IT之家 5 月 13 日消息，佳能今天正式推出了 EOS R6 V 相机，该机主打视频场景，搭载 3250 万像素 7K 传感器，支持机内 RAW 录制、机身防抖、主动散热，同时提供了竖拍三脚架接口，国行 13999 元。该机尺寸为 141.8 × 83.3 × 79.8mm，搭配电池与单张存储卡时重量约为 688 克，握柄内置竖拍三脚架接口，顶部配备专用电动变焦拨杆与 Tally 指示灯，机身正面还加入了方便自拍视频创作者使用的录制按钮。相机竖拍时，屏幕 UI 会自动旋转，而录制过程中则会以红色边框强调当前正在录制。官方强调，该机并未提供电子取景器与机械快门。机身唯一的取景与监看设备是一块",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/055.htm"
-    },
-    {
-      "id": "35f03df8-2d23-815e-a850-f6dcdad497f0",
-      "title": "最后一辆宝马 Z4 下线，20 多年经典敞篷车谢幕",
-      "summary": "IT之家 5 月 13 日消息，最后一辆宝马 Z4 已于奥地利格拉茨的麦格纳工厂正式下线。这款车型于 2002 年问世，作为宝马 Z3 的继任者，至此正式走完二十余年的产品生命周期。随着 Z4 落幕，宝马旗下仅剩 4 系这一款配备折叠软顶的敞篷车型。敞篷跑车本就不属于市场主流品类，但又一款经典敞篷车就此退场，仍不免令人唏嘘。多年来，宝马 Z 系列车型的演变历程颇具看点。一切始于 1991 年推出的初代宝马 Z1，这款车最让人印象深刻的是其极具创意的下沉式滑动车门。1995 年宝马 Z3 登场后，这一炫酷独特的设计被取消；Z3 车身尺寸更大、动力更强，硬核版本 Z3 M 的最大功率可达 325 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/054.htm"
-    },
-    {
-      "id": "35f03df8-2d23-813b-b550-c76be287e8a7",
-      "title": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot",
-      "summary": "Amazon introduced Alexa for Shopping, an e-commerce bot that can answer queries and take actions on behalf of users",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-13",
-      "link": "https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html"
-    },
-    {
-      "id": "35f03df8-2d23-811c-a653-cd6a9c4eeb56",
-      "title": "The 25 countries with the oldest populations in the world",
-      "summary": "The World Bank Group identified the countries with the highest shares of people age 65 and older.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-13",
-      "link": "https://www.businessinsider.com/countries-with-oldest-populations-percentage-over-65"
-    },
-    {
-      "id": "35f03df8-2d23-81a0-b62e-de33fa9e381a",
-      "title": "徕芬智能化妆镜 M8 发布：内置 64 颗 Ra98 高显色灯珠、配毫米波雷达，499 元",
-      "summary": "IT之家 5 月 13 日消息，在目前正在进行的徕芬发布会上，徕芬推出了智能化妆镜 M8，定价为 499 元，部分地区国补后低至 375 元。该产品提供四种配色，采用铝合金支架，提供两个转轴可以调节俯仰角度，内置四颗笔记本电脑同款转轴，富有阻尼感；镜子部分厚度与手机相当，搭配铝合金 CNC 底座，不容易晃动；该产品内置 64 颗 Ra98 高显色灯珠，拥有 1450lux 照度，可实现 360 度均匀补光。化妆镜提供三挡色温 / 六挡亮度可选，内置 24GHz 毫米波雷达，可实现近 30 厘米自动亮灯。同时，其内置 5500mAh 电池，最亮的档位能持续使用 4 小时，第一档亮度续航能达到 2",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/053.htm"
-    },
-    {
-      "id": "35f03df8-2d23-813a-998e-f4dfc4bca73b",
-      "title": "消息称 vivo Pocket 手持云台相机 Q4 发布，备货预期百万台",
-      "summary": "IT之家 5 月 13 日消息，今天晚间，雷峰网援引知情人士消息称，vivo Pocket 手持云台相机或将于今年第四季度发布，同时有供应链消息称，该产品将于 10 月份开始量产，镜头传感器尺寸为 1/1.1 英寸，上市时间预计 11 月-12 月，目前给出的备货预期在百万台左右。此外，vivo 在近期开启了首款云台相机的体验招募，招募对象优先有云台类产品使用经验的用户，并将于 5 月 22 日起在深圳宝安维沃大厦进行体验。除 vivo 外，华为、小米、荣耀对手持云台相机产品均有立项，并已经成立项目组，预计发布时间在 2027 年，同时也存在对市场的观望态度。此前在今年 4 月，OPPO 此前",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/052.htm"
-    },
-    {
-      "id": "35f03df8-2d23-8170-b063-e8931ddf2b10",
-      "title": "徕芬智能卷发棒 Styler 发布：360 度全包裹透明设计、双 D-ToF 激光传感器，499 元",
-      "summary": "IT之家 5 月 13 日消息，在目前正在进行的徕芬直播中，徕芬推出了智能卷发棒 Styler，定价为 499 元，部分地区国补后 424 元。该产品提供多色外观，使用 360 度全包裹透明设计，表面采用哑面 PU 漆，使用 32 毫米主流卷径，提供三档温度（支持温度挡位记忆）。该产品采用徕芬自研微型伺服系统，噪音低至 45 分贝，发束放入发槽后，其内置的双 D-ToF 激光识别传感器能够以 30 次 / 秒高频感知入发方向。产品同时提供了手动模式、自动模式兼顾不同用户需求。",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/051.htm"
-    },
-    {
-      "id": "35f03df8-2d23-813b-8323-ea86a1043f1e",
-      "title": "Amazon Drops ‘Rufus’ Branding on Shopping Chatbot",
-      "summary": "Amazon is rebranding its Rufus chatbot to Alexa for Shopping, the company said on Wednesday. Amazon first announced an AI-powered chatbot for shoppers called Rufus in early 2024. A year later, Amazon launched Alexa+, the large language model-enhanced version of its decade plus-old assistant. ...",
-      "source": "The Information",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theinformation.com/briefings/amazon-drops-rufus-branding-shopping-chatbot"
-    },
-    {
-      "id": "35f03df8-2d23-8134-8a46-fd9c2c1e20b9",
-      "title": "Anthropic Flexes Pricing Power as Its Customers Willingly Eat the Cost",
-      "summary": "Anthropic’s revenue growth is unprecedented. Newer Anthropic customers such as PagerDuty are a big part of the reason. Eric Johnson, chief information officer at PagerDuty, which helps software engineers respond to tech outages, said he is bracing for volatile costs as his company’s 1,200 employees ",
-      "source": "The Information",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theinformation.com/articles/anthropic-flexes-pricing-power-customers-willingly-eat-cost"
-    },
-    {
-      "id": "35f03df8-2d23-81fb-aa81-faf3bf2e3e84",
-      "title": "Alexa is moving into Amazon.com",
-      "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a",
-      "source": "The Verge",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus"
-    },
-    {
-      "id": "35f03df8-2d23-81c7-9088-ef9c88000b22",
-      "title": "Canon’s latest EOS R6 camera goes V for video",
-      "summary": "Canon has announced a new EOS R6 V mirrorless camera, a 32.5-megapixel camera with 7K video. It's the first full-frame EOS camera to carry the V moniker, signifying that it's designed primarily for video capture. The R6 V is based on the EOS R6 Mark III, but it eschews features like a viewfinder and",
-      "source": "The Verge",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theverge.com/gadgets/929377/canon-eos-r6-v-mirrorless-video-camera-price-specs"
-    },
-    {
-      "id": "35f03df8-2d23-81d6-9b37-db3edc784982",
-      "title": "Nvidia's Jensen Huang bets on this British startup to build 'next frontier' of AI",
-      "summary": "Months-old Ineffable Intelligence announced a record $1.1 billion seed round in April.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-13",
-      "link": "https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html"
-    },
-    {
-      "id": "35f03df8-2d23-81f5-8a77-c07e2f8917cf",
-      "title": "“就像把显微镜放进太阳核心”：全球首个天基中微子探测器发射入轨",
-      "summary": "IT之家 5 月 13 日消息，全球首个天基中微子探测器于上周发射升空，用于研究不断轰击地球、难以捕捉的中微子粒子。此次任务将对相关技术开展验证，未来有望助力科研人员揭开太阳内部深处发生的隐秘过程之谜。据IT之家了解，这款探测器由镓晶体和钨晶体制成，搭载在一颗 3U 立方体卫星（尺寸约长 30 厘米、宽 10 厘米）。该卫星将在距地面 500 公里的轨道上运行约两年时间。这台小型探测设备于 5 月 3 日搭乘 SpaceX 的 CAS500-2 拼车发射任务进入预定轨道。该项目名为 SNAPPY（全称太阳中微子天体粒子物理探测项目），由威奇托州立大学物理与数学系教授尼古拉斯 · 索洛梅伊牵头构",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/050.htm"
-    },
-    {
-      "id": "35f03df8-2d23-819a-b887-feb8f332aa96",
-      "title": "比亚迪：SHARK 皮卡今年将进入方程豹序列",
-      "summary": "IT之家 5 月 13 日消息，在今天晚间的比亚迪云辇-P Ultra 暨方程豹豹 8、豹 5 闪充版上市发布会上，比亚迪方程豹总经理熊甜波宣布，此前已在海外上市的 SHARK 皮卡今年将正式进入方程豹序列。去年 10 月，比亚迪集团品牌及公关处总经理李云飞在回复网友时表示，比亚迪新能源皮卡 SHARK 目前已经处于规划中，迟早会面向国内市场推出。此前海外发售的比亚迪 SHARK 有 GL 和 GS 两个版本。IT之家汇总比亚迪 SHARK 主要参数信息如下：比亚迪 SHARK 有三种颜色可选，分别为白色（Pallas White）、黑色（Marmara Black）和灰蓝色（Atlantis",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/047.htm"
-    },
-    {
-      "id": "35f03df8-2d23-8171-973b-f75d6c4f63ac",
-      "title": "再降 100 元：大疆 Osmo Pocket 3 云台相机 3499 → 2199 元新低",
-      "summary": "大疆 Osmo Pocket 3 云台相机定价 3499 元，618 大促期间此款直降至 2299 元。京东无门槛红包至高 26618 元，支持即领即用：点此抽取。现在京东相机直播间发放 600 元大额券，实付 2199 元破冰新低：点此抢券。京东 DJI Osmo Pocket 3 标准版 一英寸口袋云台相机 0 点 2299 元直达链接新款 Pocket 4 也将在今晚 0 点开抢：京东 DJI Osmo Pocket 4 标准版一英寸口袋云台相机 0 点 2999 元直达链接京东无门槛红包至高 26618 元，5 月 12 日 20 点起支持即领即用：点此抽红包。官方对比如下Pocket",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/046.htm"
-    },
-    {
-      "id": "35f03df8-2d23-8167-a3d5-f4c0a6e5805a",
-      "title": "网信中国：截至 4 月 30 日，我国累计有 868 款生成式人工智能服务完成备案",
-      "summary": "IT之家 5 月 13 日消息，据“网信中国”，截至 4 月 30 日，我国累计有 868 款生成式人工智能服务完成备案，530 款生成式人工智能应用或功能完成登记。具体来看，2026 年 3 月至 4 月新增 72 款生成式人工智能服务在国家网信办完成备案，对于通过 API 接口或其他方式直接调用已备案模型能力的生成式人工智能应用或功能，由地方网信办开展登记，新增 49 款完成登记。《互联网信息服务深度合成管理规定》第十九条明确规定，具有舆论属性或者社会动员能力的深度合成服务提供者，应当按照《互联网信息服务算法推荐管理规定》履行备案和变更、注销备案手续。深度合成服务技术支持者应当参照履行备案",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/045.htm"
-    },
-    {
-      "id": "35f03df8-2d23-8146-b098-cd544db63e24",
-      "title": "Meta 更新开源沉浸式 Web 开发框架 Immersive Web SDK，新增支持接入 AI 工具",
-      "summary": "IT之家 5 月 13 日消息，Meta 宣布为旗下开源沉浸式 Web 开发框架 Immersive Web SDK 进行重大更新，新增支持接入 AI 工具，旨在提升开发者效率。IT之家注：Immersive Web SDK 在去年的 Meta Connect 大会上首度登场，主要目标是简化 VR 开发底层工程工作（例如物理系统、手势追踪、角色移动、抓取交互、空间 UI 等功能），号称能够让开发者可以更专注于创意本身。Meta 强调，如今 Immersive Web SDK 可对接 Claude Code、Cursor、OpenAI Codex 等 AI 工具，允许开发者调用 AI 智能体进行",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/044.htm"
-    },
-    {
-      "id": "35f03df8-2d23-8163-801e-f5fd5ef36e57",
-      "title": "Inflation jumps, Altman's testimony, Huang joins Trump's China visit and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-13",
-      "link": "https://www.cnbc.com/2026/05/13/5-things-to-know-before-the-market-opens.html"
-    },
-    {
-      "id": "35f03df8-2d23-81f4-ad01-d834d4cc9806",
-      "title": "30.58 万元起比亚迪方程豹豹 8 / 豹 5 闪充版上市：搭云辇-P Ultra 技术、二代刀片电池",
-      "summary": "IT之家 5 月 13 日消息，在目前正在进行的比亚迪云辇-P Ultra 暨方程豹豹 8、豹 5 闪充版上市发布会中，比亚迪方程豹豹 8、豹 5 闪充版正式上市，为“全球首款闪充越野车”，上市价格为 30.58 万元起。方程豹豹 8 闪充版：41.98 万元，限时下定惊喜价 40.98 万元方程豹豹 5 闪充版：30.58 万元，限时下定惊喜价 29.98 万元据介绍，豹 8 闪充版新增悬浮顶双拼配色设计，可选“星月银 / 悬浮顶”、“湖光绿 / 悬浮顶”、“破晓金 / 悬浮顶”、“夜影黑”四种搭配。豹 5 闪充版新增“赤沙红”配色。官方还同步推出了一款“智联车载台”，支持车机语音、快捷呼叫",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/043.htm"
-    },
-    {
-      "id": "35f03df8-2d23-81ba-b97e-c11fa88b0fb6",
-      "title": "过这村就没这店了，萨博最后 7 辆原厂 9-3 新车将被公开拍卖",
-      "summary": "IT之家 5 月 13 日消息，据外媒 motor1 今日报道，5 月 21 日起，一批萨博历史遗产将被公开拍卖。随着 NEVS 正式进入破产程序，其位于瑞典特罗尔海坦工厂的最后几辆汽车将对外出售，共计 8 辆，其中 7 辆为萨博 9-3。这批车辆包括 4 辆 2014 年试制阶段的 9-3 车型，其中两辆为 Aero 版本；另有一辆增程原型车。另外 3 辆 9-3 来自 2018 年研发阶段，包括一辆中国生产的 NEVS 电动版，一辆搭载四轮轮边电机的技术验证车，以及一辆配备 GPS、激光雷达与摄像头的自动驾驶测试车。第 8 辆拍卖车辆为恒大推出的中型纯电 SUV 恒驰 5，其也曾是 NEV",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/042.htm"
-    },
-    {
-      "id": "35f03df8-2d23-816d-a4d6-c9afb4ec274d",
-      "title": "宝马官宣纯电动版 M3 明年首发，路试谍照曝光",
-      "summary": "IT之家 5 月 13 日消息，距离奥利弗・齐普塞以宝马首席执行官身份结束最新一场演讲仅过去短短数小时，在第 106 届年度股东大会上，这位全球最大豪华汽车制造商的前任掌门人证实，纯电动版宝马 M3 将于明年正式首发亮相。与此同时，该车的多款原型车被拍到正在纽博格林赛道进行路试。随着量产版车型距离全球首发越来越近，该车已经用上最终版车身套件。不过测试整车依旧采用全覆盖伪装，试图遮掩宽大外扩的轮拱，但收效甚微，这款车看上去就像是经过“健身增肌”、气场大幅强化的 2027 款宝马 i3。据IT之家了解，这是史上首款无内燃机的 M3，性能毋庸置疑十分强悍，但代号 ZA0 的这款新车目前只能听到轮胎摩",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/041.htm"
-    },
-    {
-      "id": "35f03df8-2d23-8171-80f5-f06cc8a070bb",
-      "title": "微软警告“Dirty Frag”Linux 内核漏洞已遭黑客利用",
-      "summary": "IT之家 5 月 13 日消息，安全研究人员 Hyunwoo Kim 此前发现一项名为“Dirty Frag”的 Linux 内核漏洞。该漏洞属于本地权限提升（LPE）漏洞，允许黑客借助低权限账号直接获取 root 权限。该漏洞于 4 月 30 日向 Linux 内核团队报告，但一名“无关第三方”打破了披露禁令，导致漏洞在补丁尚未准备就绪时被公开。对此，微软安全博客发文，提示研究人员近期已观察到有多名黑客利用了 Dirty Frag 漏洞进行 su 提权攻击。参考微软监测，相应黑客建立外部 SSH 连接生成交互式 Shell，随后执行 ELF 二进制文件，再通过 su 命令完成提权。在成功获取",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/040.htm"
-    },
-    {
-      "id": "35f03df8-2d23-8105-9ec9-d0525e37c72a",
-      "title": "Unitree will sell you a massive ‘transformable mecha’ for $650,000",
-      "summary": "Unitree is already one of the most recognizable names in the humanoid robot industry, but now it's pursuing even nicher sci-fi tech: giant mech suits. The Chinese robotics company has debuted the GD01, which it describes as \"the world's first production-ready manned mecha,\" and it can be yours for a",
-      "source": "The Verge",
-      "publishTime": "2026-05-13",
-      "link": "https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot"
-    },
-    {
-      "id": "35f03df8-2d23-81a0-9992-eae0432b1f20",
-      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-      "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-13",
-      "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/"
-    },
-    {
-      "id": "35f03df8-2d23-818d-8c09-e76f49382bcf",
-      "title": "我国科研人员探索脑机接口神经探针技术，为慢性疼痛治疗提供新路径",
-      "summary": "IT之家 5 月 13 日消息，据新华社 13 日（今天）报道，中国科学院长春应用化学研究所研究员张强团队在面向慢性疼痛治疗的脑机接口技术领域取得新进展，其开发的一款植入式水凝胶神经探针，为慢性疼痛干预与管理提供了新的技术路径。这一成果已于 5 月 13 日在国际学术期刊《先进材料》上发表。张强介绍，慢性疼痛会导致患者感知异常和运动功能受损，显著降低生活质量，而神经调控技术的快速发展为缓解这一难题带来了新的希望。这类技术通过调控脊髓或大脑神经元的放电活动，能够重新调整痛觉神经回路，减轻疼痛感知异常，为慢性疼痛的干预与管理提供了新的方法。IT之家从报道中获悉，张强与合作者开发了一种基于 α 螺旋",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/038.htm"
-    },
-    {
-      "id": "35f03df8-2d23-81e2-8930-f7d8b8085f69",
-      "title": "微软 Xbox 电脑端应用暗示：Game Pass 服务有望进入中国大陆市场",
-      "summary": "IT之家 5 月 13 日消息，据 The Verge 报道，微软似乎正着手将 Xbox Game Pass 订阅服务拓展至中国大陆市场。本周 Xbox 电脑端应用的最新更新中，被发现出现了代号“萨卢基计划（Project Saluki）”的相关内容，微软将该代号定义为“面向中国市场拓展 Game Pass、积分奖励体系及会员档位服务”。IT之家注意到，尽管微软目前已通过动视暴雪在中国大陆上架多款游戏，但 Xbox Game Pass 服务至今尚未正式进入中国大陆。微软一直在中国售卖 Xbox 主机，并于 2014 年首次在国内推出 Xbox One，成为中国长达 14 年游戏机禁令解除后，首",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/037.htm"
-    },
-    {
-      "id": "35f03df8-2d23-8122-b728-cbefcd3d3bfa",
-      "title": "ANKER 安克 Air+ 磁吸充电宝开售：10000mAh、无线 15W、有线 30W，399 元",
-      "summary": "IT之家 5 月 13 日消息，安克 Air+ 磁吸充电宝今晚 20:30 正式开售，10000mAh 版本售价 399 元。这款磁吸充电宝有星夜黑、雪域白、海盐蓝、元气橙四种颜色可选，厚约 1.47cm，重约 210g，可为 iPhone 17 手机提供约 2 次电量。这款磁吸充电宝为 iPhone 无线充电可达 15W，有线充电可达 30W；搭载 17 颗强力铷磁铁，吸力 12.8N。官方表示，这款磁吸充电宝全面符合 2026 新国标，通过针刺、挤压、热箱测试；采用 ATL 电芯，可在 App 实时检测电池温度。IT之家附这款充电宝详细参数如下：京东 ANKER 安克 Air+ 磁吸充电宝",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/035.htm"
-    },
-    {
-      "id": "35f03df8-2d23-8132-8da9-c546a94da617",
-      "title": "小米手环 10 Pro 陶瓷版亮相，搭配柔软贴合氟橡胶表带",
-      "summary": "IT之家 5 月 13 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日宣布，小米手环 10 Pro 还将推出陶瓷版。据介绍，小米手环 10 Pro 陶瓷版整体呈白色，搭配有氟橡胶表带，主打“柔软贴合”特性。新品官图如下：官方原图展示了小米手环 10 Pro 的局部细节，IT之家将图片进行拼接处理，整机效果如下：根据小米官方介绍，小米手环 10 Pro 将于本月发布。新机薄至 9.7mm，轻至 21.6g，采用铝合金机身；支持专业运动健康管理，可达 21 天续航。此外，小米手环 10 Pro 可选配米兰尼斯腕带。",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/036.htm"
-    },
-    {
-      "id": "35f03df8-2d23-819f-88bc-c7bfc8aeab65",
-      "title": "赠灵犀手写笔 + 免费送装一体：75 英寸华为智慧屏 V6 国补后 7999 → 5845 元",
-      "summary": "华为智慧屏 V6 发售于 2025 年 12 月，相比 V5 升级了 6+128GB 存储，75 英寸上市价 7999 元。京东 618 大促期间，按下方步骤下单，叠加 PLUS 立减后，仅需 5845.02 元：满 3000-300 元优惠券：点此查看加入购物车时选择“以旧换新”立减 438.93 元（可选“普通餐具”），京东回收不看旧物品相，老、旧、坏电器皆可回收。京东华为智慧屏 V6 75 英寸 灵犀手写笔享免费送装一体以旧换新后 5845.02 元直达链接京东无门槛红包至高 26618 元，支持即领即用：点此抽取。这款电视搭载了华为自研芯片（8 核 A73），支持 Super Mini",
-      "source": "IT之家",
-      "publishTime": "2026-05-13",
-      "link": "https://www.ithome.com/0/950/034.htm"
     }
   ],
   "macroEvents": [
