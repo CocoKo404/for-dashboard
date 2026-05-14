@@ -1,6 +1,214 @@
 {
-  "updatedAt": "2026-05-15 05:43",
+  "updatedAt": "2026-05-15 07:27",
   "news": [
+    {
+      "id": "36003df8-2d23-81c3-89d5-c31ee8dc5edc",
+      "title": "微软 Xbox 全新紧凑型手柄曝光，将服务于 xCloud 云游戏玩家",
+      "summary": "IT之家 5 月 15 日消息，巴西科技媒体 Tecnoblog 当地时间昨日曝光了一款 Microsoft（微软）Xbox 旗下一款手柄控制器新品的外观。这一设备得到了巴西 Anatel 认证。▲ 图源：Tecnoblog该手柄的输入布局与传统 Xbox 手柄相同，但整体形制更为紧凑。其基于瑞昱 RTL8730E IoT SoC，支持 USB-C 有线、蓝牙无线、Wi-Fi 6 (20MHz) 三种连接方式，顶部似乎配备了云与本地模式显示区域。▲ 图源：Tecnoblog从 Wi-Fi 支持和顶部区域来看，这款手柄将同时服务于本地游戏玩家和 xCloud 用户。其更为紧凑的模具也适合随时随地",
+      "source": "IT之家",
+      "publishTime": "2026-05-15",
+      "link": "https://www.ithome.com/0/950/656.htm"
+    },
+    {
+      "id": "36003df8-2d23-81ee-b3d3-fd49f91d9dc1",
+      "title": "郭明錤：苹果正基于 Intel 18A-P 工艺开发 A/M 系列处理器，培养新供应商以对冲台积电风险",
+      "summary": "IT之家 5 月 15 日消息，天风国际分析师郭明錤今日发布了其最新产业调查，揭示了苹果、英特尔与台积电在先进制程领域的三方互动格局。根据其调查，苹果确认已在 Intel 18A-P 系列（采用 Foveros 封装技术）上启动了针对低端或旧款 iPhone、iPad 及 Mac 处理器的开发项目。此外，苹果也在同步评估英特尔其他先进制程技术。从订单结构来看，iPhone 相关处理器占比约为 80%，这一比例与苹果终端设备的销售比重基本吻合。郭明錤认为，苹果的方案反映了 18A-P 系列的技术生命周期：2026 年进行小规模测试，2027 年实现放量生产，2028 年继续增长，2029 年则进",
+      "source": "IT之家",
+      "publishTime": "2026-05-15",
+      "link": "https://www.ithome.com/0/950/655.htm"
+    },
+    {
+      "id": "36003df8-2d23-811e-adcc-d3d9b3474ccc",
+      "title": "关系出现裂痕？消息称 OpenAI 考虑对苹果采取潜在法律行动",
+      "summary": "IT之家 5 月 15 日消息，彭博社记者马克 · 古尔曼昨天透露，由于合作关系日趋紧张，OpenAI 正准备对苹果采取潜在法律行动。据IT之家此前报道，苹果与 OpenAI 在 2024 年达成合作，将 ChatGPT 整合进 iOS、iPadOS、macOS 的 Siri、图乐园等软件功能中，iPhone 用户还可以直接通过“设置”App 订阅 ChatGPT，而苹果将从中抽取部分分成。不过古尔曼表示，OpenAI 原本期望 ChatGPT 能更深入地融合进苹果生态，并在 Siri 内获得更核心的位置。并且公司高管还认为，苹果并没有充分宣传双方合作成果，导致许多用户根本不知道上述功能存在。",
+      "source": "IT之家",
+      "publishTime": "2026-05-15",
+      "link": "https://www.ithome.com/0/950/654.htm"
+    },
+    {
+      "id": "36003df8-2d23-8193-98bf-f6f7bdef6c72",
+      "title": "盗贼新招：利用 Find My 留的电话钓鱼，解锁被盗 iPhone",
+      "summary": "IT之家 5 月 15 日消息，iPhone 盗窃形成了完整的黑产链条。安全公司 Infoblox 最新研究揭示，盗贼正利用苹果“查找”网络自身的设计，绕过其安全防线，让标记为丢失的 iPhone 被解锁并转售。研究指出用户通过“查找”App 将设备标记为丢失后，可在锁屏界面留下联系电话。盗贼正是将这个联系电话当作了钓鱼入口。盗贼会发送短信，引导机主访问如“applemaps-support [.]live”这样的仿冒网址。这些网址每年新增超过 80 万个，页面伪装成苹果官方“查找”页面，诱导用户输入锁屏密码。盗贼在获取相关密码后，会立即解锁 iPhone。“FMI OFF”（关闭查找我的 i",
+      "source": "IT之家",
+      "publishTime": "2026-05-15",
+      "link": "https://www.ithome.com/0/950/653.htm"
+    },
+    {
+      "id": "36003df8-2d23-81bf-b49d-c875b0bd20e3",
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "summary": "Here's what the biggest tech court case of the year is all about.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-15",
+      "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/"
+    },
+    {
+      "id": "36003df8-2d23-81ef-81b8-eca85916e530",
+      "title": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
+      "summary": "Honda revealed prototypes of two new hybrid models, an Accord sedan and the Acura RDX SUV, during its annual business briefing this week, built on a platform that it says will begin launching next year. The RDX was announced earlier this year as Honda's first SUV to feature the next-gen version of i",
+      "source": "The Verge",
+      "publishTime": "2026-05-15",
+      "link": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx"
+    },
+    {
+      "id": "36003df8-2d23-8155-bf20-c10d98d0744f",
+      "title": "Cerebras is the hot new AI chipmaker. Here's Jim Cramer's advice on the stock",
+      "summary": "CNBC's Jim Cramer said Cerebras has a compelling AI story and promising technology, but warned the chipmaker’s valuation has become difficult to justify.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-15",
+      "link": "https://www.cnbc.com/2026/05/14/jim-cramers-advice-on-cerebras.html"
+    },
+    {
+      "id": "36003df8-2d23-812b-80c4-e41cb4ba8964",
+      "title": "Gavin Newsom proposes a California digital software tax",
+      "summary": "California Gov. Gavin Newsom said it's unfair how some people avoid paying the state sales tax when buying software.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-15",
+      "link": "https://www.businessinsider.com/gavin-newsom-california-digital-software-tax-2026-5"
+    },
+    {
+      "id": "36003df8-2d23-8142-86b0-eaa54b8d02d4",
+      "title": "Gemini surges after Winklevoss Capital Fund invests $100 million in the crypto exchange",
+      "summary": "The company also topped revenue expectations for the quarter and posted a narrower-than-expected loss than analysts anticipated, according to FactSet.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-15",
+      "link": "https://www.cnbc.com/2026/05/14/gemini-surges-after-winklevoss-capital-invests-100-million-in-the-crypto-exchange.html"
+    },
+    {
+      "id": "36003df8-2d23-8174-960c-d10b5810ed74",
+      "title": "Cramer urges investors to be more selective in the AI frenzy",
+      "summary": "CNBC’s Jim Cramer said investors should be more selective when investing in the semiconductor rally.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-15",
+      "link": "https://www.cnbc.com/2026/05/14/cramer-urges-investors-to-be-more-selective-in-the-ai-frenzy.html"
+    },
+    {
+      "id": "36003df8-2d23-81e0-9912-d359cba4e8c1",
+      "title": "Closing time",
+      "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk ",
+      "source": "The Verge",
+      "publishTime": "2026-05-15",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis"
+    },
+    {
+      "id": "36003df8-2d23-8191-9e12-ee42f433f7a0",
+      "title": "OpenAI is making it easier to keep tabs on your AI coding project — without a cracked-open laptop",
+      "summary": "OpenAI announced a Codex tab in the ChatGPT app. The mobile interface could help reduce the need to take your open laptop with you, a recent trend.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-15",
+      "link": "https://www.businessinsider.com/openai-codex-mobile-app-chatgpt-open-laptops-2026-5"
+    },
+    {
+      "id": "36003df8-2d23-8157-bb5d-e28506748b5d",
+      "title": "Metroid Prime 4: Beyond got its first big discount",
+      "summary": "The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off). The game looks surprisingly good on the 2017 hardware, but runs way better on the Switch 2 with the a",
+      "source": "The Verge",
+      "publishTime": "2026-05-15",
+      "link": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale"
+    },
+    {
+      "id": "36003df8-2d23-81d5-a7ac-e51fd0996f43",
+      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-15",
+      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/"
+    },
+    {
+      "id": "36003df8-2d23-8167-8297-d10406c532fd",
+      "title": "Cerebras IPO mints two billionaires, sets stage for potential AI wave",
+      "summary": "Cerebras closed its first day of trading with a market cap close to $100 billion and turned two co-founders into billionaires in the process.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-15",
+      "link": "https://www.cnbc.com/2026/05/14/cerebras-ipo-mints-two-billionaires-sets-stage-for-potential-ai-wave.html"
+    },
+    {
+      "id": "36003df8-2d23-810d-b5e9-e2798208f0a7",
+      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+      "summary": "The government said its in-house IT system was \"more flexible\" while meeting \"high standards\" of security.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-15",
+      "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "36003df8-2d23-81ef-a7e9-e0d735e3ac91",
+      "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
+      "summary": "Meta is rolling out new features to its Meta Ray-Ban Display smart glasses, including bringing the ability to write messages just with hand gestures to all users. You'll be able to use the feature in WhatsApp, Messenger, Instagram and with \"native Android and iOS messaging,\" Meta says. The feature, ",
+      "source": "The Verge",
+      "publishTime": "2026-05-15",
+      "link": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer"
+    },
+    {
+      "id": "36003df8-2d23-81c6-a83b-ca0e6166acce",
+      "title": "We Now Know How Many People the CDC Is Monitoring for Hantavirus",
+      "summary": "There are no confirmed cases in the US, but 41 people who were potentially exposed to the Andes virus are in quarantine or being monitored for symptoms.",
+      "source": "Wired",
+      "publishTime": "2026-05-15",
+      "link": "https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/"
+    },
+    {
+      "id": "36003df8-2d23-81a6-8814-c8c4834acccd",
+      "title": "Behold, the Elon Musk jackass trophy",
+      "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI emp",
+      "source": "The Verge",
+      "publishTime": "2026-05-15",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue"
+    },
+    {
+      "id": "36003df8-2d23-813f-a64c-c65772384bf8",
+      "title": "OpenAI says Codex is coming to your phone",
+      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-15",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/"
+    },
+    {
+      "id": "36003df8-2d23-81bc-917d-cbf79e77e25f",
+      "title": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
+      "summary": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the Elite 2 controller, with an interchangea",
+      "source": "The Verge",
+      "publishTime": "2026-05-15",
+      "link": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images"
+    },
+    {
+      "id": "36003df8-2d23-814c-b946-efe4f2afb401",
+      "title": "Where Cerebras' monster debut puts in among tech's biggest IPOs",
+      "summary": "Cerebras narrowly missed out on joining Facebook-parent Meta and Alibaba with market cap of over $100 billion on the market close of IPO day.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-15",
+      "link": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-ipo-stock-meta-facebook-alibaba.html"
+    },
+    {
+      "id": "36003df8-2d23-8185-aac0-f7ece25ef412",
+      "title": "SpaceX IPO prospectus could land as soon as next week, sources say",
+      "summary": "Elon Musk's reusable rocket company is getting closer to what's expected to be a record stock market debut.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-15",
+      "link": "https://www.cnbc.com/2026/05/14/spacex-ipo-prospectus-could-land-as-soon-as-next-week-sources-say.html"
+    },
+    {
+      "id": "36003df8-2d23-814c-a0fb-eb14ca6316a4",
+      "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+      "summary": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-15",
+      "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/"
+    },
+    {
+      "id": "36003df8-2d23-81d0-88c9-c31f3789037b",
+      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+      "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+      "source": "Wired",
+      "publishTime": "2026-05-15",
+      "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/"
+    },
+    {
+      "id": "36003df8-2d23-81e3-9513-e44926ceeb8a",
+      "title": "法拉第未来 2026 财年第一财季亏损 3885.6 万美元，同比下降 278.05%",
+      "summary": "IT之家 5 月 15 日消息，法拉第未来今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第一财季（2026 年 1 月～2026 年 3 月）报告： 营业总收入： 51.2 万美元，同比增长 62% 归母净利润： -3885.6 万美元，同比下降 278.05% 经营现金流： -3147.2 万美元，同比下降 55.07% 基本每股收益：-0.18 美元/股，同比下降 28.57% 稀释每股收益：-0.18 美元/股，同比下降 28.57% 🤖 AI 解读 法拉第未来2026财年第一季度正式完成向实体AI（Physical AI）生态公司转型，EAI机器人业务正式成为",
+      "source": "IT之家",
+      "publishTime": "2026-05-15",
+      "link": "https://www.ithome.com/0/950/652.htm"
+    },
     {
       "id": "36003df8-2d23-817d-aa07-f23afc4dc90a",
       "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
@@ -8,6 +216,14 @@
       "source": "TechCrunch",
       "publishTime": "2026-05-15",
       "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/"
+    },
+    {
+      "id": "36003df8-2d23-81ea-bcca-ffb8644356b3",
+      "title": "Cary Elwes says working on 'Being Charlie' with Rob Reiner was 'bittersweet'",
+      "summary": "Cary Elwes' last time working with Rob Reiner was on \"Being Charlie,\" an autobiographical movie written by his son Nick Reiner.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-15",
+      "link": "https://www.businessinsider.com/cary-elwes-rob-reiner-being-charlie-comments-2026-5"
     },
     {
       "id": "36003df8-2d23-810d-8824-e797ae70b6f0",
@@ -184,222 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-05-15",
       "link": "https://www.businessinsider.com/delta-air-lines-starlink-elon-musk-not-happy-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-81b3-8fcb-f2342bed582b",
-      "title": "I paid $1,000 for a professional organizer to fix my home. Here's what actually changed.",
-      "summary": "Paying a professional organizer to help declutter and organize my home and kids' toys was mostly worth it. Here are the best tips I learned.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-15",
-      "link": "https://www.businessinsider.com/paid-professional-organizer-to-fix-house-results-best-tips-advice-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-8176-8283-c05270c94d83",
-      "title": "Musk's China trip during OpenAI trial prompts apology from his lawyer for CEO's absence",
-      "summary": "Musk sued his OpenAI co-founders Sam Altman and Greg Brockman, alleging they had violated a promise to keep their company a nonprofit.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-15",
-      "link": "https://www.cnbc.com/2026/05/14/musk-lawyer-trial-jury-china-trip-openai-altman.html"
-    },
-    {
-      "id": "36003df8-2d23-8118-9243-c3ca4420e416",
-      "title": "Alex Karp is gobsmacked that Germany's military is snubbing Palantir",
-      "summary": "CEO Alex Karp expressed surprise at the German military's stance on Palantir and made the case for Ukrainian defense technologies.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-15",
-      "link": "https://www.businessinsider.com/palantir-alex-karp-surprised-german-military-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-8196-bb25-f55f87741e93",
-      "title": "Schools are the new battleground for AI. Parents are asking: Do we actually want this tech?",
-      "summary": "One parent said a school district's use of AI teaching programs was \"experimenting on our children.\" The anti-AI battle is starting in classrooms.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-15",
-      "link": "https://www.businessinsider.com/school-chromebook-students-parents-classroom-ai-backlash-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-81d9-a586-fc7a52957779",
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-15",
-      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/"
-    },
-    {
-      "id": "36003df8-2d23-81b9-98a6-d94bc2054517",
-      "title": "Jim Cramer wants to buy this stock now 10% below its highs. Here's why",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-15",
-      "link": "https://www.cnbc.com/2026/05/14/jim-cramer-wants-to-buy-this-stock-now-10percent-below-its-highs-heres-why.html"
-    },
-    {
-      "id": "36003df8-2d23-81b7-8115-e34bf31c60c2",
-      "title": "OpenAI says hackers stole some data after latest code security issue",
-      "summary": "OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-15",
-      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/"
-    },
-    {
-      "id": "36003df8-2d23-8155-baa4-fc754febed3e",
-      "title": "Subnautica 2 is having a huge launch on Steam",
-      "summary": "Subnautica 2, the new underwater survival game from Unknown Worlds, took less than an hour to rocket up Steam's charts. The game has already sold more than one million copies, according to a press release, and as of this writing, Steam's charts show that Subnautica 2 is currently the fourth-most pla",
-      "source": "The Verge",
-      "publishTime": "2026-05-15",
-      "link": "https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox"
-    },
-    {
-      "id": "36003df8-2d23-812d-8d15-e86e988dbc9f",
-      "title": "We couldn't afford elder care for my mom. A little-known program changed everything.",
-      "summary": "Natalie Tucker says her mother's falls and memory loss made caregiving overwhelming until she found a Medicaid-supported adult day care program.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-14",
-      "link": "https://www.businessinsider.com/mom-attends-free-adult-day-care-low-income-no-savings-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-8199-a930-ebcdd4a893ce",
-      "title": "微星推出“MAG 276QP42”27 英寸显示器：2K 425Hz，2199 元",
-      "summary": "IT之家 5 月 14 日消息，微星现已在京东上架“MAG 276QP42”27 英寸显示器，该机主打 2K 425Hz，定价为 2199 元。该机配备一块 2560x1440 分辨率 425Hz Fast IPS 面板，显示器 SDR 亮度 400 尼特，GtG 响应速度 0.5ms，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 98.1% DCI-P3 色域。该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供双 HDMI2.1、DP1.4a、3.5mm 音频接口。",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/650.htm"
-    },
-    {
-      "id": "36003df8-2d23-819e-955d-f2814f52cd78",
-      "title": "Leaked images show Microsoft’s new Xbox Cloud Gaming controller",
-      "summary": "I revealed earlier this year that Microsoft was working on a new Xbox controller that includes Wi-Fi to connect direct to Xbox Cloud Gaming servers. It now looks like that controller has leaked, thanks to some new images from Brazil's Anatel regulator. Tecnoblog published the images today, showing a",
-      "source": "The Verge",
-      "publishTime": "2026-05-14",
-      "link": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak"
-    },
-    {
-      "id": "36003df8-2d23-81f6-8307-ca265b82912d",
-      "title": "国内首枚高校主导研制的面对称可回收液体火箭平台飞行试验成功，中大师生团队攻克垂直起降关键技术",
-      "summary": "IT之家 5 月 14 日消息，中山大学在今晚宣布，今天下午在广东阳江海陵岛，银色机身的“逸仙-3 号”火箭升至预定高度后稳稳悬停，随后微微调整姿态开始减速下降，着陆在白色圆环靶心。整个过程只有 30 秒钟左右，但每个环节完全按照原计划完成，试验圆满成功。据介绍，这枚“逸仙-3 号”火箭高 4.5 米、直径 0.6 米、重量约 1 吨，在动辄数十吨的运载火箭家族里显得有些“娇小”。中山大学表示，这是国内首枚由高校主导研制的面对称可回收液体火箭。中大师生团队共同攻克火箭垂直起降关键技术，实现了低空飞行。IT之家注：“逸仙-3 号”要完成的任务，在航天领域有一个专门的缩写：VTVL，即垂直起飞、垂",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/648.htm"
-    },
-    {
-      "id": "36003df8-2d23-81f6-8d70-ee4e0af8aad4",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits ",
-      "source": "The Verge",
-      "publishTime": "2026-05-14",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-    },
-    {
-      "id": "36003df8-2d23-819a-a266-f61b279622d9",
-      "title": "比亚迪回应“计划收购 Stellantis 等欧洲车企闲置工厂”：消息属实",
-      "summary": "IT之家 5 月 14 日消息，近日有消息称，比亚迪正与 Stellantis 等欧洲汽车制造商就接管该地区未充分利用的工厂进行谈判。比亚迪方面 14 日（今天）回复中证金牛座称，该消息属实，但暂时没有更多信息可透露。根据彭博社的报道，比亚迪执行副总裁李柯表示，公司正在讨论收购或接管意大利等地工厂的可能性。公司目前不仅在与 Stellantis 谈判，也在和其他欧洲车企沟通。“我们正在寻找欧洲任何可用的工厂，因为我们希望利用当地现有的闲置产能。”不仅如此，据IT之家今天早些时候的报道，比亚迪未来三年将密集推出一批专为欧洲市场设计、并在欧洲开发的车型。首款产品将是下月发布的插混车型“Dolphi",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/647.htm"
-    },
-    {
-      "id": "36003df8-2d23-816c-ad31-eff2d4936d03",
-      "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
-      "summary": "Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-14",
-      "link": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/"
-    },
-    {
-      "id": "36003df8-2d23-8114-a51a-ce0abb54e4ee",
-      "title": "游戏发售前夕，多款《极限竞速：地平线 6》Mod 抢先登场",
-      "summary": "IT之家 5 月 14 日消息，《极限竞速：地平线 6》尚未正式发售，多款该作的 Mod 就已经提前上线。该作将于明天（5 月 15 日）开启抢先体验，正式版则会在 5 月 19 日登陆 Xbox Series X/S，以及 Steam PC 端。目前，Nexus Mods 平台已经出现多个《极限竞速：地平线 6》Mod，内容涵盖玩法调整和画质改善等。譬如，Realism Reshade Mod 可以让游戏画面色彩更鲜艳，存档 Mod 则可让玩家开局后直接跳过教程。还有一个名为 Tokoyo Drift 的 Mod，其对玩法影响不大，而是把菜单视频和歌曲替换成《Tokyo Drift》。另一个",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/646.htm"
-    },
-    {
-      "id": "36003df8-2d23-816a-bb67-f5e8536d2b80",
-      "title": "I thought college would be the happiest 4 years of my life. They've been the loneliest.",
-      "summary": "I largely blame social media for making me feel lonely during my college years. All my friendships felt impersonal because we relied on social media.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-14",
-      "link": "https://www.businessinsider.com/college-loneliest-years-thanks-social-media-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-8117-a29d-d4d610f9a751",
-      "title": "网易《逆水寒》手游【万仞争锋】S3 赛季登场：应援战令、赛程时长、淘汰赛赛制全面更新优化",
-      "summary": "IT之家 5 月 14 日消息，网易《逆水寒》手游官宣，【万仞争锋】S3 赛季 5 月 15 日正式到来 —— 应援战令、赛程时长、淘汰赛赛制全面更新优化，以更公平、更紧凑、更具观赏性的竞技舞台，再度向所有玩家敞开大门。新一期【万仞争锋】S3 应援战令 5 月 15 日正式开启。参与应援活动、完成战令任务，即可免费解锁坐骑【雪酪猪仔】。若想收获更多专属奖励，玩家还可解锁应援战令进阶版。完成任务升级，即可获得时装【流霞织雪 / 红莲淬夜】、烫画【暮星霞】【赤染月】、妆饰【绯颜】等奖励。此外，从本届《万仞争锋》S3 赛季开始，应援战令系统将接入金玉馈。战令开启后，玩家可通过主界面【战令】入口直接购",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/645.htm"
-    },
-    {
-      "id": "36003df8-2d23-8196-b1bb-c6ca98d06319",
-      "title": "Netflix is building an AI animation studio",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Netflix has been building a new internal studio called INKubator that aims to use AI to produce short-form animated content: The stream",
-      "source": "The Verge",
-      "publishTime": "2026-05-14",
-      "link": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator"
-    },
-    {
-      "id": "36003df8-2d23-81ea-97b6-f6c9f3c9c82a",
-      "title": "Americans do not want AI data centers in their backyards",
-      "summary": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers. According to Gallup, data centers are so strongly disliked that Americans would prefer to live near a nuclear power ",
-      "source": "The Verge",
-      "publishTime": "2026-05-14",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition"
-    },
-    {
-      "id": "36003df8-2d23-81d1-87a4-c06c77827b49",
-      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
-      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-14",
-      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/"
-    },
-    {
-      "id": "36003df8-2d23-81f6-8e7a-e6bed4466bde",
-      "title": "三部门：企业要引导消费者正确使用车辆，不得进行夸大和虚假宣传",
-      "summary": "IT之家 5 月 14 日消息，今日，工业和信息化部装备工业一司、国家市场监督管理总局质量发展局、国家消防救援局消防监督司（以下统称三部门）联合召开加强新能源汽车安全管理工作视频会，研究部署本年度新能源汽车安全管理工作。会议要求，车辆生产企业和动力电池生产企业要自觉扛起产品质量安全主体责任，将产品质量安全管理作为“一把手工程”切实抓实抓细。要围绕产品研发设计、生产制造、供应链管理、运行监测、售后服务等方面做好风险防范，并严格履行告知义务，引导消费者正确使用车辆，不得进行夸大和虚假宣传。要建立健全事故隐患内部报告奖励机制，深化事故隐患排查，坚决守牢安全底线。下一步，三部门将会同相关部门进一步加强",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/644.htm"
-    },
-    {
-      "id": "36003df8-2d23-814b-bec1-c9360a9ad0e8",
-      "title": "The Beats Solo 4 have returned to their best price of the year",
-      "summary": "If you want a pair of Apple-made wireless headphones that work just as well with Android as with iOS, the Beats Solo 4 are down to around $129.95 ($70 off) at Amazon, Best Buy, and Target. That matches the best price we’ve seen so far this year. While each retailer is offering discounts on the […]",
-      "source": "The Verge",
-      "publishTime": "2026-05-14",
-      "link": "https://www.theverge.com/gadgets/930213/beats-solo-4-headphones-anker-nano-travel-adapter-deal-sale"
-    },
-    {
-      "id": "36003df8-2d23-8173-aa6a-d211f026ec7c",
-      "title": "油价居高不下，今年 4 月全球新能源汽车注册量 160 万辆同比再度增长",
-      "summary": "IT之家 5 月 14 日消息，据路透社报道，当地时间周三，咨询机构 Benchmark Mineral Intelligence 发布的数据显示，4 月全球电动汽车需求连续第二个月增长。汽油价格居高不下，继续促使消费者远离油车。BMI 表示，4 月全球新注册纯电和插混车型达到 160 万辆，同比增长 6%，较 3 月创下的单月纪录下降 9%。政策激励、汽油价格上涨以及中国整车厂影响力扩大，继续支撑需求。新车注册量通常可视为销量的参考指标。欧洲市场 4 月注册量同比增长 27%，达到约 40 万辆。近期一项研究显示，欧洲经济区国家和瑞士已承诺为电动汽车生态投入近 2000 亿欧元（IT之家注：",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/643.htm"
-    },
-    {
-      "id": "36003df8-2d23-81c9-bb5e-eb79686e8114",
-      "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared",
-      "summary": "While the Meta-owned social network billed Instants as a new format to share real-life moments as they’re happening, many users are looking for a way to turn off the feature, especially those who have ended up accidentally sending images to others not fully understanding how the feature works.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-14",
-      "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/"
-    },
-    {
-      "id": "36003df8-2d23-8157-a20e-fa62f7286992",
-      "title": "I left the US to retire in Mexico at 50. My first year of mistakes and surprise expenses taught me what it really takes to live abroad.",
-      "summary": "I'm an American who left my career in the US to retire early in Mexico at 50. After years of surprises and mistakes, I've built a nice life abroad.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-14",
-      "link": "https://www.businessinsider.com/american-retired-early-abroad-mexico-mistakes-made-first-year-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-8191-96cb-da0a920cba6e",
-      "title": "Razer’s Blade 18 is getting a $500 price hike and a new Intel chip",
-      "summary": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config is $500 more than the 2025 model with […]",
-      "source": "The Verge",
-      "publishTime": "2026-05-14",
-      "link": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip"
     }
   ],
   "macroEvents": [
