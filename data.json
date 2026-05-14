@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-05-15 04:12",
+  "updatedAt": "2026-05-15 05:43",
   "news": [
+    {
+      "id": "36003df8-2d23-817d-aa07-f23afc4dc90a",
+      "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+      "summary": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-15",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/"
+    },
+    {
+      "id": "36003df8-2d23-810d-8824-e797ae70b6f0",
+      "title": "应用材料 2026 财年第二财季净利润 28.06 亿美元，同比增长 31%",
+      "summary": "IT之家 5 月 15 日消息，应用材料今日发布 2026 财年（2025 年 10 月 27 日～2026 年 10 月 25 日）第二财季（2026 年 1 月 27 日～2026 年 4 月 26 日）报告： 营业总收入： 79.1 亿美元，同比增长 11% 归母净利润： 28.06 亿美元，同比增长 31% 扣非净利润： 22.86 亿美元，同比增长 18% 经营现金流： 8.45 亿美元，同比下降 46.21% 基本每股收益： 3.53 美元/股，同比增长 33.71% 稀释每股收益： 3.51 美元/股，同比增长 33.46% 🤖 AI 解读 应用材料公布了2026财年第二财季业绩",
+      "source": "IT之家",
+      "publishTime": "2026-05-15",
+      "link": "https://www.ithome.com/0/950/651.htm"
+    },
+    {
+      "id": "36003df8-2d23-81f3-bdc7-c11db0a68620",
+      "title": "Paramount+ is exploring adding podcasts, following Netflix's lead",
+      "summary": "Paramount+ is exploring adding podcasts after introducing a short-form vertical video feed as part of David Ellison's tech push.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-15",
+      "link": "https://www.businessinsider.com/paramount-plus-exploring-podcasts-cbs-sports-news-david-ellison-netflix-2026-5"
+    },
+    {
+      "id": "36003df8-2d23-816f-a542-e494d844f322",
+      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+      "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side",
+      "source": "The Verge",
+      "publishTime": "2026-05-15",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview"
+    },
+    {
+      "id": "36003df8-2d23-8147-ab04-c7c7a460af37",
+      "title": "What happens when AI starts building itself?",
+      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-15",
+      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/"
+    },
+    {
+      "id": "36003df8-2d23-8177-834b-ffc7a30b51db",
+      "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
+      "summary": "If you’ve been curious about Ray-Ban’s Meta smart glasses, right now they’re on sale in Meta’s biggest deal event outside Black Friday. As part of the company’s Summer Sale event, which runs through May 26th, the original model is on sale starting at $224.25 ($74 off) at Amazon, Best Buy, and direct",
+      "source": "The Verge",
+      "publishTime": "2026-05-15",
+      "link": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale"
+    },
+    {
+      "id": "36003df8-2d23-813a-bc86-d2da07533573",
+      "title": "I build homes for billionaires. Here are 5 features my ultrawealthy clients request — and what I tell them not to do.",
+      "summary": "Manny A. Varas, Miami developer known as the \"Billionaire's Builder,\" discusses luxury home trends and what his wealthy clients want in their homes.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-15",
+      "link": "https://www.businessinsider.com/luxury-home-trends-for-wealthy-billionaires-according-to-builder-2026-5"
+    },
+    {
+      "id": "36003df8-2d23-818d-9771-ddd2d80fbd7f",
+      "title": "Audemars Piguet and Swatch's new pocket watch collab has fans camping outside stores for days",
+      "summary": "Swatch and Audemars Piguet's Royal Pop drop has fans camping in Times Square. The pocket watch collaboration has drawn excitement and division.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-15",
+      "link": "https://www.businessinsider.com/swatch-audemars-piguet-watch-fans-camp-in-times-square-2026-5"
+    },
+    {
+      "id": "36003df8-2d23-81d3-ba89-ee886523728c",
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-15",
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/"
+    },
+    {
+      "id": "36003df8-2d23-81ef-bf27-de57105cd2d8",
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-15",
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/"
+    },
+    {
+      "id": "36003df8-2d23-812c-8828-fdee4224b9b7",
+      "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
+      "summary": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher.",
+      "source": "Wired",
+      "publishTime": "2026-05-15",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/"
+    },
+    {
+      "id": "36003df8-2d23-817b-9a62-e58fb5f422f7",
+      "title": "Anthropic exec's message to parents of college grads: Know you're not alone, and the jobs market won't be uncertain forever",
+      "summary": "Anthropic Labs chief Mike Krieger said there will remain some innately human areas that AI won't affect anytime soon.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-15",
+      "link": "https://www.businessinsider.com/anthropic-advice-recent-college-graduates-mike-krieger-2026-5"
+    },
+    {
+      "id": "36003df8-2d23-81b4-8c8e-c6f29da8acd9",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me t",
+      "source": "The Verge",
+      "publishTime": "2026-05-15",
+      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
+    },
+    {
+      "id": "36003df8-2d23-8197-8f99-e7f2c186388f",
+      "title": "Early Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+      "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+      "source": "Wired",
+      "publishTime": "2026-05-15",
+      "link": "https://www.wired.com/story/memorial-day-tech-deals-2026/"
+    },
+    {
+      "id": "36003df8-2d23-818a-8498-e4e2b84daed9",
+      "title": "Linux devs are fighting the new age-gated internet",
+      "summary": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Android - one of numerous plans to age-gate the internet through users' devices. It ",
+      "source": "The Verge",
+      "publishTime": "2026-05-15",
+      "link": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source"
+    },
+    {
+      "id": "36003df8-2d23-8110-b05e-f20985998ba9",
+      "title": "I'm an influencer stuck in hantavirus quarantine. I have complicated feelings about my sudden fame.",
+      "summary": "Jake Rosmarin is an influencer who's been in quarantine after the hantavirus outbreak. He hoped to grow his following, but not this way.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-15",
+      "link": "https://www.businessinsider.com/instagram-travel-influencer-shares-quarantine-life-after-hantavirus-alert-2026-5"
+    },
+    {
+      "id": "36003df8-2d23-81e1-9cc0-d1832d0578b6",
+      "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
+      "summary": "Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-15",
+      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/"
+    },
     {
       "id": "36003df8-2d23-814d-84f7-c7cf9d62c03b",
       "title": "A 222-day Wordle streak had taken over my life. Losing it was painful — and completely liberating.",
@@ -264,142 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-05-14",
       "link": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip"
-    },
-    {
-      "id": "36003df8-2d23-81c8-9481-dc8a9830b8ac",
-      "title": "《汪汪队立大功大电影 3：勇闯恐龙岛》确认引进中国内地，今年暑期上映",
-      "summary": "IT之家 5 月 14 日消息，派拉蒙电影今日宣布，电影《汪汪队立大功》系列第三部《汪汪队立大功大电影 3：勇闯恐龙岛》确认引进，即将登上内地大银幕，今年暑期全球献映。IT之家注意到，影片讲述了一场突如其来的风暴，将汪汪队困在一座陌生的岛屿上，它们在这座岛上发现了众多恐龙，却对悄然靠近的危险毫无察觉，一场前所未有的挑战，正等待着它们。 作为参考，《汪汪队立大功大电影》于 2022 年 1 月在中国大陆上映，豆瓣评分 7.1 分；《汪汪队立大功大电影 2：超能大冒险》于 2023 年 9 月在中国大陆上映，豆瓣评分 7.5 分。IT 之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/641.htm"
-    },
-    {
-      "id": "36003df8-2d23-8139-a293-d2a41ba19f9f",
-      "title": "The Burberry scarf is so back",
-      "summary": "Burberry's CEO said its silk and cashmere scarves have become a 'hero' category for the brand.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-14",
-      "link": "https://www.businessinsider.com/burberry-silk-cashmere-scarf-gen-z-popularity-luxury-fashion-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-8138-b3fb-fe5b2ab9034f",
-      "title": "与“AMD+AMG”赛道相见，英特尔、迈凯伦 F1 车队达成战略合作",
-      "summary": "IT之家 5 月 14 日消息，英特尔宣布与 F1 传奇车队迈凯伦车队 14 日（今天）宣布达成多年战略合作。根据英特尔今天发布的新闻稿，英特尔将成为迈凯伦 Mastercard 一级方程式车队、Arrow McLaren 印地赛车队和 McLaren F1 Sim Racing 车队的官方计算合作伙伴。这项合作也让英特尔再次与 PC 芯片领域的老对手 AMD 隔空较量，AMD 已经和 AMG 马石油车队合作了 6 年。英特尔在新闻稿中称，F1 赛车是世界上对技术要求最高的体育项目之一。按照合作安排，英特尔工程师将为迈凯伦提供 AI 和高性能架构所需的先进算力，帮助车队保持竞争力。这项新协议意",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/640.htm"
-    },
-    {
-      "id": "36003df8-2d23-8199-86bf-c7c1711818a4",
-      "title": "Big Tech's layoffs have been a win for PitchBook, its chief product officer says",
-      "summary": "Paul Jaeschke, the CPO at PitchBook, says that Big Tech layoffs have given the data platform access to top-tier talent.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-14",
-      "link": "https://www.businessinsider.com/big-tech-layoffs-have-benefited-pitchbook-cpo-says-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-81e3-a232-f1bb8c69c264",
-      "title": "蓝色起源月球着陆器全尺寸模拟舱入驻 NASA 航天中心，可供宇航员开展训练",
-      "summary": "IT之家 5 月 14 日消息，美国国家航空航天局（NASA）的猎户座太空舱训练模拟器坐落于休斯敦约翰逊航天中心的 9 号大楼内。该模拟器是猎户座真实太空舱的全尺寸、高保真复刻模型，阿耳忒弥斯 2 号任务的宇航员正是在这里耗时一年多，为近期的绕月任务开展筹备训练。长期以来，猎户座模拟器一直独自安放在角落，与航天器模拟设施（SVMF）内一字排开的国际空间站训练舱隔离开来。而如今，猎户座终于迎来了“邻居”。据 NASA 发布的消息，蓝色起源公司的蓝月 MK2 型月球着陆器全尺寸模拟舱已在航天器模拟设施内组装完毕，可供宇航员登舱开展训练。该模拟舱紧邻猎户座太空舱，其乘员舱外观与整体构型均复刻了蓝月 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/639.htm"
-    },
-    {
-      "id": "36003df8-2d23-810c-a66f-f0ddd95e82d3",
-      "title": "Cisco CEO says tech is entering a 'networking supercycle' as stock pops 14% on strong AI demand",
-      "summary": "Shares headed for their best day in more than two decades after Cisco blew past its AI infrastructure and hyperscaler orders guidance for the fiscal year",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-14",
-      "link": "https://www.cnbc.com/2026/05/14/cisco-csco-pops-on-ai-demand.html"
-    },
-    {
-      "id": "36003df8-2d23-81f0-9dd2-d6110ab384be",
-      "title": "212 皮卡将出口德国，填补当地硬派越野市场部分空白",
-      "summary": "IT之家 5 月 14 日消息，据外媒 Carscoops 今日报道，德国进口商 Indimo Automotive 将把北京汽车制造厂的全新 BAW 212 引入欧洲，试图填补硬派越野皮卡市场的空白，面向需要高越野能力、可靠技术和日常实用性的用户。212 皮卡配备圆形 LED 大灯、雨量感应雨刷、侧踏板和 18 英寸合金轮圈。车尾采用圆形尾灯，货厢长度为 1555 毫米。尺寸方面，212 皮卡长 5469 毫米、宽 1950 毫米、高 1970 毫米，轴距达到 3488 毫米，仪表区配备 10.25 英寸数字仪表盘，中控则是一块 12.3 英寸信息娱乐屏，并支持 Android Auto 和",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/638.htm"
-    },
-    {
-      "id": "36003df8-2d23-818a-92f0-ca495b006bee",
-      "title": "BCG trained an AI agent on the worst things its salespeople do",
-      "summary": "Boston Consulting Group has an AI agent called Jamie who's trained on its top salespeople, and also their worst behaviors, decision, and interactions.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-14",
-      "link": "https://www.businessinsider.com/bcg-consulting-ai-agents-sales-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-8140-8305-d60b243bea74",
-      "title": "荣耀 600/Pro 手机规格曝光：6.57 英寸 1.5K 直屏，骁龙 7 Gen4 / 天玑 8550 处理器",
-      "summary": "IT之家 5 月 14 日消息，荣耀 600 系列手机国行将于 5 月 25 日发布，博主 @熊猫很禿然 今日曝光新机的主要规格。IT之家整理如下：荣耀 6006.57 英寸 1.5K 直屏8600mAh 电池 +80W 有线快充前置 50MP200MP（1/1.4）+12MP骁龙 7 Gen4 处理器荣耀 600 Pro6.57 英寸 1.5K 直屏8000mAh 电池 +80W 有线快充 +50W 无线快充前置 50MP200MP（1/1.4）+12MP+50MP（3.5x）天玑 8550 处理器根据官方预热信息来看，荣耀 600 系列手机国行版主打 4K 闪光微单 Live，将搭载 2 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/637.htm"
-    },
-    {
-      "id": "36003df8-2d23-81fc-ae93-df4d5e2dc2bc",
-      "title": "丰田推出人形机器人 CUE7：篮球实力再进化，能自由移动、运球",
-      "summary": "IT之家 5 月 14 日消息，据外媒 Carscoops 今日报道，丰田旗下“会打篮球的机器人”推出最新版本 ——CUE7，在东京 Toyota Arena 举行的 Alvark Tokyo 职业篮球联赛的主场比赛中完成首秀。CUE 项目始于 2017 年，由丰田工程师协会的志愿者推动，最初目标是从零开始开发 AI。2019 年，CUE 机器人拿下一项吉尼斯世界纪录，成为连续罚球命中次数最多的人形机器人：2020 次。2024 年，CUE 又拿下一项吉尼斯世界纪录，这次刷新的是投篮距离。CUE6 投出 24.55 米，创造了人形机器人最长投篮纪录。CUE7 不仅可以投篮，还能在球场上自由移动",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/636.htm"
-    },
-    {
-      "id": "36003df8-2d23-81d2-ba6e-fff9072c4138",
-      "title": "How companies weaponize the terms of service against you",
-      "summary": "Today, I’m talking with Brendan Ballou, founder of the Public Integrity Project and author of a new book, called When Companies Run the Courts, about the rise of forced arbitration. Brendan’s actually been on the show before — his previous book, Plunder, was about private equity taking over huge swa",
-      "source": "The Verge",
-      "publishTime": "2026-05-14",
-      "link": "https://www.theverge.com/podcast/930342/brendan-ballou-companies-courts-forced-arbitration-lawsuits-scalia"
-    },
-    {
-      "id": "36003df8-2d23-8103-bd94-e256ff7d3a05",
-      "title": "I tried eating vegetables every day for a month — by the end, I didn't want to stop",
-      "summary": "I challenged myself to eat vegetables every day, with most of my meals, for a month. Here are the results and my favorite meals from the experiment.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-14",
-      "link": "https://www.businessinsider.com/eat-vegetables-every-day-for-month-what-happens-results-meals-2026-5"
-    },
-    {
-      "id": "36003df8-2d23-812b-83f3-ea86693cf1e9",
-      "title": "华为何刚：鸿蒙生态正迈向规模化发展，今年有望突破 1 亿目标",
-      "summary": "IT之家 5 月 14 日消息，华为终端 BG CEO 何刚在刚刚发文，称自己今天在黄浦江边和鸿蒙伙伴们小聚交流时，收到 6000 万的里程碑喜讯，大家都很振奋。何刚表示，鸿蒙生态正迈向规模化发展，今年有望突破 1 亿目标，前路有挑战，但满怀信心！据IT之家此前报道，在今年 3 月的直播中，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，鸿蒙系统用户规模正经历急剧增长，预计将在今年冬季前突破 1 亿大关。而在当时，搭载鸿蒙 5 和鸿蒙 6 的终端设备数量就已突破 4700 万台。根据华为官方最新数据，支持鸿蒙 HarmonyOS 6 的终端设备数已经突破 6000 万。",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/635.htm"
-    },
-    {
-      "id": "36003df8-2d23-8199-ad9f-c9a07a0a2732",
-      "title": "OPPO ColorOS 流体云 & 小布建议支持美的美居，可查看智能设备状态",
-      "summary": "IT之家 5 月 14 日消息，OPPO ColorOS 今日宣布流体云 & 小布建议支持美的美居，可查看智能设备状态。据IT之家此前报道，OPPO ColorOS 系统的“流体云通知”首发于 ColorOS 14，该方案类似苹果的“灵动岛”，可在通知栏即时显示消息内容详情，支持手表、手机、平板等设备。目前，高德地图、百度地图、滴滴出行、铁路 12306、美团外卖、京东外卖、淘宝闪购、饿了么等应用已接入 ColorOS 系统的“流体云通知”。",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/634.htm"
-    },
-    {
-      "id": "36003df8-2d23-818d-bf7e-e1515262e125",
-      "title": "Epic 喜加一：《The Telltale Batman Shadows Edition》免费领取",
-      "summary": "IT之家 5 月 14 日消息，Epic 本周送出的游戏是《The Telltale Batman Shadows Edition》，下周送出的游戏是《Mystery Game Week 21 Game 2》，《Mystery Game Week 21 Game 1》。领取链接：《The Telltale Batman Shadows Edition》IT之家附《The Telltale Batman Shadows Edition》游戏简介：踏入阴影之中，体验《Telltale’s Batman》的扭曲世界。这款游戏以惊悚而新颖的方式重现了黑暗骑士的分裂人格与哥谭城市风光。《Telltale",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/642.htm"
-    },
-    {
-      "id": "36003df8-2d23-8141-8313-d6d47f0592d4",
-      "title": "戴森新风扇搭载 AI 智能摄像头，可实现“人动风随”",
-      "summary": "IT之家 5 月 14 日消息，戴森发布了一款全新的空气净化无叶风扇，这是戴森首款搭载 AI 智能摄像头、可追踪室内人员位置的产品。戴森旗下扫地机器人早已融合摄像头与人工智能技术，但这款全新的寻踪随行净化凉风扇为固定式设备，不会像扫地机器人那样被散落袜子等杂物阻挡；其 AI 摄像头主要用于将洁净气流定向吹向人体，同时可在室内无人时自动关机，实现节能省电。这款戴森寻踪随行净化风扇（The Dyson Find+Follow Purifier Cool）现已在品牌官网及线下门店开售，售价 894.99 美元（IT之家注：现汇率约合 6091 元人民币）。产品可吸附过滤 0.3 微米级超细颗粒物，净",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/633.htm"
-    },
-    {
-      "id": "36003df8-2d23-81a2-8cf9-faee17e7da3f",
-      "title": "仍在铺路：微软折叠屏设备新铰链设计专利获授权，单手开合更轻松",
-      "summary": "IT之家 5 月 14 日消息，众所周知，微软的 Surface Phone 手机项目早已停止。而在北京时间今晚，Windows Central 新发现的一项专利显示，即便是 Surface Duo 产品线在 2023 年被砍后，微软仍在继续研究这类设备形态。此前消息称第三代 Surface Duo 原本计划改用折叠屏设计。据悉，这项专利 2025 年 7 月 2 日申请，后于今年 4 月 22 日获得授权，进一步披露了与折叠屏方案配套的新铰链设计。根据这项专利，微软曾研究一种弹簧加载式铰链，让用户可以更轻松地单手打开设备。报道指出，现在的折叠屏手机有一个常见痛点：合上后，两半机身不容易掰开。",
-      "source": "IT之家",
-      "publishTime": "2026-05-14",
-      "link": "https://www.ithome.com/0/950/632.htm"
     }
   ],
   "macroEvents": [
