@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-05-16 03:58",
+  "updatedAt": "2026-05-16 05:33",
   "news": [
+    {
+      "id": "36103df8-2d23-8191-9396-d98d86b9e1ca",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" l",
+      "source": "The Verge",
+      "publishTime": "2026-05-16",
+      "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers"
+    },
+    {
+      "id": "36103df8-2d23-81e2-98e0-c77b99095acf",
+      "title": "RJ Scaringe has raised more than $12 billion across three startups and investors still want more",
+      "summary": "Founder and CEO RJ Scaringe has a knack for raising money. So far, his three startups have raised more than $12.3 billion.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-16",
+      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/"
+    },
+    {
+      "id": "36103df8-2d23-8107-bff5-efdc91191840",
+      "title": "Trump touted Palantir on Truth Social after buying the company's stock, records show",
+      "summary": "During the first three months of the year, Trump purchased between $630,000 and $247,008 worth of Palantir stock and sold at least $1.1 million.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-16",
+      "link": "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html"
+    },
+    {
+      "id": "36103df8-2d23-81ce-bc4a-c6b88f44d801",
+      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+      "summary": "Compulsive X user Andreessen himself couldn't resist responding, many, many times.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-16",
+      "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/"
+    },
+    {
+      "id": "36103df8-2d23-8189-9876-efd62c84720e",
+      "title": "What you need to know about Nvidia competitor Cerebras after wild IPO",
+      "summary": "Nvidia competitor Cerebras made a stunning debut on Wall Street Thursday, signaling unstoppable demand for AI chips. Here's how its chips compete with Nvidia's.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-16",
+      "link": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html"
+    },
+    {
+      "id": "36103df8-2d23-81b0-b092-fb625916f01c",
+      "title": "See every type of military aircraft the US has lost in the Iran war",
+      "summary": "Congress released a list of 42 US military aircraft reported lost, damaged, or destroyed during the Iran war.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-16",
+      "link": "https://www.businessinsider.com/42-types-of-aircraft-us-military-lost-iran-war-2026-5"
+    },
+    {
+      "id": "36103df8-2d23-815a-a439-c7e320d068b5",
+      "title": "Celebrity deaths 2026: Remembering the famous people we lost this year",
+      "summary": "Here are the stars we lost this year, including James Van Der Beek, Catherine O'Hara, Ted Turner, Chuck Norris, and Jesse Jackson.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-16",
+      "link": "https://www.businessinsider.com/celebrity-deaths-famous-people-who-died-2026"
+    },
+    {
+      "id": "36103df8-2d23-81db-a236-cf54d4dc7295",
+      "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
+      "summary": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
+      "source": "Wired",
+      "publishTime": "2026-05-16",
+      "link": "https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/"
+    },
+    {
+      "id": "36103df8-2d23-8167-9521-eb4aa259a1fd",
+      "title": "I dropped out of Wharton to start my own business. Within the first year, we made over $1 million in revenue.",
+      "summary": "Abigail McCulloch left Wharton to launch a padel club, investing most of her savings into the fast-growing business.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-16",
+      "link": "https://www.businessinsider.com/dropped-out-wharton-started-padel-club-2026-5"
+    },
+    {
+      "id": "36103df8-2d23-81e1-8f7f-fa4dfb6f7430",
+      "title": "Inside Jackie Kennedy Onassis' luxurious homes, from sprawling estates to full-floor apartments",
+      "summary": "Jacqueline Kennedy Onassis lived in luxurious homes throughout the East Coast. Take a closer look.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-16",
+      "link": "https://www.businessinsider.com/jackie-kennedy-onassis-properties-mansions-apartments-photos"
+    },
     {
       "id": "36103df8-2d23-8167-8669-ce49f1819dae",
       "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
@@ -320,86 +400,6 @@
       "source": "Wired",
       "publishTime": "2026-05-15",
       "link": "https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/"
-    },
-    {
-      "id": "36103df8-2d23-81a2-929e-edf345ee3fef",
-      "title": "The most famous hotel in every state",
-      "summary": "The US is packed with hotels known for being historic, haunted, or simply the best.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-15",
-      "link": "https://www.businessinsider.com/most-famous-hotel-every-state"
-    },
-    {
-      "id": "36103df8-2d23-818f-af43-c1f53cbbd022",
-      "title": "瑞安 · 雷诺兹新片《Mayday》官宣：间谍惊悚喜剧，9 月上线苹果 Apple TV",
-      "summary": "IT之家 5 月 15 日消息，Apple TV 今年下半年将上线多部高预算电影，其中包括由瑞安 · 雷诺兹主演的新片《Mayday》，提前布局秋季档。据IT之家了解，苹果将其定义为一部融合动作元素的搭档喜剧，会“彻底颠覆传统间谍惊悚片模式”，9 月 4 日正式登陆 Apple TV。影片由瑞安 · 雷诺兹与肯尼思 · 布拉纳主演，两人在片中分别饰演冷战时期不同阵营的军人，并在特殊情况下逐渐建立起友谊。苹果公布的剧情显示，冷战高峰时期，美国海军飞行员 Troy “Assassin” Kelly 中尉被派往苏联执行绝密任务，但任务途中突然失控，最终被困敌后。随后，Troy 遇到了由肯尼思 · 布",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/143.htm"
-    },
-    {
-      "id": "36103df8-2d23-81f6-b340-e40ffed0cfd0",
-      "title": "中国一汽悦意 08 全球首台量产车下线，本月底开启预售",
-      "summary": "IT之家 5 月 15 日消息，今日，中国一汽悦意 08 全球首台量产车在江苏盐城下线，定位“B+ 级旗舰家用轿跑”，将于 5 月底正式开启预售。该车内饰此前已经公布，搭载 15.6 英寸中控屏和 8.8 英寸仪表屏，配备满血版的高通 8295 芯片，搭载双杯架、手机无线充电等配置。空间方面，新车长宽高为 4920/1920/1480mm，轴距为 2900mm。外观方面，该车前脸采用分体式的“星河飞瀑”灯组，车灯设计灵感来源于庐山瀑布飞流直下的瞬间。引擎盖表面隆起多道筋线，格栅下方带有梯形贯穿式进气口。该车侧面使用半隐藏式门把手，车尾带有“FAW”尾标，下方的生产主体为“中国一汽”，是一汽悦意",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/142.htm"
-    },
-    {
-      "id": "36103df8-2d23-818a-bf85-fbce01a1af31",
-      "title": "My dad's dementia care costs $9,000 a month. I'm selling my parents' home to pay for it.",
-      "summary": "Keith Alan Pavlick says caring for his dad amid dementia and rising elder care costs has taken over his life and forced him to sell his parents' home.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-15",
-      "link": "https://www.businessinsider.com/dementia-elder-care-cost-selling-parents-home-2026-5"
-    },
-    {
-      "id": "36103df8-2d23-8153-a67b-d40dbdca2cb7",
-      "title": "首款纯电 GTI 车型来了：大众 ID.Polo GTI 发布，零百加速 6.8 秒",
-      "summary": "IT之家 5 月 15 日消息，大众首次把经典的 GTI 名号用在一辆纯电车型上，ID. Polo GTI 今天正式在纽博格林 24 小时耐力赛期间亮相，距离初代高尔夫 GTI 诞生正好过去 50 年。新车整体延续普通版纯电 Polo 的设计，并强化了运动化风格，带来重新设计的前后保险杠、分体式尾翼，以及 GTI 专属的纵向日间行车灯。矩阵式 LED 大灯下方的红色饰条和可点亮前贯穿灯带，也依旧保留了 GTI 标志性元素。ID. Polo GTI 标配双色 19 英寸轮毂，轮毂中央、后轮前方以及车尾都能看到红色 GTI 标识。为了进一步提升操控表现，大众还降低了车身高度，并将自适应运动悬架列为",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/141.htm"
-    },
-    {
-      "id": "36103df8-2d23-8117-b827-fa41ff8a20b1",
-      "title": "Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)",
-      "summary": "Memorial Day isn’t until May 26, but sales on our favorite gear have already started.",
-      "source": "Wired",
-      "publishTime": "2026-05-15",
-      "link": "https://www.wired.com/story/best-memorial-day-deals-2026/"
-    },
-    {
-      "id": "36103df8-2d23-817d-a370-e99d676d715b",
-      "title": "京东集团与万事达卡签署战略合作协议，扩大国际游客支付选择",
-      "summary": "IT之家 5 月 15 日消息，今日，京东集团与万事达卡战略合作协议签字仪式在北京举行。IT之家从官方介绍获悉，在构建全球支付基础设施，支持中小企业成长方面，京东集团与万事达卡将进一步整合和优化全球支付连接，通过构建支付基础设施，支持京东国际业务发展，并在全球商业中拓展更多应用场景。此外，双方将共同探索跨境供应链金融生态，支持全球中小企业（SMB）提升融资可得性，使企业更高效参与国际贸易。双方将围绕提升跨境消费体验深化合作，扩大来华国际游客的支付选择，包括更广泛地支持国际信用卡，并优化结账、购物及退税体验，覆盖京东电商平台及线下零售渠道。同时，双方将探索通过万事达卡 Agent Pay 智能支",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/140.htm"
-    },
-    {
-      "id": "36103df8-2d23-81c3-b0eb-fc5cc5858a9d",
-      "title": "山灵 UA1 II 便携解码耳放发售：双 CS43131 芯片、屏幕按键合一设计，368 元",
-      "summary": "IT之家 5 月 15 日消息，山灵音响旗下 UA1 II 便携解码耳放现已在京东发售，定价为 368 元。该产品可选紫 / 银 / 黑三种配色，机身重量仅约 17.5g，配备一块 0.43 英寸 LCD 彩屏（屏幕按键合一），支持音量、切歌、设置等快捷操作，同时可通过 Eddict Player App 调参。这款耳放搭载 2 个 Cirrus Logic CS43131 DAC 芯片，支持 768kHz/32bit、DSD 512 硬解。具备 3.5mm 单端 +4.4mm 平衡双接口，采用屏幕按键一体化设计，推力可达 240mW@32Ω。IT之家附产品参数：京东山灵 UA1 II HIF",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/139.htm"
-    },
-    {
-      "id": "36103df8-2d23-819e-af01-da07cc4d4c48",
-      "title": "Google has been quietly gaining AI customers, even before big releases next week",
-      "summary": "Vercel CEO Guillermo Rauch highlights Google's Gemini Flash model's rise in AI demand, overtaking Anthropic in Vercel's AI Gateway.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-15",
-      "link": "https://www.businessinsider.com/google-gemini-flash-model-quietly-winning-ai-customers-2026-5"
-    },
-    {
-      "id": "36103df8-2d23-81e7-a035-c8db8da98b19",
-      "title": "The funniest thing about the Trump arcade game is how good it is",
-      "summary": "This week, a trio of video game cabinets emblazoned with pixel art of Donald Trump and a number of other government officials' faces suddenly appeared at the DC War Memorial. Looking at the cabinets from a distance, it's easy to get the sense that Operation Epic Furious: Strait to Hell (which you ca",
-      "source": "The Verge",
-      "publishTime": "2026-05-15",
-      "link": "https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump"
     }
   ],
   "macroEvents": [
