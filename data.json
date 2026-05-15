@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-05-16 02:00",
+  "updatedAt": "2026-05-16 03:58",
   "news": [
+    {
+      "id": "36103df8-2d23-8167-8669-ce49f1819dae",
+      "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
+      "summary": "The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-16",
+      "link": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/"
+    },
+    {
+      "id": "36103df8-2d23-8109-a6b4-e4bbb783451e",
+      "title": "The Analogue 3D is finally getting save states",
+      "summary": "Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you to save at any moment and resume from that exact spot later on, rather than having to reach a specific",
+      "source": "The Verge",
+      "publishTime": "2026-05-16",
+      "link": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state"
+    },
+    {
+      "id": "36103df8-2d23-8122-bb01-d02b0de26ae7",
+      "title": "How Heathrow partnered with Salesforce to build a customer-service AI agent",
+      "summary": "Heathrow and Salesforce launched AI assistant Hallie to manage customer inquiries, boosting efficiency at the UK's busiest airport.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-16",
+      "link": "https://www.businessinsider.com/heathrow-salesforce-ai-chatbot-customer-service-2026-5"
+    },
+    {
+      "id": "36103df8-2d23-81e3-93bb-cc7b942df3d5",
+      "title": "Bill Ackman gets into Microsoft for reasons similar to Cramer's arguments to hold it",
+      "summary": "Jim Cramer thinks Microsoft has flexibility to stay competitive.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-16",
+      "link": "https://www.cnbc.com/2026/05/15/bill-ackman-gets-into-microsoft-for-reasons-similar-to-cramers-arguments-to-hold-it.html"
+    },
+    {
+      "id": "36103df8-2d23-81df-9fa9-c7fe5a79d683",
+      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+      "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the compa",
+      "source": "The Verge",
+      "publishTime": "2026-05-16",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle"
+    },
+    {
+      "id": "36103df8-2d23-818d-9ee9-f20479bae7e0",
+      "title": "LIVE Q&A: Meet tech's dealmakers backing the next big thing",
+      "summary": "In this live Q&A catch interviews with two prominent early-stage investors from BI's Seed 100 list, and learn the trends reshaping the VC landscape.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-16",
+      "link": "https://www.businessinsider.com/ai-reshapes-seed-investing-business-insiders-2026-seed-100-2026-5"
+    },
+    {
+      "id": "36103df8-2d23-817d-b8ab-ddc6d11dc360",
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-16",
+      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/"
+    },
+    {
+      "id": "36103df8-2d23-81d5-9fad-f354d462a051",
+      "title": "The 20 best countries in the world, ranked",
+      "summary": "US News & World Report ranked the best countries in the world. In 2026, the US fell short of the top 10, while many European countries filled out the list.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-16",
+      "link": "https://www.businessinsider.com/20-best-countries-in-the-world-ranked-2026"
+    },
+    {
+      "id": "36103df8-2d23-81f6-8369-f2189182e31f",
+      "title": "One of Intel’s fastest desktop CPUs is $50 off",
+      "summary": "The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its “fastest gaming desktop processor ever.” That hype was evidently accurate, as benchmarks done by Gamers Nexus show the processor giving AMD’s pricier X3D cache-equipped Ryzen 9000-series CPUs a run for their money",
+      "source": "The Verge",
+      "publishTime": "2026-05-16",
+      "link": "https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale"
+    },
+    {
+      "id": "36103df8-2d23-81d5-b4ee-d10dd7a3d65b",
+      "title": "Inside the Air Force One plane used by 8 presidents, where Lyndon B. Johnson was sworn in after JFK's assassination",
+      "summary": "The first Air Force jet designed specifically for US presidents, SAM 26000 carried every president from John F. Kennedy to Bill Clinton.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-16",
+      "link": "https://www.businessinsider.com/air-force-one-plane-tour-sam-26000-2025-8"
+    },
+    {
+      "id": "36103df8-2d23-81d8-8e6b-f3a8b3dd5e12",
+      "title": "Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real",
+      "summary": "The LA mayoral candidate and former reality TV star is fueling his campaign with fears about an ultra-potent meth. Experts say it’s drug war propaganda.",
+      "source": "Wired",
+      "publishTime": "2026-05-16",
+      "link": "https://www.wired.com/story/spencer-pratt-is-creating-panic-over-super-meth-the-drug-trope-that-wont-die/"
+    },
+    {
+      "id": "36103df8-2d23-8135-ac61-fbf880d1b720",
+      "title": "Trump went big on tech stocks in first quarter of 2026, new filings show",
+      "summary": "President Trump bought shares of Amazon, Meta, Oracle, Broadcom, Motorola and Dell worth millions, new ethics disclosure filings show.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-16",
+      "link": "https://www.cnbc.com/2026/05/15/trump-stock-trade-tech-oge.html"
+    },
     {
       "id": "36103df8-2d23-8117-890a-ed1e3b524250",
       "title": "I flew economy on Singapore Airlines for the first time. It was so much better than my trips on US carriers.",
@@ -304,102 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-05-15",
       "link": "https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump"
-    },
-    {
-      "id": "36103df8-2d23-81ae-8344-f99a5ca640e3",
-      "title": "The promises and pitfalls of personalized health",
-      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. A few days ago, my esthetician was smearing hot wax on my face. The two",
-      "source": "The Verge",
-      "publishTime": "2026-05-15",
-      "link": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health"
-    },
-    {
-      "id": "36103df8-2d23-8117-951a-ece1565a05e0",
-      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
-      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-15",
-      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
-    },
-    {
-      "id": "36103df8-2d23-8114-a79d-e0a743ef7791",
-      "title": "2 Yale students raised $5 million for their social network that lives in iMessage. Read their pitch deck.",
-      "summary": "Series, founded by Yale students Nathaneo Johnson and Sean Hargrow, focuses on Gen Z networking and has raised millions in pre-seed funds.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-15",
-      "link": "https://www.businessinsider.com/series-yale-students-seed-pitch-deck-social-network-imessage-2026-5"
-    },
-    {
-      "id": "36103df8-2d23-8182-821e-f4b1dbb09933",
-      "title": "高德推出“华为鸿蒙 HarmonyOS 首个生成式 UI 开源框架”AGenUI，利用通用协议适配多终端界面",
-      "summary": "IT之家 5 月 15 日消息，高德宣布推出“华为鸿蒙 HarmonyOS 系统首个生成式 UI 开源框架”AGenUI，号称能够大幅降低 AI 应用开发门槛，让多设备界面适配不再繁琐。目前已面向开发者和学术界全面开源，IT之家附项目 GitHub 地址（https://github.com/AGenUI/AGenUI）。据介绍，该框架基于谷歌 A2UI 协议，以 C++ 为核心，能够将 AI 大模型生成的界面意图直接转化为鸿蒙原生组件渲染，只需一套通用界面协议就能无缝适配鸿蒙手机、平板、车机、智慧屏、穿戴等多种终端设备。▲ AGenUI 组件效果高德表示，AGenUI 深度适配鸿蒙 1+8+",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/131.htm"
-    },
-    {
-      "id": "36103df8-2d23-8165-8ac8-c79202c31ac9",
-      "title": "I'm a professional meal planner. These simple one-pot meals cost less than $25 and feed my entire family.",
-      "summary": "As a professional meal planner and mom, I use easy one-pot soup, pasta, and stir-fry recipes to make tasty and customizable dinners for my family.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-15",
-      "link": "https://www.businessinsider.com/cheap-one-pot-dinner-recipes-from-professional-meal-planner-mom"
-    },
-    {
-      "id": "36103df8-2d23-81f9-922f-c0c182cc95f7",
-      "title": "蔚来乐道 L80 大五座 SUV 上市：24.28 万-27.98 万元，租电 15.68 万-19.38 万元",
-      "summary": "IT之家 5 月 15 日消息，蔚来旗下乐道汽车全新车型 L80 今晚正式上市，新车定位智能双舱大五座旗舰 SUV，售价为 24.28 万-27.98 万元，租电方案的售价区间为 15.68 万-19.38 万元。IT之家汇总新车主要信息如下：乐道 L80 共有 6 种车身颜色搭配：岩脊棕、辰辉银、静岳黑、雪峰白、凝夜紫，以及专属的全新颜色「层峰绿」。内饰方面，新车提供桂庭黄、云缦米、曜夜黑、月榕棕四种主题。新车长度 5145mm，轴距 3110mm，拥有 81.5% 的空间利用率。官方表示，乐道 L80 是中国市场装载空间最大的大 5 座 SUV，其 240 升超大智能电动前备舱是中国量产最",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/129.htm"
-    },
-    {
-      "id": "36103df8-2d23-8169-9a50-fdda540a71c8",
-      "title": "商务部：王文涛部长会见高通公司总裁兼首席执行官安蒙",
-      "summary": "IT之家 5 月 15 日消息，今日，商务部部长王文涛会见高通公司总裁兼首席执行官安蒙。双方就中美经贸关系、高通公司在华经营发展等议题进行了交流。",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/130.htm"
-    },
-    {
-      "id": "36103df8-2d23-810f-b57f-e5f32d57b73c",
-      "title": "2026 WSBK 捷克站：“张雪机车”位列超级杆位赛第三名，明日冲击第四冠",
-      "summary": "IT之家 5 月 15 日消息，在刚刚结束的 2026 世界超级摩托车锦标赛（WSBK）捷克站 WorldSSP 组别比赛中，中国摩托车制造商“张雪机车”的法国车手瓦伦丁 · 德比斯位列超级杆位赛第三名，明日将进行正赛角逐，冲击第四冠。IT之家注意到，张雪机车在 WSBK 葡萄牙两天豪取两连冠后，引发极大关注。4 月 3 日，中国首款 WSBK 冠军摩托车张雪 820RR 正式量产下线，陆续发货为车主交付。该车售价 4.38 万元起，最大马力可达 135PS，零百加速仅 2.81 秒。在 5 月 2 日结束的 WSBK 匈牙利站 WorldSSP 组别第一回合正赛中，瓦伦丁 · 德比斯在最后 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/128.htm"
-    },
-    {
-      "id": "36103df8-2d23-8110-a741-f87c3561837f",
-      "title": "X is fighting Andrew Tate’s attempt to unmask his critics",
-      "summary": "X is fighting for its users' right to anonymity against the far-right influencers and accused human traffickers Andrew and Tristan Tate, who are seeking to unmask their online critics. The Tate brothers filed suit against the owners of more than a dozen social media accounts - several of them run ps",
-      "source": "The Verge",
-      "publishTime": "2026-05-15",
-      "link": "https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation"
-    },
-    {
-      "id": "36103df8-2d23-81c7-985c-d1522bb94074",
-      "title": "特斯拉拟建 Cybercab 大型洗车站：提供清洁、充电、维护一条龙服务",
-      "summary": "IT之家 5 月 15 日消息，据外媒 Teslarati 今晚报道，特斯拉正在内华达州克拉克县靠近拉斯维加斯的地方，为 Cybercab 建设一座专用洗车设施。该设施面积约 3345 平方米，项目形态相当特殊，将服务于特斯拉未来 Robotaxi 车队。文件显示，特斯拉此前已悄悄提交 Cybercab 洗车设施建设计划。5 月 12 日，特斯拉又提交了许可申请，准备启动“特斯拉中心 Cybercab 第二阶段洗车设施”的改造工程。这座设施并不是普通洗车站，而是一个专门为特斯拉网约车打造的高科技维护中心。未来车队中大量 Cybercab 都有望在这里完成清洁和基础维护。X 上的超级充电站观察者",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/127.htm"
-    },
-    {
-      "id": "36103df8-2d23-81a8-a09a-ecce05931524",
-      "title": "《堡垒之夜》×《守望先锋》联动上线：D.Va、源氏等可玩角色加入游戏",
-      "summary": "IT之家 5 月 15 日消息，《堡垒之夜（Fortnite）》宣布正式上线《守望先锋》联动内容，在游戏第七章第二赛季第三幕更新中，D.Va、源氏、天使和猎空作为可玩角色加入游戏，同时带来专属的联动地图地标、英雄武器及里程碑奖励。除了角色皮肤，联动还同步引入了《守望先锋》的经典地图地标，包括花村（Hanamura）、国王大道（King's Row）以及釜山鼓乐厅（Busan Drum Pavilion）等，允许玩家在游戏中自由探索场景。 守望先锋的英雄们已加入大逃杀、零建造、火力全开和 Blitz，接受召唤，增援对抗寒霜领主。釜山寺院、花村庭院、国王大道塔以及灵感来自直布罗陀监测站的基地现已登",
-      "source": "IT之家",
-      "publishTime": "2026-05-15",
-      "link": "https://www.ithome.com/0/951/126.htm"
-    },
-    {
-      "id": "36103df8-2d23-8147-9624-d9f9b7f97020",
-      "title": "Starbucks says its turnaround is gaining momentum and cuts 300 more jobs",
-      "summary": "Starbucks cuts 300 US corporate roles under CEO Brian Niccol's turnaround plan, aiming for efficiency and growth amid restructuring efforts.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-15",
-      "link": "https://www.businessinsider.com/starbucks-announces-third-round-corporate-layoffs-restructuring-2026-5"
     }
   ],
   "macroEvents": [
