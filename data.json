@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-05-17 07:25",
+  "updatedAt": "2026-05-17 08:13",
   "news": [
+    {
+      "id": "36203df8-2d23-81dc-ad8e-f3b93df864ac",
+      "title": "微软宣布 Win11 驱动新规：不再只看崩溃情况，功耗过高也将被判定为“不合格”",
+      "summary": "IT之家 5 月 17 日消息，在刚刚结束的 Windows 硬件工程大会（WinHEC 2026）上，微软正式宣布了一项针对第三方驱动程序质量评估的根本性转变，IT之家此前已经为大家带来过初步报道。通过全新的“驱动质量倡议”（Driver Quality Initiative，DQI），这家科技巨头确认将扩展其衡量指标 —— 驱动程序不再只考虑 BSOD 蓝屏 / 黑屏几率，还将因其破坏日常用户体验而受到追责。过去几十年里，微软几乎完全依赖 Windows 错误报告遥测数据和崩溃转储文件来评估 OEM 厂商是否交付了合格产品。其判断标准主要是：该驱动是否导致系统崩溃、卡死或蓝屏死机。如果一个",
+      "source": "IT之家",
+      "publishTime": "2026-05-17",
+      "link": "https://www.ithome.com/0/951/411.htm"
+    },
+    {
+      "id": "36203df8-2d23-81b7-a90d-dc2efaa574f8",
+      "title": "卡片机复兴？佳能正积极重启、扩展 PowerShot 系列相机产品线",
+      "summary": "IT之家 5 月 17 日消息，佳能在《2026 年综合报告》中指出，公司正积极重启并扩展 PowerShot 系列阵容，以回应市场需求的重新增长和年轻用户的强劲需求。佳能在报告中表示，因智能手机兴起导致相机市场长期萎缩的趋势已经放缓。关注视频创作、社交媒体摄影的年轻人，正成为相机市场增长的主要驱动力。其中，数码卡片相机市场的盘子正在重新扩大，因为这类产品能提供智能手机难以比拟的情绪价值、影像能力。如今，卡片机不再是为拍照而买的“生活必需品”，而是跃升成为创作工具、时尚文化符号。佳能指出，为满足年轻用户的强劲需求，公司特意在 2025 年推出了加强视频拍摄能力的 PowerShot V1。并且",
+      "source": "IT之家",
+      "publishTime": "2026-05-17",
+      "link": "https://www.ithome.com/0/951/410.htm"
+    },
+    {
+      "id": "36203df8-2d23-8163-a4c0-fdd61173a32f",
+      "title": "IT早报 0517：小米卢伟冰称下半年国产直板旗舰手机价或突破 1 万元；SK 海力士员工成相亲“香饽饽”；三大运营商回应“即将免月租”；张雪机车收获赛季第四冠...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 17 日星期日，今天的重要科技资讯有：1、小米卢伟冰：今年下半年可能一些国产旗舰直板手机价格突破 1 万元卢伟冰在直播中透露，受全球内存成本持续上涨影响，今年下半年部分国产旗舰直板手机价格可能突破 1 万元。他认为这一涨价趋势至少会延续到 2027 年底。面对成本压力，小米仍将坚持提供同档位最物超所值的产品。全新小米 17 Max 已官宣本月发布。>> 查看详情2、SK 海力士员工成相亲“香饽饽”，公司夹克成“相亲终极穿搭”科技媒体 Wccftech 5 月 15 日发布博文，报道称 SK 海力士披露 2026 年第 1 季度业绩后，因高",
+      "source": "IT之家",
+      "publishTime": "2026-05-17",
+      "link": "https://www.ithome.com/0/951/409.htm"
+    },
+    {
+      "id": "36203df8-2d23-81db-b4ff-d0dc8d0b48ca",
+      "title": "中国汽车零部件已渗透美国市场，底特律三巨头重度依赖",
+      "summary": "IT之家 5 月 17 日消息，美国政界和汽车行业多年来一直担忧中国低价电动汽车冲击本土市场，但一个尴尬的现实情况是 —— 底特律三大汽车制造商早已深度依赖中国生产的零部件。据《华尔街日报》报道，艾睿铂咨询公司数据显示，目前美国境内有超过 60 家汽车供应商由中国企业全资或控股持有，中国公司还在全美约 1 万家供应商中掌握了大约 5% 的股权。据 CNBC 报道，福特最新款 Mustang GT 使用了中国的六速手动变速箱、丰田普锐斯插混版约有 15% 的零件来自中国、雪佛兰 Blazer 和 Equinox 电动 SUV 使用了约 20% 的中国零件。艾睿铂合伙人 Juergen Simon",
+      "source": "IT之家",
+      "publishTime": "2026-05-17",
+      "link": "https://www.ithome.com/0/951/408.htm"
+    },
+    {
+      "id": "36203df8-2d23-817a-8c23-c18957a0e478",
+      "title": "特斯拉解封 17 份 Robotaxi 碰撞报告：首次披露事故细节，多数被追尾、两次远程操作失误",
+      "summary": "IT之家 5 月 17 日消息，据 Electrek 昨日报道，特斯拉已向美国国家公路交通安全管理局（NHTSA）补交并解除了全部 17 份自动驾驶系统碰撞报告的涂黑内容，首次向公众披露每起事故的真实经过。此前，特斯拉是所有自动驾驶系统运营商中唯一一家将每份碰撞报告均完整涂黑并标为“可能包含机密商业信息”的企业。最新公布的 NHTSA 文件显示，这些碰撞事故发生在 2025 年 7 月至 2026 年 3 月期间，当时该公司正在奥斯汀进行“Robotaxi”测试。所有事故均涉及 2026 款 Model Y，FSD 处于开启状态，且车上配有安全员。从伤害情况来看：13 起事故仅造成财产损失，2",
+      "source": "IT之家",
+      "publishTime": "2026-05-17",
+      "link": "https://www.ithome.com/0/951/407.htm"
+    },
+    {
+      "id": "36203df8-2d23-8158-865a-f8c3f251bc09",
+      "title": "爆料人士称《GTA6》7 月才会有实质性新消息，近期不会开放预购",
+      "summary": "IT之家 5 月 17 日消息，近期，一封泄露邮件暗示，《GTA6》游戏实体盘将在 5 月 18 日开启预购，引发玩家沸腾。不过爆料人士、Insider Gaming 主编 Tom Henderson 却在昨天给我们泼了一盆冷水，声称从未听说 R 星会在 5 月 18 日公布重大信息。Tom Henderson 认为，R 星有可能会等到 7 月或者更晚才会正式启动《GTA6》营销活动，或发布第三支预告片。他对此解释道：“真正有实质内容的消息，恐怕得等到 7 月、8 月”。他表示，这封百思买（IT之家注：Best Buy）泄露邮件本身不假，但很可能只是提前误发，玩家可能得等到夏季晚些时候才能正式",
+      "source": "IT之家",
+      "publishTime": "2026-05-17",
+      "link": "https://www.ithome.com/0/951/406.htm"
+    },
+    {
+      "id": "36203df8-2d23-8120-a6c0-e646bd37977e",
+      "title": "英特尔 Panther Lake R 处理器曝光：保留 P 核 + LPE 核，舍弃标准 E 核",
+      "summary": "IT之家 5 月 17 日消息，Phoronix 昨日发现，英特尔在最新提交的 Linux 内核补丁中提到了一款名为“Panther Lake R”的处理器新品。英特尔补丁描述将其定义为“Panther Lake 的衍生产品，仅配备 P 核与 LP E 核（类似现有的酷睿 Ultra 5 325），专为恶劣环境使用而设计”。与英特尔常见的“R”型 CPU 不同，这里的“R”并非“Refresh”而是“Ruggedized”（加固版），该系列将面向工业、嵌入式等严苛使用环境。另外，Panther Lake R 采用了全新的 ID 223 型号，而此前所有标准版 Panther Lake 使用的均",
+      "source": "IT之家",
+      "publishTime": "2026-05-17",
+      "link": "https://www.ithome.com/0/951/405.htm"
+    },
+    {
+      "id": "36203df8-2d23-8104-a5e1-e8e73aa2302d",
+      "title": "Mistral AI's CEO says Europe has 2 years to stop becoming America's AI 'vassal state'",
+      "summary": "Mistral's CEO Arthur Mensch said AI dominance will depend on who controls chips, energy, and computing infrastructure.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-17",
+      "link": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5"
+    },
     {
       "id": "36203df8-2d23-81ad-b480-dc24edc87592",
       "title": "S&P 500 manages to extend weekly win streak despite anticlimactic Trump-Xi summit",
@@ -336,70 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-05-16",
       "link": "https://www.ithome.com/0/951/379.htm"
-    },
-    {
-      "id": "36203df8-2d23-8170-89a3-c4d60db345b3",
-      "title": "A state banquet, selfies with Musk and Huang's noodle run: The spectacle of Trump's Beijing visit",
-      "summary": "The visit was full of friendly overtures, orchestrated pageantry, business dealmaking, and headline-grabbing sideshows.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-16",
-      "link": "https://www.cnbc.com/2026/05/16/a-state-banquet-selfies-and-a-noodle-run-trumps-beijing-visit.html"
-    },
-    {
-      "id": "36203df8-2d23-8179-8c0b-daf1fc21cc0f",
-      "title": "My 29-year-old son had a stomach ache that wouldn't go away. He was diagnosed with stage 4 colon cancer and died 8 months later.",
-      "summary": "Kathy Lemoine's 30-year-old son, Andrew Reaster, died after he was diagnosed with stage 4 colon cancer. His main symptom was a stomach ache.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-16",
-      "link": "https://www.businessinsider.com/my-30-year-old-son-died-from-colon-cancer-2026-5"
-    },
-    {
-      "id": "36203df8-2d23-8183-aa72-ebb5cdcc565e",
-      "title": "三大运营商回应“即将免月租”：联通推按量计费，移动电信暂无计划",
-      "summary": "IT之家 5 月 16 日消息，据中国之声今日报道，近日，社交媒体上热传“三大运营商即将全面推出免月租、按量计费套餐”，不少用户发出疑问：传统月租套餐要终结了吗？记者梳理市场现状发现，目前只有中国联通上线了零月租、设最低消费门槛的“魔方”按量套餐，中国移动和中国电信暂未推出同类产品。中国移动和中国电信的客服人员均表示，公司曾推出过零月租模式，但目前没有相关计划。随后记者向中国移动、中国电信两家企业求证，相关负责人也表示，没有此类零月租计划。IT之家注意到，中国联通的确在 4 月 28 日举办“联通魔方”产品发布会，它创新采用“按量计费”的资费模式，基础通信的语音、流量、短彩信均按量计费，每月用",
-      "source": "IT之家",
-      "publishTime": "2026-05-16",
-      "link": "https://www.ithome.com/0/951/378.htm"
-    },
-    {
-      "id": "36203df8-2d23-8138-9dd8-da0fe9dc77df",
-      "title": "劳资纠纷持续，三星电子会长李在镕就公司“内部问题”公开道歉",
-      "summary": "IT之家 5 月 16 日消息，据 CCTV 国际时讯消息，三星电子会长李在镕今日就公司“内部问题”公开道歉。关于公司内部问题，给全球客户带来的焦虑和担忧，我深表歉意。工会成员和三星大家庭的成员们，我们同属一个整体，一个大家庭，现在正是我们团结一致，朝同一个方向前进的时候。目前，三星电子与公司工会之间劳资纠纷持续，工会计划于 5 月 21 日启动的 18 天罢工计划已有超过 4 万名员工登记。李在镕呼吁工会与公司团结一致，朝同一个方向前进。李在镕强调：“凛冽的风雨由我来挡，我会把这一切都归咎于我的过错”，“让我们为了能让大家以身为三星人而自豪，一起竭尽全力吧”。最后他补充道：“最后，向为解决我",
-      "source": "IT之家",
-      "publishTime": "2026-05-16",
-      "link": "https://www.ithome.com/0/951/377.htm"
-    },
-    {
-      "id": "36203df8-2d23-816b-855f-dcd5ca1cc857",
-      "title": "I couldn't land a job in New York City after college, so I'm a barista. I often debate whether I should give up and move home.",
-      "summary": "My dream is to live in New York City and work as a journalist, but there are no entry-level jobs, so I'm forced to be a barista. But I won't give up.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-16",
-      "link": "https://www.businessinsider.com/after-college-failed-nyc-job-became-barista-2026-5"
-    },
-    {
-      "id": "36203df8-2d23-815f-83a7-c1ec62fc9107",
-      "title": "张雪机车收获赛季第四冠，2026 WSBK 捷克站再登顶",
-      "summary": "IT之家 5 月 16 日消息，在刚刚结束的 2026 WSBK 捷克站 SSP 组首回合正赛中，张雪机车 53 号车手德比斯成功夺冠，这也是张雪机车这个赛季的第四个冠军。2026 WSBK 捷克站 SSP 组次回合正赛将于明晚 8 点举行，张雪机车将杆位发车，冲击赛季第五冠，优酷体育等平台将继续直播。IT之家注意到，张雪机车在 WSBK 葡萄牙两天豪取两连冠后，引发极大关注。4 月 3 日，中国首款 WSBK 冠军摩托车张雪 820RR 正式量产下线，陆续发货为车主交付。该车售价 4.38 万元起，最大马力可达 135PS，零百加速仅 2.81 秒。在 5 月 2 日结束的 WSBK 匈牙利",
-      "source": "IT之家",
-      "publishTime": "2026-05-16",
-      "link": "https://www.ithome.com/0/951/375.htm"
-    },
-    {
-      "id": "36203df8-2d23-8180-8832-f20fb6ee814b",
-      "title": "消息称拼多多推进“新拼姆”计划：目前不会在国内销售，选定服装、家居、户外类目",
-      "summary": "IT之家 5 月 16 日消息，今年 3 月，拼多多集团正式宣布组建“新拼姆”，开启品牌自营，提出“力争三年再造一个拼多多”。据晚点 LastPost 消息，拼多多“新拼姆”已选定了服装、家居、户外三个类目，正与羽绒服、冲锋衣、衬衫、西裤等细分类目厂商谈判，预计今年三季度上架销售。接近拼多多的人士透露，目前是 1.0 阶段，预计需要 1-2 年完善，才会逐渐扩展品类。这些产品目前不会在国内销售，主要面向美国和欧洲市场。报道称过去拼多多和 Temu 对商家的要求是有货、愿意卖低价就行。新拼姆要做更贵、品质更好的商品，为此愿意承担更多环节的风险，给商家更高的确定性：平台直接定制产品、买断库存、负责",
-      "source": "IT之家",
-      "publishTime": "2026-05-16",
-      "link": "https://www.ithome.com/0/951/374.htm"
-    },
-    {
-      "id": "36203df8-2d23-8173-8eba-d5591fef24ac",
-      "title": "How to Control Everything on Your Phone With Your Voice (iOS and Android)",
-      "summary": "Go fully hands-free with these tips for Android and iOS.",
-      "source": "Wired",
-      "publishTime": "2026-05-16",
-      "link": "https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android/"
     }
   ],
   "macroEvents": [
