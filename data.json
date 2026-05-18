@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-05-19 04:11",
+  "updatedAt": "2026-05-19 05:45",
   "news": [
+    {
+      "id": "36403df8-2d23-81dd-9876-c3a57487f354",
+      "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+      "summary": "Musk's loss against OpenAI is the latest in a string of courtroom defeats.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-19",
+      "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "36403df8-2d23-81cb-b136-e22c07ecefe9",
+      "title": "Volvo teases a new affordable EV to replace discontinued EX30",
+      "summary": "Volvo's compact, quirky EX30 had a lot of problems when it was first released. Tariffs essentially erased its affordability, making it more expensive to own, and a battery recall made it dangerous to park indoors. But its discontinuation didn't spell the end of Volvo's efforts to sell more affordabl",
+      "source": "The Verge",
+      "publishTime": "2026-05-19",
+      "link": "https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60"
+    },
+    {
+      "id": "36403df8-2d23-814b-b318-e27a3c31ec06",
+      "title": "Sam Altman beat Elon Musk in court. Now OpenAI's rivalry with Anthropic takes center stage.",
+      "summary": "OpenAI and CEO Sam Altman won their lawsuit against Elon Musk, paving the way for a massive IPO and fueling competition with Anthropic.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-19",
+      "link": "https://www.businessinsider.com/openai-legal-battle-musk-ipo-anthropic-2026-5"
+    },
+    {
+      "id": "36403df8-2d23-8184-bd6b-d1e2371a85aa",
+      "title": "A VC's viral tweet has people debating if $500K in San Francisco means you're destined for the 'permanent underclass'",
+      "summary": "AI is rapidly building wealth in San Francisco. Some techies think that a \"permanent underclass\" is coming, while others call such fears overblown.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-19",
+      "link": "https://www.businessinsider.com/ai-permanent-underclass-500k-san-francisco-debate-2026-5"
+    },
+    {
+      "id": "36403df8-2d23-813b-ab6f-da763bc2572d",
+      "title": "Chamath Palihapitiya warns PwC and Accenture against working with OpenAI and Anthropic: 'You are letting the fox into the henhouse'",
+      "summary": "\"You are letting the fox into the hen house,\" Chamath Palihapitiya wrote on X, calling out the leading consulting firms.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-19",
+      "link": "https://www.businessinsider.com/chamath-palihapitiya-pwc-accenture-openai-anthropic-warning-2026-5"
+    },
+    {
+      "id": "36403df8-2d23-81fd-86f5-e978ba380e8d",
+      "title": "PlayStation exclusives aren&#8217;t coming to PC anymore",
+      "summary": "Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed employees in a town hall on Monday about the change in strategy. Schreier had previously reported on the",
+      "source": "The Verge",
+      "publishTime": "2026-05-19",
+      "link": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc"
+    },
+    {
+      "id": "36403df8-2d23-8158-8dc1-fcdce924cfe0",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-19",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+    },
     {
       "id": "36403df8-2d23-8115-bce2-d3dd88b152d7",
       "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
@@ -344,62 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-05-18",
       "link": "https://www.ithome.com/0/952/033.htm"
-    },
-    {
-      "id": "36403df8-2d23-8125-8797-fae03e3b8d63",
-      "title": "I skip the Hamptons and head to a coastal town in Connecticut instead. It's less crowded and wonderful year-round.",
-      "summary": "Madison, Connecticut, is easy to get to from New York City and has nice beaches and as many things to do as the Hamptons, just with fewer crowds.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-18",
-      "link": "https://www.businessinsider.com/madison-connecticut-things-to-do-great-beach-town-hamptsons-dupe-2026-5"
-    },
-    {
-      "id": "36403df8-2d23-810d-b456-da191779a92f",
-      "title": "It's reckoning week for Meta employees in layoff limbo",
-      "summary": "Meta employees first learned that mass layoffs were coming in an internal memo shared in April, leaving them in a state of limbo for weeks.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-18",
-      "link": "https://www.businessinsider.com/meta-layoffs-may-limbo-reckoning-ai-jobs-2026-5"
-    },
-    {
-      "id": "36403df8-2d23-816d-abba-fcd341c4ddfe",
-      "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
-      "summary": "Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people finding the same things with the same tools,\" as The Register rep",
-      "source": "The Verge",
-      "publishTime": "2026-05-18",
-      "link": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs"
-    },
-    {
-      "id": "36403df8-2d23-8176-9dcf-eab48b27b0e6",
-      "title": "Win11 系统 C 盘多出神秘安全启动文件夹，微软称无需删除",
-      "summary": "IT之家 5 月 18 日消息，微软向 Windows Latest 网站表示，Windows 11 2026 年 5 月更新（KB5089549）生成的全新安全启动（SecureBoot）文件夹，是安全启动证书更新过程中的正常现象，并非已知问题。如果你在 C 盘 Windows 目录下看到了该文件夹，无需将其删除，不过，它为什么会被创建呢？2026 年 6 月，2011 年及更早签发的安全启动证书将正式自动过期，这意味着老旧证书亟需尽快完成替换。据IT之家了解，安全启动证书是保障安全启动功能正常运行的必要文件，而安全启动是 Windows 11 系统强制要求的统一可扩展固件接口（UEFI）固",
-      "source": "IT之家",
-      "publishTime": "2026-05-18",
-      "link": "https://www.ithome.com/0/952/032.htm"
-    },
-    {
-      "id": "36403df8-2d23-8165-a3e7-ed2f6033af99",
-      "title": "夸克网盘终发车： SVIP 低至 7.9 元 / 月、95 元 / 年，支持每月 100 次离线下载",
-      "summary": "夸克 SVIP 年卡官方定价 300 元，日常大促价 158 元 / 年、25 元 / 月。今日年货节大促双年卡 + 月卡仅需 198.8 元（共 25 个月），低至 7.9 元 / 月、95 元 / 年。先领宝贝详情页 10 元平台补贴券领券后 → 点击详情页【淘金币大额抵】横幅购买（2 年卡无需抵扣，直接买即可）宝贝页面显示原价，付款页面显示立减价哦：天猫夸克网盘 SVIP 超级会员年卡加赠 14 天 8.3 元 / 月淘金币抵扣后 103.8 元直达链接天猫夸克网盘 SVIP 超级会员 2 年卡加赠 30 天 7.9 元 / 月折后 198.8 元直达链接会员权益天猫夸克网盘 SVIP ",
-      "source": "IT之家",
-      "publishTime": "2026-05-18",
-      "link": "https://www.ithome.com/0/952/031.htm"
-    },
-    {
-      "id": "36403df8-2d23-81d2-83ab-ce50c11e0516",
-      "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
-      "summary": "Today, I’m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed — although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to sell 52 percent of BuzzFeed for a total of $120 million to Byron Allen, who owns The Weather Channel, a number of broadcast [",
-      "source": "The Verge",
-      "publishTime": "2026-05-18",
-      "link": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media"
-    },
-    {
-      "id": "36403df8-2d23-8182-a864-f9d50a0da0c1",
-      "title": "TOPPING 拓品推出 DX1 II 游戏 HiFi 解码耳放一体机：四通道全平衡架构、ES9039Q2M 解码芯片，769 元",
-      "summary": "IT之家 5 月 18 日消息，TOPPING 拓品宣布推出一款 DX1 II 游戏 HiFi 解码耳放一体机，其采用四通道全平衡架构，支持左右声道独立放大，将于明天正式上市，定价为 769 元。京东 TOPPING 拓品 DX1 II 游戏 HiFi 解码耳放一体机 769 元直达链接该机采用 ES9039Q2M 解码芯片，提供 4.4mm 平衡与 3.5mm 单端耳机输出，同时独立配置了 OPT 输入合输出接口，最高支持 PCM 24bit/192kHz 与 DSD64（DoP）格式，可接入电脑、CD 机、电视及游戏主机等前端设备，实现统一音频处理及 PEQ 调节。同时，为适配 Switc",
-      "source": "IT之家",
-      "publishTime": "2026-05-18",
-      "link": "https://www.ithome.com/0/952/030.htm"
     }
   ],
   "macroEvents": [
