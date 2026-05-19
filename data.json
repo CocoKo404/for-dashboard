@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-05-20 05:53",
+  "updatedAt": "2026-05-20 07:39",
   "news": [
+    {
+      "id": "36503df8-2d23-8117-a56b-c775c5e438d0",
+      "title": "OpenAI announces new Guaranteed Capacity offering for customers to secure compute",
+      "summary": "Altman said OpenAI will make sure it leaves enough capacity available for its products like ChatGPT and its coding assistant Codex.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-20",
+      "link": "https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html"
+    },
+    {
+      "id": "36503df8-2d23-81a3-8f40-ffbd3e93bb29",
+      "title": "We react to Google I/O 2026",
+      "summary": "What better way to unwind from a two-hour-long keynote presentation than to pour over the weirdest and wildest details, from a Gmail bot you can converse with to DeepMind's leader saying the singularity is near. The Vergecast went live right after the show, with Senior AI Reporter Hayden Field joini",
+      "source": "The Verge",
+      "publishTime": "2026-05-20",
+      "link": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026"
+    },
+    {
+      "id": "36503df8-2d23-8100-b35c-e06715d84055",
+      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-20",
+      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/"
+    },
+    {
+      "id": "36503df8-2d23-8154-a8fd-c73cfb60d415",
+      "title": "2 TSA experiments show a new direction after chaos during the government shutdowns",
+      "summary": "The TSA is experimenting with new ways to make airport security less of a headache, and it's leaning more on private companies to do it.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-20",
+      "link": "https://www.businessinsider.com/2-tsa-experiments-hint-trumps-move-to-privatization-airport-security-2026-5"
+    },
+    {
+      "id": "36503df8-2d23-81f4-8cdc-ef22c93ad790",
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-20",
+      "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/"
+    },
+    {
+      "id": "36503df8-2d23-81f1-9a21-dbb2c012651f",
+      "title": "The future of Google is a search box that does everything",
+      "summary": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box. Take the trusty Goog",
+      "source": "The Verge",
+      "publishTime": "2026-05-20",
+      "link": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026"
+    },
+    {
+      "id": "36503df8-2d23-812b-be67-d8a691c5cc59",
+      "title": "How to use Google’s new AI agents to go beyond your standard searches",
+      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-20",
+      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/"
+    },
+    {
+      "id": "36503df8-2d23-814b-bf4d-ed90b0ddc8ef",
+      "title": "Discord enables end-to-end encrypted voice and video calling for every user",
+      "summary": "Good news! Discord's hundreds of millions of users now have their communications scrambled, so not even Discord can see them.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-20",
+      "link": "https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/"
+    },
+    {
+      "id": "36503df8-2d23-817d-9501-ce356ef5c30d",
+      "title": "Mach Industries just spent $50M to solve a major defense tech problem",
+      "summary": "Mach says the acquisition meaningfully improves unit economics across its five vehicle programs at exactly the moment the company is starting to scale.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-20",
+      "link": "https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/"
+    },
+    {
+      "id": "36503df8-2d23-818e-b6eb-f5710bb7084f",
+      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+      "summary": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-20",
+      "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/"
+    },
+    {
+      "id": "36503df8-2d23-81fd-9bc7-cf1c32cf2c4c",
+      "title": "Google’s AI future demands trust — and your personal data",
+      "summary": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundo",
+      "source": "The Verge",
+      "publishTime": "2026-05-20",
+      "link": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data"
+    },
+    {
+      "id": "36503df8-2d23-8181-902d-e4f1c8dfacdd",
+      "title": "Nintendo’s $500 Switch 2 bundle includes a game, and it&#8217;s available now",
+      "summary": "Nintendo recently teased the “Choose Your Game” Switch 2 console and digital game bundle, coming in early June. However, multiple retailers (including Nintendo itself) are already offering the $499.99 bundle. The list currently includes GameStop, Amazon, Best Buy, and the Nintendo Store. It’s a deal",
+      "source": "The Verge",
+      "publishTime": "2026-05-20",
+      "link": "https://www.theverge.com/gadgets/933792/nintendo-switch-2-choose-your-game-console-bundle-deal"
+    },
+    {
+      "id": "36503df8-2d23-81e6-b527-fb7891bb69b5",
+      "title": "Google to release first smart glasses since Google Glass flop",
+      "summary": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-20",
+      "link": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "36503df8-2d23-819e-bd78-ed98b5048b8d",
+      "title": "Trump's IRS settlement bars the agency from pursuing unpaid tax claims it may have against him, his family, or businesses",
+      "summary": "The DOJ's settlement of Trump's lawsuit related to his leaked tax returns includes a sweeping pledge.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-20",
+      "link": "https://www.businessinsider.com/doj-expands-trump-settlement-to-cover-his-tax-audits-2026-5"
+    },
+    {
+      "id": "36503df8-2d23-81d6-ae36-d1743d84c37c",
+      "title": "Trump's plan to limit student loans for borrowers — including nurses — is illegal, 25 states say in a fresh lawsuit",
+      "summary": "A group of 25 states sued the Department of Education, saying that the student-loan borrowing caps would exacerbate the healthcare shortage.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-20",
+      "link": "https://www.businessinsider.com/trump-student-loan-debt-repayment-overhaul-states-lawsuit-borrowing-caps-2026-5"
+    },
+    {
+      "id": "36503df8-2d23-8147-9fdb-ea58c8d7772c",
+      "title": "Here are our favorite Memorial Day deals (so far)",
+      "summary": "Memorial Day marks the unofficial start of summer, and the holiday’s sales include plenty of deals on gadgets that can help you make the most of the season. If your plans involve beach days, pool parties, or backyard barbecues, now’s a great time to pick up a portable Bluetooth speaker, as many of o",
+      "source": "The Verge",
+      "publishTime": "2026-05-20",
+      "link": "https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026"
+    },
     {
       "id": "36503df8-2d23-81ff-9c48-e79b8e37c250",
       "title": "Democrats preview how they’d go after the Ticketmaster settlement if they regain power",
@@ -272,134 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-05-20",
       "link": "https://www.businessinsider.com/trump-student-loan-debt-overhaul-bipartisan-bill-nurses-borrowing-caps-2026-5"
-    },
-    {
-      "id": "36503df8-2d23-8194-a733-e81a8ca00496",
-      "title": "谷歌搜索迎 25 年来最大改版，AI 重塑搜索体验与交互方式",
-      "summary": "IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）宣布谷歌搜索（Google Search）业务迎来 25 年最大改版，核心是用 AI 全面重塑搜索入口与交互方式。IT之家援引博文介绍，本次改版的核心在于融合 AI 体验，让用户从“输关键词”转向“描述完整需求”，并由最新发布的 Gemini 3.5 Flash 模型提供快速响应支撑。在体验方面，谷歌称 AI Mode 推出 1 年后，月活用户已突破 10 亿，查询量每个季度翻倍，并在上个季度创下新高。新版默认引擎强化了编码、推理和智能体能力，把更强的 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-20",
-      "link": "https://www.ithome.com/0/952/526.htm"
-    },
-    {
-      "id": "36503df8-2d23-81fb-9ebf-c7b3c55d87fd",
-      "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
-      "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks t",
-      "source": "The Verge",
-      "publishTime": "2026-05-20",
-      "link": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking"
-    },
-    {
-      "id": "36503df8-2d23-81ba-bb30-e18ac0c7757f",
-      "title": "Google's latest AI flex came with Silicon Valley's new favorite word",
-      "summary": "Sundar Pichai joked about \"tokenmaxxing\" as Google revealed explosive growth in AI usage.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-20",
-      "link": "https://www.businessinsider.com/googles-ceo-jokes-about-tokenmaxxing-use-of-its-ai-surges-2026-5"
-    },
-    {
-      "id": "36503df8-2d23-816e-b285-e5067d7b998b",
-      "title": "The 13 biggest announcements at Google I/O 2026",
-      "summary": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses. If you weren't able to tune into the event's livestream today or follow along with our ",
-      "source": "The Verge",
-      "publishTime": "2026-05-20",
-      "link": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini"
-    },
-    {
-      "id": "36503df8-2d23-81a7-ac8e-cb0eea47a3f5",
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-20",
-      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/"
-    },
-    {
-      "id": "36503df8-2d23-811b-a2de-e4975a5d7769",
-      "title": "Google’s Genie world model can now simulate real streets with Street View",
-      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-20",
-      "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/"
-    },
-    {
-      "id": "36503df8-2d23-81d9-84fe-fe51dba9df13",
-      "title": "谷歌 Gemini Spark 个人智能体发布：一句话让 AI 干几份活，不用担心乱搞数据",
-      "summary": "IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌发布了 Gemini Spark 个人 AI 智能体。Gemini Spark 一切听用户指挥，24 小时实时在线，运行在专有的虚拟环境中，用户可以放心地合上电脑屏幕而不用担心 AI 搞乱数据。Gemini Spark 由 Gemini 3.5 系列模型以及 Google Antigravity 框架驱动，而且支持与工具无缝集成。在接下来的几周内，Gemini Spark 将通过 MCP 模型上下文协议和第三方工具联合使用。IT之家从大会获悉，谷歌官方展示了 Gemini Spark 的具体使用场景，比如整理邮",
-      "source": "IT之家",
-      "publishTime": "2026-05-20",
-      "link": "https://www.ithome.com/0/952/525.htm"
-    },
-    {
-      "id": "36503df8-2d23-81a2-81c5-e2c91feda94b",
-      "title": "How to use Google’s new information agents",
-      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-20",
-      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/"
-    },
-    {
-      "id": "36503df8-2d23-81c9-b12d-c7614156e78b",
-      "title": "谷歌发布安卓 Halo，在手机顶栏实时显示 AI 智能体状态",
-      "summary": "IT之家 5 月 20 日消息，在今日的 2026 谷歌 I/O 开发者大会上，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）预告全新功能 Android Halo，目标是提升手机端 AI 助手的透明度。这项功能在 Google I／O 期间亮相，会在屏幕顶部加入一个较为低调的状态提示，向用户展示 AI 智能体是否正在设备上实时运行。按照谷歌的介绍，当 AI 智能体正在完成任务、进入实时模式，或向用户发送消息时，Android Halo 都会显示对应状态。无论用户当前停留在哪个应用，这个提示都会一直保留在顶部区域，让任务进度始终可见，减少信息不透明带来的不安感。IT之家注：这项",
-      "source": "IT之家",
-      "publishTime": "2026-05-20",
-      "link": "https://www.ithome.com/0/952/524.htm"
-    },
-    {
-      "id": "36503df8-2d23-817c-a13e-f110f15eef0f",
-      "title": "Google wants to compete with Anthropic’s Mythos",
-      "summary": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October. The difference is that Google is now making the tool more widely available externally -",
-      "source": "The Verge",
-      "publishTime": "2026-05-20",
-      "link": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos"
-    },
-    {
-      "id": "36503df8-2d23-8153-ae17-f119b07f98e5",
-      "title": "Google Search is getting its biggest-ever AI makeover",
-      "summary": "Google is bringing its various AI products closer together and updating its iconic Search box for the AI era.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-20",
-      "link": "https://www.businessinsider.com/google-intelligent-search-box-ai-mode-features-information-agents-io-2026-5"
-    },
-    {
-      "id": "36503df8-2d23-8149-b0c1-ee882246f3e1",
-      "title": "Google Search as you know it is over",
-      "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-20",
-      "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/"
-    },
-    {
-      "id": "36503df8-2d23-81d1-ac99-f7f6fc14fe6d",
-      "title": "Google’s Response to OpenClaw’s 24/7 AI Agent",
-      "summary": "Google’s always-running, data-hungry AI agent is designed to spend your money and send your emails.",
-      "source": "Wired",
-      "publishTime": "2026-05-20",
-      "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/"
-    },
-    {
-      "id": "36503df8-2d23-817e-bcf4-d8588bab05fa",
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
-      "source": "Wired",
-      "publishTime": "2026-05-20",
-      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/"
-    },
-    {
-      "id": "36503df8-2d23-8141-81de-d52f294792a1",
-      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
-      "source": "Wired",
-      "publishTime": "2026-05-20",
-      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/"
-    },
-    {
-      "id": "36503df8-2d23-81ad-92ce-d5fad29e44b8",
-      "title": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
-      "summary": "Here's your first look at smart glasses coming from Warby Parker and Gentle Monster, powered by Google and Samsung's XR platform.",
-      "source": "Wired",
-      "publishTime": "2026-05-20",
-      "link": "https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses/"
     }
   ],
   "macroEvents": [
