@@ -1,6 +1,318 @@
 {
-  "updatedAt": "2026-05-22 09:28",
+  "updatedAt": "2026-05-22 13:42",
   "news": [
+    {
+      "id": "36803df8-2d23-81cd-a8b0-e8b52a7eb170",
+      "title": "外媒称微软 5 月更新已改善 Win11 任务栏卡死、登录后卡顿等问题",
+      "summary": "IT之家 5 月 22 日消息，科技媒体 Windows Latest 今天（5 月 22 日）发布博文，报道称微软 5 月 12 日发布的 KB5089549 累积更新，已修复了 Windows 11 系统中 explorer.exe 进程不稳定情况。Windows 11 Build 26200.8457 系统版本页IT之家注：explorer.exe 进程是 Windows 负责桌面、任务栏、开始菜单和文件窗口的核心系统进程。Windows 11 任务栏与任务视图界面该媒体指出在此前 Windows 11 系统版本中，存在 explorer.exe 进程不稳定情况，导致登录后任务栏卡死、桌",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/726.htm"
+    },
+    {
+      "id": "36803df8-2d23-81f1-b331-caaa2ce9066c",
+      "title": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO",
+      "summary": "IT之家 5 月 22 日消息，据彭博社昨天报道，Manus 创始人肖弘、季逸超、张涛正考虑从外部投资者处融资约 10 亿美元（IT之家注：现汇率约合 68.11 亿元人民币）回购公司。知情人士透露，三名创始人正讨论新一轮融资，目标估值至少要接近 Meta 收购 Manus 时的 20 亿美元（现汇率约合 136.22 亿元人民币）。若资金仍存在缺口，创始团队可能还会自掏腰包补足差额。同时，该回购计划可能让 Manus 转型为一家合资企业，公司最终有可能奔赴港股市场 IPO（首次公开募股）。据IT之家上月报道，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购 Manus 项目",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/725.htm"
+    },
+    {
+      "id": "36803df8-2d23-811e-8677-e6d3f7945562",
+      "title": "群晖推出双活全 NVMe 存储服务器 PAS7700，配备 48 个 U.3 插槽",
+      "summary": "IT之家 5 月 22 日消息，群晖科技 (Synology) 昨日宣布推出双活全 NVMe 存储服务器 PAS7700。通过 RAID-TP 三重校验、同步内存写入保护、IP 故障切换、协议级故障切换，该服务器以双控制器架构提供了多层次冗余。PAS7700 采用 4U 19\" 高度外形规格，配备 48 个 U.3 NVMe SSD 插槽，支持连接 7 台扩充设备，原始容量可扩充至 1.65 PB，兼容 NVMe-oF、iSCSI、Fibre Channel、SMB、NFS 等多种文件和块协议。这款存储服务器内置 SED 自加密、WORM 一次写入多次读取、共享文件夹、不可变快照和多种备份功能",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/724.htm"
+    },
+    {
+      "id": "36803df8-2d23-8155-9b9f-f946dc74f4e1",
+      "title": "电影《澎湖海战》定档 7 月 25 日：易烊千玺、赵丽颖等人演绎历史统一主题",
+      "summary": "IT之家 5 月 22 日消息，电影《澎湖海战》正式定档于 2026 年 7 月 25 日上映。影片取材自 1683 年康熙帝派福建水师提督施琅率军收复台湾的真实历史事件，展现“孤悬必归、分疆必合”的统一主题。主创团队：导演：郑保瑞总制片人：王海峰监制 / 编剧：杜家毅演员阵容：包括赵丽颖、王学圻、易烊千玺、杜江、侯雯元、罗一舟、耿乐、宋洋、张晋、胡明等多位知名演员参演。IT之家注意到，这部影片已在第二十九届全国影片推介会上亮相，并获央视新闻等主流媒体重点推荐，被定位为弘扬国家统一主旋律的重量级作品。作为一部重大历史题材古装大片，影片在特效制作、战争场面和情感共鸣上投入巨大，被预测具备冲击高票",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/722.htm"
+    },
+    {
+      "id": "36803df8-2d23-8117-a48a-fb7bcd9cda82",
+      "title": "空客、法航因 2009 年 AF447 空难被判“过失杀人罪”，处 22.5 万欧元顶格罚款",
+      "summary": "IT之家 5 月 22 日消息，当地时间周四，法国巴黎上诉法院裁定法国航空公司和空中客车两家企业在 2009 年法航 AF447 航班空难中“过失杀人”罪名成立。然而，围绕法国这起最严重航空灾难长达 17 年的法律纠纷仍将继续。“正义绝对得到了伸张，”AF447 航班遇难者协会主席 Daniele Lamy 在法庭外表示。她的儿子是遇难的 228 人之一。Lamy 表示，遇难的两名飞行员已“恢复名誉”。法院宣布，这两家公司对空难负全部责任。作为法人，两家公司分别被判处 22.5 万欧元（IT之家注：现汇率约合 177.9 万元人民币）的顶格罚金。行业认为，这两笔罚款仅相当于两家公司“几分钟的收",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/720.htm"
+    },
+    {
+      "id": "36803df8-2d23-81fd-888c-e47b8fbe673e",
+      "title": "某厂 2nm 骁龙 8 系旗舰机曝光：10000mAh++ 巨容量电池、新一代主动散热风扇，预计为荣耀 WIN 2 系列",
+      "summary": "IT之家 5 月 22 日消息，博主 @数码闲聊站 今天在微博透露，某厂 2nm 骁龙 8 系旗舰机将配备 10000mAh++ 巨容量电池。博主表示，该机将内置新一代主动散热风扇、6.89 英寸左右 2K+185Hz 超高刷直屏，影像可能会升级。标准版测试骁龙 8E5（8 Elite Gen 5），低配版可能用骁龙 8E+1.5K 超高刷屏幕，有待进一步验证。后续有用户在评论区表示：“哎呦喂性能机不会都要搞万级电池吧”，博主回复道：“2026 年，10000mAh 大电池的 2nm 性能机，还是只有这家”；另一名用户则询问道：“这个 2nm 是 8e6 还是 8e6Pro 啊”，博主则回复道",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/721.htm"
+    },
+    {
+      "id": "36803df8-2d23-811c-ae05-ef257d5943cf",
+      "title": "智谱 GLM-5.1 高速版 AI 模型发布，跑出全球最快速度 400 tokens/s",
+      "summary": "IT之家 5 月 22 日消息，智谱今日宣布面向部分企业客户提供 GLM-5.1 高速版 API“GLM-5.1-highspeed”。该模型输出速度达到 400 tokens/s，刷新当前全球大模型厂商 API 的速度上限。更重要的是，在过去，“快”往往意味着“小”，高速模型几乎总是轻量级模型。GLM-5.1 高速版打破了这一行业惯例，首次在国产大模型中，将旗舰级能力与低延迟同时带入生产环境。GLM-5.1 高速版 API“GLM-5.1-highspeed”由智谱 GLM 团队与 TileRT 团队联合打造，在推理引擎、调度系统与底层基础设施三个层面进行了系统级优化：推理引擎层：针对 GL",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/717.htm"
+    },
+    {
+      "id": "36803df8-2d23-8175-9562-e1f152457e5a",
+      "title": "鲍尔定调微软 XBOX 战略：重振经典 IP、做强主机业务、拓展游戏社交",
+      "summary": "IT之家 5 月 22 日消息，马修 · 鲍尔（Matthew Ball）出任微软 XBOX 首席战略官后接受彭博社采访，表示自己的目标是让 XBOX 重回昔日高光。IT之家查询公开资料，鲍尔是全球知名游戏产业创投家、科技趋势家。他最广为人知的身份是“元宇宙的定义者”，其撰写的产业分析文章与年度报告在科技与游戏界具有极高的影响力。鲍尔在采访中直言，微软 XBOX 过去几年的表现并不佳，在他接管后团队当前最重要的任务，是扭转业务表现，并扩大玩家覆盖面与玩家时长。彭博社认为微软这些年持续把 XBOX 从单一主机品牌，推向跨设备服务平台，重点押注 Game Pass（游戏订阅服务），但这种扩张并未实",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/718.htm"
+    },
+    {
+      "id": "36803df8-2d23-81db-832b-cc49ae4d80d8",
+      "title": "海盗船发布企业 AI 硬件产品线 CORSAIR PRO，含工作站与服务器",
+      "summary": "IT之家 5 月 22 日消息，传统上专注于消费者业务的硬件企业 CORSAIR（海盗船）美国加州当地时间 21 日宣布推出 CORSAIR PRO 产品线。这是一套专为部署和扩展现代 AI 工作负载的企业而打造的 AI 系统产品组合。CORSAIR PRO 旨在支持从模型开发和微调到推理和生产部署的全周期 AI 工作负载。而根据应用场景，该产品线可划分为 FlexPrime 工作站和 FlexGrid 服务器。这其中 FlexPrime V80B 搭载 NVIDIA（英伟达）的 GB300 Grace Blackwell Ultra Desktop Superchip，专为高要求的 AI 训",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/715.htm"
+    },
+    {
+      "id": "36803df8-2d23-810e-b6c5-fd0aacd18ac9",
+      "title": "京东要开大商场，推出全新复合商业空间 JD SPACE 京东天地",
+      "summary": "IT之家 5 月 22 日消息，京东今日宣布推出全新复合商业空间 —— JD SPACE 京东天地。JD SPACE 将在发挥京东自营模式优势的基础上，引入优质品牌店铺，构建涵盖品质零售、文化艺术体验、轻社交的消费场景。从 2026 年 9 月开始，JD SPACE 将陆续在宿迁、北京、深圳、上海等地落成。▲ 北京 JD SPACEJD SPACE 将聚合京东 101HOME、京东全球购、京东医美等自营店，并落成全球首家京东美妆集合店、京东户外运动集合店、京东酒世界超级体验店、京东高端音频相机游戏集合店和京东乐器旗舰店。同时，JD SPACE 面向全品类品牌开放，引入品牌概念店、旗舰店等特色首",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/716.htm"
+    },
+    {
+      "id": "36803df8-2d23-81ae-b070-ea552531a63a",
+      "title": "A productivity startup is laying off 22% of the company to create million-dollar salary bands",
+      "summary": "ClickUp CEO Zeb Evans said the company laid off 22% of its workforce, but employees who \"create outsized impact using AI\" could see a million dollars.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-22",
+      "link": "https://www.businessinsider.com/clickup-cuts-jobs-million-dollar-salary-band-remaining-employees-2026-5"
+    },
+    {
+      "id": "36803df8-2d23-8145-904a-e0666d06ddcf",
+      "title": "马斯克合并 SpaceX、xAI 大赚一笔：每年节省近 10 亿美元利息",
+      "summary": "IT之家 5 月 22 日消息，据彭博社今日报道，埃隆 · 马斯克将 SpaceX、xAI 和 X 合并为集团企业后，已经带来了可观的意外之财：每年节省近 10 亿美元（IT之家注：现汇率约合 68.11 亿元人民币）的利息。在 SpaceX 历史性 IPO 之前提交的监管文件显示，该公司从银行获得了 200 亿美元（现汇率约合 1362.19 亿元人民币）的过桥贷款，这是 X 公司和 xAI 人工智能公司用于偿还 175 亿美元（现汇率约合 1191.92 亿元人民币）高息垃圾债务的资金来源。也就是说，马斯克利用优质资产（SpaceX）的低息融资，为高息资产（X 和 xAI）进行再融资或还款",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/714.htm"
+    },
+    {
+      "id": "36803df8-2d23-81c7-9abd-e9849e01601d",
+      "title": "科学家研发新型太空级 NAND 闪存：可承受 1 亿次 X 光辐射，抗辐射能力超传统产品 30 倍",
+      "summary": "IT之家 5 月 22 日消息，随着太空任务日益频繁，所需要的航天器也必须越来越多地依赖自身完成数据处理和存储。为了支撑太空 AI 系统，对应的存储器也需要在极端恶劣的环境中保持稳定。传统的 NAND 闪存 —— 与智能手机、笔记本电脑和数据中心所用技术相同 —— 是目前太空中大容量数据存储的最先进方案，存储容量可达太比特级别。然而，太空中的辐射会严重降低其性能，甚至导致数据丢失。为此，乔治亚理工学院的科研人员开发出了一种基于铁电材料打造的 NAND 闪存，其耐辐射能力是传统 NAND 的 30 倍。相关研究成果已于发表在《Nano Letters》上。铁电性是指某些材料保持永久自发极化电荷的",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/713.htm"
+    },
+    {
+      "id": "36803df8-2d23-8156-b150-f23c00d9a85c",
+      "title": "已修复：微软 Win11 内核曝 7.8 分高危漏洞，穿透 Chrome 等浏览器提权至系统最高权限",
+      "summary": "IT之家 5 月 22 日消息，科技媒体 cyberkendra 昨日（5 月 21 日）发布博文，报道称 Windows 内核曝出严重漏洞，攻击者可穿透 Chrome 等主流浏览器，提权至 Windows 11 系统最高权限。该漏洞追踪编号为 CVE-2026-40369，位于 ntoskrnl.exe 的 nt!ExpGetProcessInformation 函数，CVSS 评分 7.8，影响 Windows 11 24H2 和 25H2，微软已经在本月补丁星期二活动日发布的累积更新中修复。该漏洞是安全研究者 Paolo Stagno 为 Pwn2Own Berlin 2026 准备，但",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/712.htm"
+    },
+    {
+      "id": "36803df8-2d23-8171-9b27-dcc9fd5a77f7",
+      "title": "加州发布美国首份 AI 冲击应对准备行政令",
+      "summary": "IT之家 5 月 22 日消息，美国加利福尼亚州州长 Gavin Newsom（加文 · 纽森）当地时间 21 日签署一项行政命令，指示加州为 AI 对劳动力市场带来的经济冲击做好准备，帮助员工、小型企业、社区应对这一挑战。这是美国首个此类行政命令。根据这一行政令，加州政府机构将帮助员工获得分享 AI 收益的能力、追踪 AI 对劳动力市场的影响、应对可能出现的就业和劳动力市场中断问题、为 AI 带来的公共利益制定更强有力的公共政策和支持计划。图源：Pexels加文 · 纽森表示：加州从未袖手旁观，任由未来摆在我们面前 —— 现在也不会。我们一直走在创新、安全和透明度的前沿。但我们必须放眼未来。",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/710.htm"
+    },
+    {
+      "id": "36803df8-2d23-81bb-8949-d423201fcd2c",
+      "title": "《007：初露锋芒》临近发售突增 D 加密，部分预购玩家欲退款",
+      "summary": "IT之家 5 月 22 日消息，《007：初露锋芒》游戏 Steam 商品页最近突然更新，显示其将采用 Denuvo（IT之家注：D 加密）DRM 技术。值得注意的是，本作 2025 年 9 月开启预购时并没有宣称使用 D 加密，而是在距离发售只有 6 天时悄悄宣布。近年来，越来越多发行商不会提前宣布旗下游戏采用 D 加密，而是临近发售时才向 Steam 平台补充信息，例如《乐高蝙蝠侠：黑暗骑士传奇》发售前半个月才公开，《红色沙漠》今年 3 月也因类似问题引发玩家不满。部分玩家在 Reddit、Steam 社区表示，他们去年预购时并不知道本作会使用 D 加密，但官方的这种做法让他们感到不满，如",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/711.htm"
+    },
+    {
+      "id": "36803df8-2d23-8130-8897-ec6fef292eb3",
+      "title": "美国 AI 监管令突然告吹内幕：白宫内讧，马斯克、扎克伯格游说特朗普",
+      "summary": "北京时间 5 月 22 日，美国总统特朗普在周四突然取消了一场备受关注的 AI 行政令签署仪式，该行政令旨在加强 AI 监管，赋予政府权力，在 AI 模型公开发布之前对其进行评估。美国新闻网站 Axios 报道称，在签署仪式前几个小时，这一行政令就已土崩瓦解，原因是特朗普的一位高级顾问以及部分科技界高管对此强烈反对。而且，特朗普本人从一开始就对监管 AI 兴趣不大。反对意见据知情人士透露，在签署仪式之前，特朗普及其 AI 顾问大卫 · 萨克斯（David Sacks）以及部分 AI 行业人士讨论了这项行政命令。Meta CEO 马克 · 扎克伯格（Mark Zuckerberg）、xAI CE",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/708.htm"
+    },
+    {
+      "id": "36803df8-2d23-8113-a742-c3a45b68445e",
+      "title": "初探火狐 Firefox 浏览器 Nova 界面：紧凑模式回归，关键页面内容加载提速 9%",
+      "summary": "IT之家 5 月 22 日消息，Mozilla 公司昨日（5 月 21 日）发布博文，宣布正在为火狐 Firefox 浏览器，推进代号为 Project Nova 的重大改版，计划今年晚些时候推出。Mozilla 官方强调推行 Project Nova 的目的，在围绕着隐私和个性化的前提下，让 Firefox 浏览器运行速度更快、界面更简洁、交互更灵活。Firefox Nova 重设计首页示意图在隐私保护方面，Project Nova 重新设计设置菜单，新添总开关，可彻底关闭所有与 AI 相关的功能；此外 Project Nova 为增强型跟踪保护提供更清晰的选项，让用户根据其需求，自由调节隐",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/707.htm"
+    },
+    {
+      "id": "36803df8-2d23-81d4-b478-ff3208ef569f",
+      "title": "GL.iNet 推出三频 BE10000 旅行无线路由器 Slate 7 Pro",
+      "summary": "IT之家 5 月 22 日消息，GL.iNet（广联智通）本月 19 日推出三频 Wi-Fi 7 旅行无线路由器 Slate 7 Pro (GL-BE10000)。广联智通宣称这是首款实现三频 Wi-Fi 聚合的同类产品，拥有可与全尺寸家用路由器媲美的性能。Slate 7 Pro 三维 130×91×36 (mm)，重 328g。其基于联发科 4 核 2.0GHz 处理器，配备 1GB DDR4 内存和 512MB NAND 闪存存储，拥有 2 根可折叠外置天线，采用 USB-C 供电。无线规格方面，Slate 7 Pro 在 2.4GHz 频段支持 688Mbps、在 5GHz 频段支持 2",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/706.htm"
+    },
+    {
+      "id": "36803df8-2d23-8142-8fdd-ec9337a6f34b",
+      "title": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人，聊天 15 分钟难辨人机",
+      "summary": "IT之家 5 月 22 日消息，加州大学圣地亚哥分校的最新研究首次提供了实证数据，可证明现代 AI 系统能够通过经典的图灵测试。在该测试中，机器需要学习人类并模仿人类对话，使人们无法稳定分辨人类与先进大语言模型之间的差异。这项发表在《美国国家科学院院刊》上的研究，首次采用英国数学家、“计算机科学之父”艾伦 · 图灵于 1950 年设计的方法对大语言模型进行了严格测试。这也是首次有研究发现，在图灵测试的框架下，AI 模型被判定为人类的概率 / 频率与真人相当。通讯作者卡梅伦 · 琼斯（Cameron Jones）表示：“我们发现，如果给出恰当的提示，先进的大语言模型可以表现出与人类相同的语气、直",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/705.htm"
+    },
+    {
+      "id": "36803df8-2d23-8138-9298-c37e90a0c6ca",
+      "title": "SpaceX 新一代星舰 V3 火箭关键首飞遇故障推迟，马斯克解释原因",
+      "summary": "IT之家 5 月 22 日消息，SpaceX“星舰 V3”火箭原定于当地时间周四（北京时间 5 月 22 日 06:30，发射窗口约 90 分钟）在美国得克萨斯州星际基地的全新发射台上进行首飞，然而遇到突发状况只能推迟。SpaceX CEO 埃隆 · 马斯克随后在 X 平台发帖称，固定塔臂的液压销未能收回。如果今晚能修复，明天中部时间 5:30 将再次尝试发射（IT之家注：按照常规发射节奏，这里预计是指下午 5:30，北京时间 5 月 23 日早上 6:30）。",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/704.htm"
+    },
+    {
+      "id": "36803df8-2d23-81d6-b11a-faa7d4be635c",
+      "title": "京东红包今日 10 点再加码：猜数字抢 5 元红包",
+      "summary": "今日 10 点京东红包再加码，猜数字有机会抢 5 元加码红包：点此抽取。猜数字红包玩法：每人 3 次机会，猜中锦鲤数字后即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。猜错后会缩小锦鲤数字的范围并提示用户，如果用户 3 次机会均未猜中，则无法获得任何奖励。蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：点此抽红包淘宝 618 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/703.htm"
+    },
+    {
+      "id": "36803df8-2d23-81b1-a234-ce7c28cb694c",
+      "title": "《命运 2》游戏 6 月 9 日后停更，消息称索尼计划对 Bungie 工作室发起大规模裁员",
+      "summary": "IT之家 5 月 22 日消息，Bungie 工作室今天发布博文，宣布《命运 2》游戏将在 6 月 9 日迎来最后一次更新。IT之家在此援引官方博文，6 月 9 日的更新名为“凯旋纪念碑”，之后游戏将彻底停止更新，工作室将着手孵化下一批新作。6 月 9 日后，《命运 2》服务器仍然继续运营，玩家可以正常游玩，不过官方以后再也不会给这款游戏带来内容更新。据彭博社援引知情人士说法，Bungie 目前没有计划启动《命运 3》的开发工作，同时索尼计划对该工作室发起大规模裁员。据悉，Bungie 员工曾尝试让多个新项目立项，但截至目前没有任何项目正式获批或进入开发阶段。总体来讲，当前游戏行业环境不容乐观",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/702.htm"
+    },
+    {
+      "id": "36803df8-2d23-818e-a747-e68351914770",
+      "title": "银昕推出单 5GbE RJ45 接口 PCIe 有线网卡 ECL02",
+      "summary": "IT之家 5 月 22 日消息，SilverStone 银昕 / 银欣近日上架了 ECL02，这是一款 PCIe AIC 形态的单 5GbE RJ45 接口有线网卡。ECL02 三维 120×18×72 (mm)，属于单槽 HHHL 类型，支持标准全高与半高 (Low Profile) 挡板。其基于瑞昱 RTL8126 芯片，采用 PCIe Gen3 ×1 连接接口；LED 指示灯在满速运行时显示绿色，其余情况显示蓝色。ECL02 支持一系列 IEEE 802.3 家族网络标准和多种节能模式特性，支持 Wake-on-LAN 与 RealWoW! 远程唤醒、PXE 网络启动，支持瑞昱 \"Dra",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/701.htm"
+    },
+    {
+      "id": "36803df8-2d23-81fe-bd3c-df6b8a246ca4",
+      "title": "微软承认 YellowKey 安全绕过漏洞，发布 Win11 临时缓解措施",
+      "summary": "IT之家 5 月 22 日消息，科技媒体 Windows Central 昨日（5 月 21 日）发布博文，报道称微软针对适用于 Windows 11 系统的 YellowKey 安全绕过漏洞，发布了临时缓解措施。IT之家曾于 5 月 14 日报道，安全研究员 Chaotic Eclipse 通过一个 USB 设备，成功绕过 BitLocker 的部分保护机制，从而访问被锁定的文件。YellowKey 可以绕过系统的 BitLocker 防护，影响 Windows 11、Windows Server 2022、Windows Server 2025 等系统。研究人员特别指出，Windows 1",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/699.htm"
+    },
+    {
+      "id": "36803df8-2d23-8161-9a38-fa20a3958e7b",
+      "title": "极空间私有云 Z425 轻享版发布：八盘位、万兆网口，首发价 6699 元起",
+      "summary": "IT之家 5 月 22 日消息，极空间私有云 Z425 轻享版于 5 月 21 日发布，首发价 6699 元起，国补后 5637.61 元起。英特尔酷睿 Ultra 5 125H 处理器（14 核 18 线程，睿频 4.5GHz）“八盘位”（4 个 SATA + 4 个 M.2 SSD），最大 160TB 存储标配 8GB DDR5 内存，最高可升 128GB万兆有线网口 + 双雷电 4 接口“AI 空间”功能完整继承，自然语义搜索、视频音频摘要生成、智能分类……IT之家附配置表如下：京东极空间 Z425 轻享版券后 5930.1 元领 110 元券京东 618 无门槛红包 面额至高 2661",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/698.htm"
+    },
+    {
+      "id": "36803df8-2d23-81f5-84be-f1e2b5a3871b",
+      "title": "首届 ENC 电竞世界杯中国赛区代表队组建工作启动",
+      "summary": "IT之家 5 月 22 日消息，ENC 中国区官方合作伙伴成都竞悦昨日宣布，2026 年“ENC 电子竞技队（中国）”启动组建，该队伍将代表赛区出征 2026 年 11 月在沙特利雅得举行的首届 ENC 电竞世界杯。@ENC电子竞技队_CHN 同日表示，第一批选手推荐工作现已启动，涉及《火箭联盟》《彩虹六号》两个团队项目和《街霸》《EAFC》《CHESS》三个个人项目。",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/696.htm"
+    },
+    {
+      "id": "36803df8-2d23-8133-a25e-c3118736a4d9",
+      "title": "Ayaneo Konkr Pocket Block 掌机亮相：两色可选，具备 AI 功能",
+      "summary": "IT之家 5 月 22 日消息，Ayaneo Konkr Pocket Block 掌机昨晚的产品分享会中亮相，新品采用复古设计语言，号称是“全球首款 AI 掌机”。据介绍，这款掌机具有灰色、紫色两种配色可选，所有配色都是比较复古的风格，融合赛博元素美学，采用轻量化设计、轻巧机身。从官方对比来看，该机的尺寸比 Pocket Vert、Pocket DMG 都要小。同时，这款掌机将在保持便携游戏的同时，带来更智能、更具沉浸感的体验，具备 AI 功能。不过官方虽然展示了可运行的工程机，却没有演示 AI 功能。IT之家注意到，该机将配备触控屏、立体声扬声器，具备 3.5mm 耳机接口和肩键，运行 A",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/697.htm"
+    },
+    {
+      "id": "36803df8-2d23-81f3-8dd3-eb5b37af3034",
+      "title": "微软重启 XBOX 游戏周边商店，首批开售《光环》等主题服饰等",
+      "summary": "IT之家 5 月 22 日消息，微软昨日（5 月 21 日）宣布上线 XBOX Game Studios Shop，接替 Xbox Gear Shop，主要销售 XBOX 第一方游戏周边。IT之家援引博文介绍，微软升级 Xbox Gear Shop，更名为 XBOX Game Studios Shop，面向全球游戏玩家，销售 Xbox 品牌以及旗下各大游戏工作室（如《光环》、《极限竞速》、《盗贼之海》等）的官方授权周边产品。XBOX Game Studios Shop 目前上线的首批产品中，涵盖《帝国时代》、《宣誓》、《盗贼之海》、《天外世界》以及《极限竞速》等游戏主题。在销售的产品中，包括日",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/695.htm"
+    },
+    {
+      "id": "36803df8-2d23-817c-a4c7-dd52d8c6a12d",
+      "title": "微软承认在 Word、Excel 和 PowerPoint 中加入 Copilot 悬浮按钮是个错误，遭大量投诉后回调",
+      "summary": "IT之家 5 月 22 日消息，当地时间 5 月 21 日，微软发布了一篇博客，阐述了其为 Word、Excel 和 PowerPoint 引入 Copilot 的美好愿景。微软官方承认，近期在 Word、Excel 和 PowerPoint 中添加的浮动 Copilot 按钮确实影响了用户的工作体验。在收到大量反馈后，微软决定推出修复方案，针对 Copilot 动态按钮的位置新增“移到功能区”自定义选项，并改进停靠行为使按钮保持原位。此前，微软 Office 应用在右下角新增了一个悬浮的 Copilot 按钮，可根据文档内容智能建议 Copilot 能够执行的操作。然而，这一设计并未获得用户",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/694.htm"
+    },
+    {
+      "id": "36803df8-2d23-81d9-a256-d2ad38f6ec23",
+      "title": "华硕上线背插主板 TUF GAMING Z890-BTF WIFI7，全新干练设计语言",
+      "summary": "IT之家 5 月 22 日消息，华硕 (ASUS) 现已在其官网上线 TUF GAMING Z890-BTF WIFI7 主板。这一背插设计型号采用了全新的简洁干练设计语言。可以看到这款主板采用 ATX 板型，拥有 4 条内存插槽和 5 条 PCIe 插槽，其中主 PCIe 插槽后方设有 GC-HPWR“金手指”供电接口和 PCIe Q-Release 快拆结构。根据华硕官方的简要介绍，TUF GAMING Z890-BTF WIFI7 搭载 16+1+2+1 相 80A DrMOS 供电，提供 1 个 PCIe Gen5 M.2 插槽和 3 个其它 M.2 插槽，支持 2.5GbE 有线网络",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/693.htm"
+    },
+    {
+      "id": "36803df8-2d23-81be-9280-ef2cfb081d8b",
+      "title": "11599 元起：壹号本全新 OnexPlayer X1 Pro 掌机发布，锐龙 AI9 HX 470 处理器、65Wh 电池",
+      "summary": "IT之家 5 月 22 日消息，壹号本全新 OnexPlayer X1 Pro 掌机现已在海外发布，新品搭载 AMD Gorgon Point 平台，具备 65Wh 电池、可拆卸式手柄，可通过 OCuLink 接口外接显卡。IT之家了解到，这款掌机搭载 AMD 锐龙 AI9 HX 470 处理器，加速频率可达 5.2GHz，具备 36MB 缓存、XDNA 2 架构神经网络引擎，相比之前版本的 HX 370 有小幅性能提升。新机还带有 Radeon 890M 核显，理论性能最高可提升 7%。规格方面，这款掌机配备 10.95 英寸屏幕，支持 120Hz 高刷，电池容量为 65.02Wh，配备 O",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/692.htm"
+    },
+    {
+      "id": "36803df8-2d23-81c5-8059-f78f8075b30d",
+      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+      "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-22",
+      "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/"
+    },
+    {
+      "id": "36803df8-2d23-8123-81d3-d0cf77d62ebc",
+      "title": "派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等",
+      "summary": "绿联推出 NAS 新品 DXP4800 GT、哈博森黑鹰 4 号无人机发布等。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-05-22",
+      "link": "https://sspai.com/post/110020"
+    },
+    {
+      "id": "36803df8-2d23-81d9-93a2-f6d9a2839406",
+      "title": "联想 IdeaPad Slim 3i 17IWC11 笔记本发布：17 寸大屏、英特尔 Wildcat Lake 平台",
+      "summary": "IT之家 5 月 22 日消息，联想现已在海外市场推出 IdeaPad Slim 3i 17IWC11 笔记本电脑，新品配备 17 英寸大屏、英特尔 Wildcat Lake 平台，最高可升级至 32GB 内存、60Wh 电池。据介绍，这款笔记本的起步配置是 8GB 内存、256GB PCIe 4.0 固态硬盘和英特尔酷睿 5 320 处理器，支持选配酷睿 7 350 版本。规格方面，该笔记本最高支持 1TB M.2 2242 固态硬盘，官方最高提供 16GB DDR5-5600 内存，用户可自行更换内存，升级至 32GB 单通道。电池则是提供 50Wh、60Wh 两种容量，续航最长可达 18",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/689.htm"
+    },
+    {
+      "id": "36803df8-2d23-818d-aa5f-d65ac6b6bffc",
+      "title": "Mac“常青树”编辑器 BBEdit 16 上线：支持图片内文字搜索，优化支持快捷指令",
+      "summary": "IT之家 5 月 22 日消息，科技媒体 9to5Mac 今天（5 月 22 日）发布博文，报道称 Bare Bones 发布了 BBEdit 16 文本和代码编辑器，支持图片内文字搜索、优化支持快捷指令，AI 工作表支持流式输出，以及多项底层性能优化。IT之家注：BBEdit 可追溯到 1993 年，是 Bare Bones 专为 macOS 平台开发的专业文本、代码与 HTML 编辑器。它以极其强大、流畅的纯文本处理能力而闻名，是 Mac 平台上最长寿且最受硬核网页开发者、软件工程师及网络作家青睐的工具之一。本次 BBEdit 16 更新最值得关注的新功能，在于能在截图、照片和其他图片文件",
+      "source": "IT之家",
+      "publishTime": "2026-05-22",
+      "link": "https://www.ithome.com/0/953/688.htm"
+    },
+    {
+      "id": "36803df8-2d23-81cc-9949-f24a0da60fe5",
+      "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+      "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-22",
+      "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/"
+    },
+    {
+      "id": "36803df8-2d23-81eb-bd8c-df5ef58da8a8",
+      "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+      "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
+      "source": "Wired",
+      "publishTime": "2026-05-22",
+      "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/"
+    },
+    {
+      "id": "36803df8-2d23-81f7-96a7-c0dcb0c4c617",
+      "title": "Microsoft veteran executive Yusuf Mehdi is leaving after the next fiscal year, an internal memo shows",
+      "summary": "Microsoft executive vice president Yusuf Mehdi is leaving after 35 years. He wrote that he plans to help \"reimagine Windows for the agentic era.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-05-22",
+      "link": "https://www.businessinsider.com/microsoft-yusuf-mehdi-plans-departure-after-role-transition-2026-5"
+    },
     {
       "id": "36703df8-2d23-81b8-bed5-d30df302ae9d",
       "title": "WordPress 7.0 发布：AI 建站新起点，超 420 项增强与修复",
@@ -88,318 +400,6 @@
       "source": "BBC Tech",
       "publishTime": "2026-05-22",
       "link": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "36703df8-2d23-81da-9741-d9614cebac8d",
-      "title": "超越任天堂《Wii Sports》，R 星《荒野大镖客：救赎 2》跻身史上最畅销游戏第三名",
-      "summary": "IT之家 5 月 22 日消息，据游戏媒体 IGN 今天报道，虽然如今所有人的目光都集中在《GTA6》上，但《荒野大镖客：救赎 2》仍然延续着成功势头，累计销量已突破 8500 万份。虽然《荒野大镖客：救赎 2》8500 万份销量远没有《GTA5》的 2.3 亿份那么耀眼，但这个数字足以让它超越任天堂《Wii Sports》（IT之家注：8290 万份），成为史上最畅销游戏第三名。不过奇怪的是，R 星至今没有发布次世代主机版《荒野大镖客：救赎 2》，在 PS5、Xbox Series X 等主机上无法跑到 60 帧。与此同时，《荒野大镖客：线上模式》的发展始终落后于《GTA：线上模式》，不仅更",
-      "source": "IT之家",
-      "publishTime": "2026-05-22",
-      "link": "https://www.ithome.com/0/953/674.htm"
-    },
-    {
-      "id": "36703df8-2d23-81f2-b6c7-dded88b24348",
-      "title": "美国政府投资 20 亿美元入股九家量子计算公司，IBM 独获 10 亿美元并成立量子芯片制造公司 Anderon",
-      "summary": "IT之家 5 月 22 日消息，据多个美媒报道，美国政府将以入股方式向九家量子计算公司投资 20 亿美元（IT之家注：现汇率约合 136.24 亿元人民币），其中包括 IBM 旗下一家新成立的公司。消息公布后，相关公司股价上涨 6% 至 31% 不等。近年来，量子计算领域的技术突破使其潜力日益受到关注。从药物研发、金融建模到密码学，量子计算有望加速诸多复杂任务的处理效率。美国商务部周四宣布，IBM 将获得 10 亿美元（现汇率约合 68.12 亿元人民币）用于成立一家制造量子芯片的公司。与此同时，芯片代工厂商 GlobalFoundries 将获得 3.75 亿美元（现汇率约合 25.54 亿",
-      "source": "IT之家",
-      "publishTime": "2026-05-22",
-      "link": "https://www.ithome.com/0/953/673.htm"
-    },
-    {
-      "id": "36703df8-2d23-81a8-8fbe-df581e9e5530",
-      "title": "Anker’s new earbuds have the best call quality I’ve ever heard",
-      "summary": "Soundcore, Anker's audio brand, has mostly lived in the budget-to-midrange world, but with its new Liberty 5 Pro earbuds, it's aiming at the big guys. The two new earbuds - the Liberty 5 Pro and Liberty 5 Pro Max - use Anker's new Thus chip, which has more processing power than previous Soundcore ea",
-      "source": "The Verge",
-      "publishTime": "2026-05-22",
-      "link": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review"
-    },
-    {
-      "id": "36703df8-2d23-8176-8251-e4363e78b4f8",
-      "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
-      "summary": "Anker has announced a new version of its Soundcore Liberty Pro earbuds: the new Liberty 5 Pro. These are the company's first earbuds featuring the Thus AI audio chip Anker announced last month, here being used to bolster noise reduction capabilities and help ensure the user's voice can be clearly he",
-      "source": "The Verge",
-      "publishTime": "2026-05-22",
-      "link": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip"
-    },
-    {
-      "id": "36703df8-2d23-8147-ae32-ffc68fc0898a",
-      "title": "Epic 手游喜加一：移动端《纪念碑谷 3》限时免费领",
-      "summary": "IT之家 5 月 22 日消息，Epic 本周送出的游戏是《逃出百慕大》《古墓丽影 1-3 复刻版》，详情可见IT之家此前报道。与此同时，Epic 移动端用户还可以免费领取《纪念碑谷 3》。不过，由于国区 Epic 客户端的特殊性，大家可能需要通过官网下载 Epic 移动 App 或通过网页端领取。《纪念碑谷 3》（Monument Valley 3）是一款由 Ustwo 开发的益智游戏，最初于 2024 年 12 月 10 日独家登陆 Netflix，后于 2025 年 7 月在 Steam、任天堂 Switch 2、Xbox Series X|S、PlayStation 5 上推出，又在 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-22",
-      "link": "https://www.ithome.com/0/953/672.htm"
-    },
-    {
-      "id": "36703df8-2d23-81b8-8f47-d552d6d71831",
-      "title": "微软 XBOX 上线自适应摇杆帽结构，新增球门柱造型",
-      "summary": "IT之家 5 月 22 日消息，在全球无障碍宣传日（每年 5 月的第三个星期四，2026 年为 5 月 21 日），微软 XBOX 面向玩家，发布多项无障碍更新，聚焦硬件适配、信息获取与游戏体验 3 个层面。本次更新最值得关注的项目，是自适应摇杆帽计划，微软已在 XBOX Design Lab 上线。微软 XBOX 团队通过优化连接结构，让配件在较大受力场景下更稳固，不易在游玩中松脱，同时新增呼声较高的“球门柱”新造型。玩家可针对兼容的游戏手柄，选择 7 种不同形状，并按自身需求调整宽度与高度，再免费下载对应的 3D 打印文件。用户无需先购买控制器，只要能接触 3D 打印机或打印服务，就能制作",
-      "source": "IT之家",
-      "publishTime": "2026-05-22",
-      "link": "https://www.ithome.com/0/953/670.htm"
-    },
-    {
-      "id": "36703df8-2d23-81a7-9189-c937c4110907",
-      "title": "R 星母公司 Take-Two 确认《GTA6》宣发活动 6 月下旬开始，发售日期未变",
-      "summary": "IT之家 5 月 22 日消息，R 星母公司 Take-Two 昨天举行 2026 财年第四季度财报会议，公司 CEO 施特劳斯 · 泽尔尼克就上周以来不断出现的《GTA6》传闻作出说明，并澄清部分误解。首先，泽尔尼克确认，《GTA6》并未跳票，仍将按计划于 2026 年 11 月 19 日发售，而营销、宣发活动预计将在 6 月下旬某个时间点开始。泽尔尼克解释道：“严格来说，夏季是 6 月份才开始，这意味着营销活动不会马上启动。所以未来几周内，我认为还不能算进入夏季。但只要一进入夏季，Rockstar 就会计划开始《GTA6》宣发工作”。IT之家注：美国的夏季一般从 6 月下旬开始，持续到 9",
-      "source": "IT之家",
-      "publishTime": "2026-05-22",
-      "link": "https://www.ithome.com/0/953/671.htm"
-    },
-    {
-      "id": "36703df8-2d23-811c-a541-dd412e3bef66",
-      "title": "《007 初露锋芒》官方预告片发布，5 月 27 日正式发售",
-      "summary": "IT之家 5 月 22 日消息，IO Interactive 与亚马逊米高梅影业今日联合发布了《007 初露锋芒》的发布预告片。本作将于 2026 年 5 月 27 日登陆 PS5、Xbox Series X|S 和 PC 平台，并于 2026 年夏季登陆 Nintendo Switch 2 平台。 这款由 IO Interactive 打造的独立游戏，重新演绎了詹姆斯 · 邦德的起源故事。游戏现已开启预购，预购玩家可免费升级至豪华版，获得 24 小时抢先体验资格，以及专属游戏内皮肤和服装。在桌面平台，本作首发支持 DLSS 4.5，实现 4K 极致体验需 RTX 5080 高端显卡，IT之家",
-      "source": "IT之家",
-      "publishTime": "2026-05-22",
-      "link": "https://www.ithome.com/0/953/669.htm"
-    },
-    {
-      "id": "36703df8-2d23-8162-84fa-d920066a72c2",
-      "title": "States ask judge to break up Live Nation-Ticketmaster",
-      "summary": "A federal judge is officially being tasked with deciding whether to break up Live Nation-Ticketmaster. More than 30 states are asking Judge Arun Subramanian to order a sale of the ticketing giant, a \"sufficient number\" of large amphitheaters, and limit its ability to tie access to its remaining amps",
-      "source": "The Verge",
-      "publishTime": "2026-05-22",
-      "link": "https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up"
-    },
-    {
-      "id": "36703df8-2d23-816e-81f4-ca6f9bdbdfa3",
-      "title": "SpaceX readies 12th test flight of massive Starship rocket as IPO looms",
-      "summary": "SpaceX's planned Starship launch follows the company's release of its IPO prospectus, which set the stage for what's likely to be a record offering.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-22",
-      "link": "https://www.cnbc.com/2026/05/21/spacex-plans-12th-test-flight-of-massive-starship-rocket-as-ipo-looms.html"
-    },
-    {
-      "id": "36703df8-2d23-81f5-9b7e-c805db9a5b19",
-      "title": "What to Do in LA if You’re Here for Business (2025)",
-      "summary": "A tech industry guide to where to stay, eat, work, and play while visiting LA.",
-      "source": "Wired",
-      "publishTime": "2026-05-22",
-      "link": "https://www.wired.com/story/los-angeles-tech-travel-guide/"
-    },
-    {
-      "id": "36703df8-2d23-814d-a036-e70710b01fc6",
-      "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
-      "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-22",
-      "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/"
-    },
-    {
-      "id": "36703df8-2d23-8116-8ebc-c7846c861163",
-      "title": "‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says",
-      "summary": "Three firms will pay nearly $1 million for selling “Active Listening” technology that they claimed tapped people’s phones for advertising. The FTC alleges the “tech” was just pricey email lists.",
-      "source": "Wired",
-      "publishTime": "2026-05-22",
-      "link": "https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/"
-    },
-    {
-      "id": "36703df8-2d23-81c6-8bb6-d9004d3fb6b5",
-      "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
-      "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-22",
-      "link": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/"
-    },
-    {
-      "id": "36703df8-2d23-8168-9206-d3c878b9e623",
-      "title": "Job training for robots: How China is getting machines ready to join the workforce",
-      "summary": "Tesla CEO Elon Musk said on the company's fourth-quarter earnings call that China is the biggest competition for humanoid robots.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-22",
-      "link": "https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html"
-    },
-    {
-      "id": "36703df8-2d23-8187-8b9b-cad96637cf2f",
-      "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
-      "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
-      "source": "Wired",
-      "publishTime": "2026-05-22",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/"
-    },
-    {
-      "id": "36703df8-2d23-81e3-84f8-d4205518f7b2",
-      "title": "Meta settles social media addiction case with US school district",
-      "summary": "The trial had been set as a test case for 1200 other school districts making similar claims.",
-      "source": "BBC Tech",
-      "publishTime": "2026-05-22",
-      "link": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "36703df8-2d23-81f9-843e-d2d42eb08618",
-      "title": "Meta, Broadcom and others to launch $125 million semiconductor research hub at UCLA",
-      "summary": "Broadcom, Meta, Applied Materials, GlobalFoundries and Synopsys are joining forces to launch a $125 million \"Semiconductor Hub\" at UCLA.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-22",
-      "link": "https://www.cnbc.com/2026/05/21/meta-broadcom-others-to-launch-125-million-semiconductor-research-hub-at-ucla.html"
-    },
-    {
-      "id": "36703df8-2d23-818b-8d61-ce9a86485d1a",
-      "title": "Workday jumps 10% as it bumps up margin forecast on AI strength",
-      "summary": "Workday's CEO says the company is seeing success in artificial intelligence.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-22",
-      "link": "https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html"
-    },
-    {
-      "id": "36703df8-2d23-813c-8af8-e40549b47d41",
-      "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
-      "summary": "These are the AC units we’ve trusted to cool our homes for months, if not years.",
-      "source": "Wired",
-      "publishTime": "2026-05-22",
-      "link": "https://www.wired.com/gallery/best-window-air-conditioners/"
-    },
-    {
-      "id": "36703df8-2d23-8167-a233-dd7bc10fdbd5",
-      "title": "Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI",
-      "summary": "Firefox is getting a drastic visual overhaul with a redesigned Settings section that will make it easier to find and use privacy settings, including the switch for turning off all present and future AI features. Mozilla calls the redesign \"Project Nova\" and plans to begin rolling it out later this y",
-      "source": "The Verge",
-      "publishTime": "2026-05-22",
-      "link": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign"
-    },
-    {
-      "id": "36703df8-2d23-81ea-9960-f95e11321975",
-      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-      "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencement speakers like former Google CEO Eric ",
-      "source": "The Verge",
-      "publishTime": "2026-05-22",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos"
-    },
-    {
-      "id": "36703df8-2d23-812f-9e24-d1e20b7df1ec",
-      "title": "Who gets to own the Luigi Mangione story?",
-      "summary": "On Monday morning, a judge overseeing the New York state case on the killing of the UnitedHealthcare CEO ruled that some evidence collected by police could not be shown to a jury. It wasn't the only news coming out of the hearing. Outside the courthouse, Molly Crane-Newman, a New York Daily News rep",
-      "source": "The Verge",
-      "publishTime": "2026-05-22",
-      "link": "https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters"
-    },
-    {
-      "id": "36703df8-2d23-8182-9c98-fb93d647671e",
-      "title": "US Marines are exploring using helicopters as 'airborne motherships' and flying command posts for FPV drones",
-      "summary": "The Marines launched a drone from a moving helicopter and practiced passing off control to an helicopter to fly it on to its target.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-22",
-      "link": "https://www.businessinsider.com/us-marines-helicopters-fpv-drone-motherships-flying-command-posts-2026-5"
-    },
-    {
-      "id": "36703df8-2d23-81e7-b5a5-d0929d2c1441",
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-22",
-      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/"
-    },
-    {
-      "id": "36703df8-2d23-8164-a1df-f30694a492aa",
-      "title": "Trump plans to build a giant 250-foot arch in Washington, DC. See how he has changed the capital during his second term.",
-      "summary": "From a $400 million ballroom to a proposed 250-foot arch, these are all the changes Trump has made to Washington, DC, during his second term.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-22",
-      "link": "https://www.businessinsider.com/trump-second-term-impact-washington-dc-photos"
-    },
-    {
-      "id": "36703df8-2d23-811a-ad61-eda9addad63b",
-      "title": "Philips’ new display has a screen on both sides",
-      "summary": "Its name might be dull and uninspired, but the Philips 24B2D5300 Business Monitor brings a novel feature I've never seen on a display before: screens on either side. The design will primarily benefit people who are constantly angling their computer screen so those on both sides of a desk can see it,",
-      "source": "The Verge",
-      "publishTime": "2026-05-22",
-      "link": "https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300"
-    },
-    {
-      "id": "36703df8-2d23-8138-a09b-f24a4b9bb48b",
-      "title": "Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX",
-      "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-22",
-      "link": "https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/"
-    },
-    {
-      "id": "36703df8-2d23-813b-89f5-d80144972de2",
-      "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
-      "summary": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-22",
-      "link": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/"
-    },
-    {
-      "id": "36703df8-2d23-8105-9a2d-e48554e8658f",
-      "title": "My parents rarely praised me. I didn't realize I repeated the pattern with my own kids.",
-      "summary": "I realized I praised my children to friends and coworkers more often than I praised them directly — and it hurt them.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-22",
-      "link": "https://www.businessinsider.com/praising-kids-directly-parenting-regret-2026-5"
-    },
-    {
-      "id": "36703df8-2d23-8167-a35c-ec50a90f56ac",
-      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-22",
-      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/"
-    },
-    {
-      "id": "36703df8-2d23-81c2-b7dc-f9567f80a585",
-      "title": "What SpaceX's filing shows about Elon Musk's web of companies",
-      "summary": "Last year, SpaceX was involved in more than $660 million worth of transactions with Tesla and The Boring Company.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-22",
-      "link": "https://www.businessinsider.com/spacex-filing-reveals-elon-musks-companies-tesla-pay-each-other-2026-5"
-    },
-    {
-      "id": "36703df8-2d23-8103-bb9d-ee0374bdeca2",
-      "title": "One of Meta’s big legal reckonings just ended in a settlement",
-      "summary": "After back-to-back losses in trials grappling with its impact on teens' mental health, Meta just settled what was supposed to be its next legal battle with Kentucky's Breathitt County School District. Google's YouTube, Snap, and TikTok all recently settled similar claims brought by the school distri",
-      "source": "The Verge",
-      "publishTime": "2026-05-22",
-      "link": "https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement"
-    },
-    {
-      "id": "36703df8-2d23-8125-a6ff-e009a1cfe9fb",
-      "title": "The strategy behind Zuckerberg's softer tone — and layoff reassurance",
-      "summary": "Zuckerberg said he doesn't anticipate more companywide layoffs this year. It could be a way to get workers refocused, say workplace observers.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-22",
-      "link": "https://www.businessinsider.com/strategy-behind-zuckerberg-tone-layoff-reassurance-stability-meta-2026-5"
-    },
-    {
-      "id": "36703df8-2d23-81c6-a72d-e5621e6a9ad4",
-      "title": "Oura, smart ring maker, confidentially files for IPO",
-      "summary": "Oura, the maker of the health and wellness tracking smart ring, has confidentially filed for an IPO with the SEC.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-22",
-      "link": "https://www.cnbc.com/2026/05/21/oura-smart-ring-ipo-filing.html"
-    },
-    {
-      "id": "36703df8-2d23-8176-b85d-f6b7023c8fb2",
-      "title": "Apple cofounder Steve Wozniak got cheers, not boos, after telling students they 'all have AI — actual intelligence'",
-      "summary": "Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-22",
-      "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5"
-    },
-    {
-      "id": "36703df8-2d23-816b-ac70-ce11af3ac7a0",
-      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
-      "summary": "Microsoft has not made the Maia 200 chips available to customers, but it is used in the company's data centers, offering better efficiency than other silicon.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-22",
-      "link": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html"
-    },
-    {
-      "id": "36703df8-2d23-813d-ab4a-fba3c392b3ff",
-      "title": "Trump postpones AI executive order signing: 'I didn't like certain aspects'",
-      "summary": "Trump said that AI is \"causing tremendous good,\" and he was concerned that the executive order \"could have been a blocker.\"",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-22",
-      "link": "https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html"
-    },
-    {
-      "id": "36703df8-2d23-81af-8ebf-c968a80c0cb1",
-      "title": "Mustard Made Storage Lockers Are on a Rare Sale Through May 31",
-      "summary": "We love this brand’s stylish storage lockers, and there's a big sale on eight colors through the end of the month.",
-      "source": "Wired",
-      "publishTime": "2026-05-22",
-      "link": "https://www.wired.com/story/mustard-made-sale/"
     }
   ],
   "macroEvents": [
