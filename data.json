@@ -1,6 +1,342 @@
 {
-  "updatedAt": "2026-05-23 07:38",
+  "updatedAt": "2026-05-23 12:23",
   "news": [
+    {
+      "id": "36903df8-2d23-812e-9fa2-c848b24263c1",
+      "title": "微软推出 Fara1.5 系列浏览器 AI 智能体模型，72% 任务成功率超 OpenAI Operator",
+      "summary": "IT之家 5 月 23 日消息，微软研究院 AI Frontiers 实验室最新发布 Fara1.5 系列模型，主要适用于浏览器场景下的计算机使用智能体，涵盖 4B、9B 和 27B 三个参数规模版本。该系列模型配套 MagenticLite（微软为此类智能体设计的沙盒浏览器界面）使用，可以直接读取浏览器截图，再输出鼠标和键盘操作，完成网页任务。Fara1.5 采用 Qwen3.5 基础检查点，使用“观察 — 思考 — 行动”循环。每一步都会结合历史对话与最近 3 张浏览器截图，输出推理内容和下一个动作。性能方面，Fara1.5-27B 在 Online-Mind2Web 上拿到 72% 任务",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/266.htm"
+    },
+    {
+      "id": "36903df8-2d23-81ad-bcb0-e06939f3ab09",
+      "title": "首个杜比视界认证 AR 眼镜套组，雷鸟 GT 系列正式亮相",
+      "summary": "IT之家 5 月 23 日消息，5 月 23 日，消费级 AR 品牌雷鸟创新（RayNeo）正式公布了其全新的旗舰级影音产品线 —— 雷鸟 GT 系列。与主打轻量普及的雷鸟 Air 系列不同，GT 系列定位为“专业影视级 AR 眼镜”，在视场角、画质标准与空间声场等方面进行了较大幅度的技术升级。据IT之家了解，该系列新品将于 5 月 27 日 19:30 携手 TCL 好莱坞中国剧院正式发布，价格还未正式公布。在视觉显示方面，市面主流观影类 AR 眼镜的视场角（FOV）普遍在 45° 左右，而传统影院标准通常要求中央视场角达到 53° 以上。据官方介绍，此次亮相的雷鸟 GT Max 搭载了自研",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/267.htm"
+    },
+    {
+      "id": "36903df8-2d23-817c-bb09-eef7907564a3",
+      "title": "联想推出 13.3 英寸超薄本 IdeaPad Slim 5i 13IWC11，配 Wildcat Lake 处理器",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 NotebookCheck 今天（5 月 23 日）发布博文，报道称联想推出 15 英寸 IdeaPad Slim 5i 15IWC11 笔记本外，还推出了 13.3 英寸的轻薄本 IdeaPad Slim 5i 13IWC11。联想 IdeaPad Slim 5i 13IWC11 官方图定位方面，该笔记本高于 Lecoo Air 和 IdeaPad Slim 3i，主打小尺寸机身、较大电池和高刷高色域屏，主要面向便携办公群体。机身方面，IdeaPad Slim 5i 13IWC11 重 1.19 千克，尺寸为 295 × 207 × 14.3 毫米，",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/265.htm"
+    },
+    {
+      "id": "36903df8-2d23-8116-9c86-ff59c9ee0d29",
+      "title": "人形机器人也有“身份证”：全国首个管理平台在京发布，全程可追溯",
+      "summary": "IT之家 5 月 23 日消息，据央视新闻报道，全国首个人形机器人全生命周期管理平台在北京发布。今后每一台出厂的人形机器人都将拥有独一无二的“数字身份证”，可在生产、销售、使用、回收流程追溯。IT之家在此援引央视新闻，该平台由信息化部人形机器人与具身智能标准化技术委员会牵头搭建。每台机器人出厂时将被赋予唯一编码，相当于机器人的“身份证号”，覆盖从研发生产、市场准入、销售使用到报废回收的全链条，实现“源头可溯、全程可控、风险可防、责任可究”。截至目前，该平台已覆盖全国 100 余家人形机器人企业，完成 200 余个产品型号、2.8 万余台机器人的全生命周期赋码，加快形成开放、包容、共赢的产业生态",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/264.htm"
+    },
+    {
+      "id": "36903df8-2d23-8111-b184-f04e15a10ea4",
+      "title": "What smart people are saying about the Trump administration's green card crackdown",
+      "summary": "Trump's immigration policy limits green card status adjustments, causing confusion and debate among lawyers, advocates, and policy experts.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-23",
+      "link": "https://www.businessinsider.com/experts-react-donald-trump-new-immigration-policy-green-card-applications-2026-5"
+    },
+    {
+      "id": "36903df8-2d23-81a6-bc04-c2be737f4315",
+      "title": "小米通报两起空调安装抽真空造假事件：涉事工程师永久拉黑",
+      "summary": "IT之家 5 月 23 日消息，小米公司 5 月 19 日发布内部通报，针对在数字化抽真空服务专项稽核中发现的两起空调安装抽真空造假事件作出顶格处理。根据网上流传出的公告截图，涉事的两名合作工程师被直接永久拉黑清退，终止任何形式的合作；其所属线下安装网点按虚假服务论处，每单罚款 1000 元，同时面向全国所有家装服务商同步通报批评，后续若再出现同类问题，将进一步升级追责力度。小米在通报中还要求全国各分公司及合作服务商立即开展全面自查整改，严禁“假抽空、空抽”等违规行为，发现一起，处理一起，从根源上杜绝假抽空、空抽等敷衍应付的违规行为。IT之家注：抽真空是变频空调安装中的关键工序。按照国家标准 ",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/263.htm"
+    },
+    {
+      "id": "36903df8-2d23-81ad-bde5-f3e7e0502f6e",
+      "title": "169.36GB：《最终幻想 7：重生》XBOX 版游戏开放预载",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 NotebookCheck 昨日（5 月 22 日）发布博文，报道称 XBOX 版 《最终幻想 7：重生》游戏已开放预载，文件大小达到 169.36GB，比 2024 年 PS5 版（145GB）大约 16.8%。该媒体指出 XBOX 版 《最终幻想 7：重生》游戏体积过大，对于部分只有 512GB 的 XBOX Series S 来说，会承受较大存储压力。此外《极限竞速：地平线 6》近期登陆微软 XBOX 平台，如果玩家同时下载这两款热门游戏大作，那么 XBOX 的存储空间就显得捉襟见肘，玩家要么扩展存储，要么可能得在常驻游戏名单里做取舍。IT之家援",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/262.htm"
+    },
+    {
+      "id": "36903df8-2d23-8125-a461-d3a89847bd1a",
+      "title": "1 名航天员将开展 1 年期在轨驻留试验，神舟二十三号任务清单公布",
+      "summary": "IT之家 5 月 23 日消息，据央视新闻报道，神舟二十三号载人飞行任务新闻发布会今天上午在酒泉卫星发射中心召开。据中国载人航天工程新闻发言人张静波介绍，本次任务的主要目的是与神舟二十一号乘组完成在轨轮换，继续开展空间科学与应用工作。IT之家从央视新闻报道了解到，本次任务将实施航天员出舱活动及货物进出舱，进行空间碎片防护装置安装、舱外载荷和舱外设施设备安装与回收等任务。开展科普教育和公益活动以及空间搭载试验，持续发挥空间站综合应用效益。此外，乘组 1 名航天员将开展 1 年期在轨驻留试验。航天员们还将利用斑马鱼胚胎、小鼠胚胎及干细胞构建的人工胚胎，探索建立从低等脊椎动物到高等哺乳动物的太空胚胎",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/259.htm"
+    },
+    {
+      "id": "36903df8-2d23-814a-96d2-fc46fa3c5f7d",
+      "title": "微软调整 Win11 待机规则：用户主动让电脑睡眠，中止播放音乐",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 Windows Latest 今天（5 月 23 日）发布博文，报道称在 Windows 11 24H2 和 25H2 系统中，微软调整 Modern Standby（现代待机）下的音频行为。检查设备是否支持 Modern Standby根据微软官方公布的策略调整，用户主动让电脑进入睡眠，如合上笔记本盖子、按下电源键或点击“睡眠”后，系统不再继续播放音频。Windows 11 现代待机耗电问题示意笔记本在播放音乐状态下，过去即便合上盖子或手动点按“睡眠”，音频也可能持续输出；而现在只要用户主动让设备进入待机，系统就不再支持继续播放音频。不过这项限制并不",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/260.htm"
+    },
+    {
+      "id": "36903df8-2d23-81e4-8c3f-c99fefe6d925",
+      "title": "嫦娥七号计划于下半年择机发射：后续将按计划组织完成长征十号运载火箭技术验证飞行、梦舟载人飞船和揽月着陆器首次飞行等重要任务",
+      "summary": "IT之家 5 月 23 日消息，今日上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开。中国载人航天工程新闻发言人张静波在发布会上介绍，为充分利用载人航天工程和嫦娥工程数十年积累的技术能力与实践经验，我国已对现有载人登月和无人探月领域从任务、资源、队伍三个维度进行深度统合，整合后统一称为“月球探测工程”。这一举措旨在发挥新型举国体制优势，提升中国月球探测的综合效益。在关键技术验证方面，发言人回顾了年初取得的重要阶段性突破。前期，长征十号运载火箭和梦舟载人飞船在完成系留点火试验和零高度逃逸飞行试验后，相关产品已进行了可重复使用适应性改造。在此基础上，今年年初，成功实施了长征十号运载火",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/258.htm"
+    },
+    {
+      "id": "36903df8-2d23-817c-936d-f2dc958e8a9f",
+      "title": "中国 2030 年实现航天员登月，空间站将提供人才储备、技术验证与一体化研制支撑",
+      "summary": "IT之家 5 月 23 日消息，今天上午，空间站应用与发展阶段飞行任务总指挥部在酒泉卫星发射中心召开神舟二十三号载人飞行任务新闻发布会。中国载人航天工程新闻发言人、工程办公室综合计划局局长张静波介绍了我国空间站对于 2030 年前实现载人登月目标的三方面重要支撑作用。发言人表示，空间站作为国家级太空实验室，将从人才储备、关键技术验证和新一代天地往返运输系统一体化研制三个维度发力，为载人登月提供支撑。在人才储备方面，空间站任务已培养出一支执行过空间飞行任务、拥有丰富太空飞行经验的航天员队伍，为后续载人登月任务的航天员乘组选拔奠定了基础。中国载人航天工程航天员系统总设计师黄伟芬此前曾介绍，目前航天",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/257.htm"
+    },
+    {
+      "id": "36903df8-2d23-8132-873e-d182c35c0ace",
+      "title": "送 1:64 合金车模：小米汽车试驾送车模活动回归",
+      "summary": "IT之家 5 月 23 日消息，小米汽车今天宣布试驾送车模活动回归，即日起至 5 月 31 日预约到店试驾任意车型，完成试驾后，可领取一个 1:64 合金车模（款式颜色随机）。本次试驾活动需要提前预约，试驾车型不限。单店活动周期内车模数量在 24 个至 660 个区间，具体数量以门店实际为准，数量有限先到先得。试驾者需年满 18 岁且持有合法机动车驾驶证、驾龄 1 年以上，满足小米汽车门店试驾相关要求。据IT之家此前报道，YU7 GT 展车正陆续进店，但目前仅为静态展示。内饰体验和试乘试驾服务需等到 5 月底新车正式上市后才会开放。",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/256.htm"
+    },
+    {
+      "id": "36903df8-2d23-81ee-8883-ca9c67473588",
+      "title": "巴基斯坦航天员已入列中国训练中心，将执行短期飞行任务",
+      "summary": "IT之家 5 月 23 日消息，今日上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心举行。新闻发言人提到，两名巴基斯坦航天员在中国航天员科研训练中心的训练情况，包括整体训练进度、核心训练科目的内容，以及日常训练与在轨协作中对中文能力的要求。今年 4 月 24 日，在第十一个“中国航天日”当天，两名巴基斯坦航天员正式进入中国航天员科研训练中心，与中国航天员一同参加任务训练。此次来华训练的两名巴基斯坦航天员分别是穆罕默德 · 齐尚 · 阿里和胡拉姆 · 达乌德。IT之家注意到，出发赴华前一日，他们在伊斯兰堡接受了巴基斯坦总理夏巴兹的接见，夏巴兹对两人表示赞赏，认为他们“将在巴基斯坦历史上",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/255.htm"
+    },
+    {
+      "id": "36903df8-2d23-81dc-b0d5-edff4120aa0c",
+      "title": "用户反馈三星 One UI 8.5 移除视频滤镜功能",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 Android Authority 昨日（5 月 22 日）发布博文，报道称在 One UI 8.5 更新中，三星移除了视频模式下的滤镜功能，影响从旗舰到中端的多款 Galaxy 机型。根据用户反馈，在升级 One UI 8.5 系统更新之后，无法使用视频模式的滤镜功能。用户此前切换到“视频”模式之后，点击右上角的“魔法棒”图标即可开启滤镜效果，系统自带清新、冷色、复古、黑白等。该功能原本仅在拍摄全高清（1080p）视频时可用，不支持 4K 录制，但更新后即使在 1080p 30FPS 和 60FPS 模式下也彻底消失。不过在拍照模式下，仍保留滤镜选项",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/254.htm"
+    },
+    {
+      "id": "36903df8-2d23-81ce-a8a1-e252ea06aeae",
+      "title": "去年中国载人航天工程实施首次应急发射任务，为国际航天领域高效应对突发事件提供成功范例",
+      "summary": "IT之家 5 月 23 日消息，今天上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开。中国载人航天工程新闻发言人张静波在会上通报了任务相关信息，并首次系统回顾了 2025 年底中国载人航天工程实施的首次应急发射任务全过程。据介绍，此次应急任务的背景是神舟二十号载人飞船在轨停靠期间，航天员检查发现返回舱舷窗出现疑似因空间微小碎片撞击导致的裂纹。经地面专家对受损状况进行仿真分析和烧蚀试验评估后，认为在玻璃受损状态下保证航天员安全返回地球存在较大风险。任务总指挥部随即作出决策：神舟二十号飞船不再用于原乘组返回，航天员换乘神舟二十一号飞船返回地面，同时启动应急预案，调动备份飞船实施应急发",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/253.htm"
+    },
+    {
+      "id": "36903df8-2d23-81d7-8d9b-e0d63fd027e3",
+      "title": "Take-Two CEO 泽尔尼克确认《GTA6》将有实体版",
+      "summary": "IT之家 5 月 23 日消息，R 星母公司 Take-Two CEO 施特劳斯 · 泽尔尼克昨天接受 CNBC 采访，强调《GTA6》发售时仍将拥有实体版。泽尔尼克表示，虽然当今游戏的绝大多数收入来自数字版，但《GTA6》发售时仍将包含重要的实体销售部分。目前外界普遍预测本作将推出 PS5、Xbox Series X 实体盒装版本，而铁杆粉丝则更关注限定版。过往准确率不太理想的爆料者 DetectiveSeeds 曾预测，《GTA6》将拥有 6 种版本供玩家选择，包括普通数字版、普通实体版、收藏版、特别版、主机捆绑套装等。参考《荒野大镖客：救赎 2》和《GTA5》的发售策略，未来《GTA6》",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/252.htm"
+    },
+    {
+      "id": "36903df8-2d23-81b1-8f13-c3c68ed73c9e",
+      "title": "鸿蒙智行问界 M9 系列新品发布会提至 5 月 27 日 14:30，会后即刻开启大定",
+      "summary": "IT之家 5 月 23 日消息，问界官方今日宣布，鸿蒙智行问界 M9 系列新品发布会从 5 月 27 日 19:00 提前至 14:30 举行，发布会后即刻开启大定。据IT之家此前报道，鸿蒙智行已在 5 月 16 日宣布，全新一代问界 M9 系列累计预订量突破 5 万台。新车在 4 月 22 日开启预售，提供标准尺寸及 Ultimate 领世加长版两款车型，预售价分别为 49.98 万元起、66.98 万元起。",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/250.htm"
+    },
+    {
+      "id": "36903df8-2d23-81b4-a24d-c45aff3e2892",
+      "title": "消息称 Snap AR 眼镜 Specs 今秋上市：目标定价 2500 美元，限量 10 万台",
+      "summary": "IT之家 5 月 23 日消息，科技记者 Alex Heath 昨日（5 月 22 日）发布博文，报道称 Snap 计划 2026 年秋季推出 AR 眼镜 Specs，目标定价 2500 美元（IT之家注：现汇率约合 17020 元人民币），限量约 10 万台。与仅作抬头显示的智能眼镜不同，Specs 无需外接计算单元，可将虚拟对象直接叠加到真实环境上，虚拟菜单无缝融入周围环境。此外用户无需背负线缆或电池包，完全独立的设计将所有处理能力压缩进轻量化镜框内。售价方面，2500 美元虽高于普通消费电子产品，但仍低于苹果 Vision Pro 的 3500 美元。相比之下，三星 Galaxy XR ",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/249.htm"
+    },
+    {
+      "id": "36903df8-2d23-816e-8d49-c94164655c51",
+      "title": "203 天：神二十一乘组有望刷新中国航天员乘组在轨驻留最长纪录",
+      "summary": "IT之家 5 月 23 日消息，今天（5 月 23 日）上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开，发言人详细介绍了神舟二十一号航天员乘组在轨驻留期间的工作进展与阶段成果。截至今日，神舟二十一号乘组已在轨驻留 203 天，有望刷新中国航天员乘组在轨驻留的最长纪录。目前三名航天员状态良好，各项工作推进顺利。参考IT之家此前报道，在轨期间，神二十一乘组共执行了三次出舱活动，主要任务包括神舟二十号飞船返回舱舷窗的巡检与拍照、空间碎片防护装置的安装，以及舱外设施设备的巡检等。乘组指令长张陆在此次任务期间累计完成 7 次出舱活动，成为我国目前舱外作业次数最多的航天员。首次执行飞行任务",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/248.htm"
+    },
+    {
+      "id": "36903df8-2d23-8199-a3fd-e856425b1507",
+      "title": "机械硬盘组件供应商在美国遭集体诉讼：跨度 13 年，被指操纵推高终端售价",
+      "summary": "IT之家 5 月 23 日消息，美国加州北区联邦地区法院昨日（5 月 22 日）发布公告，宣布受理一起硬盘行业反垄断集体诉讼，涉及 2003 年 1 月 1 日至 2016 年 12 月 31 日期间购买硬盘悬架组件产品的终端用户。IT之家注：硬盘悬臂组件（HSA）是机械硬盘（HDD）中最核心的高精密制造部件之一，用于将磁头精确悬浮并定位在高速旋转的盘片上方。诉讼认为，涨价压力不仅影响经销渠道，也最终传导至终端消费者，因此购买相关硬盘或包含硬盘的电脑用户，都可能属于索赔范围。本次集体诉讼案主要针对 TDK 相关被告与 NHK 相关被告，原告称其合谋固定硬盘悬架组件价格，诉讼覆盖全球 97% 的",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/247.htm"
+    },
+    {
+      "id": "36903df8-2d23-8186-ab63-c2da676b2ac9",
+      "title": "神舟二十三号瞄准北京时间明日 23:08 发射：朱杨柱任指令长，张志远及香港航天员黎家盈即将首飞",
+      "summary": "IT之家 5 月 23 日消息，今天上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开。经研究决定，瞄准北京时间 5 月 24 日 23 时 08 分发射神舟二十三号载人飞船。经空间站应用与发展阶段飞行任务总指挥部研究决定，神舟二十三号航天员乘组由航天飞行工程师朱杨柱、航天驾驶员张志远、载荷专家黎家盈 3 名航天员组成，朱杨柱任指令长。IT之家注意到，这是我国首个由第三批和第四批航天员构成的乘组，其中张志远和黎家盈分别来自于我国第三批、第四批航天员，是首次执行飞行任务。朱杨柱是我国首位担任指令长的航天飞行工程师，也是我国首位担任指令长的第三批航天员，此前曾执行神舟十六号载人飞行任务",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/246.htm"
+    },
+    {
+      "id": "36903df8-2d23-81e4-ac90-c5ce677aab71",
+      "title": "Tech Now",
+      "summary": "Shiona McCallum meets a medical expert testing out the future of prosthetics.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-23",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "36903df8-2d23-81ff-9c21-e74c036329f4",
+      "title": "小米 REDMI Note 17 系列手机现身，海外型号有望提档发布",
+      "summary": "IT之家 5 月 23 日消息，据外媒 XIMITIME 昨天报道，小米 REDMI Note 17 系列手机已现身 GSMA 数据库，定位入门级。据 GSMA 数据库信息，小米 REDMI Note 17 系列一共有 26012RN62L、26012RN62Y 和 26012RN62A 三个型号，面向全球市场和拉丁美洲市场推出，但中国版和印度版机型暂时还没有出现。虽然小米官方还没有正式确认发布日期，但通过 GSMA 认证一般代表产品离正式亮相不远。值得注意的是，小米通常会在每年周期靠后的时间点发布 REDMI Note 系列新品。作为参考，上代机型 REDMI Note 15 系列发布于 1",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/245.htm"
+    },
+    {
+      "id": "36903df8-2d23-81b6-808f-d86e1d2719c6",
+      "title": "5.68 万元起五菱缤果 Pro 纯电小车正式上市，续航 330/403km",
+      "summary": "IT之家 5 月 23 日消息，五菱汽车昨晚在山东威海举行发布会，正式推出缤果家族全新成员 —— 缤果 Pro。新车此次共推出四款配置，上市指导价为 5.68 万至 7.08 万元，分别是 330km 尊享款（5.68 万元）、330km 旗舰款（6.38 万元）、403km 尊享款（6.48 万元）以及 403km 旗舰款（7.08 万元）。上市权益方面，五菱推出了“孟子义宠粉五重礼”购车政策，下订用户可享至高价值 10000 元的购车礼遇，具体包括全系限时赠送价值 2500 元的电动尾门和前备厢、限时赠送价值 3000 元的 3M 太阳膜、支付 588 元可享至高 1799 元充电服务包、",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/244.htm"
+    },
+    {
+      "id": "36903df8-2d23-8191-8d9e-dd44e6a372d1",
+      "title": "用户报告 Steam Controller 手柄充电底座存在安全隐患，差点起火",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 Ars Technica 今天（5 月 23 日）发布博文，报道称 Valve 新款 Steam Controller 磁性充电底座裸露金属触点，接触金属物品可能短路起火。Reddit 用户 Toikka 发帖称，金属表带碰到充电底座后“滋滋作响，差点起火”，仅造成外观损伤。Valve 已联系该用户，将寄送替换底座，并回收受影响设备，评估是否能复现问题。IT之家附上相关截图如下：Toikka 描述称，手表表带从附近充电器滑落，以“恰好错误的角度”碰到充电底座的金属部分，导致短路。所幸这位用户及时处理，设备与周围物品仅出现外观损伤。Valve 在随附手册",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/243.htm"
+    },
+    {
+      "id": "36903df8-2d23-816f-9881-e9360444c3cb",
+      "title": "联想 IdeaPad Slim 5i 15IWC11 笔记本发布：至高酷睿 7 350 处理器、32GB 内存，1.49kg 重",
+      "summary": "IT之家 5 月 23 日消息，联想现已推出 IdeaPad Slim 5i 15IWC11 笔记本电脑，新品搭载英特尔 Wildcat Lake 平台，提供 15 英寸 120Hz 屏幕和 70Wh 大电池。据介绍，这款笔记本采用 15.3 英寸 IPS 面板，拥有 1920*1200 分辨率，峰值亮度 400 尼特，刷新率可达 120Hz，对比度 1200:1。可选英特尔酷睿 5 320 或酷睿 7 350 处理器，最高支持 32GB LPDDR5X-7467 内存。规格方面，这款笔记本采用喷砂铝合金材质打造，C 面配备一块 80*135mm 大尺寸触控板，电池容量可选 54.7Wh 或 ",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/242.htm"
+    },
+    {
+      "id": "36903df8-2d23-81cb-8818-efd2d76bd2d8",
+      "title": "苹果 iPhone 17/Pro 领跑 Q1 手机畅销榜，Top10 合计贡献全球 25% 出货量创历年新高",
+      "summary": "IT之家 5 月 23 日消息，市场研究机构 Counterpoint Research 于当地时间 5 月 22 日最新发布的《全球手机型号销售追踪》报告显示，2026 年第一季度全球前十款畅销智能手机合计贡献了全球 25% 的出货量，创下历年第一季度最高集中度。报告指出，这一趋势主要反映 iPhone 17 系列的稳定需求，同时持续的存储短缺推高了元器件成本，对安卓厂商在大众市场的表现形成压力。从具体排名来看，iPhone 17 以 6% 的全球出货量占比位居榜首，iPhone 17 Pro Max 和 iPhone 17 Pro 分列第二和第三名。Counterpoint Researc",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/241.htm"
+    },
+    {
+      "id": "36903df8-2d23-8157-b0b1-c253414395e2",
+      "title": "个性化你的桌面，谷歌 Pixel Launcher 整合迪斯科风主题图标",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 Android Authority 昨日（5 月 22 日）发布博文，报道称伴随着“迪斯科风”主题图标在社交平台走红，谷歌将其做成 Pixel Launcher 的官方自定义样式，Pixel 用户现在可以直接套用。Pixel 手机迪斯科风图标主屏IT之家援引博文介绍，这套闪亮风格图标先在社交平台走红，在被安卓负责人 Sameer Samat 转发后病毒性传播。Android 迪斯科风图标展示图该主题图标由 Pixly 的 Race Johnson 在上周后段开始制作，内容是把常见应用图标改成迪斯科球质感的闪烁风格。迪斯科风应用图标桌面效果Pixel L",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/240.htm"
+    },
+    {
+      "id": "36903df8-2d23-81ed-98ec-f09d2f1b4803",
+      "title": "《极限竞速：地平线 6》游戏将调整 AI 对手平衡性，优化 AMD 显卡帧率表现",
+      "summary": "IT之家 5 月 23 日消息，Playground Games 昨日（5 月 22 日）发布公告，宣布将根据玩家反馈，调整《极限竞速：地平线 6》 游戏中 AI 驾驶对手（Drivatar）平衡性，并针对 AMD 显卡优化帧率表现等。IT之家援引博文介绍，在本次公告中，最值得关注的改进，在于官方承认 AI 驾驶对手存在不公平行为，有时 AI 对手速度过快，尤其是在高难度模式下，玩家难以与之匹敌，目前已着手调查和审查数据。官方还表示将针对 AMD 显卡设备，优化游戏性能，并将修复 PC 音频爆音，以及 PC 版崩溃和无效加载错误。",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/238.htm"
+    },
+    {
+      "id": "36903df8-2d23-81f3-a84d-f04052277317",
+      "title": "开源转换器让 Steam 手柄摆脱“仅限 Steam”使用限制，兼容任天堂 Switch、Xbox 及安卓设备",
+      "summary": "IT之家 5 月 23 日消息，HID Remapper 是一个开源的可编程 USB 输入设备适配器项目，可将手柄输入信号转换为兼容主机的信号。根据 5 月 20 日发布的最新公告，该项目现已完整支持 Valve Steam 手柄。这意味着 Steam 手柄最受诟病的问题 —— 它只能在 Steam 后台运行的情况下用于 Steam 游戏 —— 得到了彻底解决。项目开发者 Jack Fedoryński 表示：“所有输入均可使用，包括触控板、触摸传感器以及加速度计 / 陀螺仪。”除了能够在 Windows 和 Linux 平台上脱离 Steam 后台运行外，这款手柄现在还可兼容 Nintend",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/237.htm"
+    },
+    {
+      "id": "36903df8-2d23-8159-83a4-e18a90727e6f",
+      "title": "苹果 A3577 认证曝光，预估为 Beats 蓝牙头戴式耳机",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 MacRumors 今天（5 月 23 日）发布博文，挖掘美国联邦通信委员会（FCC）公示的文件，发现型号为 A3577 的新苹果设备，产品描述为“Bluetooth 头戴式耳机”。目前公示的文件信息较为有限，只有基础申报信息，并未涉及规格、外观或功能说明，目前尚不清楚对应哪个系列。IT之家附上相关截图如下：Apple A3577 的 FCC 文件截图Apple A3577 头戴耳机示意图在其中一张图中，能看到一个较为普通的耳罩轮廓，但没有更明确的设计特征，无法据此判断它属于 AirPods、Beats，还是苹果准备推出的新系列。Apple A3577",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/236.htm"
+    },
+    {
+      "id": "36903df8-2d23-81ec-9625-ec4d62ef5a17",
+      "title": "AI 替代入门级工作：科技行业受裁员冲击最重，74% CEO 冻结或缩减招聘",
+      "summary": "IT之家 5 月 23 日消息，奥纬咨询（Oliver Wyman）最新的研究显示，随着企业高管越来越多地将 AI 工具用于入门级任务，年轻人以及即将进入劳动力市场的人群可能很快会发现找工作变得更加困难。这项全球 CEO 研究发现，即便大多数企业计划维持现有员工数量甚至进行裁员，雇主仍将把招聘重点放在更高级的岗位上。与此同时，AI 助手、AI 智能体及 AI 聊天机器人将被用于完成那些基础的入门级工作 —— 而这些工作此前往往是新员工的锻炼机会。该研究对科技行业尤为不利。报告指出，科技行业是全球裁员冲击最严重的领域。近四分之三（74%）的 CEO 表示正在冻结或缩减招聘，高于前一年的 67%。",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/235.htm"
+    },
+    {
+      "id": "36803df8-2d23-81c2-acec-f358374b9e31",
+      "title": "Mozilla 解释火狐 Firefox 浏览器在英特尔第 13 / 第 14 代处理器系统上崩溃原因",
+      "summary": "IT之家 5 月 23 日消息，Mozilla 昨日发布火狐 Firefox 浏览器 151.01 稳定版更新，重点修复困扰英特尔 Raptor Lake（英特尔第 13 代和第 14 代酷睿处理器代号）用户的崩溃问题。Mozilla 工程师在深入调查约 1 年后，溯源定位崩溃源于 zlib-rs 压缩例程中的索引越界错误，但深层原因指向英特尔 Raptor Lake 处理器的硬件缺陷。IT之家援引博文介绍，本次缺陷涉及 RPL050 和 RPL060，前者导致一个 CPU 核心无法观察到另一核心写入的最新数据，后者则在跨越缓存行的拆分加载操作中返回错误数据。英特尔通过发布 0x12c 微码，",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/234.htm"
+    },
+    {
+      "id": "36803df8-2d23-8177-b9f7-d507e4a96805",
+      "title": "微软承认 Teams 会议界面拥挤，将推新 UI 遏制误触",
+      "summary": "IT之家 5 月 23 日消息，微软昨日（5 月 22 日）在管理员中心发布公告，承认 Microsoft Teams 会议界面过于拥挤，导致用户频繁误点共享屏幕、离开会议等高风险操作。微软管理员中心 Teams 更新公告IT之家援引博文介绍，微软在公告中指出，Teams 应用近年来版本更迭后，在功能方面更加丰富，但由于界面设计过于紧凑，导致误触率攀高，出现意外分享等非预期内容。针对现有 Teams 应用界面的拥挤设计，微软表示将重新设计分享面板，并简化了现有的会议控制功能，官方表示：“这些调整后让用户更容易找到核心操作，减少意外点击，并增强用户在分享内容时的信心。”新版界面居中对齐麦克风、摄",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/233.htm"
+    },
+    {
+      "id": "36803df8-2d23-81c9-8884-c2b65eebec06",
+      "title": "神舟二十三号载人飞行任务新闻发布会今日召开，有望公布首位香港航天员、首位一年期航天员、第四批首飞航天员",
+      "summary": "IT之家 5 月 23 日消息，据中国载人航天工程办公室介绍，空间站应用与发展阶段飞行任务总指挥部定于北京时间 5 月 23 日上午 9 时，在酒泉卫星发射中心召开神舟二十三号载人飞行任务新闻发布会，通报此次任务有关情况。“神舟二十三号”是载人空间站工程第 11 次载人飞行任务，任务乘组计划接替“神舟二十一号”乘组开展空间站驻留工作。“神舟二十三号”乘组依然延续了老带新的组合，但不同的是 —— 其中 1 名航天员将执行为期 1 年的太空驻留，探索更长时间太空驻留的挑战及应对，为深空载人飞行进行探索和验证。“神舟二十三号”乘组由第二批或第三批已飞航天员担任指令长，由第三批已飞航天员担任 02 号",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/232.htm"
+    },
+    {
+      "id": "36803df8-2d23-81d4-a485-f66b733e48e7",
+      "title": "外钛内铝：三星被曝正研发新型“双相”框架以提升折叠屏手机耐用与散热性能，应对苹果液态金属创新",
+      "summary": "IT之家 5 月 23 日消息，爆料人 Schrödinger 在 Telegram 上发布消息称，自去年以来，三星一直在尝试融合钛与铝两种金属的优异性能，尝试打造出一种兼具坚固性与散热性的新型“双相”机身框架。该框架将用于三星未来的折叠屏手机产品线，其外部为坚固耐剐蹭的钛合金，内部则采用航空级铝材作为核心材料。其中，高导热性的铝制内芯充当“巨型散热片”的角色，可将热量快速从主板导出。Schrödinger 认为，三星的这款混合“双相”框架毫无疑问是对苹果在液态金属相关创新上的一种回应。该技术预计将首发于“未来的 Fold、三折叠以及超薄高端旗舰机型”上，尤其是考虑到通过纳米注塑 / 纳米成型",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/230.htm"
+    },
+    {
+      "id": "36803df8-2d23-8140-a74a-c0432d675fd3",
+      "title": "IT早报 0523：腾讯音乐官宣放弃音频版权独家授权；中国汽车史首家，上汽集团将迎全球第一亿位用户；DeepSeek 官宣永久降价；微信解释消息撤回时限 2 分钟...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 23 日星期六，今天的重要科技资讯有：1、腾讯音乐回应收购喜马拉雅：将放弃与相关版权方对于在线音频内容版权独家合同中有关独家授权的权利国家市场监督管理总局于 2026 年 5 月 11 日发布《关于附加限制性条件批准腾讯控股有限公司收购喜马拉雅公司股权案反垄断审查决定的公告》。>> 查看详情2、中国汽车史上首家：上汽集团宣布月底迎来全球第一亿位用户交付上汽集团 5 月 22 日官宣，本月底，上汽集团将迎来全球第一亿位用户的交付，成为中国汽车史上首家累计产销量突破一亿辆的汽车集团。>> 查看详情3、DeepSeek-V4-Pro API 宣",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/231.htm"
+    },
+    {
+      "id": "36803df8-2d23-814a-a940-f0231def4dd5",
+      "title": "谷歌上诉反垄断裁决，辩称其搜索成功全靠产品创新而非排他协议",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 MacRumors 昨日（5 月 22 日）报道，谷歌就 2024 年反垄断裁决，正式提起上诉，坚称其搜索服务之所以成功，并非依赖排他协议，全靠产品创新。IT之家援引博文介绍，这家搜索巨头上周向哥伦比亚特区联邦巡回上诉法院提交文件，质疑地方法院关于其通过排他协议垄断市场的结论，坚称自身成功完全建立在产品实力之上。谷歌在申诉文件中强调，公司在搜索领域超越竞争对手靠的是持续创新、大量投入和“更努力的工作”。文件指出，苹果选择谷歌作为默认搜索引擎是经过商业考量的自主选择，而非被迫接受。谷歌认为，即便自身确实具备市场支配地位，也从未损害竞争本身，竞争对手始终有",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/229.htm"
+    },
+    {
+      "id": "36803df8-2d23-81a5-8509-fcf63bd3e2be",
+      "title": "谷歌智能搜索出现 Bug：AI 搜索未正确处理“忽略”等词汇",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 MacRumors 昨日（5 月 22 日）发布博文，报道称在 2026 年 I/O 开发者大会之后，谷歌搜索的 AI Overview 出现逻辑故障，无法正确处理 disregard（忽略）单词。在 2026 年 I/O 开发者大会上，谷歌发布基于 Gemini 打造的“智能搜索框”，希望能重塑用户的搜索体验。不过根据用户反馈，搜索 \"disregard\"（忽略）一词后，AI 并未返回定义或相关网页，而是将其识别为系统指令，直接回复“收到，消息已忽略”。IT之家附上相关截图如下：这一 Bug 导致 AI Overview（AI 概览）区域出现大片空白",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/228.htm"
+    },
+    {
+      "id": "36803df8-2d23-81f2-8c7f-c7bde76156fb",
+      "title": "地表最强推力：马斯克 SpaceX 星舰 V3 首飞成功，顺利完成模拟载荷投放测试及溅落",
+      "summary": "IT之家 5 月 23 日消息，美东时间 22 日 18 时 30 分（北京时间 23 日 6 时 30 分）左右，SpaceX 新一代重型运载火箭星舰从得克萨斯州发射升空，实施第 12 次试飞。 SpaceX 此次试飞启用新一代星舰 V3 飞船（S39）和新一代 19 号超级重型助推器（B19）。两者都属于第一批次的 Block 3 架构原型机。在此次试飞任务中，“超重型助推器”（一级）似乎在墨西哥湾上空失控下坠，未能完成预定溅落回收流程，后续 SpaceX 将通过遥测数据分析异常原因。另外，星舰（二级）六台引擎中有一台提前失效，SpaceX 被迫延长了点火时间导致推进剂没有冗余，再入测试存",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/227.htm"
+    },
+    {
+      "id": "36803df8-2d23-81f3-a427-d97053531e31",
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-23",
+      "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/"
+    },
+    {
+      "id": "36803df8-2d23-8195-8294-f30e968d4ea9",
+      "title": "苹果发布底层加密库，推进 iPhone / Mac 后量子安全",
+      "summary": "IT之家 5 月 23 日消息，科技媒体 9to5Mac 昨日（5 月 22 日）发布博文，报道称苹果公司在 GitHub 公布 corecrypto 代码仓库，并配套发布技术长文，集中说明其后量子密码学工作如何落地到 iPhone、Mac 等产品。本次更新延续苹果公司在 2024 年公开推进的后量子密码学路线。在 iOS 17.4 系统中，苹果为应对未来量子计算机可能带来的破解风险，在 iMessage 上线 PQ3 协议，开始在会话建立和后续密钥刷新阶段加入后量子保护。Apple 后量子密码方案示意图在本次更新中，苹果在 GitHub 上发布 corecrypto 代码仓库，该项目是个底层",
+      "source": "IT之家",
+      "publishTime": "2026-05-23",
+      "link": "https://www.ithome.com/0/954/226.htm"
+    },
     {
       "id": "36803df8-2d23-812c-aeaf-c533c9b7fc78",
       "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
@@ -64,342 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-05-23",
       "link": "https://www.businessinsider.com/meta-ai-task-force-workers-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-8170-9503-f00b8d403e7d",
-      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
-      "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-23",
-      "link": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/"
-    },
-    {
-      "id": "36803df8-2d23-819f-8ccd-fec4bc9c4058",
-      "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
-      "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
-      "source": "BBC Tech",
-      "publishTime": "2026-05-23",
-      "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "36803df8-2d23-81d7-a971-f6acb0d143c1",
-      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-      "summary": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-23",
-      "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/"
-    },
-    {
-      "id": "36803df8-2d23-81d1-ad60-fda9465af723",
-      "title": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
-      "summary": "Qualcomm is on a big run, powered by investor bullishness that the company will be at the center of a boom in AI devices.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-23",
-      "link": "https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html"
-    },
-    {
-      "id": "36803df8-2d23-81e1-87ea-cf3abda68933",
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-23",
-      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/"
-    },
-    {
-      "id": "36803df8-2d23-81ef-a4b8-e1c922964018",
-      "title": "Reddit stock drops almost 6% after Meta launches standalone app for online forums",
-      "summary": "Reddit shares fell after Meta released a standalone app for Facebook Groups called Forum.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-23",
-      "link": "https://www.cnbc.com/2026/05/22/reddit-stock-drops-after-meta-launches-forum-app.html"
-    },
-    {
-      "id": "36803df8-2d23-81f7-9e1a-ca71e8139fad",
-      "title": "All the 'Star Wars' movies, ranked from worst to best",
-      "summary": "It's time to take on that age-old question: How do you rank all the feature-length \"Star Wars\" movies? See where \"The Mandalorian and Grogu\" lands.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-23",
-      "link": "https://www.businessinsider.com/every-star-wars-movie-ranked-worst-to-best"
-    },
-    {
-      "id": "36803df8-2d23-8154-9542-fdfcfb374e74",
-      "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
-      "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
-      "source": "Wired",
-      "publishTime": "2026-05-23",
-      "link": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/"
-    },
-    {
-      "id": "36803df8-2d23-81a3-9ce8-f7da3f8a6fca",
-      "title": "Shein acquiring Everlane feels like the end of the millennial sustainable fashion dream",
-      "summary": "Shoppers react to Shein's acquisition of millennial darling brand Everlane, known for its sustainable practices.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-23",
-      "link": "https://www.businessinsider.com/shein-acquires-everlane-millennial-sustainability-dream-dead-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-814f-af26-e22a2861103d",
-      "title": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
-      "summary": "With Memorial day weekend kicking off the travel season, we’re seeing a lot of deals pop up on travel gadgets, from portable power banks to noise-canceling headphones. One of the best right now is Twelve South’s AirFly Pro 2 Bluetooth adapter, which lets you use your wireless headphones with in-flig",
-      "source": "The Verge",
-      "publishTime": "2026-05-23",
-      "link": "https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale"
-    },
-    {
-      "id": "36803df8-2d23-81cf-bc7f-f73f1e4bed59",
-      "title": "I tried Taco Bell's new Mexican Pizza. It's even better than the original.",
-      "summary": "Taco Bell released the Cantina Chicken Mexican Pizza this week, fusing two of its most popular menu items. I liked it even more than the original.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-23",
-      "link": "https://www.businessinsider.com/taco-bell-cantina-chicken-mexican-pizza-review-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-817c-9bf5-e574ae3cc521",
-      "title": "A professor who helped write UC Berkeley's strict new AI policy says it's about preserving 'the value add of a lawyer'",
-      "summary": "UC Berkeley Law School professor Chris Hoofnagle told Business Insider said the new policy was designed with first-year students in mind.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-23",
-      "link": "https://www.businessinsider.com/uc-berkeley-ai-policy-stricter-usage-restrictions-value-add-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-81a2-a769-d28b919f212b",
-      "title": "Shein Buying Everlane Actually Makes Perfect Sense",
-      "summary": "The acquisition struck many people as a bizarre mismatch, but it's really a sign of where Chinese ecommerce giants are already going.",
-      "source": "Wired",
-      "publishTime": "2026-05-23",
-      "link": "https://www.wired.com/story/made-in-china-why-shein-bought-everlane/"
-    },
-    {
-      "id": "36803df8-2d23-81da-b3fa-e50a2a61c70e",
-      "title": "Memorial Day 2026 Grill and Griddle Deals: Weber, Traeger, Recteq",
-      "summary": "Some of WIRED's favorite griddles, grills, and pellet smokers are as much as $250 off for Memorial Day weekend.",
-      "source": "Wired",
-      "publishTime": "2026-05-23",
-      "link": "https://www.wired.com/story/memorial-day-grill-griddle-deals-2026/"
-    },
-    {
-      "id": "36803df8-2d23-8196-bd99-ff77c9740867",
-      "title": "I'm a trained chef. Here are the 6 mistakes I see home cooks make that sabotage their meals.",
-      "summary": "These common kitchen mistakes, from using dull chef's knives to incorrectly seasoning your food, can ruin an otherwise perfectly prepared dish.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-23",
-      "link": "https://www.businessinsider.com/mistakes-home-cooks-make-cooking-from-professional-chef-advice-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-81ee-817a-cfda76805d87",
-      "title": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
-      "summary": "Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. Rather than going to ChatGPT or tacking \"Reddit\" onto the end of a Google search, Forum […]",
-      "source": "The Verge",
-      "publishTime": "2026-05-23",
-      "link": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on"
-    },
-    {
-      "id": "36803df8-2d23-816c-aac3-c17281094f3e",
-      "title": "Read the AI executive order Trump didn't sign",
-      "summary": "A draft of Trump's unsigned executive order, obtained by POLITICO, emphasizes that government AI reviews would be voluntary.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-23",
-      "link": "https://www.businessinsider.com/trump-ai-oversight-executive-order-draft-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-811f-880b-d9d6835a361a",
-      "title": "Elon, stop trying to make Grok happen",
-      "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI'",
-      "source": "The Verge",
-      "publishTime": "2026-05-23",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen"
-    },
-    {
-      "id": "36803df8-2d23-815d-a591-d967cf9e639c",
-      "title": "微软发布 Win11 Experimental / Beta 最新预览版，新增屏幕色调等功能",
-      "summary": "IT之家 5 月 23 日消息，微软昨天（5 月 22 日）发布博文，邀请 Windows Insider 项目成员测试适用于 Windows 11 的多个通道预览版更新，本次发布版本如下：- Beta 通道：Build 26220.8491- Experimental 通道：Build 26300.8497- Experimental 通道（26H1）：Build 28020.2149- Experimental 通道（未来平台，包含 Canary 29500 系列）：Build 29595.1000IT之家附 Win11 改进进展如下：1、新增辅助功能屏幕色调：微软在 Experiment",
-      "source": "IT之家",
-      "publishTime": "2026-05-23",
-      "link": "https://www.ithome.com/0/954/222.htm"
-    },
-    {
-      "id": "36803df8-2d23-81c6-ab0a-cb7d208331a9",
-      "title": "The best Memorial Day sales you can shop this weekend",
-      "summary": "Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals on everything […",
-      "source": "The Verge",
-      "publishTime": "2026-05-23",
-      "link": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026"
-    },
-    {
-      "id": "36803df8-2d23-81e2-8f8e-f2a56ed03be7",
-      "title": "Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date",
-      "summary": "They say that Memorial Day marks the unofficial start of summer. I have my doubts given the less-than-balmy weather in many parts of the US this weekend, though that doesn’t mean it’s not an appropriate time to pick up some summer essentials — including a portable speaker / smart lamp like Govee’s T",
-      "source": "The Verge",
-      "publishTime": "2026-05-23",
-      "link": "https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale"
-    },
-    {
-      "id": "36803df8-2d23-8138-a8af-d1e11810d2b9",
-      "title": "Google appeals search monopoly ruling, says it won business &#8216;fair and square’",
-      "summary": "Google officially filed its appeal of the federal ruling deeming it an illegal search monopolist, arguing the decision \"crashed\" through legal guardrails. \"Google just prevailed in the marketplace fair and square,\" it writes in its legal filing. Google had already said it would appeal the ruling, wh",
-      "source": "The Verge",
-      "publishTime": "2026-05-23",
-      "link": "https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal"
-    },
-    {
-      "id": "36803df8-2d23-81e4-b4c1-de96e2bc7255",
-      "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
-      "summary": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-23",
-      "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/"
-    },
-    {
-      "id": "36803df8-2d23-8183-821a-e6dd3ed91b40",
-      "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
-      "summary": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-23",
-      "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/"
-    },
-    {
-      "id": "36803df8-2d23-8152-abb5-ec357464383a",
-      "title": "How solo founders use AI to reduce the operational and mental load of inventory management",
-      "summary": "AI-driven dashboards help solo business owners like Jen Podany and Steffy Lee Simms to streamline their inventory management and improve sales.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-23",
-      "link": "https://www.businessinsider.com/generative-ai-inventory-management-small-business-sales-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-81e7-b907-da087c8c2b57",
-      "title": "Spotify’s AI bet: more of everything, less of what you want",
-      "summary": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-23",
-      "link": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/"
-    },
-    {
-      "id": "36803df8-2d23-81e2-a271-d09899395538",
-      "title": "Waymo suspends freeway driving amid safety concerns",
-      "summary": "On Thursday, Waymo customers opened up the app and noticed something unusual: no more freeway service. Trips that would normally take a few minutes on the freeway were suddenly projected to last much longer via local roads. The company later confirmed that it had suspended freeway driving across all",
-      "source": "The Verge",
-      "publishTime": "2026-05-23",
-      "link": "https://www.theverge.com/transportation/936129/waymo-freeway-suspend-atlanta-san-antonio-flood-pause"
-    },
-    {
-      "id": "36803df8-2d23-81eb-862d-e6dc6cb814eb",
-      "title": "You can no longer Google the word ‘disregard’",
-      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-23",
-      "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/"
-    },
-    {
-      "id": "36803df8-2d23-817c-9622-f3faccb85ef6",
-      "title": "Inside a 100-year-old 'Cinderella' castle home, on the market for $1.8 million",
-      "summary": "Villa Keen, built in 1929, is now on sale in Westchester County, New York. The 3,500-square-foot home contains extravagant touches throughout.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-23",
-      "link": "https://www.businessinsider.com/cinderella-castle-home-new-york-for-sale-photos-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-8178-8edd-e8e79cbb05fa",
-      "title": "After trying to buy TikTok, adtech giant AppLovin is launching its own social media challenger",
-      "summary": "AppLovin quitely released a new social app called Gist to attract creators. It looks eerily like TikTok's Lemon8 app.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-23",
-      "link": "https://www.businessinsider.com/applovin-adtech-creators-new-social-app-gist-tiktok-rednote-lemon8-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-81ca-b567-e6bc38839e7b",
-      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
-      "summary": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
-      "source": "BBC Tech",
-      "publishTime": "2026-05-23",
-      "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "36803df8-2d23-8165-a89c-cd4b722f74e5",
-      "title": "Anthropic is hiring a copywriter and paying up to $320K",
-      "summary": "Anthropic is hiring a copy lead for up to $320K to write across platforms and campaigns. The AI lab is also hiring a head of copy for up to $400K.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-23",
-      "link": "https://www.businessinsider.com/anthropic-job-copywriter-pays-up-to-320k-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-81a4-8563-d26646451b06",
-      "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
-      "summary": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI",
-      "source": "The Verge",
-      "publishTime": "2026-05-23",
-      "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard"
-    },
-    {
-      "id": "36803df8-2d23-8102-823a-fde900ba9a64",
-      "title": "2099 元，中兴 G5 Pro 高性能版 5G 移动路由器 CPE 将于 5 月 28 日开售",
-      "summary": "IT之家 5 月 22 日消息，中兴 G5 Pro 高性能版 5G 移动路由器 CPE 将于 5 月 28 日开售，支持 5G-A 超高速网络。这款新品已开启预售，价格为 2099 元。IT之家从商品页面获悉，这款 CPE 支持 Wi-Fi 7，理论峰值下载速度可达 4.29Gbps；内置中兴官方流量卡，最高支持千兆速率；这款 CPE 搭载双 2.5G 网口，支持插卡上网和有线宽带上网两种方式；支持 NFC 一碰联网。这款 CPE 搭载 4nm 四核处理器，主频 2.2GHz；提供 2 路 TS-9 外置天线接口，尺寸约为 107×107×230mm，重约 923g。京东中兴 G5 Pro 高",
-      "source": "IT之家",
-      "publishTime": "2026-05-22",
-      "link": "https://www.ithome.com/0/954/221.htm"
-    },
-    {
-      "id": "36803df8-2d23-819e-b21b-ec82b65c1512",
-      "title": "We tried Google’s AI glasses and they’re almost there",
-      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-22",
-      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/"
-    },
-    {
-      "id": "36803df8-2d23-8139-a19a-e9a64640732c",
-      "title": "I backpacked through Europe for the first time and learned the hard way that resting is more important than sightseeing",
-      "summary": "On a two-week backpacking trip through Europe, I had a sleepless night on a train that left me too exhausted to explore.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-22",
-      "link": "https://www.businessinsider.com/resting-during-backpacking-trip-europe-travel-mistake-to-avoid-2026-5"
-    },
-    {
-      "id": "36803df8-2d23-8111-a5b8-cd2145306fe2",
-      "title": "Routers vs. Modems: What You Need to Get Online",
-      "summary": "Your modem and router are the dynamic duo you need to get online, so long as you don't mistake one for the other.",
-      "source": "Wired",
-      "publishTime": "2026-05-22",
-      "link": "https://www.wired.com/story/router-vs-modem/"
-    },
-    {
-      "id": "36803df8-2d23-8118-b481-dfdf7c3be7fc",
-      "title": "How Kacey Musgraves' fashion has evolved over the years, from jeans to daring gowns",
-      "summary": "Kacey Musgraves entered the music scene in casual country attire. Now, her wardrobe features glamorous gowns and elevated basics.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-22",
-      "link": "https://www.businessinsider.com/kacey-musgraves-fashion-evolution-photos"
-    },
-    {
-      "id": "36803df8-2d23-8179-b877-c6d166c59d14",
-      "title": "鸿蒙智行全新一代问界 M9 系列旗舰 SUV 选配信息大公开，Ultimate 领世加长版大满配价格逼近百万",
-      "summary": "IT之家 5 月 22 日消息，华为官网再放“猛料”，公开了鸿蒙智行全新一代问界 M9 系列旗舰 SUV 选配信息。普通问界 M9 Max+ / Ultra 与问界 M9 Ultimate 独立开选，共计三款车型，并分五座、六座两种布局和增程、纯电两种动力（均为四驱）。▲ 图源：华为官网截图 | 问界 M9 Max+ / Ultra▲ 图源：华为官网截图 | 问界 M9 UltimateIT之家尝试配置了问界 M9 Ultimate 领世加长版车型，在大满配的情况下，该车当前预估价格近 90 万元（大满配当前价格约 87.98 万元），叠加 HUAWEI ADS 5 辅助驾驶系统、购置税、保险",
-      "source": "IT之家",
-      "publishTime": "2026-05-22",
-      "link": "https://www.ithome.com/0/954/220.htm"
-    },
-    {
-      "id": "36803df8-2d23-81ba-8bca-e24f3f34ec6f",
-      "title": "Even If You Hate AI, You Will Use Google AI Search",
-      "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-      "source": "Wired",
-      "publishTime": "2026-05-22",
-      "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/"
-    },
-    {
-      "id": "36803df8-2d23-81be-9b43-c41543c6f7c3",
-      "title": "高德上线北京市养老服务地图，整合全市 1500 余家养老机构、社区驿站等设施信息",
-      "summary": "IT之家 5 月 22 日消息，高德地图官方公众号宣布：北京市民政局联合高德开发制作的北京市养老服务地图正式上线。该地图整合了全市养老机构、社区养老服务驿站等 1500 余家养老服务设施信息，全面展示机构位置、服务内容、联系方式等信息，为老年人及家属提供便捷高效的查询指引和出行导航服务。IT之家从官方获悉，目前用户打开高德地图 App，搜索“北京养老服务地图”，即可一键查看周边养老机构的位置、联系方式、服务内容等详细信息。高德方面表示，养老服务是一项需要温度与精度的民生工程。后续将进一步补充上线更多养老服务设施，聚焦老年用户使用习惯优化地图功能，完善养老服务场景，适时更新优化北京市养老服务地图",
-      "source": "IT之家",
-      "publishTime": "2026-05-22",
-      "link": "https://www.ithome.com/0/954/219.htm"
-    },
-    {
-      "id": "36803df8-2d23-81e7-9310-f377b4c9868d",
-      "title": "LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card",
-      "summary": "Best Buy’s Memorial Day sale includes a good deal on a massive OLED TV. The 77-inch LG B5 is down to $1,499.99 (originally $2,999.99), and the purchase includes a $200 Best Buy gift card. I’m a 55-inch TV kind of person, but if you’ve got the budget — and the wall space — this is […]",
-      "source": "The Verge",
-      "publishTime": "2026-05-22",
-      "link": "https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale"
     }
   ],
   "macroEvents": [
