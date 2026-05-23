@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-05-24 06:25",
+  "updatedAt": "2026-05-24 07:29",
   "news": [
+    {
+      "id": "36903df8-2d23-8103-8973-c8db09e4b3cb",
+      "title": "Record Club is trying to be Letterboxd for music nerds",
+      "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with othe",
+      "source": "The Verge",
+      "publishTime": "2026-05-24",
+      "link": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds"
+    },
+    {
+      "id": "36903df8-2d23-81cd-8dbc-e291f5a2b266",
+      "title": "WWDC 2026 在即，苹果悄悄注册全新子域名 genai.apple.com",
+      "summary": "IT之家 5 月 24 日消息，2026 年苹果全球开发者大会（WWDC）将于北京时间 6 月 9 日凌晨 1 点举办，距离现在仅剩两周时间。MacRumors 发现，苹果公司正在持续扩展其 AI 相关布局，该公司已经为子域名 genai.apple.com 做好了技术准备，不过目前该地址并未指向任何一个实际可访问的页面。IT之家注意到，苹果官网此前已设立专门的“Apple Intelligence”页面，用于介绍旗下个性化 AI 功能。对于 genai.apple.com 这一全新子域名的具体规划，目前尚不明确。但从名称来看，该子域名很可能指向某种以生成式 AI（Gen AI）为核心的全新服",
+      "source": "IT之家",
+      "publishTime": "2026-05-24",
+      "link": "https://www.ithome.com/0/954/457.htm"
+    },
     {
       "id": "36903df8-2d23-81df-9a7e-c581659249d9",
       "title": "Fashion designer Jeremy Scott gets a huge cheer after ripping up his AI-written commencement speech",
@@ -384,22 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-05-23",
       "link": "https://www.businessinsider.com/laid-off-from-meta-inspired-career-pivot-2026-5"
-    },
-    {
-      "id": "36903df8-2d23-817f-a449-d0b775fa8c81",
-      "title": "闻泰科技声明：安世荷兰声称公司回避与其沟通完全与事实不符",
-      "summary": "IT之家 5 月 23 日消息，今日，闻泰科技发布声明驳斥安世半导体相关言论，指对方说法歪曲事实。声明提到，财报审计出具无法表示意见，根源是荷兰方面干预诉讼，剥夺闻泰股东控制权，且安世荷兰多次阻挠审计，拒不提供核心资料、关停系统、拒交财务材料，损害公司与投资者权益，闻泰保留追责索赔权利。此外，闻泰曾多次主动提议协商解决争端，并未回避沟通，后续仍会秉持公平合法原则处理纠纷，维护自身权益。安世中国区合规平稳运营，多条产品线逐步完成供应链闭环，产品品质达标，可稳定供货。IT之家附原文如下：闻泰科技股份有限公司声明近日，安世半导体发布公开声明，声称自安世半导体事件发生以来，其多次要求与闻泰科技股份有限",
-      "source": "IT之家",
-      "publishTime": "2026-05-23",
-      "link": "https://www.ithome.com/0/954/428.htm"
-    },
-    {
-      "id": "36903df8-2d23-810f-b67d-cbf4722ffc66",
-      "title": "DeepSeek API 完成输出提速与服务扩容，默认支持 500 并发同时在线",
-      "summary": "IT之家 5 月 23 日消息，DeepSeek 今日宣布 API 已完成输出提速与服务扩容。输出速度更快、服务更稳定，默认支持 500 并发同时在线。企业用户需要更大并发可在线申请。IT之家 DeepSeek 官方昨日刚刚宣布，DeepSeek-V4-Pro 模型 API 价格将于 2026 年 5 月 31 日结束 2.5 折优惠活动后，正式调整为原定价的 1/4。DeepSeek-V4-Pro 的 API 原价为：输入（缓存命中）：0.1 元 / 百万 Tokens（调整后 0.025 元）输入（缓存未命中）：12 元 / 百万 Tokens（调整后 3 元）输出：24 元 / 百万 T",
-      "source": "IT之家",
-      "publishTime": "2026-05-23",
-      "link": "https://www.ithome.com/0/954/427.htm"
     }
   ],
   "macroEvents": [
