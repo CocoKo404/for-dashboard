@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-05-27 05:10",
+  "updatedAt": "2026-05-27 06:47",
   "news": [
+    {
+      "id": "36c03df8-2d23-81bc-985d-ce420de3f70b",
+      "title": "Trump officials split over Pope Leo’s AI warning as Vatican feud enters new front",
+      "summary": "Pope Leo XIV’s AI warning shows split among Trump officials as the White House resists new guardrails, upping stakes with Catholic voters and Silicon Valley allies.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-27",
+      "link": "https://www.cnbc.com/2026/05/26/pope-leo-xiv-ai-warning-trump-jd-vance-doug-burgum-anthropic-iran.html"
+    },
+    {
+      "id": "36c03df8-2d23-8140-b32c-d3d92714f600",
+      "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq",
+      "summary": "With SpaceX headed for the public markets next month, industry experts and people close to Elon Musk are speculating about a potential tie-up with Tesla.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-27",
+      "link": "https://www.cnbc.com/2026/05/26/spacex-tesla-merger-chatter-reignites-as-musk-rocket-company-nears-ipo.html"
+    },
+    {
+      "id": "36c03df8-2d23-8128-a53c-c79f72b4427d",
+      "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+      "summary": "Musk has said that Starship is the key to keeping Starlink's costs under control, even saying that SpaceX could go bankrupt without the vehicle's ability to replace those satellites cheaply.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-27",
+      "link": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/"
+    },
+    {
+      "id": "36c03df8-2d23-8134-971d-e9755bc295a3",
+      "title": "Drake's chart-topping new albums prove he's music's most cynical businessman",
+      "summary": "Drake's three new albums, \"Iceman,\" \"Habibti,\" and \"Maid of Honour,\" topped the Billboard 200, showcasing his strategy to court streams over critical acclaim.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-27",
+      "link": "https://www.businessinsider.com/drake-iceman-habibti-maid-of-honour-albums-chart-records-reviews-2026-5"
+    },
+    {
+      "id": "36c03df8-2d23-81cf-a280-dc00c463da72",
+      "title": "Tesla VP says Model S and X may be dead, but not buried: 'Never say never'",
+      "summary": "Tesla VP Lars Moravy left the door open for a Model S and Model X revival after the company retired the EVs from its lineup.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-27",
+      "link": "https://www.businessinsider.com/tesla-model-s-model-x-revival-lars-moravy-2026-5"
+    },
+    {
+      "id": "36c03df8-2d23-814b-9f57-f5be34c0e44a",
+      "title": "Apple's surge to record highs faces a major test next month. What it must do to pass",
+      "summary": "The iPhone maker's WWDC kicks off on June 8, offering Apple another chance to impress Wall Street on AI.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-27",
+      "link": "https://www.cnbc.com/2026/05/26/apples-surge-to-record-highs-faces-a-major-test-next-month-what-it-must-do-to-pass.html"
+    },
+    {
+      "id": "36c03df8-2d23-81dc-a5b0-ecb468c74381",
+      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+      "source": "Wired",
+      "publishTime": "2026-05-27",
+      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/"
+    },
+    {
+      "id": "36c03df8-2d23-81f7-8356-fb87448f93d8",
+      "title": "The Best Movies to Stream This Month (May 2026)",
+      "summary": "Bugonia, Good Boy, and Send Help are among the films deserving of your eyeballs this month.",
+      "source": "Wired",
+      "publishTime": "2026-05-27",
+      "link": "https://www.wired.com/story/the-9-best-movies-to-stream-right-now/"
+    },
+    {
+      "id": "36c03df8-2d23-8194-a505-d3689a92c916",
+      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+      "source": "Wired",
+      "publishTime": "2026-05-27",
+      "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/"
+    },
     {
       "id": "36c03df8-2d23-81c0-b6e6-fbb0e85369ff",
       "title": "I ordered burgers at Culver's, Freddy's, and Sonic. The best was also the cheapest.",
@@ -8,6 +80,14 @@
       "source": "Business Insider",
       "publishTime": "2026-05-27",
       "link": "https://www.businessinsider.com/trying-burgers-culvers-freddys-sonic-to-find-best-chain-midwest-2026-5"
+    },
+    {
+      "id": "36c03df8-2d23-8109-85ae-c191265028a0",
+      "title": "Tech Life",
+      "summary": "What is the role of a teacher once AI arrives in the school classroom?",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-27",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "36c03df8-2d23-81b9-b0dd-c96686308486",
@@ -320,86 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-05-26",
       "link": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/"
-    },
-    {
-      "id": "36c03df8-2d23-8140-bb03-e7bd64997460",
-      "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
-      "summary": "An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches after the start of the war in Iran.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-26",
-      "link": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/"
-    },
-    {
-      "id": "36c03df8-2d23-8177-a83f-e96990f6afc1",
-      "title": "Nvidia stock faces a key level that could make or break where it goes next",
-      "summary": "Nvidia is definitely one to watch this week.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-26",
-      "link": "https://www.cnbc.com/2026/05/26/nvidia-stock-faces-a-key-level-that-could-make-or-break-where-it-goes-next.html"
-    },
-    {
-      "id": "36c03df8-2d23-818e-a99c-c784ed53ef16",
-      "title": "Ferrari’s first EV is not for you",
-      "summary": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-26",
-      "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/"
-    },
-    {
-      "id": "36c03df8-2d23-81a6-b518-d5e17c2e1b0f",
-      "title": "首个被纳入的 AI 训练推理芯片，摩尔线程 MTT S5000（PH100 芯片）通过国家《安全可靠测评》",
-      "summary": "IT之家 5 月 26 日消息，中国信息安全测评中心、国家保密科技测评中心今天公布《安全可靠测评结果公告（2026 年第 2 号）》，摩尔线程 MTT S5000（PH100 芯片）人工智能训练推理芯片在列。IT之家注意到，摩尔线程刚刚也在公众号平台发布了这则喜讯。官方表示，这是安全可靠测评体系建立以来，首次将 AI 训练推理芯片纳入评测结果。据悉，MTT S5000 AI 训推一体智算卡基于 PH100 芯片打造，单卡 AI 算力（稠密）可达 1000 TFLOPS，具备 80GB 显存（带宽 1.6TB/s），卡间互联带宽为 784GB/s，满足多精度算力需求。",
-      "source": "IT之家",
-      "publishTime": "2026-05-26",
-      "link": "https://www.ithome.com/0/955/622.htm"
-    },
-    {
-      "id": "36c03df8-2d23-819c-a448-cb05685d9aa2",
-      "title": "消息称索尼未来 2-3 个月还将发布两款新相机，16-28mm f/2 GM 也在路上",
-      "summary": "IT之家 5 月 26 日消息，消息源 SonyAlpha Rumors 今日发文称，两款索尼相机新品已在中国市场完成注册，根据目前消息，这两款产品都将在未来 2-3 个月内正式发布。IT之家在此援引 SonyAlpha Rumors，这两款相机中有一款是 RX 系列或 APS-C 画幅相机，另一款则是 FX 系列机型，具体型号目前尚不明确。同时，索尼目前有不少相机产品已经进入更新周期，包括 Alpha 7S III、ZV-E1、A7C II、A7CR 等。此外，索尼还将在近期推出 16-28mm f/2 GM 镜头新品，有望 6-7 月期间亮相。未来一段时间 E 卡口阵营将会继续迎来大量第三",
-      "source": "IT之家",
-      "publishTime": "2026-05-26",
-      "link": "https://www.ithome.com/0/955/621.htm"
-    },
-    {
-      "id": "36c03df8-2d23-8148-9072-d170ac28f818",
-      "title": "Govee included a book on ‘White Supremacy’ in its website imagery",
-      "summary": "Companies often include background props in their product imagery that serve as set dressing, but one of Govee's decorative choices is raising some eyebrows. An eagle-eyed Verge reader spotted that two copies of a book with \"White Supremacy\" plastered on the spine were included in a lifestyle image ",
-      "source": "The Verge",
-      "publishTime": "2026-05-26",
-      "link": "https://www.theverge.com/tech/937378/govee-white-supremacy-book-promotional-image"
-    },
-    {
-      "id": "36c03df8-2d23-81d6-8bb4-f05868a7c962",
-      "title": "Oppo’s Bubble is a thin round screen for taking rear camera selfies",
-      "summary": "Oppo launched a new smartphone accessory that makes it easier to snap selfies using your smartphone's rear cameras that typically feature better sensors than front-facing cameras. The Bubble offers similar functionality to the recently announced Insta360 Snap with a screen providing live camera prev",
-      "source": "The Verge",
-      "publishTime": "2026-05-26",
-      "link": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic"
-    },
-    {
-      "id": "36c03df8-2d23-81da-a363-d967f68de774",
-      "title": "American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes",
-      "summary": "American Airlines said it will install SpaceX's Starlink for inflight Wi-Fi on more than 500 of its airplanes.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-26",
-      "link": "https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html"
-    },
-    {
-      "id": "36c03df8-2d23-8199-a955-e6229a7c382d",
-      "title": "The oldest restaurant in every state",
-      "summary": "From Revolutionary War-era inns to classic diners, these are the oldest continuously operating restaurants in every state.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-26",
-      "link": "https://www.businessinsider.com/oldest-restaurant-in-every-state"
-    },
-    {
-      "id": "36c03df8-2d23-81d8-967b-c0254a812c79",
-      "title": "Celebrity deaths 2026: Remembering the famous people we lost this year",
-      "summary": "Here are the stars we lost this year, including James Van Der Beek, Catherine O'Hara, Ted Turner, Sonny Rollins, and Jesse Jackson.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-26",
-      "link": "https://www.businessinsider.com/celebrity-deaths-famous-people-who-died-2026"
     }
   ],
   "macroEvents": [
