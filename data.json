@@ -1,6 +1,398 @@
 {
-  "updatedAt": "2026-05-28 22:48",
+  "updatedAt": "2026-05-29 02:22",
   "news": [
+    {
+      "id": "36e03df8-2d23-8104-8158-f9b5a1f53c09",
+      "title": "Read the memo the new '60 Minutes' executive producer sent to staff",
+      "summary": "Nick Bilton, a former New York Times and Vanity Fair columnist, is the new executive producer of \"60 Minutes.\" Read the memo he sent to staff.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/read-memo-60-minutes-new-editor-nick-bilton-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-8114-a58f-ec946b170d89",
+      "title": "Why Paris may be the most important AI city outside Silicon Valley",
+      "summary": "Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/"
+    },
+    {
+      "id": "36e03df8-2d23-8100-abe3-cb3f8b1f0143",
+      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+      "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/"
+    },
+    {
+      "id": "36e03df8-2d23-8185-88a7-c0b66799ab7b",
+      "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth three weeks ago",
+      "summary": "Insurance tech Corgi announced today an $106 million Series B1 raise, valuing the company at $2.6 billion, just three weeks after announcing a $160 million Series B.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/"
+    },
+    {
+      "id": "36e03df8-2d23-8117-b891-dfdee8db6f2f",
+      "title": "Elon Musk says SpaceX has only committed to a 180-day compute agreement with Anthropic",
+      "summary": "On Thursday, Musk wrote on X the deal between SpaceX and Anthropic is a \"180 day lease.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/elon-musk-spacex-anthropic-escape-hatch-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-8173-a34a-d277ae05d433",
+      "title": "Claude’s new model is more ‘honest’ when it messes up",
+      "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they som",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort"
+    },
+    {
+      "id": "36e03df8-2d23-8147-842a-e4417cb813f4",
+      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/"
+    },
+    {
+      "id": "36e03df8-2d23-8111-8de9-dacaa707da9a",
+      "title": "The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are",
+      "summary": "The US military has long known that cheap fixes could stop location data from exposing its troops. It adopted almost none—and now says adversaries are using the data to target soldiers during a war.",
+      "source": "Wired",
+      "publishTime": "2026-05-29",
+      "link": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/"
+    },
+    {
+      "id": "36e03df8-2d23-81a7-bfc9-c9c81e6e1bb8",
+      "title": "7 surprising things I learned when I booked my first cruise",
+      "summary": "I booked my first cruise on Royal Caribbean's Wonder of the Seas and learned some things about cabin pricing and when to schedule flights.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/booking-first-cruise-tips-what-to-know"
+    },
+    {
+      "id": "36e03df8-2d23-814f-9b64-dd9ddd655352",
+      "title": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
+      "summary": "The launch of the Ojai minivan robotaxi comes after years of development and testing, but arrives amid a challenging time for Waymo.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/"
+    },
+    {
+      "id": "36e03df8-2d23-8192-87fc-f900b3245e75",
+      "title": "Here’s where you can preorder the new Oura Ring 5",
+      "summary": "If you’ve been waiting for a smaller version of the Oura Ring, the company’s latest wearable is now available for preorder ahead of its June 4th release from Oura and various third-party retailers, including both Amazon and Walmart. The Oura Ring 5, which starts at $399, is 40 percent smaller than i",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability"
+    },
+    {
+      "id": "36e03df8-2d23-81c4-aec5-e60a1d9fabf8",
+      "title": "2 major developments at Meta may have just put a floor in on the struggling stock",
+      "summary": "Is now the time to step and buy shares of Meta Platforms?",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-29",
+      "link": "https://www.cnbc.com/2026/05/28/2-major-developments-at-meta-may-have-just-put-a-floor-in-on-the-struggling-stock.html"
+    },
+    {
+      "id": "36e03df8-2d23-81cf-90c1-caa4740522ec",
+      "title": "U.S. says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
+      "summary": "One leading privacy lawmaker said it was time to \"start treating the adtech industry as a national security threat.\"",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/"
+    },
+    {
+      "id": "36e03df8-2d23-8106-9c5b-d1487d76b8ff",
+      "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+      "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood ",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca"
+    },
+    {
+      "id": "36e03df8-2d23-8175-ae42-c0979a33f9cd",
+      "title": "YouTube takes baby steps to being a real podcast app",
+      "summary": "New features coming to YouTube could make it better for listening to podcasts, rolling out to Premium subscribers starting today on Android and coming later to iOS. A new \"on-the-go mode\" shifts YouTube into an audio-first layout, with larger, simplified playback buttons, a still image in place of t",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features"
+    },
+    {
+      "id": "36e03df8-2d23-8115-830b-eac9dfd21cd2",
+      "title": "Call of Duty: Warzone is dropping PS4 and Xbox One support later this year",
+      "summary": "Activision is planning to drop support for PS4 and Xbox One consoles in Call of Duty: Warzone later this year. Players will need to upgrade to a PS5 or Xbox Series S / X console to continue playing Call of Duty: Warzone once season 6 of Call of Duty: Black Ops 7 finishes later this […]",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support"
+    },
+    {
+      "id": "36e03df8-2d23-81a7-b093-c45e576960c0",
+      "title": "Mamdani announced New York City's answer to DOGE",
+      "summary": "Mayor Zohran Mamdani is launching his own government efficiency effort to cut red tape and reduce unnecessary spending in NYC.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/mamdani-launched-his-own-version-of-doge-elon-musk-efficency-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-81a2-8462-cdfd8de99f22",
+      "title": "What’s next for Microsoft’s Surface PCs?",
+      "summary": "Nearly 10 years ago I reviewed my favorite Surface device. Microsoft hand-delivered its Surface Studio all-in-one PC to me, and I was hooked from the moment I switched it on. It had a beautiful floating touchscreen that you could push all the way down into a drawing board mode, making it unlike anyt",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/tech/938807/microsoft-surface-future-devices-notepad"
+    },
+    {
+      "id": "36e03df8-2d23-810f-9d8b-fb8bc1dcc3eb",
+      "title": "Waymo opens Ojai robotaxis to select riders as company aims to lower cost of fleet expansion",
+      "summary": "Alphabet's Waymo is adding new vehicles to its fleet of public robotaxis and is opening up its roomier Ojai vehicles to some riders.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-28",
+      "link": "https://www.cnbc.com/2026/05/28/waymo-opens-ojai-robotaxis-to-some-riders-aims-to-lower-cost-of-fleet.html"
+    },
+    {
+      "id": "36e03df8-2d23-81de-83c5-fe11961433ee",
+      "title": "I'm a financial planner and dad. Trump Accounts come with a free $1,000, but I still prefer my current savings strategy.",
+      "summary": "Trump Accounts offer $1,000 for US-born kids between 2025-2028, but financial advisor Eric Roberge suggests 529 plans may still be the better option.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-28",
+      "link": "https://www.businessinsider.com/trump-accounts-vs-529-plans-which-better-college-savings-2026-3"
+    },
+    {
+      "id": "36e03df8-2d23-81ae-be83-d8528659ee88",
+      "title": "Jim Cramer says to buy these two stocks — including one with nearly 20% upside",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-28",
+      "link": "https://www.cnbc.com/2026/05/28/jim-cramer-says-to-buy-these-two-stocks-including-one-with-nearly-20percent-upside.html"
+    },
+    {
+      "id": "36e03df8-2d23-818b-887a-fbdde0fd21f6",
+      "title": "零零科技发布全球首款 100% 防水飞行相机哈浮 AQUA，8999 元起",
+      "summary": "IT之家 5 月 28 日消息，零零科技今日正式发布哈浮 AQUA 飞行相机。据介绍，这是世界上首款专为水上运动打造的 100% 防水飞行相机，基础套装零售价为 8999 元、畅飞套装零售价为 9999 元。京东 HOVER CAMERA 哈浮 AQUA 水上运动飞行相机券后 9349 元领 650 元券据介绍，AQUA 延续了哈浮飞行相机经典的 AI 智能运镜、无需遥控器的交互体验，并在 IP67 专业级防尘防水、水面起降可靠性以及专为水上运动优化的飞行性能等方面实现了突破，适用于水上飞翼、尾波滑水、风筝冲浪、皮划艇、帆船、桨板、水上摩托艇等水上运动与休闲场景。AQUA 还支持单人水上动态拍",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/823.htm"
+    },
+    {
+      "id": "36e03df8-2d23-813e-acc9-ece63e394cff",
+      "title": "《使命召唤：现代战争 4》官宣：首度登陆任天堂 Switch 2，10 月 23 日发售",
+      "summary": "IT之家 5 月 28 日消息，今年的《使命召唤》新作《使命召唤：现代战争 4》将成为现代战争系列首款放弃 PS4 和 Xbox One 的作品，只面向本世代硬件推出。《使命召唤：现代战争 4》将于 10 月 23 日周五全球发售，登陆 Xbox Series X|S、PlayStation 5、PC 和任天堂 Switch 2。开发商 Infinity Ward 确认，新作将延续更“硬派”“真实”的风格，故事背景设定在韩国，并首次登陆任天堂 Switch 2。IT之家附预告片如下： 《现代战争 4》依旧包含三大核心模式：战役、多人模式和 DMZ。动视称，本作是系列的“全新技术标杆”，并且专门",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/822.htm"
+    },
+    {
+      "id": "36e03df8-2d23-8196-81b4-f60359d49a83",
+      "title": "华为余承东：全新途灵龙行平台首创全域融合架构、全链路八大冗余设计，为 L3 时代做好了准备",
+      "summary": "IT之家 5 月 28 日消息，鸿蒙智行全新一代问界 M9 已于昨日正式发布，新车全系首发搭载华为乾崑智驾 ADS 5，定价 47.98 万元起。IT之家注意到，在昨天发布会的现场，余承东还谈及了新车全新华为途灵龙行平台首创的全域融合架构和全链路八大冗余设计，并表示其就是为 L3 时代做好了准备。余承东直言，就等国家 L3 牌照的发放，期待国内的 L3、L4 早点到来。 据IT之家此前报道，在今年 4 月的智能电动汽车发展高层论坛（2026）期间，华为智能汽车解决方案 BU CEO 靳玉志表示，华为乾崑定期公布的安全出行报告将为中国自动驾驶系统的发展提供积累，并可用于判断何时可进入到真正的完全",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/821.htm"
+    },
+    {
+      "id": "36e03df8-2d23-815a-91b0-e1eb00a1acf4",
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-28",
+      "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/"
+    },
+    {
+      "id": "36e03df8-2d23-8190-9cf3-fcc0389752e8",
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-28",
+      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/"
+    },
+    {
+      "id": "36e03df8-2d23-811b-8496-da716c633e26",
+      "title": "Slate Auto will start taking orders for its low-cost EV on June 24",
+      "summary": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-28",
+      "link": "https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/"
+    },
+    {
+      "id": "36e03df8-2d23-8186-9eca-f6af431e1fee",
+      "title": "Call of Duty: Modern Warfare 4 is out in October, and it&#8217;s coming to the Switch 2",
+      "summary": "Activision has officially announced Call of Duty: Modern Warfare 4 and says the game will launch on October 23rd, 2026. Modern Warfare 4, which is developed by Infinity Ward, will be available on PS5, Xbox Series X / S, PC - and it will also be the first Call of Duty title to launch on […]",
+      "source": "The Verge",
+      "publishTime": "2026-05-28",
+      "link": "https://www.theverge.com/games/939001/call-of-duty-modern-warfare-4-release-date-trailer-switch-2"
+    },
+    {
+      "id": "36e03df8-2d23-81c9-80e5-c813946c814b",
+      "title": "The secret to Roku’s success: not being cool",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Roughly 10 years ago, someone told me that Roku was making \"cheap hardware to sell to Walmart customers in flyover states.\" The remark ",
+      "source": "The Verge",
+      "publishTime": "2026-05-28",
+      "link": "https://www.theverge.com/column/938879/roku-homescreen-redesign-not-cool"
+    },
+    {
+      "id": "36e03df8-2d23-8154-9a12-c9082abed68d",
+      "title": "极氪制造，Waymo 首款 robotaxi 专用车“Ojai”上路服务",
+      "summary": "IT之家 5 月 28 日消息，当地时间 28 日，Waymo 开始向部分用户开放新款 Ojai Robotaxi 试乘服务，并在旧金山、洛杉矶和凤凰城率先部署第六代 Waymo Driver 硬件。试乘将在限定时间内免费。Ojai 是 Waymo Robotaxi 业务的重要一步。Waymo 目前已经在 11 座城市完成超过 2000 万次全自动驾驶行程，规模仍远超其他竞争对手。Ojai 是 Waymo 首款从零开始为 Robotaxi 服务打造的车型，设计重心放在乘客体验，而不是把普通消费级汽车改装成自动驾驶车辆。Ojai 由极氪制造，再送往 Waymo 亚利桑那工厂安装自动驾驶硬件。新车",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/820.htm"
+    },
+    {
+      "id": "36e03df8-2d23-8148-a95b-cbe9dbbbf0e8",
+      "title": "The new face of 'tradwife' influencer Ballerina Farm's electrolyte brand is her 9-year-old kid",
+      "summary": "In a first for the homesteading lifestyle brand, one the Hannah Neeleman's nine children starred alone in a Ballerina Farm promo video.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-28",
+      "link": "https://www.businessinsider.com/ballerina-farms-daughter-new-electrolyte-ad-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-81da-9aa4-c3af4b36cc86",
+      "title": "How women's maximum-security prisons actually work, according to a former inmate",
+      "summary": "Jacqueline Montanez was sentenced to life in prison as a minor for double murder and spent 31 years in maximium-security prisons.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-28",
+      "link": "https://www.businessinsider.com/how-womens-maximum-security-prisons-actually-work-jacqueline-montanez-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-8191-bafd-fffcb730debd",
+      "title": "小米汽车官宣明日开启 YU7 GT 首批车主交付",
+      "summary": "IT之家 5 月 28 日消息，小米汽车官方刚刚宣布，将在明天 10:30 开启 YU7 GT 的首批车主交付。小米汽车官方还发布了此前几次首批车主交付的画面集锦，并表示雷军将和舒淇一起交车。参考IT之家此前报道，小米 YU7 GT 于 5 月 21 日正式发布，搭载新一代超级电机 V8s EVO，定位为“跑车级 SUV”，官方指导价 38.99 万元、大满配 42.99 万元。新车最大马力 1003 匹、峰值功率 738kW、CLTC 续航 705km，零百加速 2.92 秒，最高时速 300km/h。其搭载 101.7kWh 三元锂电池，基于 897V 碳化硅高压平台，15 分钟充电最长可",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/819.htm"
+    },
+    {
+      "id": "36e03df8-2d23-81cc-94b0-f88e9a085c5a",
+      "title": "Epic 喜加二：《孤星猎人》《Calico》游戏免费领取",
+      "summary": "IT之家 5 月 28 日消息，Epic 本周送出的游戏是《孤星猎人》《Calico》，下周送出的两款游戏待公布。领取链接：《孤星猎人》，《Calico》IT之家附《孤星猎人》游戏简介：孤星猎人是一款 Roguelike 强策略玩法的飞船对决游戏。作为一名宇宙赏金猎人，你将抓捕散布于星际间的在逃罪犯，通过“对波”这一独特的方式赢得战斗，收获悬赏奖励与假期时光。寻找宇宙宝物，自由搭配飞船部件，开启传说级天赋，面对最难搞的罪犯，成为星际传奇！IT之家附《Calico》游戏简介：《Calico》是一款休闲社区模拟游戏。在这里，你有一项重要而可爱的任务：重建镇上的猫咪咖啡厅，让咖啡厅里充满可爱的动物伙",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/817.htm"
+    },
+    {
+      "id": "36e03df8-2d23-81b1-9987-d0d2df4c6579",
+      "title": "“用机器人取代餐厅人工岗位”梦碎，曾与达美乐合作的初创公司 Picnic 倒闭",
+      "summary": "IT之家 5 月 28 日消息，西雅图初创公司 Picnic 曾融资超过 5300 万美元，旨在开发用于取代餐厅人工岗位的机器人，还曾与披萨连锁巨头达美乐合作。然而据外媒 Futurism 当地时间 26 日报道，这样一家雄心勃勃的公司最终的命运竟是关闭。法律文件显示，Picnic 资不抵债后已经清算全部资产，所有知识产权也已出售给一名未披露身份的买家。Picnic 曾推出 Picnic Pizza Station，希望通过机器人自动分配披萨配料，让一名员工每小时制作 100 个 12 英寸披萨。2022 年，Picnic 宣布与达美乐合作后，Picnic Pizza Station 一度引发",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/818.htm"
+    },
+    {
+      "id": "36e03df8-2d23-8121-a078-d177ff585f86",
+      "title": "腾讯混元发布 Hy-Memory：打造记忆力超强的 Agent 第二大脑",
+      "summary": "IT之家 5 月 28 日消息，腾讯混元宣布正式推出 Hy-Memory。据介绍，这是一个专门为 Openclaw 这类长期协作型 Agent 设计的记忆插件，能真正成为 Agent 的“第二大脑”。官方称，Hy-Memory 用 6 层记忆框架 × System1/System2 双系统 × 演化链三层底牌，让 Agent 在长期使用中真正 \" 记得住、记得对、记得轻、更懂你 \"。在权威公开测试集上，Hy-Memory 效果超过现有主流 memory 框架，可以解决记忆碎片化问题，记忆数量低 70%+，每条记忆信息密度高 45%+。在处理超长上下文方面，Hy-Memory 消耗的 token",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/816.htm"
+    },
+    {
+      "id": "36e03df8-2d23-81ca-a5f8-ca27eff59651",
+      "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
+      "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
+      "source": "Wired",
+      "publishTime": "2026-05-28",
+      "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/"
+    },
+    {
+      "id": "36e03df8-2d23-81e8-9370-ebf5e11ae995",
+      "title": "We tried out Waymo's spacious new robotaxi Ojai. It glitched, but we had way more space and could fit in 6 suitcases.",
+      "summary": "Waymo introduced the Ojai robotaxi for spacious rides in San Francisco, Phoenix, and Los Angeles. We tested it out and brought our suitcases.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-28",
+      "link": "https://www.businessinsider.com/waymo-launches-ojai-robotaxi-major-cities-we-tested-it-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-8112-9893-ebadc399f972",
+      "title": "Waymo to begin passenger rides in its new Ojai robotaxi",
+      "summary": "After several months of testing, Waymo is finally ready to invite non-employee passengers into its newest vehicle, the Zeekr RT minivan, which has been rebranded as Ojai. Waymo says it will begin offering \"select riders\" access in San Francisco, Los Angeles, and Phoenix, before \"gradually\" expanding",
+      "source": "The Verge",
+      "publishTime": "2026-05-28",
+      "link": "https://www.theverge.com/transportation/938156/waymo-zeekr-ojai-robotaxi-passenger-trips"
+    },
+    {
+      "id": "36e03df8-2d23-8119-bcd1-dc88ea4f16dd",
+      "title": "人类并非宇宙唯一：斯皮尔伯格全新科幻电影《揭秘日》定档 6 月 12 日上映",
+      "summary": "IT之家 5 月 28 日消息，环球影业今日宣布，史蒂文 · 斯皮尔伯格导演科幻巨制《揭秘日》定档 6 月 12 日上映。‘长达 79 年的谎言，必须结束！’ 一场危机四伏的揭秘行动，即将破局而出。影片围绕外星生命与人类社会的碰撞展开：气象主播玛格丽特（艾米莉 · 布朗特饰）突获超能力，与黑客丹尼尔（乔什 · 奥康纳饰）揭露政府掩盖的“外星人存在”真相，两人因此被影子政府追杀。一部关于 UFO、外星人和“真相”的科幻片，被“附体”的主播，与未知的相遇充满神秘和悬疑。“70 亿人有权知道真相…… 我要向全世界、一次、完全揭露。”“你觉得会有别的存在吗？”“他造出了广袤的宇宙，怎么会只留给我们人类",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/815.htm"
+    },
+    {
+      "id": "36e03df8-2d23-81ea-b2cc-c58662747e86",
+      "title": "We left stable jobs to start a consulting firm that's raised $580K this year. Even through loss and divorce, here's why we took the risk.",
+      "summary": "Felicia Jones Taylor and Alexandra Tyson left education to launch a consulting firm. Through pregnancy loss and divorce, they persevered.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-28",
+      "link": "https://www.businessinsider.com/we-left-jobs-start-consulting-firm-raised-580k-wasnt-easy-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-81d2-b0b6-cb93582bc976",
+      "title": "This sound card could give gamers a competitive edge",
+      "summary": "Fosi Audio announced a new sound card today with a unique feature designed to give FPS players an advantage. The C3 Gaming Sound Card, which sits outside your PC or laptop and connects with a USB-C cable, includes the company's StepSense \"audio enhancement technology\" powered by a model that was \"tr",
+      "source": "The Verge",
+      "publishTime": "2026-05-28",
+      "link": "https://www.theverge.com/tech/938861/fosi-audio-c3-gaming-sound-card-headphone-app-fps-audio-boost"
+    },
+    {
+      "id": "36e03df8-2d23-81ff-a93e-db2572ae20a4",
+      "title": "鸿蒙智行官宣粤港澳车展将展出 13 款车型，展台面积达 5000㎡",
+      "summary": "IT之家 5 月 28 日消息，鸿蒙智行官方今日发布视频，回顾了近几年在粤港澳车展的岁月。IT之家附详情如下：2023 年：问界 M7 亮相、问界 M5 首批交付，展台面积 1050㎡；2024 年：问界 M9、问界新 M7 Ultra、问界新 M5、智界 S7、享界 S9，展台面积 2000㎡；2025 年：问界 M9、问界 M7、问界 M8、问界 M5、智界 R7、智界 S7、享界 S9、尊界 S800，展台面积 3000㎡；2026 年：全新一代问界 M9、问界 M6、问界 M8、问界 M7、问界新 M5 Ultra、智界 V9、智界 R7、智界新 S7、享界 S9、享界 S9T、尊界 ",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/813.htm"
+    },
+    {
+      "id": "36e03df8-2d23-814a-8aea-e82a1dfeb0c6",
+      "title": "壹号掌机公布 OneXPlayer 3：三形态切换，锐炫 G3 Extreme",
+      "summary": "IT之家 5 月 28 日消息，壹号掌机今晚正式公布了基于英特尔锐炫 G3 Extreme 处理器的 OneXPlayer 3。这一设备拥有分体式手柄，支持掌机 / 平板电脑 / 笔记本电脑三形态切换。OneXPlayer 3 配备一块 8.8\" 144Hz VVR HDR OLED 屏幕，内置 85Wh 电池。其手柄部分提供透明键帽 + 微动按键 ABXY、电容摇杆、双切扳机、可换键帽 D-Pad。该掌机还提供了无线连接基架，可将两个分体式手柄模块整合为一个标准控制器，而基架中部还集成有电容式触控板。此外，OneXPlayer 3 还可通过 Pogo Pin + 磁吸系统连接至集成触控板与按",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/812.htm"
+    },
+    {
+      "id": "36e03df8-2d23-8129-9cd5-e8b1dc1053c4",
+      "title": "14 companies that have said they're doing AI-related layoffs",
+      "summary": "A number of companies, including Snap, Coinbase, and Wix, have attributed recent staff reductions to AI.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-28",
+      "link": "https://www.businessinsider.com/list-companies-replacing-human-employees-with-ai-layoffs-workforce-reductions"
+    },
+    {
+      "id": "36e03df8-2d23-818c-887f-d2d58fe20136",
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-28",
+      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/"
+    },
+    {
+      "id": "36e03df8-2d23-8165-b2d4-e9dfe06f9a61",
+      "title": "Rivian under investigation over rear suspension failures on R1 models",
+      "summary": "At least two owners have lost control of their vehicles after a critical suspension component broke. In both cases, the vehicles had been previously serviced.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-28",
+      "link": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/"
+    },
+    {
+      "id": "36e03df8-2d23-8175-8f93-c83171260d1b",
+      "title": "赵长江：智界 V9 将首批升级华为乾崑智驾 ADS 5，该系统采用面向自动驾驶的 WEWA 2.0 架构",
+      "summary": "IT之家 5 月 28 日消息，智界汽车执行董事及执行副总裁赵长江针对网友关于智界 V9 的提问，挑选了几个有代表性的问题进行了统一回答。IT之家附重点内容如下：智界 V9 在智能驾驶方面，相较于同级车型，有哪些明显的领先优势？这位朋友问到了核心。智界 V9 的智驾核心优势首先体现在华为乾崑智驾 ADS 5 高阶智驾能力 —— 智界 V9 将作为首批升级华为乾崑智驾 ADS 5 的车型，这套系统搭载 60EFLOPS 超大云端 AI 算力、采用面向自动驾驶的 WEWA 2.0 架构，配合 5 重冗余系统，将为智界 V9 用户带来更安全、更从容的智能出行体验。硬件层面，我们搭载 38 个传感器构",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/810.htm"
+    },
+    {
+      "id": "36e03df8-2d23-8115-824b-dd609ce9cc53",
+      "title": "理想汽车出海计划公布：i6 下半年进入欧洲，右舵 MEGA 年底登陆新加坡、中国香港",
+      "summary": "IT之家 5 月 28 日消息，在今晚的 2026 年 Q1 财报电话会上，理想汽车执行董事兼总裁马东辉透露了公司的国际化战略：海外市场主要采取分阶段拓展思路，结合当地市场规模和竞争格局，会灵活选用设立子公司、发展经销商，或签约独家总代等多种模式，并希望依托当地头部合作伙伴快速去搭建销售、交付、售后一体的完整服务体系。马东辉同时公布了具体的市场布局：5 月陆续进入中国澳门、柬埔寨、老挝、缅甸；中东、中亚等市场以 L 系列增程车型为主力，全新 L9 将针对当地使用场景在充电性能、座舱空调热管理等软硬件层面进行优化，产品今年 Q3 登陆；欧洲市场方面，下半年会推出纯电车型 i6；针对右舵市场，年底",
+      "source": "IT之家",
+      "publishTime": "2026-05-28",
+      "link": "https://www.ithome.com/0/956/809.htm"
+    },
     {
       "id": "36e03df8-2d23-8192-9fa4-d4c0fce57a51",
       "title": "These new iOS 27 renders hint at Siri’s big redesign",
@@ -8,398 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-05-28",
       "link": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg"
-    },
-    {
-      "id": "36e03df8-2d23-812b-b034-cb8a06476c0c",
-      "title": "Wix laying off about 20% of its workforce. CEO cites AI, exchange rates in announcing cut",
-      "summary": "Israel-based web development company Wix is cutting about 20% of its workforce, CEO Avishai Abrahami said.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-28",
-      "link": "https://www.cnbc.com/2026/05/28/wix-layoffs-ai-exchange-rates.html"
-    },
-    {
-      "id": "36e03df8-2d23-8141-b855-c7304910cdbe",
-      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-      "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-28",
-      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/"
-    },
-    {
-      "id": "36e03df8-2d23-81bb-928f-d0d6cd125250",
-      "title": "RSI is the new AGI — and it’s just as hard to pin down",
-      "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-28",
-      "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/"
-    },
-    {
-      "id": "36e03df8-2d23-81cd-b56e-ffee6e01e9b2",
-      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
-      "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-28",
-      "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/"
-    },
-    {
-      "id": "36e03df8-2d23-814c-ae2f-db14e8aec9df",
-      "title": "宏碁推出 Predator Atlas 8 掌机：8\" FHD+ 120Hz 500nits 触屏",
-      "summary": "IT之家 5 月 28 日消息，作为英特尔锐炫 G 掌机处理器终端设备首发 OEM 合作伙伴之一，宏碁今晚正式宣布推出 Predator Atlas 8 掌上型游戏机，至高可选锐炫 G3 Extreme。Predator Atlas 8 配备 8\" 1920×1200 120Hz 500nits 十点触控 IPS 屏幕，色域 100% sRGB，支持 VRR，表面覆盖康宁大猩猩玻璃 Victus 搭配 DXC 镀膜。其至高支持 24GB LPDDR5X-7467 内存，拥有 1 个 PCIe Gen4 的 M.2 2280 NVMe SSD 盘位；同时首度在手持设备中导入单颗金属风扇，拥有 1",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/805.htm"
-    },
-    {
-      "id": "36e03df8-2d23-81e8-8bf4-f443246b633d",
-      "title": "消息称微软下周将推全新编程模型，以争取开发者群体认可",
-      "summary": "IT之家 5 月 28 日消息，北京时间今晚，据 The Information 爆料称，微软将在下周于旧金山举办的年度开发者大会 Build 上，发布多款自研 AI 模型，旨在争取开发者群体的认可。据了解相关规划的知情人士消息称，微软计划推出一款编程专用模型，以此提升旗下代码助手 GitHub Copilot 的竞争力。报道提到，GitHub Copilot 曾在 AI 代码辅助领域占据先发优势，但市场份额正被 Cursor 与 ClaudeCode 等“后来者”们不断蚕食。前述知情人士透露，微软还将发布多款不同参数规格的全新模型，具备语音转写、逻辑推理、语音处理及图像生成等技能。据IT之家",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/804.htm"
-    },
-    {
-      "id": "36e03df8-2d23-81c3-840d-ec2aa82a1e4d",
-      "title": "Snowflake surges 35% toward best day ever on AI frenzy, fueling software rally",
-      "summary": "The Snowflake rally also lifted shares of ServiceNow, Oracle and Palantir, while Salesforce bucked the trend.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-28",
-      "link": "https://www.cnbc.com/2026/05/28/snowflake-snow-software-stock-rally.html"
-    },
-    {
-      "id": "36e03df8-2d23-8171-9c59-fb12dd876122",
-      "title": "Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand",
-      "summary": "After overwhelming demand from founders around the world, TechCrunch has extended the Startup Battlefield 200 application deadline to June 8. Nominate a standout startup or apply yours today.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-28",
-      "link": "https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/"
-    },
-    {
-      "id": "36e03df8-2d23-81cb-8434-d54914ca9499",
-      "title": "全家畅看《家业》：爱奇艺电视白金会员 + 京东 PLUS 年卡 229 元再降",
-      "summary": "爱奇艺白金会员年卡（支持电视端）+ 京东 PLUS 年卡今年日常大促价 269 元左右，今日叠加平台 40 元补贴后，仅需 229 元好价：先领 40 元券：点此领券京东爱奇艺白金 VIP+ 京东 PLUS 年卡送 PLUS 积分券后 229 元领 20 元券京东无门槛红包至高 26618 元，支持即领即用：点此抽取。京东 PLUS 积分京东 PLUS 年卡赠 12 积分，积分可用于：5 积分换 2 小时保洁（可兑 1 次，大多数城市日常 40 元 / 小时）3 积分洗一次鞋 / 衣服（可洗羽绒服、麂皮运动鞋）1 积分免费寄快递（可兑 4 次，京东快递免首重）、洗车（可兑 1 次）等等爱奇艺登",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/803.htm"
-    },
-    {
-      "id": "36e03df8-2d23-819e-91a5-c87a9cb3fb90",
-      "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
-      "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perp",
-      "source": "The Verge",
-      "publishTime": "2026-05-28",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit"
-    },
-    {
-      "id": "36e03df8-2d23-81cf-9730-c2435864ad43",
-      "title": "See inside a historic Air Force Two plane used by vice presidents and first ladies during 5 presidencies",
-      "summary": "The VC-9C plane known as Air Force Two transported vice presidents, first ladies, and other VIP passengers from 1975 to 2011.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/air-force-two-vice-presidents-first-ladies-plane-tour-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-812d-808c-c81f3a12509c",
-      "title": "I've been hired as a bridesmaid over 125 times. There are 5 things I made sure I had at my own wedding.",
-      "summary": "After being in more than 125 weddings as a professional bridesmaid, there were several details I knew I wanted to include in my own big day.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/things-had-at-wedding-after-being-in-many-professional-bridesmaid-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-8103-99c5-c875cc6835ff",
-      "title": "Reid Hoffman says the next AI gold rush is in drug discovery",
-      "summary": "The LinkedIn and Manas AI cofounder said there's a lot of money to be made for companies using AI to accelerate drug discovery and development.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/reid-hoffman-says-next-ai-gold-rush-is-drug-discovery-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-815b-b200-d15d96cb2578",
-      "title": "慧荣发布 AI 负载优化 SSD 主控 SM2524XT：14GB/s，DRAM-less",
-      "summary": "IT之家 5 月 28 日消息，慧荣 (Silicon Motion) 今日发布面向 AI 推理与 KV 缓存工作负载优化的固态硬盘主控芯片 SM2524XT。SM2524XT 基于台积电 6nm 制程工艺，拥有 4 个内核，采用 DRAM-less 架构，支持 PCIe Gen5 ×4。慧荣表示其相较上代产品能效改进 25%，即使在最严苛的热环境下也能维持数据吞吐能力。这颗主控拥有 4 个 4800MT/s 闪存通道，顺序读取速率可达 14GB/s，2500K IOPS 意味着其随机性能代际提升达到 25%。慧荣表示：随着设备端 AI 推理复杂度的不断提升，KV 缓存已成为决定 AI 个人电",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/802.htm"
-    },
-    {
-      "id": "36e03df8-2d23-8180-b78e-d5916184c73a",
-      "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
-      "summary": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 billion investment from Volkswagen. It effect",
-      "source": "The Verge",
-      "publishTime": "2026-05-28",
-      "link": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai"
-    },
-    {
-      "id": "36e03df8-2d23-8153-b123-d6cc7cefde65",
-      "title": "These are my favorite Switch 2 accessories",
-      "summary": "The Nintendo Switch 2 can be enjoyed right out of the box, but it’s even better with the right accessories. Some of these add-ons are more crucial than others, especially if you’re deciding what to buy early on. For example, a case and a screen protector can keep your console safe from scuffs, scrat",
-      "source": "The Verge",
-      "publishTime": "2026-05-28",
-      "link": "https://www.theverge.com/buying-guides/720160/best-switch-2-accessories"
-    },
-    {
-      "id": "36e03df8-2d23-8121-a050-debe39136945",
-      "title": "Visa invests in Replit to power agentic payments for developers",
-      "summary": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-28",
-      "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/"
-    },
-    {
-      "id": "36e03df8-2d23-81bd-8a32-c141e7d8a6d2",
-      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
-      "summary": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-28",
-      "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "36e03df8-2d23-81e0-8864-dd15db202b61",
-      "title": "比亚迪“天神之眼”辅助驾驶系统迎来四大升级，架构、传感器、算法与数据全面进化",
-      "summary": "IT之家 5 月 28 日消息，今晚比亚迪在深圳召开“敢为”智能化战略发布会。发布会现场，比亚迪宣布行业首个“整车智能”辅助驾驶系统天神之眼迎来四大升级，此次升级覆盖架构、传感器、算法以及数据四大层面。此外，比亚迪宣布全系车型均可搭载天神之眼 B 辅助驾驶激光版，选装价格为 12000 元。首先，在架构层面，天神之眼升级为“璇玑架构 2.0”。比亚迪表示，新架构采用全栈自研中央大脑与“舱驾电合一”设计，系统时延低至 8 微秒，较行业平均水平缩短 80%。同时，其采用行业首创的“传感器卫星架构”，传感器原始信号可直接上传至中央大脑，减少中间链路损耗。官方数据显示，新架构带来了多项性能提升，包括数",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/800.htm"
-    },
-    {
-      "id": "36e03df8-2d23-814d-8a91-eadf5b6e3478",
-      "title": "Oura is launching its smallest smart ring yet, shrinking wearable design by 40%",
-      "summary": "Oura, the smart ring maker, is set to launch what it says will be the smallest smart ring available in the growing wearables market.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-28",
-      "link": "https://www.cnbc.com/2026/05/28/oura-ring-smallest-wearable-health-fitness.html"
-    },
-    {
-      "id": "36e03df8-2d23-8134-bcba-e4310eab1494",
-      "title": "小米汽车：YU7 GT 制动系统是与 SU7 Ultra 相同的「高性能制动系统」",
-      "summary": "IT之家 5 月 28 日消息，小米汽车官方今日发布答网友问（第 248 集），针对新的 YU7 标准版部分配置是否和长续航版有差异、YU7 GT 的制动系统是否和 SU7 Ultra 是同款等问题进行了解答。IT之家附本集小米汽车答网友问重点内容如下：新的 YU7 标准版隔音性能怎么样，和长续航版有区别吗？YU7 标准版与 YU7 长续航版、Pro 版采用同样高规格的整车隔音设计，拥有出色的隔音性能。小米 YU7 拥有高强度的白车身，扭转刚度高达 47610N·m/deg，是 SUV 车型中的高水准，超高的扭转刚度，可以让 YU7 行驶在颠簸路面、凹凸不平的起伏路面或上下路肩时避免或减轻因车",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/799.htm"
-    },
-    {
-      "id": "36e03df8-2d23-81ee-8886-e9d2017b1a73",
-      "title": "I'm a former HR leader at Capital One and Wayfair. You should know these 5 things about negotiating severance.",
-      "summary": "Sara Perelli-Minetti has overseen layoffs. Now she helps people negotiate stronger severance packages.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/how-to-negotiate-severance-after-layoff-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-8182-8463-f3725d1f1a95",
-      "title": "联发科天玑 7500 移动平台发布：首次将 C1 CPU 带入主流智能手机",
-      "summary": "IT之家 5 月 28 日消息，联发科技 (Mediatek) 现已在官网正式上线天玑 (Dimensity) 7500 移动平台。这是首款应用 Arm C1 系列 CPU 内核设计的主流移动手机 SoC。天玑 7500 基于 4nm 制程工艺，拥有 4× Arm C1 Pro (2.6GHz) + 4× Arm C1 Nano (2.0GHz) 的 CPU、Arm Mali-G625 MC2 的 GPU，支持 LPDDR5-6400 内存和双通道 UFS 3.1 闪存。其蜂窝网络下行速率可达 5.2GHz，支持多种 GNSS 系统，可支持 Wi-Fi 6E 2T2R、蓝牙 5.4。同时该芯片",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/797.htm"
-    },
-    {
-      "id": "36e03df8-2d23-8114-afdf-d2f9e4f3d048",
-      "title": "徕卡发布全新金属灰系列 M11-P、Q3、D-Lux 8 相机，主打“暗藏锋芒”",
-      "summary": "IT之家 5 月 28 日消息，今天晚间，徕卡正式发布全新金属灰系列 M11-P、Q3、D-Lux 8 相机，以及 APO-Summicron-M 50 f/2 ASPH 镜头，设计上主打“暗藏锋芒”。M-11P 金属灰是首款采用新色漆面的徕卡相机，采用标志性菱纹附皮、德国手工打造。同步推出的 APO-Summicron-M 50 f/2 ASPH 金属灰镜头，则在镜头部件及前盖部分采用全新饰面，并以红色刻度点缀。徕卡 Q3 金属灰采用灰黑交织的机身，以红色标识点缀其中。IT之家从徕卡官方获悉，全新徕卡 Q3 金属灰及专属配件、徕卡 D-Lux 8 金属灰及专属配件将于 7 月 16 日起发售",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/798.htm"
-    },
-    {
-      "id": "36e03df8-2d23-81c2-acb7-d6435aca1f0d",
-      "title": "王朝网首款 D 级旗舰 SUV：比亚迪大唐 6 月中旬正式上市",
-      "summary": "IT之家 5 月 28 日消息，在今天晚间的比亚迪“敢为”智能化战略发布会上，比亚迪王朝网销售事业部总经理路天宣布：王朝网首款 D 级旗舰 SUV—— 大唐，将于 6 月中旬在西安正式上市。此前，比亚迪大唐 EV 已经在 2026 北京车展上开启预售，该车是王朝网首款 D 级旗舰 SUV，拥有第二代刀片电池、全域 1000V 高压架构等配置，提供单电机、双电机四驱等动力选择，预售价 25-32 万元。据IT之家了解，大唐 EV 应用比亚迪最新家族式设计语言，配备超长贯穿式前日行灯，大灯则是竖式设计，整体较为简洁，机盖还有两条隆起的线条，增添力量感。车身尺寸为 5263*1999*1790mm，",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/795.htm"
-    },
-    {
-      "id": "36e03df8-2d23-818c-84bd-dad023ea3d56",
-      "title": "Hayden Panettiere didn't find out the real reason she was fired from 'Panic Room' for years",
-      "summary": "Hayden Panettiere wrote in her memoir that she lost a role in 2002's \"Panic Room\" because her mom wouldn't let her get a haircut.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/hayden-panettiere-reason-for-panic-room-recast-memoir-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-8139-a2e2-fb6c439ffa81",
-      "title": "I've taken solo trips to more than 22 different countries — here are the 9 things I never travel without",
-      "summary": "As a woman who's traveled alone to many countries, I never leave home without packing my essentials, like a 55-liter backpack and a water filter.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/things-you-need-traveling-alone-frequent-solo-traveler-packing-list-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-815a-8faa-f660b883c146",
-      "title": "比亚迪宋 Ultra DM-i 上市：搭载“迪迪虾”，售 12.99 万元起",
-      "summary": "IT之家 5 月 28 日消息，今晚比亚迪在深圳召开“敢为”智能化战略发布会。发布会现场，定位 B 级插混 SUV 的宋 Ultra DM-i 正式上市。新车主打智能座舱、长续航、大空间与舒适配置，并首次将 310 公里纯电续航带入 13 万元级别插混 SUV 市场。IT之家注意到，比亚迪称这是王朝首款搭载“迪迪虾”智能体系统的车型。官方表示，该系统并非传统被动式语音助手，而是具备主动交互能力的 AI 智能体，可根据用户习惯进行主动问候、内容推荐及语音交互。用户可通过自然语言完成找餐厅、订票、播放影视剧等操作，即便记不清歌曲或影视名称，也能通过模糊描述完成搜索。比亚迪称，该系统强调“技术主动适",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/790.htm"
-    },
-    {
-      "id": "36e03df8-2d23-81de-9886-eb7414a2f298",
-      "title": "英特尔锐炫 G 掌机处理器发布，宏碁、微星、壹号掌机等将推出首批终端设备",
-      "summary": "IT之家 5 月 28 日消息，Intel（英特尔）今日正式发布了其专为掌上游戏搭载打造的处理器家族 —— 锐炫 (Arc) G 系列，首发产品包括锐炫 G3 标准版和定位更高的锐炫 G3 Extreme。英特尔表示锐炫 G3 系列处理器特别为掌机设计，通过优化的核心数量、电源管理和软件，带来领先的性能与能效，在提供流畅、沉浸式游戏体验的同时，兼顾卓越的电池续航而无需折损性能。锐炫 G3 和锐炫 G3 Extreme 与第三代酷睿 Ultra 一样基于 \"Panther Lake\" 芯片，CPU 部分为 2P + 8E + 4LPE，GPU 最高可配备 Arc B390，内存频率可达 8533",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/789.htm"
-    },
-    {
-      "id": "36e03df8-2d23-81ab-9ceb-f052f7d5b408",
-      "title": "An EU immigration change is creating 3-hour lines in some European airports. What to know before you travel.",
-      "summary": "If you're flying to Europe this summer, be prepared for a long wait to get through immigration checkpoints.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/europe-travel-airport-lines-immigration-passport-control-border-checks-2026-4"
-    },
-    {
-      "id": "36e03df8-2d23-818e-aa6c-dff0d5f97899",
-      "title": "小米 17T/Pro 海外发布：7000mAh 电池“国际版机型迄今最大”，749 欧元起",
-      "summary": "IT之家 5 月 28 日消息，北京时间今晚，小米 17T 和 17T Pro 手机正式发布，两款新机定位为 17 系列旗舰的更低价版本。按照 T 系列一贯思路，17T 和 17T Pro 更强调性能而非影像，同时配备了小米国际版手机迄今最大的电池。17T 搭载 6500mAh 硅碳电池，17T Pro 电池容量进一步增加到 7000mAh，两款机型均搭载联发科天玑芯片组，并配备 12GB 内存。其中，17T 搭载天玑 8500-Ultra，17T Pro 则搭载天玑 9500。Pro 版本机身更大，屏幕尺寸为 6.83 英寸，17T 为 6.59 英寸；Pro 版本还拥有 144Hz 刷新率",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/788.htm"
-    },
-    {
-      "id": "36e03df8-2d23-8142-b7bb-f497a923b55b",
-      "title": "6 月 3 日-10 日，Bungie《失落星船：马拉松》开启免费试玩",
-      "summary": "IT之家 5 月 28 日消息，《失落星船：马拉松》第二赛季将于 6 月 3 日开启，Bungie 届时会向新玩家开放为期一周的免费试玩。本次试玩将持续至 6 月 10 日，覆盖 Steam、PS5 和 Xbox Series X/S。玩家如果试玩后购买正式版，试玩期间的进度可以直接继承。当地时间周三，Bungie 在博客文章中还公布了第二赛季几项核心新增内容：全新防御型疾行者躯壳 Sentinel、夜间版 Dire Marsh 地图，以及 Cradle 自定义系统。经过重新设计后，Dire Marsh 会进一步强化《失落星船：马拉松》的宇宙恐怖氛围。Bungie 表示：“这个新区会在 Dir",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/786.htm"
-    },
-    {
-      "id": "36e03df8-2d23-8167-8c8c-dbbfc3bdf23b",
-      "title": "I'm an American mom in Germany. I let my 8-year-old walk to school alone — other parents asked me why it took so long.",
-      "summary": "As an American mom in Germany, I struggled with the anxiety of letting my child walk to school alone. The experience transformed his confidence.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/parenting-anxiety-kids-walking-to-school-independently-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-8109-b50f-c1dcd6006e79",
-      "title": "高通骁龙 C 处理器发布，瞄准 300 美元入门级 Windows 笔记本市场",
-      "summary": "IT之家 5 月 28 日消息，数年前，首批搭载高通骁龙 X 系列处理器的 Windows 笔记本电脑与平板设备正式上市，这类产品凭借出色的续航能力和人工智能性能脱颖而出。此前该系列芯片主要应用于中高端笔记本，而高通今日又推出了一款面向入门级笔记本的全新 Windows 平台处理器。在台北国际电脑展开幕前夕，高通正式发布了骁龙 C 处理器，首批搭载该处理器的设备将于今年晚些时候上市。官方表示，这款芯片将搭载在售价 300 美元（IT之家注：现汇率约合 2038 元人民币）及以上的笔记本中，标志着骁龙平台正式全面入局主流消费级 Windows 笔记本市场。高通称，该芯片主打教育场景、小微企业以及",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/785.htm"
-    },
-    {
-      "id": "36e03df8-2d23-810a-955a-cf673bc901e4",
-      "title": "The most and least educated US states, ranked by the share of adults with a bachelor's degree or higher",
-      "summary": "Educational attainment varies widely across the US. See the states with the highest and lowest shares of adults with bachelor's degrees or higher.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/most-least-educated-states-bachelors-degrees-or-higher"
-    },
-    {
-      "id": "36e03df8-2d23-813a-8762-c2d58b00c3a0",
-      "title": "Xiaomi 17T Pro arrives with the company’s biggest battery yet",
-      "summary": "Xiaomi has announced the 17T and 17T Pro, two cheaper spins on its 17 series flagships. As is usual for the T-series, the focus is more on performance than photography, with the biggest batteries Xiaomi has included on any of its phones outside China yet. The 17T includes a 6,500mAh silicon-carbon b",
-      "source": "The Verge",
-      "publishTime": "2026-05-28",
-      "link": "https://www.theverge.com/tech/938795/xiaomi-17t-pro-launch-specs-battery-price"
-    },
-    {
-      "id": "36e03df8-2d23-816c-8045-eb5c31d492b1",
-      "title": "Intel’s first handheld gaming chip is the Arc G3, and this Acer is using it",
-      "summary": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today, it's formally announcing them as the Ar",
-      "source": "The Verge",
-      "publishTime": "2026-05-28",
-      "link": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming"
-    },
-    {
-      "id": "36e03df8-2d23-8114-b49c-c18d19bea0ee",
-      "title": "Qualcomm promises $300 Windows laptops with new Snapdragon C",
-      "summary": "They started at $1,000. Then $700. Then $600 budget machines. Now, Qualcomm says the price of its Arm-based Windows laptops will hit $300 this year. Even though RAMageddon has yet to subside and PC prices keep climbing, the company says it's built a new budget laptop platform called Snapdragon C - \"",
-      "source": "The Verge",
-      "publishTime": "2026-05-28",
-      "link": "https://www.theverge.com/tech/938665/qualcomm-promises-300-windows-laptops-with-new-snapdragon-c"
-    },
-    {
-      "id": "36e03df8-2d23-81fd-92a3-e0e4e921f0ad",
-      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
-      "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-28",
-      "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/"
-    },
-    {
-      "id": "36e03df8-2d23-8153-b470-d0067aaa7dd5",
-      "title": "汽车变成“超级秘书”：比亚迪发布超级智能体“迪迪虾”",
-      "summary": "IT之家 5 月 28 日消息，今晚比亚迪在深圳召开“敢为”智能化战略发布会。发布会现场，比亚迪发布了超级智能体迪迪虾，实现全舱记忆，跨域互动，端云协同，快慢思考。比亚迪表示，随着 AI 大模型与整车智能深度融合，汽车正在从传统的功能型工具向具备主动服务能力的“智能体”演进。据官方介绍，迪迪虾是比亚迪基于整车智能体系打造的“超级智能体”，核心目标是让车辆具备更自然的人机交互、主动服务和复杂任务处理能力。比亚迪称，其全面升级了中央大脑与整车智能体的情感架构，使其能够围绕用户需求提供更具个性化的服务体验。IT之家注意到，在现场演示中，迪迪虾展示了基于端到端自然语言对话的大模型能力。系统不仅可以与用",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/784.htm"
-    },
-    {
-      "id": "36e03df8-2d23-81e6-abfc-c7c61acbf8f7",
-      "title": "I booked a solo photo shoot on my trip to Paris. I didn't know what to expect, but it turned out to be worth every cent.",
-      "summary": "On a trip to Paris, I booked a solo photo shoot. I felt awkward at first, but eventually grew more confident, and I found it worth the money.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/booked-photo-shoot-paris-flying-dress-grew-confidence-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-811b-a68b-d10561d34311",
-      "title": "微信 iOS 版 8.0.74 最新官方正式版下载发布",
-      "summary": "IT之家 5 月 28 日消息，微信 iOS 平台迎来了 8.0.74 正式版更新。官方更新日志为：本次更新：- 解决了一些已知问题。 大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/783.htm"
-    },
-    {
-      "id": "36e03df8-2d23-81e5-8820-dc4bed3c16bc",
-      "title": "先睹为快：苹果 iOS 27 全新 Siri 界面示意图曝光",
-      "summary": "IT之家 5 月 28 日消息，彭博社今日曝光了多张全新图片，让我们得以首次一睹 iOS 27 系统中苹果重新设计的 Siri 界面。这批由彭博社制作的示意图，展示了新版 Siri 界面、Siri 对话机器人应用等多项内容。报道称：“这些图片基于彭博社获取的信息，以及多位了解苹果相关规划、且因该系统尚未正式发布而要求匿名的知情人士内容制作。苹果内部通常会对各项功能测试多款设计方案，今年 6 月正式对外推出的最终版本或许会有所不同。”Siri App：搜索 / 问答界面：IT之家注意到，这份报道基本延续了彭博社此前关于 Siri 新界面的相关消息，只是本次搭配了示意图进行展示。报道提到，在 iO",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/782.htm"
-    },
-    {
-      "id": "36e03df8-2d23-81ea-803c-ef1128d82de8",
-      "title": "法拉利 CEO 维尼亚：首款电车 Luce 已有新老客户下订，看到实车才能感觉它的独特",
-      "summary": "IT之家 5 月 28 日消息，据彭博社 28 日（今天）报道，法拉利首款纯电车型 Luce 定价为 55 万欧元，外观也引发了一波批评。不过，CEO 贝内代托 · 维尼亚表示，新车已经开始获得老客户和新客户的订单。维尼亚在意大利摩德纳的一场活动上表示：“Luce 和你们从其他厂商那里看到的纯电汽车没有任何关系。你必须亲眼看到并驾驶 Luce，才能明白 Luce 不是复制品，内饰不是，外观不是，性能也不是。”法拉利首款纯电车型，意味着公司告别单纯依赖燃油跑车的传统。2014 年离任的法拉利前董事长卢卡 · 科尔德罗 · 迪 · 蒙特泽莫罗也谈到了 Luce，认为这款车恐将毁掉一个汽车制造传奇。",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/781.htm"
-    },
-    {
-      "id": "36e03df8-2d23-8144-bebb-eed061bd2ddb",
-      "title": "My mom's assisted living costs her over $7,000 monthly. I'm considering moving to Spain so my own long-term care will be cheaper.",
-      "summary": "Rod Dubitsky's mother is paying over $7,000 monthly in assisted living. He's considering moving to Spain so his long-term are costs will be lower.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/caring-for-mother-assisted-living-draining-savings-moving-to-spain-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-8140-8faa-d8f457746ffc",
-      "title": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶",
-      "summary": "IT之家 5 月 28 日消息，在今天晚间的比亚迪智能化战略发布会上，王传福正式发布比亚迪自研的中国首款 4nm 智驾芯片“璇玑 A3”，支持 L3/L4 自动驾驶。据IT之家了解，该芯片已开启规模化量产，支持 L3、L4 自动驾驶，三颗芯片总算力超 2100TOPS，结合比亚迪自研算法深度优化，算力利用率提升 100%。王传福透露，早在 2002 年，比亚迪就组建了自己的芯片团队 ——IC 设计部，即比亚迪半导体前身。目前，比亚迪已推出 2000 多款芯片产品，覆盖智能汽车、消费电子等各个领域。比亚迪现拥有 5 座晶圆工厂，掌握从产品定义、架构设计、电路设计到晶圆制造、封装、测试七大步骤，是",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/780.htm"
-    },
-    {
-      "id": "36e03df8-2d23-8194-bbe7-e36b2fe31e3d",
-      "title": "My daughter is in college and almost never asks me for money. Instead, she works on campus and budgets $100 a week.",
-      "summary": "My college-age daughter never asks me for money. When I asked her about it, she told me she likes the independence of paying her own way.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/college-daughter-never-asks-money-budgets-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-813e-9871-ce3d496cb028",
-      "title": "Wix is laying off 20% of staff. Read the memo — and yes, it mentions AI.",
-      "summary": "Wix CEO Avishai Abrahami announced a 20% staff reduction, citing AI advancements and currency shifts as driving factors for the layoffs.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/wix-layoffs-ai-ceo-memo-job-cuts-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-81a8-bf1c-c2a6da8a23f7",
-      "title": "王传福：比亚迪天神之眼自动驾驶版（L3 / L4）将首搭超千线激光雷达",
-      "summary": "IT之家 5 月 28 日消息，在今晚的比亚迪智能化战略发布会上，比亚迪董事长兼总裁王传福宣布，高等级自动驾驶从「遥不可及」到「指日可待」。他透露，天神之眼自动驾驶版（L3 / L4）将首搭超千线激光雷达、闪拍摄像头、双远红外摄像头等配置。IT之家注意到，王传福还强调，电动化上半场看电池，智能化下半场看芯片。王传福表示，比亚迪是国内首个造出车规级 IGBT、SiC 功率芯片的企业。",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/779.htm"
     }
   ],
   "macroEvents": [
