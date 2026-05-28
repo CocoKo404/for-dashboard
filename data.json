@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-05-29 04:42",
+  "updatedAt": "2026-05-29 06:52",
   "news": [
+    {
+      "id": "36e03df8-2d23-81b5-887a-e6d7b05d4854",
+      "title": "The city of Coachella considers a data center moratorium after big-time backlash",
+      "summary": "Hundreds of Coachella residents showed up to protest a proposed data center, prompting the city council to consider a moratorium.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/coachella-considers-halting-a-major-data-center-project-amid-protests-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-8185-973a-db8911d86c76",
+      "title": "The internet is being rebuilt for machines",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/"
+    },
+    {
+      "id": "36e03df8-2d23-8115-84a6-f42b09f2181e",
+      "title": "Treasury Department says it's 'prepared' to put Trump's face on a new $250 bill if legislation passes",
+      "summary": "Treasury Secretary Scott Bessent said his agency is \"prepared\" to print a $250 bill with Trump's face if legislation to change current US law passes.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/250-bill-donald-trump-face-treasury-secretary-prepared-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-819e-8e0b-ee533e5fa2e5",
+      "title": "Ken Griffin's $238 million New York City penthouse isn't the only pied-à-terre he owns. See what else is in his portfolio.",
+      "summary": "Citadel CEO Ken Griffin doesn't approve of New York City Mayor Mamdani's pied-à-terre tax. See all the homes he owns around the country — and the world.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/ken-griffin-citadel-real-estate-portfolio-nyc-penthouse-homes-photos-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-81bd-a628-c9ffb16e4e4c",
+      "title": "Substack cofounder says it's making 'fast progress' on tools for larger publishers, following The Ankler's defection",
+      "summary": "Substack cofounder Hamish McKenzie said the platform was \"pretty close\" to rolling out sponsorships more widely and debuting other tools.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/substack-hamish-mckenzie-working-on-tools-for-bigger-publishers-ankler-2026-5"
+    },
+    {
+      "id": "36e03df8-2d23-81ca-a349-f66c411c2bb3",
+      "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
+      "summary": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/"
+    },
+    {
+      "id": "36e03df8-2d23-8171-9c2b-c253c694fc76",
+      "title": "戴尔 2027 财年第一财季归母净利润 34.38 亿美元，同比增长 256%",
+      "summary": "IT之家 5 月 29 日消息，戴尔今日发布 2027 财年（2026 年 2 月 1 日～2027 年 1 月 29 日）第一财季（2026 年 2 月 1 日～2026 年 5 月 1 日）报告： 营业总收入： 438.42 亿美元，同比增长 88.00% 毛利： 77.82 亿美元，同比增长 58.00% 毛利率：17.8%，同比下降 3.30% 归母净利润： 34.38 亿美元，同比增长 256.00% 经营现金流： 40.81 亿美元，同比增长 46.00% 自由现金流： 31.65 亿美元，同比增长 42.00% 基本每股收益：5.30 美元/股，同比增长 281.29% 稀释每股",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/824.htm"
+    },
+    {
+      "id": "36e03df8-2d23-81d9-b31a-f69cc7f58f4c",
+      "title": "Nintendo&#8217;s newest WarioWare is a weirdo smartphone app",
+      "summary": "A decade ago, Nintendo made a big splash into the world of mobile gaming with a new Super Mario platformer directed by none other than Shigeru Miyamoto. But even though the game proved popular, it wasn't the success the company had hoped for. Over the ensuing years Nintendo has slowly retreated from",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game"
+    },
+    {
+      "id": "36e03df8-2d23-81de-aa48-df69c4cdc26a",
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolli",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign"
+    },
     {
       "id": "36e03df8-2d23-818f-90c2-d97740e50315",
       "title": "Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle",
@@ -328,78 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-05-29",
       "link": "https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support"
-    },
-    {
-      "id": "36e03df8-2d23-81a7-b093-c45e576960c0",
-      "title": "Mamdani announced New York City's answer to DOGE",
-      "summary": "Mayor Zohran Mamdani is launching his own government efficiency effort to cut red tape and reduce unnecessary spending in NYC.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/mamdani-launched-his-own-version-of-doge-elon-musk-efficency-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-81a2-8462-cdfd8de99f22",
-      "title": "What’s next for Microsoft’s Surface PCs?",
-      "summary": "Nearly 10 years ago I reviewed my favorite Surface device. Microsoft hand-delivered its Surface Studio all-in-one PC to me, and I was hooked from the moment I switched it on. It had a beautiful floating touchscreen that you could push all the way down into a drawing board mode, making it unlike anyt",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/tech/938807/microsoft-surface-future-devices-notepad"
-    },
-    {
-      "id": "36e03df8-2d23-810f-9d8b-fb8bc1dcc3eb",
-      "title": "Waymo opens Ojai robotaxis to select riders as company aims to lower cost of fleet expansion",
-      "summary": "Alphabet's Waymo is adding new vehicles to its fleet of public robotaxis and is opening up its roomier Ojai vehicles to some riders.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-28",
-      "link": "https://www.cnbc.com/2026/05/28/waymo-opens-ojai-robotaxis-to-some-riders-aims-to-lower-cost-of-fleet.html"
-    },
-    {
-      "id": "36e03df8-2d23-81de-83c5-fe11961433ee",
-      "title": "I'm a financial planner and dad. Trump Accounts come with a free $1,000, but I still prefer my current savings strategy.",
-      "summary": "Trump Accounts offer $1,000 for US-born kids between 2025-2028, but financial advisor Eric Roberge suggests 529 plans may still be the better option.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-28",
-      "link": "https://www.businessinsider.com/trump-accounts-vs-529-plans-which-better-college-savings-2026-3"
-    },
-    {
-      "id": "36e03df8-2d23-81ae-be83-d8528659ee88",
-      "title": "Jim Cramer says to buy these two stocks — including one with nearly 20% upside",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-28",
-      "link": "https://www.cnbc.com/2026/05/28/jim-cramer-says-to-buy-these-two-stocks-including-one-with-nearly-20percent-upside.html"
-    },
-    {
-      "id": "36e03df8-2d23-818b-887a-fbdde0fd21f6",
-      "title": "零零科技发布全球首款 100% 防水飞行相机哈浮 AQUA，8999 元起",
-      "summary": "IT之家 5 月 28 日消息，零零科技今日正式发布哈浮 AQUA 飞行相机。据介绍，这是世界上首款专为水上运动打造的 100% 防水飞行相机，基础套装零售价为 8999 元、畅飞套装零售价为 9999 元。京东 HOVER CAMERA 哈浮 AQUA 水上运动飞行相机券后 9349 元领 650 元券据介绍，AQUA 延续了哈浮飞行相机经典的 AI 智能运镜、无需遥控器的交互体验，并在 IP67 专业级防尘防水、水面起降可靠性以及专为水上运动优化的飞行性能等方面实现了突破，适用于水上飞翼、尾波滑水、风筝冲浪、皮划艇、帆船、桨板、水上摩托艇等水上运动与休闲场景。AQUA 还支持单人水上动态拍",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/823.htm"
-    },
-    {
-      "id": "36e03df8-2d23-813e-acc9-ece63e394cff",
-      "title": "《使命召唤：现代战争 4》官宣：首度登陆任天堂 Switch 2，10 月 23 日发售",
-      "summary": "IT之家 5 月 28 日消息，今年的《使命召唤》新作《使命召唤：现代战争 4》将成为现代战争系列首款放弃 PS4 和 Xbox One 的作品，只面向本世代硬件推出。《使命召唤：现代战争 4》将于 10 月 23 日周五全球发售，登陆 Xbox Series X|S、PlayStation 5、PC 和任天堂 Switch 2。开发商 Infinity Ward 确认，新作将延续更“硬派”“真实”的风格，故事背景设定在韩国，并首次登陆任天堂 Switch 2。IT之家附预告片如下： 《现代战争 4》依旧包含三大核心模式：战役、多人模式和 DMZ。动视称，本作是系列的“全新技术标杆”，并且专门",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/822.htm"
-    },
-    {
-      "id": "36e03df8-2d23-8196-81b4-f60359d49a83",
-      "title": "华为余承东：全新途灵龙行平台首创全域融合架构、全链路八大冗余设计，为 L3 时代做好了准备",
-      "summary": "IT之家 5 月 28 日消息，鸿蒙智行全新一代问界 M9 已于昨日正式发布，新车全系首发搭载华为乾崑智驾 ADS 5，定价 47.98 万元起。IT之家注意到，在昨天发布会的现场，余承东还谈及了新车全新华为途灵龙行平台首创的全域融合架构和全链路八大冗余设计，并表示其就是为 L3 时代做好了准备。余承东直言，就等国家 L3 牌照的发放，期待国内的 L3、L4 早点到来。 据IT之家此前报道，在今年 4 月的智能电动汽车发展高层论坛（2026）期间，华为智能汽车解决方案 BU CEO 靳玉志表示，华为乾崑定期公布的安全出行报告将为中国自动驾驶系统的发展提供积累，并可用于判断何时可进入到真正的完全",
-      "source": "IT之家",
-      "publishTime": "2026-05-28",
-      "link": "https://www.ithome.com/0/956/821.htm"
-    },
-    {
-      "id": "36e03df8-2d23-815a-91b0-e1eb00a1acf4",
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
-      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-28",
-      "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/"
     }
   ],
   "macroEvents": [
