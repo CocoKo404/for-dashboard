@@ -1,6 +1,190 @@
 {
-  "updatedAt": "2026-05-29 06:52",
+  "updatedAt": "2026-05-29 09:31",
   "news": [
+    {
+      "id": "36f03df8-2d23-8179-ab64-cdeb154e2483",
+      "title": "美国造车新势力 Rivian 称 AI 重塑车机交互，讨论整合苹果 CarPlay 变得过时",
+      "summary": "IT之家 5 月 29 日消息，在接受《Decoder》采访中，美国造车新势力 Rivian 软件负责人瓦西姆 · 本赛德（Wassym Bensaid）表示，称随着 AI 技术推进，再讨论是否需要整合苹果车联方案 CarPlay 即将“过时”。本赛德表示，汽车正从“软件定义”走向“AI 定义”，更深层的车内 AI 集成，会让围绕 CarPlay 的争论变得“过时”。本赛德认为伴随着智能体 AI 的加速落地，车主和乘客的交互方式不再仅仅局限于打开某个 App，它会彻底改变用户与应用交互的方式，让系统直接理解并执行任务。IT之家援引博文介绍：本赛德强调，所谓“屏幕镜像方案”会接管车内“每一个像素",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/838.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81ad-8dc1-f0cfcd125794",
+      "title": "亚马逊 Fire TV 出现开机全屏弹窗广告，需手动关闭才能看电视",
+      "summary": "IT之家 5 月 29 日消息，据 AFTVnews 昨日报道，亚马逊 Fire TV 流媒体电视盒子现在每次开机都会看到一个新的全屏弹窗广告。在此之前，Fire TV 用户还会看到全屏视频广告。这则广告推广的是经过重新设计的 Fire TV 应用，邀请用户将其下载到手机上。广告中包含一个二维码，可直接跳转到谷歌 Play 商店或苹果 App Store。该广告占据整个屏幕，用户需要手动关闭才能进入系统主界面。实际上，弹窗在 Fire TV 上并不罕见。这款设备确实偶尔会弹出通知，例如无法检测到已配对的遥控器，或者有系统更新可用。虽然这些提示方式也不是最理想的，但至少属于信息告知范畴，且与设备",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/839.htm"
+    },
+    {
+      "id": "36f03df8-2d23-815a-8385-fcf7b33fcae7",
+      "title": "The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook",
+      "summary": "Claims about low testosterone and false accusations of veganism might play well to the online far-right, but will they win an election?",
+      "source": "Wired",
+      "publishTime": "2026-05-29",
+      "link": "https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/"
+    },
+    {
+      "id": "36f03df8-2d23-8171-9be1-f1e5ea595147",
+      "title": "Anthropic 融资 650 亿美元，筹备近万亿美元估值 IPO",
+      "summary": "IT之家 5 月 29 日消息，据科技媒体 TechCrunch 昨天报道，AI 初创公司 Anthropic 在最新一轮融资中成功筹集 650 亿美元（现汇率约合 4416.04 亿元人民币），投后估值达 9650 亿美元（现汇率约合 6.56 万亿元人民币），预计为该公司进入公开市场前最后一次私募融资。据报道，本次 H 轮融资由 Altimeter Capital、Dragoneer、Greenoaks、Sequoia Capital 等机构共同领投，参与融资的投资者 / 机构还包括黑石集团、DST Global、百利吉福德等，三星、SK 海力士、美光等战略合作伙伴也参与了本轮融资。值得注",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/837.htm"
+    },
+    {
+      "id": "36f03df8-2d23-818e-8cdf-c787d079d98d",
+      "title": "Humanoid robots 'the future' of car making, says BMW",
+      "summary": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-29",
+      "link": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "36f03df8-2d23-8117-b66e-c6d86b9119d5",
+      "title": "Tesla Robotaxi fleet in Texas less than one-tenth size of Waymo's, filings reveal",
+      "summary": "Tesla has registered 42 automated vehicles in its driverless Robotaxi service in Texas, putting it far behind Waymo in the state.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-29",
+      "link": "https://www.cnbc.com/2026/05/28/tesla-robotaxi-fleet-texas-one-tenth-size-of-waymos-filings-reveal.html"
+    },
+    {
+      "id": "36f03df8-2d23-8185-9d48-c5352345569e",
+      "title": "苹果 iOS 27 爆料：用 Gemini 训练本地 AI，部分 Siri 请求转向谷歌云",
+      "summary": "IT之家 5 月 29 日消息，科技媒体 The Information 昨日（5 月 28 日）发布博文，深度披露苹果和谷歌在 AI 方面的合作细节。在部署策略方面，苹果始终围绕着隐私优先原则，深耕本地端侧 AI 处理方案，使用“蒸馏”（Distillation）方案，基于谷歌 Gemini 模型来训练轻量端侧 AI 模型。IT之家注：知识蒸馏，是指将大模型（教师模型）的知识迁移到小模型（学生模型）的技术，让小模型获得接近大模型的表现，从而大幅降低推理成本。消息称苹果 AI 团队正从充分调用谷歌 Gemini 模型，“教”出一个更轻量的版本，让它能在 Apple 设备端运行。对于用户而言，在",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/836.htm"
+    },
+    {
+      "id": "36f03df8-2d23-819c-b5d3-e910efc1d896",
+      "title": "IT早报 0529：估值 450 亿美元，曝大基金领投 DeepSeek 首轮融资；比亚迪发 4nm 璇玑 A3 芯片并推城市领航兜底；京沪联手指导美团、淘宝、京东三大外卖平台...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 29 日星期五，今天的重要科技资讯有：1、消息称国家大基金领投 DeepSeek 首轮融资，投前估值 450 亿美元参与交易谈判的投资人称，本轮融资由国家集成电路产业投资基金（简称“国家大基金”）领投，数家市场化投资机构也在谈判名单上。>> 查看详情2、中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶该芯片已开启规模化量产，支持 L3、L4 自动驾驶，三颗芯片总算力超 2100TOPS，结合比亚迪自研算法深度优化，算力利用率提升 100%。>> 查看详情3、王传福：比亚迪率先承诺为城市领航安全兜底 1 年",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/835.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81fe-a41a-e7bd3bce9b06",
+      "title": "曝苹果即将开启 2026 年返校季促销活动，赠品尚不明确",
+      "summary": "IT之家 5 月 29 日消息，据科技媒体 MacRumors 昨天报道，后台代码显示，苹果已开始为美国、加拿大市场的 2026 返校季促销活动做准备。据报道，苹果每年都会在 6 月举行返校季促销活动，购买 Mac 或 iPad 的教师或学生可在教育优惠基础上，免费获得配件或礼品卡。这种促销活动通常会在 6 月中旬开始、9 月底结束，但我们目前还不知道活动的具体开始日期，因此学生们无需急着采购苹果设备。去年，苹果为符合资格的学生、教育工作者提供价值 199 美元（IT之家注：现汇率约合 1352 元人民币）的配件赠品，可选赠品包括主动降噪版 AirPods 4、妙控鼠标、妙控板、带触控 ID ",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/834.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8100-a40f-e825b67bf980",
+      "title": "员工刷榜导致算力成本上升：亚马逊叫停内部 AI 排行榜并提醒不要为了用 AI 而用 AI",
+      "summary": "IT之家 5 月 29 日消息，据《金融时报》今日报道，亚马逊本周刚关闭了一项内部 AI 排行榜，原因是员工为了“刷分”而进行不必要的操作，导致公司的算力成本急剧上升。这家市值 2.9 万亿美元（IT之家注：现汇率约合 19.7 万亿元人民币）的集团本周告知员工，其名为“Kirorank”的服务（基于员工在亚马逊 Kiro 开发者平台上的 AI 活动进行评分）已下线。知情人士透露，有部分员工为了提高自己的排名，故意让 AI 智能体去完成一些无谓的任务。在这种情况下，其他员工也不得不加入“刷分”的行列。亚马逊高级副总裁戴夫 · 特雷德韦尔对员工表示，这个排行榜的初衷是“好的”，结果员工为了“最大",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/833.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8133-b372-d448255534c7",
+      "title": "微软《帝国时代 II：决定版》游戏今日登陆苹果 Mac 平台",
+      "summary": "IT之家 5 月 29 日消息，微软《帝国时代 II：决定版》（Age of Empires II：Definitive Edition）游戏今天（5 月 28 日）正式登陆苹果 Mac 平台。该游戏原生适配 Apple Silicon 芯片，提供 4K 画面、重制配乐和新动画，目前已在 Steam 和 Feral Store 开售，价格为 34.99 美元，已购 Steam PC 版的玩家无需额外付费，可以直接在 Mac 版 Steam 中下载对应版本游戏。本作在 Steam 平台国区本体定价为 188 元，macOS 版需要 Apple 芯片（M1/A18 Pro）起步，不支持英特尔处理器",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/832.htm"
+    },
+    {
+      "id": "36f03df8-2d23-811f-8e93-f01ee3249f2d",
+      "title": "This is the greatest time ever for semiconductors, says CEO of key equipment supplier",
+      "summary": "Applied Materials CEO Gary Dickerson said the semiconductor industry is experiencing its strongest period ever.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-29",
+      "link": "https://www.cnbc.com/2026/05/28/this-is-the-greatest-time-ever-for-semiconductors-says-ceo-of-key-equipment-supplier.html"
+    },
+    {
+      "id": "36f03df8-2d23-81e0-8a4f-e76bdddc6b6d",
+      "title": "I thought focusing on grades would push my son harder. It crushed his confidence instead.",
+      "summary": "My son used to apologize for his report card before I even opened it. Now I have a different approach to giving feedback.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/kid-student-report-card-day-how-to-handle-2026-5"
+    },
+    {
+      "id": "36f03df8-2d23-8122-b625-e800dbce4959",
+      "title": "苹果公布最新供应链调查结果：未发现供应商资助刚果武装组织",
+      "summary": "IT之家 5 月 29 日消息，据 9to5mac 报道，苹果公司今天向美国证券交易委员会（SEC）提交了年度冲突矿产披露文件，详细介绍了其覆盖 iPhone、Mac 等产品的供应链审查情况。去年 11 月，国际权利倡导组织（IRAdvocates）第二次起诉苹果，指控其供应链中仍包含与刚果民主共和国（DRC）及卢旺达地区童工、强迫劳动和武装组织有关的矿产。2024 年初，该组织曾就钴矿采购问题起诉苹果及其他四家科技公司，但该诉讼后来被驳回。苹果一直否认这些指控，并通过官网透明中心发布了关于供应链、人权、供应商行为准则和负责任采购的材料与报告。此次披露涉及 2025 年 1 月 1 日至 12",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/831.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81cd-a378-f089a137e3fc",
+      "title": "微软承认 Win11 现代应用缩放效果表现不佳，改进版本今夏发布",
+      "summary": "IT之家 5 月 29 日消息，据科技媒体 Windows Latest 今天报道，微软近期正在重振 Win11 原生应用开发计划，目前该公司已确认，WinUI 3 应用将获得类似 UWP 的平滑窗口缩放体验。IT之家从原报道获悉，Windows 11 正经历一次大规模架构转型。多年以来，用户们一直在忍受陈旧界面元素、卡顿网页封装，以及多种现代原生框架并存的混乱局面。对于开发者来说，Windows 11 视觉层面最大的 Bug 便是调整 WinUI 3 应用窗口大小时，边缘会出现难看的黑色撕裂。不过微软已经注意到了这个问题，公司设计部门合伙人总监 March Rogers 透露，修复方案正在积",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/829.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81cd-99dd-d8a6252d5ad6",
+      "title": "WWDC26 预热：苹果下周将展示 14 篇 AI 论文，关联 iOS 27 版图乐园等",
+      "summary": "IT之家 5 月 29 日消息，科技媒体 Appleinsider 昨日（5 月 28 日）发布博文，报道称下周在丹佛举行的 2026 IEEE / CVF 计算机视觉与模式识别会议（CVPR）上，苹果公司计划展示 14 篇 AI 研究论文。根据苹果已公布的论文链接，这些论文主题覆盖图像生成、空间理解、多模态推理、视频建模、图像压缩和手语标注等。关联苹果现有产品的论文内容方面，其中一篇聚焦空间与功能理解，呼应 iOS 27 的 Live Recognition 辅助功能，并可能应用在带摄像头 AirPods 方面。在另一篇论文中涉及图像生成优化、文本引导图像编辑和奖励统一强化学习，预估会应用于",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/830.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8116-9cb5-fc776c451f58",
+      "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/"
+    },
+    {
+      "id": "36f03df8-2d23-814c-a350-d61823b031e6",
+      "title": "十年研究新突破：科学家成功将固氮基因植入新菌株，减少化肥使用新路径",
+      "summary": "IT之家 5 月 29 日消息，华盛顿州立大学的一项新研究成功将根瘤菌中的固氮基因转移到其他无法固氮的菌株中，这一概念验证性发现为未来减少农作物对化肥的依赖开辟了新路径。小麦、玉米等主要作物需大量氮肥才能茁壮生长。但如果像豌豆和大豆那样，由细菌帮助它们直接从大气中获取氮元素，情况会怎样？华盛顿州立大学的研究人员识别出一组关键的基因簇，可以将其从固氮的根瘤菌转移到非固氮细菌中，这一突破意味着，未来或许可以通过基因工程改造栖息于谷类作物中的微生物，使其也能从大气中固氮。据官方介绍，该研究过程历时十年，研究成果已于 5 月 27 日发表于《当代生物学》期刊。其研究聚焦于一个关键的进化过程 —— 内共",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/828.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8129-8a6e-c1d69813c8e3",
+      "title": "Claude Opus 4.8 上线：提升 AI 编程可靠性，减少无依据结论",
+      "summary": "IT之家 5 月 29 日消息，Anthropic 今天（5 月 29 日）宣布推出旗舰新模型 Claude Opus 4.8，主打更强的智能体编程、多领域推理和知识工作能力。官方表示，相比较 Opus 4.7 模型，本次 Opus 4.8 更新幅度较小，在保持价格不变的情况下，主要提升编程、智能体、推理和知识工作等用户能感知的方面。能力层面，官方援引多家早期测试方反馈称，表示 Opus 4.8 “更可靠，判断也更敏锐”，在复杂多步骤任务中判断更稳，能主动提问、识别自身错误，并在计划不合理时提出异议。官方评估显示，和前代相比，Opus 4.8 放任自己所写代码缺陷、却不加说明的概率降低至四分之",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/827.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81f2-adbc-eeb4bc5e5e41",
+      "title": "首次亮相：央视揭秘军事智能“黑科技”机器獒",
+      "summary": "IT之家 5 月 29 日消息，据央视报道，在北京举行的第十一届中国（北京）军事智能技术装备博览会（即北京军博会）上，一系列以“机器獒”命名的国产地面无人装备首次全谱系亮相，引发广泛关注。本届军博会以“无人具身智能引领，指挥控制体系赋能”为主题，旨在推动新质生产力向新质战斗力高效转化。作为该领域的前沿观察平台，此次展出的“机器獒”并非简单孤立的地面作战单元，而是一套可依据任务需求灵活配置的开放式作战基座。这款装备被命名为“獒”，彰显出与传统“机器狗”或“机器狼”截然不同的战略定位。如果说消费级“机器狗”象征辅助与从属，此前被称为“机器狼”是强调集群协同，那么“獒”则代表着更强悍的单体性能与独立",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/826.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81d3-ac37-f8e5d9a6d8c4",
+      "title": "万兆宽带体验：实测显示 6G 终端原理样机系统下行峰值速率可达 10Gbps",
+      "summary": "IT之家 5 月 29 日消息，据新华社报道，中国电信研究院、中国电信股份有限公司湖北分公司联合中信科移动通信技术股份有限公司昨日在武汉开展 6G 终端原理样机系统下行峰速测试。结果显示，单台终端下行峰值速率达到 5Gbps，系统下行峰值速率可达 10Gbps，验证了 6G 技术吞吐量和频谱效率的巨大潜力。据报道，本次测试的 6G 试验系统由通感算智 6G 云化基站、超大规模 AAU（IT之家注：有源阵列天线处理单元）和 6G 终端原理样机组成。其中核心 AAU 设备最大可支持 128 个数字通道和 1024 个天线振子。为超高速率、超低时延的网络测试铺平道路。实测环节中，技术人员采用 MU-",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/956/825.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81b1-8b5b-c0bd26d390f1",
+      "title": "The seller of a $2.9 million San Francisco home is accepting payment in Anthropic or OpenAI stock",
+      "summary": "The listing for a newly restored three-bedroom home captures San Francisco's AI-fueled real estate frenzy in one line.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/sf-home-is-accepting-payment-in-anthropic-or-openai-stock-2026-5"
+    },
+    {
+      "id": "36f03df8-2d23-8121-93ae-e31fd62f86f7",
+      "title": "Jim Cramer says these 3 mistakes are keeping investors out of AI winners",
+      "summary": "CNBC’s Jim Cramer pointed to three reasons investors may be missing some of the market’s biggest AI winners.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-29",
+      "link": "https://www.cnbc.com/2026/05/28/jim-cramer-says-these-3-mistakes-are-keeping-investors-out-of-ai-winners.html"
+    },
     {
       "id": "36e03df8-2d23-81b5-887a-e6d7b05d4854",
       "title": "The city of Coachella considers a data center moratorium after big-time backlash",
@@ -216,190 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-05-29",
       "link": "https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale"
-    },
-    {
-      "id": "36e03df8-2d23-8138-8113-fee13bdd0beb",
-      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-      "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-29",
-      "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/"
-    },
-    {
-      "id": "36e03df8-2d23-8135-8b78-c19cb7cf6ff0",
-      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
-      "summary": "Attorney General Rob Bonta alleges the company lied about the breach's severity.",
-      "source": "BBC Tech",
-      "publishTime": "2026-05-29",
-      "link": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "36e03df8-2d23-81f5-b8ae-c6ef1b4205e0",
-      "title": "The same location data that helps apps and advertisers track everyday phone users could be putting US troops at risk",
-      "summary": "Troops deployed in combat areas are at risk of being tracked and targeted by adversaries using their cellphone location data.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/location-data-track-phone-users-putting-us-troops-at-risk-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-81c1-b823-f7cfd2906a14",
-      "title": "Amazon plans to make SpaceX's Grok models available on its flagship AI service",
-      "summary": "Amazon Web Services is in talks to add Grok models to AWS's Bedrock AI platform, expanding its AI offerings and reach.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/amazon-spacex-grok-models-ai-offering-bedrock-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-81e7-8b16-cee557c7c8a6",
-      "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
-      "summary": "CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1’s unique doctor data.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-29",
-      "link": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/"
-    },
-    {
-      "id": "36e03df8-2d23-8144-a634-d70296956928",
-      "title": "The line between games and movies keeps getting blurrier",
-      "summary": "The most memorable part of 007 First Light is something that's typically pretty boring: the tutorial. In many games, you're forced through a series of tedious lessons in how to play, presented in a way that feels disconnected from the story itself and at a plodding pace. But First Light does somethi",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games"
-    },
-    {
-      "id": "36e03df8-2d23-814f-9877-e7f6ac72e676",
-      "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
-      "summary": "Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communications.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-29",
-      "link": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/"
-    },
-    {
-      "id": "36e03df8-2d23-8104-8158-f9b5a1f53c09",
-      "title": "Read the memo the new '60 Minutes' executive producer sent to staff",
-      "summary": "Nick Bilton, a former New York Times and Vanity Fair columnist, is the new executive producer of \"60 Minutes.\" Read the memo he sent to staff.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/read-memo-60-minutes-new-editor-nick-bilton-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-8114-a58f-ec946b170d89",
-      "title": "Why Paris may be the most important AI city outside Silicon Valley",
-      "summary": "Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-29",
-      "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/"
-    },
-    {
-      "id": "36e03df8-2d23-8100-abe3-cb3f8b1f0143",
-      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
-      "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-29",
-      "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/"
-    },
-    {
-      "id": "36e03df8-2d23-8185-88a7-c0b66799ab7b",
-      "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth three weeks ago",
-      "summary": "Insurance tech Corgi announced today an $106 million Series B1 raise, valuing the company at $2.6 billion, just three weeks after announcing a $160 million Series B.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-29",
-      "link": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/"
-    },
-    {
-      "id": "36e03df8-2d23-8117-b891-dfdee8db6f2f",
-      "title": "Elon Musk says SpaceX has only committed to a 180-day compute agreement with Anthropic",
-      "summary": "On Thursday, Musk wrote on X the deal between SpaceX and Anthropic is a \"180 day lease.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/elon-musk-spacex-anthropic-escape-hatch-2026-5"
-    },
-    {
-      "id": "36e03df8-2d23-8173-a34a-d277ae05d433",
-      "title": "Claude’s new model is more ‘honest’ when it messes up",
-      "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they som",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort"
-    },
-    {
-      "id": "36e03df8-2d23-8147-842a-e4417cb813f4",
-      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-29",
-      "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/"
-    },
-    {
-      "id": "36e03df8-2d23-8111-8de9-dacaa707da9a",
-      "title": "The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are",
-      "summary": "The US military has long known that cheap fixes could stop location data from exposing its troops. It adopted almost none—and now says adversaries are using the data to target soldiers during a war.",
-      "source": "Wired",
-      "publishTime": "2026-05-29",
-      "link": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/"
-    },
-    {
-      "id": "36e03df8-2d23-81a7-bfc9-c9c81e6e1bb8",
-      "title": "7 surprising things I learned when I booked my first cruise",
-      "summary": "I booked my first cruise on Royal Caribbean's Wonder of the Seas and learned some things about cabin pricing and when to schedule flights.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/booking-first-cruise-tips-what-to-know"
-    },
-    {
-      "id": "36e03df8-2d23-814f-9b64-dd9ddd655352",
-      "title": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
-      "summary": "The launch of the Ojai minivan robotaxi comes after years of development and testing, but arrives amid a challenging time for Waymo.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-29",
-      "link": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/"
-    },
-    {
-      "id": "36e03df8-2d23-8192-87fc-f900b3245e75",
-      "title": "Here’s where you can preorder the new Oura Ring 5",
-      "summary": "If you’ve been waiting for a smaller version of the Oura Ring, the company’s latest wearable is now available for preorder ahead of its June 4th release from Oura and various third-party retailers, including both Amazon and Walmart. The Oura Ring 5, which starts at $399, is 40 percent smaller than i",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability"
-    },
-    {
-      "id": "36e03df8-2d23-81c4-aec5-e60a1d9fabf8",
-      "title": "2 major developments at Meta may have just put a floor in on the struggling stock",
-      "summary": "Is now the time to step and buy shares of Meta Platforms?",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-29",
-      "link": "https://www.cnbc.com/2026/05/28/2-major-developments-at-meta-may-have-just-put-a-floor-in-on-the-struggling-stock.html"
-    },
-    {
-      "id": "36e03df8-2d23-81cf-90c1-caa4740522ec",
-      "title": "U.S. says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
-      "summary": "One leading privacy lawmaker said it was time to \"start treating the adtech industry as a national security threat.\"",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-29",
-      "link": "https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/"
-    },
-    {
-      "id": "36e03df8-2d23-8106-9c5b-d1487d76b8ff",
-      "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-      "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood ",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca"
-    },
-    {
-      "id": "36e03df8-2d23-8175-ae42-c0979a33f9cd",
-      "title": "YouTube takes baby steps to being a real podcast app",
-      "summary": "New features coming to YouTube could make it better for listening to podcasts, rolling out to Premium subscribers starting today on Android and coming later to iOS. A new \"on-the-go mode\" shifts YouTube into an audio-first layout, with larger, simplified playback buttons, a still image in place of t",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features"
-    },
-    {
-      "id": "36e03df8-2d23-8115-830b-eac9dfd21cd2",
-      "title": "Call of Duty: Warzone is dropping PS4 and Xbox One support later this year",
-      "summary": "Activision is planning to drop support for PS4 and Xbox One consoles in Call of Duty: Warzone later this year. Players will need to upgrade to a PS5 or Xbox Series S / X console to continue playing Call of Duty: Warzone once season 6 of Call of Duty: Black Ops 7 finishes later this […]",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support"
     }
   ],
   "macroEvents": [
