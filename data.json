@@ -1,6 +1,374 @@
 {
-  "updatedAt": "2026-05-29 22:18",
+  "updatedAt": "2026-05-30 01:49",
   "news": [
+    {
+      "id": "36f03df8-2d23-81f6-9919-dd744208ead0",
+      "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+      "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+      "source": "Wired",
+      "publishTime": "2026-05-30",
+      "link": "https://www.wired.com/story/future-of-truth-ai-interview/"
+    },
+    {
+      "id": "36f03df8-2d23-81cc-977c-f9960ebea9a1",
+      "title": "Microsoft teases new Surface hardware and ‘a new era of PC’",
+      "summary": "I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased \"something new is coming for developers,\" complete with a mysterious image of what looks like a curved display edge. Davuluri no",
+      "source": "The Verge",
+      "publishTime": "2026-05-30",
+      "link": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors"
+    },
+    {
+      "id": "36f03df8-2d23-8170-a392-cf33c048dcea",
+      "title": "Jim Cramer says Nvidia is a clear winner from Dell's monster quarter",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-30",
+      "link": "https://www.cnbc.com/2026/05/29/jim-cramer-says-nvidia-is-a-clear-winner-from-dells-monster-quarter.html"
+    },
+    {
+      "id": "36f03df8-2d23-8133-98d4-cf3fbaad8622",
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-30",
+      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/"
+    },
+    {
+      "id": "36f03df8-2d23-8128-8a72-e985b17e3516",
+      "title": "Amazon says it shut down a token leaderboard: 'Don't use AI just to use AI'",
+      "summary": "Amazon nixed an employee-created AI leaderboard called \"KiroRank\" after concerns it encouraged excessive AI spending.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-30",
+      "link": "https://www.businessinsider.com/amazon-ai-leaderboard-tokenmaxxing-2026-5"
+    },
+    {
+      "id": "36f03df8-2d23-815b-b017-c4f3421e1386",
+      "title": "I gave up my dream career in NYC to move abroad without a stable job. I miss my old life but don't regret leaving.",
+      "summary": "I left my career as a culture writer in NYC behind to study Italian in Florence, Italy. The transition abroad was hard, but it's forced me to grow.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/i-quit-job-nyc-moved-abroad-italy-2026-5"
+    },
+    {
+      "id": "36f03df8-2d23-814c-8a6d-c9d946f60471",
+      "title": "Dell stock skyrockets 32%, heads for best day ever as AI server revenue soars",
+      "summary": "Dell reported its fastest pace of revenue growth since returning to the public market in 2018, with AI server revenue soaring 757% over last year.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-29",
+      "link": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html"
+    },
+    {
+      "id": "36f03df8-2d23-815b-a3da-da8d688a5cfd",
+      "title": "I spent months planning my first trip to Florence. A lot lived up to the hype, but I found some of the best spots after I arrived.",
+      "summary": "I recently visited Florence, Italy, for the first time. My sister and I found local restaurants, shops, and classes that made our trip amazing.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/best-things-to-do-florence-italy-from-first-time-visitor-2026-5"
+    },
+    {
+      "id": "36f03df8-2d23-8139-afcf-d12412e7d64e",
+      "title": "I've spent 128 hours on overnight Amtrak trips. I wish I had known 10 things before stepping aboard.",
+      "summary": "I spent 60 hours on Amtrak trains between NYC and Miami, 15 on one from Denver to Salt Lake City, and 53 hours on the longest train ride in the US.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/amtrak-overnight-train-what-to-know-before-booking"
+    },
+    {
+      "id": "36f03df8-2d23-819c-8b80-e73b50ab4a02",
+      "title": "10 名车主诉特斯拉 FSD 欺诈案国内开庭，索赔 395 万余元",
+      "summary": "IT之家 5 月 29 日消息，据新京报报道，近日，一起针对特斯拉 FSD（完全自动驾驶）功能的集体诉讼案在北京市大兴区人民法院一审开庭。5 月 29 日，记者从原告律师王有银处获悉，10 名中国车主以虚假宣传、消费欺诈为由，将特斯拉告上法庭，索赔金额合计 395 万余元。特斯拉方对此案暂无回应。原告方代理律师、北京圣运律师事务所创始人王有银律师透露，庭审中双方聚焦特斯拉 FSD 功能是否达到其宣传的“完全自动驾驶能力”举证辩论。原告方认为，被告明知其宣传的“完全自动驾驶”功能未获中国监管部门批准，无法实现其宣传的核心功能，并隐瞒硬件技术缺陷，进行误导性宣传，诱使原告购买，其行为符合欺诈的构成",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/387.htm"
+    },
+    {
+      "id": "36f03df8-2d23-810e-ab57-ff0f14bfe10f",
+      "title": "宏碁推出多款游戏新品：两款笔记本、一款串流掌机，还有键盘、背包",
+      "summary": "IT之家 5 月 29 日消息，今天晚间，宏碁发布了一批新的移动游戏产品，重点提升性能、便携性和沉浸式体验。产品阵容包括旗舰游戏本掠夺者 Helios 18 AI、主打高性价比的宏碁 Nitro 16，以及宏碁 Nitro Blaze Link 串流掌机。其中，宏碁 Nitro 16 是宏碁首款最高可选 AMD Ryzen 9 9955HX3D 处理器的游戏笔记本。两款 Windows 11 笔记本均配备高性能 CPU、英伟达 GeForce RTX 50 系列笔记本电脑 GPU，并附赠三个月 PC Game Pass。宏碁同时还推出了掠夺者 Aethon 750 TKL 键盘和掠夺者 Rob",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/386.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8189-b000-c91b414bc183",
+      "title": "开放麒麟 openKylin 3.0 Alpha1 预览版发布，系统底层架构整体翻新",
+      "summary": "IT之家 5 月 29 日消息，据“开放原子”公众号，近日，openKylin 社区推出 openKylin 3.0 Alpha1 预览版，标志着 openKylin 3.0 创新版本正式开启首轮抢先尝鲜体验阶段。IT之家从官方介绍获悉，本次 Alpha1 版本最大革新在于全面夯实系统底层根基，对系统底层架构进行整体翻新。从底层 Linux 内核、中层各类基础库，再到各项系统服务，实现主流核心组件全面升级，全方位优化系统底层基础能力。本次 Alpha1 预览版距离正式版发布仍有一定完善周期。社区推出该预览版本，主要为提前向用户开放体验通道，直观感受本次 180 余项核心组件升级带来的系统变化，",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/385.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81bf-a9c3-daee7051241d",
+      "title": "The Vatican’s Man Inside Anthropic",
+      "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
+      "source": "Wired",
+      "publishTime": "2026-05-29",
+      "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/"
+    },
+    {
+      "id": "36f03df8-2d23-8152-9bc0-d4732e5947b9",
+      "title": "Trump’s mass deportations are only possible with racial profiling",
+      "summary": "Border security czar Tom Homan keeps threatening to \"flood\" New York City with ICE agents. But a new investigation shows that ICE has been quietly ramping up arrests in the New York area already - and disproportionately targeting Latino neighborhoods. The City, a local nonprofit news organization, f",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations"
+    },
+    {
+      "id": "36f03df8-2d23-8106-83d3-ee8db0e4c6e3",
+      "title": "At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal",
+      "summary": "This week, the Steam Deck OLED with 512GB of storage went from $549 to $789, putting it even further out of reach for those who were considering getting one as they came back in stock after months of unavailability. I consider it a tiny consolation that there’s a decent PC gaming handheld that is cu",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale"
+    },
+    {
+      "id": "36f03df8-2d23-8124-b28c-c5dbf9bbf829",
+      "title": "The US Army built an exoskeleton for injured troops to stand and walk for themselves from combat",
+      "summary": "The system helps wounded troops stand and walk on their own when evacuation is delayed, dangerous, or unavailable.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/us-army-developed-exoskeleton-help-injured-troops-walk-on-own-2026-5"
+    },
+    {
+      "id": "36f03df8-2d23-81a5-9107-ef8150aa5fc3",
+      "title": "SentinelOne stock drops 12% as cyber firm trims headcount to boost AI investments",
+      "summary": "SentinelOne reported earnings after the bell Thursday and issued lackluster guidance for the current quarter and full-year.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-05-29",
+      "link": "https://www.cnbc.com/2026/05/29/sentinelone-s-stock-earnings-ai-layoffs.html"
+    },
+    {
+      "id": "36f03df8-2d23-818e-8631-d81d4270df6b",
+      "title": "航天英雄杨利伟：我国载人登月计划正常推进",
+      "summary": "IT之家 5 月 29 日消息，5 月 29 日（今天），神舟二十二号载人飞船返回舱在东风着陆场着陆。中国首飞航天员、航天英雄、现任中国载人航天工程副总设计师杨利伟在现场接受新华社记者采访时表示，载人登月计划正常推进。杨利伟表示：“大家看到了去年我们做了大量试验，今年年初也做了火箭的、航天器的（有关试验）。航天员下一步也要接受这方面的一些选拔和训练，整个的推进还是很正常的。”根据规划，2028 年至 2030 年间，我国将在文昌航天发射场密集执行 3 次无人绕月验证任务及 1 次载人登月任务，标志着中国载人航天工程正式从近地轨道迈向地月空间。据IT之家此前报道，杨利伟曾在 2023 年透露：“",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/384.htm"
+    },
+    {
+      "id": "36f03df8-2d23-814c-8a05-d68d2a63f877",
+      "title": "You can buy two of Anker’s Qi2 wireless chargers for under $25",
+      "summary": "If you’re looking for a fast iPhone or AirPods charger that’s easy to toss into your purse, backpack, or carry-on, Anker’s Zolo Magnetic Wireless Charger is a smart pick. It’s tiny and comes with a built-in USB-C cable, and you currently can buy two for $23.99 ($16 off) at Amazon and Anker (with cod",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale"
+    },
+    {
+      "id": "36f03df8-2d23-8110-a1a0-dc3c695f3e88",
+      "title": "消息称千里科技将整合吉利辅助驾驶团队，剑指“第二个华为”",
+      "summary": "IT之家 5 月 29 日消息，“36 氪汽车”今晚援引多位产业人士消息称，吉利中央研究院辅助驾驶团队将在近期被整合入千里科技，该团队目前规模为数百人，已有人收到了转移合同的通知。报道提到，为了助力千里科技成为“第二个华为”，吉利决定为其增添新的技术筹码。知情人士透露，此轮整合后，吉利研究院辅助驾驶团队将被平移至千里智驾与极氪的合资公司千里浩瀚。前述知情人士称，吉利暂定的整合方案是，千里浩瀚今后主要服务作为核心客户的吉利，千里智驾则可将更多精力转移至其他主机厂客户。去年，吉利执行董事桂生悦曾不止一次公开表示，吉利要与千里科技一起打造“第二个华为” 。今年北京车展上，千里科技又将其商业目标进一步",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/383.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8177-9161-c54defd56ba0",
+      "title": "一汽大众 ID. AURA T6 登陆粤港澳车展，龙船特别版同步亮相",
+      "summary": "IT之家 5 月 29 日消息，今日，2026 粤港澳大湾区车展开幕，一汽-大众 ID. AURA T6 登陆车展现场，并带来龙船特别版。据介绍，本次同步展出的 ID. AURA T6 龙船特别版，主色调取自木棉花的橘红底色，搭配龙船文化的金龙纹样，打造专属视觉效果。IT之家注意到，一汽-大众 ID.AURA 序列首款车型 ID.AURA T6 于 4 月 21 日正式亮相，该车是一款“全新五座中型 SUV”。ID.AURA T6 基于全新 CEA 电子电气架构打造，采用了全新的设计语言，秉持“实用自然主义美学”设计理念，车头配备了方形灯组；侧面采用半隐藏式门把手，匹配高亮黑轮眉。车辆的激光雷",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/382.htm"
+    },
+    {
+      "id": "36f03df8-2d23-815e-8930-e3f0f8eea37a",
+      "title": "宝马德国工厂迎来新一批机器人员工，有望给 1 系 / 2 系 / 纯电 MINI“打螺丝”",
+      "summary": "IT之家 5 月 29 日消息，宝马集团将从今年夏季开始在德国东部莱比锡工厂部署人形机器人，未来生产宝马或 MINI 车型时，部分工序可能会由人形机器人完成。在接受英国 BBC 采访时，宝马集团工艺管理与数字化负责人迈克尔 · 尼古拉德斯表示：“这将是汽车生产的未来。只要机器人采用人形设计，基本上就能安排到人类目前工作的任何岗位，因为人形机器人拥有相同尺寸，也具备相同能力。”今年早些时候，宝马就已开始在德国测试机器人。在此之前，宝马已经在美国斯帕坦堡工厂进行过另一轮试验。待莱比锡试点项目今年夏季正式启动后，这批机器员工将参与高压电池组装和零部件制造工作。机器人预计会深度参与纯电 MINI Co",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/381.htm"
+    },
+    {
+      "id": "36f03df8-2d23-816b-8a2f-f39731d373b1",
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "36f03df8-2d23-8120-bf30-f66fa8da488d",
+      "title": "微信安卓版 8.0.74 最新官方内测版下载发布",
+      "summary": "IT之家 5 月 29 日消息，微信安卓平台迎来了 8.0.74 测试版更新，本次更新安装包文件详细信息如下：微信安卓内测版 8.0.74 (ARM64) 安装包文件大小248.95 MB更新时间2026-05-29 21:40MD543acbc05b5abf6a422f7e291317f5ed5目标 API34最低支持24 (Android 7.0)官方更新日志为：优化了一些已知问题. 大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考 ~[微笑]",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/380.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81c0-94f8-dad22da4ee86",
+      "title": "微信 8.0.74 for iOS 正式版更新，横屏通话 / 本机登录等大量功能灰度",
+      "summary": "微信 iOS 平台又双叒叕更新了！就在昨晚（5 月 28 日），微信 8.0.74 for iOS 全新发布。在不到一个半月的时间里，iOS 微信狂更四个版本，以至于时至今日，足足领先隔壁安卓平台（8.0.72 正式版）两个大版本。经实测发现，本次 iOS 微信最新版本主要聚焦于细节优化，同时有大量功能仍处于灰度状态。具体的更新情况，IT之家小编这就逐一向各位展示。一、照片分享至微信新增“贴图”更新至 iOS 微信 8.0.74 正式版后，若将手机的照片分享至微信，有了新的类型。进入手机照片 App 选择任意一张照片并点击分享至微信，底部新增“分享为贴图”选项。点击该选项，会直接跳转至贴图的编",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/357.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8101-8d7e-fd135fcffe61",
+      "title": "An AI startup raised $16 million to make designing a home feel more like vibe coding",
+      "summary": "Drafted raises $16 million to make AI-driven home design accessible, backed by investors like Y Combinator and OneRepublic's Ryan Tedder.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/drafted-16m-funding-reshape-home-design-with-ai-2026-5"
+    },
+    {
+      "id": "36f03df8-2d23-81a9-8a6c-df6ce0a32011",
+      "title": "What would you be willing to put in your body?",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. At this time last week, I was getting ready to ask people what drugs they were on. I",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness"
+    },
+    {
+      "id": "36f03df8-2d23-8110-928c-d80db5faa5d2",
+      "title": "How Ferrari bungled the design of its first EV",
+      "summary": "For nearly 80 years, Ferrari occupied a unique cultural space where its cars were aspirational, even for people who resented those who could afford them. The price, the exclusivity, and the opacity of the buying process allowed Ferrari to sail above ordinary criticism. You might not be able to affor",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple"
+    },
+    {
+      "id": "36f03df8-2d23-81d4-98bd-d3ac895c1f0d",
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/"
+    },
+    {
+      "id": "36f03df8-2d23-8146-8f51-cf38ad3fd519",
+      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
+      "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-29",
+      "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "36f03df8-2d23-81d5-aa49-f8b1cdf2eb7f",
+      "title": "Counterpoint 报告：TCL 加速追赶三星，电视行业格局面临洗牌",
+      "summary": "IT之家 5 月 29 日消息，今日，全球市场调研机构 Counterpoint Research 发布数据显示，2026 年一季度全球电视出货量同比增长 3%。其中三星出货量同比上涨 8%，创下近两年最高增幅。而 TCL 追赶三星的步伐进一步加快，出货量同比大增 22%，同样创下自身历史最高增速。业内预计，2026 年第二季度电视市场竞争将愈发激烈，这一阶段或将成为全球电视行业的重要转折点。IT之家从报告获悉，TCL 旗下量子点液晶电视、Mini LED 液晶电视等主流品类出货量均实现增长，其中 Mini LED 液晶电视成为整体销量提升的核心动力。三星的 WOLED 电视同比销量大幅走高，",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/379.htm"
+    },
+    {
+      "id": "36f03df8-2d23-814e-bfa0-c27382755b6e",
+      "title": "The anti-bureaucracy movement has reached NYC. Just don't call it DOGE.",
+      "summary": "NYC Mayor Zohran Mamdani wants to improve his government's efficiency with a new agency. Just don't call it DOGE.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/nyc-efficiency-push-coge-vs-doge-zohran-mamdani-2026-5"
+    },
+    {
+      "id": "36f03df8-2d23-814f-8bec-e0f15bae375d",
+      "title": "受益于 AI 热潮及超预期的预计营收，戴尔股价一度上涨近四成",
+      "summary": "IT之家 5 月 29 日消息，据彭博社报道，受 AI 服务器需求强劲推动，戴尔科技集团给出的全年营收展望大幅高于市场预期。当地时间周五，戴尔股价盘前交易上涨 38%。戴尔第一财季数据显示，截至 2027 年 1 月的财年，营收预计约为 1670 亿美元（IT之家注：现汇率约合 1.13 万亿元人民币），其中 AI 服务器销售额将贡献 600 亿美元（现汇率约合 4075.12 亿元人民币）。此前，戴尔预计全年营收约为 1400 亿美元，分析师平均预期为 1421 亿美元。戴尔 d 首席运营官杰夫 · 克拉克表示，截至 5 月 1 日的季度里，戴尔 AI 订单额达到 244 亿美元（现汇率约合",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/378.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81a0-ba37-fe652725908d",
+      "title": "零跑 COO 徐军：手机有五成用不到的功能，汽车界也应思考用户要什么",
+      "summary": "IT之家 5 月 29 日消息，在今天的 2026 未来汽车先行者大会上，零跑汽车 COO 徐军发言提到，价格是当下消费者最关注的因素，你（车企）不打价格战，消费者可能就不买单。徐军坦言，这是一个非常残酷的现实，因此降价是一种“决定”。但如何让企业盈利，还需要既满足消费者需求，又能满足自己生活的需求，那就要降本。徐军在谈到“卷参数”时表示，用户对续航 700km 与 1000km 的感知差别趋近于 0，成本却指数级上涨；算力 30TOPS 到 1000TOPS，体验差异远小于参数。“你今天多一个座椅按摩，明天全行业都有了 —— 当所有车都‘够用’，参数只是入场券，而不是胜负手。比如手机各种各样",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/376.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8151-80e4-f90a1b499302",
+      "title": "Blue Origin Rocket Explodes in Fiery Setback",
+      "summary": "The detonation of the New Glenn rocket resulted in a huge fireball in Florida and may have long-term implications for the company's ambitions.",
+      "source": "Wired",
+      "publishTime": "2026-05-29",
+      "link": "https://www.wired.com/story/blue-origin-rocket-explodes-in-major-setback/"
+    },
+    {
+      "id": "36f03df8-2d23-8108-bb54-fccd554c1e71",
+      "title": "The 30 most expensive colleges in the US in 2026, ranked",
+      "summary": "The annual cost of attending some US colleges and universities tops six figures in 2026. See the most expensive schools in America.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/most-expensive-colleges-tuition-in-us"
+    },
+    {
+      "id": "36f03df8-2d23-811e-b217-e24826bdc16c",
+      "title": "在轨 210 天刷新纪录，神舟二十一号航天员张陆、武飞、张洪章顺利出舱",
+      "summary": "IT之家 5 月 29 日消息，据央视新闻，今天，神舟二十一号航天员张陆、武飞、张洪章全部安全顺利出舱，健康状态良好。至此，神舟二十一号航天员乘组的太空之旅圆满结束，航天员张陆成为第二个在轨驻留时间超过 400 天的中国航天员，也是目前执行出舱任务次数最多的中国航天员。航天员武飞、张洪章的首飞之旅圆满完成。IT之家注意到，神舟二十一号航天员乘组于 2025 年 11 月 1 日进驻中国空间站，3 名航天员在轨驻留 210 天，刷新了中国航天员单个乘组在轨驻留最长纪录，期间进行了 3 次出舱活动，完成了神舟二十号飞船返回舱舷窗巡检拍照、空间站空间碎片防护装置安装等任务，开展了多次货物进出舱任务，",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/371.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8150-afb6-fd5573c2932b",
+      "title": "I was nervous to take a solo excursion on vacation. The experience turned out to be one of my favorite travel memories.",
+      "summary": "During a trip to Morocco, I took an excursion to the Agafay Desert by myself. I had an incredible time and made friends from around the world.",
+      "source": "Business Insider",
+      "publishTime": "2026-05-29",
+      "link": "https://www.businessinsider.com/took-excursion-on-trip-by-myself-surprising-perks-lessons-2026-5"
+    },
+    {
+      "id": "36f03df8-2d23-8137-a1d5-da283db9611e",
+      "title": "Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM",
+      "summary": "Acer is aiming to take on the MacBook Neo more directly with a new Swift Air 14, a new 14-inch laptop that starts at $699. The laptop will use Intel's lower-cost Core Series 3 \"Wildcat Lake\" chips - either Core 5 or Core 7 models, both of which are six-core processors. It comes in green, […]",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs"
+    },
+    {
+      "id": "36f03df8-2d23-81fa-b0a4-cc1d37197ba1",
+      "title": "Backrooms is at the forefront of horror&#8217;s YouTube wave",
+      "summary": "Though YouTube has always been a place where up-and-coming artists could be discovered and make it big, in recent years the platform has become a launching pad for some of Hollywood's most exciting new horror directors. The filmmakers behind films like Talk to Me, Iron Lung, and Obsession all starte",
+      "source": "The Verge",
+      "publishTime": "2026-05-29",
+      "link": "https://www.theverge.com/entertainment/938437/backrooms-youtube-kane-parsons-a12"
+    },
+    {
+      "id": "36f03df8-2d23-81a0-9886-f602d79fe57b",
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-29",
+      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/"
+    },
+    {
+      "id": "36f03df8-2d23-815b-b817-e86cace59a39",
+      "title": "世界超级摩托车锦标赛阿拉贡站：张雪机车位列超级杆位赛第二名",
+      "summary": "IT之家 5 月 29 日消息，据新华社报道，在刚刚结束的 2026 世界超级摩托车锦标赛（WSBK）阿拉贡站 WorldSSP 组别比赛中，中国摩托车制造商“张雪机车”的法国车手瓦伦丁 · 德比斯位列超级杆位赛第二名。IT之家注：世界超级摩托车锦标赛（WSBK）是由国际摩托车联合会于 1988 年创立的世界顶级摩托车赛事。赛事采用分站形式，2026 赛季共有 12 站比赛。",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/370.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81c4-b2e4-dfff0b0e4919",
+      "title": "vivo WATCH GT 2 蓝牙版智能手表官方零售价悄悄上涨 100 元：“限时优惠”后 549 元赠“幸运星”表盘 / 钉扣",
+      "summary": "IT之家 5 月 29 日消息，在目前正在进行的发布会中，vivo 还重新介绍了去年发布的 WATCH GT 2 蓝牙版智能手表，在价格环节，可以看到这款手表官方零售价相对于上市价格（499 元）涨了 100 元，现官方零售价为 599 元。不过官方也同时推出了限时优惠价，在 6 月 30 日前消费者能够以 549 元价格购买，部分地区国补后低至 466.65 元。还能获赠“幸运星”表盘和钉扣（IT之家注：活动至 6 月 18 日）。京东 vivo WATCH GT 2 蓝牙版 549 元点此访问回顾 vivo WATCH GT 2 蓝牙版智能手表，该机拥有“超窄边高亮大屏”，尺寸为 2.07",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/369.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8125-8f0a-e4c019adcfbd",
+      "title": "一汽悦意 08 开启预售：提供纯电与增程动力，10.49 万元起",
+      "summary": "IT之家 5 月 29 日消息，一汽悦意 08 今日开启预售，预售价 10.49-14.49 万元，提供纯电与增程动力。IT之家附价格如下：240km Plus 增程版 11.49 万元565km Air 版 10.49 万元565km Plus 版 11.49 万元565km Pro 版 12.49 万元650km Pro 版 13.49 万元650km Pro 领航版 14.49 万元该车搭载 15.6 英寸中控屏和 8.8 英寸仪表屏，配备满血版的高通 8295 芯片，搭载双杯架、手机无线充电等配置。空间方面，新车长宽高为 4920/1920/1480mm，轴距为 2900mm。外观方面",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/367.htm"
+    },
+    {
+      "id": "36f03df8-2d23-81e2-89c3-e48ba952b99e",
+      "title": "号称“弯道之王”：领克 10/10+ 正式上市，限时价 16.99 万-23.59 万元",
+      "summary": "IT之家 5 月 29 日消息，今天晚间，领克 10 / 领克 10+ 中大型运动纯电轿车正式上市，号称“弯道之王”，其中领克 10+ 采用四驱动力。IT之家汇总价格信息如下：领克 10701 长续航 Max：指导价 18.39 万元起，上市限时价 16.99 万元起701 长续航 Ultra：指导价 18.99 万元起，上市限时价 17.59 万元起816 超长续航 Ultra：指导价 20.59 万元起，上市限时价 19.19 万元起领克 10+四驱运动版：指导价 23.39 万元起，上市限时价 21.99 万元起四驱竞速版：指导价 24.99 万元起，上市限时价 23.59 万元起领克 ",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/366.htm"
+    },
+    {
+      "id": "36f03df8-2d23-8146-886f-df587ec1ec96",
+      "title": "小米“米家淋浴花洒”5 月 30 日发售：370mm 置物台、分控式钢琴按键，首发价 999 元",
+      "summary": "IT之家 5 月 29 日消息，小米宣布旗下“米家淋浴花洒”将于明天（5 月 30 日）晚 8 点开售，建议零售价 1099 元，首发价 999 元，IT之家附有品地址（点此访问）。IT之家获悉，这款产品具备 370mm 超大置物台、305mm 方形超大顶喷、无级控温旋钮、抗菌 59 黄铜一体成型，采用钢化玻璃面板，配备琴键式分控开关，支持 4 种出水模式，支持一键一控，支持多水路同时出水。",
+      "source": "IT之家",
+      "publishTime": "2026-05-29",
+      "link": "https://www.ithome.com/0/957/365.htm"
+    },
     {
       "id": "36f03df8-2d23-817c-b37b-d71a7d2ec892",
       "title": "SpaceX skeptics have added reason for concern after Musk comments diverge from IPO filing",
@@ -32,374 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-05-29",
       "link": "https://www.ithome.com/0/957/364.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8115-b83c-e2f369fc2198",
-      "title": "I paid $35,000 a person for a 10-night ultra-luxury Ritz-Carlton cruise through Japan. Here's what that price got us.",
-      "summary": "See inside my suite and other perks of my ultra-luxury cruise through Japan on Ritz-Carlton Yacht Collection's Luminara during cherry-blossom season.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/ritz-carlton-yacht-luminara-cruise-ultra-luxury-japan-review-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-819d-94be-f87498d03f74",
-      "title": "AI is creating more work for Australia's workplace tribunal. It may also be the fix.",
-      "summary": "An increasing number of AI-assisted cases are being brought to Australia's Fair Work Commission. The tribunal says it's creating much more work.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/ai-australia-workplace-tribunal-more-work-fix-legal-cases-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-8102-a5ad-da09743bf266",
-      "title": "vivo 头戴降噪耳机发布：238g 重量、40mm 动圈单元，499 元",
-      "summary": "IT之家 5 月 29 日消息，在目前正在进行的发布会中，vivo 头戴降噪耳机正式发布，定价为 499 元。该耳机采用人体工程学设计，整体重量 238g，可选云雾白、微风紫两种配色，拥有“发丝友好转轴”，号称调节时能够有效避免夹头发。该耳机搭载 40mm 动圈单元，拥有 Hi-Res 小金标认证，同时其延迟低至 47ms，支持空间音效功能，支持连接多台设备。耳机内置电池提供至高 75 小时续航。IT之家附录耳机参数：",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/360.htm"
-    },
-    {
-      "id": "36f03df8-2d23-81ba-9f83-c002a7f7a515",
-      "title": "Trump Mobile’s website still says the T1 Phone is ‘American-made’",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. As the phone's supposed launch continues, we noticed its website may be violating FTC rules. When the Trump phone was first announced last June, it was p",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/tech/939108/trump-mobile-t1-phone-website-american-made"
-    },
-    {
-      "id": "36f03df8-2d23-8178-8d9e-ed632c5140db",
-      "title": "Iran peace deal, Dell shares surge, Trump Accounts and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-29",
-      "link": "https://www.cnbc.com/2026/05/29/5-things-to-know-before-the-stock-market-opens.html"
-    },
-    {
-      "id": "36f03df8-2d23-81e0-964d-d2671c971a8b",
-      "title": "Jony Ive’s funky Ferrari",
-      "summary": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With a decidedly un-Ferrari look, and lots of new technology and designs ",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast"
-    },
-    {
-      "id": "36f03df8-2d23-813d-a1f4-d0593a9b1b32",
-      "title": "经典经营游戏续作《动物园之星 2》官宣 10 月 13 日发售，Steam 预购价 200 元起",
-      "summary": "IT之家 5 月 29 日消息，开发商 Frontier Developments 宣布旗下经典模拟经营游戏《动物园之星》迎来续作《动物园之星 2（Planet Zoo 2）》，本作将于 2026 年 10 月 13 日登陆 PlayStation 5、Xbox Series X|S、以及 PC 平台。目前《动物园之星 2》页面已经在 Steam 上线并开启预购，国区标准版价格 200 元，豪华版价格 260 元。豪华版除了游戏本体外，还额外收录 6 种来自世界各地的全新动物，以及一系列专属动物招牌。同时玩家预购游戏可获“巨嘴鸟食坊与招牌”、“3 种动物捐款箱”、“老虎合影立板”特典。IT之家",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/359.htm"
-    },
-    {
-      "id": "36f03df8-2d23-81e6-9206-f291d52e2d28",
-      "title": "亚洲首店，宇树科技具身智能体验馆 5 月 31 日在上海开业",
-      "summary": "IT之家 5 月 29 日消息，Unitree 宇树官方公众号今晚宣布：宇树具身智能体验馆亚洲首店将于 5 月 31 日在上海开业。该店具体位置在上海市静安区南京西路 1618 号久光百货 2 层，门店面积超 100 平方米，街对面即是苹果大中华区最大旗舰店 Apple 静安。根据介绍，该门店将汇聚 G1 人形机器人、R1 人形机器人、Go2 机器狗全系列 C 端产品，顾客可以现场打卡、互动体验。IT之家查询获悉，全国首家宇树科技直营店已在今年 4 月 29 日于北京王府井银泰 in88 1F 开业，顾客可近距离互动体验机器狗与人形机器人。更早之前，京东 × 宇树全国首店于 2025 年 12",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/358.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8140-b95f-e845ea51cf31",
-      "title": "Ukraine's new mid-range strike drones are turning Russia's once-safe rear areas into new kill zones",
-      "summary": "Ukraine's mid-range drone strike campaign is causing both practical and psychological problems for Russia, a defense official said.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/ukraine-hitting-once-safe-areas-for-russia-with-new-drones-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-81e0-a03a-ebce600a370a",
-      "title": "As a recent college graduate, I knew I'd have to do more than just send out my résumé. I found my first job from a Facebook post.",
-      "summary": "I saw a post in a Facebook group where a real estate agent was asking for administrative help. I got the job because we connected over the phone.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/recent-grad-landed-first-job-after-college-facebook-post-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-8136-a3b6-dacabcad6b7a",
-      "title": "My grandpa had a quadruple-bypass 25 years ago. Now 90, he credits his longevity to daily bodyweight workouts with my grandma, 87.",
-      "summary": "My grandpa, 90, credits his longevity to daily walks and bodyweight workouts with my grandma, 87. He's also his cardiologist's \"poster child.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/grandpa-longevity-tips-daily-bodyweight-workouts-grandma-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-811c-aebc-db0eb637c061",
-      "title": "Dan Ives: Anthropic’s growth is 'just the tip of the sphere' for AI rally",
-      "summary": "Ives' comments come as part of a wider prediction for the Nasdaq to top 30,000 points by 2027, reiterating his call from earlier interviews with CNBC.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-29",
-      "link": "https://www.cnbc.com/2026/05/29/dan-ives-anthropic-growth-tip-of-the-sphere-ai-theme.html"
-    },
-    {
-      "id": "36f03df8-2d23-81b1-be48-f5be56b0c21d",
-      "title": "宏碁推出优跃 FUN A312 平板电脑：10.1 英寸 800P 面板，联发科 MT8768 + 4G + 64G 售 525 元",
-      "summary": "IT之家 5 月 29 日消息，宏碁现已在京东上架一款优跃 FUN A312 平板电脑，该机定位入门，定价为 525 元，部分地区国补后到手价低至 499 元。京东宏碁优跃 FUN A312 平板电脑 525 元直达链接该机采用深空灰配色，重量 570g，厚度 9.8mm，正面配备一块 10.1 英寸 1280x800 分辨率 60Hz 面板，前后均配备 5MP 摄像头。该机搭载联发科 MT8768 芯片，使用 4GB RAM 和 64GB 存储空间，支持双频 Wi-Fi 和蓝牙 5.0，内置 5000mAh 电池。京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：点此抽红包",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/356.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8152-8bba-e6ba3eb974e9",
-      "title": "飞船返回舱直立状态成功着陆，神二十一乘组到家了！",
-      "summary": "IT之家 5 月 29 日消息，据央视新闻今日报道，神舟二十一号航天员乘组，乘坐神舟二十二号载人飞船返回地球，在东风着陆场成功着陆。直播画面显示，返回舱本次以直立状态落地。IT之家此前报道，2025 年 10 月 31 日 23:44，搭载神舟二十一号载人飞船的长征二号 F 遥二十一运载火箭在酒泉卫星发射中心点火发射。11 月 1 日 00:05，中国载人航天办公室宣布神舟二十一号发射任务取得圆满成功，我国 2025 年载人航天发射任务圆满收官。此次任务是工程进入空间站应用与发展阶段的第 6 次载人飞行任务，也是工程立项实施以来的第 37 次发射任务。执行神舟二十一号载人飞行任务的航天员乘组由",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/355.htm"
-    },
-    {
-      "id": "36f03df8-2d23-811e-b4a6-d21f8a72cc4e",
-      "title": "双排铜管 + 美芝压缩机 1401 元：TCL 真省电 Pro 二代 1.5 匹空调 618 新低",
-      "summary": "TCL 2026 年新品 —— 真省电 Pro 二代采用“ 双排铜管冷凝器 + 直流变频 + 电子膨胀阀 ”，1.5 匹 APF 5.60（竞品日常 5.27 左右）。1.5 匹挂机上市价 2499 元，适合卧室 / 小客厅，除了上述配置外，还升级为美芝压缩机。领 1800-100 元券：点此领券选择以旧换新下单（可选厨房小电 → 普通家居）实付 1551 元，到手种草返 50 元 +100 元电费补贴（详询客服），折合仅需 1401 元：京东 TCL 真省电 Pro 二代大 1.5 匹 新一级能效以旧换新 1551 元直达链接京东无门槛红包至高 26618 元，支持即领即用：点此抽取。352",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/354.htm"
-    },
-    {
-      "id": "36f03df8-2d23-815a-a59c-dedfa7a2ee85",
-      "title": "EU seeks to 'intensify' talks with U.S. on advanced cyber AI models, official tells CNBC, amid Mythos concerns",
-      "summary": "Anthropic's Mythos model, which has advanced cyber abilities, has prompted a wave of concern from governments and businesses.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-29",
-      "link": "https://www.cnbc.com/2026/05/29/mythos-ai-models-eu-talks-us.html"
-    },
-    {
-      "id": "36f03df8-2d23-8176-8e1e-e9101c12fb9d",
-      "title": "15 Best Wireless Chargers, All Tested and Reviewed (2026)",
-      "summary": "Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
-      "source": "Wired",
-      "publishTime": "2026-05-29",
-      "link": "https://www.wired.com/gallery/best-wireless-chargers/"
-    },
-    {
-      "id": "36f03df8-2d23-815a-b233-c26f4116ab00",
-      "title": "美国一男子向诈骗分子出售 700 万名老人数据，被判十年以上监禁",
-      "summary": "IT之家 5 月 29 日消息，据外媒 Bleeping Computer 报道，曾使用“史蒂夫 · 迪克森”化名的 57 岁的北卡罗来纳州男子特洛伊 · 默里，由于向牙买加诈骗分子出售超过 700 万名美国老年人的个人信息，被判处十年以上监禁。默里今年 1 月承认合谋实施电信欺诈罪。当地时间周四，法院判处默里 121 个月监禁，出狱后接受三年监督释放，并没收 520 万美元（IT之家注：现汇率约合 3531.8 万元人民币）非法所得。检方称，“史蒂夫 · 迪克森”这个化名在牙买加诈骗圈内广为人知，甚至曾出现在一名牙买加音乐人 2022 年的歌词中。法庭文件显示，2016 年至 2023 年，",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/351.htm"
-    },
-    {
-      "id": "36f03df8-2d23-815f-9b28-c7171f3b586f",
-      "title": "梦回 2017：苹果 iPhone X 工程机曝光，白色前面板设计 + 后置 TouchID 指纹",
-      "summary": "IT之家 5 月 29 日消息，博主 Majin 发文，展示了被苹果砍掉的早期 iPhone X（iPhone 9）照片，相应工程机大致在 2017 年 5 月左右生产，可以看出相应产品最早采用铝合金喷砂外壳、后置指纹 TouchID；手机前面采用了类似索尼 Xperia / 坚果 Pro 2 的“非典型全面屏”设计，同时还提供了白色面板可选。从该博主分享的照片中，可以看出苹果甚至已设计完成了相应版本机型的使用指南卡片，不过最终苹果决定推翻相应设计，便有了今天我们所熟知的 iPhone X。相关阅读：《苹果 iPhone X 正式发布：智能手机的未来》",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/350.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8189-b771-de0b8d08d2f9",
-      "title": "Wayve is launching an AI lab to look beyond self-driving cars",
-      "summary": "Wayve, a UK autonomous-vehicle software startup, launches Wayve Labs to advance AI in robotics. The company is backed by tech giants like Microsoft.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/wayve-launches-ai-lab-to-look-beyond-self-driving-cars-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-81d0-9f76-f566b00df95e",
-      "title": "Hundreds of prolific Wikipedia editors are threatening to go on strike",
-      "summary": "Wikipedia is one of the last bastions of trust on the internet. But last week, volunteer editors and contributors were alarmed to hear that a small but important team of engineers at the nonprofit that supports it had been laid off. The layoffs didn't just threaten to sever an important link between",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike"
-    },
-    {
-      "id": "36f03df8-2d23-819b-9685-cf41251195e5",
-      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-      "summary": "South Korean chip startup Xcena is betting that AI's real bottleneck is not compute, but memory.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-29",
-      "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/"
-    },
-    {
-      "id": "36f03df8-2d23-815d-87af-d111c4593dc8",
-      "title": "This AI startup will clean your home for free to train future robots",
-      "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social med",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning"
-    },
-    {
-      "id": "36f03df8-2d23-81fc-a635-c5237c9322b8",
-      "title": "九号电动车 Fz5 系列发布：高强度合金钢双管车架，起售价 5999 元",
-      "summary": "IT之家 5 月 29 日消息，九号电动车 Fz5 系列今晚发布，目前仅提供 110 一款车型，起售价 5999 元，将于 6 月上市。据介绍，这款新车采用高强度合金钢双管车架，配备 48V 30Ah 高性能大锂电、12 寸九号定制无刷电机、L55 专业电控。该车搭载前后 12 寸高抓地宽胎，湿地制动距离缩短 12.4%，前后 180mm 碟刹，五级可调后减震。此外，该车还搭载 ALC 全境光幕照明系统（大灯亮度 15000cd）、452x343mm 大踏板、全新 5 英寸 TFT 全彩屏，支持切歌、导航、通话。",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/349.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8135-8e71-d2b5e331419f",
-      "title": "200 万家尼泊尔商户能扫云闪付了，银联国际与 Fonepay 达成互联互通",
-      "summary": "IT之家 5 月 29 日消息，今天傍晚，中国银联宣布，银联国际与尼泊尔二维码支付网络 Fonepay 正式启动跨境互联互通合作。双方将在前期试点基础上，于年内完成服务扩容，届时 Fonepay 旗下 200 万家二维码商户，将全面支持云闪付 App 及全球银联合作钱包扫码支付。IT之家从官方新闻稿获悉，Fonepay 作为尼泊尔规模最大的二维码支付网络，全面覆盖餐饮、零售、旅游等主要消费场景，是当地数字支付体系的重要支撑。2026 年 2 月，双方率先开展互联互通试点合作，顺利实现云闪付 App 及中国境内支持“云闪付网络支付平台”的合作钱包，在尼泊尔试点商户扫码消费。本次合作全面升级后，服",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/348.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8140-9512-cea73141dfb3",
-      "title": "七彩虹推出 ITX 主板 iGame B850I MINI OC V14，内置时钟发生器",
-      "summary": "IT之家 5 月 29 日消息，七彩虹 (Colorful) 现已在官网上线 iGame B850I MINI OC V14。这一 Mini ITX 主板采用 9+2+1 相 60A DrMOS 供电，VRM 区域拥有加厚装甲和散热风扇，还内置时钟发生器芯片。作为一款面向“小钢炮”装机的主板，iGame B850I MINI OC V14 提供 1 条 PCIe Gen5 ×16 插槽、2 个 PCIe Gen5 ×4 的 M.2 2280 SSD 盘位，搭载瑞昱 5GbE 有线网卡和联发科 Wi-Fi 7 (160MHz) 无线网卡，提供 Wi-Fi 天线快拆设计。此外，这款主板搭配 AMD",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/347.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8104-a303-c11e1935851e",
-      "title": "九号 M3 电动车发布：峰值功率达 4100W，首发 5999 元 / 7599 元",
-      "summary": "IT之家 5 月 29 日消息，九号 M3 电动车今晚发布，共推出两款车型，首发价分别为 5999 元和 7599 元起，今晚 8 点开售。IT之家附产品信息如下：M3 9572V 32Ah 铅酸电池86km 全速真续航65km/h 极速2300W 额定功率3800W 峰值功率标配 4A 充电器90/90-12110/70-12M3 10072V35Ah 九号专用大动力电池84km 全速真续航70km/h 极速3000W 额定功率4100W 峰值功率标配 6A 充电器100/80-12110/70-12双通道阀式 ABS",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/346.htm"
-    },
-    {
-      "id": "36f03df8-2d23-81c9-9793-c98a97b5c720",
-      "title": "九号 M1 电动车发布：67km、100km 全速真续航，首发价 4899 元起",
-      "summary": "IT之家 5 月 29 日消息，九号 M1 电动车今晚发布，推出战斗黑、量子银、幻影银、光谱白四款配色，首发价 4899 元起，今晚 8 点开启预约，6 月 15 日开售。IT之家附产品信息如下：M1 85幻影银 / 战斗黑 / 光谱白72V 24Ah 九号智能碳晶二代67km 全速真续航55km/h 极速1500W 额定功率2600W 峰值功率标配 4A 充电器M1 100幻影银 / 战斗黑 / 光谱白 / 量子银72V 35Ah 九号专用大动力电池100km 全速真续航60km/h 极速2000W 额定功率3900W 峰值功率标配 6A 充电器双通道阀式 ABS",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/345.htm"
-    },
-    {
-      "id": "36f03df8-2d23-819a-8f9b-f3de9fc812a1",
-      "title": "vivo TWS 5e 耳机发布：三种配色可选、55dB 混合自适应降噪，229 元",
-      "summary": "IT之家 5 月 29 日消息，在目前正在进行的 vivo 发布会中，vivo TWS 5e 耳机正式发布，定价为 229 元。这款耳机提供留白、墨黑、天青三种颜色可选，单耳重量 4.3g，耳机拥有 IP54 认证，支持开盖闪连、蓝心小 V、AI 智慧播报、实时翻译等功能。该耳机搭载 11mm 动圈，支持蓝牙 5.4 技术，支持 55dB 混合自适应降噪和双麦克风 AI 通话降噪，还支持空间音频技术，耳机延迟低至 42ms，同时其在配合充电盒的情况下至高提供 55 小时续航。IT之家附耳机参数：",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/344.htm"
-    },
-    {
-      "id": "36f03df8-2d23-81fd-8865-fa449b867d71",
-      "title": "华擎宣布 Taichi 十周年特别版 X870E / Z890 主板与视觉暂留效应水冷",
-      "summary": "IT之家 5 月 29 日消息，华擎科技 (ASRock) 今日正式宣布将在 COMPUTEX 2026 台北国际电脑展上展出一系列电竞硬件与 AI 相关应用解决方案。华擎当前的旗舰系列 Taichi“太极”可追溯至 2016 年的 X99 Taichi 主板。而作为系列诞生十周年纪念的一部分，华擎将推出 X870E Taichi 10th Anniversary 与 Z890 Taichi 10th Anniversary 两款纪念主板和其它特别版产品。此外在水冷散热器方面，华擎将带来 Taichi AQUA 360 LCD 和 Taichi 360 HOLO。其中前者介乎标准 AIO 水冷",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/343.htm"
-    },
-    {
-      "id": "36f03df8-2d23-81b4-8333-e4706778c4a5",
-      "title": "The Tech Download: How chip companies are looking to use light to solve this major AI bottleneck",
-      "summary": "Nvidia is investing billions into companies developing photonics, which industry watchers say could bring big efficiency gains to the AI sector.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-29",
-      "link": "https://www.cnbc.com/2026/05/29/tech-download-photonics-nvidia-ai-bottleneck.html"
-    },
-    {
-      "id": "36f03df8-2d23-8163-a77d-e85c54a97308",
-      "title": "九号 N1 机甲风电动车发布：支持模拟声浪、轻量化高强度车架，3499 元起",
-      "summary": "IT之家 5 月 29 日消息，九号 N1 机甲风电动车今晚发布，共推出三款车型，售价 3499 元起，今晚 8 点开售，N1 90 则将于 7 月上市。N1 701265mm 短轴距轻量化高强度车架极速 47km/h电机额定功率 800W、峰值功率 1900W60V 20Ah 铅酸电池前后 180mm 碟刹高抓地轮胎前轮 80/90-12、后轮 3.5-10鼹鼠控体验N1 85选配乐趣随心（IT之家注：模拟声浪 + 音乐派对 + 灵动灯效 + 音乐律动）1265mm 短轴距轻量化高强度车架双向转把极速 55km/h电机额定功率 1500W、峰值功率 2500W72V 23Ah 铅酸电池前 2",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/342.htm"
-    },
-    {
-      "id": "36f03df8-2d23-81cf-ac58-d9f107b5e710",
-      "title": "Billionaire investor Dan Loeb dismisses AI bubble talk: 'We're barely scratching the surface'",
-      "summary": "Dan Loeb said he doesn't see a \"valuation bubble\" in AI, and pointed to Anthropic's rapid progress and Big Tech's earnings and cash generation.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/dan-loeb-ai-dotcom-bubble-big-tech-stocks-anthropic-investing-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-8181-b70c-ee09f544bfee",
-      "title": "神舟二十二号载人飞船轨道舱与返回舱成功分离，航天员报告感觉良好",
-      "summary": "IT之家 5 月 29 日消息，据央视新闻报道，今天，神舟二十一号航天员乘组乘坐神舟二十二号载人飞船返回地球。目前，神舟二十二号载人飞船轨道舱与返回舱成功分离。神舟二十二号载人飞船发动机关机，返回制动结束。飞船工况正常，神舟二十一号航天员报告感觉良好。据IT之家此前报道，北京时间 2026 年 5 月 29 日 14 时 44 分，神舟二十二号载人飞船与空间站组合体成功分离。分离前，神舟二十一号航天员乘组在地面人员的配合下，完成了空间站组合体状态设置、实验数据整理下传、留轨物资清理转运等撤离前各项工作，与神舟二十三号乘组完成了工作交接和在轨工作经验交流。航天员张陆、武飞、张洪章踏上回家路。",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/341.htm"
-    },
-    {
-      "id": "36f03df8-2d23-81e3-be45-cb37d45848e5",
-      "title": "乘联分会崔东树：中国汽车销量将达 5000 万辆规模，占全球市场半壁江山",
-      "summary": "IT之家 5 月 29 日消息，在今天的 2026 未来汽车先行者大会上，乘联分会秘书长崔东树表示，当下中国汽车年销量为 3500 万辆左右，预计短期内可以达到 4000 万辆规模。未来，中国汽车销量占比全球市场有望实现 40%、50%，甚至更高的比例，预计会达到 5000 万辆规模。“汽车会成为智能载体和规模化的大众耐用电子消费品，基于此，汽车将成为引领中国制造业走向世界的产业。”IT之家从大会获悉，崔东树提出了一个颇为大胆的观点：未来“豪华车”的概念必将崩溃：没有“豪华车”，只有“高端车”，豪华的概念将被取代，就跟消费电子产品一样 —— 没有“豪华”，没有“百年积淀”，只有科技创新！“我们",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/340.htm"
-    },
-    {
-      "id": "36f03df8-2d23-818d-a52a-d99ba9abb81c",
-      "title": "US special operations commander says the next war may require the military to 'creatively destroy' old ways of training",
-      "summary": "The top special operations leader says the military must cut outdated training to prepare troops for drones, electronic warfare, and future conflicts.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/socom-chief-says-military-must-creatively-destroy-old-training-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-816a-935f-f39f13cb8d88",
-      "title": "工信部：1-4 月我国规上互联网企业实现利润总额 655.7 亿元，同比增长 31.7%",
-      "summary": "IT之家 5 月 29 日消息，今日，工信部数据显示，1—4 月份，互联网业务收入保持平稳增长，较一季度利润总额增速有所回落，研发经费投入增长放缓。一、总体运行情况互联网业务收入保持平稳增长。1—4 月份，我国规模以上互联网和相关服务企业（下称互联网企业）完成互联网业务收入 6874 亿元，同比增长 9.9%。利润增速高位回落。1—4 月份，我国规模以上互联网企业实现利润总额 655.7 亿元，同比增长 31.7%，较一季度有所回落。研发经费投入增长放缓。1—4 月份，我国规模以上互联网企业共投入研发经费 387.3 亿元，同比增长 8.5%，较一季度回落 8.3 个百分点。二、分地区运行情况",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/338.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8141-819c-e941ba833a73",
-      "title": "LG 推出“27U711B”27 英寸显示器：4K 60Hz IPS 面板，首发价 1472 元",
-      "summary": "IT之家 5 月 29 日消息，LG 现已在京东上架一款型号为“27U711B”的 27 英寸显示器，该机采用 4K 60Hz 规格，定价为 1499 元，首发价 1472 元。该机配备一块 3840x2160 分辨率 60Hz IPS 面板，显示器亮度 300 尼特，GtG 响应速度 5ms，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 90% DCI-P3 色域。该机支架支持俯仰，显示器本体支持 VESA 100x100mm 壁挂，提供 DP 和 HDMI 接口。京东 LG“27U711B”显示器 1472 元直达链接京东 618 无门槛红包 面额至高 26618 元，每",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/339.htm"
-    },
-    {
-      "id": "36f03df8-2d23-81e9-b048-f27bf2397917",
-      "title": "This is MSI’s new Claw 8 EX AI Plus gaming handheld",
-      "summary": "MSI has unveiled a new Claw 8 handheld gaming PC ahead of the Computex 2026 show, and this model swaps out its predecessors' Intel Lunar Lake mobile chip for a specialized handheld processor. MSI describes the Claw 8 EX AI Plus as being the \"world's first\" handheld to contain the recently announced ",
-      "source": "The Verge",
-      "publishTime": "2026-05-29",
-      "link": "https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026"
-    },
-    {
-      "id": "36f03df8-2d23-81ac-bac2-e0c4860c72c4",
-      "title": "2499 → 709 元破冰新低：添可 20000Pa 平躺洗地机 Stretch Max 探底清仓",
-      "summary": "添可 · 芙万 Stretch Max 洗地机发售于 2023 年 12 月，上市售价 2499 元。支持前置 0 缠毛 + 13cm 超薄躺平 + 20000Pa 畅吸，40min 长续航一次拖净 400m²。今日按下方步骤下单，仅需 709.12 元即可入手（需“88VIP 会员 + 154.88 元淘金币”）：88VIP 需先领 1500-200 元消费券（淘宝 App → 我的淘宝 → 88VIP）点击下方卡片后 → 点击淘宝 App 右上角三个点“…” → 点击弹出页面右下角淘金币，可抵扣 154.88 元。下单时选择“以旧换新” → 旧品可选择“数据线”，立减 200 元。下单前咨",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/337.htm"
-    },
-    {
-      "id": "36f03df8-2d23-81af-96ed-e064b71c487b",
-      "title": "This MacBook Privacy Screen Totally Changed How I Work in Public",
-      "summary": "I'm one of those people who enjoy on planes and in public spaces in general. But the issue of privacy was always a hurdle.",
-      "source": "Wired",
-      "publishTime": "2026-05-29",
-      "link": "https://www.wired.com/story/targus-privacy-screen-travel/"
-    },
-    {
-      "id": "36f03df8-2d23-8146-a2fe-e11adf027082",
-      "title": "谷歌推出 Coral Board 单板计算机：1 TOPS 算力，本地运行 Gemma 3 模型",
-      "summary": "IT之家 5 月 29 日消息，在 2026 年 I/O 开发者大会期间，谷歌推出 Coral Board，是可以本地运行 Gemma 3 模型的小型单板计算机。Coral Board 最大的亮点，在于搭载 Coral NPU，该机器学习单元由 Google Research 研发，基于 RISC-V（精简指令集计算架构），更适合小型设备采用与二次开发。硬件方面，Coral Board 搭载 Synaptics Astra SL2619 芯片，内含 2GHz 双核处理器、2GB 内存和 1 TOPS 算力。 谷歌在该单板计算机上，演示运行 Gemma 3 270M 模型，让设备可在网络受限、隐",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/336.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8185-bbb0-ed873164d4dd",
-      "title": "微星海外推出“PRO MAX 27P/TP”系列一体机：可选锐龙 7 255 处理器 + 120Hz 触控面板",
-      "summary": "IT之家 5 月 29 日消息，微星现已扩展旗下 PRO MAX 产品线，在海外推出“PRO MAX 27P/TP”系列一体机（PRO MAX 27TP Z 8MG 和 PRO MAX 27P Z 8MG），两款机型区别主要在于后者支持 10 点触控，其他方面规格相同。系列一体机可选黑白双色，搭载一块 120Hz 面板，机身顶部集成了 5MP 弹出式摄像头，内置双 3W 扬声器。可选 AMD 锐龙 5 220 或锐龙 7 255 处理器，配备 DDR5 RAM 和 M.2 SSD，支持 Wi-Fi 7 网络和蓝牙 5.4。I/O 方面，该机前部提供了 1 个 USB-C 5Gbps 接口、1 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/335.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8143-b4b6-d6988c948342",
-      "title": "北京奔驰召回 58 辆国产汽车，含 C 级、EQE、GLC 等多款车型",
-      "summary": "IT之家 5 月 29 日消息，IT之家从国家市场监督管理总局获悉，日前，北京奔驰汽车有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号 S2026M0053V：自 2026 年 8 月 10 日起，召回 2023 年 5 月 9 日至 2024 年 2 月 5 日期间生产的部分国产 C 200 L、C 260 L、EQE 350、EQE 500、EQE SUV 350、EQE SUV 500 L、GLC 260 L、GLC 300 L 汽车，共计 58 辆。本次召回范围内的车辆，配备方向盘加热功能，由于转向柱控",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/334.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8184-bbff-d7d3528c062e",
-      "title": "现代汽车召回 278 辆进口帕里斯帝：存在仪表显示卡顿、误判安全带佩戴状态等隐患",
-      "summary": "IT之家 5 月 29 日消息，IT之家从国家市场监督管理总局获悉，日前，现代汽车（中国）投资有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。一、召回编号 S2026M0059V：自 2026 年 6 月 29 日起，召回生产日期从 2025 年 8 月 13 日至 2025 年 11 月 6 日的部分进口帕里斯帝汽车，共计 250 辆。本次召回范围内的部分车辆，由于设计问题，第三排座椅移动到最后位置时，左侧安全带指示灯开关线束长度比安全带织带短，拉拽安全带卡扣时可能造成线束断线，在未佩戴安全带的情况下，仪表盘上安全带",
-      "source": "IT之家",
-      "publishTime": "2026-05-29",
-      "link": "https://www.ithome.com/0/957/333.htm"
-    },
-    {
-      "id": "36f03df8-2d23-812b-bc85-f2d133c01681",
-      "title": "Russia is turning more of its Shaheds into operator-guided drones that can hunt moving targets and dodge defenses",
-      "summary": "The Shahed-style drones are typically launched at preset targets, but Russia is increasingly making them more dynamic.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/russia-turning-more-shaheds-into-operator-guided-drones-hunt-targets-2026-5"
     }
   ],
   "macroEvents": [
