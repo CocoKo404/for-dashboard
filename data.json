@@ -1,6 +1,278 @@
 {
-  "updatedAt": "2026-05-30 09:27",
+  "updatedAt": "2026-05-30 13:11",
   "news": [
+    {
+      "id": "37003df8-2d23-8198-b2c9-e1ee3ea739cf",
+      "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+      "summary": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-30",
+      "link": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/"
+    },
+    {
+      "id": "37003df8-2d23-8135-8052-c577ce66764e",
+      "title": "畅享 90 系列新成员？两款华为新机入网，电池容量 6100mAh、8500mAh",
+      "summary": "IT之家 5 月 30 日消息，博主 @数码闲聊站 今天在微博透露，型号为 CHZ-AL60/CAS-AL50 的两款华为新机已经入网，电池容量分别为 6100mAh、8500mAh。据介绍，这两款机型或许是畅享 90 系列的新成员，大概率搭载麒麟 8 系芯片，定位 1000 元-2000 元价位段。后续有用户在评论区表示：“处理器太弱了”，博主回复道：“加上鸿蒙还行吧，畅享 90PM 都卖了 150W+，说明不是大问题”；另一名用户则表示：“压力给到友商 X80 系列，不知道 X80 除了万级毫安电池还有什么拿得出手”，博主则回复道：“设计，高端设计大众化”。据IT之家此前报道，华为畅享 9",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/435.htm"
+    },
+    {
+      "id": "37003df8-2d23-81d6-95a9-de235191f94f",
+      "title": "LLMShare 攻击披露：ChatGPT 共享页变恶意入口，通过谷歌搜索精准投毒",
+      "summary": "IT之家 5 月 30 日消息，网络安全公司 Push Security 昨日（5 月 29 日）发布博文，披露称有黑客滥用 ChatGPT 的内容分享功能，创建假宕机通知页面，通过 Google 广告诱导用户下载恶意软件。该公司将这种攻击活动命名为 LLMShare（大语言模型共享内容滥用），攻击者把恶意内容托管在 chatgpt.com 这一合法 OpenAI 域名，用户和普通安全难以检查识破。IT之家附上相关截图如下：虚假赞助的 ChatGPT 广告攻击者利用 ChatGPT 的渲染能力，创建了一个自定义 HTML 页面，并通过 chatgpt.com/s/ 共享链接发布。用户点击 Go",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/434.htm"
+    },
+    {
+      "id": "37003df8-2d23-81aa-8eaa-ff024f12cd4b",
+      "title": "戴尔推出 Pro Precision 5 Series 16 移动工作站：至高 64 GB LPCAMM2 内存、RTX Pro 2000 显卡",
+      "summary": "IT之家 5 月 30 日消息，戴尔现已在海外市场发售 Pro Precision 5 Series 16 移动工作站，该产品配备英特尔 Panther Lake 平台、英伟达 RTX Pro 专业级独立显卡，可选 5G 网络连接、大容量电池等。据介绍，这款笔记本的重量达到 2.16kg，与 MacBook Pro（16 英寸）基本相当。最高配版本提供英特尔酷睿 Ultra 9 386H vPro 处理器、64GB LPCAMM2 内存，速率可达 8533 MT/s，内存支持自行升级。规格方面，该笔记本支持选配英伟达 RTX Pro 500（6GB）、Pro 1000（8GB）、Pro 200",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/432.htm"
+    },
+    {
+      "id": "37003df8-2d23-81fa-9f61-d72cc342a8ed",
+      "title": "新一代全域智能操作系统麒麟 100 正式发布：打通移动与桌面生态，支持双系统无感切换",
+      "summary": "IT之家 5 月 30 日消息，在 5 月 28 日至 31 日于天津举办的 2026 世界智能产业博览会上，麒麟软件正式发布了全新一代全域智能操作系统 —— 麒麟 100 智联操作系统，面向政企办公、生活娱乐、多设备协同等全场景。IT之家从官方获悉，该系统采用自主可信内核加轻量级虚拟化技术，配备“平行视界”交互模式与增强型多窗口管理能力，深度打通移动生态与桌面生态，实现双系统并行运行、无感切换、数据互通与剪贴板实时共享，使大屏设备能流畅运行海量移动应用。在多端互联方面，麒麟 100 全面适配智能手机、平板电脑、笔记本电脑及各类通信终端，支持多设备无线互联、硬件资源按需共享与云端统一同步，实现",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/431.htm"
+    },
+    {
+      "id": "37003df8-2d23-81fa-8015-e22c811ecb1f",
+      "title": "微软 XBOX 开测新特性：显示手柄图像、支持输入色码精确选色",
+      "summary": "IT之家 5 月 30 日消息，微软昨日（5 月 29 日）发布公告，邀请部分 Alpha Skip- Ahead 频道的 XBOX Insider 项目成员，测试 2026 年 6 月预览更新。Xbox 主机更新功能展示此次预览更新聚焦个性化、手柄识别、更新信息查看，以及服务状态提醒，后续将邀请更多 Insider 成员测试，并最终面向所有玩家开放。本次更新升级 XBOX Accessories（XBOX 配件）应用，系统会显示当前连接手柄的具体图像。IT之家附上相关截图如下：Xbox Accessories 应用显示手柄型号该能力覆盖多数带分享按钮的 XBOX 无线手柄，能准确识别特别版和",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/430.htm"
+    },
+    {
+      "id": "37003df8-2d23-8125-b97c-dc797a2a6e70",
+      "title": "宏碁推出 AR Vision GR0 与 GI0 智能眼镜，前者配 Micro OLED 屏",
+      "summary": "IT之家 5 月 30 日消息，宏碁 (Acer) 昨日宣布推出两款智能眼镜，分别是注重视觉体验的 AR Vision GR0 和智能音频与摄像产品 GI0。AR Vision GR0AR Vision GR0 拥有 2 块 1920×1080 Micro OLED 显示屏，刷新率 60Hz，亮度 200nits，色域 95% DCI-P3。其可借由外接设备的处理能力让使用者随时随地启动 AR 体验，同时该型号除 2D 外也支持显示 3D 内容。该设备兼容 Android、iOS、Windows，拥有一对近耳扬声器，集成 3DoF 传感器、加速度计、接近传感器、磁力计，瞳距 64mm，重 69",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/429.htm"
+    },
+    {
+      "id": "37003df8-2d23-81d4-8666-f64c9ff5f22a",
+      "title": "微软 Teams 将上线效率模式：缓解卡顿、优化视频会议质量",
+      "summary": "IT之家 5 月 30 日消息，科技媒体 NeoWin 昨日（5 月 29 日）发布博文，报道称微软将在未来几天，邀请 Microsoft Teams 用户测试“效率模式”。IT之家援引博文介绍，该功能主要面向资源受限的硬件设备，在符合条件的设备上默认启用，启用后会优化运行流畅度，启用效率模式后，用户会在 Teams 标题栏看到叶子图标。如果用户觉得功能影响体验，可通过“设置 > 常规”路径选择“从不使用效率模式”关闭。Teams 开启该模式后，不再自动加载预选聊天，会在消息窗格显示静态图片，等用户选择会话后再加载内容。这样可减少启动瞬间的 CPU、内存与界面渲染压力。视频会议场景下，系统会根",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/428.htm"
+    },
+    {
+      "id": "37003df8-2d23-81b1-a9e4-eed5c248a563",
+      "title": "让 Win11 PC 共享文件、外设，英特尔发布 Thunderbolt Share 雷电共享技术",
+      "summary": "IT之家 5 月 30 日消息，英特尔今天宣布推出 Thunderbolt Share 雷电共享技术，可让两台具备雷电 4 / 雷电 5 接口的 Win11 电脑实现共享文件、键盘、鼠标等外设，同时支持数据备份、系统迁移等功能。IT之家从英特尔官方获悉，这项功能相比 Linux 的 USB4Stream 更加直观，提供官方图形界面，只需要点几下鼠标就能实现传输文件、共享外设等功能。不过由于需要通过 Thunderbolt Share 认证才能使用，兼容设备范围相对受限。英特尔官网显示，目前已经有多款设备通过 Thunderbolt Share 认证，包括 5 款微星笔记本、9 款华硕 / 惠普",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/427.htm"
+    },
+    {
+      "id": "37003df8-2d23-8191-b123-d612cdb328c0",
+      "title": "宏碁宣布三款联发科 SoC 大屏平板电脑，至高搭载天玑 8300",
+      "summary": "IT之家 5 月 30 日消息，宏碁 (Acer) 昨日宣布了三款基于联发科技 SoC 的平板电脑产品，统一采用 3:2 比例屏幕，至高配备天玑 8300 芯片，皆可选配主动式触控笔等配件。Iconia Duo S14其采用 14.2\" 2880×1840 120Hz 400nits OLED 屏幕，具备 91% 屏占比和 100% DCI-P3 色域。该平板电脑基于联发科的天玑 8300，内置存储配置可达 8GB + 256GB，具备 10000mAh 电池，厚 6.2mm，重 0.73kg。该型号支持 Wi-Fi 6E，拥有 13MP 后摄与 8MP 前摄、四扬声器，提供 2 个 USB-",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/426.htm"
+    },
+    {
+      "id": "37003df8-2d23-816c-a58f-e1a7cd897f98",
+      "title": "华为 MateBook 14 鸿蒙版限时优惠 400 元，国补到手价 5015 元起",
+      "summary": "IT之家 5 月 30 日消息，华为官方刚刚宣布，MateBook 14 鸿蒙版夏日礼遇现已开启，华为商城限时优惠 400 元（IT之家注：活动持续至 6 月 21 日），现价 6599 元起。在此基础上，用户还可叠加教育优惠、国家补贴，最低到手价 5015 元起；另可享总价值最高 500+ 元鸿蒙有礼、限时送鼠标。京东华为 MateBook 14 鸿蒙版 2.8K OLED 触控屏 鸿蒙 AI 24GB 512GB 深空灰 方键盘券后 6149 元领 400 元券作为对比，华为 MateBook 14 鸿蒙版在京东已经降至 6299 元，叠加 618 活动的 400 元券后 5899 元，再",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/425.htm"
+    },
+    {
+      "id": "37003df8-2d23-817a-8897-c8eede58bf13",
+      "title": "为避《GTA6》锋芒，《神鬼寓言》宣布跳票至 2027 年一季度",
+      "summary": "IT之家 5 月 30 日消息，Xbox 官方今天宣布，由 Playground Games 开发的《神鬼寓言》游戏将延期至 2027 年第一季度发售。Xbox 表示，本次跳票的主要原因是，原发售日期与《光环：战役进化》《使命召唤：现代战争 4》《星球大战：银河赛车手》《侠盗猎车手 6》等重量级大作撞档，因此决定延期为本作腾出更多市场关注度。同时，官方将在 6 月 7 日的 Xbox Game Showcase 2026 展会上公布《神鬼寓言》的更多情报。IT之家注：《神鬼寓言》是一款开放世界动作角色扮演游戏，原定今年秋季发售，登陆 PS5、Xbox Series X|S、PC 等平台。",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/424.htm"
+    },
+    {
+      "id": "37003df8-2d23-811a-8a49-e6b1e2d4c2f8",
+      "title": "你的手机变遥控器，OpenAI 扩展 Codex 远程控制支持 Win10/Win11",
+      "summary": "IT之家 5 月 30 日消息，OpenAI 昨日（5 月 29 日）发布公告，宣布扩展 Codex 远程控制功能至 Windows 11、Windows 10 系统。IT之家附上相关视频如下： 用户可以通过 iPhone 或者安卓版 ChatGPT 应用，像操作 Mac 设备一样，远程启动 Windows 11、Windows 10 系统上的 Codex 任务，并能随时检查进度。此次更新同步引入了“电脑使用”功能，让 Codex 能在 Windows 上直接操控桌面应用。“电脑使用”功能类似于一种自动化的远程协助，可以通过“看到”屏幕、“点击”界面元素和“输入”文字来操作前台应用，让用户无需",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/422.htm"
+    },
+    {
+      "id": "37003df8-2d23-8118-a6a3-cb225b12fa38",
+      "title": "Tech Now",
+      "summary": "Shiona McCallum visits Fifa HQ in Zurich to see new tech being used in the World Cup.",
+      "source": "BBC Tech",
+      "publishTime": "2026-05-30",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "37003df8-2d23-8100-84ec-c2c27024a5ec",
+      "title": "猫头鹰 Noctua 预告 2026 台北电脑展将展示热虹吸一体式水冷散热器",
+      "summary": "IT之家 5 月 30 日消息，猫头鹰（Noctua）昨日（5 月 29 日）在 X 平台发布预告，将于 2026 台北国际电脑展（6 月 2~5 日）期间，展示用于静音主机的热虹吸一体式水冷散热器。 IT之家注：热虹吸一体式水冷散热器是一种创新型散热技术，核心优势在于无水泵设计，利用工质的气液密度差实现自动循环，具有极高静音性、零漏液风险和接近传统一体式水冷（AIO）的性能。猫头鹰曾在 2024 台北国际电脑展上展示过原型，其卖点不仅具备安静特点，而且减少了运动部件，理论上可降低故障点，并让维护需求更低。由于没有水泵，对追求静音主机、长时间稳定运行的用户来说，这类设计切中了噪声与维护 2 个",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/421.htm"
+    },
+    {
+      "id": "37003df8-2d23-8102-8c9a-c64de385870a",
+      "title": "华为 FreeBuds SE 4 ANC 新增海岛蓝配色，首发 169 元",
+      "summary": "IT之家 5 月 30 日消息，华为官方今日宣布，全新 FreeBuds SE 4 ANC 海岛蓝配色将于 10:08 正式开售，建议零售价 299 元，首发价 169 元，叠加京东券后 154 元，叠加 PLUS 优惠后 145.55 元。京东华为 FreeBuds SE 4 ANC 降噪版真无线蓝牙降噪耳机 50 小时长续航 / 多模式降噪 / 快速充电 陶瓷白 165 元直达链接京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：点此抽红包淘宝 618 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包华为 FreeBuds SE 4 ANC 无线耳机于去年",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/420.htm"
+    },
+    {
+      "id": "37003df8-2d23-81f2-a61c-ebf4a457d289",
+      "title": "宏碁宣布 27\" UHD 3D、QHD 540Hz / HD 1000Hz 电竞显示器",
+      "summary": "IT之家 5 月 30 日消息，作为其 COMPUTEX 2026 台北国际电脑展前宣发的一部分，宏碁 (Acer) 昨日宣布了一系列显示器新品。Predator XB273K 3D该显示器基础规格为 27\" IPS，UHD 180Hz，400nits，95% DCI-P3，2× 5W 扬声器。其搭载 3D 眼部追踪技术，可借用连接设备的图形算力实现基于 AI 的本地 2D → 3D 内容转换，同时支持最新 SpatialLabs 3D Hub 应用程序。Predator X34 F134\" QD-OLED Penta Tandem，3440×1440 360Hz 1800R，峰值亮度 130",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/419.htm"
+    },
+    {
+      "id": "37003df8-2d23-81e7-8ddd-c75e1983b7f6",
+      "title": "缓解亏损压力，消息称 Meta 明年将推 AI 吊坠寻找新收入",
+      "summary": "IT之家 5 月 30 日消息，科技媒体 The Information 今天（5 月 30 日）发布博文，报道称 Meta 公司为缓解其 Reality Labs 实验室的长期亏损压力，计划 2027 年春季内测上线 AI 吊坠。Meta 的 Reality Labs 实验室负责消费类硬件业务，多年来累计亏损数百亿美元。该部门上一财季营收仅 4.02 亿美元，运营亏损却超过 40 亿美元，硬件投入与商业回报仍不匹配。Meta 公司希望缓解其实验室长期亏损压力，计划明年春季内测一款 AI 吊坠，同时扩充智能 AI 眼镜产品线，希望借此提升 AI 模型、订阅服务和智能助手 Hatch 的使用率。",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/418.htm"
+    },
+    {
+      "id": "37003df8-2d23-8116-9ed5-f56c666cf766",
+      "title": "全球首款 24 英寸 4K 160Hz 显示器优派 VX24G26J 上市：首发 2199 元",
+      "summary": "IT之家 5 月 30 日消息，优派（ViewSonic）VX24G26J-4K 显示器已于昨日在京东发售，售价显示为 2199 元。这是全球首款 24 英寸 4K 160Hz 高刷显示器，采用了“纳米黑曜屏”，可实现“纳米级镜面 1.8% 低反射”，主打“4K 镜面 FastIPS”、“185PPI”，IT之家注意到其商品海报还显示支持 165Hz 超频。京东优派（ViewSonic）VX24G26J-4K 24 寸 4K 视网膜显示器 160Hz 纳米黑曜屏镜面 FastIPS HDR400 硬件低蓝光 升降旋转底座 2199 元直达链接京东 618 无门槛红包 面额至高 26618 元，",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/417.htm"
+    },
+    {
+      "id": "37003df8-2d23-81a4-a0a9-d51a8dfcaf8c",
+      "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
+      "summary": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+      "source": "TechCrunch",
+      "publishTime": "2026-05-30",
+      "link": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/"
+    },
+    {
+      "id": "37003df8-2d23-8126-9bae-c137fa50d5c9",
+      "title": "MiniMax 签署辅导协议，正式启动 A 股 IPO 进程",
+      "summary": "IT之家 5 月 30 日消息，AI 大模型公司 MiniMax Group（稀宇科技）已于 2026 年 5 月 29 日同中信证券签署辅导协议，正式启动 A 股 IPO 进程。MiniMax 已于今年 1 月登陆港交所，发行价 165 港元 / 股，首日大涨 111.39%，目前市值达 2,634.54 亿港元（IT之家注：现汇率约合 2280.06 亿元人民币）。相关阅读：《官方预告 MiniMax M3 系列 AI 模型即将登场》《MiniMax 不认马嘉祺？稀宇科技公布大模型“失语”原因：特定词元后训练不足导致》《MiniMax 开源 M2.7 模型，AI 自主训练与复杂任务能力再突",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/415.htm"
+    },
+    {
+      "id": "37003df8-2d23-81c3-8042-c4f7d5abc119",
+      "title": "消息称《使命召唤：现代战争 4》游戏将移除“更新后需重启”提示",
+      "summary": "IT之家 5 月 30 日消息，消息源 @charlieINTEL 于 5 月 28 日在 X 平台发布推文，表示 Infinity Ward 正优化《使命召唤：现代战争 4》游戏，移除更新后强制重启提示，并把 PC 着色器更新放到游戏关闭时处理。报道指出，Xbox、PC 和 PS5 版《使命召唤》玩家长期吐槽更新体验问题，常在客户端更新后看到重启弹窗，若短时间内连续推送补丁，部分玩家还遇到重启循环，无法顺利进入游戏。IT之家附上相关图片如下：消息称在《使命召唤：现代战争 4》游戏中，Infinity Ward 尝试移除“更新后需重启”提示，让玩家在补丁后少经历反复关闭客户端的等待。除重启问题",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/414.htm"
+    },
+    {
+      "id": "37003df8-2d23-8127-b631-eb23b1206bcf",
+      "title": "微软放宽 Win11 摄像头限制，视频会议和录制将不再冲突",
+      "summary": "IT之家 5 月 30 日消息，科技媒体 Windows Latest 今天（5 月 30 日）发布博文，报道称微软将放宽 Windows 11 限制，让 2 个及更多应用同时调用摄像头。在当前 Windows 11 系统中，用户如果已在 Microsoft Teams 开启会议占用摄像头，就无法同时使用 OBS 等应用录制屏幕，启用后无法获取画面并报错 0xC00D3704。而用户安装 Windows 11 五月可选更新 KB5089573（Build 26200.8524）后，微软为解决视频会议时无法同时录制屏幕的痛点，引入了多摄像头模式。用户需要手动开启，需要打开设置应用，进入“蓝牙和设",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/413.htm"
+    },
+    {
+      "id": "37003df8-2d23-81fc-8c85-e9d9cec08ba3",
+      "title": "中国空间站第十批科学实验样品返回并交付科学家，神二十一航天员乘组平安抵京",
+      "summary": "IT之家 5 月 30 日消息，圆满完成神舟二十一号载人飞行任务的航天员乘组已于 5 月 30 日乘坐飞机平安抵达北京。空间站应用与发展阶段飞行任务总指挥部有关领导及成员到机场迎接。与此同时，中国空间站第十批空间科学实验样品随神舟二十二号飞船返回舱顺利返回地球。5 月 29 日飞船成功着陆后，这批实验样品于 30 日凌晨部分运抵北京，并交付科学家开展后续研究。据中国载人航天工程办公室消息，3 名航天员抵京后将进入隔离恢复期，接受全面的医学检查和健康评估，并安排休养。此后，他们将在京与新闻媒体集体见面。神舟二十一号飞行乘组由航天员张陆、武飞、张洪章组成，张陆担任指令长。3 名航天员分别承担航天驾",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/412.htm"
+    },
+    {
+      "id": "37003df8-2d23-8181-99d7-e069090a499a",
+      "title": "非 Win12：微软下周将升级 Win11，携手英伟达开启 PC 新时代",
+      "summary": "IT之家 5 月 30 日消息，在 2026 年台北国际电脑展（6 月 2~5 日）和 2026 年 Build 开发者大会（6 月 2~3 日）召开前，微软官方澄清，下周不会推出 Windows 12 系统。微软 Windows 和设备负责人帕万 · 达武里（Pavan Davuluri）今天（5 月 30 日）在 X 平台发布推文，公司不会宣布新操作系统（Windows 12），下周重点将是开发者相关新闻与新硬件。微软 Windows 11 系统（2021 年 10 月发布）问世将近 5 年时间，微软目前集中精力修复其短板，包括可移动任务栏、低延迟模式、更多开始菜单自定义选项以及 Wind",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/411.htm"
+    },
+    {
+      "id": "37003df8-2d23-812b-9831-fcfbd596ef38",
+      "title": "SpaceX 上市前“收大礼”：获美太空军 41.6 亿美元超级合同",
+      "summary": "北京时间 5 月 30 日，据路透社报道，美国太空军周五表示，已向 SpaceX 授予一份价值 41.6 亿美元的合同，用于一项旨在追踪并锁定空中威胁的卫星项目。目前，SpaceX 正在推进 IPO。SpaceX这个项目名为“天基先进移动目标指示器”(SB-AMTI)，是一个互联的“分散复杂系统”(SoS)，融合天基传感器、安全通信链路及地面处理系统，以推动政府太空产业基础间的更紧密合作。特朗普政府的旗舰项目“金穹”导弹防御系统包含多个层次，其中之一便是感知与跟踪层。这些卫星预计将在追踪导弹方面发挥作用。“金穹”计划旨在扩大陆基拦截器、传感器和指挥系统，同时增加天基卫星，以探测、跟踪并可能应对",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/410.htm"
+    },
+    {
+      "id": "37003df8-2d23-810a-a83d-d4b41fa8ac56",
+      "title": "芝奇展示 CU-DIMM 内存条低压高频实力：1.1V 实现 9200CL74",
+      "summary": "IT之家 5 月 30 日消息，芝奇国际 (G.SKILL) 昨日宣布，其 16GBx2 DDR5 CU-DIMM 内存仅以 JEDEC 的 DDR5 标准电压 1.1V 便在 4-DIMM 主板平台上实现了 9200MT/s CL74-74-74-148 稳定运行。这一水平以往多数需要在 2-DIMM 主板平台上方能实现，此次芝奇成功突破限制展现其在内存工程设计、 IC 颗粒筛选、极限超频方面的实力。IT之家了解到，本次使用的内存超频平台为英特尔酷睿 Ultra 7 270K Plus 处理器和微星的 MEG Z890 GODLIKE 主板。芝奇还将在 COMPUTEX 2026 现场展示这",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/409.htm"
+    },
+    {
+      "id": "37003df8-2d23-8163-adb4-e3b3c90d9a15",
+      "title": "微星宣布全球首款三模 QD-OLED 游戏显示器：支持 4K / 2K / FHD",
+      "summary": "IT之家 5 月 30 日消息，微星 (MSI) 昨日宣布将在 COMPUTEX 2026 台北国际电脑展上展出全球首款三模 QD-OLED 游戏显示器 MPG OLED 322URDX36。MPG OLED 322URDX36 基于三星显示的 31.5\" 4K 360Hz 第五代 QD-OLED 面板，结合五层堆栈串联、RGB 条纹子像素排列、DarkArmor Film 涂层，峰值亮度 1500nits，获得 VESA 的 DisplayHDR True Black 600 和 ClearMR 18000 认证。其支持 4K 360Hz / 2K 520Hz / FHD 680Hz 三种显",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/408.htm"
+    },
+    {
+      "id": "37003df8-2d23-81d3-8bd5-e1903a30577d",
+      "title": "依然“很能打”，约 30% 惠普 PC 仍用 Win10",
+      "summary": "IT之家 5 月 30 日消息，在财报电话会议上，惠普个人系统总裁凯坦 · 帕特尔（Ketan Patel）表示，尽管 Windows 10 已于 2025 年 10 月停止服务支持，但在其 PC 用户群体中，该系列比重约为 30%。帕特尔向投资者表示，约 30% 个人电脑依然停留在 Windows 10 系统，尚未升级到 Windows 11 系统，表明换机需求尚未完全释放，这将成为惠普短期内的机遇。IT之家援引博文介绍，惠普首席财务官凯伦 · 帕克希尔（Karen Parkhill）补充称，这股趋势有明显区域差异。在截至 4 月 30 日的 2026 财年第 2 财季，欧洲、中东和非洲，以",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/407.htm"
+    },
+    {
+      "id": "37003df8-2d23-8159-9047-e8f4c4675457",
+      "title": "库洛《鸣潮》华为 HarmonyOS 鸿蒙版即将上线，《赛博朋克：边缘行者》联动 6 月 8 日正式开启",
+      "summary": "IT之家 5 月 30 日消息，在昨晚举行的《鸣潮》前瞻直播中，库洛游戏官方宣布《鸣潮》HarmonyOS 鸿蒙原生版本即将上线，现已在华为游戏中心开启预约。《鸣潮》3.4 版本宣布将于 6 月 8 日正式开启，《鸣潮》×《赛博朋克：边缘行者》联动同步开启，全新五星共鸣者「露西」、「丽贝卡」即将上线，五星共鸣者「丽贝卡」可免费领取。《鸣潮》× 《赛博朋克：边缘行者》联动版本「未选择的梦」将于 2026 年 6 月 8 日更新。联动场景「心之集域 · 夜之城」即将上线：自幻梦中诞生，这片繁华的钢铁森林始终被夜色笼罩，呈现出与往昔不同的面貌。*「心之集域 · 夜之城」为特殊场景，可在完成异闻任务「",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/406.htm"
+    },
+    {
+      "id": "37003df8-2d23-8189-bec2-f07afd5f3c1f",
+      "title": "宏碁推出锐龙 AI Max+ 395 迷你工作站与 1.26L LGA 迷你主机",
+      "summary": "IT之家 5 月 30 日消息，宏碁 (Acer) 昨日宣布了一系列迷你主机、台式机、一体机产品，下面就由IT之家带领小伙伴们速览一下：Veriton RA110作为宏碁继 Veriton RA100 后的又一款 AMD 锐龙 AI Max+ 395 处理器 AI 迷你工作站，Veriton RA110 的设计更为内敛、更趋向于传统迷你主机。其三维 160×160×47 (mm)，支持 128GB LPDDR5X-8533 内存，配备 Wi-Fi 7 无线网卡；外部 I/O 方面，前部提供 SD 读卡器、音频插孔、2 个 USB4，后部则有 2 个 USB-A 10Gbps、HDMI 2.1、",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/405.htm"
+    },
+    {
+      "id": "37003df8-2d23-815f-8023-c588cf1b7741",
+      "title": "免费培训开发 App，苹果底特律开发者学院毕业生超 1800 人",
+      "summary": "IT之家 5 月 30 日消息，苹果公司昨日（5 月 29 日）发布博文，宣布底特律开发者学院迎来第五届毕业生，200 名学员完成培训，自 2021 年已培训超 1800 人。IT之家援引博文介绍，苹果公司为推进种族平等与正义倡议，于 2021 年在底特律成立开发者学院，也是北美唯一的此类开发者学院。该项目与密歇根州立大学、Gilbert 家族基金会合作运营，提供 9 个月完整课程和 4 周强化课程，教授应用开发、设计、商业及专业技能。学员不仅学习编程，还掌握项目管理、营销等综合能力。但该项目的效果近期引发争议。Wired 报道指出，过去两届毕业生就业率约 71%，低于优秀编程学校标准。苹果反",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/404.htm"
+    },
+    {
+      "id": "37003df8-2d23-818d-ade8-cbbbc1685cc7",
+      "title": "苹果 Apple Music 服务中断，部分用户可能遇到间歇性问题",
+      "summary": "IT之家 5 月 30 日消息，根据苹果官方系统状态页面，北京时间昨日（5 月 29 日）23 点 40 分开始，其 Apple Music 服务出现中断。IT之家发稿前，苹果官方系统状态页面暂未显示已修复，不过官方表示影响部分用户，用户目前在使用此服务时可能遇到间歇性问题。本次影响范围较广，受影响地区包括澳大利亚、巴西、法国、印度、意大利、日本、韩国、西班牙、美国等。Apple Music 服务目前不够稳定，部分用户仍能打开和播放内容，但全球范围内已有用户遇到连接、播放或服务访问异常，影响实际使用稳定性。故障监测平台 Downdetector（故障监测平台）也出现相关报告。不过，报道提到用户",
+      "source": "IT之家",
+      "publishTime": "2026-05-30",
+      "link": "https://www.ithome.com/0/957/403.htm"
+    },
+    {
+      "id": "37003df8-2d23-819b-abde-c89cb9d4af60",
+      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
+      "summary": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\" earlier today, and now",
+      "source": "The Verge",
+      "publishTime": "2026-05-30",
+      "link": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser"
+    },
     {
       "id": "36f03df8-2d23-81de-a615-d8619614f2cb",
       "title": "IT早报 0530：10 名车主诉特斯拉 FSD 欺诈案国内开庭；Claude Opus 4.8 被指蒸馏中国 AI；黄仁勋评价华为韬定律；央视曝光某国用 41 种网络武器攻击我高校...",
@@ -128,278 +400,6 @@
       "source": "Wired",
       "publishTime": "2026-05-30",
       "link": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/"
-    },
-    {
-      "id": "36f03df8-2d23-81a9-943c-c7b7df81c900",
-      "title": "‘We’re Just Getting the Crumbs Here’: Contractors Protest Layoffs at Meta’s European Headquarters",
-      "summary": "Soon-to-be-laid-off Meta contractors say they’re being treated differently than Mark Zuckerberg’s full-time employees, who stand to receive more generous severance packages.",
-      "source": "Wired",
-      "publishTime": "2026-05-30",
-      "link": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/"
-    },
-    {
-      "id": "36f03df8-2d23-815a-9107-d246d06cb225",
-      "title": "YouTube directors are beating Disney — and saving Hollywood",
-      "summary": "If you're a young movie director, you get your start on YouTube. Next: graduating to movie theaters, and crushing the competition.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/backrooms-obsession-youtube-iron-lung-directors-disney-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-8152-918e-f5116fa528a1",
-      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
-      "summary": "Google's new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
-      "source": "Wired",
-      "publishTime": "2026-05-30",
-      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/"
-    },
-    {
-      "id": "36f03df8-2d23-81ac-b1cc-dbad41bd7aac",
-      "title": "Acer’s launching a Linux handheld for streaming your PC games",
-      "summary": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC. Announced at Computex on Friday, it's launching in Q4 2026 with a 7-inch (1920 x 1200) display, Wi-Fi 6, just 1GB of LPDDR4 R",
-      "source": "The Verge",
-      "publishTime": "2026-05-30",
-      "link": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld"
-    },
-    {
-      "id": "36f03df8-2d23-818e-b41e-d1867c332817",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-30",
-      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-    },
-    {
-      "id": "36f03df8-2d23-8158-8b51-e5c62811673c",
-      "title": "Short memory? The most dangerous words in investing are back",
-      "summary": "AI demand and industry consolidation are driving a memory chip boom. Is this time really different for Micron and rivals?",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/ai-memory-chip-boom-bust-cycle-micron-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-811b-8f7b-cad39aebf8b4",
-      "title": "Tokens or humans? The new corporate trade-off",
-      "summary": "AI is costing far more than companies expected, forcing CFOs into a new trade-off between tokens and humans and posing a risk the market hasn't priced in.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-30",
-      "link": "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html"
-    },
-    {
-      "id": "36f03df8-2d23-8109-99b7-cb9fae13ca01",
-      "title": "What happens when companies become too AI-pilled?",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-30",
-      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/"
-    },
-    {
-      "id": "36f03df8-2d23-8180-b18d-ecb18e572176",
-      "title": "Dell's earnings blowout makes clear now is not the time to go against the AI grain",
-      "summary": "Don't fight the tape.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-30",
-      "link": "https://www.cnbc.com/2026/05/29/dells-earnings-blowout-makes-clear-now-is-not-the-time-to-go-against-the-ai-grain.html"
-    },
-    {
-      "id": "36f03df8-2d23-81a0-af22-f655e4233ee4",
-      "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
-      "summary": "Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead.",
-      "source": "Wired",
-      "publishTime": "2026-05-30",
-      "link": "https://www.wired.com/story/best-pool-cleaning-robots/"
-    },
-    {
-      "id": "36f03df8-2d23-810a-b320-e5ee6b1532df",
-      "title": "Tech companies desperately want to film you doing chores",
-      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants foo",
-      "source": "The Verge",
-      "publishTime": "2026-05-30",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data"
-    },
-    {
-      "id": "36f03df8-2d23-8143-b7df-dbd851f036c8",
-      "title": "How DHS's threat to cut customs processing in sanctuary cities could snarl air travel everywhere",
-      "summary": "DHS chief Markwayne Mullin wants to cut customs processing at airports in sanctuary cities. Airlines say that would cause a huge travel nightmare.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/dhs-sanctuary-city-customs-airlines-international-travel-chaos-flight-delays-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-8185-91e0-d27f0937f6b0",
-      "title": "Reid Hoffman says reported DOJ investigation into his nonprofit that funded E. Jean Carroll's case is 'retaliation'",
-      "summary": "Reid Hoffman posted on X in response to reports of a DOJ probe tied to E. Jean Carroll's lawsuits, calling the scrutiny \"absurdly false.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/reid-hoffman-responds-x-doj-investigation-e-jean-carroll-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-813e-b815-cd8eaac53c8f",
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-30",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
-    },
-    {
-      "id": "36f03df8-2d23-81d0-87d2-e291d31def73",
-      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-30",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
-    },
-    {
-      "id": "36f03df8-2d23-8132-9213-e9729f4c611a",
-      "title": "Zig president says AI coding contributions are 'invariably garbage,' so he banned them",
-      "summary": "Zig, an open-source programming language bans contributors from using AI. Its president said that the these submissions have \"no value whatsoever.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/zig-programming-language-ai-rules-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-8109-95fb-d473aa048fea",
-      "title": "I placed the same ice-cream order at Cold Stone Creamery and Baskin-Robbins. The winning chain also had better prices.",
-      "summary": "I ordered the same thing at Baskin-Robbins and Cold Stone Creamery to see which chain has the better chocolate and vanilla ice cream and milkshakes.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/baskin-robbins-vs-cold-stone-creamery-ice-cream-comparison-review-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-81eb-a803-e8e868a2da34",
-      "title": "I tried Gordon Ramsay's 15-minute butter-chicken recipe. It was delicious, but his time estimate was way off.",
-      "summary": "I tried Gordon Ramsay's 15-minute dinner recipe for butter chicken. Making the dish took longer than expected, but it was super flavorful.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/gordon-ramsay-15-minute-dinner-recipe-curry-chicken-review"
-    },
-    {
-      "id": "36f03df8-2d23-8144-a192-d35589c9c980",
-      "title": "微软发布 Win11 多个预览频道新版：改进开始菜单等",
-      "summary": "IT之家 5 月 30 日消息，微软昨天（5 月 29 日）发布博文，邀请不同频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新，本次发布多个版本：Beta 频道：Build 26220.8544Experimental（25H2）：Build 26300.8553Experimental（26H1）：Build 28020.2207Experimental（未来平台，含原 Canary 29500 系列）：Build 29599.1000微软指出，已发现内部问题会导致支持 System Guard 的 AMD 设备崩溃，因此本周不会向这些设备提供",
-      "source": "IT之家",
-      "publishTime": "2026-05-30",
-      "link": "https://www.ithome.com/0/957/396.htm"
-    },
-    {
-      "id": "36f03df8-2d23-8164-a674-e8bef8e42a63",
-      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
-      "summary": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-30",
-      "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/"
-    },
-    {
-      "id": "36f03df8-2d23-810a-a442-c4fca99aba6d",
-      "title": "The Verge’s 2026 high school graduation gift guide",
-      "summary": "High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue their education and delve deeper into their studies at college. Either way, they'll be taking on more resp",
-      "source": "The Verge",
-      "publishTime": "2026-05-30",
-      "link": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas"
-    },
-    {
-      "id": "36f03df8-2d23-81dc-b305-d724bf3070c6",
-      "title": "11 of the most annoying main characters in TV history — sorry",
-      "summary": "Some of the most iconic main characters in TV history are also hypocritical, entitled, or just plain creepy.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/most-annoying-main-characters-tv-history"
-    },
-    {
-      "id": "36f03df8-2d23-81b6-8fe4-e5d29a81f1bd",
-      "title": "Microsoft delays Fable (again) to avoid GTA VI",
-      "summary": "Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027. However, it will show a \"new look\" at the game at its Xbox Games Showcase on June 7th. \"This is year is packed with incredible […",
-      "source": "The Verge",
-      "publishTime": "2026-05-30",
-      "link": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi"
-    },
-    {
-      "id": "36f03df8-2d23-81f1-b1e3-df475ffb5405",
-      "title": "Vintage photos show what it was like to eat at McDonald's in the 1980s",
-      "summary": "In the 1980s, McDonald's customers could try Chicken McNuggets for the first time or spot President Ronald Reagan eating a Big Mac.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/vintage-photos-mcdonalds-restaurants-food-menu-1980s"
-    },
-    {
-      "id": "36f03df8-2d23-81c6-bfc3-ef61650c8e96",
-      "title": "The Secret Service code names used by 12 presidents and first ladies, and the stories behind them",
-      "summary": "President Donald Trump's Secret Service code name is \"Mogul.\" First lady Melania Trump's is \"Muse.\" Here's what other presidents have been called.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/presidents-first-ladies-secret-service-code-names"
-    },
-    {
-      "id": "36f03df8-2d23-81f3-90d0-c6787e7944dd",
-      "title": "Southwest walks back a plus-size passenger policy that landed it in the hot seat",
-      "summary": "Southwest Airlines revises its 'customer of size' policy, offering extra seats at no cost to plus-size flyers.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/southwest-changes-policy-after-backlash-from-plus-size-flyers-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-81e1-9da6-ddae98afc8fe",
-      "title": "The best-selling country musicians of all time",
-      "summary": "Carrie Underwood, Taylor Swift, Luke Bryan, and Morgan Wallen are among the biggest country acts of the 21st century.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/best-selling-country-musicians-of-all-time"
-    },
-    {
-      "id": "36f03df8-2d23-81f6-9919-dd744208ead0",
-      "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
-      "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
-      "source": "Wired",
-      "publishTime": "2026-05-30",
-      "link": "https://www.wired.com/story/future-of-truth-ai-interview/"
-    },
-    {
-      "id": "36f03df8-2d23-81cc-977c-f9960ebea9a1",
-      "title": "Microsoft teases new Surface hardware and ‘a new era of PC’",
-      "summary": "I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased \"something new is coming for developers,\" complete with a mysterious image of what looks like a curved display edge. Davuluri no",
-      "source": "The Verge",
-      "publishTime": "2026-05-30",
-      "link": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors"
-    },
-    {
-      "id": "36f03df8-2d23-8170-a392-cf33c048dcea",
-      "title": "Jim Cramer says Nvidia is a clear winner from Dell's monster quarter",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-30",
-      "link": "https://www.cnbc.com/2026/05/29/jim-cramer-says-nvidia-is-a-clear-winner-from-dells-monster-quarter.html"
-    },
-    {
-      "id": "36f03df8-2d23-8133-98d4-cf3fbaad8622",
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-30",
-      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/"
-    },
-    {
-      "id": "36f03df8-2d23-8128-8a72-e985b17e3516",
-      "title": "Amazon says it shut down a token leaderboard: 'Don't use AI just to use AI'",
-      "summary": "Amazon nixed an employee-created AI leaderboard called \"KiroRank\" after concerns it encouraged excessive AI spending.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-30",
-      "link": "https://www.businessinsider.com/amazon-ai-leaderboard-tokenmaxxing-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-815b-b017-c4f3421e1386",
-      "title": "I gave up my dream career in NYC to move abroad without a stable job. I miss my old life but don't regret leaving.",
-      "summary": "I left my career as a culture writer in NYC behind to study Italian in Florence, Italy. The transition abroad was hard, but it's forced me to grow.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-29",
-      "link": "https://www.businessinsider.com/i-quit-job-nyc-moved-abroad-italy-2026-5"
-    },
-    {
-      "id": "36f03df8-2d23-814c-8a6d-c9d946f60471",
-      "title": "Dell stock skyrockets 32%, heads for best day ever as AI server revenue soars",
-      "summary": "Dell reported its fastest pace of revenue growth since returning to the public market in 2018, with AI server revenue soaring 757% over last year.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-05-29",
-      "link": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html"
     }
   ],
   "macroEvents": [
