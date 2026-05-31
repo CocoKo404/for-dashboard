@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-01 05:31",
+  "updatedAt": "2026-06-01 07:36",
   "news": [
+    {
+      "id": "37103df8-2d23-8143-96a0-d451f3fa5332",
+      "title": "Take-Two 财报透露 R 星经典游戏《GTA5》全球累计销量已接近 2.3 亿份",
+      "summary": "IT之家 6 月 1 日消息，《GTA5》自 2013 年发售以来，已横跨三个主机世代和 PC 平台。其续作《GTA6》将于今年 11 月 19 日正式发售。参考 Take-Two 发布的最新季度财报，目前《GTA5》全球累计销量已接近 2.3 亿份，较上一期财报的 2.25 亿份再度增长，折算下来该作单季度销量 500 万份。除此之外，相应财报还透露《GTA5》创下史上所有娱乐产品中零售销售额最快突破 10 亿美元的纪录，目前《GTA》系列累计总销量已超 4.7 亿份，是游戏界最成功、最具标志性的 IP 之一。参考IT之家先前报道，市场普遍猜测《GTA6》售价定为 80 美元（IT之家注：现",
+      "source": "IT之家",
+      "publishTime": "2026-06-01",
+      "link": "https://www.ithome.com/0/957/905.htm"
+    },
+    {
+      "id": "37103df8-2d23-8171-8245-d57a8e1fc130",
+      "title": "古尔曼重申苹果 iOS 27 聚焦于小修小补，明年 20 周年款 iPhone 预装的 iOS 28 将更有看点",
+      "summary": "IT之家 6 月 1 日消息，彭博社的马克・古尔曼在最新一周时事通讯中重申苹果 iOS27 主要聚焦于小修小补，而 iOS 28 将会“比 iOS 27 更加重要”，其内部代号为“Bell”，预计将更加着重于界面调整。值得一提的是，iOS 28 也将是苹果 20 周年纪念款 iPhone 预装的系统，此前消息显示 20 周年纪念款 iPhone 将采用四曲面设计，令其看起来像用户手中一块“流动的液态玻璃”，考虑到苹果公司产品通常采用软硬结合策略，因此 iOS 28 很有可能为 20 周年版 iPhone 进一步优化界面体验。相比之下，即将于今年 WWDC 登场的 iOS 27 主要是提升系统稳",
+      "source": "IT之家",
+      "publishTime": "2026-06-01",
+      "link": "https://www.ithome.com/0/957/904.htm"
+    },
+    {
+      "id": "37103df8-2d23-815d-89bf-d9ca08c63dd8",
+      "title": "Zelenskyy makes a pitch to Silicon Valley's defense startups: Bring your AI, we'll bring the battle experience",
+      "summary": "President Volodymyr Zelenskyy wants to deepen ties between Ukraine and Silicon Valley's defense tech startups.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-01",
+      "link": "https://www.businessinsider.com/ukraine-zelenskyy-drones-ai-russia-war-silicon-valley-defense-tech-2026-5"
+    },
+    {
+      "id": "37103df8-2d23-81ec-8de9-e935937febe2",
+      "title": "Apple’s strategy for smart glasses is the same as smart watches",
+      "summary": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world. The company also had Swatch, Fossil, and",
+      "source": "The Verge",
+      "publishTime": "2026-06-01",
+      "link": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches"
+    },
+    {
+      "id": "37103df8-2d23-8144-a0e4-f2d155affdf0",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-01",
+      "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/"
+    },
     {
       "id": "37103df8-2d23-811f-ab38-c84c4d9b9412",
       "title": "How to watch Nvidia&#8217;s Computex keynote",
@@ -360,46 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-05-31",
       "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape"
-    },
-    {
-      "id": "37103df8-2d23-8150-ab2f-f99d1d8d51a4",
-      "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
-      "summary": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
-      "source": "TechCrunch",
-      "publishTime": "2026-05-31",
-      "link": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/"
-    },
-    {
-      "id": "37103df8-2d23-813a-91ad-c8f4af6a3528",
-      "title": "郭明錤分析英伟达 N1X/N1 前景：瞄准端侧 AI 重度用户、出货量仍取决于 Windows",
-      "summary": "IT之家 5 月 31 日消息，天风国际证券分析师郭明錤今天在 X 平台发文，分析英伟达 N1/N1X 芯片的市场前景。供应链调查显示，配备 N1X/N1 芯片的设备未来两年出货量大约为 1000 万台。面向小众市场，瞄准对端侧 AI 算力有需求的重度使用者。除开售价因素，未来出货量能否上修（IT之家注：向上调升），仍取决于 Windows 是否能提供真正调度端侧 AI 算力的应用与工作流。郭明錤认为，目前 PC 市场主流 AI 应用仍在“用浏览器上大语言模型网站”和“通过 API 消耗云端 LLM 算力 / Token”。核心都是使用云端 AI 算力，而非端侧模型。并且 2026 年 PC ",
-      "source": "IT之家",
-      "publishTime": "2026-05-31",
-      "link": "https://www.ithome.com/0/957/874.htm"
-    },
-    {
-      "id": "37103df8-2d23-811a-84f9-e93a00d0fb60",
-      "title": "We moved to Japan 3 years ago. We have a lower cost of living and travel more.",
-      "summary": "I moved my family to Japan for a fresh start. Here are 5 ways our lives have improved in the past 3 years.",
-      "source": "Business Insider",
-      "publishTime": "2026-05-31",
-      "link": "https://www.businessinsider.com/family-moved-to-japan-lower-cost-of-living-travel-more-2026-5"
-    },
-    {
-      "id": "37103df8-2d23-81a1-8136-f2e15a322ef0",
-      "title": "王力宏演唱会上被叫法拉利后当场回应：现在我是比亚迪了",
-      "summary": "IT之家 5 月 31 日消息，5 月 29 日至 5 月 31 日，王力宏“最好的地方 II”世界巡回演唱会在杭州奥体中心体育场举行。在昨晚的演出过程中，大屏幕展示了一位歌迷的留言，将王力宏称为“华语乐坛唯一的法拉利”，这个比喻迅速引发了全场歌迷的共鸣。面对此赞誉，王力宏立刻笑着摆手否认，并对着台下观众明确回应道：“法拉利？没有没有，现在我是比亚迪了。”这一互动迅速在网络平台上引发热议。结合整个演唱会来看，这句即兴的回应并非无的放矢。IT之家注意到，这场演唱会本身就是由比亚迪储能与腾势汽车提供全程技术支持与保障，是全球首场冠以“新能源”概念的演唱会，旨在将绿色出行的理念与音乐现场相结合。另外",
-      "source": "IT之家",
-      "publishTime": "2026-05-31",
-      "link": "https://www.ithome.com/0/957/872.htm"
-    },
-    {
-      "id": "37103df8-2d23-81f7-af33-dbbb494e82bf",
-      "title": "25kPa 大吸力 + 95℃ 高温自清洁：石头洗地机 A30 Pro 2.0 国补后 1785 元",
-      "summary": "石头 A30 Pro 2.0 洗地机发售于 2026 年 3 月，该产品提供 25000Pa 吸力，首发价 2399 元。京东 618 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1784.57 元：点击下方卡片，可领 9 折券。加入购物车时选择“以旧换新”补贴 50 元（可选“电动牙刷”），京东回收不看旧物品相，老、旧、坏电器皆可回收。京东石头 A30 Pro 2.0 洗地机 AI 全向助力 25kPa 吸力以旧换新后 1784.57 元领 9 折券购机赠价值 199 元配件礼包（滤网 + 滚刷 + 200ml 清洁液），晒单再赠 1 个滚刷。京东无门槛红包至高 ",
-      "source": "IT之家",
-      "publishTime": "2026-05-31",
-      "link": "https://www.ithome.com/0/957/871.htm"
     }
   ],
   "macroEvents": [
