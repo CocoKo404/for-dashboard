@@ -1,6 +1,158 @@
 {
-  "updatedAt": "2026-06-02 05:07",
+  "updatedAt": "2026-06-02 07:13",
   "news": [
+    {
+      "id": "37203df8-2d23-8138-9a6b-e69060ea8ec2",
+      "title": "Alphabet plans to raise $80 billion from stock sales to fund AI buildout",
+      "summary": "Alphabet said it plans to sell $80 billion in stock, including through a $10 billion investment by Berkshire Hathaway.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-02",
+      "link": "https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html"
+    },
+    {
+      "id": "37203df8-2d23-81e1-925d-ce60c8a1b8e7",
+      "title": "The fight over Bari Weiss' '60 Minutes' overhaul is getting uglier",
+      "summary": "\"60 Minutes\" correspondent Scott Pelley exposed a key point of tension in the Bari Weiss era during a fiery exchange on Monday.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-02",
+      "link": "https://www.businessinsider.com/fight-over-bari-weiss-60-minutes-overhaul-is-getting-uglier-2026-6"
+    },
+    {
+      "id": "37203df8-2d23-8195-abb6-c896f7da385e",
+      "title": "Microsoft and Google are late to AI coding, but 'absolutely critical' they compete for growth",
+      "summary": "Coding tools are becoming an increasingly big target for Google and Microsoft as they try to catch up to Anthropic and OpenAI.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-02",
+      "link": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html"
+    },
+    {
+      "id": "37203df8-2d23-81b6-9450-da081bb2cd10",
+      "title": "Sam Altman says companies embracing AI the most are actually hiring",
+      "summary": "OpenAI CEO Sam Altman said AI can be a \"convenient way\" for companies to explain layoffs.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-02",
+      "link": "https://www.businessinsider.com/sam-altman-companies-embracing-ai-are-hiring-2026-6"
+    },
+    {
+      "id": "37203df8-2d23-814a-b72b-cc8e5c704780",
+      "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+      "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-02",
+      "link": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/"
+    },
+    {
+      "id": "37203df8-2d23-8152-9c58-e5e29b0db217",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-02",
+      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/"
+    },
+    {
+      "id": "37203df8-2d23-8122-bd20-c382fd2c6d90",
+      "title": "HPE skyrockets 30% on biggest earnings beat since 2018",
+      "summary": "HPE's blowout second-quarter earnings report was highlighted by a strong Cloud & AI segment that showed soaring server revenue.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-02",
+      "link": "https://www.cnbc.com/2026/06/01/hpe-stock-earnings-q2.html"
+    },
+    {
+      "id": "37203df8-2d23-8120-95d2-d077613f4ce1",
+      "title": "I went to the official Roland‑Garros watch party in NYC that promised to transport me to Paris. Here's why it felt like a soft launch for the US Open.",
+      "summary": "The first Roland-Garros NYC Experience promised to transport fans to Paris as the French Open's official watch party. It kinda felt like the US Open.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-02",
+      "link": "https://www.businessinsider.com/roland-garros-watch-party-soft-launch-us-open-2026-6"
+    },
+    {
+      "id": "37203df8-2d23-81aa-9958-fa4540080879",
+      "title": "The 10 best movies coming to Netflix in June",
+      "summary": "This June on Netflix, stream movies like \"Poor Things\" and Jennifer Lopez's new rom-com \"Office Romance.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-06-02",
+      "link": "https://www.businessinsider.com/best-movies-on-netflix-june-2026"
+    },
+    {
+      "id": "37203df8-2d23-819c-bc12-d3020a49aea7",
+      "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
+      "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater while scuba diving near Saint Martin, as reported earlie",
+      "source": "The Verge",
+      "publishTime": "2026-06-02",
+      "link": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands"
+    },
+    {
+      "id": "37203df8-2d23-81f2-b01c-cd04c68a3cd7",
+      "title": "Sam Altman weighs in on the AI IPO race after Anthropic files to go public",
+      "summary": "Hours after Anthropic filed paperwork for an IPO, Altman said OpenAI is not focused on the timing of who goes public first.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-02",
+      "link": "https://www.businessinsider.com/sam-altman-comments-ipo-race-anthropic-openai-2026-6"
+    },
+    {
+      "id": "37203df8-2d23-81eb-b690-c4390de86647",
+      "title": "Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50",
+      "summary": "If you’re planning to travel this summer, both a Bluetooth tracker and a personal safety device can come in handy, especially if you’ll be exploring on your own. The Pebblebee Halo combines those two gadgets into one, and it’s currently on sale for $49.99 ($10 off) at Amazon, which is the best price",
+      "source": "The Verge",
+      "publishTime": "2026-06-02",
+      "link": "https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale"
+    },
+    {
+      "id": "37203df8-2d23-8182-9609-e4590ea37237",
+      "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+      "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-02",
+      "link": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/"
+    },
+    {
+      "id": "37203df8-2d23-81fd-9c50-ca2e8ed05970",
+      "title": "VC Bill Gurley says Anthropic is 'midwifing a deity' by 'building a species that's superior to humans'",
+      "summary": "\"I don't think they think they're writing software. I think they're midwifing a deity here,\" tech investor Bill Gurley said.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-02",
+      "link": "https://www.businessinsider.com/bill-gurley-anthropic-ai-god-humanity-theory-2026-6"
+    },
+    {
+      "id": "37203df8-2d23-8181-9e95-ccac95262f43",
+      "title": "4 dishes you should always order at Korean barbecue and 2 to skip, according to a top Korean chef",
+      "summary": "Chef Samuel Kim shared the dishes you should always order at Korean barbecue, including pancakes and pork belly. But skip the fish and udon.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-02",
+      "link": "https://www.businessinsider.com/korean-bbq-what-to-order-dishes-to-skip"
+    },
+    {
+      "id": "37203df8-2d23-8176-8cca-f6fe974d928b",
+      "title": "慧与 2026 财年第二财季归母净利润 5.95 亿美元，同比 155.14",
+      "summary": "IT之家 6 月 2 日消息，慧与今日发布 2026 财年（2025 年 11 月 1 日～2026 年 10 月 31 日）第二财季（2026 年 2 月 1 日～2026 年 4 月 30 日）报告：营业总收入： 106.78 亿美元，同比增长 40.00%毛利： 39 亿美元，同比增长 16.77%毛利率： 36.5%，同比增长 8.1 个百分点归母净利润： 5.95 亿美元，增长 40.66%经营现金流： 14.1 亿美元自由现金流： 9.15 亿美元基本每股收益： 0.45 美元，同比增长 40.63%稀释每股收益： 0.44 美元资产负债率： 68.11%AI 解读本次财报营收 1",
+      "source": "IT之家",
+      "publishTime": "2026-06-02",
+      "link": "https://www.ithome.com/0/958/448.htm"
+    },
+    {
+      "id": "37203df8-2d23-816b-b8fb-dad6afdf3ca3",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-02",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/"
+    },
+    {
+      "id": "37203df8-2d23-8116-a1c5-cb7d76f91e01",
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up un",
+      "source": "The Verge",
+      "publishTime": "2026-06-02",
+      "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram"
+    },
+    {
+      "id": "37203df8-2d23-81fc-b691-cab095222f7b",
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on ",
+      "source": "The Verge",
+      "publishTime": "2026-06-02",
+      "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on"
+    },
     {
       "id": "37203df8-2d23-81a0-b2a9-f36574c83b72",
       "title": "Amazon's AI jackpot: Its $8 billion Anthropic holdings are now worth $74 billion",
@@ -248,158 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-06-02",
       "link": "https://www.businessinsider.com/tokyo-vs-osaka-from-someone-who-lived-both-japanese-cities-2026-6"
-    },
-    {
-      "id": "37203df8-2d23-8128-bd35-f4cb449ded93",
-      "title": "'Backrooms' and 'Obsession' just humbled 'Star Wars' at the box office. It's a turning point for original movies in Hollywood.",
-      "summary": "Audiences are seeing movies like \"Obsession\" and \"Backrooms\" instead of \"The Mandalorian and Grogu,\" proving that franchises and IP don't always win.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-02",
-      "link": "https://www.businessinsider.com/backrooms-obsession-box-office-upset-mandalorian-box-office-explained-2026-6"
-    },
-    {
-      "id": "37203df8-2d23-8144-a6d1-cca2fc228dae",
-      "title": "Nvidia's entrance into the PC market gives investors another reason to own the stock",
-      "summary": "The investment case for Nvidia just got broader and stronger.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-02",
-      "link": "https://www.cnbc.com/2026/06/01/nvidias-entrance-into-the-pc-market-gives-investors-another-reason-to-own-the-stock.html"
-    },
-    {
-      "id": "37203df8-2d23-812c-8383-dc32a8aca326",
-      "title": "33 vintage photos show how Americans used to spend their summers",
-      "summary": "Many of the summer traditions we love have been mainstays in American life for over a century. Vintage photos show what they used to look like.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-02",
-      "link": "https://www.businessinsider.com/summer-in-the-us-historic-photos"
-    },
-    {
-      "id": "37203df8-2d23-8134-896c-dab2bea2429b",
-      "title": "SpaceX says it may issue ‘significant’ equity in ‘future transactions’",
-      "summary": "The company added a warning to prospective investors that a major dilution could be in the cards after it goes public.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-02",
-      "link": "https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/"
-    },
-    {
-      "id": "37203df8-2d23-81a5-895b-d8314631c87e",
-      "title": "Jim Cramer says this company's spin-off could unlock significant upside",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-02",
-      "link": "https://www.cnbc.com/2026/06/01/jim-cramer-says-this-companys-spin-off-could-unlock-significant-upside.html"
-    },
-    {
-      "id": "37203df8-2d23-81d2-998b-e0ca651d43d1",
-      "title": "This AI weather startup is out-forecasting government agencies",
-      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collec",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-02",
-      "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/"
-    },
-    {
-      "id": "37203df8-2d23-8124-98c4-f8048027c4f3",
-      "title": "2026 年 5 月汽车销量 / 交付榜出炉：比亚迪销售超 38 万辆位居榜首",
-      "summary": "IT之家 6 月 1 日消息，2026 年 5 月汽车销量 / 交付数据现已陆续公布，其中比亚迪 5 月份销售 383,453 辆位居榜首。上汽集团在 5 月 28 日举行“全球第一亿位用户交付仪式”，宣告中国首家亿级车企诞生。IT之家汇总 2026 年 5 月汽车销量 / 交付榜单如下（包含目前已公布的车企，交付和销量统计口径不一，数据仅作参考；小米汽车仅公布“超 3 万”数据，因此按照 3 万进行排序，不代表真实排名）：车企 / 品牌销量 / 交付量子品牌销量 / 交付量备注比亚迪383453 辆王朝 | 海洋：330215 辆海外销售突破 16 万辆，再创历史新高。新能源汽车累计销售超 ",
-      "source": "IT之家",
-      "publishTime": "2026-06-01",
-      "link": "https://www.ithome.com/0/958/445.htm"
-    },
-    {
-      "id": "37203df8-2d23-8177-a4a0-ec6396fb991b",
-      "title": "智谱：建议 A 股发行并在科创板上市",
-      "summary": "IT之家 6 月 1 日消息，智谱今晚在港交所公告，于 2026 年 6 月 1 日举行的董事会会议上，公司建议向中国相关监管机构申请配发及发行 A 股，并向上海证券交易所申请该等 A 股在科创板上市及准予交易。公告指出，建议 A 股发行数量占建议 A 股发行完成后公司总股本的 2% 至 8% 之间（不含因超额配股权获行使而将予发行的任何 A 股），即不少于 9,098,838 股且不多于 38,768,964 股新 A 股。预计建议 A 股发行全部为新股发行，原股东不公开发售股份。董事会会议亦已通过其他有关建议 A 股发行的附加决议案，并将于年度股东会上提请股东批准。于年度股东会上将提呈一项",
-      "source": "IT之家",
-      "publishTime": "2026-06-01",
-      "link": "https://www.ithome.com/0/958/444.htm"
-    },
-    {
-      "id": "37203df8-2d23-818d-ab36-d9ed8e88faf9",
-      "title": "Sports sponsorships fuel great technology stories, said Deloitte's US CMO, Scott Mager",
-      "summary": "Deloitte's Scott Mager shared his thoughts on evolving CMO roles, AI, sports sponsorships, and tech to enhance branding and client engagement.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-01",
-      "link": "https://www.businessinsider.com/deloite-cmo-ai-olympic-sponsorships-marketing-2026-5"
-    },
-    {
-      "id": "37203df8-2d23-8149-8789-d7ddfbfbcef6",
-      "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
-      "summary": "Get ready for some gaming news. It’s officially June, which means splashy new events from PlayStation, Xbox, and gaming hype man Geoff Keighley. But this season doesn’t just feature the big tentpole shows; there will be a bunch of smaller events, too, and they might feature some promising games as w",
-      "source": "The Verge",
-      "publishTime": "2026-06-01",
-      "link": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026"
-    },
-    {
-      "id": "37203df8-2d23-81be-88fc-f366496e8c78",
-      "title": "AKKO 空影 TAN8 Master 鼠标发布：PAW3955、Nordic54L 主控，299 元",
-      "summary": "IT之家 6 月 1 日消息，AKKO 今日发布了空影 TAN8 Master 鼠标，将于 6 月 8 日 20:00 开售，到手价 299 元。京东 AKKO 空影 TAN8 Master 游戏鼠标 299 元直达链接这款鼠标重 55±3g，有黑、银、粉、蓝四种颜色可选；外壳采用三角与梯形交错开孔布局，搭载碳纤维锻碳纹壳体；采用准分子涂层，官方宣称能在保证舒适度的同时，保持干爽不粘腻，避免汗水导致的手滑。这款鼠标尺寸约为 124.3×63.71×40.49mm，适合中大手型；搭载 PAW3955 传感器、Nordic54L 主控和欧姆龙光微动；电池容量 300mAh。IT之家附这款鼠标详细参",
-      "source": "IT之家",
-      "publishTime": "2026-06-01",
-      "link": "https://www.ithome.com/0/958/442.htm"
-    },
-    {
-      "id": "37203df8-2d23-819a-b170-c8eb1405c12e",
-      "title": "被指助长暴力、将利润置于安全之上，OpenAI 遭美国佛罗里达州总检察长起诉",
-      "summary": "IT之家 6 月 1 日消息，据外媒 NBC 今天报道，美国佛罗里达州总检察长詹姆斯 · 乌特迈尔（James Uthmeier）现已起诉 OpenAI 及其首席执行官萨姆 · 奥尔特曼，指控该公司将利润置于安全之上、助长暴力行为，并在明知可能对用户产生伤害的情况下推广产品。詹姆斯 · 乌特迈尔在诉状中表示：“OpenAI 的崛起建立在欺骗、剥削用户之上（包括佛罗里达州居民），该公司利用用户的个人数据及安全提升自身市场价值，而代价令人无法接受”。IT之家了解到，这名总检察长以民事诉讼起诉 OpenAI，寻求经济处罚和法院禁令。他在诉状中试图追究萨姆 · 奥尔特曼的个人责任，因为他“鲁莽且故意的",
-      "source": "IT之家",
-      "publishTime": "2026-06-01",
-      "link": "https://www.ithome.com/0/958/441.htm"
-    },
-    {
-      "id": "37203df8-2d23-81c0-bf1c-f148b44ae56f",
-      "title": "An affordable, long-lasting AirTag alternative is $15 right now",
-      "summary": "There are many solid Bluetooth trackers for iPhones that tap into Apple’s expansive Find My network. Some are thin, some are a bit chunkier. And, evidently, some look like tiny soccer balls. Ugreen’s FineTrack 2 glows in the dark, and it has a loud 110-decibel alarm when you need to find it. It’s ju",
-      "source": "The Verge",
-      "publishTime": "2026-06-01",
-      "link": "https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale"
-    },
-    {
-      "id": "37203df8-2d23-816e-9140-d0c06953ba1e",
-      "title": "LG 34U601B 1800R 曲面显示器开售：34 英寸 120Hz 21:9 1440P 带鱼屏，1599 元",
-      "summary": "IT之家 6 月 1 日消息，LG 一款型号为“34U601B”的曲面带鱼屏显示器现已开售，售价 1599 元。京东 LG 34U601B 34 英寸带鱼屏显示器 1599 元直达链接这款显示器搭载了一块 34 英寸 WQHD（3440×1440）的带鱼屏，曲率 1800R，刷新率最高 120Hz，支持 HDR10，色域覆盖 99% sRGB。这款显示器搭载了一个 HDMI 2.0 和 DP 1.4 接口，采用外置电源；通过 LG Switch 应用可将屏幕分割为 11 种布局模式，还支持快速启动视频会议软件；提供 3 年保修。IT之家附这款显示器的主要参数如下：京东 618 无门槛红包 面额",
-      "source": "IT之家",
-      "publishTime": "2026-06-01",
-      "link": "https://www.ithome.com/0/958/440.htm"
-    },
-    {
-      "id": "37203df8-2d23-81f8-bd79-eed5da5b10fb",
-      "title": "惠普推出 OmniDesk 迷你主机：英特尔酷睿 Ultra Series 3 处理器，支持雷电共享功能",
-      "summary": "IT之家 6 月 1 日消息，据外媒 Notebookcheck 报道，惠普今天在台北电脑展 2026 期间推出全新 OmniDesk 迷你主机，新品搭载英特尔酷睿 Ultra Series 3 处理器，将于今年 8 月上市。IT之家从原报道获悉，这款迷你主机采用英特尔最新的酷睿 Ultra Series 3 处理器，集成 NPU 神经网络引擎，可驱动 AI 加速、本地 AI 智能体。同时，这款迷你主机拥有 Thunderbolt Share 雷电共享特性，用户可使用一套键鼠控制两台电脑，并在多台电脑之间无缝传输文件、图片及视频等。此外，这款迷你主机最多可连接四台 4K 显示器，配备两个雷电 ",
-      "source": "IT之家",
-      "publishTime": "2026-06-01",
-      "link": "https://www.ithome.com/0/958/439.htm"
-    },
-    {
-      "id": "37203df8-2d23-81d9-bc81-c1c8dbcb49bb",
-      "title": "16 英寸双层 OLED 屏幕，微星发布全球首款 RTX Spark 翻转本 Prestige N16 Flip AI+",
-      "summary": "IT之家 6 月 1 日消息，微星今天在台北电脑展 2026 推出 Prestige N16 Flip AI+ 笔记本，是全球首款搭载 RTX Spark 芯片的二合一翻转本。IT之家在此援引官方新闻稿，Prestige N16 Flip AI+ 将配备 16 英寸 UHD+ 双层 OLED 面板，最高亮度超过 1000nits，覆盖 100% DCI-P3 色域，满足专业创作需求。具备可变刷新率 VRR、Calman 认证，ΔE＜1，为创意人士提供高精准颜色还原能力。外观方面，这款笔记本采用二合一翻转设计，可在笔记本模式、平板模式、帐篷模式和演示模式间自由切换，支持 Nano Pen 轻量化",
-      "source": "IT之家",
-      "publishTime": "2026-06-01",
-      "link": "https://www.ithome.com/0/958/438.htm"
-    },
-    {
-      "id": "37203df8-2d23-81f6-8ffd-dea4b7a3f1e2",
-      "title": "微信鸿蒙版 App 8.0.18.34 尝鲜版本更多资格放出，折叠屏 / 平板端分栏效果显示优化",
-      "summary": "IT之家 6 月 1 日消息，微信鸿蒙版 App 今日在华为应用市场（App Gallery）放出了 8.0.18.34（8393250）版本尝鲜升级更多资格（非短信邀测，直接上线尝鲜专区，但如果未抢到尝鲜版本，须等待官方“补货”）测试时间为 2026/6/1-2026/6/29。微信官方测试说明依旧为“修复了一些已知问题”，详细更新内容可参考前文（点此前往）。IT之家注意到，此次更新后，微信优化了分栏功能在折叠屏 / 平板端的显示效果，比例更加协调，同时左右模块比例可调范围也更加自由（范围有所增加）。前后版本效果对比如下：▲ IT之家实测截图：微信鸿蒙版 App 分栏显示（8.0.18.33",
-      "source": "IT之家",
-      "publishTime": "2026-06-01",
-      "link": "https://www.ithome.com/0/958/437.htm"
-    },
-    {
-      "id": "37203df8-2d23-81bd-9099-dcdd00558408",
-      "title": "Your guide to June’s biggest gaming events",
-      "summary": "It's early June, which means it's video game event season once again. Now that E3 has been gone for a few years, a bunch of showcases and presentations have started to fill the void, including big productions like Summer Game Fest Live and smaller affairs like Wholesome Games Direct. If you love fol",
-      "source": "The Verge",
-      "publishTime": "2026-06-01",
-      "link": "https://www.theverge.com/games/939238/video-game-gaming-events-summer-game-fest-schedule-2026"
-    },
-    {
-      "id": "37203df8-2d23-81df-a475-fc9a914a96cb",
-      "title": "The next big career move for young Hollywood? Reading audio smut",
-      "summary": "Though Gen Z has developed a reputation for being so disinterested in sex that they don't even want to see it on TV, the popularity of series like Heated Rivalry and The Summer I Turned Pretty has made it very clear that more than a few young people do, in fact, like their entertainment a […]",
-      "source": "The Verge",
-      "publishTime": "2026-06-01",
-      "link": "https://www.theverge.com/entertainment/940869/quinn-erotica-rent-free-ember-and-ice-heated-rivalry-off-campus"
     }
   ],
   "macroEvents": [
