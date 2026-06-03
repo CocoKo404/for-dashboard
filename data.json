@@ -1,6 +1,270 @@
 {
-  "updatedAt": "2026-06-03 10:07",
+  "updatedAt": "2026-06-03 15:21",
   "news": [
+    {
+      "id": "37403df8-2d23-81ec-859a-d948219451c5",
+      "title": "Valve 联合创始人纽维尔投资约 7 亿欧元打造最强深海科考船，设计任务深度可达 11000 米",
+      "summary": "IT之家 6 月 3 日消息，媒体 luxurylaunches 于 5 月 30 日发布博文，报道称 Valve 联合创始人加布 · 纽维尔（Gabe Newell）通过海洋研究组织 Inkfish，投资打造 RV11000 深海科考船，合同价值约为 7 亿欧元（IT之家注：现汇率约合 55.16 亿元人民币）。图源：InkfishIT之家援引博文介绍，RV11000 深海科考船将由挪威造船厂 VARD 设计和建造，也是该造船厂历史上最大的单艘船舶订单，也刷新挪威船厂同类订单纪录。根据设计规划，RV11000 将于 2030 年第 1 季度交付，船长 162 米，宽 28 米，比 Inkfi",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/111.htm"
+    },
+    {
+      "id": "37403df8-2d23-8176-9fe4-ebbaa1e4db43",
+      "title": "龙芯处理器上天：首次用于长征系列运载火箭核心控制系统，长十二乙首飞新突破",
+      "summary": "IT之家 6 月 3 日消息，我国长征十二号乙运载火箭于 6 月 1 日 16 时 40 分在东风商业航天创新试验区点火升空，随后将千帆星座第十批组网卫星送入预定轨道，首飞任务取得圆满成功。我国大规模互联网星座组网任务再添一型大运力商业火箭。龙芯中科今日透露，本箭核心控制系统搭载龙芯高可靠处理器。作为运载火箭的“中枢大脑”，龙芯高可靠处理器在复杂飞行工况下稳定输出算力。这也是龙芯处理器首次应用在长征系列运载火箭核心控制系统。运载火箭核心控制系统贯穿火箭起飞、爬升、轨道修正、精准入轨的全飞行周期，是保障任务全程精准可控的核心枢纽。火箭在轨高速飞行过程中，需持续面临高空温差剧变、复杂气流扰动、强电",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/110.htm"
+    },
+    {
+      "id": "37403df8-2d23-818b-8cd7-d7d56417964d",
+      "title": "高盛 CEO 所罗门谈人工智能：当前市场贪婪多于恐慌",
+      "summary": "IT之家 6 月 3 日消息，高盛首席执行官戴维 · 所罗门表示，只要市场信心维持在高位，人工智能热潮就会持续升温。所罗门在纽约经济俱乐部当地时间周二举办的访谈活动中称：“倘若全球市场乐观情绪延续，整个金融体系将保有充裕的流动性。”CNBC 记者莱斯利 · 皮克向他提问，如何看待大批巨型人工智能项目扎堆登陆股权市场募资的现状。所罗门补充道：“当下市场显然贪婪情绪盖过了恐慌情绪。”受益于市场波动与人工智能淘金热潮，高盛去年斩获 170 亿美元（IT之家注：现汇率约合 1152.36 亿元人民币）利润，今年有望再度迎来业绩大年。投行 IPO 业务团队拿下埃隆 · 马斯克旗下 SpaceX 上市保荐",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/108.htm"
+    },
+    {
+      "id": "37403df8-2d23-812a-b77f-ff715c220863",
+      "title": "荣耀 600 元气版手机首销：第四代骁龙 7 移动平台、50MP 主摄，2699 元起",
+      "summary": "IT之家 6 月 3 日消息，荣耀宣布旗下荣耀 600 元气版手机今天正式开启首销，定价为 2699 元，国补价 2294.15 元起，IT之家整理价格如下：8GB RAM+256GB 存储空间版：2699 元，国补价 2294.15 元12GB RAM +256GB 存储空间版：2999 元，国补价 2549.15 元12GB RAM +512GB 存储空间版：3399 元，国补价 2899 元京东荣耀 600 元气版 2699 元起直达链接据介绍，荣耀 600 元气版手机可选三种配色，整体采用一体冷雕工艺、精研雾面金属中框、圆润 R 角过渡设计，机身厚度 7.8mm，重量 190g。该机正",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/107.htm"
+    },
+    {
+      "id": "37403df8-2d23-8185-953f-dabf6b5d6c02",
+      "title": "微软网页版 VS Code 曝安全漏洞：点击链接就能窃取私有仓库 Tokens",
+      "summary": "IT之家 6 月 3 日消息，安全研究员 Ammar Askar 昨日（6 月 2 日）发布推文，公开了一个概念验证（PoC）漏洞，指出 GitHub 浏览器版 VS Code 存在安全漏洞，用户点击链接后，GitHub OAuth tokens 可能被黑客掌握。IT之家援引博文介绍，该漏洞受存在于 GitHub 浏览器版 VS Code（github.dev）的 Webview 机制中。Webview 本应用沙箱隔离 Jupyter Notebook、Markdown 预览等内容，但为了让快捷键在其中继续生效，VS Code 会把按键事件转发到主编辑器窗口。Askar 发现，页面内 Java",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/106.htm"
+    },
+    {
+      "id": "37403df8-2d23-81d9-bbb2-fa61d13b1c1b",
+      "title": "零跑全新 C 系列 SUV 新增“云栖金”外观与“砂岩棕”内饰配色",
+      "summary": "IT之家 6 月 3 日消息，零跑汽车今日官宣，零跑全新 C 系列 SUV 新增“云栖金”外观与“砂岩棕”内饰配色。需要注意的是，零跑 C 系列车型的部分外观颜色是需要加价 2000 元选配的，目前尚不清楚这款“云栖金”配色是否需要加价。零跑汽车表示，零跑 C 系列携全新色彩即将焕新上市。IT之家附具体设计细节如下：▲ 全新 C10▲ 全新 C11▲ 全新 C16",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/105.htm"
+    },
+    {
+      "id": "37403df8-2d23-8123-b863-eb8b71b834de",
+      "title": "AMD 锐龙 7 5800X3D 十周年纪念版采用与原版不同的台积电 SoIC 键合工艺",
+      "summary": "IT之家 6 月 3 日消息，AMD 企业副总裁、客户端渠道业务总经理 David McAfee 在 COMPUTEX 上接受了外媒 Tom's Hardware 的采访，他表示新推出的锐龙 7 5800X3D 十周年纪念版在芯片级别与原始版本并非完全相同。锐龙 7 5800X3D 作为 AMD 首款配备额外 L3 缓存的消费级处理器，其在 CCD 和 3D V-Cache 裸片中应用了台积电较早期版本的 TSMC-SoIC 键合工艺。但当 AMD 想要复产该处理器时，原版使用的早期 TSMC-SoIC 工艺已然停产。新一代的 TSMC-SoIC 工艺完全改变了裸晶之间的键合和堆叠方式，AMD",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/103.htm"
+    },
+    {
+      "id": "37403df8-2d23-8140-bcb2-d9f913d37e74",
+      "title": "小米米家电动直柄螺丝刀开启众筹：三档扭力可调，2000mAh 大电池，首发价 99 元",
+      "summary": "IT之家 6 月 3 日消息，小米旗下米家电动直柄螺丝刀现已在有品开启众筹（点此访问），标准价 159 元，首发价 99 元。这款产品支持三档扭力调节，电动模式下最大扭矩可达 4N·m，手动模式下最大扭矩 8N·m；它配备了 2000mAh 大容量电池，满电状态下可拧约 600 颗螺丝。其他方面，这款螺丝刀采用批头卡座磁吸（批头套组共计 9 个长批头、9 个短批头），支持一体收纳，可随时充磁，自带环形 LED 灯，支持一键切换正反转、通用 USB-C 充电。",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/104.htm"
+    },
+    {
+      "id": "37403df8-2d23-814a-a79a-d2bf510c5a58",
+      "title": "腾讯人士：目前无法确定微信 AI 智能体何时推出",
+      "summary": "IT之家 6 月 3 日消息，据财经杂志报道，腾讯人士表示，目前无法确定微信 AI 智能体何时推出，其上线时间很大程度上取决于监管方对智能体的审批进度，微信 14 亿的用户体量，合规流程可能比其他产品更加严格。关于微信智能体，腾讯相关负责人表示暂无回应。IT之家注意到，此前英国《金融时报》报道称，微信将推出一款 AI（人工智能）智能体，计划最快将于本月启动公开上线前所需的合规审批流程。微信 AI 智能体是目前腾讯内部“最高优先级的绝密项目”，至少从 2025 年上半年开始筹办。腾讯人士确认了这一消息。据腾讯云官号账号信息，腾讯 2026AI 产业应用大会将在北京举办。据介绍，此次大会将发布系列",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/102.htm"
+    },
+    {
+      "id": "37403df8-2d23-8104-b8bc-ceb177227fd8",
+      "title": "VGN 飞龙 Y2 V2 大师版 GT 鼠标发售：Nordic 54L15 芯片 + PAW3955 Extreme 传感器，339 元",
+      "summary": "IT之家 6 月 3 日消息，VGN 旗下飞龙 Y2 V2 大师版 GT 鼠标现已在京东发售，该鼠标采用 Nordic 54L15 芯片 + PAW3955 Extreme 传感器，提供 8KHz 回报率，定价为 339 元。京东 VGN 飞龙 Y2 V2 大师版 GT 鼠标 339 元直达链接该鼠标可选白 / 粉两种配色，整体重量 47 克，使用右手人体工程学设计，鼠标表面带有全新纳米亲肤涂层，底部带有赛事脚贴。该鼠标搭载 Nordic 54L15 芯片和 PAW3955 Extreme 传感器，提供至高 50000DPI、8KHz 回报率，同时鼠标内置 500mAh 电池，支持 V-Cha",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/101.htm"
+    },
+    {
+      "id": "37403df8-2d23-8198-869a-e9cf8e1f8f86",
+      "title": "小米烟感卫士 2 开售：双发射光源传感器防误报、一颗电池用 5 年，售 149 元",
+      "summary": "IT之家 6 月 3 日消息，小米烟感卫士 2 今日开售，售价 149 元。作为小米烟感卫士系列的第二代产品，新品在传感器技术、智能互联和用户体验方面进行了升级。小米烟感卫士 2 最显著的改进在于搭载了双发射光源传感器，内置红光与蓝光双光源协同工作，可识别真实火情，过滤环境干扰，有效降低误报率。据官方介绍，该传感器能够有效识别阴燃火和明火等不同燃烧状态，减少误报的同时确保真正的火灾隐患不被遗漏。配合 3 档灵敏度调节功能，用户可根据实际使用环境（如厨房、卧室、客厅等不同场景）自定义探测阈值，实现更精准的个性化防护。此外，产品还引入了温湿度多维监测功能。除了传统的烟雾浓度检测外，设备能够同步感知",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/099.htm"
+    },
+    {
+      "id": "37403df8-2d23-8110-b068-ea76335f5807",
+      "title": "谷歌盯上真实代码库，付费购买访问安卓 App 源码增强 AI 编程能力",
+      "summary": "IT之家 6 月 3 日消息，科技媒体 404 Media 昨日（6 月 2 日）发布博文，报道称谷歌已联系安卓应用开发者，希望付费获取私有代码库访问权，用于改进 Gemini、Antigravity 2.0 等开发者工具。邮件强调，开发者仍保留 100% 知识产权，授权方式为非独占授权，因此项目归属不变，也可继续在其他平台变现。原文未披露具体付款金额、参与门槛和数据处理细则。IT之家援引博文介绍，邮件称，谷歌正寻找“高质量、真实世界代码库”，覆盖正在运行的应用和已归档项目。对开发者来说，这意味着不必把应用或核心资产转让给谷歌，可以通过出售代码访问权额外获取收益。Google 在邮件中解释，真",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/098.htm"
+    },
+    {
+      "id": "37403df8-2d23-81e5-a02e-d939a9deae9f",
+      "title": "AMD 发布 26.6.1 显卡驱动：支持新游戏，修复风扇停转机制问题",
+      "summary": "IT之家 6 月 3 日消息，AMD 当地时间本月 2 日发布了 AMD Software: Adrenalin Edition 26.6.1。这一版本的显卡驱动提供了对免费坦克射击游戏《坦克世界：HEAT》和《EA SPORTS F1 25》2026 赛季组合包的支持。IT之家注意到，26.6.1 驱动程序还修复了 3 项问题：在使用 Radeon RX 9000 系列显卡运行《Subnautica 2：异星水域》和《漫威争锋》(Marvel Rivals) 时，可能会出现应用程序间歇性崩溃的情况；在使用 Radeon RX 6000 系列显卡运行《雾锁王国》(Enshrouded) 时，可",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/097.htm"
+    },
+    {
+      "id": "37403df8-2d23-8170-90ce-c742a01216cb",
+      "title": "欧盟数字主权口号遭遇现实问题：欧洲数字身份钱包据称依赖苹果 / 谷歌账号",
+      "summary": "IT之家 6 月 3 日消息，科技媒体 BornCity 昨日（6 月 2 日）发布博文，指出欧洲正在大力推行的欧洲数字身份钱包（EUDI-Wallet）存在争议，欧盟一边强调数字主权和开源，另一边关键身份工具仍离不开美国大型科技平台。IT之家注：欧洲数字身份钱包是一个在手机上运行的应用程序，基于欧盟 eIDAS 2.0 法规，目的是创建一个覆盖整个欧洲的统一数字生态系统。该钱包的核心功能是用于线上和线下身份认证，并保存移动驾照、医疗记录、专业证书、教育证书等数字文件。欧盟委员会称，EUDI-Wallet 要为欧洲用户提供统一、可信、安全的数字身份工具。每个欧盟成员国至少要提供一款 Walle",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/095.htm"
+    },
+    {
+      "id": "37403df8-2d23-81fc-a9ea-e4cd4fe2ab8a",
+      "title": "华米海外推出 Amazfit Balance 3 智能手表：不锈钢机身、3000 尼特 AMOLED 面板，369.99 美元",
+      "summary": "IT之家 6 月 3 日消息，华米现已在海外推出 Amazfit Balance 3 智能手表，定位中高端，价格为 369.99 美元（IT之家注：现汇率约合 2508 元人民币）。该机采用不锈钢表身，整体厚度（含传感器）约为 14.6mm，表径达到 51.4mm，支持 10ATM 防水。正面配备一块 1.5 英寸 AMOLED 面板（峰值亮度 3000 尼特），同时标配蓝宝石玻璃表镜。健康监测方面，Balance 3 支持全天候心率、血氧、皮肤温度以及压力监测，同时还能检测异常高低心率、低血氧以及高压力状态。此外还提供睡眠监测、女性生理周期追踪等功能，手表支持超过 180 种运动模式，并内置",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/094.htm"
+    },
+    {
+      "id": "37403df8-2d23-8151-8ebe-df494a911d0b",
+      "title": "天马展出 27 英寸 2560×1440 610Hz 电竞显示器面板",
+      "summary": "IT之家 6 月 3 日消息，天马微电子 (TIANMA) 在 COMPUTEX 2026 现场展出了多款显示新品，包括兼顾超高刷新率与主流分辨率的“无极电竞屏”。这款 27\" QHD (2560×1440) 610Hz 面板采用天马自研 Oxide TFT 背板技术，通过优化像素驱动架构与光学膜层大幅降低了画面拖影，还可实现高色彩准确度。天马也带来了 2 款高性能商务笔记本电脑显示产品，分别是支持主动式触控笔的 14\" 2880×1800 120Hz 内嵌式触控显示屏和 16\" 1~120Hz 宽频变频显示屏。而针对民用航海、工业控制等严苛场景，天马则展出了 17.3\" FHD 宽温高亮显示",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/093.htm"
+    },
+    {
+      "id": "37403df8-2d23-8107-a41f-dbf249421d05",
+      "title": "赠 30 元 UP 充电券：B站大会员 94 元年内再探新底",
+      "summary": "B站大会员年卡原价 233 元，618 大促期间，直降至 118 元，首次购买用户叠加 8 元首购礼金；点击下方卡片 → 下滑到宝贝详情页先领 10 元券再点击下方淘金币大额抵扣横幅，淘金币可抵 5.46 元；实付 94.54 元即可入手，宝贝页面显示原价，下单页面显示优惠价哦：天猫哔哩哔哩大会员年卡赠 30 元 UP 主充电券 94.54 元直达链接* 活动随时结束，以到手价为准。如果不喜欢此款，还有以下商品也在大促中：京东哔哩哔哩大会员 12 个月年卡 + 京东 PLUS 会员年卡 148 元直达链接天猫哔哩哔哩大会员年卡 +WPS 超级会员年卡 156.42 元直达链接本次赠送的 30 ",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/092.htm"
+    },
+    {
+      "id": "37403df8-2d23-81fb-815f-dbc52ea42458",
+      "title": "全新领克 07 EM-P、08 EM-P、10 EM-P 上新，13.98 万元起",
+      "summary": "IT之家 6 月 3 日消息，领克汽车今日宣布领克 EM-P 家族三款版型上新，IT之家附具体信息：全新领克 07 EM-P200 超长续航 Ultra 碳纤维尾翼版，6 月限时专享价 16.98 万元起126 长续航 Ultra 碳纤维尾翼版，6 月限时专享价 15.98 万元126 长续航 Ultra 版，6 月限时专享价 14.98 万元126 长续航 Max 版，6 月限时专享价 13.98 万元全新领克 08 EM-P新增 230 超长续航 Max 版，限时价 16.98 万元起。这是全新领克 08 EM-P 的次低配版本，相当于减弱部分配置换取更长的纯电续航。领克 10 EM-P新",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/091.htm"
+    },
+    {
+      "id": "37403df8-2d23-81d2-842f-ccaf651e50e5",
+      "title": "CBS News fires '60 Minutes' correspondent Scott Pelley after he dramatically called out Bari Weiss",
+      "summary": "CBS News correspondent Scott Pelley is out at \"60 Minutes\" after over 30 years. He recently took aim at Bari Weiss and new top producer Nick Bilton.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-03",
+      "link": "https://www.businessinsider.com/scott-pelley-fired-60-minutes-bari-weiss-nick-bilton-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-812a-91ca-dbf045071446",
+      "title": "因 Grok 排名起诉苹果，马斯克被要求提交特斯拉、SpaceX 相关邮件作为证据",
+      "summary": "IT之家 6 月 3 日消息，美国地区法官马克・皮特曼驳回了 xAI 试图在针对苹果与 OpenAI 的诉讼中，将埃隆・马斯克名下特斯拉、SpaceX 相关邮件排除在证据开示范围之外的申请。上个月，苹果、OpenAI、X 以及 xAI 的法律团队在美国地方法官小哈尔 ·R· 雷主持下举行了听证会，旨在解决埃隆 · 马斯克起诉苹果和 OpenAI 一案中有关证据开示程序的多项争议。据IT之家了解，该诉讼源于马斯克不满人工智能产品 Grok 在苹果 App Store 的榜单排名。马斯克主张，之所以出现这种情况，是苹果与 OpenAI 达成了反竞争串通行为：双方达成合作，由 ChatGPT 为部分",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/089.htm"
+    },
+    {
+      "id": "37403df8-2d23-817f-90c7-ce23017f0314",
+      "title": "【IT之家开箱】华为 nova 16 Pro 手机美图：四款配色齐聚，夏日美学大赏",
+      "summary": "6 月 1 日，华为举办了全场景新品发布会，推出了全新 nova 16 系列手机新品，新机由时代少年团代言，主打“夏日美学”，拥有昆仑玻璃、红枫原色镜头等配置，售价 2999 元起，6 月 5 日 10:08 正式开售。目前，IT之家已经拿到了该系列四款配色的华为 nova 16 Pro 手机，现在就为大家送上开箱图赏。华为 nova 16 Pro 采用潮流美学设计，手机背面的设计很有辨识度，四枚摄像头以及闪光灯、传感器被归纳在两个圆形的 Deco 模组中，横向立体堆叠，在上一代“耀目双星”设计基础上进行了升级，看起来如同两个“大眼睛”，既有个性又形成视觉平衡。摄像头模组下面只有“HUAWEI",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/088.htm"
+    },
+    {
+      "id": "37403df8-2d23-81c8-8273-eaaa89d4fdb8",
+      "title": "微软定调 Win11：打造成 AI 应用和智能体开发平台",
+      "summary": "IT之家 6 月 3 日消息，科技媒体 Windows Latest 今天（6 月 3 日）发布博文，报道称在 2026 年 Build 开发者大会上，微软明确 Windows 11 系统定位：不再只是带 AI 功能的桌面系统，而是要成为 AI 应用和智能体的开发平台。微软新方向涵盖智能体 Runtime、本地模型、Windows 原生 AI 接口、Linux 容器、企业治理、安全隔离、GitHub Copilot、NVIDIA RTX Spark 与 Azure 集成，目标是把开发、部署、监控和安全管理纳入同一套工作流。在工具集成方面，微软指出开发者目前同时使用 GitHub Copilot",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/087.htm"
+    },
+    {
+      "id": "37403df8-2d23-81bc-926a-cb6d0d83e381",
+      "title": "Marvell 发布 102.4 Tbps 交换芯片 Teralynx T100，宣称节能 25%",
+      "summary": "IT之家 6 月 3 日消息，Marvell（美满）当地时间本月 1 日推出 Teralynx T100 网络交换芯片，宣称其是“业界首款专为 AI 时代设计的 102.4 Tbps switch”。该产品将于本季度出样。Teralynx T100 基于 3nm 先进制程和单片式结构，支持至多 512 个端口，兼容 ESUN、UEC 等新兴互联协议，可配置为 BGA、CPC、CPO 封装。其典型功耗＜1000W，Marvell 称其比竞品节能 25%。Marvell 表示 Teralynx T100 为 AI 负载从头设计，消除了竞品中增加功率和死区的多余遗留元素，通过减少 AI 网络层和光连",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/086.htm"
+    },
+    {
+      "id": "37403df8-2d23-815b-a057-e86ce352cf9d",
+      "title": "Anthropic 扩展最强“AI 抓虫”Claude Mythos 模型，三星等获准使用",
+      "summary": "IT之家 6 月 3 日消息，Anthropic 昨日（6 月 2 日）发布公告，宣布扩展 Project Glasswing 安全计划，向全球 15 个国家和地区、约 200 家组织开放 Claude Mythos 模型。IT之家注：Glasswing 是 Anthropic 推出的安全计划，让科技公司使用其前沿 AI 模型 Claude Mythos Preview，来查找操作系统和网页浏览器中的安全漏洞。该项目应用场景是企业级安全研究，核心是提供 AI 分析工具，辅助人类研究员更高效地审计代码与挖掘漏洞。Claude Mythos Preview 于今年 4 月亮相，初期仅面向苹果等少数",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/084.htm"
+    },
+    {
+      "id": "37403df8-2d23-81a2-a095-dd7f438afde4",
+      "title": "《潜水员戴夫》衍生作品：烹饪模拟冒险游戏《料理人班乔》公布",
+      "summary": "IT之家 6 月 3 日消息，在今早的索尼 State of Play 活动中，《潜水员戴夫》开发团队带来了一款 IP 衍生作品 —— 烹饪模拟冒险游戏《料理人班乔》。根据制作人黄载皓的介绍，这是在《潜水员戴夫》之后，关于班乔的一些故事，讲他是怎么学艺成为一个厉害的料理人的。IT之家注意到，这是一个前传故事，讲述年轻的班乔在亚洲旅行，向大师们学习，踏上通往伟大厨师之路的故事。关于本作的更多信息将于后续公布，确认登陆 Steam 和 PS5 平台（由于是索尼发布会，其余平台暂未提及，但不代表不会有）。预告片中展示了一些游戏玩法，包括料理、洗盘子、钓鱼等。",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/085.htm"
+    },
+    {
+      "id": "37403df8-2d23-814f-a27b-ebc46e423047",
+      "title": "Sensor Tower：OpenAI 旗下 ChatGPT 月活已破 10 亿，史上最快",
+      "summary": "IT之家 6 月 3 日消息，市场情报机构 Sensor Tower 估计，OpenAI 旗下 ChatGPT 的全球每月活跃用户已突破 10 亿，成为最快达到这个里程碑的应用程序。Sensor Tower 表示，ChatGPT 在推出约三年后，于 5 月达到 10 亿每月活跃用户人数，超过 Google Maps、TikTok、Instagram 及 YouTube 此前的增速纪录。尽管 OpenAI 与竞品人工智能研发企业 Anthropic 之间的行业竞争日趋白热化，但这一成绩印证了 ChatGPT 在高速扩张的人工智能领域影响力持续攀升。达成用户里程碑之际，OpenAI 与 Anthr",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/083.htm"
+    },
+    {
+      "id": "37403df8-2d23-8135-b746-c81d05905c57",
+      "title": "华硕 NUC 16 for Windows 365 云迷你主机真身确认，实为低配 NUC 16",
+      "summary": "IT之家 6 月 3 日消息，华硕今年 2 月末联合 Microsoft（微软）推出了其首款专为 Windows 365 云端体验打造的 ASUS NUC 机型 —— ASUS NUC 16 for Windows 365。而根据IT之家的确认，ASUS NUC 16 for Windows 365 这款瘦客户端硬件的项目代号与常规版本的 ASUS NUC 16 相同，都是 \"NUC16WCK\"。两者各项规格也完全一致，云版本仅是将处理器限制在了最低配的酷睿 3 304，且不可选第二 2.5GbE RJ45。这意味着 ASUS NUC 16 for Windows 365 原则上也可运行标准 ",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/082.htm"
+    },
+    {
+      "id": "37403df8-2d23-81b2-a6eb-f59b5005297c",
+      "title": "爱好者逆向经典游戏《辐射 2》源代码，将其搬上初代微软 Xbox 主机",
+      "summary": "IT之家 6 月 3 日消息，《辐射》系列自 2008 年 B 社接手后变身为一款现代 RPG，也因此登陆了游戏主机平台，不过黑岛时代的《辐射 2》等作只能通过 PC 平台游玩，从未推出过官方主机版。而根据外媒 Windows Central 报道，一位爱好者 @dtoxmilenko 正在逆向《辐射 2》源代码，将本作以“自制游戏”形式移植到初代 Xbox 主机上。据介绍，这名爱好者使用了 Xbox 破解社区传奇开发者 Xport 在 20 多年前制作的模拟器框架，在保留原版玩法基础上整合了大量引擎修复与体验优化内容。目前该移植版已经可以运行游戏开场动画、主菜单、脚本系统、画面渲染以及基础战",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/080.htm"
+    },
+    {
+      "id": "37403df8-2d23-814c-9deb-f848b1da96ae",
+      "title": "猪的多个器官在人体内同时发挥功能，我国实现人类首次“原位全肝 + 双肾”联合异种移植",
+      "summary": "IT之家 6 月 3 日消息，器官短缺是全球移植领域面临的根本性难题。基因编辑猪单个器官异种移植成为解决难题的最具突破性技术，也是 2025 年 Science 发布的全球十大进展之一。但器官生理功能替代的边界和多个异种器官移植排斥反应异同依然是临床转化的难题。近日，一项由广西医科大学第二附属医院孙煦勇教授团队的里程碑式研究探索了异种多器官联合移植，人类首次成功实现原位“全肝 + 双肾”基因编辑猪到人的异种移植案例。2026 年 5 月 29 日该研究成果于医学顶刊《MED》（Cell Press）发表，同时获得国际顶级学术期刊《Nature》专题新闻报道（标题：\"First pig live",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/079.htm"
+    },
+    {
+      "id": "37403df8-2d23-8160-802a-ec97d77cebd6",
+      "title": "因门铃自动采集路人肖像涉嫌侵权，亚马逊 Ring 遭集体诉讼",
+      "summary": "IT之家 6 月 3 日消息，亚马逊于当地时间周一遭到起诉，缘由是旗下门铃摄像头品牌 Ring 被指存在侵犯隐私行为。这份集体诉讼由弗吉尼亚州居民查尔斯 · 西格沃尔特在西雅图提起，诉状指控，Ring 门铃的“熟人面孔”功能会在未经路人许可的情况下存储路人影像。Ring 公司在去年 9 月推出了“熟人面孔”功能，随即遭到电子前沿基金会（EFF）等消费者保护机构以及马萨诸塞州民主党联邦参议员埃德 · 马基的反对，但该公司仍按原计划在 12 月上线了这项功能。依托人工智能人脸识别技术，“熟人面孔”功能可以帮助 Ring 门铃用户识别频繁到访住宅的人员。如此一来，若是家人、邮递员、邻居等常客到访门前",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/078.htm"
+    },
+    {
+      "id": "37403df8-2d23-81ca-a4b3-e6071544a201",
+      "title": "苹果专利自研相机液冷方案，有望根治 iPhone 相机发烫难题",
+      "summary": "IT之家 6 月 3 日消息，科技媒体 PatentlyApple 昨日（6 月 2 日）发布博文，报道称苹果获批一项相机模块散热专利，用介电液体吸收图像传感器、执行器和相关电子元件产生的废热。IT之家援引博文介绍，现代 iPhone 摄像头包含高帧率视频、计算摄影、ProRes（专业视频编码）、空间视频、夜景和快速自动对焦等功能，因此传感器、处理电路和执行器都会带来热负载。该专利聚焦小型相机模块内部散热，包含外壳、镜头元件、可移动基板、图像传感器和柔性密封件。柔性密封件把内部空间分成 2 个密封腔，1 个沿镜头与传感器之间的光路布置，另 1 个位于光路之外，可容纳介电液体（指不易导电、可用于",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/076.htm"
+    },
+    {
+      "id": "37403df8-2d23-81f6-a149-dba58ee9fea4",
+      "title": "京东红包今日 10:00 再加码，猜拳至高赢 5 元",
+      "summary": "今日 10 点京东猜拳有机会赢至高 5 元加码红包，建议先领完日常 3 次机会再来参与：点此抽取。猜拳红包玩法：活动会在不同的时间节点，开启“猜拳抢红包”玩法，请随时关注活动提示。活动期间用户可参与猜拳玩法，每人最多 3 次机会，单次机会用户选择石头、剪刀、布任意一个，任意获胜 1 局（石头赢剪刀，剪刀赢布，布赢石头）即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。奖励限量，发完即止，建议用户在活动节点整点，准时参与活动。蚊子肉也是肉，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/077.htm"
+    },
+    {
+      "id": "37403df8-2d23-81f8-982f-ca04584bf137",
+      "title": "派早报：Apple 公布 2026 年 Apple 设计大奖得主等",
+      "summary": "微软 Build 2026 与索尼 6 月 State of Play 资讯汇总等。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-06-03",
+      "link": "https://sspai.com/post/110658"
+    },
     {
       "id": "37303df8-2d23-8100-8324-ee7893b4567d",
       "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
@@ -136,270 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-06-03",
       "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/"
-    },
-    {
-      "id": "37303df8-2d23-8164-aa84-d2decb1e85fd",
-      "title": "科乐美新作《寂静岭：Townfall》定档 9 月 24 日发售，登索尼 PS5/PC 平台",
-      "summary": "IT之家 6 月 3 日消息，在最新一场 PlayStation State of Play 发布会中，科乐美正式公开了《Silent Hill：Townfall（寂静岭：Townfall）》的全新预告片，并宣布本作将于 9 月 24 日登陆 PlayStation 5 与 PC 平台。 作为《寂静岭》系列 IP 重启以来又一款高规格商业新作，《寂静岭：Townfall》采用第一人称视角，故事舞台也并非系列标志性的“寂静岭小镇”，这次玩家将来到苏格兰一座阴森、浓雾弥漫的海岛，在其中探索与主角存在神秘联系的超自然事件。而在游戏性方面，本作更偏向潜行生存恐怖玩法。玩家需要利用瓶子等道具制造声响、吸",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/029.htm"
-    },
-    {
-      "id": "37303df8-2d23-81cf-98f4-ca39d9ec5ef1",
-      "title": "OpenAI 扩展 Codex 使用场景，新增创意制作、销售等 6 款岗位插件",
-      "summary": "IT之家 6 月 3 日消息，OpenAI 今天（6 月 3 日）发布公告，宣布进一步拓展 Codex 的使用场景，新增 6 个岗位插件，覆盖 62 个应用和 110 项技能。IT之家注：Codex 是 OpenAI 推出的 AI 智能体助手，最初服务软件开发，目前已蓬勃发展，周活跃用户数量超过 500 万人。官方表示非开发者占整体用户约 20％，包括分析师、营销人员、运营、设计师、研究员、投资人和银行从业者，其增长速度比开发者快 3 倍以上。OpenAI 本次更新主要推出以下 6 种角色专属插件，覆盖数据分析、创意制作、销售、产品设计、公开股票投资和投资银行。每款插件都打包相关应用、技能、指",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/028.htm"
-    },
-    {
-      "id": "37303df8-2d23-81a0-abb4-d28394c3f7fd",
-      "title": "索尼 PS5 第一方新作《战神：劳菲》正式公布，依旧由圣莫尼卡游戏工作室操刀",
-      "summary": "IT之家 6 月 3 日消息，在最新一场 PlayStation State of Play 发布会压轴环节中，索尼正式公布了《God of War Laufey（战神：劳菲）》。本作依旧由 Santa Monica Studio（圣莫尼卡工作室）开发，将登陆 PlayStation 5 平台，不过官方暂时还没有公布发售日期。和此前系列作品不同，这次玩家不再扮演“战神老父亲”奎托斯，而是将以芙蕾雅／劳菲（Faye / Laufey）作为主角展开冒险。 从公开的演示来看，新作整体基调虽然依旧保留了《战神》系列偏史诗化、神话风格的氛围，但战斗系统出现了明显变化。相比奎托斯以力量感和重型近战为核心的",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/027.htm"
-    },
-    {
-      "id": "37303df8-2d23-8186-9ece-db290bcae917",
-      "title": "Jim Cramer says look to buy these 5 stocks outside the AI trade for diversification",
-      "summary": "CNBC's Jim Cramer said investors should consider adding exposure to out-of-favor sectors if investors begin rotating away from high-flying technology stocks.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.cnbc.com/2026/06/02/jim-cramer-these-stocks-outside-ai-for-diversification.html"
-    },
-    {
-      "id": "37303df8-2d23-819d-984f-ccb5954999a0",
-      "title": "God of War Laufey is coming to the PS5",
-      "summary": "Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica Studio. Currently, the game doesn't have a date, but it's coming to the PS5 whenever it does launch. This time, […]",
-      "source": "The Verge",
-      "publishTime": "2026-06-03",
-      "link": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer"
-    },
-    {
-      "id": "37303df8-2d23-81dd-8cde-f373f82f1f09",
-      "title": "Remedy’s Control sequel launches in September",
-      "summary": "Control Resonant, the upcoming sequel to Remedy Entertainment's Control, will be released on September 24th, 2026, according to a trailer that premiered during Tuesday's PlayStation State of Play show. The trailer also gave a preview of the game's story, which stars Dylan Faden, who was imprisoned f",
-      "source": "The Verge",
-      "publishTime": "2026-06-03",
-      "link": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer"
-    },
-    {
-      "id": "37303df8-2d23-8185-8af2-f880e1be5427",
-      "title": "Microsoft testing wearable AI gadget aimed at office workers",
-      "summary": "The company said its own workers are testing a \"wearable access badge\" and a desktop device.",
-      "source": "BBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "37303df8-2d23-813e-9efd-f6f52fff1a48",
-      "title": "Palo Alto Networks tops earnings as AI fuels cybersecurity urgency",
-      "summary": "The beat comes on lowered expectations, after the company gave disappointing guidance in February that fell short of analyst estimates.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.cnbc.com/2026/06/02/palo-alto-networks-panw-q3-earnings-2026.html"
-    },
-    {
-      "id": "37303df8-2d23-815e-b5ba-c58dd9cf20ab",
-      "title": "Here&#8217;s seven bloody minutes of Wolverine on the PS5",
-      "summary": "At its big State of Play show on Tuesday, Sony shared new look Marvel's Wolverine, the next big title from Insomniac Games that's launching exclusively on PS5 on September 15th. Dressed in the iconic yellow Wolverine outfit, Logan slunk around and stabbed his way through a bunch of enemies, using hi",
-      "source": "The Verge",
-      "publishTime": "2026-06-03",
-      "link": "https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026"
-    },
-    {
-      "id": "37303df8-2d23-8119-b9b6-d1b863861835",
-      "title": "Trump wants to make a complicated process for millions of student-loan borrowers easier",
-      "summary": "The Education Department is planning to streamline the process for defaulted student-loan borrowers to get help with repayment.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/trump-moving-student-loan-debt-default-resolution-fsa-borrowers-repayment-2026-6"
-    },
-    {
-      "id": "37303df8-2d23-817a-b64f-f7e7488dbf37",
-      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
-      "summary": "At its Build developer conference, Microsoft announced a series of generative AI models to try and crack a market controlled by OpenAI, Anthropic and Google.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html"
-    },
-    {
-      "id": "37303df8-2d23-816d-9fff-f8188e3457dd",
-      "title": "PlayStation State of Play June 2026: All the news and trailers",
-      "summary": "While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET. It’s coming at a pivotal time for the PlayStation brand: The PS5 keeps getting more expensive and Sony’s big bet on […]",
-      "source": "The Verge",
-      "publishTime": "2026-06-03",
-      "link": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers"
-    },
-    {
-      "id": "37303df8-2d23-8195-9b5a-c6ce86abc166",
-      "title": "A timeline of Taylor Swift and Olivia Rodrigo's relationship — and why some fans think they have beef",
-      "summary": "Olivia Rodrigo and Taylor Swift's relationship seemed to shift after the release of \"Sour,\" though Rodrigo has denied rumors of a feud. Here's a timeline.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/taylor-swift-olivia-rodrigo-friendship-relationship-timeline-feud-rumors"
-    },
-    {
-      "id": "37303df8-2d23-8185-92d8-e6f93ea3a614",
-      "title": "Paramount's top lawyer says some people who don't like the Warner Bros. deal are antisemitic",
-      "summary": "Paramount's deal to buy Warner Bros. still needs regulators' approval, so it's striking to see him link some opponents of the tie-up to antisemitism.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/paramount-lawyer-opposition-warner-bros-deal-antisemitism-2026-6"
-    },
-    {
-      "id": "37303df8-2d23-810d-8ace-c82939f5afa8",
-      "title": "Alphabet's plan to sell $80 billion in stock to fund its AI buildout isn't all bad",
-      "summary": "It's the latest step in an aggressive effort by big tech companies to secure future funding for AI infrastructure.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.cnbc.com/2026/06/02/alphabets-plan-to-sell-80-billion-in-stock-to-fund-its-ai-buildout-isnt-all-bad.html"
-    },
-    {
-      "id": "37303df8-2d23-81c9-a59a-c5ec200ad8f1",
-      "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
-      "summary": "Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse computers.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-03",
-      "link": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/"
-    },
-    {
-      "id": "37303df8-2d23-8187-a527-daec7cfa8b04",
-      "title": "I held the next-gen handheld",
-      "summary": "Intel couldn't catch a break. Layoffs. Shakedowns. Crashing CPUs torpedoing its reputation, sending desktop gamers fleeing to AMD. Apple and Qualcomm pushing Intel out of multiple flagship laptops. A gaming graphics card going MIA. But its Panther Lake laptop chip, the first on its all-important 18A",
-      "source": "The Verge",
-      "publishTime": "2026-06-03",
-      "link": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview"
-    },
-    {
-      "id": "37303df8-2d23-810f-a019-cd76513425b1",
-      "title": "I got burned by a bad laser treatment. It inspired me to build a six-figure clinic — and then a sunscreen line.",
-      "summary": "Simone Steele started a six-figure beauty clinic by throwing Botox parties. She used her customer base to start an inclusive, mineral sunscreen line.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/beauty-clinic-growth-sunscreen-line-founder-customer-service-2026-06"
-    },
-    {
-      "id": "37303df8-2d23-817e-ad4a-d6ea32ebeaa1",
-      "title": "Tech Life",
-      "summary": "The tech company announces its new Majorana 2 chip.",
-      "source": "BBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxy?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "37303df8-2d23-819c-993a-d7949b2b3aa2",
-      "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
-      "summary": "The tech giant predicts it will have a quantum computer that can solve commercially useful problems by the end of the decade.",
-      "source": "BBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "37303df8-2d23-81fa-996b-f01dd4a19b3a",
-      "title": "从端侧到云端统一加速：英伟达、微软展示 AI 智能体完整部署栈，Fairwater 工厂提前上线",
-      "summary": "IT之家 6 月 3 日消息，在今日开幕的 Build 2026 开发者大会上，身处台北的英伟达 CEO 黄仁勋以线上连线的形式出席，并参与了微软 CEO 萨提亚 · 纳德拉的主题演讲。双方围绕 RTX Spark、DGX Station for Windows、Foundry 平台上的 NVIDIA 开放模型、GitHub Copilot 中的 OpenShell 安全运行时以及下一代 AI 工厂等多项合作展开讨论。微软、英伟达还宣布达成一系列深度合作，并在 Build 大会上展示了横跨 Windows 设备、Azure 云与本地部署的统一加速计算栈，为开发者构建、运行和扩展 AI 智能体与",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/026.htm"
-    },
-    {
-      "id": "37303df8-2d23-81fb-aed4-f950d5a834c1",
-      "title": "I've been a successful freelancer for 10 years. I still feel like I should always be chasing my next opportunity.",
-      "summary": "I've been a freelancer for 10 years and have built a stable career. However, I still treat work like I'm job hunting and never feel truly \"off.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/freelance-career-stable-treat-work-job-hunting-2026-6"
-    },
-    {
-      "id": "37303df8-2d23-81ae-ad22-f7e91c5d52a7",
-      "title": "Microsoft Build 2026: The 7 biggest announcements",
-      "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event l",
-      "source": "The Verge",
-      "publishTime": "2026-06-03",
-      "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements"
-    },
-    {
-      "id": "37303df8-2d23-811b-ae3e-e2ac426a8c9a",
-      "title": "Mercor's CEO says it now spends more on AI tokens than employee salaries",
-      "summary": "\"I would bet that in five years the average enterprise spends more on compute than headcount,\" Mercor's CEO Brendan Foody said.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/ai-startup-mercor-spends-more-on-tokens-than-payroll-2026-6"
-    },
-    {
-      "id": "37303df8-2d23-8120-94c8-e893c3e15278",
-      "title": "共同开发、部署 AI 医疗模型，微软与梅奥诊所达成合作",
-      "summary": "IT之家 6 月 3 日消息，微软今天在 Build 2026 大会宣布与梅奥诊所达成战略合作，共同开发部署医疗保健领域的前沿 AI 模型，让更多人在需要时获得梅奥诊所的医疗知识、服务模式。IT之家在此援引官方新闻稿，本次合作将整合梅奥诊所的全球医疗专业能力、去标识化临床健康数据，以及微软的先进 AI、云计算及超级智能能力，为临床推理、医疗应用场景打造前沿 AI 模型。同时，该模型将由梅奥诊所持有，以延续其长期以来的患者信任、临床严谨性、安全性口碑。微软计划通过 Azure Foundry API 提供该模型，使全球各地的机构都能够获得先进的医疗 AI 能力，更好地服务患者、临床医生以及普通消",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/025.htm"
-    },
-    {
-      "id": "37303df8-2d23-8163-8251-fa21e1c113cc",
-      "title": "He Blew the Whistle on DOGE. Then His Brakes Were Cut",
-      "summary": "A federal IT staffer filed a complaint about DOGE, then went public. Shortly after Elon Musk boosted a post calling his claims false, his brake lines were cut. Now he’s suing for defamation.",
-      "source": "Wired",
-      "publishTime": "2026-06-03",
-      "link": "https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/"
-    },
-    {
-      "id": "37303df8-2d23-81d4-a4ae-e1f906c4502c",
-      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-03",
-      "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/"
-    },
-    {
-      "id": "37303df8-2d23-8111-b416-ca9886f46a2c",
-      "title": "I took my first big solo trip in years. My son's independence was the unexpected reward.",
-      "summary": "While I traveled to Greenland, my 11-year-old unexpectedly started taking the bus and making his own lunch.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/solo-trip-son-became-more-independent-2026-6"
-    },
-    {
-      "id": "37303df8-2d23-8115-9d5f-e5dea0fbc89a",
-      "title": "微软发布 ASSERT 开源框架：让开发者更高效地评测 AI 智能体和应用行为",
-      "summary": "IT之家 6 月 3 日消息，微软今日宣布推出开源框架 ASSERT（Adaptive Spec-driven Scoring for Evaluation and Regression Testing，自适应规范驱动评分），旨在将自然语言写成的行为规范直接转换为可执行的评估流程。据介绍，ASSERT 能够从产品需求、政策文件或系统提示等文本出发，自动生成测试场景、数据集、评估指标和计分卡，并针对目标模型、应用或智能体运行测试。该框架建立在这样一个前提之上：行为规范本身应当成为评估的核心输入，而非仅仅作为背景参考。ASSERT 将这一过程系统化为四个阶段：首先，将宽泛的行为描述细化为明确的概念",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/024.htm"
-    },
-    {
-      "id": "37303df8-2d23-8184-9fb8-f746f2ea660a",
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-03",
-      "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/"
-    },
-    {
-      "id": "37303df8-2d23-810f-95ef-cce284b9f786",
-      "title": "微软宣布为 Win11 引入后量子密码能力：TLS 预览版上线，ADCS 签发 ML-DSA 证书",
-      "summary": "IT之家 6 月 3 日消息，微软宣布为 Windows 11 和 Windows Server 2025 推出新一轮后量子密码学（PQC）能力，帮助组织降低“先窃取后解密”（HNDL）风险。此次更新将量子安全防护从算法与 API 层面延伸至协议和平台组件，包括在 Windows TLS 协议栈中加入 PQ TLS 混合密钥交换、在 Windows 密码学 API 中支持复合 PQC 算法，以及通过 Active Directory 证书服务（ADCS）签发后量子证书。其中 ADCS 的 ML-DSA 证书签发功能已于 2026 年 5 月正式上线，TLS 混合密钥交换和复合算法目前处于预览阶",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/023.htm"
-    },
-    {
-      "id": "37303df8-2d23-81e2-8879-ff98aa7ba35b",
-      "title": "Satya Nadella defends Microsoft AI data center plans against community backlash",
-      "summary": "Microsoft CEO Satya Nadella defends AI data centers, pledging lower environmental impact, stable power costs, and local jobs.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/data-center-backlash-microsoft-ceo-satya-nadella-reassure-communities-2026-6"
-    },
-    {
-      "id": "37303df8-2d23-8163-9bd1-e222598859a0",
-      "title": "微软推出量子芯片 Majorana 2，剑指 2029 年打造实用机器",
-      "summary": "IT之家 6 月 3 日消息，微软现已推出新一代量子芯片 Majorana 2，新品采用全新材料栈和新一代量子比特，可靠性相比上一代产品提升 1000 倍。据介绍，Majorana 2 使用的量子比特（Qubit）相比上一代产品，可靠性提升 1000 倍。这一里程碑式进展得益于全新材料栈设计，以及 Discovery 智能体 AI 的协助。微软技术院士 Chetan Nayak 透露，Majorana 2 相比 Majorana 1 拥有更加稳定的拓扑相（topological phase），使用铅材料取代铝超导体，并将半导体活性区域更新为砷化铟（IT之家注：Indium Arsenide）+",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/021.htm"
     }
   ],
   "macroEvents": [
