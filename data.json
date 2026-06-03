@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-06-04 01:26",
+  "updatedAt": "2026-06-04 04:36",
   "news": [
     {
-      "id": "37403df8-2d23-81c9-b1af-fb877d68e035",
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+      "id": "37403df8-2d23-8181-939f-ef79d4a13dfd",
+      "title": "Microsoft's latest employee surveys painted a rosy picture. Some staff are questioning the results in internal messages.",
+      "summary": "Some Microsoft workers ask whether questions were omitted from a recent employee satisfaction survey, reflecting broader tension inside the company.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-04",
+      "link": "https://www.businessinsider.com/microsoft-employee-survey-compensation-question-omitted-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-8187-9eac-dbfa104abea8",
+      "title": "OpenAI's CFO says she can't say if Jony Ive's device is an earpiece",
+      "summary": "OpenAI CFO Sarah Friar said she can't say if the Jony Ive-led device is an earpiece.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-04",
+      "link": "https://www.businessinsider.com/openai-cfo-ai-device-jony-ive-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-8167-8ee2-fa0e061ebd82",
+      "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
+      "summary": "Activists say it’s the first time big tech employees have publicly called for regulations governing data center projects.",
+      "source": "Wired",
+      "publishTime": "2026-06-04",
+      "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/"
+    },
+    {
+      "id": "37403df8-2d23-812f-959b-ebc64deb48eb",
+      "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+      "summary": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
+      "source": "Wired",
+      "publishTime": "2026-06-04",
+      "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/"
+    },
+    {
+      "id": "37403df8-2d23-8181-b14c-d4addc385ed5",
+      "title": "The best Qi2 batteries for iPhone and Pixel",
+      "summary": "Compact power banks have gotten a lot faster in the past year — and it’s not just their USB-C charging speeds that have received a boost. The newest Qi2.2-certified models can wirelessly charge an iPhone 16 or later at up to 25W. Combine that with their ability to magnetically snap on via MagSafe, a",
+      "source": "The Verge",
+      "publishTime": "2026-06-04",
+      "link": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks"
+    },
+    {
+      "id": "37403df8-2d23-817f-9683-f9b3e5e6e47f",
+      "title": "Kevin O'Leary says he's 'not walking away' from his Utah AI data center, despite call to shrink it by 75%",
+      "summary": "A state Senator proposed a 75% cut and environmental restrictions on Kevin O'Leary's Stratos data center Project. O'Leary said he's not walking away.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-04",
+      "link": "https://www.businessinsider.com/kevin-oleary-data-center-utah-cut-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-81f2-ba39-c744a8adab3d",
+      "title": "As AI gets better, it reveals an empty promise",
+      "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of th",
+      "source": "The Verge",
+      "publishTime": "2026-06-04",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise"
+    },
+    {
+      "id": "37403df8-2d23-8164-abb5-da22dfe43bcd",
+      "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
+      "summary": "The breach at wearable ring maker Ultrahuman stemmed from credentials stolen from a malware-infected employee laptop.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-04",
+      "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/"
+    },
+    {
+      "id": "37403df8-2d23-81ad-891d-caa69db26076",
+      "title": "Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
+      "summary": "Carvana was granted a warrant to buy shares in Slate last year, according to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily invested in both companies.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-04",
+      "link": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/"
+    },
+    {
+      "id": "37403df8-2d23-812c-9919-c31455921ac6",
+      "title": "Western air forces have used centralized headquarters for decades. A top NATO commander said this easy era is over.",
+      "summary": "The West has, for decades, coordinated air fight and defense from large operations centers. Today's threats are so big that this needs to change.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-04",
+      "link": "https://www.businessinsider.com/natos-era-big-central-air-operation-centers-is-over-commander-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-815a-8d66-dc2f4003e069",
+      "title": "OpenAI CEO Sam Altman to meet with lawmakers, Trump officials in DC",
+      "summary": "President Donald Trump signed an executive order about AI this week, which Altman voiced support for.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-04",
+      "link": "https://www.cnbc.com/2026/06/03/open-ai-altman-congress-trump-eo.html"
+    },
+    {
+      "id": "37403df8-2d23-81a3-a459-e688b498b2ce",
+      "title": "Transgender US troops can continue serving for now, in a major reversal for Trump",
+      "summary": "An appeals court ruled that the Pentagon failed to show that transgender troops harm national security. It may not be the final word on their careers.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-04",
+      "link": "https://www.businessinsider.com/transgender-us-troops-can-continue-serving-for-now-court-rules-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-8143-bc46-c7d9c2c7f19d",
+      "title": "A family of 5 downsized from a Texas home to an NYC apartment. The kids share a room, but they've never been happier.",
+      "summary": "Alexis Adegoke thought raising her family would be easier in Texas. Instead, she's happier in New York City, even though it's more expensive.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-04",
+      "link": "https://www.businessinsider.com/family-downsized-dallas-texas-house-nyc-apartment-happier-2026-5"
+    },
+    {
+      "id": "37403df8-2d23-818f-b127-c761073f6b7c",
+      "title": "Sam Altman says OpenAI's top token spender uses 100 billion tokens a month — and they're not even the world leader",
+      "summary": "Sam Altman said AI budgeting has recently become a \"huge issue\" for some companies, something that \"never came up\" earlier this year.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-04",
+      "link": "https://www.businessinsider.com/sam-altman-openai-top-token-spender-ai-costs-issue-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-8153-b4ce-e5f4558f4f89",
+      "title": "My husband and I wish we had met sooner. A simple activity helps us connect with our younger selves.",
+      "summary": "We met in our mid-30s, so I never knew my husband as a younger person. When we watch old TV shows like \"The Sopranos,\" I feel closer to him.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-04",
+      "link": "https://www.businessinsider.com/husband-wife-met-thirties-watch-old-tv-shows-connect-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-81d4-887d-c19f6f604073",
+      "title": "When I moved from the US to Paris 2 years ago, I hadn't considered all of the privileges I was leaving behind",
+      "summary": "I left behind a lot when I moved from the United States to Paris a few years ago and realized that being an American abroad comes with challenges.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-04",
+      "link": "https://www.businessinsider.com/american-moved-to-paris-left-behind-more-than-expected-drawbacks-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-81c4-9879-d79e10dd2d02",
+      "title": "Where Jim Cramer stands on CrowdStrike and Broadcom ahead of earnings",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-04",
+      "link": "https://www.cnbc.com/2026/06/03/where-jim-cramer-stands-on-crowdstrike-and-broadcom-ahead-of-earnings.html"
+    },
+    {
+      "id": "37403df8-2d23-81c1-9387-ef49c3385c76",
+      "title": "Uber slashes people division by nearly a quarter. CEO says 'changes are necessary'",
+      "summary": "Uber said the cuts were not driven by AI, which has allowed many tech businesses to cut costs and automate workloads",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-04",
+      "link": "https://www.cnbc.com/2026/06/03/uber-layoffs-people-division-ai.html"
+    },
+    {
+      "id": "37403df8-2d23-8191-961a-dea5ad6dbccb",
+      "title": "May hedge fund returns: Steve Cohen's Point72 leads the way among the industry's biggest names",
+      "summary": "Big-name hedge funds mostly did well in May when equity markets surged.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-04",
+      "link": "https://www.businessinsider.com/may-hedge-fund-performance-point72-millennium-balyasny-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-8167-b2ef-fd8a26dc0529",
+      "title": "对标杜比视界：苹果、谷歌联合推出 Eclipsa Video HDR 开源标准，有望率先应用于 iPhone 18 Pro 系列",
+      "summary": "IT之家 6 月 4 日消息，苹果、谷歌、NBC 环球联合 SMPTE（电影电视工程师协会）共同开发了一项名为 Eclipsa Video 的新 HDR 视频标准，正式规范名称为 SMPTE ST 2094-50。值得一提的是，谷歌、三星此前还联合推出了空间音频标准 Eclipsa Audio，被视为杜比全景声（Dolby Atmos）的开源替代方案。而 Eclipsa Video 则被外界认为可能成为杜比视界（Dolby Vision）的开源替代方案之一。Eclipsa Video 将由 HDR10+ 联盟负责管理。从标准体系来看，SMPTE ST 2094-50 是 SMPTE 动态 HD",
+      "source": "IT之家",
+      "publishTime": "2026-06-04",
+      "link": "https://www.ithome.com/0/959/582.htm"
+    },
+    {
+      "id": "37403df8-2d23-8160-9682-fa219a13b766",
+      "title": "SpaceX targets fixed $135 IPO roadshow price at $1.75 trillion valuation, source says",
+      "summary": "The valuation would make Elon Musk's company the seventh-biggest in the U.S., above Tesla, which has a market cap of about $1.6 trillion.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-04",
+      "link": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+    },
+    {
+      "id": "37403df8-2d23-8170-9c7a-f8bef657de60",
+      "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+      "summary": "Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accounts.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-04",
+      "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/"
+    },
+    {
+      "id": "37403df8-2d23-8123-afc6-f9a2c1b84a69",
+      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+      "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a bl",
+      "source": "The Verge",
+      "publishTime": "2026-06-04",
+      "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images"
+    },
+    {
+      "id": "37403df8-2d23-8106-ab84-fb02945604b9",
+      "title": "马斯克 SpaceX 上市在即：多名白宫官员被曝持股，预计可带来数百万美元账面收益",
+      "summary": "IT之家 6 月 3 日消息，据彭博社报道，根据最新的公开财务披露文件，美国政府中至少有 10 名官员申报持有 SpaceX 或 xAI 相关资产。统计显示，这些联邦官员持有的 SpaceX 或 xAI 股票总价值在 990 万美元（IT之家注：现汇率约合 6710.8 万元人民币）至 4380 万美元（现汇率约合 2.97 亿元人民币）之间。由于私人公司持股属于豁免范围，这些官员在此之后可能已出售全部或部分持股，且无需触发额外的披露要求。例如，内政部首席信息官保罗 · 麦金纳尼（Paul McInerny）是一名前 SpaceX 工程师，他报告的 SpaceX 持股规模在所有人中最高，价值在",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/581.htm"
+    },
+    {
+      "id": "37403df8-2d23-81aa-808e-e774e1a5aee0",
+      "title": "拼好饭上“岛”、窥屏保护实装等：荣耀 Magic8 系列手机 MagicOS 10.0.0.160 版本开推",
+      "summary": "IT之家 6 月 3 日消息，荣耀 Magic8 系列手机今日开启了 MagicOS 10.0.0.160 系统版本推送升级，系统包大小约 11.11GB。据介绍，新版本带来了 YOYO AI 创作、AI 窥屏防护、虚拟权限等功能。IT之家附荣耀 Magic8 系列手机本次更新内容如下：荣耀 AI & YOYOYOYO AI 创作全新上线，超多玩法尽在掌握，一键丝滑出图，装点多彩创意。体验路径：YOYO > 往右侧滑动拉出 YOYO 侧边栏 > AI 创作AI 键新增 YOYO 图像创作功能，一键直达 AI 创作或 AI 修图，灵感生成与画面精修触手可及，让您的创意表达更高效。体验路径：设置 ",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/580.htm"
+    },
+    {
+      "id": "37403df8-2d23-8116-9944-df299339e574",
+      "title": "How Meta, JPMorgan, and others are tracking AI use — and why it's getting complicated",
+      "summary": "Companies like JPMorgan, Meta, Amazon, and KPMG are tracking how employees use AI, and using the data to inform decisions about performance.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-03",
+      "link": "https://www.businessinsider.com/ai-use-tracking-jpmorgan-meta-kpmg-employees-tokenmaxxing-2026-5"
+    },
+    {
+      "id": "37403df8-2d23-813e-85d1-fc8c6b22725b",
+      "title": "Amazon will show AI product images when you search for some reason",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
       "source": "TechCrunch",
       "publishTime": "2026-06-03",
-      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/"
+      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/"
     },
     {
-      "id": "37403df8-2d23-818c-bcd1-d92a12b351f5",
-      "title": "Plex adds new social features ahead of a major price hike for its lifetime pass",
-      "summary": "Plex has come a long way from being just a personal media server. Over the past few years, it has transformed into a streaming hub, today featuring ad-supported content and movie rental options. Now, the company is setting its sights on competing with social networking platforms like Reddit and Lett",
+      "id": "37403df8-2d23-8192-84d1-df124e5339bb",
+      "title": "This Is How Trump Finally Signed the AI Executive Order",
+      "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
+      "source": "Wired",
+      "publishTime": "2026-06-03",
+      "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/"
+    },
+    {
+      "id": "37403df8-2d23-81ad-8fea-f778cb7602a9",
+      "title": "A software engineer created a 90-day AI course to help workers across departments build the tech they want",
+      "summary": "Flexport's AI training was built in-house to give employees automation and vibe-coding skills crucial to modern supply chain management.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-03",
+      "link": "https://www.businessinsider.com/flexport-upskilling-ai-employee-program-product-engineering-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-81e0-ae7d-f5c2d332eeb6",
+      "title": "I'm an interior decorator. Here are 7 things I would never have in my own home.",
+      "summary": "As an interior decorator, geometric shelves, faux leather, and exposed-bulb fixtures are some of the things I would never have in my home.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-03",
+      "link": "https://www.businessinsider.com/what-interior-decorator-would-never-have-in-home-2026-6"
+    },
+    {
+      "id": "37403df8-2d23-81d4-b825-d315ad8f7067",
+      "title": "今年 4000 名新人入职美国银行，将面对正被 AI 改写的华尔街",
+      "summary": "IT之家 6 月 3 日消息，据《商业内幕》3 日（今天）晚间报道，美国银行今年招聘了近 4000 名暑期实习生和全职校招新人，两类人员大致各占一半，规模与去年基本一致。美国银行全球人才主管乔希 · 布朗斯坦表示，今年约有 24 万人申请不到 2000 个实习岗位，录取率约为 0.8%。今年申请人数有所增加，原因或在于两方面：AI 工具让投递申请变得更容易，真实竞争也确实更加激烈。据其介绍，初级人才招聘仍是美银的战略重点，尤其希望找到“有长期职业规划”的申请者，也就是愿意把未来职业发展与美国银行绑定的人，实习生通常“绝大多数”都会拿到返聘 offer。布朗斯坦自称无法预测年轻员工招聘人数未来是",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/579.htm"
+    },
+    {
+      "id": "37403df8-2d23-8167-b9ef-f4466768dfd8",
+      "title": "我国科学家攻克作物花期冷害难题，可挽回超 50% 低温减产损失",
+      "summary": "IT之家 6 月 3 日消息，据央视新闻今日报道，中国科学院遗传与发育生物学研究所许操研究员带领的科研团队历经八年持续攻关，成功攻克作物花期冷害这一长期困扰全球农业的难题。相关研究成果于 6 月 3 日在线发表于《自然》。受全球气候变化影响，“倒春寒”“早霜冻”“寒露风”等突发性低温天气日益频繁。作物花期对低温极为敏感，短短几天的低温便可能引发花粉败育、无法结实，导致主粮作物减产幅度达 20% 至 60%，各类果树减产约 20% 至 50%。据测算，仅 2024 年我国农作物因冷害受灾面积就达 1400 万亩，直接经济损失 256.2 亿元。长期以来，花期冷害防控主要依赖灌水、熏烟、覆盖等被动",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/578.htm"
+    },
+    {
+      "id": "37403df8-2d23-814c-b27c-f8f5358e58d8",
+      "title": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents",
+      "summary": "Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-03",
+      "link": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html"
+    },
+    {
+      "id": "37403df8-2d23-81a6-903c-d0b62ede25df",
+      "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
+      "summary": "The prominent AI music generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.",
       "source": "TechCrunch",
       "publishTime": "2026-06-03",
-      "link": "https://techcrunch.com/2026/06/03/plex-launches-new-social-features-amid-a-major-price-hike/"
+      "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/"
     },
     {
-      "id": "37403df8-2d23-81c2-91be-dd1021c01cd2",
-      "title": "微软往事：Win8 一心想走现代化路线，曾有一整套“Modern”式内部代号",
-      "summary": "IT之家 6 月 3 日消息，微软资深工程师雷蒙德・陈（Raymond Chen）于 6 月 1 日在其《The Old New Thing》博客中分享了一则关于 Windows 8 开发代号的趣闻。值得一提的是，6 月 1 日恰逢 Windows 8 首发 15 周年（IT之家注：2011 年 6 月 1 日首次亮相），微软已于 2016 年 1 月 12 日彻底停止了对其的支持。雷蒙德・陈回忆道，在 Windows 8 开发期间，团队需要为“正在开发的那个东西”起一个名字。“我们在起代号方面并不是特别有创意的一群人，所以就把它叫做‘现代体验’，以区别于 Windows 7 中已有的‘经典体",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/545.htm"
-    },
-    {
-      "id": "37403df8-2d23-8135-9591-f25444cd1e07",
-      "title": "华为发布全新一代 1000V 组串式构网 PCS，系统循环效率提升至 97.8% 行业第一",
-      "summary": "IT之家 6 月 3 日消息，以“构建智能世界的绿电驱动力”为主题的 2026 华为智能光伏战略 & 新品发布会今日在上海举行。IT之家获悉，华为数字能源智能光伏产品线总裁周涛在会上发布了全新一代组串式构网 PCS 解决方案，包括全新一代组串式构网 PCS 430kW，智能子阵控制器，智能电站控制器和智能电站管理系统。据介绍，全新一代组串式构网 PCS，首创了 1000V PCS 交流系统，单机功率达到 430kW；具备行业最宽直流电压工作范围 550V 到 1500V，支持锂电、钠电等不同类型电芯；系统循环效率跨越式突破，从行业的 96.7% 提升至 97.8%，提升 1.1%，循环效率行业",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/546.htm"
-    },
-    {
-      "id": "37403df8-2d23-81c4-ae53-dcdfae9c40d3",
-      "title": "Europe unveils tech sovereignty package amid growing concerns over reliance on U.S. tech",
-      "summary": "The proposals include a new act to bolster advanced chip manufacturing and homegrown cloud computing.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.cnbc.com/2026/06/03/europe-tech-sovereignty-us-tech-reliance.html"
-    },
-    {
-      "id": "37403df8-2d23-81fa-ae9b-d8e33c99954f",
-      "title": "Vibe coding's not-so-new management problem",
-      "summary": "Coding's great reckoning is underway as Corporate America pushes out managers, and that's a recipe for disaster.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/vibe-coding-management-risks-for-flat-organizations-tech-ai-2026-6"
-    },
-    {
-      "id": "37403df8-2d23-813a-af87-d84da93913ec",
-      "title": "国家广播电视总局：部署开展微短剧有害低俗内容和侵权盗版专项治理",
-      "summary": "IT之家 6 月 3 日消息，国家广播电视总局公众号 3 日（今天）晚间发文宣布，6 月 1 日，国家广播电视总局部署开展微短剧有害低俗内容和侵权盗版专项治理。IT之家从公告获悉，本次专项治理为期 2 个月，将依法依规集中治理部分微短剧存在的涉儿童有害、软色情擦边、拜金炫富、畸形婚恋观、封建糟粕、暴力复仇、低俗片名、侵权盗版等 8 个重点问题，规范微短剧创作传播行为，进一步营造清朗健康的行业发展生态。广电总局有关负责人表示，本次专项治理对于营造微短剧行业良好内容生态具有重要意义。各省级广电行政主管部门要切实履行属地管理责任，建立巡查与抽查机制，对辖区内平台和制作机构实行全周期、动态化监管；相关",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/544.htm"
-    },
-    {
-      "id": "37403df8-2d23-818a-87aa-c4e74597403d",
-      "title": "苹果欧洲首家开发者中心将在德国柏林启用",
-      "summary": "IT之家 6 月 3 日消息，苹果公司今日宣布，将于今年晚些时候在德国柏林开设欧洲首家苹果开发者中心（Apple Developer Center）。IT之家获悉，该设施位于柏林米特区（Mitte），与位于库比蒂诺、上海、新加坡和班加罗尔的开发者中心齐名。柏林苹果开发者中心专为各种规模及处于 App 开发各个阶段的团队而设计，将作为线下会议、工作坊（workshops）和一对一预约的基地。此外，咨询区和专用实验室将由苹果专家提供多种语言的实操支持。苹果公司还表示，柏林开发者中心建立在苹果公司对下一代人才投入的基础之上，这些投入包括 Swift 学生挑战赛（Swift Student Chall",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/543.htm"
-    },
-    {
-      "id": "37403df8-2d23-819d-b2a8-c0ebe0b673b1",
-      "title": "Bank of America accepted less than 1% of internship applicants this year, but AI isn't shrinking the class",
-      "summary": "AI is changing Wall Street internships, but Bank of America says entry-level hiring remains a priority despite automation.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/bank-of-america-summer-interns-wall-street-ai-2026-6"
-    },
-    {
-      "id": "37403df8-2d23-8106-8ab7-d1c14a55feb4",
-      "title": "英特尔：到 2030 年，x86 架构预计将为八成数据中心服务器提供动力",
-      "summary": "IT之家 6 月 3 日消息，据韩媒 The Elec 今天（3 日）晚间报道，英特尔 CEO 陈立武在 2026 台北国际电脑展主题演讲中表示，到 2030 年，每 10 台新部署的数据中心服务器中，预计有 8 台将基于 x86 架构，这些服务器将支撑现代计算工作负载，覆盖从基础处理任务到新兴 AI 应用的各类场景。报道指出，英特尔给出这一判断，主要基于两点：一是 x86 架构经过长期验证的可靠性。过去 50 年中，x86 一直是数据中心服务器的核心基础，支撑电信网络、数据库和云服务等关键任务持续运行。围绕 x86，英特尔也建立起了覆盖软件和基础设施的庞大生态。二是 x86 架构仍在持续创新",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/542.htm"
-    },
-    {
-      "id": "37403df8-2d23-818a-b3fb-fb9f23117a84",
-      "title": "浙江台州问界 M9 事故现场镜头画面曝光，大块金属部件曾顶起车身",
-      "summary": "IT之家 6 月 3 日消息，问界汽车官方账号“问界用户服务”今日发布关于浙江省台州市车辆事故的说明：经现场确认，事故为车辆行驶过程中，撞击前车掉落的大块金属部件，造成强物理冲击并持续拖行一段时间后导致起火，目前火已扑灭。IT之家注意到，该事故也在网上引发了大量讨论。目前，博主 @老林的佛系车库 分享了该事故现场的镜头画面。根据其他车主行车记录仪视频画面来看，这辆问界 M9 在行驶过程中从正面直接压过了一个体型巨大的障碍物（动图画面不清晰，但根据官方说明来看是大块金属部件），且车身都曾被该物件顶起，导致前轮短暂离地。相关阅读：《问界汽车回应浙江台州 M9 事故：撞击前车掉落的大块金属部件，造成",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/541.htm"
-    },
-    {
-      "id": "37403df8-2d23-81d9-8b5e-e6a1b7a13c2c",
-      "title": "撼讯展出 UV 定制 RX 9070 XT 原型卡：背板雕刻被紫外灯照射即显形，提供四种图案可选",
-      "summary": "IT之家 6 月 3 日消息，据 TechPowerUp，撼讯（PowerColor）在 Computex 2026 上展示了多款采用 UV 紫外感光背板的定制 AMD Radeon RX 9000 系列原型显卡。这些显卡基于现有的 RX 9070 XT 红魔、RX 9070 XT 暗黑犬以及游荡者系列进行定制，主要区别在于显卡背板新增多款紫外光感应艺术涂装。IT之家注意到，四款原型卡采用了风格迥异的设计方案。第一款原型卡背板设计为可在紫外光下呈现出樱花图案；第二款命名为“She Wears Red”，依托红魔系列打造，背板印有抽象异形纹样。四款产品中最具视觉设计特点的是“Relics tha",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/540.htm"
-    },
-    {
-      "id": "37403df8-2d23-81d8-a36e-da9c4c18bf51",
-      "title": "The Dow's win streak, Macy's earnings, Trump signs AI order and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.cnbc.com/2026/06/03/5-things-to-know-before-the-stock-market-opens.html"
-    },
-    {
-      "id": "37403df8-2d23-81da-a517-c9b9698b0a6c",
-      "title": "I was laid off from my dream tech job. It became the turning point that saved my health and my career.",
-      "summary": "Although being laid off from my dream career was difficult, it was good for my health. It also helped me rebuild my life and find a better job for me.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/being-laid-off-led-me-to-better-job-saved-health-2026-6"
-    },
-    {
-      "id": "37403df8-2d23-81c7-bf17-f2134045b6ba",
-      "title": "新创华：“奥特曼”商标侵权案落槌，驳回奇奥再审申请",
-      "summary": "IT之家 6 月 3 日消息，去年 10 月，新创华与奇奥天尊等公司之间，围绕“奥特曼”、“ULTRAMAN”商标侵权纠纷案迎来终审判决：新创华胜诉，奇奥间接侵权。新创华 SCLA 官方今日再度公布维权最新进展，上海市高级人民法院作出再审裁定，驳回奇奥公司再审申请，并确认新创华享有“奥特曼”商标在我国境内的独占性权利。案件背景和审理过程如下：新创华作为“奥特曼”系列商标在中国大陆地区的独占被许可人，就奇奥公司授权奥特曼餐饮管理（上海）有限公司、光之国餐饮管理（上海）有限公司、上海高朗品牌策划有限公司等在“奥特曼汉堡”餐饮项目中擅自使用“奥特曼”“ULTRAMAN”标识的行为向法院提起诉讼。20",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/537.htm"
-    },
-    {
-      "id": "37403df8-2d23-812c-a399-e4b418cbb6b3",
-      "title": "What smart people are saying about Scott Pelley being fired from '60 Minutes'",
-      "summary": "Scott Pelley, the veteran \"60 Minutes\" correspondent, was fired from CBS News on Tuesday after criticizing Bari Weiss.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/what-smart-people-are-saying-cbs-news-scott-pelley-2026-6"
-    },
-    {
-      "id": "37403df8-2d23-8159-8127-f0d81125cbca",
-      "title": "Lloyds, Halifax and Bank of Scotland app users hit by outage",
-      "summary": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X.",
-      "source": "BBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "37403df8-2d23-8112-bc6e-ecbc5baf7000",
-      "title": "Kelly Rowland shares her 3-step strategy to reduce inflammation after being diagnosed with eczema",
-      "summary": "Kelly Rowland was diagnosed with eczema after her son was born. Here's how she manages her symptoms by reducing inflammation.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/kelly-rowland-quit-alcohol-for-eczema-2026-6"
-    },
-    {
-      "id": "37403df8-2d23-8188-9d28-f86257022e4a",
-      "title": "Advertising's 'most hated man' is back with a new warning for CMOs",
-      "summary": "Jon Mandel, who set off a firestorm in 2016 with a presentation about alleged agency kickbacks, has beef with principal media trading.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/jon-mandel-ad-agency-transparency-principal-media-2026-6"
-    },
-    {
-      "id": "37403df8-2d23-8166-86b9-c62c83f9d5d9",
-      "title": "SwitchBot’s acquisition of Nanoleaf is about more than lighting",
-      "summary": "Smart lighting company Nanoleaf has been acquired by OneRobotics, the parent company of SwitchBot. In an exclusive interview with The Verge, Nanoleaf CEO Gimmy Chu says the company will remain independent and that he and his cofounder and COO, Christian Yan, will continue to run it. \"Nothing is chan",
+      "id": "37403df8-2d23-8170-aebd-dda4c32871d2",
+      "title": "PlayStation is getting back to what it’s good at",
+      "summary": "PlayStation used its most recent State of Play showcase to make it clear where its focus is. After a series of costly live-service stumbles, it's getting back to focusing on premium, narrative-driven, single-player games. That statement was made clear with how it started and ended the hourlong show.",
       "source": "The Verge",
       "publishTime": "2026-06-03",
-      "link": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics"
+      "link": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026"
     },
     {
-      "id": "37403df8-2d23-8194-b0b0-e09c1ce09c7a",
-      "title": "I stopped trying to make my husband love working out. Letting go of my 'fitness-couple fantasy' helped our marriage.",
-      "summary": "My husband thinks my exercise routine is obsessive, but I consider it the bare minimum. Over time, we've accepted our different fitness levels.",
+      "id": "37403df8-2d23-8167-9b34-eafcc239772a",
+      "title": "My 87-year-old neighbor has become family. I've told him he can move in with us if he needs to.",
+      "summary": "A Los Angeles family welcomed their elderly neighbor into their lives — and eventually began caring for him like family.",
       "source": "Business Insider",
       "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/marrying-someone-who-works-out-less-fitness-gap-2026-6"
+      "link": "https://www.businessinsider.com/my-elderly-neighbor-became-part-of-our-family-2026-6"
     },
     {
-      "id": "37403df8-2d23-81c3-875e-d3eda5f49f6e",
-      "title": "何小鹏回应 GX 海外热度：未公布定价已获中东千辆盲订，全球 L3 自动驾驶明年 Q1 实施",
-      "summary": "IT之家 6 月 3 日消息，今日晚间，小鹏集团董事长、CEO 何小鹏现身小鹏 GX 智造工厂直播间，就新车上市及交付等相关问题与网友进行交流。在直播中，何小鹏透露，小鹏 GX 在海外市场的关注度超出预期，自北京车展首次公开亮相以来，该车型在未公布任何海外定价的情况下，已获得来自以中东为代表的海外市场共计 1000 笔盲订订单。何小鹏表示，海外至少四大区域都对这款车型存在需求，当前的重点是做好国内的交付工作。后续，小鹏 GX 将陆续登陆海外市场，率先在中东地区正式亮相并开启预售。IT之家此前报道，小鹏 GX 已于 5 月 20 日在国内市场正式上市，限时权益起售价为 26.98 万元，提供纯电",
+      "id": "37403df8-2d23-8199-b819-e053963b3734",
+      "title": "我国科学家找回“丢失”的野生玉米基因，可显著提升其蛋白含量",
+      "summary": "IT之家 6 月 3 日消息，据新华社今日报道，中国科学院分子植物科学卓越创新中心巫永睿、王海海团队，联合上海师范大学王文琴团队和四川农业大学黄永财团队，成功从野生玉米中克隆出第二个高蛋白主效基因 THP3-T，相关成果于北京时间 6 月 3 日晚在线发表于《自然》。玉米是我国第一大粮食作物，也是畜禽养殖业中不可或缺的“饲料之王”。然而，由于我国主栽玉米品种的蛋白含量普遍偏低，动物饲料长期以来严重依赖进口豆粕作为蛋白补充来源。据测算，我国大豆年进口量超过 1 亿吨，对外依存度高达 80% 以上，培育高蛋白玉米被视为缓解这一结构性矛盾的重要路径。研究团队介绍称，野生玉米的蛋白含量可高达 30%，",
       "source": "IT之家",
       "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/535.htm"
+      "link": "https://www.ithome.com/0/959/577.htm"
     },
     {
-      "id": "37403df8-2d23-819c-9bdd-de42e1ff503c",
-      "title": "AI search is exposing a hidden weakness in the way many brands operate",
-      "summary": "A new study shines a light on how corporate silos can lead to issues with how brands show up in AI search",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/ai-search-strategies-hampered-by-corporate-silos-semrush-study-2026-5"
-    },
-    {
-      "id": "37403df8-2d23-81d0-9e60-f03278cbc51f",
-      "title": "I post LinkedIn comedy skits to help my marketing company get new clients. Here's what works and what I won't do.",
-      "summary": "Henry Hayes is gaining traction and new client leads by posting comedy skits on LinkedIn, like a recent \"Grand Theft Auto\" spoof.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/marketer-makes-comedy-skits-for-linkedin-to-acquire-clients-2026-6"
-    },
-    {
-      "id": "37403df8-2d23-814f-8aed-f8ce90f116f7",
-      "title": "不法分子制售作弊芯片干扰汽车尾气检测致大量超标车辆违法上路，公安部公布案情细节",
-      "summary": "IT之家 6 月 3 日消息，在世界环境日（每年的 6 月 5 日）到来之际，公安部今日公布了 4 起污染环境犯罪典型案例，其中提到了浙江省绍兴市公安机关侦破单某某等人制售作弊芯片干扰汽车尾气检测案。IT之家了解到，在 2024 年 11 月，浙江省绍兴市公安机关侦破一起制售作弊芯片干扰汽车尾气检测污染环境案，抓获犯罪嫌疑人 27 名，打掉犯罪团伙 3 个。经查，犯罪嫌疑人单某某等人非法研发、生产具有干扰机动车排放检测数据功能的电源芯片，并销往全国多地机动车检测机构。该芯片通过篡改系统数据等，使不合格车辆通过年检，导致大量尾气超标车辆违法上路行驶，严重扰乱机动车排放检验市场秩序，对区域空气质量",
+      "id": "37403df8-2d23-81de-9cd9-e9695285907b",
+      "title": "“爱达 · 魔都号”执航：全国首个邮轮无目的地海上游航线定档 6 月 6 日启航",
+      "summary": "IT之家 6 月 3 日消息，据上海交通今日消息，全国首个无目的地海上游航线将于 6 月 6 日启航。首航将由首艘国产大型邮轮“爱达 · 魔都号”执航，首航载客率控制在 80%，目前船票预售已超 75%。据介绍，所谓无目的地海上游，就是邮轮从中国母港出发，全程在公海上巡游但无具体停靠港的邮轮旅游方式，主打“说走就走”的轻松休闲。此次无目的地海上游航线全程 3 天 2 晚，即 6 月 6 日（周六）从吴淞口邮轮港出发，6 月 8 日（周一）一早返回出发港。为迎接首航，“爱达 · 魔都号”进一步丰富了船上产品，增配了流行演唱、脱口秀、魔术表演、主题派对、社交舞会等娱乐活动，海上运动场所全面开放，美",
       "source": "IT之家",
       "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/533.htm"
+      "link": "https://www.ithome.com/0/959/576.htm"
     },
     {
-      "id": "37403df8-2d23-8100-9de2-fd622ce35947",
-      "title": "奇瑞辟谣“高管与经销商肢体冲突”传闻：已报警，将依法追查到底",
-      "summary": "IT之家 6 月 3 日消息，奇瑞集团法务部今日发布声明，就近日网络上流传的“奇瑞公司高管与经销商发生争执甚至产生肢体冲突”的说法作出正式回应。奇瑞官方强调，相关内容纯属虚构和恶意造谣，呼吁公众不信谣、不传谣。奇瑞方面同时透露，法务部门已经展开谣言溯源工作，并向公安机关报案，将依法追查到底。奇瑞官方未就此事件披露更多具体细节，也未明确传闻所指的具体时间、地点及涉事人员。IT之家后续将保持关注。",
+      "id": "37403df8-2d23-817a-9650-cfa831f83564",
+      "title": "芝奇首款 AMD EXPO ULL 内存亮相：DDR5-6000 CL26 配主动散热模块，下半年上市",
+      "summary": "IT之家 6 月 3 日消息，据 TechPowerUp 今日报道，芝奇在 Computex 2026 上展示了其首款支持 AMD EXPO ULL（超低延迟）配置文件的 DDR5 6000 内存条。芝奇在现场展示了多款产品，第一套时序为 26-36-36-32 CR1，第二套时序为 28-36-36-32 CR1，第三套为 30-38-38-32 CR1。这些时序比 JEDEC 标准内存常见的 38-44-44 明显更低。据介绍，芝奇 DDR5-6000 CL26 套件采用了该品牌与酷冷至尊联合开发的主动散热解决方案。该散热模块足足有两个槽厚，因此主板需要在两个内存插槽之间至少留有一个插槽的",
       "source": "IT之家",
       "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/532.htm"
+      "link": "https://www.ithome.com/0/959/575.htm"
     },
     {
-      "id": "37403df8-2d23-81b5-8aa0-ce5f0c6e4d1e",
-      "title": "比亚迪入局人形机器人：若认为能走向家庭，就通过经销商网络开卖",
-      "summary": "IT之家 6 月 3 日消息，据第一财经，比亚迪集团执行副总裁李柯在一档访谈节目中明确表示：“比亚迪也在开发人形机器人。机器人的竞争在于谁有最强的制造能力、软件和硬件，而汽车相关 AI 能力与机器人有同源性，如果有一天我们认为机器人可以走向家庭，就可以通过经销商网络售卖比亚迪的机器人。”李柯提到，比亚迪可以做一个开放的平台，既可以是比亚迪自己做机器人，也可以是跟其他企业合作的机器人。接近比亚迪的人士 6 月 3 日（今天）透露，该公司确实已在研发人形机器人。综合IT之家此前报道，李柯还表示，从现在的机器人市场来看，中国的机器人就是缺一个大脑，那美国的机器人大脑很发达但四肢不发达，所以未来要实现",
+      "id": "37403df8-2d23-81cf-b751-e0cf49378f0b",
+      "title": "安克创新向港交所提交上市申请",
+      "summary": "IT之家 6 月 3 日消息，据港交所文件，6 月 3 日，安克创新科技股份有限公司向港交所提交上市申请书，联席保荐人为中金公司、高盛、摩根大通。据IT之家此前报道，安克创新 2026 年一季度净利润 4.72 亿元，同比下降 4.87%：营业总收入： 76.08 亿元，同比增长 26.93%归母净利润： 4.72 亿元，同比下降 4.87%扣非净利润： 5.47 亿元，同比增长 24.39%经营现金流： -4.51 亿元，上年同期为 -2.88 亿元基本每股收益：0.8796 元 / 股，同比 -5.71%稀释每股收益：0.8714 元 / 股，同比 -6.42%加权平均净资产收益率：4.3",
       "source": "IT之家",
       "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/531.htm"
+      "link": "https://www.ithome.com/0/959/574.htm"
     },
     {
-      "id": "37403df8-2d23-8106-b361-e67a5f4e4752",
-      "title": "How to Block Spam Calls and Spam Texts on iPhone and Android (2026)",
-      "summary": "Fight the scourge of unsolicited rings and pings from spammers, scammers, and telemarketers.",
+      "id": "37403df8-2d23-813d-90f7-c3f005af88c0",
+      "title": "谷歌 Pixel 11 全系机型官方壁纸抢先看",
+      "summary": "IT之家 6 月 3 日消息，Mystic Leaks 在 3 日（今天）晚间分享了一组属于谷歌 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 机型的壁纸。此前，Pixel 11 Pro Fold 的壁纸已在 4 月的早期版本安卓 17 系统中曝光。IT之家汇总如下：Pixel 11Pixel 11 ProPixel 11 Pro XLPixel 11 Pro Fold（目前曝光的仅有缩略图）今年早些时候，Mystic Leaks 爆料了谷歌 Pixel 11 系列的配置，Tensor G6 芯片被曝将采用 1+4+2 配置，使用更新的 ARM C1 核心、Pow",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/573.htm"
+    },
+    {
+      "id": "37403df8-2d23-817b-a68f-f6c6d1b9c642",
+      "title": "世界最大规模海上换流站抵达广东阳江海域，“海风之心”进入浮托安装阶段",
+      "summary": "IT之家 6 月 3 日消息，中国三峡集团今日宣布，世界最大规模海上换流站 ——“海风之心”历经 1090 海里的航行，今日抵达广东阳江海域，进入浮托安装阶段。据介绍，这座约 2.5 万吨“钢铁巨岛”将通过浮托安装的方式，与预先在海上安装固定的导管架完成毫米级精准对接，好似在海上完成高难度的“倒车入库”。IT之家查询获悉，“海风之心”换流站长 85.5 米、宽 82.5 米、高 44 米，平面面积相当于一个标准足球场，高度约等于 15 层居民楼，重达 25000 吨，是世界首个 ±500 千伏、2000 兆瓦柔性直流海上换流站。相关阅读：《世界最大规模海上换流站今日在江苏南通启运》",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/572.htm"
+    },
+    {
+      "id": "37403df8-2d23-81de-9fed-d42fb026b325",
+      "title": "不用苦等灰度：微信鸿蒙版 App 消息通知显示联系人头像功能隐藏开启方式曝光",
+      "summary": "IT之家 6 月 3 日消息，微信鸿蒙版 App 已在华为应用市场（App Gallery）开启 8.0.18.35（8393251）版本尝鲜升级（如果未抢到尝鲜版本，须等待官方“补货”）测试时间为 2026/6/2-2026/7/1。据用户反馈，微信鸿蒙版 App 正在灰度的功能之一 —— 消息通知显示联系人头像功能目前已重启灰度测试，陆陆续续有用户获得了体验资格。该功能支持用户设备在接收到微信消息通知时，除了显示好友名称或群聊名称外，还能同步显示对应联系人的头像。IT之家实测发现，用户将微信登录在 iOS 或者安卓端之后，可以前往设置 → 通知 → 通知显示内容，找到“显示头像”开关。开启",
+      "source": "IT之家",
+      "publishTime": "2026-06-03",
+      "link": "https://www.ithome.com/0/959/571.htm"
+    },
+    {
+      "id": "37403df8-2d23-8146-9050-d90a60372e4f",
+      "title": "Greg Bovino Was the Star at a European Remigration Conference",
+      "summary": "The man who headed Trump’s invasions of US cities joined the US and European far right in Portugal to preach “remigration”—a plan to expel all minorities and immigrants.",
       "source": "Wired",
       "publishTime": "2026-06-03",
-      "link": "https://www.wired.com/story/how-to-block-calls-and-spam-messages/"
+      "link": "https://www.wired.com/story/greg-bovino-was-the-star-at-a-european-remigration-conference/"
     },
     {
-      "id": "37403df8-2d23-81b8-bd5a-e4aa4b4b5650",
-      "title": "猫头鹰推出旗下首款 AIO 水冷散热器：240mm 起价 219.9 欧元，最高提供 420mm 版本可选",
-      "summary": "IT之家 6 月 3 日消息，据 Wccftech 等多个媒体报道，猫头鹰（Noctua）在 Computex 2026 上正式推出了其首款一体式水冷散热器，同时展示了下一代风冷散热器、工作站散热器，以及多款联名产品。猫头鹰 NL-LC1 系列 AIO 水冷将于 6 月 16 日在欧洲上市，提供 240mm、360mm 和 420mm 三种规格，定价分别为 219.90 欧元（IT之家注：现汇率约合 1733 元人民币）、249.90 欧元（现汇率约合 1969 元人民币）和 279.90 欧元（现汇率约合 2206 元人民币）。该系列水冷采用 Asetek Emma V2 平台，配备猫头鹰自",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/530.htm"
-    },
-    {
-      "id": "37403df8-2d23-81f8-a188-ee0343a6597d",
-      "title": "阅文集团约 4 亿元增持艺画开天 28.22% 股权，持股比例将升至 59.7%",
-      "summary": "IT之家 6 月 3 日消息，阅文集团于 6 月 2 日晚在港交所发布关联交易公告，拟以约人民币 4 亿元战略投资艺画开天 28.22% 股权。公告发布时，阅文集团持有艺画开天约 31.48% 股权；交易完成后，持股比例将升至 59.7%。IT之家注：艺画开天成立于 2015 年，主营动画及游戏内容开发与运营，持有核心 IP《灵笼》。公告指出，艺画开天与阅文在 IP 价值链中具备垂直互补能力。阅文拥有海量网络文学 IP 及成熟 IP 运营经验，产业链覆盖网络文学、漫画、动画、电视剧、网剧、电影、网络游戏、短剧、AI 漫画及 IP 衍生品等领域。艺画开天凭借长篇动画制作专长，帮助阅文提升精品动画",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/529.htm"
-    },
-    {
-      "id": "37403df8-2d23-8119-b28a-ccc8623fe14b",
-      "title": "豆包：计划针对专业人群生产力需求推出豆包专业版，基础功能保持免费",
-      "summary": "IT之家 6 月 3 日消息，3 日（今天）傍晚，豆包通过官方公众号发布《关于豆包即将推出专业版的说明》。IT之家附上声明原文如下：一、针对专业人群的生产力需求，豆包计划推出豆包专业版，将包含软件开发、数据分析、专业设计、流程自动化、金融分析、科学研究等专业服务。二、对于广大用户日常使用的豆包功能，包含搜索问答、写作生图、以及语音和视频对话等，我们将保持目前的免费服务，保证用户使用体验和习惯不受影响。我们也会不断为免费用户提供新的模型、能力和更好的体验。专业版的服务，也将在一定额度内免费。三、豆包专业版目前还在测试阶段，正式上线时，我们会通过官方渠道发布完整信息。四、我们观察到，近期有大量同 ",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/528.htm"
-    },
-    {
-      "id": "37403df8-2d23-8168-9b15-c0ceafca75cb",
-      "title": "France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC",
-      "summary": "French President Emmanuel Macron has looked to win over tech bosses amid hopes to boost AI capability.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html"
-    },
-    {
-      "id": "37403df8-2d23-8123-923c-df3ab61dc5ce",
-      "title": "我国平陆运河今日全线通水：“世纪工程”创下多项世界第一，可通航 5000 吨级船舶",
-      "summary": "IT之家 6 月 3 日消息，据央视新闻报道，6 月 3 日上午，随着平陆运河马道枢纽和企石枢纽开始充水，标志着平陆运河全线通水，全面进入有水调试阶段。据介绍，平陆运河全长 134.2 公里，是西部陆海新通道骨干工程，也是新中国成立以来我国第一条国家层面统筹的通江达海的运河工程，北起广西横州市平塘江口，经灵山县陆屋镇、沿钦江进入北部湾，将于今年 9 月通航。IT之家查询获悉，平陆运河把西江干流和北部湾直接连在了一起，让西南地区的船更便捷驶向大海。运河起点到终点的水位落差 65 米，为了克服水位落差，保障船舶通行，工程建设了马道、企石、青年三大梯级枢纽。其中，马道枢纽创下两大纪录：它是水位落差最",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/527.htm"
-    },
-    {
-      "id": "37403df8-2d23-8195-98d8-fe62e0c68680",
-      "title": "I started my company when I had stage 4 lung cancer. Now, my 3 adult kids are involved, and we made $21m last year.",
-      "summary": "Lee Rhodes started her company, Glassybaby, as a mom of three with stage 4 lung cancer. Her kids are now all adults and involved in the business.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/mom-started-company-while-battling-stage-4-lung-cancer-2026-6"
-    },
-    {
-      "id": "37403df8-2d23-8126-968b-de9fd503c614",
-      "title": "TrendForce：DRAM 内存产业 2026Q1 营收环比增长 81%",
-      "summary": "IT之家 6 月 3 日消息，TrendForce（集邦咨询）本月 1 日指出，DRAM 内存产业的整体营收在 2026Q1 环比实现 81.0% 的巨幅增长，总额来到 970 亿美元（IT之家注：现汇率约合 6575.21 亿元人民币）。随着 AI 应用由 LLM 训练逐步转至 AI 推理，云服务供应商正开始加速建设通用型服务器，各容量规格的 RDIMM 产品均迎来强劲需求。产能挤占效应导致一般型 DRAM 合约价格加速上涨，单季度几乎实现翻倍 (+93~98%)。图源：Pexels对于 2026Q2 市场，机构表示由于 DRAM 原厂库存见底而服务器端需求旺盛，导致一般型 DRAM 出货增",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/525.htm"
-    },
-    {
-      "id": "37403df8-2d23-815b-b3b4-f72b8c4fe574",
-      "title": "我国火箭推进剂贮箱箱底实现量产：制造周期缩短 90% 以上，首创超低温成形技术",
-      "summary": "IT之家 6 月 3 日消息，据央视新闻今日报道，大连理工大学机械学院高性能精密成形团队，基于国际首创的“超低温成形技术”，成功实现了直径超 2 米的光板整体推进剂贮箱箱底的量产，将制造周期缩短了 90% 以上，有望为商业航天的高频次发射降本增效。这个直径超 2 米、厚度只有 4 毫米、外表光滑、形似“大锅盖”的金属构件，就是刚刚量产下线的新型火箭推进剂贮箱箱底。这样一块薄薄的材料，却要在火箭发射时巨大的振动和冲击下，稳定承受住几百吨燃料的压力，其难度就好像要用一张纸压住一口高压锅，对工艺要求极高。IT之家获悉，过去几十年，行业内采用的加工方式，或者焊缝多、可靠性差，或者材料浪费多、加工周期长",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/524.htm"
-    },
-    {
-      "id": "37403df8-2d23-812e-8977-dd6bfab3939e",
-      "title": "黄仁勋喊话亿万富豪家族：AI 投资或带来“疯狂”回报，“疯子”才会质疑",
-      "summary": "IT之家 6 月 3 日消息，据彭博社 3 日（今天）下午报道，英伟达 CEO 黄仁勋喊话，押注 AI 热潮的投资者有望获得“疯狂”回报，旨在回应外界对 AI 巨额投入和长期盈利能力的疑虑。2 日晚，黄仁勋在一场闭门活动上面对数百名金融机构和富裕家族办公室代表发表讲话：AI 已经创造出数万亿美元价值，质疑 AI 回报的人才是“疯狂”的人。“就在过去六个月，ROI（IT之家注：投资回报率）已经被完全重置。现在 AI 的盈利能力高得离谱。”黄仁勋发表这番言论之际，围绕 AI 投资是否正在形成泡沫的争论仍在持续。全球投资者不断涌入 AI 赛道，但也有人认为市场估值涨幅前所未有，并质疑在数万亿美元投入",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/523.htm"
-    },
-    {
-      "id": "37403df8-2d23-81c4-9357-d5a0cce23128",
-      "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
-      "summary": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
-      "source": "Wired",
-      "publishTime": "2026-06-03",
-      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/"
-    },
-    {
-      "id": "37403df8-2d23-81a1-ab47-fc85ecde5dc8",
-      "title": "Trans teens have something to say",
-      "summary": "By the time the Children's Hospital closed its doors to trans patients, Sage had already stopped taking testosterone. A nonbinary high school student, they originally received treatment for the rapid onset of puberty. The changes their body experienced felt frightening and sudden. They developed PMO",
+      "id": "37403df8-2d23-8173-a598-d6e1f84b3307",
+      "title": "Supernatural isn’t dead after all",
+      "summary": "A few months ago, Meta effectively handed Supernatural, a popular VR fitness game on the Meta Quest, a death sentence. As part of overarching VR layoffs, the company announced the game would no longer get any new content, enraging its tightly knit, devoted community. Now it looks like Supernatural i",
       "source": "The Verge",
       "publishTime": "2026-06-03",
-      "link": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing"
+      "link": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr"
     },
     {
-      "id": "37403df8-2d23-813e-8b3f-d6bf5638baa0",
-      "title": "AMD EXPO ULL 超低延迟内存条定价预计持平现有产品，DDR5-6000 游戏性能最高提升 13-15%",
-      "summary": "IT之家 6 月 3 日消息，在 2026 台北国际电脑展期间，AMD 公布了全新的 EXPO Ultra Low Latency（简称 EXPO ULL）内存技术，并表示该技术将由多家内存合作伙伴提供支持。AMD 副总裁兼 Ryzen 与 Radeon 事业部总经理 David McAfee 在接受 Tom's Hardware 采访时披露了更多关于 EXPO ULL 的细节。据 McAfee 介绍，EXPO ULL 实质上是在 SPD 配置文件中加入更多子时序 / 副时序（sub timings）进行调校，从而进一步降低延迟、获得额外性能提升。该技术可兼容现有芯片组和主板。他表示，EXPO",
+      "id": "37403df8-2d23-8100-ab45-f5c3f6ea6b2b",
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-03",
+      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/"
+    },
+    {
+      "id": "37403df8-2d23-8122-a9e7-cd4375cde7b8",
+      "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
+      "summary": "The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-03",
+      "link": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/"
+    },
+    {
+      "id": "37403df8-2d23-81ee-93e2-f16884e1d7bb",
+      "title": "谷歌：Gemini App 月活超 9 亿同比翻倍，是其增长最快的产品之一",
+      "summary": "IT之家 6 月 3 日消息，谷歌母公司 Alphabet 于当地时间 6 月 3 日公布了 6 月投资者演示文稿。该公司透露，Gemini App 是其增长最快的产品之一，月活跃用户数超过 9 亿，在一年内翻了一倍多。谷歌表示，Gemini 已为该公司所拥有的 13 款超 10 亿用户产品提供支持，其中包括 5 款用户量超过 30 亿的产品（谷歌搜索、Gmail 邮箱、Android 系统、Chrome 浏览器、YouTube）。此外，谷歌搜索的 AI Overviews（AI 概览）功能月活跃用户数量已超过 25 亿，谷歌称这意味着谷歌搜索向全球更多的人提供了 AI，超过了世界上任何其他产",
       "source": "IT之家",
       "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/522.htm"
+      "link": "https://www.ithome.com/0/959/569.htm"
     },
     {
-      "id": "37403df8-2d23-8154-b0b8-d3c90a1a5deb",
-      "title": "苹果同意在印度反垄断案中提交印度本地财务数据",
-      "summary": "IT之家 6 月 3 日消息，据路透社今日报道，一份印度竞争委员会（CCI）非公开裁定文书显示，苹果公司在上个月同意提供其在印度的财务数据 —— 这通常是监管机构计算罚款时所必需的。文书记载，在 5 月 21 日的听证会上，苹果公司的律师向 CCI 申请将提交“印度特定财务信息”的期限“最终延长”至 6 月 25 日，CCI 审议后批准了该项延期申请。印度竞争委员会曾在 2024 年出具调查结论：苹果公司在 iPhone 应用市场（即 App Store）滥用支配地位。苹果公司否认有不当行为，并表示将对调查结果提出质疑。苹果公司此前还拒绝提供其财务细节。长期以来，苹果一直主张应暂停审理此案，因",
+      "id": "37403df8-2d23-81bc-a90b-d225d850d89a",
+      "title": "联想推出 2199 元昭阳 K13 平板电脑：13 英寸 3.5K 护眼屏，高通骁龙 8s Gen4",
+      "summary": "IT之家 6 月 3 日消息，联想昭阳 K13 平板电脑已上架京东并开放预约，将于 6 月 8 日开售：8+128GB 版本 2199 元，叠加国补后 1869.2 元8+256GB 版本 2499 元，叠加国补后 2124.2 元12+256GB 版本 2899 元，叠加国补后 2464.2 元京东联想 (Lenovo) 昭阳 K13 平板电脑 8+128GB 灰 13 英寸 3.5K 超清护眼大屏 骁龙 8s Gen42199 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8",
       "source": "IT之家",
       "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/521.htm"
+      "link": "https://www.ithome.com/0/959/570.htm"
     },
     {
-      "id": "37403df8-2d23-810c-a721-e6c2a9778d73",
-      "title": "撼与双显卡雷电 5 扩展坞亮相，内置超千瓦 ATX 3.1 电源",
-      "summary": "IT之家 6 月 3 日消息，SPARKLE（撼与）在 COMPUTEX 2026 上展出了多款产品，而其中一款名为 eGPU Studio-G Dual 的设备吸引了IT之家的注意：仔细观察展板上的小字可以发现，其拥有 2 条 PCIe 插槽，可安装两块显卡，摆脱了传统外置显卡坞仅能容纳单一显卡的限制。此外其支持雷电 5 连接，内置 1X50W（可能是 1850W 或 1650W）ATX 3.1 电源。其旁边的 eGPU Studio-G Ultra 850 此前已有过展出。该型号同样支持雷电 5 规范，配备 850W 电源，可容纳四槽三风扇的大型显卡。面向内容创作者，撼与还展出了 eGPU",
-      "source": "IT之家",
+      "id": "37403df8-2d23-81e5-a4c6-c67408a68d2d",
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+      "source": "TechCrunch",
       "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/518.htm"
-    },
-    {
-      "id": "37403df8-2d23-81c4-9a00-ea6c82080c1e",
-      "title": "抢先 Pixel 8/Pro 一步？谷歌 Pixel 8a 等机型现已支持苹果隔空投送",
-      "summary": "IT之家 6 月 3 日消息，据外媒 Android Authority 今晚报道，谷歌 Quick Share 目前已支持与苹果隔空投送互通，让安卓手机能够和 iPhone、iPad、Mac 无缝传文件。IT之家从报道中获悉，目前，谷歌已经让以下 Pixel 机型的 Quick Share 支持隔空投送互通：Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL、Pixel 10 Pro Fold、Pixel 10aPixel 9、Pixel 9 Pro、Pixel 9 Pro XL、Pixel 9 Pro Fold、Pixel 9aPixel 8a也就是说，定位更低的 ",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/519.htm"
-    },
-    {
-      "id": "37403df8-2d23-8167-bac7-c6584f23477b",
-      "title": "时代的眼泪：11 年前 29.7 万元天价手机如今成摆设，机主称当年如果买黄金起码翻五倍",
-      "summary": "IT之家 6 月 3 日消息，北京网友 @赫兢棘 昨日发布视频，分享了自己 11 年前花费 29.7 万元买下的 VERTU（纬图）奢侈手机。他在视频简介里提到，这款手机现在用不了了，已成摆设。机主表示：“当年这 29 万 7 买成黄金，翻五倍。”值得一提的是，他还在视频中晒出了手机配套的保护套，称当年花费了 4 万元单独购入。IT之家查询获悉，该网友晒出的是手机应该是 VERTU Signature 镶钻顶配版，2014 年 11 月全球发布，2015 年国内专柜上市，整机由英国工匠纯手工打造，蓝宝石屏幕、红宝石轴承按键搭配天然贝母镶钻机身，自带全年 24 小时私人管家服务。遗憾的是，该机仅",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/520.htm"
-    },
-    {
-      "id": "37403df8-2d23-818a-960c-e0e619f7ae13",
-      "title": "Meta workers can opt out of being tracked at work - but only for half an hour at a time",
-      "summary": "According to an internal memo, new controls will allow employees to pause the data collection for \"up to 30 minutes at a time\".",
-      "source": "BBC Tech",
-      "publishTime": "2026-06-03",
-      "link": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "37403df8-2d23-81f4-953e-f6dc85bffabd",
-      "title": "I lecture at Stanford and interview for an AI firm. I want candidates to have one key quality.",
-      "summary": "A Stanford lecturer and a chief product officer who worked at Airbnb and WeWork wants interview candidates to prove they are builders.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-03",
-      "link": "https://www.businessinsider.com/break-into-tech-computer-science-degree-ai-2026-6"
-    },
-    {
-      "id": "37403df8-2d23-8114-9b17-f70395462b8d",
-      "title": "A Crash Course in Mountain Bike Suspension (2026)",
-      "summary": "How your front fork and rear shock work, so you can hurt less and have more fun.",
-      "source": "Wired",
-      "publishTime": "2026-06-03",
-      "link": "https://www.wired.com/story/what-is-bike-suspension/"
-    },
-    {
-      "id": "37403df8-2d23-81ba-923f-fefdbc3794a4",
-      "title": "中兴与腾讯达成合作，将发布搭载混元大模型的 WorkBuddy AI 云电脑",
-      "summary": "IT之家 6 月 3 日消息，在今天的 AI 云电脑体验日活动中，中兴通讯透露，公司已与腾讯达成深度战略合作，将推出搭载腾讯原生 WorkBuddy 的 AI 云电脑。该产品将融合腾讯云的算力和混元大模型的能力，定位为面向学生、职场人士、小微团队的新一代生产力工具。该活动中，中兴通讯副总裁华新海表示，当前我国家庭电脑拥有率为 67.5%，但 20% 设备长期闲置。云电脑作为共享经济在算力领域的应用，实现了从“拥有设备”到“享受服务”的转变。据IT之家了解，2025 年，中兴云电脑终端销量突破 200 万台，连续两年蝉联中国云终端市场冠军。",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/517.htm"
-    },
-    {
-      "id": "37403df8-2d23-812a-a732-d871f915b52b",
-      "title": "真我 realme P4R 5G 参数公布：8000mAh 电池、天玑 6300，海外 6 月 10 日发布",
-      "summary": "IT之家 6 月 3 日消息，真我即将于 6 月 10 日在海外发布 realme P4R 5G 手机，目前官网已经公布了新机的部分参数。这台新机有银色、钛色、薰衣草色三种颜色可选，摄像头 deco 部分有一个环状灯条装饰，支持个性化设置。IT之家整理汇总新机参数如下：联发科天玑 6300 处理器，5300mm² VC 均热板8000mAh 容量电池，支持 45W 快充后置双摄，其中主摄 5000 万像素支持 144Hz 刷新率，峰值亮度 1200nits，据 smartprix 报道称搭载 6.8 英寸 720P HD+ LCD 面板厚 8.8mmIP65 级防尘防水realmeUI 7.0",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/516.htm"
-    },
-    {
-      "id": "37403df8-2d23-8107-a641-cdcf0718aa55",
-      "title": "罗素兄弟：《复仇者联盟 4：终局之战》就是我们原定的结局，《毁灭之日》《秘密战争》将收尾 MCU 当前参与",
-      "summary": "IT之家 6 月 3 日消息，罗素兄弟导演在伦敦西南偏南电影节上接受 Deadline 采访时明确表示，《复仇者联盟 5：毁灭之日》与《复仇者联盟 6：秘密战争》后没有传闻中的第三部曲，这两部作品已经是故事的“完整表达”。安东尼 · 罗素表示，《秘密战争》将为他们目前在漫威电影宇宙（MCU）中的参与画上句号。据介绍，随着《毁灭之日》的上映，漫威电影宇宙将“回归零阶段”，而非“依赖过去的内容”。《毁灭之日》将于今年 12 月上映，《秘密战争》暂定于 2027 年 12 月上映。此前，粉丝曾猜测《秘密战争》可能会被拆分为两部，从而形成新的复联三部曲。漫威也曾考虑过这一想法，粉丝同样认为这两部电影需",
-      "source": "IT之家",
-      "publishTime": "2026-06-03",
-      "link": "https://www.ithome.com/0/959/515.htm"
+      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/"
     }
   ],
   "macroEvents": [
