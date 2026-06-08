@@ -1,6 +1,190 @@
 {
-  "updatedAt": "2026-06-09 06:09",
+  "updatedAt": "2026-06-09 07:45",
   "news": [
+    {
+      "id": "37903df8-2d23-8132-aba5-f6b2db064f21",
+      "title": "Could humanoid robots be heading for the battlefield?",
+      "summary": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
+      "source": "BBC Tech",
+      "publishTime": "2026-06-09",
+      "link": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "37903df8-2d23-8178-acfa-d7c3e41226b2",
+      "title": "Meta 智能眼镜暗藏人脸识别代码，曝光仅一天后被紧急移除",
+      "summary": "IT之家 6 月 9 日消息，据《连线》杂志报道，就在有人在 Meta 智能眼镜配套应用中发现一段疑似人脸识别算法的休眠代码仅一天后，Meta 便推送更新移除了这段代码。该媒体在核查一款负责智能眼镜部分核心功能的 Meta 人工智能应用代码时，首次发现了这段可疑代码。Meta 内部将其命名为“姓名标签”。简单来说，这款用于通过蓝牙将智能眼镜与手机配对的必备应用，原本还具备一项功能：用户佩戴眼镜时，自动采集沿途所有人的面部影像。IT之家注意到，《连线》于 6 月 4 日发现了这款处于休眠状态的工具。其内置算法可将人脸照片转化为存储在设备本地的生物特征标识，并会对每一次新的面部扫描信息进行交叉比对",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/724.htm"
+    },
+    {
+      "id": "37903df8-2d23-8144-995c-c477501f5b15",
+      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+      "summary": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
+      "source": "BBC Tech",
+      "publishTime": "2026-06-09",
+      "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "37903df8-2d23-816d-a5d1-c0cf05e1e374",
+      "title": "三星电子全永铉：正与英伟达商讨下一代 Groq LPU 合作事宜",
+      "summary": "IT之家 6 月 9 日消息，据韩媒 Sedaily 消息，三星电子副董事长兼 CEO、设备解决方案部（半导体业务）负责人全永铉昨日在与 NVIDIA（英伟达）联合创始人、总裁兼首席执行官黄仁勋会面后的记者采访中提到，两家企业正就下代 Groq LPU 系列 AI 加速器芯片上的合作进行商讨。IT之家注意到，三星晶圆代工是 NVIDIA 在 4nm 的 Groq 3 (LP30) LPU 芯片上的合同制造合作伙伴。NVIDIA 后续还规划了 Rubin 世代晚些时候的 LP35 LPU 和 Feyman 世代的 LP40 LPU。台积电董事长兼总裁魏哲家此前在今年 4 月表示，台积电“正在与我",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/723.htm"
+    },
+    {
+      "id": "37903df8-2d23-811a-bd43-f43a186aad37",
+      "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
+      "summary": "IT之家 6 月 9 日消息，自 OpenAI 推出聊天机器人 ChatGPT、将人工智能带入大众视野至今已有三年半。该公司首席执行官兼联合创始人山姆 · 奥尔特曼表示，企业如今已迈入第三发展阶段：让人工智能普及化、易用化且安全可靠。IT之家注意到，当地时间本周一，奥尔特曼与 OpenAI 首席科学家雅各布 · 帕霍茨基联合发布博客文章，阐述公司未来发展规划。二人称，OpenAI 第一阶段聚焦通用人工智能的技术研发；第二阶段则面向全球推出产品，并研究用户的实际使用场景。他们在文中写道：“如今我们正式进入第三阶段。经济格局正围绕人工智能迎来重塑。当下的核心问题是，如何让先进人工智能技术变得供给充",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/721.htm"
+    },
+    {
+      "id": "37903df8-2d23-81b5-b58f-f94d5768290f",
+      "title": "苹果 WWDC26 主题演讲一文汇总：iOS 27 等新系统发布、Siri AI 登场，库克迎来生涯“最后一舞”",
+      "summary": "Good morning！又是一年 WWDC，但这应当是咱们最后一次看到蒂姆 · 库克在发布会中发来早安问候了。就在今天（北京时间 6 月 9 日）凌晨 1 点，苹果 WWDC26 全球开发者大会主题演讲如期而至，这是库克作为主讲人的“最后一舞”。苹果此前已经官宣，自今年 9 月 1 日起，库克将出任苹果董事会执行董事长，CEO 的位置由约翰 · 特努斯接任。既然是 WWDC，那重头戏自然是操作系统，iOS、iPadOS、watchOS、tvOS、visionOS、macOS 新一代版本迎来发布。根据克雷格 · 费德里吉的介绍，苹果今年将新系统的重点放在了三方面：提升了各个平台的响应速度，强化",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/722.htm"
+    },
+    {
+      "id": "37903df8-2d23-810a-9b80-eda21b1f8046",
+      "title": "苹果 iOS 27 引入 4×6 超大号小组件",
+      "summary": "IT之家 6 月 9 日消息，科技媒体 9to5Mac 今天（6 月 9 日）发布博文，报道称在 iOS 27 系统中，苹果公司在引入 Siri AI、搜索改进外，还加入“超大号小组件”。IT之家注：在 iPhone 17 等机型上，苹果 iOS 小组件提供 3 钟尺寸：小号为 2×2、中号为 4×2、大号为 4×4。而在 iOS 27 系统中，苹果引入了 4×6 的超大号小组件，在主屏幕与今日视图上扩展显示面积，针对天气、日程、提醒、新闻摘要或数据看板这类信息型应用，提高读取效率。不过，现阶段支持范围还比较有限。报道提到，当前只有少数苹果原生小组件已支持超大号尺寸，第三方应用仍需等待开发者后",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/720.htm"
+    },
+    {
+      "id": "37903df8-2d23-817f-bf03-d6fe3ee9e9cb",
+      "title": "首期聚焦 Intel 14A：Cadence 扩大与英特尔代工 DTCO 合作",
+      "summary": "IT之家 6 月 9 日消息，Cadence（楷登）美国当地时间 8 日宣布扩大与英特尔代工的合作，从 Intel 14A 开始推进针对英特尔先进制程的 DTCO（IT之家注：设计技术协同优化），同时面向 HPC 和移动端低功耗设计。Cadence 表示，DTCO 合作的重点在于优化工具、流程、方法论，以实现业界领先的 PPA（IT之家注：性能、功耗、面积）。双方将紧密合作，优化 Intel 14A 工艺以提供可投入量产的 PDK。此次合作还将利用 Cadence 的代理式 AI 流程和核心产品，以加快产品上市速度并降低设计风险。Cadence 总裁兼首席执行官 Anirudh Devgan ",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/719.htm"
+    },
+    {
+      "id": "37903df8-2d23-81d8-9076-d636d63c8a7f",
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "summary": "Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-09",
+      "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
+    },
+    {
+      "id": "37903df8-2d23-8177-96d0-f1c59c456529",
+      "title": "苹果回应“套壳 Gemini”猜测：iOS 27 版 Siri AI AFM 自研打造",
+      "summary": "IT之家 6 月 9 日消息，科技媒体 Appleinsider 今天（6 月 9 日）发布博文，报道称在 2026 年全球开发者大会（WWDC）主题演讲结束后，几位苹果高管接受媒体采访，强调 Apple Foundation Models 模型并非“Gemini 套壳”，而是完全自主控制。苹果公司表示 Apple Foundation Models 模型虽借助 Google Gemini 技术蒸馏与训练，但最终交付的是完全由苹果代码、苹果技术和苹果数据体系构成的模型，并非 Gemini 的“套壳版”。IT之家援引博文介绍，苹果表示 Apple Foundation Models 体系目前包括",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/718.htm"
+    },
+    {
+      "id": "37903df8-2d23-81b9-a870-d15030895525",
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-09",
+      "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/"
+    },
+    {
+      "id": "37903df8-2d23-8194-8f70-fe5f8ec19cf0",
+      "title": "Read Sam Altman's plan for OpenAI as it enters its 'third phase'",
+      "summary": "OpenAI's Sam Altman outlines AI's third phase, focusing on abundance, safety, and global collaboration as the company plans an IPO.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-09",
+      "link": "https://www.businessinsider.com/sam-altman-openai-third-phase-plan-2026-6"
+    },
+    {
+      "id": "37903df8-2d23-8157-a7d1-dd2179c44a89",
+      "title": "苹果 macOS 27 提升超宽屏显示器体验，支持 5K 120Hz 等分辨率",
+      "summary": "IT之家 6 月 9 日消息，科技媒体 Appleinsider 今天（6 月 9 日）发布博文，报道称在 2026 年全球开发者大会（WWDC）上，苹果确认 macOS 27 将填补超宽屏体验短板。根据苹果官方 macOS 27 页面描述，苹果新 Mac 系统支持超宽屏显示，用户可以在超宽显示器上，实现 5K 120Hz 等更高分辨率。IT之家附上相关截图如下：苹果 macOS 过去几年已经能基础支持超宽屏，但 macOS 27 是首个将其明确宣传为独立特性的版本。这意味着部分外接显示器在 macOS 27 下有望获得更完整的高分辨率与高刷新率输出。另一个值得关注是显示器布局记忆。用户断开外",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/717.htm"
+    },
+    {
+      "id": "37903df8-2d23-8153-bb6a-fd24de296395",
+      "title": "Jim Cramer warns key pillars of the bull market are beginning to crumble",
+      "summary": "CNBC's Jim Cramer said that he's becoming more cautious on stocks after several pillars of his bullish outlook have come under pressure.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-09",
+      "link": "https://www.cnbc.com/2026/06/08/jim-cramer-key-pillars-of-bull-market-beginning-to-crumble.html"
+    },
+    {
+      "id": "37903df8-2d23-8168-94e9-dbe7f849536d",
+      "title": "苹果 iOS 27 悄悄更新中文输入法：标点建议和联想词更准确，找生僻字更方便",
+      "summary": "IT之家 6 月 9 日消息，苹果今日正式公布了 iOS 27 系统更新，除了发布会上提到的重要内容，还包括一系列细节改进。根据爱否科技晒出的功能细节图，以及网友的使用体验，iOS 27 悄悄更新优化了中文输入法，带来中文标点建议，根据上下文联想词语的准确度也得到了提升，比如输入左半边的括号可以自动生成右半边括号。此外，iOS 27 的输入法优化了汉字拆字逻辑，用户可以通过输入两个部分的拼音，来查找一个生僻字。比如“珲”字就可以通过输入“wang jun”来查找到。IT之家小伙伴也可以体验一下。",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/716.htm"
+    },
+    {
+      "id": "37903df8-2d23-819a-b7f8-c58663d7d7c0",
+      "title": "Apple is using AI to fix Safari’s extension problem",
+      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a dem",
+      "source": "The Verge",
+      "publishTime": "2026-06-09",
+      "link": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions"
+    },
+    {
+      "id": "37903df8-2d23-813a-a99a-d585aec71bd6",
+      "title": "iOS 27 首个代码证据曝光，苹果已开始系统适配其首款折叠 iPhone",
+      "summary": "IT之家 6 月 9 日消息，消息源 @samhenrigold 今天（6 月 9 日）挖掘 iOS 27 Beta 1 更新代码，发现了 foldState 和 angleDegrees 两个字符串，9to5Mac 等多家海外媒体据此判断苹果首款折叠 iPhone 已进入系统适配阶段。IT之家援引博文介绍，从字面意思推断，foldState 字符串表示开合状态，而 angleDegrees 代表折叠角度的参数，以及与当前硬件屏幕数量相关的引用。多家海外媒体指出，关于苹果首款折叠 iPhone（上市后可能名为 iPhone Ultra），此前多停留在爆料、专利文件以及工程样机方面，而现在 iO",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/715.htm"
+    },
+    {
+      "id": "37903df8-2d23-8113-a18b-ff90fa7adfd2",
+      "title": "8 big takeaways from Apple's WWDC 2026 event",
+      "summary": "Apple previewed its next generation of software at WWDC 2026. It includes an AI-powered Siri, new photo tools, and heftier parental controls.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-09",
+      "link": "https://www.businessinsider.com/apple-wwdc-ios-27-announcements-iphone-photos-parental-controls-2026-6"
+    },
+    {
+      "id": "37903df8-2d23-813f-9161-ddefc20b0924",
+      "title": "Where was tvOS 27 at WWDC?",
+      "summary": "Every year, Apple's Worldwide Developers Conference gives us a first look at what's coming next to the company's many operating systems. But missing from today's keynote, apart from a single graphic listing all current Apple OSes next to a big \"27,\" was any mention of tvOS. The whole structure of th",
+      "source": "The Verge",
+      "publishTime": "2026-06-09",
+      "link": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc"
+    },
+    {
+      "id": "37903df8-2d23-81ca-9272-efcbdecbb317",
+      "title": "OpenAI 已提交 S-1 草案，释放潜在 IPO 上市信号",
+      "summary": "IT之家 6 月 9 日消息，OpenAI 公司今天（6 月 9 日）发布博文，宣布已经向美国证券交易委员会递交保密版 S-1 注册草案，为未来上市预留通道。IT之家注：S-1 是企业向美国证券交易委员会提交的注册声明文件，常见于首次公开募股前。S-1 文件通常包含公司业务、风险、财务与发行相关信息，提交 S-1 不等于马上上市，但说明企业已为进入公开资本市场做准备。OpenAI 在博文中坦言，公司提交的这份 S-1 文件迟早会泄露，因此不如大大方方地主动发布消息。在时间安排上，OpenAI 强调尚未作出上市决定，而且“可能还要一段时间”。IT之家曾于 6 月 2 日报道，OpenAI 的竞争",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/714.htm"
+    },
+    {
+      "id": "37903df8-2d23-81ba-b09c-f0030ba59bdd",
+      "title": "Apple’s new parental controls are for keeping Apple out of trouble",
+      "summary": "When Apple put child safety front and center at WWDC on Monday, its stated goal was helping parents fine-tune their kids' online experiences and avoid excessive screen time. But amid a global debate over internet regulation, its latest updates also looked like a defensive move in a brewing fight aga",
+      "source": "The Verge",
+      "publishTime": "2026-06-09",
+      "link": "https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc"
+    },
+    {
+      "id": "37903df8-2d23-81ef-85c9-c55ce1139adb",
+      "title": "苹果 iOS 27 大改 Genmoji 自定义表情功能，可微调描述语言",
+      "summary": "IT之家 6 月 9 日消息，苹果今日正式公布了 iOS 27 系统更新，除了发布会上提到的重要内容，还包括一系列细节改进。比如，iOS 27 包含了全新改造的 Genmoji 自定义表情体验。界面更新后，Genmoji 可以根据用户的描述来创建表情符号，可以从现有表情改造，或者从照片中选择图片、选择人物。上传图片或使用文本短语创建 Genmoji 后，现在有一个“描述变更”界面，用于微调已创建的表情包。用户可以不断迭代设计，修改 Genmoji 的具体元素，调整颜色和物体。IT之家注意到，这个功能有点像大家常用的 AI 修图，用户可以垫一张底图，然后每次更改都基于旧的图片实现。通过一系列请求",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/713.htm"
+    },
+    {
+      "id": "37903df8-2d23-815c-84b4-cf9fc0c23cef",
+      "title": "苹果 iOS 27 升级钱包应用：支持 AI 导入票证",
+      "summary": "IT之家 6 月 9 日消息，科技媒体 9to5Mac 今天（6 月 9 日）发布博文，报道称在 iOS 27 系统中，苹果升级钱包（Apple Wallet）应用，引入创建票证和用 Apple Cash 分摊账单功能。创建票证方面，用户在 iOS 27 的 Wallet 应用内点击“＋”按钮后，可以通过以下 2 种方式创建：通过 iPhone 相机扫描实体票证，再借助视觉智能导入；手动从零创建数字票证。其中苹果提供了 3 种类型，分别是标准、会员和活动。另一个功能就是“用 Apple Cash 分摊账单”，用户在相机应用的新 Siri 模式中扫描收据后，系统会提供分摊账单选项。在打开 Wal",
+      "source": "IT之家",
+      "publishTime": "2026-06-09",
+      "link": "https://www.ithome.com/0/961/712.htm"
+    },
     {
       "id": "37903df8-2d23-81b8-a708-cce8ae451ef8",
       "title": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
@@ -138,6 +322,14 @@
       "link": "https://www.ithome.com/0/961/706.htm"
     },
     {
+      "id": "37903df8-2d23-810a-a41a-fd76873b128d",
+      "title": "一图流 | Apple WWDC26 开幕式回顾",
+      "summary": "WWDC26 开幕式一图流来啦。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-06-09",
+      "link": "https://sspai.com/post/110887"
+    },
+    {
       "id": "37903df8-2d23-81ab-a1bd-e7b043421478",
       "title": "I'm superyacht Captain Sandy Yawn. My life at sea involves croissants, daily meditations, and filming 'Below Deck Mediterranean.'",
       "summary": "\"Below Deck Mediterranean\" Captain Sandy Yawn talks about her routine filming season 11, and how she leads her crew.",
@@ -170,6 +362,14 @@
       "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/"
     },
     {
+      "id": "37903df8-2d23-81c0-a4c3-c69494b8e016",
+      "title": "Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾",
+      "summary": "Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-06-09",
+      "link": "https://sspai.com/post/110888"
+    },
+    {
       "id": "37903df8-2d23-819b-901e-cc865966ee3b",
       "title": "苹果升级 iOS 27 版信息 / 电话：AI 理解用户操作意图，回复贴合用户风格",
       "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果向通信场景，为信息（Messages）和电话（Phone）应用整合 Apple Intelligence 功能。在信息应用中，新功能会根据聊天内容给出建议。若联系人索要照片，系统可直接提示搜索图库，并依据关键词、地点和人物筛选更匹配的内容。IT之家援引博文介绍，苹果公司希望缩短分享路径，把“理解对话意图”和“快速执行动作”连在一起，从而加速用户回复信息。Messages 还可在对话内提示创建提醒或备忘录，意味着用户不再需要手动操作，就能处理聊天里提到的待办事项。苹果还升级 Message",
@@ -200,206 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-06-09",
       "link": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed"
-    },
-    {
-      "id": "37903df8-2d23-81fa-bd22-fcd22903559c",
-      "title": "初探苹果 iPadOS 27：应用启动提速 30%、引入全新 Siri AI",
-      "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果公开展示 iPadOS 27 系统，聚焦提升系统稳定性与速度。性能方面，苹果表示 iPadOS 27 大幅改善多任务、文件管理和日常效率场景性能，iPhone 和 iPad 应用启动速度最高提升 30%。IT之家附上相关截图如下：文件浏览与从 iPad 传输到外接硬盘的速度最高提升 5 倍，苹果称这一体验已接近 Mac 上的 Finder。界面方面，iPadOS 27 继续完善 Liquid Glass（液态玻璃）设计语言，主要新增专用透明度滑块，让用户自行调节显示效果。AI 方面，苹果",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/703.htm"
-    },
-    {
-      "id": "37903df8-2d23-8141-8a8b-e80decabf56f",
-      "title": "苹果 iOS 27 状态栏显示优化：图标更加圆润、电量改用无边框设计",
-      "summary": "IT之家 6 月 9 日消息，苹果 iOS 27 系统已于今早正式发布，带来了全新 Siri AI、相机 Siri 模式、家长控制等功能。IT之家注意到，iOS 此次还带来了视觉方面的优化。除了 WWDC26 上已公开的图标重绘外，新版本还优化了状态栏的图标：WiFi、蜂窝信号更加圆润，电量图标则改用无边框设计。iOS 26 与 iOS 27 状态栏对比如下：除此之外，iOS 27 也优化了液态玻璃显示效果，折射更均匀，对比度也得到了提升。全新的滑块让可以自定义液态玻璃的外观，从极致清晰到完全着色均可调节。",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/702.htm"
-    },
-    {
-      "id": "37903df8-2d23-8127-95b2-d796c3c6598d",
-      "title": "初探苹果 watchOS 27：升级 Siri AI、增强健康追踪、优化智能叠放",
-      "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果公司预览发布 watchOS 27 系统更新，聚焦升级 Siri AI、健康追踪、健身辅导与智能叠放（Smart Stack）。在 Siri AI 方面，底层由 Apple Intelligence 驱动，支持开放式问题与更自然的多轮对话。用户可直接在手腕上询问跑后恢复拉伸建议，也可连续追问相关内容。Siri AI 还能调用备忘录等个人内容，帮助查找驾照号码、租住房屋门禁码等已存信息，减少用户频繁拿起 iPhone 的需要。健康追踪方面，苹果 watchOS 27 扩展经期健康支持，符合",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/701.htm"
-    },
-    {
-      "id": "37903df8-2d23-8184-9ff6-d593aede8dbd",
-      "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
-      "summary": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-09",
-      "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
-    },
-    {
-      "id": "37903df8-2d23-8179-ab3e-de7974296934",
-      "title": "Everything Apple Announced at WWDC 2026",
-      "summary": "Updates include a new souped-up Siri, lots of iOS enhancements, and some inkling on how an AI partnership with Google has come to power Apple’s products.",
-      "source": "Wired",
-      "publishTime": "2026-06-09",
-      "link": "https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/"
-    },
-    {
-      "id": "37903df8-2d23-81a1-97ac-f908ea5158aa",
-      "title": "支持调休了：苹果 iOS 27“史诗级”更新，新增节假日闹钟安排功能",
-      "summary": "IT之家 6 月 9 日消息，苹果 iOS 27 已于今日在 WWDC26 上正式发布，将于今年秋天推出。同时，Siri AI 将于今年晚些时候推出英文版。IT之家注意到，iOS 27 此次还为时钟 App 带来了一条“史诗级”更新 —— 新增工作日（调休）闹钟，支持为全年节假日和调休工作日设定闹钟。",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/700.htm"
-    },
-    {
-      "id": "37903df8-2d23-81a3-9576-fd3dc3be8e69",
-      "title": "无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图",
-      "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果在 iOS 27 系统中，首次为图乐园（Image Playground）加入原生写实图像生成功能，用户可直接用文本提示生成接近照片风格的 AI 图片。IT之家注：苹果在 iOS 26 系统中，通过接入 ChatGPT 的方式，提供 Any Style 选项，让用户跳出苹果预设的几种视觉模板，生成接近真实照片的图像。而在 iOS 27 系统中，写实生成不再需要借助 ChatGPT 入口，用户只需输入文字提示，就能直接生成更接近真实照片的图像，同时仍可使用动画、插画和素描等原有风格。科技媒",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/699.htm"
-    },
-    {
-      "id": "37903df8-2d23-8108-ae09-e7e02be5ad08",
-      "title": "I went on my first adults-only cruise. From a playground to a tattoo shop, these 8 things surprised me most.",
-      "summary": "I took my first adults-only cruise with the luxury cruise line Virgin Voyages. I was surprised to find a playground and a tattoo parlor on the ship.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-09",
-      "link": "https://www.businessinsider.com/virgin-voyages-adults-only-cruise-surprises"
-    },
-    {
-      "id": "37903df8-2d23-81f7-bb04-ee0e179a28a6",
-      "title": "Apple drops support for a long list of Apple Watches and iPads with latest OS updates",
-      "summary": "I hope you have a modern Apple Watch or iPad, because otherwise watchOS 27 and iPadOS 27 won't run on your device. Apple often drops support for older devices with its latest software updates, but this year it's culling even more device generations than ever before. Apple is dropping support for fou",
-      "source": "The Verge",
-      "publishTime": "2026-06-09",
-      "link": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped"
-    },
-    {
-      "id": "37903df8-2d23-8151-b38e-f9ebc116cc69",
-      "title": "苹果 iOS / iPadOS / macOS / watchOS / visionOS 27 系统将于今年秋季推出",
-      "summary": "IT之家 6 月 9 日消息，WWDC26 已经正式落下帷幕，核心聚焦 AI 驱动的 Siri 重构与全系统升级。苹果官网显示，iOS 27、iPadOS 27、macOS 27、watchOS 27 和 visionOS 27 将于今年秋季推出。据介绍，全新 Siri AI 由苹果智能驱动，拥有独立 App 对话入口，支持提出开放式问题并解答、理解你的个人背景、在消息 / 音乐 / 提醒等应用中执行用户所需操作、在线查阅信息、视觉智能、自定义 Siri 的声音、Siri 写作等功能。Siri AI 将于今年晚些时候推出英文版，将支持兼容的 iPhone、iPad、Mac、Apple Watc",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/698.htm"
-    },
-    {
-      "id": "37903df8-2d23-8130-a108-f4f1a893f1b4",
-      "title": "Photos of the first supermarkets show how grocery shopping has transformed over the last century",
-      "summary": "The first grocery stores appeared in the 1920s and '30s. Large and full of products, they changed how Americans shopped for groceries.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-09",
-      "link": "https://www.businessinsider.com/photos-first-supermarkets-grocery-shopping-changes"
-    },
-    {
-      "id": "37903df8-2d23-81af-b7c1-de64974dc8cf",
-      "title": "苹果提升账号安全，iOS 27 版 Passwords 应用支持 AI 自动更换密码",
-      "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果为 iOS 27 的密码（Passwords）应用引入新 AI 功能，可在不少场景中自动替用户修改密码，减少账号修复步骤。苹果于 2 年前为密码应用上线独立入口，集中管理登录信息、2FA 验证码、Wi-Fi 凭证等内容。该应用目前已具备识别密码风险能力，例如检查密码是否出现在数据泄露事件中，以及同一密码被多个账户重复使用等。IT之家援引博文介绍，苹果表示旧版能力更多停留在“发现问题”。一旦系统发出安全提醒，用户仍要自己进入相关网站或应用，手动完成密码修改。这类流程往往繁琐，也容易因为拖延",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/697.htm"
-    },
-    {
-      "id": "37903df8-2d23-812c-aef2-eed4991901f7",
-      "title": "Apple announces watchOS 27, now with Siri AI",
-      "summary": "Apple just announced watchOS 27, the next version of its Apple Watch operating system, introducing support for Siri AI, a redesigned \"dynamic\" app grid, and improvements to health and fitness tracking. The watchOS 27 update will be available \"this fall,\" according to Apple, though support is notably",
-      "source": "The Verge",
-      "publishTime": "2026-06-09",
-      "link": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026"
-    },
-    {
-      "id": "37903df8-2d23-813a-8e49-fd37b21d200b",
-      "title": "抢购更省心：苹果 Safari 27 浏览器新增 Notify Me 网页监控功能",
-      "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果为 Safari 浏览器新增 Notify Me 网页监控功能，可持续检查网页变化，并在内容更新后及时提醒用户，适合追踪补货、价格或页面状态变化。IT之家援引博文介绍，用户可以通过 Notify Me 监控网页，是把重复刷新网页的动作交给浏览器自动处理。对普通用户来说，这能减少反复手动查看页面的时间成本，也让抢购、候补和库存关注变得更省心。苹果官方并未透露关于该功能的更多细节，尚未披露检查频率、支持的网站类型，或通知形式等信息。",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/696.htm"
-    },
-    {
-      "id": "37903df8-2d23-811d-9d6f-cbda446f069a",
-      "title": "Apple shares reverse lower after big Siri news. Why we're not bothered",
-      "summary": "Apple delivered on what Wall Street was expecting: a complete artificial intelligence overhaul.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-09",
-      "link": "https://www.cnbc.com/2026/06/08/apple-shares-reverse-lower-after-big-siri-news-why-were-not-bothered.html"
-    },
-    {
-      "id": "37903df8-2d23-81f4-b4e4-f05d4e79929e",
-      "title": "基于 Siri AI：苹果 iOS 27 新增账单分摊功能",
-      "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果公司软件工程副总裁塞巴斯蒂安 · 马里诺-梅斯（Sebastien Marineau-Mes）演示了账单分摊功能。该功能基于相机应用中的 Siri 增强功能，用户只需将 iPhone 摄像头对准餐厅账单，即可立即与朋友平分账单总额，Apple Cash 的集成功能还支持即时付款。IT之家附上相关截图如下：视觉智能也将登陆 visionOS，为苹果的空间计算平台带来相同的功能。Siri 可以识别用户环境中的真实物体，并根据需要显示相关信息。",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/695.htm"
-    },
-    {
-      "id": "37903df8-2d23-81a3-9ab5-d03158991ac8",
-      "title": "Xcode 27 Beta 发布：苹果称其是构建 AI 智能体应用的“最佳场所”",
-      "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 全球开发者大会（WWDC）上，苹果公司面向开发者，升级推出全新 Xcode，并同步推出 Core AI 框架。苹果发布了新版 Foundation Models 框架，让开发者更灵活地调用 AI 能力。新框架已支持图像输入，开发者可把图片与文本一并传给设备端模型，让应用直接处理更丰富的多模态任务。Xcode 方面，苹果把编码助手进一步推向智能体式编码工作流。新能力已覆盖应用本地化，帮助开发者处理多语言适配；编码助手也能与模拟设备交互，在编写代码，还能触达测试与调试相关环节。IT之家附上相关截图如下：苹果还表示，开发者之后可",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/694.htm"
-    },
-    {
-      "id": "37903df8-2d23-81e2-9ab4-ff0448e696ce",
-      "title": "A 37-year-old woman's colon cancer symptom was dismissed as part of pregnancy. Months later, she was diagnosed with stage 4.",
-      "summary": "Gabby Zappia, 37, experienced blood in her stool during her third pregnancy. Months after giving birth, she learned she had stage 4 colon cancer.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-09",
-      "link": "https://www.businessinsider.com/woman-colon-cancer-symptom-dismissed-pregnancy-2026-5"
-    },
-    {
-      "id": "37903df8-2d23-815d-9efd-e994b8c82171",
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year’s event is particularly notable for a couple things. It marks CEO Tim Cook’s ",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-09",
-      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
-    },
-    {
-      "id": "37903df8-2d23-81b5-90fc-d929bc57b341",
-      "title": "虽迟但到：苹果 tvOS 27 首个开发者测试版 Developer Beta1 发布",
-      "summary": "IT之家 6 月 9 日消息，虽然 WWDC26 并未过多提及，但苹果 tvOS 27 首个开发者测试版 Developer Beta1 也已发布。目前，Apple TV 已经可以选择升级 tvOS 27 Developer Beta 版本。用户可以在设置应用的软件更新“Beta 版更新”部分找到该更新选项。据 9to5mac 报道，今年 tvOS 的一个重大新功能是更新了播客应用，以及新的智能下载功能，性能提升包括更快的应用启动和控制中心加载，更大文本大小选项以方便无障碍，等等。遗憾的是，苹果尚未像其他操作系统那样推出 tvOS 27 预览页面。这意味着目前关于这些功能的具体内容几乎没有（甚",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/693.htm"
-    },
-    {
-      "id": "37903df8-2d23-8153-9425-e06f3f74c459",
-      "title": "Apple finally gives Siri an AI glow-up after rare yearlong delay",
-      "summary": "After Apple made the highly unusual decision to delay its Siri AI overhaul, the company detailed its latest plans, including a dedicated chatbot app.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-09",
-      "link": "https://www.businessinsider.com/apple-new-siri-ai-chatbot-app-wwdc-2026-6"
-    },
-    {
-      "id": "37903df8-2d23-81d5-8e6d-e0e1aa0f4632",
-      "title": "因隐私安全分歧，苹果 Siri AI 缺席欧盟版 iOS 27 首发",
-      "summary": "IT之家 6 月 9 日消息，苹果公司今天（6 月 9 日）发布博文，宣布由于受到《数字市场法》影响，Siri AI 不会随着 iOS 27、macOS 27 等系统更新面向欧洲市场上线。苹果软件工程高级副总裁 Craig Federighi 表示，公司对欧盟用户无法同步获得 Siri AI 感到失望。苹果希望最终仍把这项能力带入欧盟，并会继续与监管机构沟通。欧盟用户将暂时无法使用回看对话的独立应用、扩展后的视觉智能、集成写作工具、iOS 相机中的 Siri 模式，以及苹果在 WWDC26 公布的其他 Siri AI 能力。苹果公司称，Siri AI 基于端侧处理与 Private Cloud",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/692.htm"
-    },
-    {
-      "id": "37903df8-2d23-815d-9a01-e1fa9aa5be92",
-      "title": "苹果智能和 Siri AI 适配机型公布，iPhone 15 Pro 系列、16 及以后型号可用",
-      "summary": "IT之家 6 月 9 日消息，在今日的 WWDC26 主题演讲中，苹果发布了 Siri AI 和多项 Apple 智能新功能。IT之家注意到，目前苹果官网已公布苹果智能和 Siri AI 适配机型：苹果智能和 Siri AI 在 iOS 27、iPadOS 27、macOS 27、watchOS 27 和 visionOS 27 中可应用于 iPhone 16 及以后型号、iPhone 15 Pro、iPhone 15 Pro Max、iPad mini（A17 Pro）、搭载 M1 及以上版本的 iPad 型号、搭载 M1 及以上版本的 Mac、Apple Vision Pro、Apple ",
-      "source": "IT之家",
-      "publishTime": "2026-06-09",
-      "link": "https://www.ithome.com/0/961/691.htm"
-    },
-    {
-      "id": "37903df8-2d23-812f-a378-e24c8a339041",
-      "title": "Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military",
-      "summary": "The Trump administration released the updated version of the list four months ago and then quickly pulled it without explaining why",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-09",
-      "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/"
-    },
-    {
-      "id": "37903df8-2d23-8118-aed0-f5b08cbf804a",
-      "title": "Judge blocks Trump's $100,000 H-1B visa fee",
-      "summary": "Trump had imposed the $100,000 fee in order to restrict the program, arguing that it has undermined U.S. security through the \"replacement of American workers.\"",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-09",
-      "link": "https://www.cnbc.com/2026/06/08/trump-h1b-visa-fee-blocks.html"
     }
   ],
   "macroEvents": [
