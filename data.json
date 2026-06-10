@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-06-11 06:26",
+  "updatedAt": "2026-06-11 07:55",
   "news": [
+    {
+      "id": "37b03df8-2d23-81cc-a633-c7f61ad3a53b",
+      "title": "Anthropic CEO says an 'intrinsic' feature of AI may be fewer jobs. His answer? Redistribute the upside.",
+      "summary": "Anthropic CEO Dario Amodei warns AI could cause long-term job loss, urging policies like universal basic income to mitigate its impact.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-11",
+      "link": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-related-job-displacement-policy-plan-2026-6"
+    },
+    {
+      "id": "37b03df8-2d23-810e-bc8f-f1fe3a67cea7",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-11",
+      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
+    },
+    {
+      "id": "37b03df8-2d23-81fc-b062-c79c016ece61",
+      "title": "Why Andrew Yang is building instead of waiting for Washington",
+      "summary": "Andrew Yang’s 2020 presidential campaign was based on a warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all saying versions ",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-11",
+      "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/"
+    },
+    {
+      "id": "37b03df8-2d23-8189-b45a-d13beff2cce6",
+      "title": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+      "summary": "Oracle topped quarterly expectations, but free cash flow is negative, and the company plans to raise more capital for data center projects.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-11",
+      "link": "https://www.cnbc.com/2026/06/10/oracle-orcl-q4-earnings-report-2026.html"
+    },
+    {
+      "id": "37b03df8-2d23-81f6-8b53-ddee7290b8ca",
+      "title": "Nearly a million passports and photo IDs were left unprotected on the public internet",
+      "summary": "Typing a few letters and numbers into my web browser, I find myself gaping at the identity documents of complete strangers. The passport of a young woman from Germany. The passport of a man from Spain with glasses resting on his head. The front and back of another man's driver's license, a stereotyp",
+      "source": "The Verge",
+      "publishTime": "2026-06-11",
+      "link": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal"
+    },
+    {
+      "id": "37b03df8-2d23-812e-89dd-f0434da30a15",
+      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+      "summary": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-11",
+      "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/"
+    },
+    {
+      "id": "37b03df8-2d23-81d6-b837-f4bce781419b",
+      "title": "Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs",
+      "summary": "Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans. The company has been preparing for the layoffs internally for weeks, with Xbox CEO Asha Sharma hinting about \"making hard choices\" last month. Sources suggest the cuts coul",
+      "source": "The Verge",
+      "publishTime": "2026-06-11",
+      "link": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma"
+    },
+    {
+      "id": "37b03df8-2d23-8170-b1a9-c780b8eee177",
+      "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
+      "summary": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
+      "source": "Wired",
+      "publishTime": "2026-06-11",
+      "link": "https://www.wired.com/story/cisa-ai-vulnerability-directive/"
+    },
+    {
+      "id": "37b03df8-2d23-812e-ae45-e6474259ab45",
+      "title": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
+      "summary": "US lawmakers are alarmed that Bill Pulte, a housing official with no intelligence experience, is poised to take charge of one of the government's most powerful surveillance tools.",
+      "source": "Wired",
+      "publishTime": "2026-06-11",
+      "link": "https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/"
+    },
+    {
+      "id": "37b03df8-2d23-81ba-b767-cad781008877",
+      "title": "Apple, Google add support for Thread 1.4",
+      "summary": "Apple and Google are updating their smart home streaming devices to Thread 1.4. As first spotted by Matter Alpha and 9to5 Google, the latest spec has arrived on compatible Apple TVs in the tvOS 27 developer beta and the Google TV Streamer through a software update. This lays the groundwork for these",
+      "source": "The Verge",
+      "publishTime": "2026-06-11",
+      "link": "https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4"
+    },
+    {
+      "id": "37b03df8-2d23-81e5-aee2-cd7ac439808a",
+      "title": "Everyone wants a piece of Tesla’s battery business",
+      "summary": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-11",
+      "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/"
+    },
+    {
+      "id": "37b03df8-2d23-81a0-a2ae-eb7fb76ca64e",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-11",
+      "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/"
+    },
+    {
+      "id": "37b03df8-2d23-81d7-8202-eae8b8beb656",
+      "title": "Kalshi adds required employment verification for some prediction market bets",
+      "summary": "The CFTC is considering its first regulation for prediction markets, as arrests over \"insider trading\" on everything from military operations to Google Search data continue to stack up. As CoinDesk reports, a notice of proposed rulemaking says \"the proposal would establish a structured framework for",
+      "source": "The Verge",
+      "publishTime": "2026-06-11",
+      "link": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading"
+    },
+    {
+      "id": "37b03df8-2d23-8103-90a6-d00fd7a699db",
+      "title": "甲骨文 2026 财年年报归母净利润 169.84 亿美元，同比增长 36.50%",
+      "summary": "IT之家 6 月 11 日消息，甲骨文今日发布 2026 财年（2025 年 6 月 1 日～2026 年 5 月 31 日）年报及第四财季（2026 年 3 月 1 日～2026 年 5 月 31 日）报告：2026 财年年报营业总收入： 673.57 亿美元，同比增长 17.35%毛利： 206.06 亿美元，同比增长 16.56%毛利率： 30.59%，同比下降 0.21 个百分点归母净利润： 169.84 亿美元，同比增长 36.50%经营现金流： 319.77 亿美元，同比增长 53.58%自由现金流： -236.86 亿美元，同比亏损扩大 5911.68%基本每股收益： 5.94 ",
+      "source": "IT之家",
+      "publishTime": "2026-06-11",
+      "link": "https://www.ithome.com/0/962/694.htm"
+    },
     {
       "id": "37b03df8-2d23-8142-84df-c42c09c8b0bf",
       "title": "小米 MiMo Code V0.1.0 探索性 AI 编程助手发布并开源：基于 OpenCode 二次开发，采用 MIT 协议",
@@ -288,118 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-06-10",
       "link": "https://www.ithome.com/0/962/689.htm"
-    },
-    {
-      "id": "37b03df8-2d23-81d2-9d43-c93e43917fb2",
-      "title": "My daughter just graduated from high school, and it nearly broke me. I had to turn my grief into pride.",
-      "summary": "My daughter was graduating, and the grief was almost too much to bear. But when I saw her on the stage, I was proud of her and myself.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-10",
-      "link": "https://www.businessinsider.com/daughter-graduated-high-school-grief-mom-2026-6"
-    },
-    {
-      "id": "37b03df8-2d23-8110-b548-f3d332353fcb",
-      "title": "Zest launches a restaurant discovery app powered by where people actually eat",
-      "summary": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-10",
-      "link": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/"
-    },
-    {
-      "id": "37b03df8-2d23-811f-899a-da5a9f24cc56",
-      "title": "SpaceX primed for double-digit pop on first day, if 'perps' trading is any guide",
-      "summary": "Crypto traders are currently pricing the SpaceX pre-IPO perpetual future on Hyperliquid at $162, about 20% above the company's fixed IPO share price of $135.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-10",
-      "link": "https://www.cnbc.com/2026/06/10/spacex-ipo-primed-for-double-digit-pop-on-first-day-perpetual-futures.html"
-    },
-    {
-      "id": "37b03df8-2d23-818c-853e-fadfaacdc2dc",
-      "title": "连续三个月销量破 2 万，理想 i6 汽车第 14 万辆量产车下线",
-      "summary": "IT之家 6 月 10 日消息，理想汽车产品经理 @若愚_Allen 今日宣布，理想 i6 汽车的第 14 万辆量产车下线。这一里程碑距离理想 i6 首台交付的时间不到 9 个月。根据理想汽车官方数据，理想 i6 已连续三个月交付量突破 2 万辆，居纯电 SUV 销量前三。据IT之家此前报道，理想 i6 纯电 SUV 于 2025 年 9 月 27 日在理想汽车常州智能制造基地开启交付，官方指导价 24.98 万元起。该车拥有 3 米长轴距、五座空间，还有 4.95 米车长、1.93 米车宽、1.65 米车高。该车配备前排 16.8 英寸抬头显示、3K 双联屏，后排提供 21.4 英寸 3K ",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/686.htm"
-    },
-    {
-      "id": "37b03df8-2d23-8160-8c3e-e2b3992d2cd3",
-      "title": "荣耀小平板再曝：评估 8 英寸左右超高刷 OLED 屏 + 骁龙 8 Elite 系列芯片，或命名 WIN Pad Mini",
-      "summary": "IT之家 6 月 10 日消息，博主 @数码闲聊站 今日发文透露，荣耀小平板目前是评估 8 英寸左右超高刷窄边框 OLED+ 骁龙 8 Elite 系旗舰处理器。博主猜测，这款平板有望划分到 WIN 系列，或命名为 WIN Pad mini。评论区有网友希望平板采用 LCD 屏幕，不过博主表示：“7.9 LCD 被毙了。”另有网友进一步“刺探”这款小平板的电池情况，博主也顺利“上钩”并答道：“可以展望小平板最大电池。”据IT之家此前报道，荣耀终端股份有限公司平板与 IOT 产品领域总经理 @荣耀平板利用哥 去年 7 月曾发布了一道“痛苦选择题”：针对小平板处理器进行调研，须在高通 N-1 代和",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/685.htm"
-    },
-    {
-      "id": "37b03df8-2d23-812d-a48b-c567ffdb9545",
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-10",
-      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
-    },
-    {
-      "id": "37b03df8-2d23-8142-9f03-df8201d8abc7",
-      "title": "北汽极狐全新中大型 SUV 阿尔法 T7 申报：轴距超 3 米，纯电增程都有",
-      "summary": "IT之家 6 月 10 日消息，工信部发布了 408 批《道路机动车辆生产企业及产品公告》新产品公示，极狐阿尔法 T7 纯电动多用途乘用车完成申报。本次申报的极狐阿尔法 T7 为纯电动、增程车型，长宽高分别为 5020 mm × 1996 mm × 1685 mm，轴距为 3040 mm，最高车速 180 km/h。动力方面，该车搭载来自湖南中车时代电驱科技有限公司的型号为 TZ220XY410 电机，峰值功率为 227 kW，额定功率 73 kW。储能装置采用磷酸铁锂蓄电池，由海迅极光新能源汽车部件（北京）有限公司提供总成，湖北亿纬动力有限公司提供单体。其中，增程版搭载 1.5L 增程器，额",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/684.htm"
-    },
-    {
-      "id": "37b03df8-2d23-810e-afaf-c41e132adce7",
-      "title": "泰坦军团元战 G2785V 显示器开售：26.5 英寸 4K 165Hz QD-OLED 屏，政府补贴价 2999.7 元",
-      "summary": "IT之家 6 月 10 日消息，泰坦军团元战 G2785V 显示器现已开售，定价 3332 元，政府补贴价 2999.7 元。京东泰坦军团 26.5 英寸 4K 165Hz 显示器 G2785V2999.7 元直达链接这款显示器搭载了一块 26.5 英寸 3840×2160 4K 分辨率的 QD-OLED 屏幕，支持 165Hz 刷新率与 0.03ms GTG 响应时间；搭载三星 QD-OLED Penta Tandem 五层堆栈技术，发光效率提升至 1.3 倍，核心发光层使用寿命提升至 2 倍，在 3% 窗口峰值亮度可达 1000 nits。色彩方面，这款显示器采用 QD 量子点纳米涂层，支",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/683.htm"
-    },
-    {
-      "id": "37b03df8-2d23-8189-a751-ecb637dc5c43",
-      "title": "Dementia care consumed our lives for months. We're still learning how to cope.",
-      "summary": "Helping my sister-in-law through dementia strained our marriage, drained our energy, and forced us to make painful decisions.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-10",
-      "link": "https://www.businessinsider.com/caring-for-sister-in-law-dementia-marriage-2026-6"
-    },
-    {
-      "id": "37b03df8-2d23-8165-8264-e30cc1cd4e82",
-      "title": "I'm a registered dietitian who loves a great bargain. These are the 6 best items I've found at Trader Joe's.",
-      "summary": "As a dietitian, I look for groceries that help me make easy, healthy meals. Some of my favorite Trader Joe's items are zucchini spirals and turkey.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-10",
-      "link": "https://www.businessinsider.com/favorite-items-trader-joes-dietitian-health-coach-groceries-2026-6"
-    },
-    {
-      "id": "37b03df8-2d23-81e8-a89c-f4d7e52eb7fa",
-      "title": "百万年归宿：我国科学家主导发现全球最深最大鲸类化石群和鲸落",
-      "summary": "IT之家 6 月 10 日消息，据新华社，由中国科学家主导的国际科研团队在东南印度洋迪亚曼蒂纳深渊取得重大发现，首次在该区域观测到全球已知最深、规模最大的鲸类化石群和鲸落生态系统，相关成果已于 6 月 10 日在线发表于《自然》。这项研究由中国科学院深海科学与工程研究所主导完成，合作单位包括意大利比萨大学和新西兰地球科学研究所。鲸落，即鲸类死亡后沉至海底形成的独特海洋生态系统，素有“一鲸落，万物生”之说。然而，长期以来人类对鲸落的认识主要依赖零星的观测记录，此前最深的一例鲸落发现于西南大西洋，水深为 4204 米，水深超过 6000 米的深渊区域一直没有相关科学记录。2023 年，研究团队搭乘",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/682.htm"
-    },
-    {
-      "id": "37b03df8-2d23-81c5-8190-e4d0718a9d50",
-      "title": "智界 RX 登陆工信部新车公示，赵长江喊话要给出 SUV 在智能时代的新方向",
-      "summary": "IT之家 6 月 10 日消息，鸿蒙智行智界 RX 新车今日出现在了工信部最新一批申报目录中，可选 160+277kW 华为双电机四驱版本，极速 251 km/h。在智界 RX 申报公示后，鸿蒙智行官方已公布新车的亮点抢鲜看。随后，智界汽车执行董事及执行副总裁赵长江发文，称要用全新智界 RX 给出 SUV 在智能时代的新方向，打造面向未来、适配全场景的科技座驾。这意味着智界 RX 的核心卖点就是“智能”。今日早些时候，智界汽车董事长兼首席执行官郭锐提到，智界 RX 之所以叫「X」的原因之一就是整车与华为全栈黑科技进行了深度原生融合。参考鸿蒙智行车系功能情况来看，该车预计将搭载华为乾崑智驾系统、",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/681.htm"
-    },
-    {
-      "id": "37b03df8-2d23-81c8-a914-f1a3d8414462",
-      "title": "毕业典礼频现“谈 AI 色变”，微软总裁史密斯呼吁行业必须回应公众担忧",
-      "summary": "IT之家 6 月 10 日消息，据彭博社 10 日（今天）晚间报道，近几周，2026 届毕业生已经用相当直接的方式表达了对 AI 的不满：多场毕业典礼上，只要演讲者开始宣传 AI 技术，台下就会响起嘘声。微软总裁布拉德 · 史密斯注意到了这种情绪。史密斯在接受采访时表示：“我认为，行业现在必须拿出应有的回应，证明自己能够以严肃、可信的方式回答人们关心的问题。”史密斯通过博客文章进一步阐述了上述看法。在他最近回到母校普林斯顿大学的一次访问期间，史密斯得知，普林斯顿应届毕业生曾否决一款毕业典礼夹克设计，因为学生怀疑设计借助了人工智能。史密斯主张，AI 应该用来增强人的能力，而不是取代人。他也试图缓",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/680.htm"
-    },
-    {
-      "id": "37b03df8-2d23-81cc-a907-c18265d0a117",
-      "title": "Why enterprise AI will be a major focus at VivaTech 2026",
-      "summary": "While Silicon Valley continues pushing aggressively into large language models and consumer-facing AI products, many European companies are focused on applying AI to complex systems already embedded into everyday life.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-10",
-      "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/"
     }
   ],
   "macroEvents": [
