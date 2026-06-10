@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-06-11 03:53",
+  "updatedAt": "2026-06-11 06:26",
   "news": [
+    {
+      "id": "37b03df8-2d23-8142-84df-c42c09c8b0bf",
+      "title": "小米 MiMo Code V0.1.0 探索性 AI 编程助手发布并开源：基于 OpenCode 二次开发，采用 MIT 协议",
+      "summary": "IT之家 6 月 11 日消息，小米 MiMo 官方今日凌晨正式发布并开源 MiMo Code V0.1.0 —— 一款运行在终端里的探索性 AI 编程助手。据介绍，MiMo Code 基于开源项目 OpenCode 二次开发，发布并开源，采用 MIT 协议。它还内置限时免费多模态模型 MiMo-V2.5，同时支持接入 DeepSeek、Kimi 和 GLM 等主流模型，以及第三方 Token Plan，满足不同开发者的需求。MiMo Code 内置独创持久记忆系统，用项目记忆、会话检查点、任务进度三重机制，解决长会话“越用越忘”的难题。即使上百轮的长程会话，也能保持输出质量、不丢关键信息。小",
+      "source": "IT之家",
+      "publishTime": "2026-06-11",
+      "link": "https://www.ithome.com/0/962/693.htm"
+    },
+    {
+      "id": "37b03df8-2d23-8129-8c4a-f7a06902adc7",
+      "title": "OpenAI says a suspected China-linked influence operation tried to sway the debate about US data centers",
+      "summary": "OpenAI said the effort \"sought to exploit and amplify existing public concerns about energy prices and local impacts of data center development.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-06-11",
+      "link": "https://www.businessinsider.com/openai-china-data-centers-influence-campaign-2026-6"
+    },
+    {
+      "id": "37b03df8-2d23-8154-82a6-d759079572fd",
+      "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+      "summary": "North Koreans hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-11",
+      "link": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/"
+    },
+    {
+      "id": "37b03df8-2d23-8124-8ee8-fe280cc81486",
+      "title": "似曾相识的感觉：苹果 iOS 27 系统新增 Recovery 修复模式，支持诊断、抹除等功能",
+      "summary": "IT之家 6 月 11 日消息，在 6 月 9 日召开的 2026 年全球开发者大会（WWDC）上，苹果带来了最新的 iOS 27 系统。IT之家实测发现，苹果 iOS 27 系统新增 Recovery 修复模式，关机后开机，并长按电源键不松手，iPhone 会提示“Continue holding for recovery...”（如果松手会导致进入失败），几秒后会再次显示“Loading recovery options...”并进入读条，读条完成后就会进入 Recovery 修复模式页面。该模式下，iPhone 支持恢复助理、软件更新、诊断模式、抹掉所有内容和设置、恢复模式等功能（部分机",
+      "source": "IT之家",
+      "publishTime": "2026-06-11",
+      "link": "https://www.ithome.com/0/962/692.htm"
+    },
+    {
+      "id": "37b03df8-2d23-81d4-bd39-e41b368cf059",
+      "title": "Wing drone delivery might not be a novelty anymore",
+      "summary": "Wing is expanding into seven more U.S. cities through its partnership with Walmart.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-11",
+      "link": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/"
+    },
+    {
+      "id": "37b03df8-2d23-8100-beb7-c3c8b830125a",
+      "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
+      "summary": "Colleagues discussed the incident on internal message boards, according to documents seen by WIRED.",
+      "source": "Wired",
+      "publishTime": "2026-06-11",
+      "link": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/"
+    },
+    {
+      "id": "37b03df8-2d23-8171-b4d8-f11ed708957f",
+      "title": "Paramount is reshuffling streaming teams as David Ellison's tech vision comes into focus",
+      "summary": "Paramount is about to change some streaming staffers' assignments as it unifies the tech stacks of Paramount+ and Pluto TV.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-11",
+      "link": "https://www.businessinsider.com/paramount-shuffles-streaming-team-pluto-tv-convergence-tech-david-ellison-2026-6"
+    },
+    {
+      "id": "37b03df8-2d23-817f-913d-cd1cc30ce8e5",
+      "title": "These are the unique routes airlines added for North America's World Cup",
+      "summary": "Airlines have bolstered flying to the 2026 World Cup's 16 host cities, and added new and unsual routes to get fans to matches.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-11",
+      "link": "https://www.businessinsider.com/these-are-unique-routes-airlines-added-for-world-cup-2026-6"
+    },
+    {
+      "id": "37b03df8-2d23-81c9-bc4f-cdce0451bea4",
+      "title": "Claude Fable won’t answer basic biology questions",
+      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to t",
+      "source": "The Verge",
+      "publishTime": "2026-06-11",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions"
+    },
+    {
+      "id": "37b03df8-2d23-81cb-b4c5-fed223f00b64",
+      "title": "The Best USB-C Cables (2026): for Smartphones, Tablets, and Laptops",
+      "summary": "Unravel the tangled world of cords and find the ones you need to charge your gadgets and transfer data.",
+      "source": "Wired",
+      "publishTime": "2026-06-11",
+      "link": "https://www.wired.com/gallery/best-usb-c-cables/"
+    },
+    {
+      "id": "37b03df8-2d23-813e-b1e4-e182128fff71",
+      "title": "Uber now keeps most of the fare from your ride in some cities, according to a new driver study",
+      "summary": "Uber's take rate rises above 50% in some cities, impacting driver earnings, as it expands into new business areas, study finds.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-11",
+      "link": "https://www.businessinsider.com/uber-take-rate-rises-in-some-cities-driver-income-study-2026-6"
+    },
     {
       "id": "37b03df8-2d23-8199-9667-d106e2829605",
       "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
@@ -312,94 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-06-10",
       "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/"
-    },
-    {
-      "id": "37b03df8-2d23-810d-9d90-d89b9a60807b",
-      "title": "vivo X Fold6 折叠屏手机预热，支持联动电脑办公套件部署“龙虾”小 V Claw PC 版",
-      "summary": "IT之家 6 月 10 日消息，vivo X Fold6 折叠屏真机已曝光，新机定档 6 月发布，将带来全新的 OriginOS 6 Fold 系统，预计还会搭载天玑 9500 处理器。vivo 通信科技有限公司产品经理韩伯啸今日发布视频，再度预热这款新机。据韩伯啸透露，vivo X Fold6 将主打“AI 轻办公神器”这一卖点。除了一屏多用这一卖点外，该机还支持联动电脑 vivo 办公套件部署“龙虾”—— 小 V Claw PC 版，功能全面适配 Windows 与 Mac 设备。IT之家注意到，小 V Claw PC 版内置了 30+ 个开源 Skills，还支持手动配置更多 Skill",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/679.htm"
-    },
-    {
-      "id": "37b03df8-2d23-8145-a2d9-ccdb1f0b68ef",
-      "title": "苹果在全球多地下架 Vision Pro 旅行舱（收纳盒），中国官网已断货",
-      "summary": "IT之家 6 月 10 日消息，MacRumors 发现，苹果 Vision Pro 旅行舱目前已在全球多个市场地区的线上商店中下架，至少包括英国、日本、德国、法国、爱尔兰和香港。这些地区的苹果 Vision Pro 配件页面已不再列出该旅行舱，此前包含该产品的页面也已被完全移除，表明苹果至少在以上市场已将其停产且暂无恢复计划。IT之家注意到，在中国大陆和澳大利亚，其商品页面仍然存在，但产品处于灰色不可购买状态。不过，该产品仍在美国、加拿大和阿联酋正常销售。Vision Pro 旅行舱官方售价 199 美元（现汇率约合 1350 元人民币），国行版本 1699 元。下架后，贝尔金为 Apple",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/678.htm"
-    },
-    {
-      "id": "37b03df8-2d23-810b-9a07-e242e267e84a",
-      "title": "智元推出灵犀 X2 EDU“人人造”版本机器人，可选配夹爪、仿真假手、假拳等部件",
-      "summary": "IT之家 6 月 10 日消息，智元今日宣布推出灵犀 X2 EDU（人人造）版本，面向科研教育、工程实训、机器人赛事开发等多元场景。IT之家获悉，开放性是该版本的重要特点。灵犀 X2 EDU（人人造）版本支持夹爪、仿真假手、假拳等多类型末端执行部件选配，可适配抓取、人机交互、运动实验等不同教学和科研任务。据界面新闻报道，其整机高 130cm、重 35kg，全身 29 个自由度，单臂 7 自由度，末端负载 3kg，行走速度 1.8m/s，搭载 RK3588 算力模组，支持传感器及开发板自由加装，并开放关节控制与运动控制接口，允许底层算法二次开发。",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/677.htm"
-    },
-    {
-      "id": "37b03df8-2d23-8180-bf2a-e136a497686a",
-      "title": "全新红旗 H9 插混版申报，可选激光雷达",
-      "summary": "IT之家 6 月 10 日消息，工信部发布了第 408 批《道路机动车辆生产企业及产品公告》新产品公示，红旗 H9 插电式混合动力轿车完成申报。该车为插电式混合动力轿车，外形尺寸为长 5230 mm、宽 1955 mm、高 1515 mm，轴距达到 3120 mm，整备质量 2320 kg，总质量 2770 kg，额定载客 5 人，最高车速 235 km/h，配备防抱死制动系统。动力方面，发动机型号为 CA4GC20TDH-41，排量 1994 ml，功率 145 kW，发动机最大净功率 140 kW，储能装置为镍钴锰酸锂三元蓄电池，由中汽新能电池科技有限公司生产单体，中国第一汽车集团有限公司",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/676.htm"
-    },
-    {
-      "id": "37b03df8-2d23-81d8-acb6-c229e0a17f89",
-      "title": "Our family of 4 tried Outback Steakhouse's $55 family-style meal deal. It felt like a steal for a steak dinner at home.",
-      "summary": "The Outback Steakhouse family-style Bloomin' Bundle takeout meal deal with steak, bread, and sides fed four of us and was a great value for dinner.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-10",
-      "link": "https://www.businessinsider.com/outback-steakhouse-family-meal-deal-review-bloomin-bundle-value-2026-6"
-    },
-    {
-      "id": "37b03df8-2d23-81ce-a1c9-e4b5d0a4e209",
-      "title": "Boox’s quirky page-turning remote won me over",
-      "summary": "Following the launch of the surprisingly popular Kobo Remote, Boox has released its own device to ease the burden of reaching for an e-reader’s touchscreen that’s an arm’s length away. The Tappy isn’t Boox’s first page-turning remote, but its design takes a much different approach to the company’s s",
-      "source": "The Verge",
-      "publishTime": "2026-06-10",
-      "link": "https://www.theverge.com/tech/943699/slug-boox-tappy-wireless-bluetooth-remote-page-turn-android-ios-hands-on"
-    },
-    {
-      "id": "37b03df8-2d23-81af-830b-d6e5e7e1ee08",
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-10",
-      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/"
-    },
-    {
-      "id": "37b03df8-2d23-819c-b906-eb4612d7cbdb",
-      "title": "The 15 highest-grossing animated movies of all time",
-      "summary": "From classic franchises like \"Toy Story\" to recent hits like \"The Super Mario Galaxy Movie,\" here are the highest-grossing animated movies of all time.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-10",
-      "link": "https://www.businessinsider.com/highest-grossing-animated-movies-all-time"
-    },
-    {
-      "id": "37b03df8-2d23-8192-94f5-f1e00c228fd4",
-      "title": "'Gentle parenting' is out. Here are 3 ways to raise an emotionally mature child — without the pressure of being perfect.",
-      "summary": "Dr. Lindsay C. Gibson, author of \"Adult Children of Emotionally Immature Parents,\" shared how to raise an emotionally mature child.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-10",
-      "link": "https://www.businessinsider.com/how-to-raise-an-emotionally-mature-child-2026-6"
-    },
-    {
-      "id": "37b03df8-2d23-8128-a3a0-d6afff143883",
-      "title": "The Apple Watch Series 11 is back to its best price",
-      "summary": "Apple’s upcoming watchOS 27 update will bring Siri AI and other exciting features to the Apple Watch Series 9 and newer Apple Watch models. If you’re contemplating an upgrade, all colorways of the GPS-enabled 42mm Apple Watch Series 11 — the latest model — are on sale for $299 ($100 off) at Amazon, ",
-      "source": "The Verge",
-      "publishTime": "2026-06-10",
-      "link": "https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale"
-    },
-    {
-      "id": "37b03df8-2d23-8166-ae82-eacd93e78bd1",
-      "title": "消息称小米 YU7 GT 将以自动驾驶挑战纽北，路透图曝光",
-      "summary": "IT之家 6 月 10 日消息，Instagram 用户“rollendereporter”今天发布了一张照片，称其“意外发现小米团队正在拍摄‘自动驾驶挑战纽北’的圈速记录宣传图”。根据他放出的现场照片显示，图中一辆小米 YU7 GT 原型车正停在纽北赛道旁，配文“小米即将公布‘自动驾驶原型车’的纽北官方圈速，你能看清上面的时间吗？”当然，这只是该用户的解读。小米官方并未回应有关 YU7 GT 自动驾驶挑战纽北相关信息。如图所示，照片中这辆 YU7 GT 的车身侧面涂有“12”字样，一旁还立有“Nordschleife Autonomous Driving Prototype – Nürbur",
-      "source": "IT之家",
-      "publishTime": "2026-06-10",
-      "link": "https://www.ithome.com/0/962/675.htm"
     }
   ],
   "macroEvents": [
