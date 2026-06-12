@@ -1,6 +1,382 @@
 {
-  "updatedAt": "2026-06-13 01:20",
+  "updatedAt": "2026-06-13 03:28",
   "news": [
+    {
+      "id": "37d03df8-2d23-81dd-a5ff-fe3f6304bd8d",
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-13",
+      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/"
+    },
+    {
+      "id": "37d03df8-2d23-81f1-94a7-f0b8efc9c126",
+      "title": "Meta says Instagram and Facebook are 'coming back' online after morning outage",
+      "summary": "Facebook and Instagram users reported issues with accessing the platforms, according to the third-party outage-tracking website DownDetector.com.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/meta-facebook-instagram-messenger-outage-issues-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-810b-9a96-c6d12c2eced0",
+      "title": "SpaceX and Tesla merger chatter is heating up. Here's how Musk's companies work together.",
+      "summary": "Elon Musk's companies are intertwined. There's renewed speculation that his sprawling, intermingled business empire could see a Tesla mega merger.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/elon-musk-inc-company-connections-tesla-spacex-xai-boring-2026-2"
+    },
+    {
+      "id": "37d03df8-2d23-8165-a1e1-f54e96f41b7d",
+      "title": "China Didn't Make People Hate Data Centers",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+      "source": "Wired",
+      "publishTime": "2026-06-13",
+      "link": "https://www.wired.com/story/china-us-data-center-opposition/"
+    },
+    {
+      "id": "37d03df8-2d23-8116-b7bd-d4b976252a9a",
+      "title": "Siri is good now??",
+      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of […]",
+      "source": "The Verge",
+      "publishTime": "2026-06-13",
+      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast"
+    },
+    {
+      "id": "37d03df8-2d23-817a-99d7-d6aed1ada614",
+      "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 30% on debut",
+      "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-13",
+      "link": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html"
+    },
+    {
+      "id": "37d03df8-2d23-8119-9f1e-f0364094e41d",
+      "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
+      "summary": "The trading platform says some customers experienced intermittent disruptions, but that those issues have resolved.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-13",
+      "link": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/"
+    },
+    {
+      "id": "37d03df8-2d23-81f1-9a9a-c5eee8a9c7e5",
+      "title": "This week's Anthropic-inspired AI freakout, explained",
+      "summary": "Anthropic limits AI model use, citing safety concerns. But it's also trying to stop open-source models from competing.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/anthropic-freaked-out-ai-industry-mythos-fable-open-source-models-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-8185-b8e8-e3b25840dd16",
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+      "summary": "Elon Musk's stake in SpaceX is worth more than $766 billion. Combined with his Tesla holdings, Musk's net worth as of Friday is roughly $1.05 trillion.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-13",
+      "link": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html"
+    },
+    {
+      "id": "37d03df8-2d23-811d-baef-d4f6315df814",
+      "title": "SpaceX COO Shotwell says Tesla tie-up ‘might make Elon’s life a little easier’",
+      "summary": "As SpaceX prepared to hit the Nasdaq following its record IPO, Elon Musk's second-in-command didn't dismiss the possibility of a Tesla tie-up.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-13",
+      "link": "https://www.cnbc.com/2026/06/12/spacex-coo-shotwell-tesla-deal-makes-elons-life-a-little-easier.html"
+    },
+    {
+      "id": "37d03df8-2d23-8113-ac93-fede59562d72",
+      "title": "David Hockney has died at 88. One theme was constant in his 7-decade career: Never stop working.",
+      "summary": "\"I have to paint, I've always wanted to make pictures since I was tiny,\" Hockney said in an interview filmed at his home in France in 2019.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/david-hockney-dead-at-88-work-ethic-never-stop-working-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-81d6-a0dd-dcb89da24fa1",
+      "title": "Every single Steven Spielberg movie, ranked from worst to best",
+      "summary": "Steven Spielberg is one of the most successful directors in the history of movies. We have ranked all his movies from worst to best.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/steven-spielberg-movies-ranked-from-worst-to-best"
+    },
+    {
+      "id": "37d03df8-2d23-81b1-b7a8-d8309a0821ea",
+      "title": "New SpaceX millionaires are reinventing the business of managing large wealth",
+      "summary": "Wealth advisors say SpaceXers have unique ways of addressing their financial challenges, including whiteboarding, troubleshooting and AI.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-13",
+      "link": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html"
+    },
+    {
+      "id": "37d03df8-2d23-8161-8603-fcace1620f45",
+      "title": "Inside David Solomon's letter to Goldman interns: SpaceX, more M&A, and how to thrive in an 'innovation supercycle'",
+      "summary": "Goldman Sachs CEO David Solomon advised interns to \"manage your energy\" as they enter the firm during an \"innovation supercycle.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/david-solomon-goldman-sachs-summer-intern-letter-spacex-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-81da-bcd4-eda028f37db2",
+      "title": "Everything Taylor Swift has worn this year, ranked from worst to best",
+      "summary": "Taylor Swift has been busy the past few months, attending awards shows, sporting events, and more. Here are her standout looks and what they cost.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/taylor-swift-outfits-ranked-2026"
+    },
+    {
+      "id": "37d03df8-2d23-819c-ac0c-c80f506149c9",
+      "title": "After leaving my rural hometown for a big city, I never thought I'd be back. Now that I am, I can't believe I ever left.",
+      "summary": "When I finally got to move from my rural hometown in North Carolina to Chicago, it felt like a dream. I never thought I'd come back, but I was wrong.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/moved-back-to-small-town-after-living-city-hometown-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-81e5-a38b-f98a5dbdca5b",
+      "title": "I played in the World Cup for Team USA — then I had kids and it changed my definition of success",
+      "summary": "Former USMNT midfielder Maurice Edu says fatherhood has become more important to him than any accomplishment in soccer.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/maurice-edu-fatherhood-more-important-than-soccer-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-81df-a5e2-fd129970b58a",
+      "title": "A trillion dollars is a stupid amount of money",
+      "summary": "Elon Musk is now officially the world's first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have. Its scale - a thousand times more than a billion - is difficult to fathom for those of us who aren't among the 3,363 billionaires that currently exist in ",
+      "source": "The Verge",
+      "publishTime": "2026-06-13",
+      "link": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization"
+    },
+    {
+      "id": "37d03df8-2d23-811a-9522-d1a41cc55990",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and ha",
+      "source": "The Verge",
+      "publishTime": "2026-06-13",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo"
+    },
+    {
+      "id": "37d03df8-2d23-81bb-a325-efc492baad24",
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public markets in the same windo",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-13",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/"
+    },
+    {
+      "id": "37d03df8-2d23-8150-b532-c06e8cf38c1d",
+      "title": "I took a weeklong cruise and didn't check a bag. Here are 10 items I'm glad I packed and 9 things I'll bring next time",
+      "summary": "I took my first cruise on Royal Caribbean's Wonder of the Seas. I was glad I packed a magnet and the right shoes, but I longed for laundry soap.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/7-day-cruise-packing-list-carry-on-suitcase"
+    },
+    {
+      "id": "37d03df8-2d23-8101-a82e-f54f9aad4652",
+      "title": "I held the Trump phone",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. We don't have the phones we preordered yet, but this week included an unexpected in-person encounter with the T1. You see a lot of interesting phones whe",
+      "source": "The Verge",
+      "publishTime": "2026-06-13",
+      "link": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on"
+    },
+    {
+      "id": "37d03df8-2d23-81e7-9073-ccf73291000c",
+      "title": "有史以来最大更新：苹果发布 Core Image RAW 9 处理管线，提升 RAW 图像质量",
+      "summary": "IT之家 6 月 12 日消息，苹果在 WWDC26 上发布了 Core Image RAW 9 处理管线及其 API。IT之家获悉，这是自 2017 年 RAW 8 发布以来，Core Image RAW 的首次重大版本更新。苹果工程师将其称之为“有史以来最大的一次更新”。官方表示，来自任何相机的 RAW 照片在被显示或编辑之前，都需要进行“特殊处理”。初期的 RAW 数据解析（parsing）和去马赛克（demosaicing）过程，是所有 RAW 处理软件不可或缺的核心环节。所有这些 RAW 图像传感器数据都必须经过软件的解释，才能被查看或进一步处理。现在，去马赛克和降噪过程现在会在一个",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/729.htm"
+    },
+    {
+      "id": "37d03df8-2d23-8100-a998-ce4c8d47d9de",
+      "title": "Jim Cramer calls this chipmaker his No. 1 stock — and sees 63% upside ahead",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-12",
+      "link": "https://www.cnbc.com/2026/06/12/cramer-calls-this-chipmaker-his-no-1-stock-and-sees-63percent-upside-ahead.html"
+    },
+    {
+      "id": "37d03df8-2d23-81f8-acbc-c448c410422a",
+      "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+      "summary": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-12",
+      "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/"
+    },
+    {
+      "id": "37d03df8-2d23-81ac-82a5-f1959ffe7a6a",
+      "title": "SpaceX opens at $150, an 11% pop for the most anticipated debut in history",
+      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-12",
+      "link": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/"
+    },
+    {
+      "id": "37d03df8-2d23-814f-8a18-c5f61a1d07ef",
+      "title": "开盘市值突破两万亿美元位列美股第七：SpaceX 正式开启公开交易，马斯克成为全球首位万亿美元富豪",
+      "summary": "IT之家 6 月 12 日消息，SpaceX 今晚在纳斯达克上市后正式开启美股交易，开盘报 150 美元，截至IT之家发稿已经涨超 168 美元每股，较 IPO 发行价（135 美元）涨超 24.44%，市值突破 2.15 万亿美元（现汇率约合 14.59 万亿元人民币），目前位列美股市场第七位。据《福布斯》估计，马斯克身价净增 2,088 亿美元，净资产已达 1.15 万亿美元（现汇率约合 7.81 万亿元人民币）左右，高于周四 SpaceX 首次公开募股（IPO）时的 9820 亿美元，成为全球首位万亿美元富豪。SpaceX 每股发行价 135 美元，共发行约 5.556 亿股，募资约 7",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/728.htm"
+    },
+    {
+      "id": "37d03df8-2d23-81c6-974c-c692369b32e2",
+      "title": "消息称 SK 海力士赴美上市选择纳斯达克而非纽约证券交易所：科技属性更浓",
+      "summary": "IT之家 6 月 12 日消息，据路透社 12 日（今天）援引两名知情人士消息称，SK 海力士计划赴美上市，并考虑选择纳斯达克。SK 海力士希望借助纳斯达克浓厚的科技股属性，吸引看好 AI 概念股的投资者。美国上市最早可能在 8 月进行。今年以来，SK 海力士股价已上涨 230%，并在 5 月带动市值突破 1 万亿美元。赴美上市预计将帮助 SK 海力士扩大投资者基础，也提升全球资本市场对 SK 海力士的关注度。知情人士称，SK 海力士最终选择了纳斯达克，而不是纽约证券交易所。据悉，存储芯片股今年表现显著强于大盘，美光股价上涨约 248%，纳斯达克综合指数同期上涨约 11%。同时，纳斯达克也是 ",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/727.htm"
+    },
+    {
+      "id": "37d03df8-2d23-81e6-aa13-d6fc2dc63f1e",
+      "title": "东风日产 N 序列新能源第 10 万台下线，用时 14 个月刷新央企合资品牌新能源 10 万台销量最快纪录",
+      "summary": "IT之家 6 月 12 日消息，东风日产今日宣布，东风日产 N 序列新能源第 10 万台下线。日产中国管理委员会主席、东风汽车有限公司总裁马智欣表示，日产汽车 N 序列新能源第 10 万台下线用时 14 个月，刷新了央企合资品牌新能源 10 万台销量最快纪录。据IT之家此前报道，2025 年 4 月，东风日产 N7 纯电轿车上市，官方指导价 11.99 万元起；2025 年 12 月，东风日产 N6 插混轿车上市；今年 4 月，东风日产增程 SUV 车型 NX8 上市，官方指导价 15.99 万元起。▲ 东风日产 NX8今年 5 月，东风日产宣布推出「三无忧」服务，N6/N7/NX8 新老车主",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/726.htm"
+    },
+    {
+      "id": "37d03df8-2d23-8101-83bf-d1d57a850a50",
+      "title": "字节豆包上线“任务模式”：支持定时执行、代码运行与文件生成，“思考模式”已升级为“专家模式”",
+      "summary": "IT之家 6 月 12 日消息，前天，字节跳动旗下 AI 应用豆包已针对付费订阅开放灰度测试，除此之外，当时还有另一个“任务模式”也开启测试。直到今天，豆包“任务模式”已经大范围上线。IT之家实测发现，大部分用户打开豆包首页就能看到官方提示。用户打开豆包 App 后，界面顶部的模式切换选项也已经变更为“快速、专家、任务”，标志着这款 AI 助手的产品功能定位正在发生结构性调整。据豆包官方介绍，新上线的“任务模式”定位为智能体（Agent）能力，区别于传统 AI 对话式的单步问答模式，它可以自主完成从任务拆解、步骤规划、工具调用到结果交付的全链路执行，直接向用户输出可用的成品。用户无需通过多轮对",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/725.htm"
+    },
+    {
+      "id": "37d03df8-2d23-8129-a9e0-c7b8e96891c9",
+      "title": "Meta CEO 扎克伯格：推动 AI 进步不需千人规模，十余名尖端人才就够了",
+      "summary": "IT之家 6 月 12 日消息，据《商业内幕》12 日（今天）报道，AI 人才争夺战虽然激烈，但 Meta CEO 马克 · 扎克伯格认为，AI 领域真正的突破并不一定要靠庞大的研究团队。“要推动 AI 进步，并不需要几百名甚至几千名 AI 研究人员。我认为，一个由十几人或二十几人组成的强大团队，就真的可以取得进展。”扎克伯格是在与妻子普莉希拉 · 陈一起谈到 Biohub 时作出上述表态的。Biohub 是二人创办的非营利医学研究组织，使命是结合 AI 与生物学，帮助科学家在 21 世纪末前治愈、预防或管理所有疾病。在扎克伯格看来，AI 研究人员确实有很多职业选择，但 Biohub 的工作内",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/723.htm"
+    },
+    {
+      "id": "37d03df8-2d23-8162-972d-ea5151500719",
+      "title": "苹果 Siri AI 仅限较新设备：iPhone 15 Pro 起步、Mac 需 Apple Silicon 芯片，端侧 AI 模型门槛更高",
+      "summary": "IT之家 6 月 12 日消息，苹果于 6 月 9 日在 WWDC 26 上正式发布了新一代操作系统 iOS 27、iPadOS 27、macOS 27 Golden Gate、watchOS 27 以及 visionOS 27。作为本次系统更新的核心亮点，深度集成 Apple Intelligence 的全新 Siri AI 迎来了重大升级。然而，根据苹果官方公布的兼容性信息，这款经过人工智能重构的语音助手将仅限较新的设备使用。在 iPhone 阵营，iOS 27 操作系统本身可向下兼容至 iPhone 11 及更新机型，但 Siri AI 的完整功能仅面向 iPhone 15 Pro、iP",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/722.htm"
+    },
+    {
+      "id": "37d03df8-2d23-814b-84a6-fc3f8f3bbddc",
+      "title": "三星官网公布 Galaxy A27 5G 手机参数：骁龙 6 Gen 3 芯片，5000mAh 电池",
+      "summary": "IT之家 6 月 12 日消息，据科技媒体 SammyGuru 今天报道，三星捷克官网上架了 Galaxy A27 手机，使得这款手机的参数得以公开，不过具体定价仍未公布。这款手机搭载骁龙 6 Gen 3 芯片，有 6GB+128GB 和 8GB+256GB 版本可选，出厂预装了基于 Android 16 的 One UI 8.5 系统，电池容量 5000mAh、支持 25W 充电，厚 7.8mm。这台手机提供黑色、蓝色、浅绿色和浅粉色四种配色可选，搭载了一块 6.7 英寸的 FHD+ Super AMOLED 显示屏，覆盖康宁大猩猩玻璃 Victus+ 玻璃，支持 IP64 级防尘防水。IT",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/720.htm"
+    },
+    {
+      "id": "37d03df8-2d23-812b-8eb5-ca860437abbc",
+      "title": "华为余承东：鸿蒙 HarmonyOS 成为中国第二大智能手机操作系统",
+      "summary": "IT之家 6 月 12 日消息，在今日的华为开发者大会 HDC 2026 上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发布了新一代鸿蒙 HarmonyOS 7 操作系统，围绕互联、智能、安全、流畅、空间感五个维度进行升级，同时迈向智能体时代。余承东在 HDC 2026 现场宣布，鸿蒙 HarmonyOS 已成为中国第二大智能手机操作系统。IT之家在 HDC 2026 现场了解到，目前搭载鸿蒙 HarmonyOS 6 操作系统的终端设备数量已突破 6600 万台，注册开发者超 1100 万，华为应用市场可获取应用与服务超 40 万款，应用日均下载量已超 2 亿次，鸿蒙生态已",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/721.htm"
+    },
+    {
+      "id": "37d03df8-2d23-8178-b593-d0f4d8028b23",
+      "title": "能模拟 Switch 游戏的 Retroid Pocket 6 掌机回归：12GB 内存，但存储砍到 128GB",
+      "summary": "IT之家 6 月 12 日消息，Retroid 今年 3 月曾因内存成本暴涨，临时下架 Pocket 6 的 12GB RAM 版本。而在今晚，该公司在 Discord 上宣布，Pocket 6 将再次提供 12GB RAM 版本。不过，重新开售的版本从原本的 12GB/256GB 改为 12GB/128GB。好在 Pocket 6 仍配备 microSD 卡槽，和市面上多数掌机一样可以扩展存储。12GB/128GB 版 Retroid Pocket 6 只提供左摇杆上置布局（左模拟摇杆位于十字键上方）。配色方面，Retroid 提供黑色、银色和 16-bit 三种选择。12GB/128GB ",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/719.htm"
+    },
+    {
+      "id": "37d03df8-2d23-81f6-920d-e80b2ad5cb0c",
+      "title": "Planning to live with my boyfriend pushed us to finally discuss finances. Instead of moving in together, we broke up.",
+      "summary": "My boyfriend and I had plans to move in together, but talking about how we'd pay rent made me realize we had different values. We decided to break up.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-12",
+      "link": "https://www.businessinsider.com/talking-about-money-made-us-break-up-moving-together-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-81a3-9100-d5470bc4f188",
+      "title": "Govee&#8217;s rechargeable smart table lamp is down to $60",
+      "summary": "Whether you’re planning a backyard barbeque or a World Cup watch party, Govee’s Table Lamp Classic can help set the mood with color-changing lighting effects. Right now it’s down to just $59.99 ($20 off) at Amazon, which is its best price yet. The rechargeable lamp can last up to 30 hours on a singl",
+      "source": "The Verge",
+      "publishTime": "2026-06-12",
+      "link": "https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale"
+    },
+    {
+      "id": "37d03df8-2d23-819d-90cf-d0f3f1cf7543",
+      "title": "英伟达未发布的 RTX 2080 Ti SUPER 显卡首次曝光：拥有 4608 个 CUDA 核心与 12GB 显存，规格直逼 Titan RTX",
+      "summary": "IT之家 6 月 12 日消息，VideoCardz 今日发现，一款英伟达从未发布过的图灵旗舰显卡 ——GeForce RTX 2080 Ti SUPER（工程样品）在 eBay 上现身。根据 eBay 商品页面描述，这张原型卡搭载了完整的 TU102 图灵 GPU 核心，CUDA 核心数量达到 4608 个，相比零售版 RTX 2080 Ti（4352 个）有了显著提升。显存方面，该卡配备 12GB GDDR6 显存，位宽为完整的 384-bit，而零售版 RTX 2080 Ti 的显存配置为 11GB 和 352-bit 位宽。从规格来看，RTX 2080 Ti SUPER 实际上更接近于",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/718.htm"
+    },
+    {
+      "id": "37d03df8-2d23-81dd-849b-fb90da238196",
+      "title": "I tried 'the best Cuban sandwich in Miami.' It lived up to the hype.",
+      "summary": "I tried the Cuban sandwich from Sanguich in Miami, which has been rated the best Cuban sandwich in the city by locals, visitors, and critics.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-12",
+      "link": "https://www.businessinsider.com/sanguich-miami-best-cuban-sandwich-review-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-81e5-99cf-d0990fdb9166",
+      "title": "华为鸿蒙 HarmonyOS 开发套件版本号格式调整：统一 API 与 OpenHarmony 体系，分 X.Y.Z 字段",
+      "summary": "IT之家 6 月 12 日消息，在今天的华为开发者大会 HDC 2026 上，HarmonyOS 开发套件 26.0.0 Beta1 版本正式面向开发者发布。IT之家注意到，本次发布对 HarmonyOS 开发套件的版本号格式进行了调整，统一采用 API 版本进行描述。API 版本号可在搭载 HarmonyOS 的设备的设置中查询。从 API 版本 26.0.0 开始，API 版本号统一采用语义化版本（Semantic Versioning，简称 SemVer）格式（X.Y.Z），取代原有的格式。这一变更旨在：统一 HarmonyOS 开发套件版本（API 版本）及其底座 OpenHarmon",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/717.htm"
+    },
+    {
+      "id": "37d03df8-2d23-8179-8e75-cbae4c6cd9c4",
+      "title": "I work with college students, and they're more prepared for the AI-focused workforce than anyone. But they can't get jobs.",
+      "summary": "Companies are prioritizing AI over college grads, which is a mistake. The college students I meet are more skilled than typical entry-level employees.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-12",
+      "link": "https://www.businessinsider.com/gen-z-grads-better-prepared-ai-workforce-cant-get-jobs-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-8107-a290-dba9871458c5",
+      "title": "世界超级摩托车锦标赛艾米利亚罗马涅站：张雪机车车手德比斯夺得超级杆位赛第三",
+      "summary": "IT之家 6 月 12 日消息，据央视新闻，在刚刚结束的 2026 世界超级摩托车锦标赛（WSBK）艾米利亚罗马涅站 WorldSSP 组别比赛中，中国摩托车制造商“张雪机车”的法国车手瓦伦丁 · 德比斯位列超级杆位赛第三名。本节赛事将决定本组别第一回合正赛的发车顺位。IT之家从 WorldSBK 艾米利亚罗马涅站比赛时间表获悉，北京时间 6 月 13 日 20 时，“张雪机车”将参加第一回合正赛；北京时间 6 月 14 日 21 时 15 分，“张雪机车”将参加第二回合正赛。",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/716.htm"
+    },
+    {
+      "id": "37d03df8-2d23-8132-a6dd-fc47852fee2e",
+      "title": "曾毓群：很多人想进入电池行业，第一件事就是到宁德时代挖人、或者偷一点技术",
+      "summary": "IT之家 6 月 12 日消息，据财经报道，宁德时代董事长曾毓群在接受采访时表示，中国的光伏产业、光伏技术还是世界最好，那世界最好的技术为什么不赚钱呢？就是因为知识产权没保护，恶性竞争。新的技术出来了，瞬间卖给另外一家，另外一家瞬间把它 copy 完。跟你同样的东西，他研发投入少但是低价卖。对于“价格战”，曾毓群称宁德时代不打价格战，其他人一直在打价格战，产品性能不到宁德时代的百分之六七十，价格比宁德时代低百分之十几、二十。曾毓群表示：很多人想进入电池行业，第一件事情就是找到宁德时代挖人，或者偷一点技术，然后再到设备厂商，再到材料厂商，人家有什么配方，然后合在一起说我有钱投，就进去了。人家去模",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/715.htm"
+    },
+    {
+      "id": "37d03df8-2d23-8178-922b-f255335b895f",
+      "title": "Portland Leather Goods was buried in social media messages. An AI startup helped them automate the process.",
+      "summary": "Portland Leather Goods partnered with AI startup Nectar Social to speed up social media response times with its five-person team.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-12",
+      "link": "https://www.businessinsider.com/portland-leather-goods-social-media-strategy-nectar-social-ai-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-8112-9d77-ecd21189b4d5",
+      "title": "高盛总裁沃尔德伦：SpaceX 创纪录 IPO 表明投资者愿为 AI、太空基建买单",
+      "summary": "IT之家 6 月 12 日消息，北京时间今晚，SpaceX 正式开盘交易，上市首日高开 29% 跻身全球第 6 大上市公司，并以募资 750 亿美元（现汇率约合 5090.72 亿元人民币）的成绩创下全球最大 IPO 纪录，马斯克也成功成为人类史上首位万亿美元富豪。而在数小时前，高盛集团总裁约翰 · 沃尔德伦在接受彭博社采访时表示，SpaceX 创纪录的 IPO 表明，投资者正积极为 AI 基础设施建设提供资金。“不论美国还是全球的资本市场，都在展现出为 AI 基础设施建设和太空领域建设提供资金的意愿。”沃尔德伦乐观估计，今天会是“美妙的一天”。高盛牵头负责 SpaceX IPO，摩根士丹利、",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/714.htm"
+    },
+    {
+      "id": "37d03df8-2d23-8104-bda5-fdc4655a456a",
+      "title": "《影之刃：零》直面《GTA6》：梁其伟称其专注于产品本身、优先保障低配玩家游戏体验",
+      "summary": "IT之家 6 月 12 日消息，在索尼本月举行的 State of Play 发布会上，国产动作游戏《影之刃：零》公布了全新的先导预告片，同时宣布将原定于 9 月 9 日的发售日推迟至 2026 年 10 月 29 日。这一新档期与 Take-Two 旗下 Rockstar Games 已确认将于 11 月 19 日发售的《侠盗猎车手 6》仅相隔三周。面对外界的猜测，游戏总监梁其伟今日在接受 PC Gamer 采访时给出了明确回应。他表示，团队作出延期决定的考量与《GTA6》或其他竞品无关，99% 的因素都来自产品自身的开发需求。梁其伟在采访中谈到，许多人猜测他们将发售日从异常拥挤的 9 月改",
+      "source": "IT之家",
+      "publishTime": "2026-06-12",
+      "link": "https://www.ithome.com/0/963/713.htm"
+    },
+    {
+      "id": "37d03df8-2d23-8121-b1a2-e0078ce84b11",
+      "title": "SpaceX’s massive IPO: all the latest news",
+      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first trillionaire. He’ll have more wealth, on paper at least, than the economies of nations like Ireland, Sweden, ",
+      "source": "The Verge",
+      "publishTime": "2026-06-12",
+      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk"
+    },
     {
       "id": "37d03df8-2d23-81de-9b25-f0f5b3778e5b",
       "title": "马斯克 IPO 敲钟前讲话：原以为 SpaceX 成功概率不到 10%",
@@ -24,382 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-06-12",
       "link": "https://www.businessinsider.com/colleges-highest-earning-graduates-every-state"
-    },
-    {
-      "id": "37d03df8-2d23-8186-a83d-e15bfed224ed",
-      "title": "SpaceX IPO, U.S.-Iran deal, Bezos on AI and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-12",
-      "link": "https://www.cnbc.com/2026/06/12/5-things-to-know-before-the-stock-market-opens.html"
-    },
-    {
-      "id": "37d03df8-2d23-811d-af62-e5311b4c64ac",
-      "title": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
-      "summary": "While SpaceX's IPO has caused alarm that it may be overvalued, some retail investors still want in.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-12",
-      "link": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html"
-    },
-    {
-      "id": "37d03df8-2d23-8176-8433-cf1fc93c0430",
-      "title": "How to get SpaceX stock — without buying the IPO",
-      "summary": "Investors will can hold SpaceX stock by virtue of owning shares in certain mutual funds and exchange-traded funds.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-12",
-      "link": "https://www.cnbc.com/2026/06/12/how-to-buy-spacex-stock-without-buying-the-ipo.html"
-    },
-    {
-      "id": "37d03df8-2d23-81e2-9fe0-f8a08b60a8b8",
-      "title": "See which World Cup stars take home the biggest paychecks, including 2 billionaires",
-      "summary": "The 2026 World Cup is expected to be the most profitable in history. See the tournament's highest-paid players.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-12",
-      "link": "https://www.businessinsider.com/highest-paid-players-world-cup-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-8198-832c-f3c4e93c55e4",
-      "title": "SpaceX IPO: Everything you need to know",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-12",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/"
-    },
-    {
-      "id": "37d03df8-2d23-8119-8b41-ddfdfbb4d077",
-      "title": "I attended pastry school in France. Here are 8 tricks I've learned for making the perfect cookies.",
-      "summary": "After attending pastry school in France, I've learned that using a kitchen scale and buying high-quality butter helps create the best cookies.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-12",
-      "link": "https://www.businessinsider.com/tips-for-making-best-cookies-from-professional-baker-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-813a-963e-e2e9689d4615",
-      "title": "今年秋季上市，华为乾崑｜启境 GX7 大五座 SUV 实车预告图亮相",
-      "summary": "IT之家 6 月 12 日消息，华为乾崑｜启境首款大五座 SUV—— 启境 GX7 的实车预告图现已公布，新车覆盖了伪装贴纸，整体用大量曲线营造出灵动的设计语言，还可看到车顶激光雷达、大尺寸尾翼和半隐藏式门把手。这款新车此前已在 5 月 29 日的启境 GT7 预售发布会上官宣，计划 2026 年秋季上市。启境官方表示，GX7 寓意“Grand eXploration”，即“伟大的探索”，新车将延续启境家族设计语言，进一步拓展车内空间，适配全阶段家庭出行需求。华为乾崑｜启境 GT7 已于今年 5 月 29 日开启预售，定位中大型智能猎装轿跑，共推出四款车型，首发 τ 定律数字底盘赤兔平台，并首",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/709.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8199-9460-d3fb8996011e",
-      "title": "反垄断调查结束，Netflix、迪士尼、亚马逊等六家流媒体向土耳其妥协",
-      "summary": "IT之家 6 月 12 日消息，土耳其竞争委员会（Competition Board）于当地时间 6 月 12 日宣布，针对 Netflix、迪士尼、亚马逊、BluTV、Exxen 和 Gain 六家流媒体巨头涉嫌垄断一案，各方已达成和解并正式结案。据介绍，这起始于 2025 年的调查，核心指控各平台利用“独家协议（排他性条款）”垄断土耳其本土内容与演职人员，且 Netflix 在筛选原创内容时涉嫌歧视本地制片商。最终各平台提交承诺并获官方批准，调查以承诺程序正式结案。IT之家附 Netflix 核心承诺如下：扶持新制作方：5 年内将一定比例的原创内容交由新本土制片商制作；3 年内每年举办“提",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/710.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8157-8c54-de5a16b9f2be",
-      "title": "I maxed out a credit card, traded in my car, and still struggled to afford the World Cup. Then I found a WhatsApp group.",
-      "summary": "This as-told-to essay is based on conversations with Rory Phillips-Hunter, a 37-year-old estate and maintenance manager from the UK.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-12",
-      "link": "https://www.businessinsider.com/world-cup-scotland-fan-traded-car-afford-ticket-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-8111-bb7f-fa272122234c",
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first",
-      "source": "The Verge",
-      "publishTime": "2026-06-12",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer"
-    },
-    {
-      "id": "37d03df8-2d23-810c-a053-d3de0cd9a9f0",
-      "title": "Crypto Guys Bought the Answer to the CIA’s Mysterious Kryptos Sculpture",
-      "summary": "They swear they haven’t peeked at the closely guarded secret and that they’ll keep the cryptographic competition going.",
-      "source": "Wired",
-      "publishTime": "2026-06-12",
-      "link": "https://www.wired.com/story/crypto-guys-bought-the-answer-to-the-cias-mysterious-kryptos-sculpture/"
-    },
-    {
-      "id": "37d03df8-2d23-81ff-af17-d56ef1c93487",
-      "title": "Russia wrapped a whole building in an anti-drone cage, satellite imagery shows. Ukraine fired on it with cruise missiles.",
-      "summary": "Cage armor has been used to protect vehicles on the battlefield, but it is unusual to see it covering an entire building.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-12",
-      "link": "https://www.businessinsider.com/russia-wrapped-building-anti-drone-cage-ukraine-used-missiles-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-8136-864c-cbe0c14946aa",
-      "title": "SpaceX 上市首日高开 29% 成全球第 6 大上市公司：募资 750 亿美元创最大 IPO 纪录，马斯克成为人类史上首位万亿美元富豪",
-      "summary": "IT之家 6 月 12 日消息，马斯克旗下 SpaceX 正式开盘交易，报 175 美元每股，较发行价高开 29.63%。这意味着马斯克身价暴增 2060 亿美元，总身家接近 1.19 万亿美元（现汇率约合 8.08 万亿元人民币），成为人类历史上首位万亿美元富豪。SpaceX 每股发行价 135 美元，共发行约 5.556 亿股，募资约 750 亿美元（IT之家注：现汇率约合 5090.72 亿元人民币），刷新全球最大 IPO 纪录。SpaceX 此次 IPO 认购需求超过发行规模 4 倍，吸引总需求超 3500 亿美元（现汇率约合 2.38 万亿元人民币），其中机构需求 2500 亿美元（",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/708.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81ef-ad79-c81bfc1ce7c6",
-      "title": "SpaceX is now public",
-      "summary": "SpaceX is now a publicly traded company. In one of the most highly anticipated and controversial public offerings of all time, the rocket venture helmed by Elon Musk started trading on Nasdaq on June 12th at the take-it-or-leave-it price of $135-per-share - though most retail investors will likely p",
-      "source": "The Verge",
-      "publishTime": "2026-06-12",
-      "link": "https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk"
-    },
-    {
-      "id": "37d03df8-2d23-817c-9650-ef6cffe256b8",
-      "title": "I love hosting pool parties, but it's expensive. 1 rule keeps me from going broke over summer.",
-      "summary": "Pool ownership is expensive. I changed how I host so the extra cost of entertaining doesn't land completely on me.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-12",
-      "link": "https://www.businessinsider.com/pool-entertaining-cost-save-money-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-81bb-9e28-ea69d5582f15",
-      "title": "全球最大 IPO：马斯克 SpaceX 在纳斯达克敲钟上市，成为人类史上首位万亿美元富豪",
-      "summary": "更新：SpaceX 开盘价报 175 美元每股，相比发行价 135 美元上涨 29%。IT之家 6 月 12 日消息，刚刚，马斯克（远程）带领一众 SpaceX 高管在纳斯达克敲响开市钟，首批交易大概会在北京时间 22:00 左右进行（抑制波动）。 按发行价每股 135 美元计算，其市值可达 1.77 万亿美元，为美股史上最大规模 IPO。届时，马斯克个人财富有望突破 1 万亿美元（IT之家注：现汇率约合 6.79 万亿元人民币）大关。纳斯达克本次为 SpaceX 的 IPO 仪式布置十分简约。交易所身处时代广场，平日里游客络绎不绝，但现场没有布置任何标识牌或大型显示屏来烘托这场重磅上市活动。",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/706.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81fe-8e23-c252531212ad",
-      "title": "小米汽车：家用充电机械臂预计 2026 年第四季度上市销售",
-      "summary": "IT之家 6 月 12 日消息，小米汽车昨日公布家用充电机械臂演示视频，可实现「自动插枪充电」和「自动拔枪收纳」，实现充电全程无需人工干预。IT之家注意到，小米汽车官方今日发布小米汽车答网友问（第 256 集），称小米汽车家用充电机械臂预计 2026 年第四季度上市销售。官方表示，这是一款面向家庭用户的智能充电解决方案，是小米「人-车-家」生态中的重要一环，打造从泊车辅助到自动充电的全场景智能体验。视频为真实场景拍摄，所展现的功能都可以实现量产交付。小米汽车官方还公布了家用充电机械臂可以满足的使用场景：可实现“懒人充电”，泊车后自动进行插枪充电，车主全程无需任何指令或操作，停好车，下车走人即可",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/705.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81de-ae9d-eeec530a3f74",
-      "title": "Sorry, the Ooni pizza oven is totally worth it",
-      "summary": "Summer is approaching, which means it's time to enjoy some gloriously warm weather beside the grill. But let me pitch you on an alternative: Instead of the usual burgers, hot dogs, and kebabs, what if you made pizza? I've been doing this for a few years now, and while I still love to grill, it […]",
-      "source": "The Verge",
-      "publishTime": "2026-06-12",
-      "link": "https://www.theverge.com/gadgets/943057/ooni-portable-pizza-oven-is-great-for-bbqs"
-    },
-    {
-      "id": "37d03df8-2d23-812a-9371-f33633f46ee2",
-      "title": "2027 款奇瑞星途 ES 开启预售，18.99 万元起",
-      "summary": "IT之家 6 月 12 日消息，奇瑞 2027 款星途 ES 今日正式开启预售，提供纯电与增程双动力可选，共推出三款车型，预售价 18.99 万元起：增程 302 Max 激光雷达版：18.99 万元增程 255 Ultra 四驱激光雷达版：20.99 万元纯电 860 Max 激光雷达版：21.99 万元新车长宽高分别为 4945/1978/1480mm，轴距为 3000mm；搭载全新升级的飞鱼底盘 2.0，采用前高阶双叉臂 + 后五连杆独立悬架核心结构，车身侧向支撑提升 50%。2027 款星途 ES 配备 Orin-Y 芯片 + 激光雷达，拥有 27 颗高精度感知传感器；配备 R-EPS",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/704.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8105-9e6d-d173b6b9d494",
-      "title": "京东方：板级玻璃基封装载板试验线 2026 年上半年实现全自动化通线，月产能 1000 片",
-      "summary": "IT之家 6 月 12 日消息，京东方 A 今日发布投资者关系活动记录表，显示公司板级玻璃基封装载板试验线已于 2026 年上半年实现全自动化设备通线。根据公告内容，京东方于 2020 年启动玻璃基载板技术调研，2022 年投资 3.9 亿元建设了玻璃基与硅基兼容的晶圆级创新实验平台，2024 年进一步投资 9.93 亿元建设板级玻璃基封装载板试验线，该试验线于 2025 年内完成主设备搬入调试，设计产能为 1000 片 / 月。京东方表示，目前该公司已实现了 TGV 开孔、深孔填铜、增层、布线等玻璃基封装载板全流程工艺拉通，并于 2025 年完成了大尺寸高层数（9-2-9，20 层）玻璃基载",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/703.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81b1-a349-cf13d1388d58",
-      "title": "Every single Jennifer Lopez movie, ranked",
-      "summary": "Lopez, a multi-hyphenate, has starred in a few dozen films over the years, including hits such as \"Hustlers,\" \"Out of Sight,\" and \"Office Romance.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-06-12",
-      "link": "https://www.businessinsider.com/every-jennifer-lopez-movie-ranked"
-    },
-    {
-      "id": "37d03df8-2d23-8185-81c6-e304809be091",
-      "title": "A White Supremacist Youth Group Helped Orchestrate the Belfast Riots",
-      "summary": "After Elon Musk and Tommy Robinson stoked anger over a horrific knife attack in Belfast, a youth group linked to a global neo-Nazi movement quietly orchestrated anti-immigrant riots.",
-      "source": "Wired",
-      "publishTime": "2026-06-12",
-      "link": "https://www.wired.com/story/a-white-supremacist-youth-group-helped-orchestrate-the-belfast-riots/"
-    },
-    {
-      "id": "37d03df8-2d23-81bc-808d-c8d369512ef5",
-      "title": "四电机 +100kWh 电池加持，宝马 BMW M 新世代概念车首秀",
-      "summary": "IT之家 6 月 12 日消息，赶在勒芒赛事之前，宝马于北京时间今晚发布了 BMW M 新世代概念车。这款概念车基于 Neue Klasse 下一代架构打造，也首次展示了宝马 M 部门面向电动化时代的新设计语言。IT之家从介绍获悉，新车遵循“生于赛道，不止于赛道”的理念，意在把宝马赛车运动传统与下一代纯电技术结合起来，车身比例颇具力量感，线条利落，轮拱更宽，肩部姿态也更有肌肉感。外观上，宝马标志性的双肾格栅与头灯融为一体，让前脸呈现出更接近鲨鱼的姿态。新车还首次引入 M 黄色灯组和三维 Track Lights。M 黄色灯组灵感来自 GT 赛车和宝马 M Hybrid V8，未来这两项灯光设计",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/701.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8130-8352-c10c7e19e39d",
-      "title": "果链巨头立讯精密 H 股上市获中国证监会备案，拟发行不超 4.41 亿股",
-      "summary": "IT之家 6 月 12 日消息，立讯精密今晚发布公告称，公司发行境外上市外资股（H 股）并在香港联交所主板上市的申请，已获得中国证监会备案。根据备案通知书，立讯精密本次拟发行的境外上市外资股数量不超过 440,993,700 股，该发行方案已通过监管部门的备案程序。公开信息显示，立讯精密的港股上市计划已于 2025 年 7 月经公司董事会审议通过，随后公司启动了赴港上市的各项工作。2025 年 8 月 18 日，立讯精密正式向香港联交所递交了 H 股发行上市的申请材料，并于 2026 年 2 月 27 日更新递交了申请资料。按照港交所上市流程，企业向香港联交所提交 A1 申请后，需在规定时限内",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/702.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81ca-bd1f-f407cd279006",
-      "title": "微星董事长徐祥：CPU 缺货 Q2-Q3 有望缓解，内存涨价有助于避免厂商陷入价格战",
-      "summary": "IT之家 6 月 12 日消息，全球 PC 零组件供应链的紧张局势仍在持续，而大家普遍关心的内存涨价现象迟迟不见缓解。据中国台湾《经济日报》今日报道，微星董事长徐祥 6 月 11 日在股东会后接受采访时表示，内存原厂当前仅按月告知供货数量与价格，导致品牌厂商的供货能见度仅一个月，但 CPU 缺货问题有机会在第 2~3 季度缓解。徐祥指出，内存价格在 2026 年第一季度大幅攀升，已深刻扰动 PC 产业链的正常运行。受内存短缺波及，英伟达向 OEM 合作伙伴供应的游戏 GPU 芯片数量在第一季度下降了约 30%，使得行业内“价格战”压力有所缓解。同时，渠道商因预期内存持续上涨而提前拉货，使得上半",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/700.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8108-ad24-c2f63325ea1e",
-      "title": "奥迪中国 CFO 罗彼得：推出 AUDI 字母系列品牌战略酝酿了近三年，是针对不同客群做出的差异化布局",
-      "summary": "IT之家 6 月 12 日消息，据新浪汽车报道，在 2026 中国汽车重庆论坛，奥迪（中国）首席财务官罗彼得（Peter Rosken）在现场圆桌论坛上谈到：推出字母系列品牌（AUDI）战略其实酝酿了近三年。罗彼得表示，四环经典标识与全新字母系列产品，有着一脉相承的品牌内核，只是我们针对不同客群做出了差异化布局。业内对此也存在不少讨论，我们和德国总部团队也多次交流探讨，但我们始终坚信，这条聚焦运动化、差异化发展的道路，就是适合我们的方向。据IT之家此前报道，2024 年 11 月，奥迪和上汽集团合作推出全新品牌 AUDI。新品牌使用“AUDI”字母标识，而不是奥迪标志性的四个圈。2025 年 ",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/695.htm"
-    },
-    {
-      "id": "37d03df8-2d23-819a-afd7-f6b1747d4147",
-      "title": "广汽昊铂 S600 上市：权益价 17.99 万-19.99 万元，定位新豪华智慧运动 SUV",
-      "summary": "IT之家 6 月 12 日消息，广汽昊铂 S600 今晚正式上市，新车推出纯电、增程双动力共 4 款车型，上市权益价 17.99-19.99 万元，定位为“新豪华智慧运动 SUV”。IT之家汇总新车主要信息如下：广汽昊铂 S600 车身尺寸为 5015mm/1933mm/1700mm，轴距为 2936mm，搭载山海之境 ISD 智能交互尾灯，提供茱比莉红、夜影黑、冰岩灰、玛瑙紫、极地白、液钛银、深海绿等车漆，以及丹霞曦光、乌木流影、沙丘烁光等内饰。该车全系标配高通 8295P 旗舰芯片，17.3 英寸 3K 高清中控大屏、27 英寸 W-HUD 高清抬头显示。搭载 ADiGO Intellig",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/692.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81c9-9836-cc08ff782f58",
-      "title": "BMW’s Neue Klasse M concept brings next-gen EV tech to motorsports",
-      "summary": "Just in time for Le Mans, BMW is pulling the cover off its new M performance concept built on the Bavarian automaker's Neue Klasse next-generation architecture. The concept is the debut of a new design language for BMW's M division, signaling a shift toward a more electrified future. The company say",
-      "source": "The Verge",
-      "publishTime": "2026-06-12",
-      "link": "https://www.theverge.com/transportation/948635/bmw-neue-klasse-m-concept-motorsports-ev"
-    },
-    {
-      "id": "37d03df8-2d23-81e1-a4ec-f1f70c6d2d3c",
-      "title": "首起波音 787 致命空难一周年：印度 AAIB 发布调查中期声明，呼吁勿对空难原因妄加猜测",
-      "summary": "IT之家 6 月 12 日消息，印度航空 AI-171 航班空难迎来一周年。今晚，印度航空器事故调查局（AAIB）发布了一份调查中期声明，概述了过去一年来的调查进展。AAIB 在声明中首先向所有遇难者家属和受影响者表达最深切慰问。这起悲剧发生于 2025 年 6 月 12 日，涉事飞机为一架波音 787-8 客机，原计划从艾哈迈达巴德的萨达尔 · 瓦拉巴伊 · 帕特尔国际机场飞往伦敦，起飞后不久即发生事故。IT之家此前报道，AAIB 已于 2025 年 7 月发布了一份包含事实信息的初步报告。AAIB 表示，过去一年里，调查团队在相关组织的认可代表、技术顾问和专题专家的支持下，对与事故相关的所",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/686.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8156-a847-c7ae89505122",
-      "title": "印度为自动驾驶和安全汽车技术扫清频谱障碍，以减少事故伤亡",
-      "summary": "IT之家 6 月 12 日消息，据路透社 12 日（今天）报道，印度取消了汽车防撞和自动驾驶系统所用无线电频谱的许可要求，为汽车制造商扫除一项商业障碍。印度希望通过放宽频谱使用限制，推动先进安全技术上车，改善道路安全。报道指出，印度拥有全球死亡风险最高的道路环境之一，亦是全球第三大汽车市场。最新政府数据显示，印度 2024 年发生近 50 万起道路交通事故，造成超过 17.7 万人死亡。印度政府免除了 77GHz 至 81GHz 频段雷达传感器的许可证要求。企业今后可以直接使用这一频段，无需再由主管部门单独分配。印度政府另一份通知也放开了 5.9GHz 频段。该频段主要用于车辆与车辆、车辆与路",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/685.htm"
-    },
-    {
-      "id": "37d03df8-2d23-817f-898f-f484c200825e",
-      "title": "颠覆传统认知：中国科学家发现银河系恒星年龄呈现“U 形分布”",
-      "summary": "IT之家 6 月 12 日消息，据新华社今日报道，中国科学家在银河系恒星年龄研究方面取得重要发现。长期以来，天文学家普遍认为星系盘中的恒星年龄会随着与中心距离的增大而逐渐变小，即越靠近银河系外围的恒星越年轻。然而，来自云南大学的研究团队通过精确测定大量恒星的年龄数据，发现实际情况远比此前预期要复杂得多。▲ 图.左图：银河系河外视角想象图（来自美国宇航局）。右图：银河系年龄轮廓。横坐标半径单位为千秒差距（kpc），1kpc≈3.26 光年，纵坐标年龄单位为 10 亿年。论文第一作者、云南大学中国西南天文研究所教授连建辉介绍称，研究团队发现，从银河系中心到距离中心约 3.6 万光年的区域，恒星的平",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/684.htm"
-    },
-    {
-      "id": "37d03df8-2d23-818d-9ae2-c3f36c731d00",
-      "title": "Summer Upgrade Week",
-      "summary": "The sun is out, the sky is clear. It’s time to get outside and disconnect — from work, at least. This summer, we’re looking at all the ways to upgrade our free time indoors and out, from smart lights for the backyard to great gadgets to bring camping to ways to wind down at the local library.",
-      "source": "The Verge",
-      "publishTime": "2026-06-12",
-      "link": "https://www.theverge.com/tech/942658/summer-upgrade-week-2026"
-    },
-    {
-      "id": "37d03df8-2d23-8166-8ab1-e440b32c7248",
-      "title": "The Nintendo DS is still the best gaming handheld for travel",
-      "summary": "Even with the looming specter of rising prices, there's never been a better time for portable gaming. The Steam Deck has ushered in a new era of handheld PCs, the Analogue Pocket and other Game Boy-style remakes are making retro games more approachable than ever, the Playdate has led to an alternate",
-      "source": "The Verge",
-      "publishTime": "2026-06-12",
-      "link": "https://www.theverge.com/games/942678/nintendo-ds-rules-for-travel"
-    },
-    {
-      "id": "37d03df8-2d23-81e5-969b-e326178bf352",
-      "title": "围绕视频生成模型 Seedance 2.0 的应用落地，TVB 与字节火山引擎达成合作",
-      "summary": "IT之家 6 月 12 日消息，字节跳动旗下火山引擎今日宣布，与香港电视广播有限公司（TVB）达成深度合作。IT之家获悉，双方将围绕豆包视频生成模型 Seedance 2.0 的应用落地，在影视内容智能化生产、短剧制作、IP 商业化探索及云基础设施建设等方面展开合作。官方表示，火山引擎将与 TVB 旗下 FF 工作室展开协同，以 AI 短剧为契机，基于 Seedance 2.0 的视频生成能力，探索 AI 在短剧创作和制作流程中的应用。在云基础设施方面，火山引擎将为 TVB 提供虚拟机、对象存储、网络资源、云数据库、视频云、CDN 内容分发等云产品与服务。",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/683.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81ef-afe4-dfc198f92645",
-      "title": "国产 GPU 厂商沐曦股份筹划赴港上市，拟搭建“A+H”双资本平台",
-      "summary": "IT之家 6 月 12 日消息，沐曦集成电路（上海）股份有限公司（股票简称“沐曦股份”）今晚发布公告，称其第一届董事会第二十五次会议审议通过了《关于公司首次公开发行 H 股股票并在香港联合交易所有限公司主板上市的议案》及相关方案。公司在 6 月 12 日晚间披露的公告中确认，为满足业务发展的需要，进一步提升治理水平和核心竞争力，深入推进全球化战略，拟发行境外上市外资股（H 股）股票并申请在香港联交所主板挂牌上市。据公告披露，本次发行并上市的初始发行规模为拟发行的 H 股股份数不超过公司紧接发行后经扩大后总股本的 5%（超额配售权获行使前），并授予整体协调人或全球协调人不超过上述 H 股初始发行",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/682.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8160-9390-e4a4c97f9302",
-      "title": "SpaceX 总裁肖特韦尔“不排除”合并特斯拉：或许马斯克能轻松点",
-      "summary": "IT之家 6 月 12 日消息，围绕埃隆 · 马斯克旗下特斯拉与 SpaceX 可能进行超级合并的讨论，正在愈发火热。SpaceX 总裁格温 · 肖特韦尔在 12 日（今天）播出的 CNBC 采访中表示，特斯拉和 SpaceX 正在朝相同目标前进。对于未来是否可能合并，肖特韦尔并未排除其可能性。“实际上，那可能会让埃隆的生活轻松一点。毫无疑问，特斯拉和 SpaceX 的未来存在协同效应。我们未来想要实现的目标，肯定存在某种汇合。”不过，肖特韦尔补充称，眼下她更关注 SpaceX 的日常运转和雄心勃勃的扩张计划，而不是马斯克的两家公司合并。“至少，我现在没有关注未来的那一部分。”马斯克多年来一直",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/681.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8190-8b0d-d12d2d9ec5fa",
-      "title": "I'm addicted to TikTok's weird little games. That's a good thing for its ads business.",
-      "summary": "TikTok recently added mini games to its US app. I got hooked and learned a lot about advertising.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-12",
-      "link": "https://www.businessinsider.com/tiktok-app-mini-games-advertising-mobile-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-8151-9bc7-e8df01797ef1",
-      "title": "美国政府公布第三批 UFO / UAP 解密档案，网站访问量已超 17 亿次",
-      "summary": "IT之家 6 月 12 日消息，刚刚，美国国防部（又称战争部）公布了第三批解密的不明异常现象（UAP）历史档案文件。根据声明，第三批文件继续发布在 WAR.GOV/UFO 网站上，美国国防部后续还将以定期更新的方式放出更多档案资料。IT之家注意到，自 2026 年 5 月 8 日该网站上线以来，其全球访问量已超过 17 亿次。声明同时表示，美国国防部及其合作机构正在积极推进下一批 UAP 文件的发布工作。延伸阅读美国国防部（战争部）于 2026 年 5 月 8 日正式上线了 UFO 政府档案解密网站，并开始分批公布相关文件，内容包括不明飞行物调查记录、目击者证词及公开报告。在 2022 年，美",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/679.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81b0-9b79-c52c9faad9db",
-      "title": "长城哈弗 H6 经典版 2026 款官宣 6 月 15 日上市，升级咖啡智能座舱",
-      "summary": "IT之家 6 月 12 日消息，长城旗下哈弗 SUV 官方今日宣布，哈弗 H6 经典版 2026 款将于 6 月 15 日上市。IT之家从官方发布的海报获悉，新车升级咖啡智能座舱，搭载 14.6 英寸中控大屏，配备可见即可说、手车互联功能。官方暂未公布新车的更多参数，作为参考，现款哈弗 H6 经典版官方指导价为 12.19 万元。现款哈弗 H6 经典版长宽高分别为 4653x1886x1730 毫米，轴距 2738 毫米；搭载 1.5T 发动机，带有米勒循环、VGT 增压器和双 VVT 技术，最大功率 135 千瓦（最大净功率 130 千瓦），峰值扭矩 275 牛・米。▲ 现款哈弗 H6 经典",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/678.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81e3-ae5c-ea821139b9d3",
-      "title": "6 Best Digital Notebooks (2026): ReMarkable, Kobo, Kindle",
-      "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
-      "source": "Wired",
-      "publishTime": "2026-06-12",
-      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/"
-    },
-    {
-      "id": "37d03df8-2d23-81d1-9a4a-f8a752821e96",
-      "title": "中国软件：在政府采购活动中构成恶意串通，被财政部罚款 4.05 万元并被禁止参加政府采购活动一年",
-      "summary": "IT之家 6 月 12 日消息，上市公司中国软件与技术服务股份有限公司（股票简称“中国软件”）发布公告称，公司已收到财政部出具的《行政处罚决定书》。据公告披露，财政部认定中国软件在参与一项政府采购活动时，与其他供应商之间存在投标文件多处内容异常一致的情形，构成了《中华人民共和国政府采购法实施条例》第七十四条第（七）项所指的恶意串通行为。根据《中华人民共和国政府采购法》第七十七条第一款第（三）项的规定，财政部最终决定对中国软件处以罚款合计 40471 元，将其列入不良行为记录名单，并自处罚之日起一年内禁止参加政府采购活动。同时，财政部还责令中国软件就相关问题进行整改。中国软件方面表示，禁止期内，",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/677.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8133-8efb-faf6939326fd",
-      "title": "A US task force gearing up for a counter-drone fight put a new autonomous system to the test at the southern border",
-      "summary": "The long-range, non-kinetic autonomous platform can sense and disable small drones at extended ranges.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-12",
-      "link": "https://www.businessinsider.com/us-tests-new-autonomous-counter-drone-system-at-southern-border-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-810f-8ab4-f740e99a7228",
-      "title": "英伟达向中国客户推销 Vera 数据中心处理器：最快 8 月上市，直面英特尔 AMD 激烈竞争",
-      "summary": "IT之家 6 月 12 日消息，据路透社今日报道，英伟达已开始向中国客户推介其下一代数据中心处理器 Vera，其 CPU 并不受美国出口禁令限制。知情人士表示，英伟达方面已通知中国客户，这款面向 AI 数据中心的 CPU 最快可在今年 8 月上市，客户现在即可启动下单流程。英伟达对此拒绝置评，阿里巴巴和字节跳动亦未回应置评请求。英伟达于 3 月发布 Vera 时曾提及，阿里巴巴和字节跳动等领先云厂商正与其合作部署该处理器，但当时并未说明具体情况。消息人士称，中国客户计划最初仅在海外数据中心部署 Vera 进行测试。Vera 是英伟达首款独立 CPU，专为智能体 AI 和强化学习等场景设计，主要",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/676.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81af-85ba-e622be7d642b",
-      "title": "狼蛛推出有线磁轴键盘 F68 RX：星闪悦动双子星方案，299.15 元起",
-      "summary": "IT之家 6 月 12 日消息，狼蛛 (AULA) 今日即将发售有线键盘新品 F68 RX。这一型号采用星闪悦动双子星磁轴方案，PCB 集成双 MCU，全键直连 ADC，支持 8kHz 回报率、256kHz 全键扫描率，Rapid Trigger 精度 0.001mm，延迟 0.08ms。该键盘外壳为 ABS 材质，拥有 EchoRGB 星闪悦动灯光交互引擎；底部集成两段可调脚撑；配备原厂 (CHERRY) 高度 PC 材质顶侧雾面透光键帽；内部则采用硬 Gasket 结构，集成铝合金定位板与 5 层阻尼填充。狼蛛在 F98 RX 键盘上提供墨玉黑-钛灵磁轴、白冰橙-钛晶磁轴、雪樱粉-钛晶磁轴",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/675.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81df-a3d8-cdcd4665af82",
-      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
-      "summary": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-12",
-      "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/"
-    },
-    {
-      "id": "37d03df8-2d23-812f-8714-dd143ddf62d9",
-      "title": "美国警察涉嫌利用 AI 车牌识别系统监视前女友，多人被解雇甚至被捕",
-      "summary": "IT之家 6 月 12 日消息，据 TomsHardware 今日报道，一份调查报告显示，美国多个警察部门中，有数十名警员因滥用 Flock AI 车牌识别系统而被解雇，部分人员甚至遭到逮捕。据称，调查人员已经发现至少 18 起执法人员利用该 AI 系统跟踪他人，尤其是针对前任或现任伴侣的案件，而这可能只是滥用情况的冰山一角。报道从佛罗里达州奥兰治城警察 Jarmarus Brown 的案例切入。调查显示，Brown 在巡逻期间查询其前女友及其近亲属的车牌信息超过 100 次。有同事曾注意到他的行为并劝其停止，Brown 当时表示会收手，但最终还是没能克制住。当他最终被发现后，Brown 承认",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/674.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8164-ab6e-eb33810e1776",
-      "title": "淘宝闪购回应“遭同行企业长期有组织造谣抹黑”：支持警方依法严惩",
-      "summary": "IT之家 6 月 12 日消息，继京东之后，淘宝闪购 12 日（今天）傍晚通过官微回应某公司雇佣小笨文化等机构长期造谣抹黑同行企业被公安机关破获一事。淘宝闪购官方表示：“给力！四川省公安厅、成都市警方依法打击网络谣言，查处造谣抹黑者，有效维护了清朗网络空间。”淘宝闪购称，一段时间以来，某公司雇佣成都小笨文化等机构，通过炮制虚假信息，对淘宝闪购、京东外卖等企业进行了有组织、系统化、全方位的抹黑与造谣攻击。“这种做法扭曲了市场竞争的本来面目，更触及了法律的红线，相信法律一定会给予制裁。抹黑、谣言，伤害的从来不只是一家公司，而是商业生态的健康、行业创新的勇气，最终受损的，是整个社会赖以运行的信任基石",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/673.htm"
     }
   ],
   "macroEvents": [
