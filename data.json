@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-06-13 05:14",
+  "updatedAt": "2026-06-13 06:55",
   "news": [
+    {
+      "id": "37d03df8-2d23-81a5-bec8-f3169f5e43c6",
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+      "summary": "Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+      "source": "Wired",
+      "publishTime": "2026-06-13",
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
+    },
+    {
+      "id": "37d03df8-2d23-8112-b5e8-d346119ee2f5",
+      "title": "Zohran Mamdani has thoughts on Elon Musk becoming the world's first trillionaire",
+      "summary": "Zohran Mamdani, NYC mayor, reacts to Elon Musk's trillionaire status following SpaceX IPO, pushing for higher taxes on the wealthy.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/zohran-mamdani-pushes-tax-on-rich-elon-musk-trillionaire-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-817d-96d2-d246cce5a785",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-13",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/"
+    },
+    {
+      "id": "37d03df8-2d23-8195-a4da-ee2f115f3bc3",
+      "title": "SpaceX IPO: What you need to know",
+      "summary": "When SpaceX goes public, it will likely be the largest IPO in history. Business Insider's Dan DeFrancesco and Joe Ciolli discuss during in a live Q&A.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/spacex-ipo-what-you-need-to-know-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-8109-99a8-d73ac6f9e916",
+      "title": "My morning sweating it out with Elon Musk fanboys and SpaceX skeptics",
+      "summary": "I spent Friday morning at the Nasdaq building during SpaceX's historic IPO. Here's what the scene was like.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/nasdaq-spacex-ipo-listing-manhattan-elon-musk-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-81f3-9520-d6804bc9ca07",
+      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-13",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/"
+    },
+    {
+      "id": "37d03df8-2d23-8160-b393-f35232ba2e49",
+      "title": "Jamie Dimon is throwing a party to woo SpaceX employees who just struck it rich",
+      "summary": "Jamie Dimon is rolling out the red carpet for SpaceX employees. Take a look inside JPMorgan's lavish plan to celebrate SpaceX's blockbuster IPO.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/jpmorgan-jamie-dimon-spacex-employee-party-post-ipo-2026-6"
+    },
+    {
+      "id": "37d03df8-2d23-817c-b21b-c684f149cf55",
+      "title": "Nothing CEO says phone prices are going to keep going up",
+      "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range p",
+      "source": "The Verge",
+      "publishTime": "2026-06-13",
+      "link": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices"
+    },
+    {
+      "id": "37d03df8-2d23-8123-93f9-ed5b97bacbc0",
+      "title": "The one city making 70% of the world's footballs",
+      "summary": "Pakistan produces most of the world's footballs, but only a few manufacturers hold FIFA licenses. We visited Bola Gema to see what it takes.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/fifa-footballs-manufacturing-world-cup-testing-factory-2026-6"
+    },
     {
       "id": "37d03df8-2d23-8196-9068-caf1076eb313",
       "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
@@ -328,78 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-06-12",
       "link": "https://www.ithome.com/0/963/726.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8101-83bf-d1d57a850a50",
-      "title": "字节豆包上线“任务模式”：支持定时执行、代码运行与文件生成，“思考模式”已升级为“专家模式”",
-      "summary": "IT之家 6 月 12 日消息，前天，字节跳动旗下 AI 应用豆包已针对付费订阅开放灰度测试，除此之外，当时还有另一个“任务模式”也开启测试。直到今天，豆包“任务模式”已经大范围上线。IT之家实测发现，大部分用户打开豆包首页就能看到官方提示。用户打开豆包 App 后，界面顶部的模式切换选项也已经变更为“快速、专家、任务”，标志着这款 AI 助手的产品功能定位正在发生结构性调整。据豆包官方介绍，新上线的“任务模式”定位为智能体（Agent）能力，区别于传统 AI 对话式的单步问答模式，它可以自主完成从任务拆解、步骤规划、工具调用到结果交付的全链路执行，直接向用户输出可用的成品。用户无需通过多轮对",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/725.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8129-a9e0-c7b8e96891c9",
-      "title": "Meta CEO 扎克伯格：推动 AI 进步不需千人规模，十余名尖端人才就够了",
-      "summary": "IT之家 6 月 12 日消息，据《商业内幕》12 日（今天）报道，AI 人才争夺战虽然激烈，但 Meta CEO 马克 · 扎克伯格认为，AI 领域真正的突破并不一定要靠庞大的研究团队。“要推动 AI 进步，并不需要几百名甚至几千名 AI 研究人员。我认为，一个由十几人或二十几人组成的强大团队，就真的可以取得进展。”扎克伯格是在与妻子普莉希拉 · 陈一起谈到 Biohub 时作出上述表态的。Biohub 是二人创办的非营利医学研究组织，使命是结合 AI 与生物学，帮助科学家在 21 世纪末前治愈、预防或管理所有疾病。在扎克伯格看来，AI 研究人员确实有很多职业选择，但 Biohub 的工作内",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/723.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8162-972d-ea5151500719",
-      "title": "苹果 Siri AI 仅限较新设备：iPhone 15 Pro 起步、Mac 需 Apple Silicon 芯片，端侧 AI 模型门槛更高",
-      "summary": "IT之家 6 月 12 日消息，苹果于 6 月 9 日在 WWDC 26 上正式发布了新一代操作系统 iOS 27、iPadOS 27、macOS 27 Golden Gate、watchOS 27 以及 visionOS 27。作为本次系统更新的核心亮点，深度集成 Apple Intelligence 的全新 Siri AI 迎来了重大升级。然而，根据苹果官方公布的兼容性信息，这款经过人工智能重构的语音助手将仅限较新的设备使用。在 iPhone 阵营，iOS 27 操作系统本身可向下兼容至 iPhone 11 及更新机型，但 Siri AI 的完整功能仅面向 iPhone 15 Pro、iP",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/722.htm"
-    },
-    {
-      "id": "37d03df8-2d23-814b-84a6-fc3f8f3bbddc",
-      "title": "三星官网公布 Galaxy A27 5G 手机参数：骁龙 6 Gen 3 芯片，5000mAh 电池",
-      "summary": "IT之家 6 月 12 日消息，据科技媒体 SammyGuru 今天报道，三星捷克官网上架了 Galaxy A27 手机，使得这款手机的参数得以公开，不过具体定价仍未公布。这款手机搭载骁龙 6 Gen 3 芯片，有 6GB+128GB 和 8GB+256GB 版本可选，出厂预装了基于 Android 16 的 One UI 8.5 系统，电池容量 5000mAh、支持 25W 充电，厚 7.8mm。这台手机提供黑色、蓝色、浅绿色和浅粉色四种配色可选，搭载了一块 6.7 英寸的 FHD+ Super AMOLED 显示屏，覆盖康宁大猩猩玻璃 Victus+ 玻璃，支持 IP64 级防尘防水。IT",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/720.htm"
-    },
-    {
-      "id": "37d03df8-2d23-812b-8eb5-ca860437abbc",
-      "title": "华为余承东：鸿蒙 HarmonyOS 成为中国第二大智能手机操作系统",
-      "summary": "IT之家 6 月 12 日消息，在今日的华为开发者大会 HDC 2026 上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发布了新一代鸿蒙 HarmonyOS 7 操作系统，围绕互联、智能、安全、流畅、空间感五个维度进行升级，同时迈向智能体时代。余承东在 HDC 2026 现场宣布，鸿蒙 HarmonyOS 已成为中国第二大智能手机操作系统。IT之家在 HDC 2026 现场了解到，目前搭载鸿蒙 HarmonyOS 6 操作系统的终端设备数量已突破 6600 万台，注册开发者超 1100 万，华为应用市场可获取应用与服务超 40 万款，应用日均下载量已超 2 亿次，鸿蒙生态已",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/721.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8178-b593-d0f4d8028b23",
-      "title": "能模拟 Switch 游戏的 Retroid Pocket 6 掌机回归：12GB 内存，但存储砍到 128GB",
-      "summary": "IT之家 6 月 12 日消息，Retroid 今年 3 月曾因内存成本暴涨，临时下架 Pocket 6 的 12GB RAM 版本。而在今晚，该公司在 Discord 上宣布，Pocket 6 将再次提供 12GB RAM 版本。不过，重新开售的版本从原本的 12GB/256GB 改为 12GB/128GB。好在 Pocket 6 仍配备 microSD 卡槽，和市面上多数掌机一样可以扩展存储。12GB/128GB 版 Retroid Pocket 6 只提供左摇杆上置布局（左模拟摇杆位于十字键上方）。配色方面，Retroid 提供黑色、银色和 16-bit 三种选择。12GB/128GB ",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/719.htm"
-    },
-    {
-      "id": "37d03df8-2d23-81f6-920d-e80b2ad5cb0c",
-      "title": "Planning to live with my boyfriend pushed us to finally discuss finances. Instead of moving in together, we broke up.",
-      "summary": "My boyfriend and I had plans to move in together, but talking about how we'd pay rent made me realize we had different values. We decided to break up.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-12",
-      "link": "https://www.businessinsider.com/talking-about-money-made-us-break-up-moving-together-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-81a3-9100-d5470bc4f188",
-      "title": "Govee&#8217;s rechargeable smart table lamp is down to $60",
-      "summary": "Whether you’re planning a backyard barbeque or a World Cup watch party, Govee’s Table Lamp Classic can help set the mood with color-changing lighting effects. Right now it’s down to just $59.99 ($20 off) at Amazon, which is its best price yet. The rechargeable lamp can last up to 30 hours on a singl",
-      "source": "The Verge",
-      "publishTime": "2026-06-12",
-      "link": "https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale"
-    },
-    {
-      "id": "37d03df8-2d23-819d-90cf-d0f3f1cf7543",
-      "title": "英伟达未发布的 RTX 2080 Ti SUPER 显卡首次曝光：拥有 4608 个 CUDA 核心与 12GB 显存，规格直逼 Titan RTX",
-      "summary": "IT之家 6 月 12 日消息，VideoCardz 今日发现，一款英伟达从未发布过的图灵旗舰显卡 ——GeForce RTX 2080 Ti SUPER（工程样品）在 eBay 上现身。根据 eBay 商品页面描述，这张原型卡搭载了完整的 TU102 图灵 GPU 核心，CUDA 核心数量达到 4608 个，相比零售版 RTX 2080 Ti（4352 个）有了显著提升。显存方面，该卡配备 12GB GDDR6 显存，位宽为完整的 384-bit，而零售版 RTX 2080 Ti 的显存配置为 11GB 和 352-bit 位宽。从规格来看，RTX 2080 Ti SUPER 实际上更接近于",
-      "source": "IT之家",
-      "publishTime": "2026-06-12",
-      "link": "https://www.ithome.com/0/963/718.htm"
     }
   ],
   "macroEvents": [
