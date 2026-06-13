@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-14 00:55",
+  "updatedAt": "2026-06-14 02:51",
   "news": [
+    {
+      "id": "37e03df8-2d23-817f-a781-e3e1eedba163",
+      "title": "OpenAI faces investigation from state attorneys general",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-14",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"
+    },
+    {
+      "id": "37e03df8-2d23-81b2-8f9a-fce802cb47e1",
+      "title": "Anthropic CEO Dario Amodei warned Mythos posed a national security threat. Washington just responded.",
+      "summary": "Anthropic's Dario Amodei warned his AI model, Mythos, was so powerful it posed serious threats. Then the government stepped in and Anthropic shut it down.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-14",
+      "link": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6"
+    },
+    {
+      "id": "37e03df8-2d23-811e-b9a3-efdcc44b85c4",
+      "title": "Microsoft hasn’t ruled out spinning off Xbox",
+      "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company",
+      "source": "The Verge",
+      "publishTime": "2026-06-14",
+      "link": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox"
+    },
+    {
+      "id": "37e03df8-2d23-81e7-9c6f-d2e8ae63ab73",
+      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+      "summary": "If you’re planning on traveling anytime soon, Bose’s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in",
+      "source": "The Verge",
+      "publishTime": "2026-06-14",
+      "link": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale"
+    },
+    {
+      "id": "37e03df8-2d23-81da-8a8d-dff3cb229ac8",
+      "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+      "summary": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-14",
+      "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/"
+    },
     {
       "id": "37e03df8-2d23-81da-9cc6-ce3502e23288",
       "title": "科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调",
@@ -360,46 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-06-13",
       "link": "https://www.ithome.com/0/963/937.htm"
-    },
-    {
-      "id": "37e03df8-2d23-813a-934d-e4795f442116",
-      "title": "A better way to manage all your screenshots",
-      "summary": "Hi, friends! Welcome to Installer No. 132, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy soccer, and also you can read all the old editions at the Installer homepage.) This week, I've been preparing for a month of getting absolutely nothing done during",
-      "source": "The Verge",
-      "publishTime": "2026-06-13",
-      "link": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer"
-    },
-    {
-      "id": "37e03df8-2d23-81a3-b8fa-caf34a8e1fa7",
-      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-      "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But […]",
-      "source": "The Verge",
-      "publishTime": "2026-06-13",
-      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on"
-    },
-    {
-      "id": "37e03df8-2d23-814c-9752-d05d70eb6db2",
-      "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
-      "summary": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he navigates dungeons to collect items and keys to fight bosses and gather magical M",
-      "source": "The Verge",
-      "publishTime": "2026-06-13",
-      "link": "https://www.theverge.com/games/947136/echo-isle-review-pc"
-    },
-    {
-      "id": "37e03df8-2d23-81aa-8226-ecd33d3fd298",
-      "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
-      "summary": "After its Nasdaq debut on Friday, SpaceX was the sixth most-valuable U.S. company, despite being a fraction the size by revenue of tech's megacaps.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-13",
-      "link": "https://www.cnbc.com/2026/06/13/from-10percent-chance-of-success-to-2-trillion-spacexs-historic-ipo.html"
-    },
-    {
-      "id": "37e03df8-2d23-8116-8982-cb16e93536f4",
-      "title": "Ukraine's defense firms split themselves up to avoid being a big target. Europe now needs to do the same, they say.",
-      "summary": "Ukrainian defense firms work across multiple sites to avoid being big targets for Russia. They say European counterparts need to start doing the same.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/ukraine-splits-weapons-making-warns-europe-must-do-the-same-2026-6"
     }
   ],
   "macroEvents": [
