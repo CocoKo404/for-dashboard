@@ -1,6 +1,310 @@
 {
-  "updatedAt": "2026-06-13 09:37",
+  "updatedAt": "2026-06-13 14:36",
   "news": [
+    {
+      "id": "37e03df8-2d23-8102-bd58-ca8df621651f",
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+      "source": "Wired",
+      "publishTime": "2026-06-13",
+      "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/"
+    },
+    {
+      "id": "37e03df8-2d23-8179-957a-f895ea6673f1",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-13",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/"
+    },
+    {
+      "id": "37e03df8-2d23-8178-9235-d671785e2681",
+      "title": "PowerA 为《微软飞行模拟器 2024》游戏打造 Project X-Ray 无线手柄",
+      "summary": "IT之家 6 月 13 日消息，外设厂商 PowerA 昨日（6 月 12 日）发布公告，宣布携手 Meridian GMT，打造《微软飞行模拟器 2024》游戏主题 Project X-Ray Flight Deck 无线手柄。IT之家附上相关视频如下：外观方面，这款无线手柄保留了标准 XBOX 手柄的整体框架，玩家无需重新适应握持手感，即可获得完整的飞行操控体验。按键方面，该手柄集成了油门杆、襟翼控制、起落架开关、旋转配平旋钮、灯光与无线电按键，并将传统方向键替换为专用自动驾驶控制。支持方面，Project X-Ray 原生支持微软 XBOX 平台，为 XBOX 玩家带来专业飞行操控体验。",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/779.htm"
+    },
+    {
+      "id": "37e03df8-2d23-8145-b475-c1657a55f10f",
+      "title": "Anthropic will disable access to Mythos and Fable models to comply with the Trump Administration's export control",
+      "summary": "Anthropic's latest AI models, Fable 5 and Mythos 5, will be disabled due to US export controls that cited national security risks.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-13",
+      "link": "https://www.businessinsider.com/anthropic-disable-mythos-fable-us-export-control-national-security-2026-6"
+    },
+    {
+      "id": "37e03df8-2d23-81ff-910d-deb5de542b0d",
+      "title": "微软 Teams 今年重启 Wi-Fi 签到功能，员工担忧其办公情况被实时追踪",
+      "summary": "IT之家 6 月 13 日消息，科技媒体 NeoWin 昨日（6 月 12 日）发布博文，报道称微软计划 2026 年重启 Microsoft Teams 位置追踪计划，通过 Wi-Fi 网络连接自动完成工作场所签到。IT之家援引官方描述，员工抵达办公室开机后，把电脑连接至企业 Wi-Fi（如 Studio B）后，Teams 个人资料状态会自动显示该员工在 Studio B 网络环境下办公。微软推出该功能的初衷，是希望让该功能替代实体签到硬件、减少手动状态更新，并方便同事协调线下会议。不过在今年年初官宣后，在引发隐私争议后曾搁置一段时间。其中隐私争议点在于该功能支持直属上级及组织成员实时追踪",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/777.htm"
+    },
+    {
+      "id": "37e03df8-2d23-812f-b30a-fc1b99be11bb",
+      "title": "宝马 M3 纯电概念车亮相勒芒，量产版定档 2027 年",
+      "summary": "IT之家 6 月 13 日消息，据汽车媒体 BMW Blog 昨天报道，宝马现已在勒芒 24 小时耐力赛期间展示 M3 纯电概念车，量产版 2027 年上市。▲ 图源：BMW Blog，下同IT之家从原报道获悉，纯电版 M3 采用全新蒙扎红车漆，大灯、轮毂、扰流板都采用比较高调的设计语言，堪称 M3 F80 以来的最大转向。该车与 Neue Klasse i3 共享基础架构，但在车身组件、动力系统等方面进行全面强化。同时，经典的双肾格栅也在纯电版 M3 中回归，与大灯融为一体。车头最具辨识度的新元素则是黄色灯组，灵感源自 GT 赛车。发动机盖中央的 V 型开口并非装饰，能够为动力系统提供散热。",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/778.htm"
+    },
+    {
+      "id": "37e03df8-2d23-818d-a468-d215111b675a",
+      "title": "消息称某厂子系旗舰新测 10000mAh± 电池，预计为小米 REDMI K100 系列",
+      "summary": "IT之家 6 月 13 日消息，据博主 @数码闲聊站 今日爆料，某厂子系迭代旗舰中杯新测 10000mAh± 电池。IT之家注意到，评论区网友推测为小米 REDMI K100 系列。本月早些时候，该博主曾曝光某厂新机的主要规格，同样被网友推测为小米 REDMI K100 系列。不过，该机预计搭载超 8000mAh 大电池，与新曝光的 10000mAh± 版本有不小差距。IT之家附曝光参数如下：185Hz 超高刷直屏超清显示骁龙 8E5 双芯平台超 8000mAh 大电池50W 无线充对称双扬2 亿大底影像长焦微距满级防水玻璃后盖3D 超声波指纹▲ IT之家实拍：REDMI K90 Pro Ma",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/776.htm"
+    },
+    {
+      "id": "37e03df8-2d23-812e-9fb9-e9aa9f82670e",
+      "title": "2 名主播在短视频平台相互辱骂诽谤被行拘，网警最新提示",
+      "summary": "IT之家 6 月 13 日消息，据央视新闻今日报道，随着网络社交媒体不断发展，许多生活中的暴力行为会通过网络传播发酵，例如在网络平台上编造谣言和恶意攻击等行为，不仅伤人伤己，更容易形成网暴，变成伤人的利器。近日，浙江湖州网警侦办了一起 2 名网络主播在短视频平台相互辱骂诽谤的案件。经查，网民陆某某（男，44 岁）、陈某（女，57 岁）二人因私人矛盾，在短视频平台，以发布短视频、直播等方式，发布大量带有侮辱性、攻击性言论，公然相互诋毁、辱骂、诽谤以“泄愤”，相关视频、言论在网络平台传播，转发数量过万，引起大量网民关注，严重扰乱网络公共秩序，造成不良社会影响。目前，属地公安机关已依法对陆某某、陈某",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/774.htm"
+    },
+    {
+      "id": "37e03df8-2d23-819d-9fbd-c507544c4dba",
+      "title": "因美国政府政策限制，Anthropic 暂停供应 Mythos 5/Fable 5 模型",
+      "summary": "IT之家 6 月 13 日消息，Anthropic 昨天发布声明称，根据美国政府发布的出口管制指令，要求暂停所有外国公民（IT之家注：无论身处美国境内还是境外）的 Mythos 5/Fable 5 模型访问权限，包括拥有外国国籍的 Anthropic 员工。为了符合法律要求，Anthropic 已立即暂停所有用户的 Mythos 5/Fable 5 模型访问权限，其他模型暂不受影响。Anthropic 表示，公司愿意遵守美国政府要求，但对这项安排持异议。美国政府仅仅是口头提供了几个所谓“越狱攻击案例”，但只是一些轻微发现。该公司还认为，政府应当拥有组织部署危险 AI 的权力，但整个过程应建立在",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/772.htm"
+    },
+    {
+      "id": "37e03df8-2d23-8145-a196-e0ad57d9dd92",
+      "title": "苹果高管介绍 iOS 27 版照片 3 大 AI 功能：让 iPhone 17 等用户获得“超能力”",
+      "summary": "IT之家 6 月 13 日消息，苹果两位高管在最新采访中表示，iOS 27 版照片（Photos）应用引入 3 项 AI 功能，是让普通用户也能享受专业级修图能力。IT之家附上相关采访视频如下： 接受泰勒 · 斯塔尔曼（Tyler Stalman）采访时，苹果相机与照片软件工程副总裁乔恩 · 麦考马克（Jon McCormack）和苹果高级产品营销经理德拉・胡夫（Della Huff）详细解读了这些功能的设计理念。Spatial Reframing（空间重构）是 iOS 27 的全新功能，支持用户在拍摄完成后通过调整透视角度来改善照片构图。胡夫强调，该功能仅在透视移动区域生成新内容，确保画面忠",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/773.htm"
+    },
+    {
+      "id": "37e03df8-2d23-8137-9d2c-c467646bdfef",
+      "title": "网传阿里合伙人周靖人拟离职，刚出任阿里首席科学家 6 天",
+      "summary": "IT之家 6 月 13 日消息，昨晚，有网传消息称阿里合伙人周靖人拟离职。据 Top 华人科创社区爆料，周靖人上周就已提交离职申请。IT之家注意到，6 月 8 日，阿里刚宣布周靖人出任阿里巴巴首席科学家，牵头成立阿里巴巴 AI 未来研究院，专注前沿 AI 科技的探索与突破。与此同时，阿里也宣布合并通义大模型事业部和未来生活实验室，成立 Token Foundry 事业部，由集团 CEO 吴泳铭直接负责。据了解，通义大模型团队从零到一的搭建，到 Qwen 系列模型，周靖人是关键人物之一，他于去年成为阿里巴巴合伙人，而首席科学家是阿里巴巴技术体系的最高学术头衔。公开资料显示，周靖人已经在阿里工作十",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/771.htm"
+    },
+    {
+      "id": "37e03df8-2d23-8104-90a0-cdab2bea4d3d",
+      "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
+      "summary": "Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-13",
+      "link": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html"
+    },
+    {
+      "id": "37e03df8-2d23-819f-a5eb-fa0e4c2807ae",
+      "title": "美国多州总检察长组建联盟，对 OpenAI 展开大规模联合调查",
+      "summary": "IT之家 6 月 13 日消息，据《华尔街日报》昨日报道，匿名知情人士透露，美国多州总检察长现已组成联盟，对人工智能企业 OpenAI 展开大规模调查。IT之家在此援引《华尔街日报》，OpenAI 已在昨天收到纽约总检察长办公室的传票，要求其提交广告业务、用户留存情况、消费者数据处理方式等文件。同时，这份传票还要求 OpenAI 公开其未成年人保护政策、深度学习模型开发、公司政策和管理制度等，成为该公司 IPO 前面临的最新法律挑战。值得注意的是，美国佛罗里达州已在此前对 OpenAI 提起诉讼，指控 ChatGPT 在安全问题上存在误导宣传。OpenAI 发言人对此回应称：“人工智能是一项全",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/770.htm"
+    },
+    {
+      "id": "37e03df8-2d23-81dc-8d31-f1d2529f5bb0",
+      "title": "Valve just imported 13 tons of VR headsets in one day",
+      "summary": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. Import records show that Valve's distribu",
+      "source": "The Verge",
+      "publishTime": "2026-06-13",
+      "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console"
+    },
+    {
+      "id": "37e03df8-2d23-81a0-aee5-fdad7553e2ca",
+      "title": "消息称欧洲“独角兽”Mistral AI 洽谈以 200 亿欧元估值进行 D 轮融资",
+      "summary": "IT之家 6 月 13 日消息，据彭博社当地时间昨日消息，欧洲人工智能初创企业中的佼佼者 Mistral AI 正就其新一轮融资与投资者进行早期交涉，目标以约 200 亿欧元（现汇率约合 1567.1 亿元人民币）的估值筹集约 30 亿欧元（现汇率约合 235.07 亿元人民币）的资金用于运营。IT之家注意到，这家总部位于法国的企业在 2025 年 9 月的 C 轮融资中以 100 亿欧元（IT之家注：现汇率约合 783.55 亿元人民币）的投前估值筹集了 17 亿欧元，其中 ASML 领投 13 亿欧元。尽管规模远小于 OpenAI、Anthropic 等美国竞争对手，但 Mistral A",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/768.htm"
+    },
+    {
+      "id": "37e03df8-2d23-8103-bc5c-d3f3d8227cef",
+      "title": "苹果升级 iOS 27 版 Find My：可控制位置共享时长、界面融合液态玻璃设计",
+      "summary": "IT之家 6 月 13 日消息，科技媒体 9to5Mac 昨日（6 月 12 日）发布博文，报道称在 iOS 27 版 Find My 应用中，苹果在优化界面外，还新增更灵活的定位共享方式。在功能方面，iOS 27 版 Find My 应用支持更灵活的共享设置，针对每次共享，用户可以设定自定义时长或具体的截止日期。新版新增单独暂停功能，支持用户在不通知对方的情况下，停止向特定联系人共享位置，对方应用中将显示“未找到位置”信息。IT之家附上相关截图如下：在界面上，Find My 此次终于补齐了 iOS 26 时期缺失的 Liquid Glass（液态玻璃）设计。新版标签栏与苹果其他应用保持视觉一",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/769.htm"
+    },
+    {
+      "id": "37e03df8-2d23-815b-bc81-cfca53bae406",
+      "title": "腾讯旗下手游《无畏契约：源能行动》鸿蒙版开启预约，现已登陆华为游戏中心",
+      "summary": "IT之家 6 月 13 日消息，腾讯旗下手游《无畏契约：源能行动》鸿蒙版今天开启预约，上线时间暂未公布，用户可在华为游戏中心进行预约。作为参考，《无畏契约：源能行动》是拳头出品、腾讯代理的一款手游，上线于去年 8 月。最低配置仅需骁龙 430、麒麟 710 或苹果 A9 处理器，安卓设备内存至少 3GB 即可运行。但若想获得最佳竞技体验，则需要更高的配置。在上线之初，一加 Ace 5 至尊版、真我GT7、iQOO 13 等机型首批支持 144Hz 高帧率。今年 4 月，《无畏契约》手游官宣 165 高帧模式上线，首批适配机型包括：一加 15、一加 15T、一加 Ace 6、一加 Ace 6T、",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/767.htm"
+    },
+    {
+      "id": "37e03df8-2d23-81bb-9029-cb1f45f457b3",
+      "title": "初探苹果 iOS 27 版 Safari 浏览器：AI 整理标签页、定制扩展程序、新增网页监控",
+      "summary": "IT之家 6 月 13 日消息，科技媒体 MacRumors 昨日（6 月 12 日）发布博文，汇总梳理了 iOS 27 版 Safari 浏览器带来的诸多改进，重点包括自动整理标签页、自定义扩展、Notify Me 功能等。一、自动整理标签页iOS 27 版 Safari 浏览器可以调用 Apple Intelligence 功能，按照主题自动分类当前 Safari 浏览器打开的标签页，例如同时搜索沙发与规划周末行程时，浏览器会自动把两类网站分组。用户在标签视图右上角点击三条横线图标后，开启“自动创建主题”即可启用此功能。新增的“恢复浏览”区域还可显示最近关闭的主题标签以及其他设备上打开的标",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/766.htm"
+    },
+    {
+      "id": "37e03df8-2d23-8149-bdc7-dc551212374d",
+      "title": "技嘉推出 B840M FORCE WIFI6E 主板：橙色点缀，双 PCIe 双 M.2",
+      "summary": "IT之家 6 月 13 日消息，技嘉 (GIGABYTE) 近日在官网上线了 B840M FORCE WIFI6E 主板。这一型号采用标准 Micro ATX 板型和 2DIMM 设计，拥有点缀以 FORCE 系列标志性橙色的黑色散热马甲。B840M FORCE WIFI6E 采用双倍铜 PCB，集成 8+2+2 相供电和单组 EPS 8-Pin CPU 供电接口，支持 DDR5-8200 内存超频。其提供 1 条 PCIe Gen4 ×16 和一条 PCIe Gen3 ×4 插槽，2 个 M.2 SSD 盘位分别为 PCIe Gen4 ×4 和 PCIe Gen3 ×2，还有 4 个 SAT",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/765.htm"
+    },
+    {
+      "id": "37e03df8-2d23-81d1-ac0f-d37a3c3c6305",
+      "title": "华为云与 MiniMax 最新模型 M3 实现开源首发适配，提供 Tokens 算力支持",
+      "summary": "IT之家 6 月 13 日消息，6 月 12 日，华为云与 MiniMax 原生多模态旗舰模型 M3 实现开源首发适配。华为云基于昇腾算力底座，为 MiniMax 提供 Tokens 算力支持。IT之家从官方介绍获悉，近日，华为云与 MiniMax 达成进一步深化合作。华为云 CloudMatrix 智算云服务已完成对其全新一代原生多模态旗舰模型 MiniMax M3 的开源首发适配。在此次合作中，华为云基于昇腾算力为 M3 提供 Tokens 支持，全面护航新模型的稳定、高效运行。MiniMax M3 在编程和智能体等专业任务上达到了前沿的能力。它使用了 MiniMax 提出的全新注意力架构",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/764.htm"
+    },
+    {
+      "id": "37e03df8-2d23-81e8-a03b-cc72150bb0db",
+      "title": "苹果向员工发放限量 10 周年版 Apple Watch“闭环”表带",
+      "summary": "IT之家 6 月 13 日消息，科技媒体 MacRumors 昨日（6 月 12 日）发布博文，报道称部分参加 2026 年 Close Your Rings 内部健身挑战赛的员工，已收到限量版 Apple Watch 表带。IT之家援引博文介绍，Close Your Rings 是 Apple Watch 内置的健身活动追踪功能，用户需每日完成 Move（活动）、Exercise（锻炼）、Stand（站立）三个目标并合上对应彩色圆环。该挑战赛是苹果面向全球用户及内部员工推出的年度健康激励活动，2026 年迎来十周年。苹果近日向完成 2026 年度 Close Your Rings 内部挑战赛",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/762.htm"
+    },
+    {
+      "id": "37e03df8-2d23-814d-8239-d1717def708c",
+      "title": "AOC 推出 49\" DQHD 曲面 QD-OLED 显示器 AGP497UCZD",
+      "summary": "IT之家 6 月 13 日消息，AOC 昨日在其官网上线了 AGON PRO 显示器新品 AGP497UCZD。该型号采用 1800R 曲率 49\" DQHD (5120×1440) QD-OLED 面板，拥有 240Hz 刷新率。AGP497UCZD 通过 VESA DisplayHDR True Black 400 认证，SDR 亮度 250nits、HDR 3% APL 亮度 1000nits；色域 99% DCI-P3 / 98% Adobe RGB，sRGB 下色差 ΔE＜1。这款显示器提供 2 个 HDMI 2.1 (FRL6)、1 个 DisplayPort 2.1 (UHBR2",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/760.htm"
+    },
+    {
+      "id": "37e03df8-2d23-811a-a4c2-d75bf3320dd5",
+      "title": "传微软考虑分拆 XBOX 成全资子公司，加大投入《上古卷轴》《辐射》等核心 IP",
+      "summary": "IT之家 6 月 13 日消息，据《The Information》昨日援引知情人士表述，微软正研究 XBOX 游戏业务未来走向，不排除将该部门分拆或重组成一家全资子公司。据悉，微软还在考虑其他选项，例如与外部合作伙伴成立合资企业等。这些调整被视为 XBOX 业务整体改革计划的一部分，未来也有可能出售。微软 XBOX 业务近年来面临持续挑战，该公司押注的订阅服务和云游戏战略，未能抵消主机销量下滑及缺乏独占游戏影响。不过，微软目前没有计划实施这些计划，相关方案仍处于讨论阶段。作为参考，微软目前已经以全资子公司的方式运营领英（IT之家注：LinkedIn）、GitHub 平台，这种管理模式可能成为",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/761.htm"
+    },
+    {
+      "id": "37e03df8-2d23-813d-bb9f-f4f0e717dae9",
+      "title": "一汽大众为速腾空调喷粉致歉：将免费更换全新原厂空调蒸发器，并提供空调器总成 15 年质量担保",
+      "summary": "6 月 13 日上午消息，针对一汽大众速腾车主反馈的空调喷粉一事，一汽大众向车主发布《致客户的一封信》，称将为车主提供免费的空调系统检测服务，如有问题，将免费更换全新原厂空调蒸发器，并提供空调器总成 15 年的质量担保权益保障。此前，新浪科技曾报道，多位一汽大众车主反馈，今年刚提车的速腾新车，空调出风口持续喷出不明白色粉末，他们担忧影响车内空气质量、损害驾乘人员身体健康。一汽大众在信中表示，经分析，该现象与部分空调蒸发器的亲水涂层原液积存有关，多余原液干燥后形成白色颗粒。经第三方权威机构检测，白色颗粒主要成分为聚乙烯醇，不会对人体健康造成危害。主要涉及 2025 年 9 月至 2026 年 1",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/759.htm"
+    },
+    {
+      "id": "37e03df8-2d23-81f2-a3b8-f5accc964ac8",
+      "title": "3999 美元，AMD 锐龙 AI Halo 迷你主机海外预购开启",
+      "summary": "IT之家 6 月 13 日消息，AMD 锐龙 AI Halo 迷你主机现已在美国零售商 Micro Center 开启预购，新品主要面向 AI 开发者，配备锐龙 AI Max+ 395 处理器。据介绍，这款迷你主机采用 Zen 5 CPU 架构，拥有 16 核心、32 线程，配备 Radeon 8060S 集成显卡，具备 128GB LPDDR5X-8000 统一内存。规格方面，这款迷你主机配备 2TB 固态硬盘、120W 电源适配器。搭载 3 个 USB Type-C、1 个 HDMI 2.1、1 个万兆以太网接口、1 个 USB Type-C 供电接口。支持蓝牙 5.4、Wi-Fi 7。此",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/757.htm"
+    },
+    {
+      "id": "37e03df8-2d23-8176-a38a-dcab5d2c6d2a",
+      "title": "苹果升级 iOS 27 版信息应用，上线绘图工具",
+      "summary": "IT之家 6 月 13 日消息，科技媒体 MacRumors 昨日（6 月 12 日）发布博文，报道称在 iOS 27 和 macOS 27 Golden Gate 系统中，苹果升级信息（Messages）应用，新增“绘图”选项。在 iOS 27 的信息应用中，用户可通过左下角的加号按钮打开应用抽屉，找到全新的“绘图”（Drawing）选项，集成苹果全套 Markup 工具，用户可直接在对话中使用标注、绘图等丰富功能。IT之家注：Markup 是苹果系统内置的标注工具集，支持用户在图片、文档和屏幕截图上进行手绘、添加文字、放大镜、形状标记等操作，广泛应用于邮件、照片、文件管理等应用场景。苹果也",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/758.htm"
+    },
+    {
+      "id": "37e03df8-2d23-8122-a6c5-fb166efeaa4c",
+      "title": "深圳市场监管召开“6·18”指导会，约谈微信小店、美团、京东、拼多多、淘天、抖音等",
+      "summary": "IT之家 6 月 13 日消息，6 月 11 日，深圳市市场监督管理局组织召开全市“6·18”集中促销网络交易合规行政指导会，微信小店、美团、京东、拼多多、淘天、抖音等 60 余家平台企业、电商企业、行业协会代表共 103 人参会。IT之家注意到，深圳市市场监管局通报了今年以来涉重点电商平台网络交易投诉举报总体情况，发布 2026 年第一季度查处的网络交易典型案例，以案为鉴、深度解读《直播电商监督管理办法》《网络交易平台规则监督管理办法》《网络餐饮服务经营者落实食品安全主体责任监督管理规定》等系列新规核心要义，针对“6·18”集中促销易发问题，从透明公示、公平竞争、补贴促销、广告营销、食品安全",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/755.htm"
+    },
+    {
+      "id": "37e03df8-2d23-8180-b307-c78f73c2d7f1",
+      "title": "告别卡顿、臃肿：苹果确认 Mac 版 Notion 生产力应用迁移 SwiftUI 框架",
+      "summary": "IT之家 6 月 13 日消息，科技媒体 MacRumors 昨日（6 月 12 日）发布博文，报道称在 2026 年全球开发者大会（WWDC）期间，苹果公司确认 Notion 正迁移用户界面至 SwiftUI 框架。IT之家注：Notion 是一款集笔记、文档、数据库与项目管理于一体的“全能型”工作空间应用程序，支持页面、表格、看板、日历等多种内容形式。适用于 Mac 平台的 Notion 基于 Electron 架构构建，由于运行迟缓而备受用户批评。Electron 是基于 Chromium 与 Node.js 构建的跨平台桌面应用开发框架，支持使用 Web 技术编写桌面软件。优势在于开发",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/754.htm"
+    },
+    {
+      "id": "37e03df8-2d23-818e-ae44-f5cedc2bec86",
+      "title": "OpenAI says it's engaging 'constructively' with state AGs about concerns",
+      "summary": "The Wall Street Journal reported that a coalition of state attorneys general have opened an investigation into OpenAI.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-13",
+      "link": "https://www.cnbc.com/2026/06/12/openai-says-its-engaging-constructively-with-state-ags-.html"
+    },
+    {
+      "id": "37e03df8-2d23-818d-ab38-f958bf9a3b45",
+      "title": "为首款折叠 iPhone Ultra 铺垫：苹果 iOS 27 多款 App 适配横屏模式",
+      "summary": "IT之家 6 月 13 日消息，科技媒体 MacRumors 昨日（6 月 12 日）发布博文，报道称苹果公司正铺垫其首款折叠手机 iPhone Ultra，包括 Apple Music、播客、健康等十余款应用已扩展支持横屏模式。该媒体指出在 iOS 26 以及此前版本中，苹果公司已经为地图（Apple Maps）、日历（Calendar）、文件（Files）、备忘录（Notes）、邮件（Mail）等少数应用适配横屏模式。而在 iOS 27 系统中，苹果进一步扩展横屏模式，IT之家附上扩展适配的应用如下：Apple Music：目前仅限于音频播放器界面播客（Podcasts）：目前仅限于音频播",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/753.htm"
+    },
+    {
+      "id": "37e03df8-2d23-816e-86c3-f66ab03e1eeb",
+      "title": "2026 年一季度国内汽车行业利润率降至 3.2%，创历史新低",
+      "summary": "IT之家 6 月 13 日消息，据新浪汽车报道，6 月 12 日，在 2026 中国汽车重庆论坛上，中国国际贸易促进委员会汽车行业委员会会长王侠进行了演讲。他提到：今年前 5 个月超百款新车上市，但销量却出现了收缩，汽车行业的利润率一季度只有 3.2% 再创新低，明显低于全国规上工业企业平均利润率的 4.9%，汽车行业销量、营销、利润三重回落是历史罕见的，可见车企内伤严重，消费者审美疲劳，我们必须认识到，没有利润支持的销量不过是空洞的数字游戏。IT之家查询中国汽车工业协会数据，2026 年 1-5 月，我国汽车产销分别完成 1223.5 万辆和 1220.7 万辆，同比分别下降 4.6% 和 ",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/752.htm"
+    },
+    {
+      "id": "37e03df8-2d23-815e-bf8c-f91f44877eeb",
+      "title": "苹果 Vision Pro 头显成最大功臣：助力迪士尼改造乐园项目，献礼美国 250 周年",
+      "summary": "IT之家 6 月 13 日消息，科技媒体 Appleinsider 昨日（6 月 12 日）发布博文，报道称迪士尼为迎接美国建国 250 周年，借助苹果 Vision Pro 头显，改造 EPCOT 经典飞行项目 Soarin，并将其更名为 Soarin' Across America，带领游客飞跃美国标志性景观。IT之家注：EPCOT 位于佛罗里达 Walt Disney World，于 1982 年开放，设有众多未来科技主题项目与文化展馆，是迪士尼四大主题乐园之一。迪士尼 Disney Unscripted 昨日放出幕后花絮视频，展示了团队如何在项目工期紧张的情况下，通过苹果 Vision",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/750.htm"
+    },
+    {
+      "id": "37e03df8-2d23-81b4-86d3-de60945b5100",
+      "title": "宇瞻推出 GraTherX 内存条散热技术：每侧加厚 0.17mm，故障率降低 60%",
+      "summary": "IT之家 6 月 13 日消息，宇瞻 (Apacer) 近日宣布推出针对低气流设备设计的内存条散热解决方案 GraTherX，宣称其仅需在裸条模组两侧各加厚 0.17mm 即可让内存故障率降低 60%。GraTherX 面向边缘 AI、工业电脑、嵌入式系统，采用石墨烯-铜复合材料和一体式双面导热架构，在内存模组前后两侧建立完整且相邻的导热路径，有效消除背面热点。其在无风扇环境中可将 DDR5 模组热点温度降低 23.4°C，将 DRAM 的 MTBF（IT之家注：平均故障间隔时间）提升 2.7 倍。同时 GraTherX 无需重新设计主板或额外增加主动式散热方案，还能有效避免短路风险。",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/751.htm"
+    },
+    {
+      "id": "37e03df8-2d23-81dc-b90f-d88d76c9341d",
+      "title": "预售 21.99 万起，华为乾崑｜启境 GT7 动态试驾 6 月中下旬开放",
+      "summary": "IT之家 6 月 13 日消息，启境汽车昨晚发文称，华为乾崑｜启境 GT7 当前处于预售阶段，暂未正式开放道路动态试驾。目前，该车已开启静态品鉴，动态试驾将于 6 月中下旬逐步开放。启境汽车还介绍了用户中心和体验中心的区别：用户中心：是启境直营或授权经销商打造的零售门店，为启境与引望在汽车智能化领域进行联合设计的车型，提供集销售咨询、到店看车、试驾预约、车辆交付及售后于一体，为用户提供全程无忧的品智生活。▲ 用户中心体验中心：是引望联合启境及授权经销商，共同打造的沉浸式体验空间。以华为乾崑智驾技术及其搭载车型的展示和体验为核心，坐落于城市繁华商圈，方便大家就近看车、试驾、体验，让智能化体验触手",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/749.htm"
+    },
+    {
+      "id": "37e03df8-2d23-81e4-a1e8-de5d58695ebd",
+      "title": "苹果 iOS 27 优化中文输入：更贴合的候选词建议、优化汉字拆字输入",
+      "summary": "IT之家 6 月 13 日消息，科技媒体 9to5Mac 昨日（6 月 12 日）发布博文，报道称在 iOS 27 Beta 1 更新中，苹果升级其键盘输入法，扩展支持 10 种语言，并优化支持简体中文输入。在扩展语言支持方面，IT之家援引博文介绍，苹果 iOS 27 版输入法新增支持 10 种语言：阿非利卡语（Afrikaans），又称南非荷兰语、南非语巴斯克语（Euskara）：欧洲唯一的孤立语言，与印欧语系或其他任何已知语系均无关联，其起源至今仍是未解之谜。贝贝因（Baybayin）：属于元音附标文字（Abugida），是一种古代书写系统。英语（菲律宾）加利西亚语瓜拉尼语土著语言，例如黑",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/748.htm"
+    },
+    {
+      "id": "37e03df8-2d23-81c3-8888-ca4f592e1ed0",
+      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+      "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
+      "source": "Wired",
+      "publishTime": "2026-06-13",
+      "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/"
+    },
+    {
+      "id": "37e03df8-2d23-81c1-b1e7-ebb07f74810e",
+      "title": "消息称零跑换代 C 系列定价可能上涨，纯电、增程电池均加大",
+      "summary": "IT之家 6 月 13 日消息，据博主 @孙少军09 昨日爆料，零跑培训会消息显示，这次换代 C 系列定价可能上涨，尤其是 C10。他补充道：“因为纯电和增程的电池都加大了，而 26 年电芯成本相较 25 年涨幅超 50%，另外这次 C10 和 C16 增加的 ARHUD 成本也不低，高配版说不定也会涨价。”IT之家注意到，零跑全新 C 系列盲订已开启。下订 1000 元，限时享 10000 专属能量积分盲订权益。零跑全新 C10/C11/C16 将于 6 月 16 日上市，官方现已公布部分规格。IT之家整理如下：零跑全新 C10车位到车位领航辅助高精度激光雷达 / 高通 8650 芯片辅助驾",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/747.htm"
+    },
+    {
+      "id": "37e03df8-2d23-8115-8bea-ceff0df89905",
+      "title": "更大更轻：卓威推出 FK1-DW 与 ZA12-DW 灰色特别版无线鼠标",
+      "summary": "IT之家 6 月 13 日消息，明基 (BenQ) 旗下卓威 (ZOWIE) 昨日宣布推出 FK1-DW 与 ZA12-DW 两款灰色特别版无线鼠标，国行定价 1079 元。这两款 FK 低背指握与 ZA 高背抓握系列的最新型号尺寸较此前推出的 FK2-DW、ZA13-DW 更大一些，但质量从 65g 降低至 55g，换用止滑干爽灰色涂装，此外微动斜置以提升点击手感。FK1-DW 与 ZA12-DW 均搭载原相 PAW3950 光学传感器，支持 4kHz 回报率，配备基站式 2.4GHz 无线信号接收器。长宽高 FK1-DW128.9mm66.8mm37.3mmFK2-DW125.1mm64.",
+      "source": "IT之家",
+      "publishTime": "2026-06-13",
+      "link": "https://www.ithome.com/0/963/746.htm"
+    },
     {
       "id": "37d03df8-2d23-8108-a2ff-e9e8a7711612",
       "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
@@ -8,6 +312,14 @@
       "source": "BBC Tech",
       "publishTime": "2026-06-13",
       "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "37e03df8-2d23-81a7-8f6f-c8996d970b63",
+      "title": "Jim Cramer says it's not too late to buy SpaceX — under one condition",
+      "summary": "CNBC's Jim Cramer said it's not too late to buy SpaceX if investors view the company as a long-term bet on space exploration.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-13",
+      "link": "https://www.cnbc.com/2026/06/12/jim-cramer-not-too-late-to-buy-spacex-one-condition.html"
     },
     {
       "id": "37d03df8-2d23-81e0-a09e-c4279d0aef00",
@@ -88,318 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-06-13",
       "link": "https://www.businessinsider.com/spacex-ipo-what-you-need-to-know-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-8109-99a8-d73ac6f9e916",
-      "title": "My morning sweating it out with Elon Musk fanboys and SpaceX skeptics",
-      "summary": "I spent Friday morning at the Nasdaq building during SpaceX's historic IPO. Here's what the scene was like.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/nasdaq-spacex-ipo-listing-manhattan-elon-musk-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-81f3-9520-d6804bc9ca07",
-      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
-      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-13",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/"
-    },
-    {
-      "id": "37d03df8-2d23-8160-b393-f35232ba2e49",
-      "title": "Jamie Dimon is throwing a party to woo SpaceX employees who just struck it rich",
-      "summary": "Jamie Dimon is rolling out the red carpet for SpaceX employees. Take a look inside JPMorgan's lavish plan to celebrate SpaceX's blockbuster IPO.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/jpmorgan-jamie-dimon-spacex-employee-party-post-ipo-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-817c-b21b-c684f149cf55",
-      "title": "Nothing CEO says phone prices are going to keep going up",
-      "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range p",
-      "source": "The Verge",
-      "publishTime": "2026-06-13",
-      "link": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices"
-    },
-    {
-      "id": "37d03df8-2d23-8123-93f9-ed5b97bacbc0",
-      "title": "The one city making 70% of the world's footballs",
-      "summary": "Pakistan produces most of the world's footballs, but only a few manufacturers hold FIFA licenses. We visited Bola Gema to see what it takes.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/fifa-footballs-manufacturing-world-cup-testing-factory-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-8196-9068-caf1076eb313",
-      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
-      "summary": "A SpaceX-Tesla merger seems inevitable.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-13",
-      "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/"
-    },
-    {
-      "id": "37d03df8-2d23-8141-994c-cd0914d935c0",
-      "title": "I traveled to 29 states last year. There are 3 I can't wait to go back to — and 2 I probably won't revisit anytime soon.",
-      "summary": "Last year, my husband and I traveled across the US, visiting 29 states including Michigan, Vermont, South Dakota, West Virginia, and Idaho.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/states-to-visit-places-to-skip-from-frequent-traveler"
-    },
-    {
-      "id": "37d03df8-2d23-8117-990e-d70da2009f8a",
-      "title": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
-      "summary": "Republican Rep. Lisa McClain’s husband bought up to $250,000 in Elon Musk’s xAI before it was folded into SpaceX ahead of its IPO.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-13",
-      "link": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html"
-    },
-    {
-      "id": "37d03df8-2d23-81c9-b744-e4f51f1cc8c8",
-      "title": "Kevin O'Leary on the fight to build a massive data center",
-      "summary": "Kevin O'Leary on AI, China, and why America needs more compute power.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/kevin-oleary-on-fight-to-build-a-massive-data-center-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-81e9-a615-d8b1dacc3c4e",
-      "title": "The world’s first trillionaire is a killer",
-      "summary": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk's actions directly led to the deaths of hundreds of thousands of people. He did",
-      "source": "The Verge",
-      "publishTime": "2026-06-13",
-      "link": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer"
-    },
-    {
-      "id": "37d03df8-2d23-8192-ac96-dced1975c3eb",
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-13",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/"
-    },
-    {
-      "id": "37d03df8-2d23-819e-8f09-f56609923598",
-      "title": "Inside the vice president's official residence, where JD Vance and Usha Vance live",
-      "summary": "The vice president's official residence is on the grounds of the US Naval Observatory. Take a look inside the historic home.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/where-does-vice-president-live-residence-history-photos"
-    },
-    {
-      "id": "37d03df8-2d23-81fc-ac3b-c188134c2fad",
-      "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
-      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-13",
-      "link": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/"
-    },
-    {
-      "id": "37d03df8-2d23-8185-8c57-c8e3f5d63786",
-      "title": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
-      "summary": "A Monster Energy–sponsored MMA show on the White House’s South Lawn was never going to be the height of dignity. But UFC Freedom 250 is failing to clear even the lowest bar.",
-      "source": "Wired",
-      "publishTime": "2026-06-13",
-      "link": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/"
-    },
-    {
-      "id": "37d03df8-2d23-8197-9c4f-d4d6f569f26b",
-      "title": "Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards",
-      "summary": "A cottage industry of celebrity figurines, blinking screens, and other DIY gadgets is helping drivers bypass Tesla's distracted-driving controls.",
-      "source": "Wired",
-      "publishTime": "2026-06-13",
-      "link": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/"
-    },
-    {
-      "id": "37d03df8-2d23-81f3-8d58-e741ee499806",
-      "title": "Elon Musk Is the World’s First Trillionaire",
-      "summary": "SpaceX’s stock market debut has thrust the richest man in the universe into an unexplored frontier of wealth.",
-      "source": "Wired",
-      "publishTime": "2026-06-13",
-      "link": "https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/"
-    },
-    {
-      "id": "37d03df8-2d23-8177-b889-c761d11bfd72",
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-13",
-      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/"
-    },
-    {
-      "id": "37d03df8-2d23-81dd-a5ff-fe3f6304bd8d",
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-13",
-      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/"
-    },
-    {
-      "id": "37d03df8-2d23-81f1-94a7-f0b8efc9c126",
-      "title": "Meta says Instagram and Facebook are 'coming back' online after morning outage",
-      "summary": "Facebook and Instagram users reported issues with accessing the platforms, according to the third-party outage-tracking website DownDetector.com.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/meta-facebook-instagram-messenger-outage-issues-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-810b-9a96-c6d12c2eced0",
-      "title": "SpaceX and Tesla merger chatter is heating up. Here's how Musk's companies work together.",
-      "summary": "Elon Musk's companies are intertwined. There's renewed speculation that his sprawling, intermingled business empire could see a Tesla mega merger.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/elon-musk-inc-company-connections-tesla-spacex-xai-boring-2026-2"
-    },
-    {
-      "id": "37d03df8-2d23-8165-a1e1-f54e96f41b7d",
-      "title": "China Didn't Make People Hate Data Centers",
-      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
-      "source": "Wired",
-      "publishTime": "2026-06-13",
-      "link": "https://www.wired.com/story/china-us-data-center-opposition/"
-    },
-    {
-      "id": "37d03df8-2d23-8116-b7bd-d4b976252a9a",
-      "title": "Siri is good now??",
-      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of […]",
-      "source": "The Verge",
-      "publishTime": "2026-06-13",
-      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast"
-    },
-    {
-      "id": "37d03df8-2d23-817a-99d7-d6aed1ada614",
-      "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 30% on debut",
-      "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-13",
-      "link": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html"
-    },
-    {
-      "id": "37d03df8-2d23-81cb-8ccc-dca6c36e01df",
-      "title": "微软 Win11 多个通道更新预览版：为预装应用开设日志板块、优化搜索功能",
-      "summary": "IT之家 6 月 13 日消息，微软昨天（6 月 12 日）发布博文，邀请不同预览通道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次更新覆盖 Experimental、Beta、Release Preview 三大通道。IT之家附 Windows 11 本次更新内容如下：1、内置应用新增独立发行说明板块微软在 Windows Insider Program 文档中心站点，为 Windows 11 内置应用设立独立的发行说明板块，每个内置应用都配备专属页面，方便用户快速查找应用更新信息。本次率先向 Experimental 通道推送了计算器",
-      "source": "IT之家",
-      "publishTime": "2026-06-13",
-      "link": "https://www.ithome.com/0/963/730.htm"
-    },
-    {
-      "id": "37d03df8-2d23-8119-9f1e-f0364094e41d",
-      "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
-      "summary": "The trading platform says some customers experienced intermittent disruptions, but that those issues have resolved.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-13",
-      "link": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/"
-    },
-    {
-      "id": "37d03df8-2d23-81f1-9a9a-c5eee8a9c7e5",
-      "title": "This week's Anthropic-inspired AI freakout, explained",
-      "summary": "Anthropic limits AI model use, citing safety concerns. But it's also trying to stop open-source models from competing.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/anthropic-freaked-out-ai-industry-mythos-fable-open-source-models-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-8185-b8e8-e3b25840dd16",
-      "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
-      "summary": "Elon Musk's stake in SpaceX is worth more than $766 billion. Combined with his Tesla holdings, Musk's net worth as of Friday is roughly $1.05 trillion.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-13",
-      "link": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html"
-    },
-    {
-      "id": "37d03df8-2d23-811d-baef-d4f6315df814",
-      "title": "SpaceX COO Shotwell says Tesla tie-up ‘might make Elon’s life a little easier’",
-      "summary": "As SpaceX prepared to hit the Nasdaq following its record IPO, Elon Musk's second-in-command didn't dismiss the possibility of a Tesla tie-up.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-13",
-      "link": "https://www.cnbc.com/2026/06/12/spacex-coo-shotwell-tesla-deal-makes-elons-life-a-little-easier.html"
-    },
-    {
-      "id": "37d03df8-2d23-8113-ac93-fede59562d72",
-      "title": "David Hockney has died at 88. One theme was constant in his 7-decade career: Never stop working.",
-      "summary": "\"I have to paint, I've always wanted to make pictures since I was tiny,\" Hockney said in an interview filmed at his home in France in 2019.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/david-hockney-dead-at-88-work-ethic-never-stop-working-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-81d6-a0dd-dcb89da24fa1",
-      "title": "Every single Steven Spielberg movie, ranked from worst to best",
-      "summary": "Steven Spielberg is one of the most successful directors in the history of movies. We have ranked all his movies from worst to best.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/steven-spielberg-movies-ranked-from-worst-to-best"
-    },
-    {
-      "id": "37d03df8-2d23-81b1-b7a8-d8309a0821ea",
-      "title": "New SpaceX millionaires are reinventing the business of managing large wealth",
-      "summary": "Wealth advisors say SpaceXers have unique ways of addressing their financial challenges, including whiteboarding, troubleshooting and AI.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-13",
-      "link": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html"
-    },
-    {
-      "id": "37d03df8-2d23-8161-8603-fcace1620f45",
-      "title": "Inside David Solomon's letter to Goldman interns: SpaceX, more M&A, and how to thrive in an 'innovation supercycle'",
-      "summary": "Goldman Sachs CEO David Solomon advised interns to \"manage your energy\" as they enter the firm during an \"innovation supercycle.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/david-solomon-goldman-sachs-summer-intern-letter-spacex-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-81da-bcd4-eda028f37db2",
-      "title": "Everything Taylor Swift has worn this year, ranked from worst to best",
-      "summary": "Taylor Swift has been busy the past few months, attending awards shows, sporting events, and more. Here are her standout looks and what they cost.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/taylor-swift-outfits-ranked-2026"
-    },
-    {
-      "id": "37d03df8-2d23-819c-ac0c-c80f506149c9",
-      "title": "After leaving my rural hometown for a big city, I never thought I'd be back. Now that I am, I can't believe I ever left.",
-      "summary": "When I finally got to move from my rural hometown in North Carolina to Chicago, it felt like a dream. I never thought I'd come back, but I was wrong.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/moved-back-to-small-town-after-living-city-hometown-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-81e5-a38b-f98a5dbdca5b",
-      "title": "I played in the World Cup for Team USA — then I had kids and it changed my definition of success",
-      "summary": "Former USMNT midfielder Maurice Edu says fatherhood has become more important to him than any accomplishment in soccer.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/maurice-edu-fatherhood-more-important-than-soccer-2026-6"
-    },
-    {
-      "id": "37d03df8-2d23-81df-a5e2-fd129970b58a",
-      "title": "A trillion dollars is a stupid amount of money",
-      "summary": "Elon Musk is now officially the world's first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have. Its scale - a thousand times more than a billion - is difficult to fathom for those of us who aren't among the 3,363 billionaires that currently exist in ",
-      "source": "The Verge",
-      "publishTime": "2026-06-13",
-      "link": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization"
-    },
-    {
-      "id": "37d03df8-2d23-811a-9522-d1a41cc55990",
-      "title": "Elon Musk is the world&#8217;s first trillionaire",
-      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and ha",
-      "source": "The Verge",
-      "publishTime": "2026-06-13",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo"
-    },
-    {
-      "id": "37d03df8-2d23-81bb-a325-efc492baad24",
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public markets in the same windo",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-13",
-      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/"
-    },
-    {
-      "id": "37d03df8-2d23-8150-b532-c06e8cf38c1d",
-      "title": "I took a weeklong cruise and didn't check a bag. Here are 10 items I'm glad I packed and 9 things I'll bring next time",
-      "summary": "I took my first cruise on Royal Caribbean's Wonder of the Seas. I was glad I packed a magnet and the right shoes, but I longed for laundry soap.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-13",
-      "link": "https://www.businessinsider.com/7-day-cruise-packing-list-carry-on-suitcase"
     }
   ],
   "macroEvents": [
