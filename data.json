@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-06-17 05:24",
+  "updatedAt": "2026-06-17 07:01",
   "news": [
+    {
+      "id": "38103df8-2d23-81ce-b3db-e1e31b12cb4c",
+      "title": "联想推出 PB9 拯救者 170W 带屏移动电源：2C + 1A、独特三角设计，24000mAh 电芯，489 元",
+      "summary": "IT之家 6 月 17 日消息，联想现已在京东上架一款型号为 PB9 拯救者 170W 移动电源，该产品采用 2C+1A 设计，匹配 24000mAh 电芯，定价为 549 元，首发价 489 元。京东联想拯救者 PB9 移动电源券后 489 元领 60 元券该产品采用了独特的三角外形，正面提供了一块彩屏面板。顶部配备了 2 个 USB-C 140W 接口、1 个 USB-A 30W 接口，在多口使用时峰值功率至高可达 170W。协议方面，其支持联想私有 140W 快充 / PD 3.1/PPS/ SCP / QC / FCP 等。IT之家附产品参数：京东 618 无门槛红包 面额至高 266",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/136.htm"
+    },
+    {
+      "id": "38103df8-2d23-813a-93d7-edd1291b797f",
+      "title": "Snap finally unveiled its Specs AR glasses, and the $2,195 price tag is raising eyebrows",
+      "summary": "Snap has unveiled a new pair of augmented reality glasses with a price tag more commonly seen on a gaming PC or high-end TV.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-17",
+      "link": "https://www.businessinsider.com/snap-specs-ar-glasses-debut-price-2026-6"
+    },
+    {
+      "id": "38103df8-2d23-8138-a57b-d0a3fa5f4bbd",
+      "title": "Anthropic's Fable shutdown is a big moment for open-source AI",
+      "summary": "Anthropic’s Fable shutdown could boost open-source AI, but many of the models gaining traction are Chinese.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-17",
+      "link": "https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html"
+    },
+    {
+      "id": "38103df8-2d23-8190-b264-e56480e174f6",
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-17",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
+    },
+    {
+      "id": "38103df8-2d23-81b2-9c5f-f8f9db7b6ac4",
+      "title": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
+      "summary": "Databricks is seeing higher growth as AI agents assist with data analysis, but all that activity is significantly increasing costs.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-17",
+      "link": "https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html"
+    },
+    {
+      "id": "38103df8-2d23-8183-8544-fa1d49f3f49e",
+      "title": "英伟达携手 Coherent 扩产 AI 光互联，黄仁勋称 AI 是终极通用技术",
+      "summary": "英伟达昨日（6 月 16 日）发布博文，宣布其战略投资的高意（Coherent）在美国得州 Sherman 为扩建工厂奠基，聚焦 6 英寸磷化铟晶圆与光互连产能，支撑 AI 数据在机架间以光速传输。IT之家援引博文介绍，磷化铟是一种复合半导体材料，英文为 Indium Phosphide，擅长发光和调制光信号，常用于高速激光器、收发器和光互连器件，是 AI 系统连接芯片、服务器和数据中心的关键底座。本次工厂扩建奠基仪式上，英伟达创始人兼首席执行官黄仁勋与 Coherent 首席执行官 Jim Anderson 出席活动，Sherman 市市长肖恩 · 特曼和得克萨斯州经济发展和旅游局执行董事阿",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/135.htm"
+    },
+    {
+      "id": "38103df8-2d23-8174-9bd6-c99470b2682d",
+      "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+      "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-17",
+      "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/"
+    },
+    {
+      "id": "38103df8-2d23-8181-8d34-d3e50704e511",
+      "title": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
+      "summary": "Intel is entering production of 18A-P, its most-advanced chip node that could be the target of a coming deal with Apple",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-17",
+      "link": "https://www.cnbc.com/2026/06/16/intel-begins-production-of-18a-p-inches-closer-to-possible-apple-deal.html"
+    },
+    {
+      "id": "38103df8-2d23-81f5-b654-d330bedc06a5",
+      "title": "German broadcaster removes language tying Elon Musk to Northern Ireland unrest",
+      "summary": "Musk threatened legal action against ZDF for what he called \"outrageous lies.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-06-17",
+      "link": "https://www.businessinsider.com/germanys-zdf-removes-language-tying-elon-musk-to-belfast-unrest-2026-6"
+    },
     {
       "id": "38103df8-2d23-8189-85d0-cf9f92dc4ef3",
       "title": "SpaceX's blistering start still faces key tests that will determine the stock's true value",
@@ -328,78 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-06-17",
       "link": "https://www.businessinsider.com/startups-raising-billions-vibe-coding-boom-cursor-lovable-replit-emergent-2026-3"
-    },
-    {
-      "id": "38103df8-2d23-8120-b87e-da09933b5a78",
-      "title": "The more AI this marketing chief exec uses, the less scared he gets",
-      "summary": "A marketing exec says he uses AI-built apps and voice tools to streamline work, travel, and creativity — not replace humans.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/marketing-chief-exec-ai-creativity-boom-not-job-threat-2026-5"
-    },
-    {
-      "id": "38103df8-2d23-810d-a3b1-fdc38dab9cd5",
-      "title": "Best Robot Vacuum of 2026: Shark, Eufy",
-      "summary": "Tired of vacuuming? Hand the reins to a robot vacuum.",
-      "source": "Wired",
-      "publishTime": "2026-06-17",
-      "link": "https://www.wired.com/story/best-robot-vacuum/"
-    },
-    {
-      "id": "38103df8-2d23-8187-9a6d-f90ed80313ef",
-      "title": "My 70-year-old mom didn't want to live alone anymore, so she bought a house, and my husband and I moved in with her",
-      "summary": "My mom bought a split-level house, and my husband and I moved in with her. The multigenerational arrangement offers independence and financial perks.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/aging-mom-bought-house-we-moved-in-multigenerational-living-benefits-2026-6"
-    },
-    {
-      "id": "38103df8-2d23-81a2-8333-ecd9c1f6de41",
-      "title": "Nothing&#8217;s Ear (a), our favorite budget earbuds, are cheaper than ever ahead of Prime Day",
-      "summary": "If you’re looking for a cheap Father’s Day gift that delivers more than you’d expect for the price, Nothing’s Ear (a) are a good option. The wireless earbuds are currently on sale as part of a larger early Prime Day sales event, making them an even better value than usual. Right now, you can buy […]",
-      "source": "The Verge",
-      "publishTime": "2026-06-17",
-      "link": "https://www.theverge.com/gadgets/950756/nothing-ear-a-early-amazon-prime-day-deal-sale"
-    },
-    {
-      "id": "38103df8-2d23-81f1-aca1-c96011298c3e",
-      "title": "How to take on Apple and Samsung in the mobile phone market, according to Nothing CBO Charlie Smith",
-      "summary": "Lara O'Reilly speaks with Charlie Smith about Nothing's collaboration with Charli XCX, making tech cool again, and taking on Apple and Samsung.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/nothing-charli-xcx-taking-on-apple-samsung-mobile-phone-market-2026-6"
-    },
-    {
-      "id": "38103df8-2d23-81e4-a6b7-c95f3b3b128b",
-      "title": "单日触达近 20 亿人次，总台世界杯传播效果数据再创新高",
-      "summary": "IT之家 6 月 16 日消息，据中央广电总台总经理室今晚分享，CSM 全媒体视听数据显示，6 月 15 日，总台 2026 年美加墨世界杯赛事、特别节目及相关新闻报道全媒体累计触达 19.49 亿人次，较前一日增长 1.64 亿人次，并实现连续两日持续攀升。CSM V+Scope 数据统计，2026 年美加墨世界杯开赛以来，累计 1674 条世界杯相关话题登上热搜榜，几乎覆盖了所有热门赛事和焦点时刻。另外，总台账号在第三方平台发布的世界杯相关短视频内容总传播量累计接近 3 亿次。据IT之家此前报道，5 月 15 日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作",
-      "source": "IT之家",
-      "publishTime": "2026-06-16",
-      "link": "https://www.ithome.com/0/965/132.htm"
-    },
-    {
-      "id": "38103df8-2d23-8155-b0c3-db0892f93a78",
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-16",
-      "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/"
-    },
-    {
-      "id": "38103df8-2d23-8177-9407-f9d24b74c750",
-      "title": "朱江明自曝是车圈最早举起芯片的人：零跑 2020 年就已推出“凌芯 01”",
-      "summary": "IT之家 6 月 16 日消息，在今天（16 日）晚间的媒体沟通会上，零跑创始人朱江明透露，“真正举起芯片的人是我，对吧？新能源汽车里面，第一个举起芯片的是我。大家如果记忆深刻的话，在水立方发布的凌芯 01 芯片，当时只有 4.2TOPS 算力。”IT之家查询公开资料获悉，凌芯 01 是由零跑汽车与大华股份联合研发的首款国产 AI 自动驾驶芯片，也是国内首款具有完全自主知识产权的车规级 AI 智能驾驶芯片，2020 年正式发布，2021 年随零跑 C11 车型上市而实现量产搭载。凌芯 01 采用 28nm 制程工艺，CPU 采用阿里旗下平头哥半导体公司的“玄铁 C860”处理器，AI 处理器集",
-      "source": "IT之家",
-      "publishTime": "2026-06-16",
-      "link": "https://www.ithome.com/0/965/131.htm"
-    },
-    {
-      "id": "38103df8-2d23-81cd-9167-d7be600fd859",
-      "title": "全国首个商业空间碎片监测专用星座首发星出征",
-      "summary": "IT之家 6 月 16 日消息，今日上午，在位于梁溪空天产业园的遨天巡宇（无锡）航天工业有限公司，随着试验队旗完成交接，全国首个商业空间碎片监测专用星座 ——“LX630”首发星正式出征，即将奔赴太空。据介绍，LX630 星座是我国首个商业空间碎片监测专用星座，既能为航天器提供轨道安全和数据应用服务，保障巨型星座高效安全运行，支撑太空交通的协同管理，也能服务国家太空战略安全，为各类太空资产增值赋能。该卫星搭载高星等目标探测相机，可覆盖低轨、高轨全天域近地空间目标。这意味着，它不仅能在广袤宇宙中快速扫描，还能精准锁定并识别微小的空间碎片，支撑建立动态更新的微小空间碎片编目库。IT之家注意到，该卫",
-      "source": "IT之家",
-      "publishTime": "2026-06-16",
-      "link": "https://www.ithome.com/0/965/130.htm"
     }
   ],
   "macroEvents": [
