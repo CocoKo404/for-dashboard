@@ -1,6 +1,358 @@
 {
-  "updatedAt": "2026-06-18 00:45",
+  "updatedAt": "2026-06-18 03:34",
   "news": [
+    {
+      "id": "38203df8-2d23-81de-9b0c-dcf77fa91f1c",
+      "title": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
+      "summary": "Quantum computing is becoming an increasingly competitive field, with tech giants including Microsoft, Google and IBM developing the technology.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-18",
+      "link": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html"
+    },
+    {
+      "id": "38203df8-2d23-8102-bd05-c36226651b63",
+      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-18",
+      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/"
+    },
+    {
+      "id": "38203df8-2d23-815d-93cb-c023d57c2502",
+      "title": "Mastodon looks to newsletters to help revive the open social web",
+      "summary": "Mastodon’s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-18",
+      "link": "https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web/"
+    },
+    {
+      "id": "38203df8-2d23-81b2-ba22-ebc33d9d49f0",
+      "title": "Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year'",
+      "summary": "Amazon's Nova2 model is behind the latest releases from LLM leaders OpenAI and Anthropic.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-18",
+      "link": "https://www.cnbc.com/2026/06/17/amazon-ai-frontier-openai-anthropic.html"
+    },
+    {
+      "id": "38203df8-2d23-8146-83a9-db126dc99f0f",
+      "title": "Michelle Obama remains a fashion icon. Here are her best style moments.",
+      "summary": "Michelle Obama has been called one of the most fashionable first ladies in American history.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-18",
+      "link": "https://www.businessinsider.com/michelle-obama-best-style-moments-2021-1"
+    },
+    {
+      "id": "38203df8-2d23-81de-9267-fa776e2485b5",
+      "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
+      "summary": "Tech leaders and heads of state, including President Donald Trump, joined a meeting about AI standards at the G7 Summit.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-18",
+      "link": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html"
+    },
+    {
+      "id": "38203df8-2d23-81f7-ac5b-c6ca3858a3be",
+      "title": "My favorite day-trip destination is a small island in New England — and the round-trip ferry ride is just $20",
+      "summary": "I've lived in Rhode Island my whole life, and my favorite New England day trip is Block Island. With a $20 ferry, it's an affordable summer trip.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-18",
+      "link": "https://www.businessinsider.com/favorite-new-england-day-trip-summer-block-island-ferry-2026-6"
+    },
+    {
+      "id": "38203df8-2d23-81f9-b224-c16bc767dbd2",
+      "title": "Two-thirds of Americans think AI is advancing too quickly",
+      "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's",
+      "source": "The Verge",
+      "publishTime": "2026-06-18",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly"
+    },
+    {
+      "id": "38203df8-2d23-81ab-a62a-e10914303b09",
+      "title": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+      "summary": "Allbirds became NewBird AI in April and said it would trade shoes for AI compute infrastructure.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-18",
+      "link": "https://www.cnbc.com/2026/06/17/allbirds-bird-ai-smartbird-ceo.html"
+    },
+    {
+      "id": "38203df8-2d23-81da-8983-ed7f2fb7cc36",
+      "title": "I booked Airbnbs in small towns while backpacking Europe and found 2 hidden-gem destinations I'd never heard of",
+      "summary": "During a two-week backpacking trip through Europe, I booked Airbnbs in small towns outside Berlin and Zurich. The crowd-free areas were hidden gems.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-18",
+      "link": "https://www.businessinsider.com/europe-hidden-gems-small-towns-outside-berlin-zurich-2026-6"
+    },
+    {
+      "id": "38203df8-2d23-81a9-a0da-eac47a8a1345",
+      "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+      "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
+      "source": "Wired",
+      "publishTime": "2026-06-18",
+      "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/"
+    },
+    {
+      "id": "38203df8-2d23-81ad-8f95-caa4ae4e9ee7",
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-18",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
+    },
+    {
+      "id": "38203df8-2d23-81f7-a31c-ed6d3fcb30ba",
+      "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
+      "summary": "Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations, and how to navigate those changes.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-18",
+      "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/"
+    },
+    {
+      "id": "38203df8-2d23-81a5-965c-e262f88ca212",
+      "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
+      "summary": "We’re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon’s own devices. Several Echo speakers have dropped to new low prices, including the Echo Dot Max, which is on sale for $64.99 ($35 off) at Amazon. Our smart home reviewer Jen",
+      "source": "The Verge",
+      "publishTime": "2026-06-18",
+      "link": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale"
+    },
+    {
+      "id": "38203df8-2d23-81c3-84fa-f1841b28fb92",
+      "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+      "summary": "The Amazon founder, who now has robotics and space travel companies, thinks AI will create a labour shortage.",
+      "source": "BBC Tech",
+      "publishTime": "2026-06-18",
+      "link": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "38203df8-2d23-812e-8a61-c404864b1f88",
+      "title": "Inside the C-130 Hercules, a military transport aircraft that can land almost anywhere and haul almost anything",
+      "summary": "The C-130 Hercules airlifter's versatility, longevity, and cargo capacity have made it a valuable asset to the Air Force and over 40 countries.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-18",
+      "link": "https://www.businessinsider.com/c-130-hercules-air-force-plane-airlift-aircraft-tour-history-2026-6"
+    },
+    {
+      "id": "38203df8-2d23-81de-bde7-c7e5d31bb8d4",
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-18",
+      "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/"
+    },
+    {
+      "id": "38203df8-2d23-81f8-ab4a-cc331629f6dd",
+      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+      "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier",
+      "source": "The Verge",
+      "publishTime": "2026-06-18",
+      "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house"
+    },
+    {
+      "id": "38203df8-2d23-815f-ba49-e09b8b3ad84e",
+      "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
+      "summary": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computing into the world\" and \"make it more human.\" He positioned them as a device to h",
+      "source": "The Verge",
+      "publishTime": "2026-06-18",
+      "link": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion"
+    },
+    {
+      "id": "38203df8-2d23-8110-897a-eca7f062f990",
+      "title": "PayPal Ventures shutters as company restructuring continues",
+      "summary": "The corporate venture arm ends after 10 years and 80 investments.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-18",
+      "link": "https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/"
+    },
+    {
+      "id": "38203df8-2d23-81f0-87fa-d75558051cef",
+      "title": "I live in a 97-square-foot micro-apartment in Paris. It was supposed to be temporary, but I realized I love tiny living.",
+      "summary": "Moving into a 97-square-foot micro-apartment in Paris was supposed to be temporary, but I've found that I love the unexpected benefits of tiny living.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-18",
+      "link": "https://www.businessinsider.com/live-in-micro-apartment-tiny-space-better-surprising-benefits-2026-6"
+    },
+    {
+      "id": "38203df8-2d23-8184-ba05-c2693672eb5d",
+      "title": "Without teens, the internet becomes an instant ghost town",
+      "summary": "Think you don't share an internet with teens? Kid-free social media would actually leave adults in a total ghost town.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-18",
+      "link": "https://www.businessinsider.com/what-happens-internet-without-teens-2026-6"
+    },
+    {
+      "id": "38203df8-2d23-81d7-b93b-d9bdabf36101",
+      "title": "Google, Nvidia and Anthropic bosses' AI tips for students",
+      "summary": "Sundar Pichai, Jensen Huang and Jack Clark share their advice with the BBC.",
+      "source": "BBC Tech",
+      "publishTime": "2026-06-17",
+      "link": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "38203df8-2d23-817f-a8ea-e0807db1c516",
+      "title": "苹果新推荐功能引争议，App Store 被曝记录用户所有点击",
+      "summary": "IT之家 6 月 17 日消息，苹果上周为 App Store 推出了一个新的发现功能，名为“个性化收藏”，即根据用户的个人兴趣和行为提供 App 推荐。苹果将该功能宣传为开发者获得应用曝光的另一种途径，但这一做法已经从隐私角度引发了一些反对声音。新的推荐功能会出现在应用、游戏和搜索标签页中，并根据用户的应用使用和下载情况而变化。安全研究机构 Mysk 表示，苹果会记录用户在 App Store 中的“每一次点击”，用以生成推荐。IT之家注意到，他放出的截图显示的是用户搜索“Tim cook”时 App Store 发送给苹果的数据。现在苹果正在将他们从 App Store 收集的大量可识别身",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/691.htm"
+    },
+    {
+      "id": "38203df8-2d23-8105-99aa-d1c8436df6e1",
+      "title": "We got free GTA V upgrades before GTA VI",
+      "summary": "Rockstar Games will allow players to upgrade older versions of Grand Theft Auto V for PlayStation 5 and Xbox Series X / S for free just months before the launch of GTA VI. Starting June 18th, players with any version of GTA V on PS4 or the digital version on Xbox One can get the […]",
+      "source": "The Verge",
+      "publishTime": "2026-06-17",
+      "link": "https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade"
+    },
+    {
+      "id": "38203df8-2d23-81e6-8407-cd8ff54711c2",
+      "title": "Mark Zuckerberg is a certified watch guy. His collection ranges from a $120 Casio to multimillion-dollar timepieces.",
+      "summary": "Mark Zuckerberg once had an understated style. Now, the Meta CEO wears a luxury watch from his pricey collection with almost every outfit.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-17",
+      "link": "https://www.businessinsider.com/mark-zuckerberg-luxury-watch-collection"
+    },
+    {
+      "id": "38203df8-2d23-81b2-b8e5-f1c12c09a81b",
+      "title": "智己 LS8 上市后选装包从 9800 元变免费，超 200 位车主联名维权",
+      "summary": "IT之家 6 月 17 日消息，据新浪科技今日报道，今年 4 月刚刚上市的智己 LS8，首批车主在购车时花费 9800 元的选装包在仅一个多月后就变成了免费赠送。他们向智己汽车发布了两封联名信，要求首批车主获得相关补偿，目前加入的车主已超 200 名，但并未获得官方的正面回应。IT之家此前报道，智己 LS8 于今年 4 月 16 日正式上市，上市权益价区间为 24.98 万元至 29.98 万元。该车上市时推出价值 9800 元的“奢华智选包”，包含 520 线超视域激光雷达、丹麦 B&O 音响系统、主驾座椅按摩、21 英寸轮辋及抬头彩显等配置。然而上市仅一个多月后，车主们发现该选装包出现了免",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/690.htm"
+    },
+    {
+      "id": "38203df8-2d23-81a8-b72b-ea3372ceadf6",
+      "title": "SanDisk’s new PlayStation 5 SSD will cost you more than three PS5 Pros",
+      "summary": "SanDisk has announced an expensive way to boost the PlayStation 5's storage capacity. The company's new Optimus GX PRO 850P NVMe SSD is an officially licensed PS5 accessory in capacities ranging from 1TB to 8TB. The largest option can store up to 200 PS5 games (based on average installation sizes) S",
+      "source": "The Verge",
+      "publishTime": "2026-06-17",
+      "link": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony"
+    },
+    {
+      "id": "38203df8-2d23-8120-875c-dfce9ccd73a2",
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-17",
+      "link": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/"
+    },
+    {
+      "id": "38203df8-2d23-8182-a9a1-c3e9e5bfc8e1",
+      "title": "3950mAh，Ayaneo Pocket MICRO 2 掌机电池容量公布",
+      "summary": "IT之家 6 月 17 日消息，Ayaneo 今天在 X 平台发文，公布 Pocket MICRO 2 掌机的电池容量。据介绍，这款掌机将配备 3950 毫安时（mAh）高密度电池，相比上一代机型大 52%，号称可“随时随地游玩”。IT之家了解到，Ayaneo Pocket MICRO 初代掌机内置 2600mAh 电池，搭载联发科 Helio G99 处理器，配备 3.5 英寸 IPS 原彩屏，机身宽度约 63mm，首发 1299 元起。同时，初代 Pocket MICRO 采用极简人体工学设计，机身边框和边角部分均采用微弧倒角过渡；四颗肩键采用轻触开关按键，支持任意位置触发。L1R1 键按",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/689.htm"
+    },
+    {
+      "id": "38203df8-2d23-81e0-8255-cd9ef0cfb8e8",
+      "title": "发一条黑帖只给 6 元，影石中国区负责人袁跃起底专利诉讼期水军攻击",
+      "summary": "IT之家 6 月 17 日消息，影石中国区负责人袁跃今日发布长文，称近期有水军针对公司的专利诉讼司法案件，发起有组织舆情攻击。袁跃表示，这些黑水军除了攻击影石之外，还有着惊人的一致：相似的 IP 地址、相似的主页内容、相似的发帖时间、相似的评论话术，以及相似的生活品味，以下是具体实例：并且，在 Luna Ultra 上市以前，就有不少行业人士公开吐槽称，他们发现了高度雷同的内容存在于网络，这些账号看着很“水”，但数量很多。他们的话术连标点符号都没变，像牛皮癣广告一样，牢牢长在评论区。同时，最近有用户在某视频平台上刷到一条拉踩 Luna Ultra 的视频，博主还说：“这是广告，也想接广告的宝子",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/688.htm"
+    },
+    {
+      "id": "38203df8-2d23-8162-9e76-d71faaa09b3e",
+      "title": "Mastercard's former CMO says we're entering a 'golden era' for marketing",
+      "summary": "Mastercard's Raja Rajamannar says that AI is both a threat and opportunity in marketing, emphasizing creativity's growing importance amid AI slop.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-17",
+      "link": "https://www.businessinsider.com/mastercard-former-cmo-ai-ushering-golden-era-marketing-2026-6"
+    },
+    {
+      "id": "38203df8-2d23-8198-b51e-c0c00f545f2a",
+      "title": "I've been shopping at Trader Joe's for over a decade. These 10 items are always in my cart — and cost less than $5.",
+      "summary": "As a longtime Trader Joe's shopper, some of my favorite items to buy cost less than $5. I always grab the vegetable fried rice and garlic naan.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-17",
+      "link": "https://www.businessinsider.com/favorite-cheap-trader-joes-items-longtime-shopper-2026-6"
+    },
+    {
+      "id": "38203df8-2d23-818a-b3ae-e900610c5c6a",
+      "title": "中国科研团队在横琴岛发现世界上最小鱼类之一，体长不足 9 毫米",
+      "summary": "IT之家 6 月 17 日消息，中山大学与多家机构合作，在广东省横琴岛发现了一种小蜜蜂虾虎鱼新种，这是该属鱼类在中国的首次记录，命名为珍妮短尾虾虎鱼（Brachygobius jennie）。这项 6 月 17 日发表于《Zoosystematics and Evolution》的研究成果，将这类小型沿海鱼类的已知地理分布向东北方向扩展至珠江口亚热带红树林湿地。该研究的第一作者、中山大学研究生田江艳在黄建荣的指导下回忆道：“有一天，在珠江口湿地进行野外调查时，我的注意力被浅水区贴近基质生活的小鱼吸引。起初我以为它们是幼鱼，但它们身上的斑纹图案与该地区已知的任何鱼种都不匹配。”回到实验室后，黄建",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/687.htm"
+    },
+    {
+      "id": "38203df8-2d23-81e3-aa26-f710b212f882",
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-17",
+      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
+    },
+    {
+      "id": "38203df8-2d23-81b7-9649-ff67cdf5b968",
+      "title": "DeepSeek 以 4000 亿元估值完成首轮外部融资：510 亿元到账，投资方含梁文锋、腾讯、宁德时代、京东、网易等",
+      "summary": "IT之家 6 月 17 日消息，企查查数据显示，杭州深度求索人工智能基础技术研究有限公司已于 2026 年 6 月 16 日完成首轮外部融资，整体融资规模约 510 亿元，企业估值近 4000 亿元。本轮融资的投资方阵容涵盖了产业资本、互联网巨头与国家队，具体投资方包括创始人梁文锋、腾讯、宁德时代、网易、京东、Monolith 砺思资本、IDG 资本、正心谷投资、拾象科技以及国家人工智能产业投资基金合伙企业（有限合伙）。DeepSeek 成立于 2023 年 7 月 17 日，总部位于浙江省杭州市拱墅区，主要从事大语言模型及多模态 AI 技术研发，其推出的 DeepSeek 系列开源模型是国内",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/686.htm"
+    },
+    {
+      "id": "38203df8-2d23-81ef-9ce1-cf78092a8268",
+      "title": "I didn't realize how big a deal the FIFA World Cup was until my Airbnb bookings blew up.",
+      "summary": "Jennifer Smith says World Cup visitors have filled her Texas Airbnbs, allowing her to charge significantly higher rates than usual.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-17",
+      "link": "https://www.businessinsider.com/world-cup-airbnb-bookings-texas-double-income-2026-6"
+    },
+    {
+      "id": "38203df8-2d23-8103-9ff1-f39dc3969385",
+      "title": "腾讯经典 IP《天天飞车竖屏版》开启删档限量测试招募，6 月 28 日截止",
+      "summary": "IT之家 6 月 17 日消息，腾讯新游《天天飞车竖屏版》今天现身 QQ 游戏中心，目前已开启删档限量测试招募，截止日期为 6 月 28 日。IT之家了解到，本次测试采用删档、限量、不计费形式，支持非实名制游玩，仅限安卓平台参与。配备要求为骁龙 845 及以上处理器、Android 12.0 系统。同时，希望参与测试的玩家可以先填写招募问卷，测试开始时间将在后续另行通知。测试期间游戏采取保密形式，无法将截图、录屏等分享到社交媒体。作为参考，《天天飞车》是腾讯游戏《QQ 飞车》原班制作团队，天美工作室群打造的一款 3D 写实风格极速闪避竞速类手机游戏。最初上线于 2013 年，2020 年 12",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/685.htm"
+    },
+    {
+      "id": "38203df8-2d23-817c-8e5b-c93d9cf92c1d",
+      "title": "In a big year for horror, Widow’s Bay still stands apart",
+      "summary": "Horror is having a moment. In 2026, the genre is especially well-represented: new blood is dominating the box office through films like Backrooms and Obsession, established names like Sam Raimi and Damian McCarthy are at the top of their game, and long-running franchises like 28 Years Later and Resi",
+      "source": "The Verge",
+      "publishTime": "2026-06-17",
+      "link": "https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror"
+    },
+    {
+      "id": "38203df8-2d23-81fc-a22c-d95475628926",
+      "title": "Paramount Plus is two dollars for two months of ad-free viewing",
+      "summary": "Paramount Plus is offering new and former subscribers a discounted rate until June 25th, 2026. You’ll pay 99 cents per month for the first two months, with the Premium plan automatically renewing for $13.99 per month after that, and the more limited Essential plan renewing for $8.99. Both plans incl",
+      "source": "The Verge",
+      "publishTime": "2026-06-17",
+      "link": "https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale"
+    },
+    {
+      "id": "38203df8-2d23-8162-b806-d7d1d8df88b8",
+      "title": "让换机更容易：谷歌 Android 17 系统将支持迁移苹果 iOS 通行密钥、Wi-Fi 记录、RCS 信息等",
+      "summary": "IT之家 6 月 17 日消息，据科技媒体 Android Authority 今天报道，谷歌从去年开始和苹果合作，意图让 Android 与 iOS 之间的换机流程更加顺畅。如今这些合作终于落地，最近发布的 Android 17 系统引入了全新迁移数据工具“Android Switch”。IT之家从原报道获悉，这款工具已经直接集成到 Android 和 iOS 系统核心中，对普通用户而言更加友好。新工具采用“无线优先”设计，几乎所有迁移操作都能通过无线传输完成，不再需要 OTG 数据线等工具。同时，新工具将支持迁移密码、通行密钥、Wi-Fi 连接记录、闹钟设置，还能够自动同步桌面壁纸、主屏幕",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/681.htm"
+    },
+    {
+      "id": "38203df8-2d23-819b-b451-f053d88432a5",
+      "title": "Anthropic's Dario Amodei and OpenAI's Sam Altman are attending the same CEO lunch today",
+      "summary": "Anthropic's ongoing dispute with the White House over Fable 5 and Mythos 5 will be the \"elephant in the room,\" POLITICO reports.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-17",
+      "link": "https://www.businessinsider.com/anthropic-dario-amodei-openai-sam-altman-demis-hassabis-g7-lunch-2026-6"
+    },
+    {
+      "id": "38203df8-2d23-8120-8cd7-f83c1f2e35c0",
+      "title": "3199 → 1980 元国补新低：小米米家智能净烟机 Pro 无油网免拆洗",
+      "summary": "【京东活动可能随时变更，需以实付款为准】小米米家智能净烟机 Pro 开售于 2025 年 9 月，官方定价 3199 元。京东 618 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1980.69 元：领 8.7 折券：点此查看加入购物车时选择“以旧换新”补贴 50 元京东直播间下单再返 100 元京豆：点此查看（搜“967”号）京东小米 米家智能净烟机 ProMJ04C 以旧换新 1980.69 元直达链接京东无门槛红包至高 26618 元，支持即领即用：点此抽取。IT之家从官方介绍获悉，这款新品搭载自研动态微粒捕集技术，全程控烟并净吸油烟、气味、PM2.5 等微粒。创新增压吸风口，配",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/680.htm"
+    },
+    {
+      "id": "38203df8-2d23-8114-9d9c-e2d15ae06282",
+      "title": "“基建狂魔”实力渐显：我国建成全球最大清洁能源走廊，水电装机容量 4.5 亿千瓦居世界首位",
+      "summary": "IT之家 6 月 17 日消息，我国是水电大国，水电在我国能源版图中占有十分重要的地位。据央视财经今日报道，当前我国水电装机容量已经达 4.5 亿千瓦，居世界首位。报道提到，白鹤滩水电站是世界第二大水电站，总装机容量 1600 万千瓦，一天的发电量可满足 1.48 亿人日常用电。如今，白鹤滩水电站已安全稳定运行 2000 多天，年均发电量约 624 亿千瓦时，相当于节约标准煤超 1800 万吨，减少二氧化碳排放超 5100 万吨。另外，我国还在长江流域建成世界最大“清洁能源走廊”。乌东德、白鹤滩、溪洛渡、向家坝、三峡和葛洲坝六座大型水电站，跨越 1800 公里，总装机容量达 7169.5 万千",
+      "source": "IT之家",
+      "publishTime": "2026-06-17",
+      "link": "https://www.ithome.com/0/965/679.htm"
+    },
     {
       "id": "38203df8-2d23-81b9-9a57-eeecfeeec038",
       "title": "40 周年纪念作《三国志 14 威力加强传承版》公布：天津光荣特库摩开发，9 月 10 日发售",
@@ -48,358 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-06-17",
       "link": "https://www.ithome.com/0/965/673.htm"
-    },
-    {
-      "id": "38203df8-2d23-810e-8533-efd0c0e91328",
-      "title": "Aviation bosses are tired of reminding you about 2 crucial plane safety rules",
-      "summary": "\"In an emergency, every second counts,\" an aviation body said as it launched a new campaign asking passengers to \"save a life, not a bag.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/flying-safety-rules-passengers-battery-fire-luggage-iata-faa-2026-6"
-    },
-    {
-      "id": "38203df8-2d23-814f-b616-c2a1b9986202",
-      "title": "亚马逊《攻壳机动队 THE GHOST IN THE SHELL》最新预告公布，7 月 7 日首播",
-      "summary": "IT之家 6 月 17 日消息，亚马逊 Prime Video 今日公布了 TV 电视动画《攻壳机动队 THE GHOST IN THE SHELL》最新预告片，并确认将于 2026 年 7 月 7 日在全球 240 个国家与地区开播（每周二 22:00 点更新）。虽然目前官方尚未正式公开这次新版动画的声优人选，但 Prime Video 作品页面上已列出了坂本真绫、山路和弘、安元洋贵以及中村悠一将参与配音的消息。 该动画由知名动画工作室 Science SARU（科学猴）负责制作，视觉风格与精神内核层面更加贴近原作。此次新作电视动画由木村翔马（曾参与《胆大党》《平家物语》等作品）担任导演并完",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/671.htm"
-    },
-    {
-      "id": "38203df8-2d23-816a-9a75-f553635158a5",
-      "title": "This startup is betting GIFs and 'micro memes' will be supercharged in the AI era. Read its pitch deck.",
-      "summary": "Klipy is a startup helping apps like BeReal and Canva integrate memes, such as GIFs and stickers, into their products.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/meme-gif-startup-klipy-google-ai-fund-pitch-deck-2026-6"
-    },
-    {
-      "id": "38203df8-2d23-8150-a415-f348cb77cfcc",
-      "title": "In Toy Story 5, the problem really is these damn phones (and tablets)",
-      "summary": "The Toy Story franchise began with a story about a vintage doll feeling threatened by the arrival of an electronic action figure. Woody and Buzz's rivalry embodied a shift that was happening in the '90s as children's toys were becoming more technologically sophisticated, and while toys have gotten e",
-      "source": "The Verge",
-      "publishTime": "2026-06-17",
-      "link": "https://www.theverge.com/entertainment/950739/toy-story-5-review"
-    },
-    {
-      "id": "38203df8-2d23-8195-ab00-c320361ac937",
-      "title": "How to find the best deals during Amazon’s Prime Day sale",
-      "summary": "Amazon’s Prime Day is one of the biggest shopping events of the year, and the four-day sale for 2026 begins June 23rd at 3:01AM ET and ends at the same time on June 27th. It will grant Prime members access to some of the best prices of the year on Amazon devices, as well as […]",
-      "source": "The Verge",
-      "publishTime": "2026-06-17",
-      "link": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find"
-    },
-    {
-      "id": "38203df8-2d23-8135-972b-e6a89f73363a",
-      "title": "上市价 899 → 今日 396 元：罗技 MX Key S 无线蓝牙键盘国补新低",
-      "summary": "罗技 MX Keys 无线蓝牙键盘，Type-C 充电，智能背光，上市售价为 899 元。京东 618 大促期间，按下方步骤下单，叠加国补后仅需 396.75 元：领 9 折券：点此查看。京东罗技 MX Keys S 无线蓝牙键盘国补后 396.75 元直达链接京东无门槛红包至高 26618 元，支持即领即用：点此抽取。罗技 MX Keys 无线蓝牙键盘定位办公，支持蓝牙和 UNIFYING 优联接收器双连接（可同时连接 3 设备）。按键采用独特的球形凹面设计，自然贴合手性。按键时声音较小，响应迅速。可根据照明条件智能调整背光强度，节省电量。搭配罗技 Flow 鼠标可流畅掌握多台设备，Mac ",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/670.htm"
-    },
-    {
-      "id": "38203df8-2d23-81fe-a324-e3b3089f7c0f",
-      "title": "美货运“龙”飞船携科研样品返回地球，含生物打印的器官和软骨组织等",
-      "summary": "IT之家 6 月 17 日消息，据央视新闻今晚报道，美国太空探索技术公司的货运“龙”飞船携带大量科研物资和设备返回地球，17 日溅落在美加利福尼亚州附近海域。美国航空航天局介绍称，“龙”飞船于美国东部时间 16 日 12 时 25 分许（北京时间 17 日 0 时 25 分许）脱离国际空间站，启程返回地球。“龙”飞船于美国西部时间 17 日 5 时 11 分许（北京时间 17 日 20 时 11 分许），溅落在加利福尼亚州附近海域。图源：Pexels（资料图）美航空航天局表示，“龙”飞船带回的科研物资包括生物打印的器官和软骨组织，有关改进未来太空任务低温燃料储存技术的数据，以及用于开发新型癌症",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/669.htm"
-    },
-    {
-      "id": "38203df8-2d23-81d0-b89f-d6836ef50569",
-      "title": "谷歌用 4000 行 Rust 代码重写：Android 17 引入 ADB Wi-Fi 2.0，彻底重写无线调试堆栈解决断连痛点",
-      "summary": "IT之家 6 月 17 日消息，谷歌在 Android 17 中对无线 ADB 功能进行了大幅重写，并推出了全新的 ADB Wi-Fi 2.0，旨在解决自 Android 11 引入无线调试功能以来长期困扰开发者的稳定性和易用性问题。ADB 即 Android 调试桥，是让用户从 PC 端控制 Android 设备的命令行工具。虽然 ADB 支持有线与无线两种连接方式，但多数用户更倾向使用有线连接，因为无线模式一直存在多种不便。谷歌 ADB 技术负责人 Fabien Sanglard 在 Android Makers 大会上详细解释了第一代方案的问题所在。2020 年随 Android 11 ",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/668.htm"
-    },
-    {
-      "id": "38203df8-2d23-81e7-9b9c-fa372c81ef56",
-      "title": "I'm a nutritionist who loves to shop at Costco — but there are 11 things I never buy there",
-      "summary": "From frozen breakfasts and protein bars to bulk produce and spices, there are things I don't ever buy at Costco as a nutritionist shopping for two.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/costco-things-do-not-buy-nutritionist-grocery-list-2026-6"
-    },
-    {
-      "id": "38203df8-2d23-81f7-ac26-f6a6d4ff16ed",
-      "title": "谷歌推出新一代 Google Home 智能音箱：搭载 Gemini AI 助手，售 100 美元",
-      "summary": "IT之家 6 月 17 日消息，谷歌今天宣布推出新一代 Google Home 智能音箱，新品搭载 Gemini for Home AI 语音助手，支持自然语言交流与多步骤语音指令，6 月 25 日上市，定价 100 美元（IT之家注：现汇率约合 677 元人民币）。据介绍，这款智能音箱采用球形设计，可提供均衡的 360° 环绕音效。具备先进麦克风系统，可根据环境自动调整从而准确识别用户声音。支持与 Google TV Streamer 电视盒配合使用，将两台音箱组成立体声环绕系统。同时，这款音箱搭载 1GB LPDDR4 内存、四核 Cortex-A55 2.0 GHz 处理器以及 4GB ",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/667.htm"
-    },
-    {
-      "id": "38203df8-2d23-81a8-b015-de882aa131d7",
-      "title": "预计 2030 年产能达 50 万台套：京津冀首个万台级具身智能机器人超级工厂规模投用",
-      "summary": "IT之家 6 月 17 日消息，据北京亦庄微信公众号今日消息，京津冀首个万台级具身智能机器人超级工厂（领益智造北京具身智能超级工厂）近日规模投用。根据规划，该工厂年产能将逐步爬坡，预计 2030 年产能达 50 万台套。IT之家附京津冀首个万台级具身智能机器人超级工厂特性如下：制造能力方面工厂覆盖从核心零部件、模组到整机组装与测试的全链条制造服务，客户无需在多供应商间协调即可实现“交钥匙”量产。其中，模组自动组装线采用力觉 + 视觉双引导精密装配，换型时间小于 15 分钟，可根据市场需求快速复制模块化产线，支持多机型混线生产。行业首创的整机总装自动流水线实现“下肢 — 躯干 — 头部 — 手臂",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/666.htm"
-    },
-    {
-      "id": "38203df8-2d23-816f-9866-dae35c422768",
-      "title": "技嘉 40 周年纪念版 RTX 5090 AORUS Infinity 上架，售价 5299 美元约为公版 2.6 倍",
-      "summary": "IT之家 6 月 17 日消息，Videocardz 发现技嘉 GeForce RTX 5090 AORUS Infinity 已经在 Micro Center 上架，且仅限到店自提。如图所示，这款显卡标价 5299.99 美元（IT之家注：现汇率约合 35880 元人民币），相当于 RTX 5090 官方定价（1999 美元）的 2.65 倍。AORUS Infinity 是技嘉为品牌成立 40 周年推出的限量版设计，采用双风扇布局及双向贯通式散热器，配备隐藏式散热风扇、复合金属导热膏和超导热管，核心频率为 2730MHz，较 2407MHz 的公版频率高出 327MHz。除频率外，这张显卡",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/665.htm"
-    },
-    {
-      "id": "38203df8-2d23-817e-b84c-f53bf0d81fe9",
-      "title": "Ukrainian troops are losing days just getting to their positions in the kill zone. It's when they're most at risk.",
-      "summary": "A top Ukrainian defense official said soldiers may eventually be unable to penetrate the kill zone because it's becoming so dangerous.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/ukrainian-troops-lose-days-getting-into-kill-zone-most-vulnerable-2026-6"
-    },
-    {
-      "id": "38203df8-2d23-81e6-8ce5-e56c5d734fef",
-      "title": "维信诺遭“乾派文化”旗下账号发布视频诋毁，一审判令后者公开道歉并赔偿经济损失",
-      "summary": "IT之家 6 月 17 日消息，维信诺今天发布诉“乾派文化”商业诋毁、不正当竞争纠纷案胜诉声明，称后者旗下多个账号长期发布视频诋毁维信诺商誉，一审法院经审理查明，判令公开道歉并赔偿经济损失。IT之家附声明原文如下：近期，我司诉深圳市乾派文化传播有限公司（“乾派文化”）商业诋毁、不正当竞争纠纷一案，经合肥市中级人民法院审理，判决我司胜诉。乾派文化旗下“杰哥搞搞机”“啰嗦椰壳”“报告小刘”等多个账号长期发布视频，恶意捏造虚假信息，诋毁维信诺商誉、实施不正当竞争行为。一审法院经审理查明，认定被告侵权行为成立，判令公开道歉并赔偿我司经济损失。网络并非法外之地，维信诺将通过法律途径坚决反击刻意造谣抹黑、",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/664.htm"
-    },
-    {
-      "id": "38203df8-2d23-817e-9511-c18ec65f197c",
-      "title": "2999 元：联想 AI 主机 MINI 开售，号称“AI 原生个人家庭边缘设备”、预装天禧 Claw",
-      "summary": "IT之家 6 月 17 日消息，联想 AI 主机 MINI 现已开售，新品号称是“AI 原生个人家庭边缘设备”，支持开箱即用、一键养虾，采用此芯 P1 处理器，售价 2999 元。京东联想（Lenovo）AI 主机 mini2999 元直达链接据介绍，这款迷你主机采用此芯 P1（IT之家注：CD8180）处理器，使用 6nm 制程工艺，集成 12 核 Armv9.2 CPU、10 核 Immortalis G720 GPU 以及 30TOPS 算力 NPU，综合算力达 45TOPS。拥有 8GB LPDDR5 内存、256GB 固态硬盘。同时，这款迷你主机出厂预装天禧 Claw，支持一键部署，",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/662.htm"
-    },
-    {
-      "id": "38203df8-2d23-8104-86a0-ea37802f4819",
-      "title": "AI search grounded in Facebook posts? What could go wrong?",
-      "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a […]",
-      "source": "The Verge",
-      "publishTime": "2026-06-17",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on"
-    },
-    {
-      "id": "38203df8-2d23-814a-9a6a-f3214fc82ba7",
-      "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
-      "summary": "Critical Energy is turning rocket engines into geothermal power plants, and it wants to build 300 GW per year by 2045.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-17",
-      "link": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/"
-    },
-    {
-      "id": "38203df8-2d23-8129-8176-cbf87a0f41b9",
-      "title": "The best Apple deals you can already get ahead of Prime Day",
-      "summary": "Amazon’s Prime Day sale kicks off on June 23rd, but already we’re seeing some notable Apple deals trickle in. Whether you’re looking for a new pair of wireless earbuds or a smartwatch, many retailers are offering notable discounts ahead of the shopping event. Walmart and Amazon recently surprised us",
-      "source": "The Verge",
-      "publishTime": "2026-06-17",
-      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026"
-    },
-    {
-      "id": "38203df8-2d23-8132-81b1-dabdfbcf968a",
-      "title": "苹果 1.62 亿美元抄底办公楼：折价近 27%，硅谷不动产版图再扩张",
-      "summary": "IT之家 6 月 17 日消息，苹果以 1.62 亿美元（IT之家注：现汇率约合 10.97 亿元人民币）的价格购入位于桑尼韦尔的一栋办公楼，再次扩大了其在硅谷的办公空间。这栋办公楼位于桑尼韦尔 Peery Park 区域的 684 W. Maude Avenue，距离苹果桑尼韦尔其他办公楼群不到一英里。起建筑共四层，总面积约 194624 平方英尺（IT之家注：约 18081 平方米）。根据 Newmark 发布的硅谷市场报告，这笔交易实际于 2025 年底完成。与上一次交易时的价格相比，苹果此次买入的价格明显更低。据 The Real Deal 报道，德国 Union Investment",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/661.htm"
-    },
-    {
-      "id": "38203df8-2d23-81f1-8084-d221d6ba1791",
-      "title": "全球最大吨位纯电挖掘机首台交付测试，我国新能源大型矿用装备实现从追赶到领跑关键跨越",
-      "summary": "IT之家 6 月 17 日消息，徐工集团今日宣布，全球最大吨位纯电挖掘机 —— 徐工 XE700EV 近日在华东一大型露天矿山完成首台交付测试，标志着中国工程机械在新能源大型矿用装备领域实现了从追赶到领跑的关键跨越。据介绍，此次交付测试的 XE700EV 纯电动挖掘机可实现零排放、低噪音，在矿山剥离、装载等连续重载作业中，动力输出强劲，效率比肩传统燃油机型，综合能耗成本直降 60% 以上，单台每年可为矿山减少碳排放约 400 吨。IT之家从徐工集团了解到，目前该矿山已在无人电动矿卡、光伏储能、低碳运营等方面先行先试。",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/659.htm"
-    },
-    {
-      "id": "38203df8-2d23-8184-b19a-d0419a1b7b5a",
-      "title": "AMD 显卡 HDMI 2.1 FRL 初步支持已被合并到 Linux 7.2 内核",
-      "summary": "IT之家 6 月 17 日消息，据科技媒体 Phoronix 今天报道，Linux 7.2 内核现已正式合并 DRM 内核图形、显示驱动等。本次合并的最大亮点是，AMDGPU 开源驱动终于迎来 HDMI 2.1 FRL（固定速率链路）初步支持。AMD 显卡在 Linux 下完整支持 HDMI 2.1 将指日可待。据报道，AMDGPU 的 HDMI 2.1 FRL 支持已经成功合并到 Linux 7.2。不过该功能目前处于默认禁用状态，而且完整支持尚未赶上 7.2 发布周期。但 FRL 接入后，现代 HDMI 显示器和电视能够在 Linux 下实现更高分辨率和更高刷新率。同时，本次更新还为 AM",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/658.htm"
-    },
-    {
-      "id": "38203df8-2d23-817c-9f7a-d8bb5e41855b",
-      "title": "每分钟输送 6330L 空气：小米米家空气净化器 4 Lite 国补后 286 元腰斩",
-      "summary": "小米米家空气净化器 4 Lite 发布于 2021 年 10 月，上市售价为 699 元。京东 618 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 286.77 元：领 8 折券：点此领券领 800-80 元 PLUS 专享券（需 2 积分兑换）：点此查看。加入购物车时选择“以旧换新”补贴 10%（可选“电动牙刷”无需回收）晒单再返 10 元京豆下方两款加购物车，一起结算即可：京东小米 米家空气净化器 4 liteAC-M17-SC 加购物车 1 件直达链接京东凑单品 下单后可立即退款加购物车 1 件直达链接京东无门槛红包至高 26618 元，支持即领即用：点此抽取",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/657.htm"
-    },
-    {
-      "id": "38203df8-2d23-8128-9f36-deef9f3f13ab",
-      "title": "When I was 16, I was offered an internship while I served tables. It's been 17 years and now I'm the CEO of the company.",
-      "summary": "Marissa Frois says a relationship with regular restaurant customers led to an internship that eventually turned into becoming CEO.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/restaurant-customer-changed-career-path-internship-ceo-2026-6"
-    },
-    {
-      "id": "38203df8-2d23-81da-b5f7-f074a8576ebd",
-      "title": "东风奕派 M8 汽车官宣搭载「全置换新风系统」，宣称有“诺贝尔奖级黑科技”加持",
-      "summary": "IT之家 6 月 17 日消息，东风奕派今日宣布，奕派 M8 汽车将搭载采用获得诺贝尔奖尖端滤材的「全置换新风系统」。东风奕派表示，奕派 M8 的全置换新风系统，是一套集温度调节、空气净化、通风换气、防潮抑菌于一体的综合性座舱空气解决方案，核心由两大模块协同组成：负责智能控温、全域空气循环、通风防潮的专属车载空调，以及获得诺贝尔奖技术加持的 MOFs 净化滤芯。据介绍，MOFs 空调净化滤芯材料为 2025 年诺贝尔化学奖核心成果，对车内各类持续挥发的污染物净化率最高接近 100%，有效使用寿命达 12-24 个月，超传统滤芯。MOFs 核心特性叫“吸附 — 释放”的可逆柔性 —— 它可以反复",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/656.htm"
-    },
-    {
-      "id": "38203df8-2d23-8152-8b1b-c70df43efcb3",
-      "title": "See how Elon Musk's fortune compares with the richest Americans in history",
-      "summary": "Elon Musk is now the world's first trillionaire after the SpaceX IPO. See how his fortune compares with 28 of America's richest people ever.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/richest-americans-in-history"
-    },
-    {
-      "id": "38203df8-2d23-81a0-8de9-ff1a51d8d9fe",
-      "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
-      "summary": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
-      "source": "Wired",
-      "publishTime": "2026-06-17",
-      "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/"
-    },
-    {
-      "id": "38203df8-2d23-81df-a0cd-c73dad162892",
-      "title": "Neuralink competitor Paradromics just implanted its first brain-chip device. The next step is restoring speech.",
-      "summary": "Paradromics CEO Matt Angle said the patient will start testing the device in the coming weeks with the goal of restoring her ability to communicate.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/paradromics-brain-chip-implant-first-human-patient-speech-restoration-bci-2026-6"
-    },
-    {
-      "id": "38203df8-2d23-818a-9aae-fb7e28dc41b6",
-      "title": "Meet your new AI coworkers: Convey raises $38 million led by a16z to take repetitive work off employees' plates.",
-      "summary": "Convey, a startup founded last year that builds AI \"teammates,\" has raised $38 million in Series A funding led by Andreessen Horowitz,.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/convey-raises-38-million-a16z-to-automate-repetitive-office-work-2026-6"
-    },
-    {
-      "id": "38203df8-2d23-812a-a66c-f8ed1ffa4ffc",
-      "title": "Google’s first smart speaker in six years arrives next week",
-      "summary": "Google's first new smart speaker in six years starts shipping on June 29th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has changed hardware-wise in the nine months since the $99 speaker was announced. It has the same sligh",
-      "source": "The Verge",
-      "publishTime": "2026-06-17",
-      "link": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features"
-    },
-    {
-      "id": "38203df8-2d23-81bd-8a2e-c2c3e300289e",
-      "title": "GuliKit’s new mobile Switch 2 dock lets you play with or without a TV",
-      "summary": "After teasing it on X last week, GuliKit announced a new version of its TV Docking Station today that now supports the Switch 2 as well as previous versions of the console, including the original Switch and OLED model. The new version of the dock carries forward a similar design as the original and ",
-      "source": "The Verge",
-      "publishTime": "2026-06-17",
-      "link": "https://www.theverge.com/tech/950827/gulikit-tv-docking-station-switch-2-oled-console-hdmi"
-    },
-    {
-      "id": "38203df8-2d23-81c8-a076-e7781d1c1e9a",
-      "title": "Thread Direct looks to solve Matter’s biggest setup headache",
-      "summary": "The smart home networking protocol Thread is adding a new way to onboard devices without a Thread border router. The feature, called Thread Direct, is designed to let users set up Thread-powered devices - such as smart plugs and smart locks - using only a phone or mobile device equipped with a Threa",
-      "source": "The Verge",
-      "publishTime": "2026-06-17",
-      "link": "https://www.theverge.com/tech/950732/thread-direct-thread-2-0-smart-home-apple-google"
-    },
-    {
-      "id": "38203df8-2d23-81fb-a0e6-e69ffca163d1",
-      "title": "Jackery announces ‘world’s slimmest’ fridge battery",
-      "summary": "Jackery is jumping on the fridge-battery trend with what it says is the \"world's slimmest.\" FridgeGuard also looks nice; a break from power stations that tend to look more at home at a job site than the kitchen or living room. Measuring just 2.63 inches (67mm) thick, the Jackery FridgeGuard power st",
-      "source": "The Verge",
-      "publishTime": "2026-06-17",
-      "link": "https://www.theverge.com/tech/949683/jackery-fridgeguard-worlds-slimmest-fridge-battery"
-    },
-    {
-      "id": "38203df8-2d23-81ee-80c6-f8751d505341",
-      "title": "Got Thread problems? There’s an app for that",
-      "summary": "The new Thread Networks Diagnostics Tools app from Thread Group, the standards body behind the wireless IoT protocol, officially launches in beta today. The app, which arrives on iOS today and has been available on Android in alpha for a few weeks, is the first dedicated tool to provide visibility i",
-      "source": "The Verge",
-      "publishTime": "2026-06-17",
-      "link": "https://www.theverge.com/tech/949001/thread-network-diagnostic-tools-app-troubleshooting-matter-smart-home"
-    },
-    {
-      "id": "38203df8-2d23-8112-9fa4-ed20c852a245",
-      "title": "I spent years avoiding fatherhood. Then my brother died when his sons were 6 and 2.",
-      "summary": "I know I'm not their father, but when my brother died I stepped up. I'm doing everything I can to help keep his memory alive for my nephews.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/uncle-father-figure-after-brother-dies-2026-6"
-    },
-    {
-      "id": "38203df8-2d23-816b-bc02-e0f8d9e60fb0",
-      "title": "439.7 公里：理想 L8 城区纯电续航出炉，平均电耗 14.9 千瓦时 / 百公里",
-      "summary": "IT之家 6 月 17 日消息，据理想汽车整车电动产品负责人唐华寅今日发文，全新理想 L8 的纯电续航官方实测已经出炉。其中城区纯电续航达 439.7 公里，达成率 102%。据介绍，本次实测行驶总长 10 小时 42 分钟，平均电耗 14.9 千瓦时 / 百公里。唐华寅认为，这次实测中路上的塞车略微影响了成绩，其实还可以更好，但今天这个成绩他也很满意。据IT之家此前报道，理想 L8 拥有 Ultra 和 Livis 两个版本，新车尺寸为 5135×2000×1800mm（轴距 3045mm），该车首创联排双零重力座椅，提供 55° 大躺角靠背、魔毯坐垫、零压腿托等。新车搭载 72.7kWh ",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/655.htm"
-    },
-    {
-      "id": "38203df8-2d23-8141-83ef-e09caef4b378",
-      "title": "国补后 6 折清仓：OPPO Find X8s 手机 12+512G 版 4199 → 2549 元",
-      "summary": "【京东活动可能随时变更，需以实付款为准】OPPO Find X8s 手机发布于 2025 年 4 月 16 日，12GB+512GB 版发售价为国补后 4199 元。今日按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2549.15 元：先领 9 折券：点此查看。京东 OPPO Find X8s 手机 12GB+512GB 国补后 2549.15 元直达链接京东无门槛红包至高 26618 元，支持即领即用：点此抽取。OPPO Find X8s 搭载天玑 9400 + 处理器，边框宽度仅为 1.25mm，机身厚度为 7.73mm，重量仅为 179g。采用 6.3 英寸屏幕，配备了 ",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/654.htm"
-    },
-    {
-      "id": "38203df8-2d23-816d-a6d2-c2604087e71e",
-      "title": "23.99 万元起，王朝网首款 D 级旗舰 SUV 比亚迪大唐 EV 正式上市",
-      "summary": "IT之家 6 月 17 日消息，比亚迪大唐 EV 今晚正式发布上市，官方指导价 23.99 万元起。IT之家汇总如下：800KM 后驱激光雷达尊荣型 23.99 万元950KM 后驱激光雷达旗舰型 26.99 万元850KM 四驱激光雷达旗舰型 28.99 万元大唐盛世版 30.99 万元比亚迪大唐 EV 在 2026 北京车展上开启预售，该车是王朝网首款 D 级旗舰 SUV，拥有第二代刀片电池、全域 1000V 高压架构等配置，提供单电机、双电机四驱等动力选择。大唐 EV 车身尺寸为 5263*1999*1790mm，轴距 3130mm；应用比亚迪最新家族式设计语言，配备超长贯穿式前日行灯。",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/653.htm"
-    },
-    {
-      "id": "38203df8-2d23-8192-bc15-d73f466ef30f",
-      "title": "阿里发布世界模型 HappyOyster 快乐生蚝 1.0：一句话生成可实时交互的数字世界",
-      "summary": "IT之家 6 月 17 日消息，阿里云今晚宣布推出可实时构建和交互的开放式世界模型产品 HappyOyster 1.0（快乐生蚝 1.0）。一句话，即可生成一个完整、可演绎、可探索、可互动的数字世界。据介绍，该产品深度学习物理世界状态转移规律，能主动推演从动作到反馈的因果链，并保持人物和环境的长程一致性。 Happy Oyster 基于原生多模态架构，支持多模态输入与音视频联合生成。区别于传统 \" 写 prompt → 等渲染 → 收到成片 \" 的一次性流程，Happy Oyster 在生成过程中持续接收用户指令，画面实时响应、持续演绎。IT之家注意到，HappyOyster 1.0 已于今年",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/652.htm"
-    },
-    {
-      "id": "38203df8-2d23-8148-9edf-d61d2278f154",
-      "title": "Fed day, Trump at G7 summit, Carvana's new vehicle push and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-17",
-      "link": "https://www.cnbc.com/2026/06/17/5-things-to-know-before-the-stock-market-opens.html"
-    },
-    {
-      "id": "38203df8-2d23-810b-8c3e-e08794032fe0",
-      "title": "戴尔 XPS 13 笔记本海外发售：学生价 599 美元、英特尔 Wildcat Lake 平台",
-      "summary": "IT之家 6 月 17 日消息，戴尔 XPS 13 笔记本电脑现已在海外市场发售，新品搭载英特尔 Wildcat Lake 平台，最低售价仅 599 美元（IT之家注：现汇率约合 4055 元人民币）。据介绍，本次上市的 XPS 13 型号为 DX13260，配备英特尔酷睿 5 320 处理器，采用 6 核心设计，包含 2 个性能核、4 个能效核，最高睿频可达 4.6GHz。拥有 8GB LPDDR5X 内存和 512GB 固态硬盘，预装 Windows 11 家庭版操作系统，附赠 30 天 Microsoft 365 试用资格。规格方面，这款笔记本配备 13.4 英寸触控屏，分辨率为 256",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/651.htm"
-    },
-    {
-      "id": "38203df8-2d23-8164-b5ad-e5259ae72399",
-      "title": "雷总办公室同款：小米全效空气净化器 Ultra 增强版 5799 → 2372 元破冰新低",
-      "summary": "小米・米家全效空气净化器 Ultra 增强版发布于 2024 年 7 月 19 日，官方定价 5799 元。京东 618 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2372.11 元：领 8 折券：点此领券领 800-80 元 PLUS 专享券（需 2 积分兑换）：点此查看。加入购物车时选择“以旧换新”补贴 15%（可选“电动牙刷”无需回收）晒单再返 100 元京豆京东小米 米家全效空气净化器 Ultra 增强版以旧换新 2372.11 元直达链接京东无门槛红包至高 26618 元，支持即领即用：点此抽取。耗材方面，除了催化醛解滤芯无需更换，该空气净化器全效复合滤",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/648.htm"
-    },
-    {
-      "id": "38203df8-2d23-81c9-82d7-c3b8eb4a726a",
-      "title": "2099 → 750 元：霍曼 62L 宠物智能烘干箱官方 618 直降新低",
-      "summary": "霍曼 PD62 宠物智能烘干箱 62L 官方定价 2099 元，今日按下方步骤下单，仅需 678 元.进入直播间 → 点击右下角红色购物袋 → 点击红字“爆品 88 折”点击任意商品领 8.8 折券：点此领券。点击下方卡片，下单实付 810 元，返 60 元超市卡，折合仅需 750 元：京东霍曼 宠物智能烘干箱 PD62 多重优惠 810 元领 9 折券京东无门槛红包至高 26618 元，支持即领即用：点此抽取。京东霍曼 宠物智能烘干箱 PD62 多重优惠 810 元领 9 折券京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：点此抽红包淘宝 618 无门槛红包 面额至高 2",
-      "source": "IT之家",
-      "publishTime": "2026-06-17",
-      "link": "https://www.ithome.com/0/965/649.htm"
-    },
-    {
-      "id": "38203df8-2d23-8193-9745-e3438b2811f9",
-      "title": "The biggest winners and losers from US restrictions on Anthropic's AI",
-      "summary": "Anthropic's AI restrictions could boost Mistral and DeepSeek while raising concerns about US AI providers.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-17",
-      "link": "https://www.businessinsider.com/anthropic-restrictions-mythos-fable-winners-losers-mistral-deepseek-openai-china-2026-6"
-    },
-    {
-      "id": "38203df8-2d23-81f3-b1e9-cb03c3368c50",
-      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-17",
-      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/"
     }
   ],
   "macroEvents": [
