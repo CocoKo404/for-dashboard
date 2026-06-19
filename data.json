@@ -1,6 +1,334 @@
 {
-  "updatedAt": "2026-06-19 20:30",
+  "updatedAt": "2026-06-19 23:50",
   "news": [
+    {
+      "id": "38403df8-2d23-811b-9e8d-d8fa27ffdea5",
+      "title": "国内首例：垣信卫星实现无改造手机直连卫星通话，通话质量比肩 5G",
+      "summary": "IT之家 6 月 19 日消息，垣信卫星旗下首颗手机直连试验星于 6 月 9 日在东风商业航天创新试验区成功发射。今日，垣信卫星宣布成功打通国内首例无改造存量商用手机直连卫星通话。据官方介绍，垣信手机直连卫星系统搭载了国内口径与阵元规模领先的 L 波段全数字相控阵天线。针对天地通信中天然存在的大时频偏、上行链路传输瓶颈等行业难题，垣信卫星研发了两级时频偏补偿方案，并搭配动态自适应编码码率调节技术，突破了传统移动通信的时频技术指标上限。该技术无需对普通商用手持终端进行任何软硬件改造或升级，实测通话全程信号满格，通话质量比肩地面 5G。同时，其系统架构与地面移动通信体系高度兼容，为天地一体化通信的",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/433.htm"
+    },
+    {
+      "id": "38403df8-2d23-8138-99bc-dd113e533019",
+      "title": "Every Pixar movie, ranked from worst to best",
+      "summary": "Pixar movies are ingrained in our minds, but which one is the best? We ranked them all for the release of \"Toy Story 5.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/pixar-movies-ranked-best-to-worst-2017-6"
+    },
+    {
+      "id": "38403df8-2d23-81ae-a4aa-f773f2fd1a3e",
+      "title": "The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years",
+      "summary": "Years after initial tests, researchers are now racing to see if a vaccine developed in 2011 can help fight the current Bundibugyo outbreak in Congo.",
+      "source": "Wired",
+      "publishTime": "2026-06-19",
+      "link": "https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/"
+    },
+    {
+      "id": "38403df8-2d23-81e1-add7-db50333a8452",
+      "title": "少 4 核照样反超：英特尔酷睿 Ultra 7 270HX Plus 跑分现身 PassMark，越级压制 Ultra 9",
+      "summary": "IT之家 6 月 19 日消息，@x86deadandback 发现，英特尔尚未大规模铺货的 Arrow Lake-HX Plus 系列移动处理器迎来首批 PassMark 跑分数据，结果颇为出人意料。如图所示，定位更低的酷睿 Ultra 7 270HX Plus 在单多核测试中均超越了核心数更多的 Ultra 9 275HX，多核只比旗舰型号 285HX 低 2%。数据显示，Ultra 7 270HX Plus 在 PassMark 中的单核成绩 4908 分，多核则达到 56088 分。若与同属 20 核 20 线程配置的 Ultra 7 265HX 直接对比，270HX Plus 单核性",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/432.htm"
+    },
+    {
+      "id": "38403df8-2d23-81aa-a37f-dd079505e485",
+      "title": "微软 XBOX 主机低调上线全新“Exclusive（独占）”游戏标签",
+      "summary": "IT之家 6 月 19 日消息，继《战争机器：事变日》和《发条革命》确认采用独占策略后，XBOX 团队多名成员近日连续谈到独占游戏，并强调 XBOX 仍会保留主机独占作品。最新的迹象则是，XBOX 主界面新增了“Exclusive（独占）”标签。IT之家从近期部分玩家的推文获悉，这项标识出现在《战争机器：事变日》的广告中，“独占”字样旁边还配有一个外形类似 XBOX Series X 的主机图标，未来预计会在更多地方出现。随着 XBOX 继续强化《战争机器：事变日》《发条革命》等游戏的主机独占定位，“独占”标签未来可能会出现在更多宣传页面，甚至不排除被印在实体版封面上。本周一，互联网出现部分传",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/431.htm"
+    },
+    {
+      "id": "38403df8-2d23-8163-9f37-f860f3cb42e4",
+      "title": "Only 93 songs have debuted at No. 1 in the history of the Billboard Hot 100 — here they all are",
+      "summary": "The Hot 100 chart measures success across genres. Drake has the most No. 1 song debuts in history, followed by Taylor Swift.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/every-no-1-song-debut-billboard-hot-100"
+    },
+    {
+      "id": "38403df8-2d23-817d-9bd1-fba0e940392c",
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast als",
+      "source": "The Verge",
+      "publishTime": "2026-06-19",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped"
+    },
+    {
+      "id": "38403df8-2d23-818c-8941-fccdb9de3980",
+      "title": "顽皮狗新作《星际：异端先知》进入开发后期，正招聘多语言测试员",
+      "summary": "IT之家 6 月 19 日消息，Tech4gamers 今日发现，顽皮狗工作室近期发布了多个语言方向的质量保证（QA）测试员招聘信息，涵盖法语、葡萄牙语、德语、意大利语和韩语等语种。语言 QA 测试通常在游戏开发接近完成的阶段进行，此时游戏主体内容已基本制作完毕，团队开始针对不同地区版本进行本地化测试与最终优化。这一迹象表明，顽皮狗自 2020 年起开始开发的全新 IP《星际：异端先知》可能已进入开发后期，仅剩最后的打磨与质量验证环节。《星际：异端先知》于 2024 年 12 月正式公布，是顽皮狗继《神秘海域》与《最后生还者》之后打造的全新科幻题材作品，由工作室负责人尼尔 · 德鲁克曼担任创意",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/430.htm"
+    },
+    {
+      "id": "38403df8-2d23-8107-b636-f51415a5bc51",
+      "title": "The miracle of capitalism, with Silicon Valley characteristics",
+      "summary": "Silicon Valley's equity-powered brand of capitalism is minting millionaires. Here's how techies are avoiding big tax bills when they cash out.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/silicon-valley-version-capitalism-works-equity-ipos-tax-2026-6"
+    },
+    {
+      "id": "38403df8-2d23-8110-93dd-c6185ccd2cf3",
+      "title": "Our long national sunscreen nightmare is almost over",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On TikTok, the tanned youths are explaining why they no longer wear sunscreen. In on",
+      "source": "The Verge",
+      "publishTime": "2026-06-19",
+      "link": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health"
+    },
+    {
+      "id": "38403df8-2d23-81e7-9c38-d2f9fcfe95bf",
+      "title": "The 35 colleges that produced the most US presidents",
+      "summary": "US presidents have attended private liberal arts colleges, large state research schools, and private Christian colleges. See where most went.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/colleges-produced-most-us-presidents-ranked"
+    },
+    {
+      "id": "38403df8-2d23-81d9-8c6f-e80c11d3f81d",
+      "title": "最弱 Wildcat Lake：英特尔酷睿 3 304 单核跑分追平苹果 A18 Pro，核心数还少一个",
+      "summary": "IT之家 6 月 19 日消息，@x86deadandback 发现，英特尔 Wildcat Lake 入门级处理器中的入门级型号 —— 酷睿 3 304 在 PassMark 数据库中的最新跑分显示，其单核性能与苹果 A18 Pro（MacBook Neo）持平。PassMark 今日收录了第三个酷睿 3 304 的测试样本，这份成绩大幅拉高了该芯片的单多核跑分。在此之前，酷睿 3 304 在该平台的最好单核成绩为 3632 分，而新样本直接跃升至 3982 分，恰好与苹果 A18 Pro 在 111 份样本中的平均得分持平。IT之家注意到，目前酷睿 3 304 在 PassMark 中只有",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/428.htm"
+    },
+    {
+      "id": "38403df8-2d23-8175-bef2-e0d6111a1117",
+      "title": "Amazon is walking away from its Sam Altman movie months after deepening ties with OpenAI",
+      "summary": "Luca Guadagnino's \"Artificial,\" a movie about Sam Altman, has been dropped by Amazon MGM Studios. Earlier this year, OpenAI and Amazon deepened ties.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/amazon-drops-sam-altman-movie-months-after-openai-investment-2026-6"
+    },
+    {
+      "id": "38403df8-2d23-8174-b596-d96d730a4f41",
+      "title": "人形机器人成功登顶海拔 6200 米火山：基于宇树 G1 改装，目标挑战珠峰",
+      "summary": "IT之家 6 月 19 日消息，据外媒 Futurism 当地时间 14 日报道，一台由宇树 G1 改装、名为 Pemba 的人形机器人，成功抵达厄瓜多尔钦博拉索火山海拔 6200 米的顶峰。Pemba 此次登山，为足式机器人走出实验室等受控环境、进入全球极端地区树立了新的里程碑。钦博拉索火山之行是机器人“三冠”探险计划的第一站。按照项目规划，Pemba 未来还可能前往喜马拉雅山脉，最终尝试挑战珠穆朗玛峰。项目负责人是 Geologic Dome 创始人、工程师 Pablo Berlanga Boemare。其曾与世界自然基金会合作，在刚果盆地、亚马逊雨林等地区参与自然保护工作。根据介绍，项目",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/427.htm"
+    },
+    {
+      "id": "38403df8-2d23-81df-9997-e6f83f711548",
+      "title": "California is becoming the capital of multigenerational living. See which cities have the most multigenerational homes.",
+      "summary": "As housing costs surge, multigenerational living is on the rise. Some cities have more options than others — namely, California.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/us-cities-with-most-multigenerational-home-listings-2026"
+    },
+    {
+      "id": "38403df8-2d23-8181-afbe-dd4036abbf6b",
+      "title": "与 OpenAI 合作生变：亚马逊放弃奥尔特曼传记电影《Artificial》，正在为其寻找新东家",
+      "summary": "IT之家 6 月 19 日消息，Variety 及 THR 今日报道称，亚马逊米高梅工作室已决定不再发行 OpenAI CEO 萨姆 · 奥尔特曼传记电影《人工智能》（Artificial），尽管该片已接近完成且试映反响良好。亚马逊发言人对此表示：“我们对获奖电影人卢卡 · 瓜达尼诺怀有至高的尊重与钦佩，我们之间有着长期的合作关系，并希望能继续下去。我们认为《Artificial》如果由其他片厂发行会得到更好的呈现，目前正与制作团队密切合作，为影片寻找新的东家。”这部电影由导演卢卡 · 瓜达尼诺（代表作《请以你的名字呼唤我》《假日惊情》）执导，安德鲁 · 加菲尔德（代表作《超凡蜘蛛侠》《血战钢",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/426.htm"
+    },
+    {
+      "id": "38403df8-2d23-81ff-a0f5-cb68b125f837",
+      "title": "I almost lost my father twice. It taught me to live in the moment.",
+      "summary": "Almost losing my father twice has made me want to live in the moment. I know I won't have him forever, but I want to enjoy the time we have.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/almost-lost-my-father-live-in-the-moment-2026-6"
+    },
+    {
+      "id": "38403df8-2d23-8124-a71e-d3961d081c8b",
+      "title": "扎克伯格承诺 Meta 今年不会再裁员：未来可能更艰难",
+      "summary": "IT之家 6 月 19 日消息，《连线》报道称，Meta 员工士气似乎已跌至谷底。CEO 马克 · 扎克伯格随后试图通过举办全公司 AI 黑客松提振士气，却遭员工冷淡回绝。多轮大规模裁员令 Meta 员工持续动荡不安。仅上个月，Meta 就在围绕 AI 展开的混乱重组中裁撤 8000 人，约占员工总数的 10%。不少未被裁的员工还被迫承担训练 AI 模型的基础杂活。这类工作每周都要重复，已令部分员工难以忍受。当地时间 11 日，扎克伯格向员工发送内部备忘录，试图提振士气。他宣布 7 月将举办一场全公司 AI“黑客松”，却遭到根本无心参加的员工直接回绝。Meta 过去经常举办黑客松，但上个月宣布",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/424.htm"
+    },
+    {
+      "id": "38403df8-2d23-8166-9e55-eed282ff85f4",
+      "title": "T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We don't have the phones we preordered yet, but this week we received unexpected news from Trump Mobile's media relations manager. If you've been following my reporting on the Trump phone, you'll know that Trump Mobile doesn't",
+      "source": "The Verge",
+      "publishTime": "2026-06-19",
+      "link": "https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further"
+    },
+    {
+      "id": "38403df8-2d23-8170-82ae-eeb9ace0cffc",
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-19",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/"
+    },
+    {
+      "id": "38403df8-2d23-81c3-857a-c04041babe39",
+      "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
+      "summary": "IT之家 6 月 19 日消息，当地时间 2026 年 6 月 18 日凌晨，美国总统唐纳德 · 特朗普及其团队结束在法国出席七国集团峰会的行程后返回华盛顿。落地后，随行人员在 X 上发帖，向已服役近 40 年的总统专机 SAM 29000（28000 仍作为过渡使用）告别。白宫通讯主任史蒂文 · 张配文写道：“干得漂亮，忠诚可靠的老伙计。最后一程。”公开资料显示，这架经过深度定制和重度加固的波音 747-200B 客机于 1990 年乔治 ·H·W· 布什总统任内投入使用，当该机搭载时任总统执飞时，其无线电呼号便为“空军一号”（Air Force One）。美国空军今年 5 月宣布，卡塔尔于",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/423.htm"
+    },
+    {
+      "id": "38403df8-2d23-813a-9e59-cb7f36ba5121",
+      "title": "I love working out, but my husband doesn't. As we get older, I worry our different lifestyles will impact how we age.",
+      "summary": "I never cared that my husband exercises less than I do, but as we get older, I worry about how our different lifestyles will impact our longevity.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/working-out-more-than-husband-concerned-about-aging-fitness-gap-2026-6"
+    },
+    {
+      "id": "38403df8-2d23-81e5-9ae2-d00db7f5a721",
+      "title": "国家邮政局：加快推进无人车、无人机在邮政快递行业试点应用",
+      "summary": "IT之家 6 月 19 日消息，6 月 18 日，国家邮政局召开党组会议，审议《邮政业发展“十五五”规划》等文件。会议强调，要进一步强化邮政快递企业科技创新主体地位，深化科教融合、产教融合，培育壮大行业科技领军企业。要推动大数据、互联网、人工智能等新技术与邮政快递业更深度融合，加快推进无人车、无人机等在行业试点应用，加快智能派件、智能路由等先进技术应用。要加强高素质人才队伍建设，为推动行业高质量发展提供强有力的人才支撑。据IT之家此前报道，今年 1 月，国家邮政局在 2026 年全国邮政工作会议上明确，2026 年邮政行业将出台加快推广应用无人配送技术政策文件，深化无人车、无人机等在行业试点应",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/422.htm"
+    },
+    {
+      "id": "38403df8-2d23-8114-8b59-f7b5561ba6d6",
+      "title": "Can AI have taste? That was the hot topic at Replit's NYC vibe-coding conference.",
+      "summary": "Reading the vibes at Replit's NYC vibe-coding conference: Taste, taste, and more taste. BI brings you inside a day at Vibecon.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/inside-replit-vibe-coding-conference-and-party-in-nyc-2026-6"
+    },
+    {
+      "id": "38403df8-2d23-811d-bbbc-e24a07d0b639",
+      "title": "I used to be a successful academic with a Ph.D., but now I'm a substitute teacher making $160 a day. I'm struggling to adjust.",
+      "summary": "When I couldn't find a job in academia, I became a substitute teacher. It's not glamorous, but there's some joy in working with students for a day.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/academic-phd-turned-substitute-teacher-2026-6"
+    },
+    {
+      "id": "38403df8-2d23-813a-808d-de6dcb22f2bd",
+      "title": "麻省理工学院新研究：过度依赖聊天机器人或削弱批判思维",
+      "summary": "IT之家 6 月 19 日消息，据英国《卫报》19 日报道，麻省理工学院的最新研究发现，过度依赖聊天机器人可能削弱批判性思维，甚至让人们越来越难以独立辨别错误信息。随着 AI 工具不断进步并加速普及，经过篡改的图片和误导性标题也变得更加常见。研究显示，人们如果长期依靠 AI 判断网络信息真伪，独立判断能力反而可能逐渐退化。这项研究于 4 月发布，持续四周，共有 67 人参加。研究人员让参与者判断多组新闻标题和图片是否真实。结果显示，Claude 和 ChatGPT 等 AI 助手能够提高假新闻识别准确率，但参与者越依赖 AI，独自识别错误信息时的表现就越差。研究人员还发现，面对新闻标题和图片时",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/414.htm"
+    },
+    {
+      "id": "38403df8-2d23-8181-acc7-e4412eead42b",
+      "title": "奕境 X9 亮相香港车展并启动右舵版本开发，东风宣布五年推 55 款专属海外车型",
+      "summary": "IT之家 6 月 19 日消息，2026 国际汽车及供应链博览会（香港）昨日在香港亚洲国际博览馆揭幕。本届车博会以“驭电出海港通全球”为主题，汇聚了众多内地整车企业、供应链龙头及科技创新力量。东风汽车集团副总经理尤峥在展会现场发表主题演讲，正式发布了东风“天际扬帆”全球化战略。他表示，香港是联通内地与全球的国际化战略枢纽，是链接资本、市场与全球汽车产业的核心平台，东风将以香港为支点，加速全球右舵车型研发布局，全面覆盖全球右舵交通体系国家和地区。他同时宣布，未来五年东风将面向全球推出 55 款专属海外车型。作为“天际扬帆”战略下首款面向全球市场的旗舰车型，东风与华为乾崑“全栈原生共创”的高端新能",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/410.htm"
+    },
+    {
+      "id": "38403df8-2d23-8112-b7e1-c7a6ee71b38f",
+      "title": "Forget Birkenstocks. Every man is wearing suede sneakers this summer.",
+      "summary": "Sandals and slides are out this summer, and suede sneakers are in. Men are wearing the trendy shoes for casual occasions, formal nights out, and more.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/mens-suede-sneakers-popular-summer-shoe-2026-6"
+    },
+    {
+      "id": "38403df8-2d23-81c0-9d72-cf277c66ccb5",
+      "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
+      "summary": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
+      "source": "Wired",
+      "publishTime": "2026-06-19",
+      "link": "https://www.wired.com/gallery/the-best-ipad/"
+    },
+    {
+      "id": "38403df8-2d23-817c-8d3f-f1bd8dd5e7bd",
+      "title": "Kaleidescape’s movie player blows streaming, and your wallet, away",
+      "summary": "We've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingertips, there's no need to run to Blockbuster for the weekend's entertainment, or wait for a DVD rental to ",
+      "source": "The Verge",
+      "publishTime": "2026-06-19",
+      "link": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review"
+    },
+    {
+      "id": "38403df8-2d23-8180-adce-e1ac690b5c1f",
+      "title": "In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human",
+      "summary": "When Colin Farrell was doing press for the first season of the detective series Sugar, he had to be very careful with how he spoke. Sugar is a story about a quirky private detective, but it's also secretly a work of science fiction, something that doesn't become clear until halfway through the seaso",
+      "source": "The Verge",
+      "publishTime": "2026-06-19",
+      "link": "https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv"
+    },
+    {
+      "id": "38403df8-2d23-81f3-b64b-f1fd40ac6b73",
+      "title": "Memory crisis hits such extremes that 'even Apple can't be safe'",
+      "summary": "Apple appears poised to take the rare step of increasing prices to deal with what CEO Tim Cook called an \"unsustainable\" memory shortage.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-19",
+      "link": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html"
+    },
+    {
+      "id": "38403df8-2d23-8109-a1df-ecd29766cfa7",
+      "title": "流媒体热播催生续作：2000 年经典电影《圣诞怪杰》将拍真人续集，金凯瑞商谈回归",
+      "summary": "IT之家 6 月 19 日消息，THR 今日报道称，环球影业、想象娱乐正在开发 2000 年经典影片《圣诞怪杰》的续集，三大核心主创均有望回归。目前，金 · 凯瑞正在商谈继续饰演经典的苏斯博士角色格林奇，朗 · 霍华德将再次担任导演，并与想象娱乐合伙人布莱恩 · 格雷泽共同担任制片人。这部尚未命名的续集将由亚历克 · 伯格、杰夫 · 谢弗和大卫 · 曼德尔联合撰写剧本，这三人此前曾合作改编过苏斯博士的另一部真人 IP 作品 ——2003 年由迈克 · 梅尔斯主演的《戴帽子的猫》，此外三人还参与过《巴瑞》《戴夫》《消消气》《副总统》等影视项目的创作。2000 年原版《圣诞怪杰》在感恩节前上映，凭",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/387.htm"
+    },
+    {
+      "id": "38403df8-2d23-8134-9283-d8e8d05fd9b9",
+      "title": "Ukraine's small drone teams keep beating NATO units in exercises, and neither side is surprised",
+      "summary": "Ukraine has more battlefield drone experience than many NATO allies, and it's eager to share its hard-won expertise.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/ukraine-beating-nato-teams-in-exercises-says-unsurprising-2026-6"
+    },
+    {
+      "id": "38403df8-2d23-81ff-ac3e-d82b99301b1a",
+      "title": "After years of home ownership, I decided to rent. It was the best decision I could've made.",
+      "summary": "After years of being a homeowner, I've decided to rent an apartment. At 47, renting better fits my lifestyle and makes me feel financially secure.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/renting-after-years-of-owning-home-happier-worth-it-2026-6"
+    },
+    {
+      "id": "38403df8-2d23-8112-b519-d34a9864aa7f",
+      "title": "微软推出 DirectX Dump Files 预览版：旨在统一解决 AMD / 英伟达 / 英特尔显卡驱动崩溃诊断难题，将随 Win11 26H2 推送",
+      "summary": "IT之家 6 月 19 日消息，微软正在着手解决一个长期困扰 Windows 用户的痛点 —— 图形驱动崩溃问题，并且这一次的改进方案有望同时惠及 AMD、Nvidia 和 Intel 三大 GPU 阵营。微软于当地时间 6 月 18 日宣布面向开发者推出 DirectX Dump Files（DirectX 转储文件）的公开预览版。这一核心功能最初在今年的游戏开发者大会（GDC）上公布，旨在将主机级别的 GPU 开发工具引入 Windows 平台，作为在 Windows 上进行 GPU 崩溃调试的重要一步。一直以来，经常能看到有玩家吐槽显卡“掉驱动”问题，而开发者要想查找和诊断这类 GPU ",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/386.htm"
+    },
+    {
+      "id": "38403df8-2d23-813f-be13-e997d7f57d3c",
+      "title": "皮尤民调：半数 50 岁以下美国成年人遇到健康问题时，更“信任”网红",
+      "summary": "IT之家 6 月 19 日消息，据《财富》杂志 18 日报道，当今数千万美国人在担忧健康问题时，会转向 TikTok、Instagram 和 YouTube 寻求建议。皮尤研究中心最新调查显示，50 岁以下美国成年人中，有一半会从上述平台的网红和播客获取健康信息。多数人并非主动搜索，而是在刷社交平台时偶然看到这些内容。图源：Pixabay不少健康与保健类网红会把自己塑造成医疗专业人士，然而大多数人其实没有医疗从业背景，实则主要是母亲、教练和创业者。他们通常依据自己的减重经历、患病体验或照护经验，为受众提供健康建议。女性占健康类网红的三分之二，也更常通过个人经历展现专业性，尤其喜欢分享育儿经验。",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/384.htm"
+    },
+    {
+      "id": "38403df8-2d23-810a-8f64-ea9859f2be75",
+      "title": "Best Mesh Wi-Fi Systems (2026): Netgear, Asus, Amazon, and More",
+      "summary": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested multiroom mesh systems will get you online in no time.",
+      "source": "Wired",
+      "publishTime": "2026-06-19",
+      "link": "https://www.wired.com/story/best-mesh-wifi-routers/"
+    },
+    {
+      "id": "38403df8-2d23-81ec-809b-d96e6f213a68",
+      "title": "The global chair of PwC shares 3 takes on what AI means for jobs",
+      "summary": "Mohamed Kande, PwC's global chairman, shared three key takeaways on how AI is disrupting jobs in a recent CNBC Squawk Box interview.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-19",
+      "link": "https://www.businessinsider.com/big-four-pwc-mohamed-kande-ai-impact-jobs-2026-6"
+    },
+    {
+      "id": "38403df8-2d23-81b5-a829-f280e822e955",
+      "title": "世嘉《超级忍：反攻的斩击》9 月 24 日登陆任天堂 Switch 2，29.99 美元起",
+      "summary": "IT之家 6 月 19 日消息，世嘉 19 日（今天）宣布，《超级忍：反攻的斩击》将于 9 月 24 日登陆任天堂 Switch 2，并同步推出实体版和数字版。数字标准版售价 29.99 美元（IT之家注：现汇率约合 203.4 元人民币），数字豪华版售价 39.99 美元（现汇率约合 271.3 元人民币）。数字豪华版除游戏本体外，还包含“世嘉反派关卡”DLC，主角乔 · 武藏将在关卡中迎战多名来自世嘉其他作品的首领。 数字豪华版还将附带数字美术画册、数字原声集、“简易医疗”护符、“幽灵风格”装束和 2000 金币。据外媒 VGC 报道，已经购买 Switch 版的玩家预计无法免费升级，也不",
+      "source": "IT之家",
+      "publishTime": "2026-06-19",
+      "link": "https://www.ithome.com/0/966/383.htm"
+    },
+    {
+      "id": "38403df8-2d23-81d5-930e-f76d66893109",
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "summary": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
+      "source": "BBC Tech",
+      "publishTime": "2026-06-19",
+      "link": "https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": "38403df8-2d23-8153-aed4-e6c10535fa05",
       "title": "I built an AI tool that negotiated hotel prices for me. One hotel suspected it was AI, but it got me a better deal.",
@@ -72,334 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-06-19",
       "link": "https://www.ithome.com/0/966/377.htm"
-    },
-    {
-      "id": "38403df8-2d23-81f5-be8e-f7104fc43689",
-      "title": "New US Air Force investigation shows how an in-flight refueling of an F-22 Raptor went wrong to the tune of nearly $10 million",
-      "summary": "A KC-46 Pegasus tanker lost its entire refueling boom during an F-22 Raptor refueling mission, causing costly damage.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/report-details-how-tanker-lost-refueling-boom-during-mission-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-81b0-b0b3-e8ad57505d4c",
-      "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders",
-      "summary": "SpaceX shares were up 37% after its historic debut last week, which offered shares at a set price of $135.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-19",
-      "link": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html"
-    },
-    {
-      "id": "38403df8-2d23-81b4-816c-c31f75cda5c6",
-      "title": "皮查伊回忆谷歌 Chrome 崛起之路：曾遭微软前 CEO 鲍尔默嘲讽，靠快速迭代终成浏览器霸主",
-      "summary": "IT之家 6 月 19 日消息，据《财富》杂志 17 日报道，桑达尔 · 皮查伊在执掌谷歌之前，必须先证明自己的领导能力，而考验始于一款几乎无人看好的浏览器。Chrome 于 2008 年问世。当时，微软 Internet Explorer 凭借 Windows 默认浏览器的地位，占据全球约 60% 的浏览器使用量，牢牢主导市场。面对如此强大的对手，说服用户改用 Chrome 并不容易。次年，时任微软 CEO 史蒂夫 · 鲍尔默谈及浏览器市场竞争时，甚至几乎没有把 Chrome 当作真正的对手。想让用户改用 Chrome 并不容易。次年，微软时任 CEO 史蒂夫 · 鲍尔默被问及浏览器市场竞争",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/376.htm"
-    },
-    {
-      "id": "38403df8-2d23-813e-bd44-ed21a6264a9a",
-      "title": "Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting",
-      "summary": "The crypto platform claims you can “pay anyone to do anything,” from quitting a job on camera to getting a memecoin-themed tattoo. But it mostly seems like people trying to scam each other.",
-      "source": "Wired",
-      "publishTime": "2026-06-19",
-      "link": "https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/"
-    },
-    {
-      "id": "38403df8-2d23-81a7-b42e-e24f2dc1cc5c",
-      "title": "Try One of macOS 27’s Best Features Right Now",
-      "summary": "Apple’s fall macOS release will let you build Shortcuts by typing what you want to happen. But Claude Code and Codex users don’t have to wait.",
-      "source": "Wired",
-      "publishTime": "2026-06-19",
-      "link": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/"
-    },
-    {
-      "id": "38403df8-2d23-81a3-8174-fcd722c712e6",
-      "title": "Oprah, Tom Hanks, and 4 presidents: See who attended the opening of Barack Obama's $850 million presidential center",
-      "summary": "Barack Obama's presidential center opened in Chicago with Oprah, Tom Hanks, Stevie Wonder, and Bruce Springsteen among the A-listers in attendance.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/obama-presidential-center-opening-celebs-singers-presidents-photos-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-819d-bac2-fa1a984d83ad",
-      "title": "网易《逆水寒：新世界》最终预告片发布：“给 MMO 和开放世界的一个新答案”",
-      "summary": "IT之家 6 月 19 日消息，网易《逆水寒：新世界》将于 6 月 26 日正式推出，首创全玩法打通，迎来玩法、画质、故事、社交、战斗的全面焕新。官方今日发布了《逆水寒：新世界》最终预告片，“6 月 26 日，给 MMO 和开放世界的一个新答案”。颠覆性新世界光感重塑新视界。全新拟真光照渲染，逆光也清晰；全新超精度面部模型让肌理与光影更见层次；发丝、布料、特殊材质质感全面提升。世界焕新，万物出金，这个江湖将对您的每一步报以回响。没有唯一的标准答案，探索、钓鱼、种田、装扮、剧组、副本或竞技…… 每一条路途中，都有可能暗藏惊喜。【主线前传】【敦煌终局】【大理新篇】三线并行，三倍剧情量。被岁月掩埋的",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/375.htm"
-    },
-    {
-      "id": "38403df8-2d23-8183-8850-da327c1f68f2",
-      "title": "6 Googlers who started as interns share their advice on securing a full-time offer",
-      "summary": "Former Google interns who secured job offers share their tips, including starting the internship process early.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/google-interns-who-got-full-time-job-offers-share-advice-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-8136-912b-d273d3030cdb",
-      "title": "I travel for a living and often bring my kids. Booking flights by landing rather than takeoff time is key.",
-      "summary": "I started to ignore conventional wisdom when I travel with my kids. Changing 3 travel habits made vacations with them more enjoyable.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/simple-tips-smoother-trips-travel-kids-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-813e-b807-e80f1629a35e",
-      "title": "本田继续发力电动化，拉上美国初创公司一起开发汽车固态电池",
-      "summary": "IT之家 6 月 19 日消息，当地时间周四，本田与美国电池初创公司 QuantumScape 宣布，双方将合作开发面向纯电车型及其他领域的固态电池。本田在长期低调评估 QuantumScape 的技术后，决定开展公开合作，并把研发推进到下一阶段。QuantumScape 公布，双方签署的“联合研究协议”包含一项多年计划，重点开发固态电池及配套制造工艺。据IT之家了解，本田最近叫停了多款下一代纯电车型，但仍把电动化视为长期发展方向。固态电池用固态电解质取代传统液态电解质，常被视为电池技术的“圣杯”。理论上，固态电池比目前纯电车型普遍采用的锂离子电池更安全，充电速度更快，能量密度也更高。不过，固",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/373.htm"
-    },
-    {
-      "id": "38403df8-2d23-816b-8fbd-db447f8aa7f3",
-      "title": "The Best Fitness Trackers of 2026: Garmin, Google Fitbit, and More",
-      "summary": "Find the right wearable for your lifestyle, workouts, and goals.",
-      "source": "Wired",
-      "publishTime": "2026-06-19",
-      "link": "https://www.wired.com/story/best-fitness-trackers/"
-    },
-    {
-      "id": "38403df8-2d23-811c-91cc-e71a24c5066c",
-      "title": "This World Cup, Bigger Might Not Really Be Better",
-      "summary": "The biggest World Cup ever is pushing fans, players, and host cities to their limits—and experts say this is only the beginning.",
-      "source": "Wired",
-      "publishTime": "2026-06-19",
-      "link": "https://www.wired.com/story/biggest-world-cup-travel-flights-hotels-costs/"
-    },
-    {
-      "id": "38403df8-2d23-8185-b2f5-d829574adaf9",
-      "title": "Germany turns to Ukrainian and Israeli start-ups for an alternative to US Tomahawk missiles",
-      "summary": "The German defense ministry has asked foreign firms for missiles that can strike deep into an enemy's territory, as alternatives to the US Tomahawk.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/germany-turns-ukraine-israel-start-ups-a-tomahawk-missile-alternative-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-8196-b3cf-eef444051123",
-      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-      "summary": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
-      "source": "BBC Tech",
-      "publishTime": "2026-06-19",
-      "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "38403df8-2d23-817b-8f82-e203cb8a4d08",
-      "title": "研究：全球近八成数据中心暴露在洪水、火灾等较高气候灾害风险之下",
-      "summary": "IT之家 6 月 19 日消息，据美国 CNBC 报道，当地时间周四，气候风险分析公司 First Street 发布研究称，全球大部分数据中心容量都暴露在较高的突发性气候灾害风险之下。报告显示，全球 79% 的数据中心容量可能受到洪水、极端强风和野火等灾害影响。这些事件不仅会扰乱数据中心运营、增加停机时间，还会推高保险和维修成本。研究覆盖全球 97 个数据中心市场。除了突发性灾害，长期气候压力同样构成威胁。研究发现，全球略高于一半的数据中心位于容易遭受极端高温和干旱影响的市场，这些长期问题会降低能源效率，并持续推高成本。飓风等单次极端事件虽然会迅速放大风险，但真正可能造成更严重实体和经济损失",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/372.htm"
-    },
-    {
-      "id": "38403df8-2d23-81bc-ac56-f02c35dda676",
-      "title": "Want to know who'll win the World Cup? Goldman Sachs has you covered.",
-      "summary": "Spain, France, and Argentina have the highest chance of winning the World Cup according to a prediction model by Goldman Sachs analysts.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/world-cup-winner-goldman-sachs-prediction-spain-argentina-france-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-8173-8fc3-f32853586d2a",
-      "title": "Epic Games 启动器将“彻底重建”，启动速度提高 5 倍",
-      "summary": "IT之家 6 月 19 日消息，据外媒 VGC 今天（19 日）报道，Epic Games 公布了 Epic 游戏商城和游戏启动器的改造计划，未来 12 个月将重点重构商城架构，并推出全新的 Epic Games 启动器 2.0 版。据悉，改造计划分为近期、中期和长期三个阶段。近期工作包括重构商城架构，并对 Epic Games 启动器 2.0 版展开封闭测试。Epic Games 还将加入商城内补丁说明、跨地区赠礼，以及《堡垒之夜》分块安装等便利功能。随后，Epic Games 将正式推出 Epic Games 启动器 2.0 版，并改善商城设计和用户体验。计划新增的功能包括玩家个人资料、头",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/371.htm"
-    },
-    {
-      "id": "38403df8-2d23-8170-a753-eff669d4c92c",
-      "title": "法拉利 CEO 预告 7 月 4 日发布新品：将继续推出燃油、混动和纯电车型，选择权交给消费者",
-      "summary": "IT之家 6 月 19 日消息，据 AutoCar，法拉利 CEO 贝内代托 · 维尼亚（Benedetto Vigna）在美国拉斯维加斯举行的一场经销商大会上表示，法拉利计划于今年 7 月 4 日发布一款全新车型。维尼亚在介绍公司关于软件、人工智能、业务效率及客户选择等话题时，多次提及即将到来的新车发布。他表示，这款新车将融合品牌传统与未来发展方向，体现法拉利长期坚持的创新理念。几周之后，如果你们能耐心等一等，就会看到一些新东西，我们把来自过去的元素与着眼于未来的目光放在了一起。这么说吧，等到 7 月 4 日，真的很快了。IT之家注：7 月 4 日恰逢美国独立日，同时也与 F1 英国大奖赛银",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/370.htm"
-    },
-    {
-      "id": "38403df8-2d23-817a-9dbb-e3a092381c26",
-      "title": "An Open Strait of Hormuz Won’t Fix Gas Prices Overnight",
-      "summary": "Even if peace holds up between the US and Iran, oil prices aren’t going back down to where they were any time soon.",
-      "source": "Wired",
-      "publishTime": "2026-06-19",
-      "link": "https://www.wired.com/story/an-open-strait-of-hormuz-wont-fix-gas-prices-overnight/"
-    },
-    {
-      "id": "38403df8-2d23-810b-b604-fb9e70fba88d",
-      "title": "Prediction Market Philosophers Got What They Wanted. They’re Not Happy About It",
-      "summary": "Getting the future right is now big business. But at a festival in Berkeley, forecasters worry that sports markets could take the whole industry down.",
-      "source": "Wired",
-      "publishTime": "2026-06-19",
-      "link": "https://www.wired.com/story/prediction-market-philosophers-got-what-they-wanted/"
-    },
-    {
-      "id": "38403df8-2d23-8170-8505-f00d7cb1aa5f",
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "summary": "📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》正式预告6月16日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了正式预告，宣布坂本真绫、山路和弘、安元洋贵、中村悠一配 ...查看全文",
-      "source": "少数派",
-      "publishTime": "2026-06-19",
-      "link": "https://sspai.com/post/111216"
-    },
-    {
-      "id": "38403df8-2d23-81fd-8ea2-fe9fac2f8a27",
-      "title": "The 3 biggest challenges US homeowners and renters are facing right now",
-      "summary": "Harvard University's Joint Center for Housing Studies released their 2026 report. Housing vacancies and soaring prices are hitting Americans hard.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/3-major-challenges-us-homeowners-and-renters-facing-right-now-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-8197-bcb1-cbaef3e06684",
-      "title": "I'm 29 and make $250,000 as an analytics engineer in NYC. Here are the hacks I use to make living here more affordable.",
-      "summary": "New York resident Renee Li shares her cost of living in NYC and how she saves money, including specific apps, credit card points, and shopping habits.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/how-nyc-resident-saves-money-cash-back-apps-hacks-more-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-81ed-aab6-d59a2a996ffa",
-      "title": "This couple wanted to spend more time with their children. A flexible FIRE strategy was the answer.",
-      "summary": "Brendan Pon was on what he calls the \"default path\" in Canada: Get a job, build a family, and retire. He used FIRE to create a new journey.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/family-moved-from-canada-to-thailand-japan-fire-movement-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-813c-8c64-e86c29905fa2",
-      "title": "Harvey CEO says the company's AI usage jumped from 1 trillion tokens a month to 12 trillion",
-      "summary": "Harvey CEO Winston Weinberg said the legal AI startup's token usage jumped more than 12x this year, as companies rethink what AI is worth paying for.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/harvey-ceo-ai-token-usage-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-81c9-a9a2-e76bc604daae",
-      "title": "苹果“20 周年版 iPhone”A21 Pro 被曝独享台积电 N2P 制程，标准版 A21 延续 N2 工艺",
-      "summary": "IT之家 6 月 19 日消息，台积电 2nm 工艺（N2）已如期于 2025 年第四季度实现量产，预计今年下半年还将推出优化版的 N2P 制程。据中国台湾《工商时报》今日报道，台积电 N2P 今年将率先被高通和联发科采用，两家公司希望借此在今年晚些时候的新品上抢占相对于苹果的技术优势。苹果预计会在 2027 年的 A21 Pro 芯片上导入 N2P 制程，以保持与 Android 阵营旗舰芯片的竞争力，但这一先进工艺仅会用在 Pro 版本上，标准版 A21 仍将停留在较早的 N2 节点。面向 iPhone 20 标准版的 A21 芯片预计会继续采用台积电 N2 制程，该工艺也被认为将用于今年",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/368.htm"
-    },
-    {
-      "id": "38403df8-2d23-81cb-bf0c-ee6afdb0e20b",
-      "title": "Lyft is hiring ride-hailing drivers to service self-driving cars. It's a chance to 'get skilled up,' one exec says.",
-      "summary": "Lyft's Flexdrive is hiring ex-drivers for its Nashville depot to maintain Waymo self-driving cars, offering a unique career path.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/lyft-flexdrive-ex-ride-hailing-drivers-jobs-opportunities-careers-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-813c-8a04-e8c0be140f1a",
-      "title": "I retired from Netflix at 36 after quietly working for years toward financial independence",
-      "summary": "A Netflix employee retired at 36 after years of pursuing FIRE, driven in part by the diagnosis of a rare brain condition.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/mathematician-retired-from-netflix-using-fire-plan-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-8124-bc21-d2d8e44ac77f",
-      "title": "I quit my job without another one lined up. AI helped me use my time smartly and land a new role within a month.",
-      "summary": "A software engineer shares how he used AI to supercharge his job search and land a role within a month of hunting.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/quit-job-ai-linkedin-referral-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-81fa-8e8a-f39df29274a5",
-      "title": "The job market is still rough. The next step in your career might be becoming your own boss.",
-      "summary": "It's still a tough job market to navigate. Entrepreneurship may be your best bet.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/becoming-your-own-boss-solo-business-entrepreneur-job-market-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-8144-918c-f17b8c35b873",
-      "title": "I live next to a major airport, and vibe-coded a plane tracker that turns my ceiling into a live flight map",
-      "summary": "A software engineer explains how he set up a one-of-a-kind flight tracker in his home in under two hours via vibe coding.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/i-vibe-coded-flight-tracker-project-live-planes-onto-ceiling-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-813d-8562-cd1250c38294",
-      "title": "Canada Missed Chances to Inspect Titan Before Fatal Implosion",
-      "summary": "A new report shows that government agencies failed to communicate and includes recommendations for stronger oversight in a bid to avert future disasters.",
-      "source": "Wired",
-      "publishTime": "2026-06-19",
-      "link": "https://www.wired.com/story/canada-missed-chances-titan-fatal-implosion/"
-    },
-    {
-      "id": "38403df8-2d23-8120-858c-c681a89118a0",
-      "title": "Why right now might be the best opportunity to get hired at Silicon Valley's most coveted employers",
-      "summary": "Anthropic and OpenAI are the new top-end employers. We spoke to applicants, Big Tech workers, and job coaches about why they're so in demand.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/why-everybody-wants-to-work-at-anthropic-or-openai-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-8198-82c0-c469c4698dc1",
-      "title": "Mapped: 250 private jets touched down in Los Angeles ahead of Team USA's first World Cup win",
-      "summary": "Bookings to and from host cities were up 68% over last year, NetJets, the world's largest private aviation firm, told Business Insider.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/mapped-private-jets-land-los-angeles-us-world-cup-win-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-81e5-8aee-d7a10c9b21ab",
-      "title": "'It's harder than ever to raise a fund.' Here's one emerging manager's advice.",
-      "summary": "Emerging fund manager Nisha Dua has weathered a fundraising winter. Now she's sharing the lessons she learned with other investors.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-19",
-      "link": "https://www.businessinsider.com/nisha-dua-bbg-ventures-emerging-fund-manager-advice-2026-6"
-    },
-    {
-      "id": "38403df8-2d23-81c0-83eb-c9ebccf1fcfb",
-      "title": "长安汽车欧洲战略提速：以西班牙为支点，2028 年销量剑指 30 万辆",
-      "summary": "IT之家 6 月 19 日消息，据西班牙媒体 ElDiario.es 昨日报道，长安汽车业务已覆盖欧洲 14 个国家，并计划以西班牙为支点进一步扩大欧洲市场布局。长安汽车已在西班牙马德里自治区 / 大区阿尔科文达斯（Alcobendas）设立了面向南欧的最大总部，并明确提出到 2028 年在欧洲实现年销售 30 万辆的目标，同时正在评估在当地建厂的可能性。在巴塞罗那举行的一场媒体沟通会上，长安汽车欧洲公司负责人 Ethan Yin 以及西班牙商务总监 Manuel Pérez Casado 介绍了公司的欧洲发展规划。据介绍，其位于阿尔科文达斯的办公场所面积约 1000 平方米，同时服务西班牙及",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/366.htm"
-    },
-    {
-      "id": "38403df8-2d23-81ee-8ad0-fdc763c64203",
-      "title": "72KM 长续航：立马莱米电动摩托车 1398 元新低，铅酸电池 72V20Ah",
-      "summary": "立马 · 莱米电动摩托车配 72V20Ah 铅酸电池，官方日常 3169 元。今日国补后仅需 1398 元，部分地区已抢空：京东立马 莱米电动摩托车至高 72KM 国补后 1398 元领 600 元券京东无门槛红包至高 26618 元，支持即领即用：点此抽取。目前老国标电摩需在 7 月 1 日前上牌，小伙伴们可咨询客服国标事宜后，再下单。支持 NFC 智能解锁，配 72V 大容量电池超威电池。机甲双灯设计，对置缸碟刹，配液压减震系统。京东立马 莱米电动摩托车至高 72KM 国补后 1398 元领 600 元券京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：点此抽红包淘宝 6",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/365.htm"
-    },
-    {
-      "id": "38403df8-2d23-8122-87dc-c7e89981d09f",
-      "title": "因批评 AI 数据中心迅速扩张，多名亚马逊工程师遭内部调查",
-      "summary": "IT之家 6 月 19 日消息，据美国 CNBC 当地时间 18 日报道，多名亚马逊工程师声称，自己因公开批评 AI 数据中心迅速扩张，并呼吁政府加强监管后，遭到亚马逊内部调查。本月早些时候，5 名亚马逊员工在西雅图市议会会议上作证。当时，西雅图正在就是否暂停新建大型数据中心一年征求公众意见，希望利用暂停期制定监管措施。6 月 9 日，西雅图市议会一致通过暂停令。这些员工批评科技公司在 AI 领域大举投资，形容当前趋势是“不惜一切代价扩建 AI 基础设施”。听证会结束后，其中 3 名员工分别被要求参加与人力资源代表的 Zoom 会议。员工代理律师向西雅图民权办公室提交的投诉显示，人力资源代表称",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/364.htm"
-    },
-    {
-      "id": "38403df8-2d23-8109-a71a-c8ca766e2c29",
-      "title": "微软、亚马逊云服务或面临欧盟严厉反垄断监管",
-      "summary": "IT之家 6 月 19 日消息，据彭博社 18 日报道，微软 Azure 和亚马逊云科技可能被纳入欧盟《数字市场法案》监管。欧盟此前已就两项云服务在市场上的影响力展开初步调查，并计划近期公布初步结论。多名不愿具名的知情人士表示，欧盟委员会最早将于下周公布调查结果，初步预估亚马逊云科技和微软 Azure 符合《数字市场法案》的适用条件。欧盟委员会预计将在今年年底前作出最终决定，具体时间仍可能调整。一旦两项云服务被正式纳入监管，微软和亚马逊将承担一系列义务，其中包括提高服务互操作性，并减少限制客户转用其他服务和优待自有产品的做法。欧盟委员会去年 11 月表示，微软和亚马逊在云服务市场“占据非常强势",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/363.htm"
-    },
-    {
-      "id": "38403df8-2d23-812e-a0e7-fe46752bcdc3",
-      "title": "《凡人修仙传》动画 177 集、178 集已完成片源替换",
-      "summary": "IT之家 6 月 19 日消息，@万维猫动画 今天（6 月 19 日）发布微博，宣布《凡人修仙传》动画 177 集、178 集已完成片源替换，邀请各位“道友”品鉴。IT之家访问 B 站相关页面，“凡人修仙传动画连续剧”已同步更新动态，宣布完成 177 集、178 集片源替换。《凡人修仙传》第 177 集在停更 161 天复播后，首日同时在线人数超过 78 万，不过因为剧情改动、人设调整等因素引发争议，此外部分观众指出，两集之间剧情衔接存在断层、部分人物出场突兀、台词处理与以往风格有所差异等问题。相关阅读：《〈凡人修仙传〉陷“全女团队”谣言风波，官方发声明澄清并将追究造谣抹黑者法律责任》《国产动",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/362.htm"
-    },
-    {
-      "id": "38403df8-2d23-8134-bc26-de32d78850db",
-      "title": "绿联 25W 磁吸无线充电器发售：适配苹果 iPhone 12-17 系列，139 元",
-      "summary": "IT之家 6 月 19 日消息，绿联新推出了一款 25W 的磁吸无线充电器，配 1.5m 长编织线，定价 139 元。京东绿联 25W 磁吸无线充电器 【25W 磁吸快充】适用苹果 17promax 快充 iPhone16 手机 15 耳机桌面无线充电套装底座 magsafe 充电器适用苹果 12-17 系列 139 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持 8.5 折政府补贴",
-      "source": "IT之家",
-      "publishTime": "2026-06-19",
-      "link": "https://www.ithome.com/0/966/361.htm"
     }
   ],
   "macroEvents": [
