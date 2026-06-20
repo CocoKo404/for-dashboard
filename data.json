@@ -1,6 +1,278 @@
 {
-  "updatedAt": "2026-06-20 16:31",
+  "updatedAt": "2026-06-20 19:29",
   "news": [
+    {
+      "id": "38503df8-2d23-8119-977c-e183ee1b7df9",
+      "title": "AMD 锐龙 PRO 9965X3D 领衔：技嘉 AM5 主板新增支持五款商用桌面 CPU",
+      "summary": "IT之家 6 月 20 日消息，AMD 本月初在 COMPUTEX 2026 展前推出了 AMD 锐龙 9 PRO 9965X3D 处理器与锐龙 AI PRO 400 系列处理器，并宣布搭载该 CPU 的商用台式机将于今年第 3 季度上市。锐龙 9 PRO 9965X3D 是首批集成 3D V-Cache 的 MSDT 级商用处理器，相对于消费端锐龙 9 9950X3D 仅降低了加速频率（5.7 GHz 降至 5.5 GHz）。@unikoshardware 发现，技嘉旗下 X870、B850、B840、A620 等一系列 AM5 主板已经率先支持 9965X3D 等多款商用桌面处理器，包括：",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/541.htm"
+    },
+    {
+      "id": "38503df8-2d23-81e0-9ff1-c3438a0a58cb",
+      "title": "本田推出纯电“小钢炮”Super-N：最快 10 秒破百，不到 1.9 万英镑",
+      "summary": "IT之家 6 月 20 日消息，今年夏季，本田将把 Super-N 引入欧洲。Super-N 是一款小型纯电掀背车，以日本市场的 K-Car 车型 Super-One 为基础，设计灵感来自上世纪 80 年代的传奇“小钢炮”City Turbo II。新车起售价仅为 18995 英镑（IT之家注：现汇率约合 17 万元人民币），跻身英国市场售价最低的纯电车型之列。Super-N 车长 3599 毫米，车宽 1573 毫米，尺寸十分紧凑，却能舒适容纳 4 名成年人，并延续品牌一贯擅长的空间设计。后排坐垫可以向上翻折，采用与本田飞度类似的“魔术座椅”结构。普通模式下，Super-N 可输出 47kW",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/542.htm"
+    },
+    {
+      "id": "38503df8-2d23-81f4-a319-fb2e937d5924",
+      "title": "Replika founder predicts 'crazy protests' over AI: 'People are really struggling to find jobs'",
+      "summary": "Eugenia Kuyda, the founder of the AI chatbot startup Replika, says fears about AI eliminating jobs are justified — and will lead to backlash.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/replika-founder-warns-ai-protests-job-displacement-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-81c7-a37d-cbd98d3b2693",
+      "title": "加州“亿万富翁税”提案获得足够签名，能否生效 11 月公投见分晓",
+      "summary": "IT之家 6 月 20 日消息，据英国《卫报》报道，当地时间周三，加州官员宣布，向亿万富翁征收财富税的《加州亿万富翁税法案》已经获得足够签名，可以列入今年 11 月的投票议程。这项通常被称为“亿万富翁税”的提案，计划向净资产超过 10 亿美元（IT之家注：现汇率约合 67.84 亿元人民币）的加州居民一次性征收 5% 财富税。提案已经成为加州最激烈的政治争议之一。一边是支持征税的工会，另一边则包括多名科技富豪和加州州长加文 · 纽森。随着提案今年获得越来越多公众支持，谷歌联合创始人拉里 · 佩奇、Meta 联合创始人马克 · 扎克伯格等亿万富翁开始减少与加州的联系，纽森则承诺阻止提案进入投票程",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/540.htm"
+    },
+    {
+      "id": "38503df8-2d23-81a7-8891-de5438d0edd4",
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+      "source": "Wired",
+      "publishTime": "2026-06-20",
+      "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/"
+    },
+    {
+      "id": "38503df8-2d23-814d-a5a7-c69898d85bd3",
+      "title": "A health scare shocked him into shape. Now he's 41 with abs and a supplement stack.",
+      "summary": "Chris Gayomali used to party, then realized he wouldn't live forever. Now he's in shape for the first time, and hopes to keep it that way.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/health-optimization-daily-routine-sleep-peptide-maxxing-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-812e-8652-c39b47583d3b",
+      "title": "LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型",
+      "summary": "IT之家 6 月 20 日消息，在苹果 WWDC 2026 期间，LM Studio 与苹果合作在四台 Mac Studio 集群上成功运行起了月之暗面万亿参数大模型 Kimi K2.6，并通过 LM Link 实现从 MacBook Neo 和 iPhone 的安全远程访问。IT之家此前报道，Kimi K2.6 大模型总参数规模达到 1 万亿，采用 MoE 架构，激活参数为 320 亿，支持长上下文、多模态输入以及智能体任务处理。据 LM Studio 官方介绍，在此次演示中，四台 Mac Studio 通过苹果的内存共享和互联技术形成集群，总统一内存容量达到约 1.5TB，能够承载这一前沿",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/539.htm"
+    },
+    {
+      "id": "38503df8-2d23-81a4-a159-dfd77230f995",
+      "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
+      "summary": "Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email and more.",
+      "source": "Wired",
+      "publishTime": "2026-06-20",
+      "link": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/"
+    },
+    {
+      "id": "38503df8-2d23-81f9-bd7e-f6f50b66e537",
+      "title": "A millennial reached financial independence by 25 using the 'fast version' of FIRE and focusing on cash flow",
+      "summary": "Cody Berman breaks down the 'fast version' of FIRE, which involves focusing on cash flow rather than building a large nest egg.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/financially-independent-millennial-tips-fastest-path-to-fire-investing-saving-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-812c-a5df-f81fbdbdcbcf",
+      "title": "我国公众 22 日可观测月面“X”状光影奇观",
+      "summary": "IT之家 6 月 20 日消息，据新华社报道，6 月 22 日，月球表面将显现标志性“X”状光影奇观。天文科普专家表示，对我国公众而言，这是今年第二次观测条件良好的“月面 X”现象，感兴趣的公众可于当日 17 时 10 分至 19 时 30 分尝试观测这神奇一幕。中国天文学会会员、天津科学技术馆天文科普专家刘仲利介绍，“月面 X”是阳光照射月球产生的一种光影视觉现象，只出现在上弦月阶段。此时阳光以贴近月表的低角度平行照射月球晨昏线（IT之家注：月球表面划分昼半球与夜半球的分界线），一些环形山的山顶被照亮，山体阴影交错，在月面明暗交界处组合成英文字母“X”的轮廓，因此得名“月面 X”。这个奇观持",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/538.htm"
+    },
+    {
+      "id": "38503df8-2d23-8137-be70-f0533dc4e7ad",
+      "title": "I'm a 67-year-old World Cup volunteer. Being able to contribute to soccer feels like a dream — it's an honor.",
+      "summary": "Juan Guanuna, a 67-year-old from Ecuador who immigrated to the US nearly 50 years ago, said that being a FIFA World Cup volunteer feels like a dream.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/fifa-world-cup-volunteer-new-jersey-experience-viral-instagram-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-8138-a864-fb53236552d5",
+      "title": "英格兰、威尔士要求司法部门停止在 X 平台发帖，除非用于“辟谣”",
+      "summary": "IT之家 6 月 20 日消息，当地时间 18 日，据英国《卫报》报道，英格兰和威尔士总检察长理查德 · 赫默要求办公室停止在 X 发帖。随着外界越来越担心 X 被用于煽动暴力和种族主义，赫默办公室成为英国首个停用 X 平台的政府部门。赫默办公室上周五最后一次在 X 发布内容。据了解，官员今后不得再使用 X，除非是反驳平台上的虚假信息。英国政府此前多次为各部门继续使用 X 辩护。尽管马斯克曾呼吁推翻英国政府，X 也长期因传播极右翼和种族主义观点受到批评，但唐宁街认为，政府需要借助 X 接触公众。赫默办公室停用 X，是英国政府内部的态度开始转变的首个信号。IT之家从报道中获悉，随着社交媒体造成的",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/535.htm"
+    },
+    {
+      "id": "38503df8-2d23-81ee-85ec-d17f4731c860",
+      "title": "A day in the life of GORUCK's cofounder, from 'screen jail' for her kids to life lessons from her ex-CIA career",
+      "summary": "Emily McCarthy, who founded GORUCK with her husband Jason McCarthy, spends her days biking with her kids to their school and taking rucking meetings.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/day-in-the-life-goruck-co-founder-emily-mccarthy-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-8154-afdf-ccbea14a51ed",
+      "title": "Forget prompt engineering: 'Loop engineering' is all the rage now",
+      "summary": "Claude Code creator Boris Cherny says he doesn't \"write the prompt anymore.\" Here's how loop engineering is changing coding.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/what-are-loops-ai-engineering-tips-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-81b4-8d3c-f5c1437e03d6",
+      "title": "You're going to pay more for lots of things. Blame AI.",
+      "summary": "The AI data-center boom means a spike in chip costs — but lots of products needs chips. You're going to pick up the tab.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/ai-making-everything-more-expensive-inflation-apple-iphone-data-centers-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-812f-b7be-e54d8e13b1e5",
+      "title": "Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required",
+      "summary": "Researchers have demonstrated they can make coffee comparable to conventional espresso using ultrasonic waves. Because the process doesn’t need hot water, it consumes 75 percent less energy.",
+      "source": "Wired",
+      "publishTime": "2026-06-20",
+      "link": "https://www.wired.com/story/scientists-brew-espresso-with-ultrasonic-waves/"
+    },
+    {
+      "id": "38503df8-2d23-8116-9557-e38bba2e5342",
+      "title": "Meet the typical New Yorker: A rent-burdened 30-something who earns $80,000 a year",
+      "summary": "NYC population data shows that the typical New Yorker is young, relatively affluent, and spends a lot of money on rent.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/typical-new-yorker-age-income-salary-occupation-rent-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-81fb-9958-ca08656d0f6e",
+      "title": "Massive bonuses for South Korea's chip workers puts central bank on inflation alert",
+      "summary": "Workers from tech industries receive bonus worth millions of won, prompting the Bank of Korea to warn of the upward pressure to inflation.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-20",
+      "link": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html"
+    },
+    {
+      "id": "38503df8-2d23-810d-8af0-fdb0208a000e",
+      "title": "微信 AI 助手“小微”灰度上线，可通过文字或语音对话操作微信原生功能",
+      "summary": "IT之家 6 月 20 日消息，微信原生 AI 助手“小微”今日开始扩大灰度测试范围，多个平台上都出现了用户反馈。腾讯客服回复IT之家称：“小微”目前仍处于测试阶段，支持通过文字或语音对话操作微信原生功能，例如调整设置、发送消息、拨打电话、点外卖、生成图片等。客服同时表示，灰度测试覆盖多个系统，具体参与资格以实际页面显示为准。微信小微（智能助手）是微信团队在小范围内测的原生 AI 助手，您可以在微信主界面左上角点击「小微」标志进入。目前该功能仍在小范围内测中，若未获得内测名额，建议您后续留意版本更新。小微支持通过文字或语音对话操作微信原生功能，调起小程序提供日常服务，还能帮助您搜索资料、生成图",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/534.htm"
+    },
+    {
+      "id": "38503df8-2d23-8133-b4d6-ee1ee6f37d4f",
+      "title": "Elon Musk is the world's first trillionaire. Here's how he built his net worth.",
+      "summary": "Elon Musk is the world's richest person and first trillionaire. Most of his net worth now comes from his shares in SpaceX and Tesla.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/elon-musk-net-worth"
+    },
+    {
+      "id": "38503df8-2d23-810a-9222-e686e3963f24",
+      "title": "CDPR：希望《巫师 4》能让当初因《赛博朋克 2077》脱粉的玩家回心转意",
+      "summary": "IT之家 6 月 20 日消息，当地时间 19 日，据外媒 GamesRadar 报道，《赛博朋克 2077》发售时遭遇严重口碑危机，CDPR 联席 CEO 米哈乌 · 诺瓦科夫斯基承认，工作室可能已经长期失去部分玩家的信任。不过，他仍希望 CDPR 能凭借《巫师 4》或今后的作品重新赢得这些玩家。今天的《赛博朋克 2077》已经成为广受欢迎的作品，游戏销量也在不到 5 年内突破 3500 万份。然而在 2020 年 12 月游戏刚上市时，大量严重技术问题曾使其陷入灾难性局面。此后，CDPR 推出多次大型更新和《往日之影》资料片，逐步挽回了玩家评价，但最初的失望并没有完全消失。诺瓦科夫斯基在接",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/533.htm"
+    },
+    {
+      "id": "38503df8-2d23-81a0-899f-ef3585b3af63",
+      "title": "The hidden cost of letting AI choose your lunch",
+      "summary": "Relying on AI for decision-making could lead to \"cognitive surrender,\" a weakening of critical thinking that makes people distrust their own judgment.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-8154-8d2c-e12f02123029",
+      "title": "Gen Z and millennial professionals are avoiding phone calls — and paying a price at work",
+      "summary": "A self-improvement app found that 42% of surveyed Gen Zers and millennials don't answer phone calls, while 58% script or rehearse conversations.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/young-workers-genz-millennials-avoiding-phone-calls-paying-a-price-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-81fe-925c-dec0ea13da7c",
+      "title": "America's EV graveyard grows: All the electric cars axed by automakers this year",
+      "summary": "EV sales have been in a rut. Business Insider compiled a list of cars that have been discontinued or delayed this year.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/evs-automakers-axed-this-year-2026-3"
+    },
+    {
+      "id": "38503df8-2d23-817f-a75d-ee9878e2f4f6",
+      "title": "西安公安 19 小时打掉世界杯网络赌局：刑拘 7 人，斩断 10 万赌资链条",
+      "summary": "IT之家 6 月 20 日消息，据央视报道，西安市公安局未央分局昨日宣布破获一起依托世界杯赛事的网络赌博案件，7 名涉案人员因涉嫌开设赌场罪已被依法刑事拘留。2026 年美加墨世界杯赛事期间，各类涉赛网络赌博乱象随之滋生。不法分子紧盯大型赛事流量，利用社交群组隐蔽设赌，通过更新赛事赔率、开设线上赌局、招揽网民投注、线下结算资金等方式，形成分工完整、运作隐蔽的网络赌博闭环。据办案民警介绍，此类新型涉赛赌博传播快、隐蔽性强，极易诱发诈骗、洗钱等次生违法犯罪。针对这一态势，西安未央公安持续加大网络涉赌线索排查力度。2026 年 6 月 18 日凌晨，西安市公安局未央分局二府庄派出所民警在日常研判工作",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/531.htm"
+    },
+    {
+      "id": "38503df8-2d23-819a-8e67-f0518159507c",
+      "title": "从素描迈向照片：加州理工学院启动史上最灵敏射电望远镜阵列建设",
+      "summary": "IT之家 6 月 20 日消息，据外媒 Futurism 当地时间 19 日报道，加州理工学院研究人员正准备动工建设深度巡天阵列（DSA）。DSA 有望成为史上灵敏度最高、巡天速度最快的射电望远镜阵列。这项工程规模惊人。DSA 计划于 2029 年完工，届时将由 1650 面射电天线组成，每面直径接近 6.1 米，分布在内华达州一处偏远沙漠谷地内，占地约 19.3×16.1 公里。相比之下，位于新墨西哥州的“甚大天线阵”已经是全球最大的射电望远镜阵列之一，却只有 27 面天线。大量天线协同工作时，可以如同一台巨型仪器，大幅提升深空观测的空间分辨率。不过，与单面巨型天线相比，阵列接收微弱信号的能",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/530.htm"
+    },
+    {
+      "id": "38503df8-2d23-81e2-bf6e-d42bf842ab6c",
+      "title": "中国科学家提出“AI 语言”：人类难懂但模型能懂，文本压缩至 27.9% 仍保留 99.5% 语义",
+      "summary": "IT之家 6 月 20 日消息，上海交通大学、悉尼大学、合肥工业大学、西安交通大学、南京大学的研究人员于 6 月 18 日在预印本平台 arXiv 上发表了一项有趣的研究。正如论文标题《大语言模型并不总是需要可读语言》，他们发现 AI 能够理解人类理解不了的精简语言，所以 AI 提示词中的大部分自然语言都属于浪费 Token 的冗余信息。他们提出了一种名为“BabelTele”的文本压缩方法，能够生成让人类几乎无法直接阅读的内容，但大语言模型（LLM）却可以准确理解其中的含义。其研究的核心思想是，当前大语言模型之间的交互普遍采用为人类设计的自然语言，这包含了大量冗余信息。BabelTele 则",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/529.htm"
+    },
+    {
+      "id": "38503df8-2d23-81d1-b52c-fc7d9d2d89d3",
+      "title": "KFC's design chief says brands are too obsessed with Gen Z",
+      "summary": "KFC's strategy focuses on staying relevant across generations with new menu items, drinks, and designs, not just targeting Gen Z.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/kfc-strategy-shifts-focus-timeless-relevance-not-just-gen-z-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-810e-8016-f8c6766e738b",
+      "title": "Ukraine's war robots are surging into the kill zone",
+      "summary": "Business Insider went inside a Ukrainian factory building ground robots for deadly missions soldiers can no longer risk.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/ukraine-war-robots-are-surging-into-the-kill-zone-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-8190-a33a-cef02a953034",
+      "title": "I let robot-trainers clean my apartment for free. It was unsettling, but I got over it.",
+      "summary": "I invited cleaners and a chef from the startup Shift into my New York apartment. They worked for free — but recorded the process to train AI robots.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-20",
+      "link": "https://www.businessinsider.com/robot-trainers-clean-apartment-cook-lunch-free-shift-ai-startup-2026-6"
+    },
+    {
+      "id": "38503df8-2d23-8181-a956-ebaa4347eb22",
+      "title": "AI 账单飙升？Netflix 工程师开源项目 Headroom 爆火，号称可节省 60%-95% 词元消耗量",
+      "summary": "IT之家 6 月 20 日消息，Netflix 高级工程师 Tejas Chopra 开发了一款名为 Headroom 的开源工具，旨在解决 AI 应用日益高昂的词元（Token）成本问题。该项目于 2026 年 1 月开源，目前已更新至 v0.26.0 版本，但直到近日突然在海外以及国内 AI 圈内爆火，几乎能在各大平台看到推荐它的帖子。截至IT之家发稿，该项目在 GitHub 上已获得超过 3.96 万颗星标。根据 Tejas Chopra 在开源峰会上的分享，Headroom 累计已帮助用户节省约 70 万美元（IT之家注：现汇率约合 474.9 万元人民币）的成本，并释放了超过 200",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/527.htm"
+    },
+    {
+      "id": "38503df8-2d23-8105-a9b7-cbc4b7343d0a",
+      "title": "谷歌前 CEO 施密特执掌的火箭公司获 NASA 青睐，2028 年征战火星",
+      "summary": "IT之家 6 月 20 日消息，据外媒 The Verge 今天（20 日）报道，由谷歌前 CEO 埃里克 · 施密特领导的火箭公司 Relativity Space，获选在 2028 年执行美国国家航空航天局（NASA）Aeolus 载荷的火星发射任务。根据双方达成的新公私合作计划，Relativity Space 将负责提供航天器、运载火箭以及飞往火星途中的巡航阶段运营。抵达火星后，Aeolus 将首次每天提供覆盖全球的火星风况、温度、尘埃和云层综合观测数据。Aeolus 将搭载 4 台仪器，用于研究火星大气。据IT之家了解，观测数据将直接帮助改进进入、下降和着陆系统，并为未来载人任务制定",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/526.htm"
+    },
+    {
+      "id": "38503df8-2d23-8182-921f-eaa4469e51e3",
+      "title": "我国量子通信新突破：潘建伟团队构建芯片化量子通信网络，突破 540km 光纤传输距离",
+      "summary": "IT之家 6 月 20 日消息，合肥国家实验室、中国科学技术大学的潘建伟、徐飞虎等研究人员，联合中山大学、上海交通大学等单位，成功实现了基于双场量子密钥分发（TF-QKD）协议的芯片化量子通信网络。相关研究成果于 2026 年 6 月 19 日在线发表于国际学术期刊《自然 · 光子学》（Nature Photonics）。图 1 氮化硅与薄膜铌酸锂混合集成光子芯片量子密钥分发（QKD）技术能够为远距离用户之间提供具有信息论安全性的密钥，结合一次一密等加密方式，可在原理上实现无条件安全的通信。双场量子密钥分发协议是近年来提出的重要方案，它能够突破传统 QKD 成码率的线性界限，显著拓展传输距离，",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/525.htm"
+    },
+    {
+      "id": "38503df8-2d23-811f-a1d8-db71e8998909",
+      "title": "环保账单量化：全球最富 10% 消费群体每年“欠”地球 1.7 至 5.7 万亿美元",
+      "summary": "IT之家 6 月 20 日消息，荷兰莱顿大学最新研究量化了环保代价，指出全球最富有 10% 的消费群体每年对环境造成的经济损失达 1.7 至 5.7 万亿美元（IT之家注：现汇率约合 11.53 至 38.67 万亿元人民币）。该项目由荷兰莱顿大学环境科学家 Inge Schrijver、Rutger Hoekstra 和 Paul Behrens 带领，相关成果于 6 月 18 日发表在《Communications Sustainability》上，用货币量化了这一群体的环境破坏账单。研究基于 2017 年全球消费足迹数据，核算了最富 10% 消费者在二氧化碳排放、生物多样性损失、氮磷循环",
+      "source": "IT之家",
+      "publishTime": "2026-06-20",
+      "link": "https://www.ithome.com/0/966/524.htm"
+    },
     {
       "id": "38503df8-2d23-8130-a6d6-ca13ca33c471",
       "title": "Meta 员工士气低迷之际，马斯克 X 平台趁机挖人宣称“零食管够”",
@@ -128,278 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-06-20",
       "link": "https://www.ithome.com/0/966/506.htm"
-    },
-    {
-      "id": "38503df8-2d23-81b9-bd74-de82c14b9709",
-      "title": "华米 Amazfit Balance Ultra 智能手表发售：5 级钛合金材质、至高 30 天续航，4299 元",
-      "summary": "IT之家 6 月 20 日消息，华米现已在京东上架 Amazfit Balance Ultra 智能手表，附带黑色 / 黑棕两款表带，定价为 4299 元。京东华米 Amazfit Balance Ultra 手表 4299 元直达链接该手表采用 5 级钛合金材质，正面配备一块 1.5 英寸 AMOLED 面板（峰值亮度 3000 尼特），匹配蓝宝石玻璃，同时内置了 LED 手电筒功能，手表内置电池在典型使用场景下提供至高 30 天续航，在 GPS 精准模式下提供至高 50 小时续航。健康监测方面，Balance Ultra 支持全天候心率、血氧、皮肤温度以及压力监测，同时还能检测异常高低心率",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/505.htm"
-    },
-    {
-      "id": "38503df8-2d23-8129-a55e-c7f56269d72d",
-      "title": "青海西宁公安严打网络低俗乱象：依法查处违法行为主播 20 名、关停涉案账号",
-      "summary": "IT之家 6 月 20 日消息，据“西宁公安”微信公众号消息，为净化网络生态、维护清朗空间，西宁市公安局近期集中开展打击整治“网络低俗乱象”专项行动，对涉网本地直播领域违法违规行为实施精准打击。西宁公安表示，近年来个别网络主播为博取流量、牟取利益，频繁通过低俗恶搞、无底线博眼球等不良互动方式扰乱网络秩序，严重污染网络环境，尤其对未成年人身心健康和社会公序良俗造成不良影响。对此，西宁公安网安部门主动出击，依托网安情指一体化运行机制，对重点网络直播平台进行部署巡查。依法查处违法行为主播 20 名，并同步对涉案网络直播账号采取关停措施。▲ 图源“西宁公安”微信公众号警方表示，网络空间不是法外之地，西",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/504.htm"
-    },
-    {
-      "id": "38503df8-2d23-8117-81d3-f2ec72abba45",
-      "title": "保时捷拟 7 月敲定第二轮降本方案：年产能低于 28 万辆，保留 718 系列",
-      "summary": "IT之家 6 月 20 日消息，今天（6 月 20 日）接受《法兰克福汇报周日版》采访时，保时捷首席执行官迈克尔 · 莱特斯（Michael Leiters）计划 7 月工厂假期前，与员工敲定第二轮成本削减方案。在采访中莱特斯强调员工需要确定性，公司必须用更少的汽车实现盈利。第二轮成本削减方案聚焦削减成本、聚焦核心车型、加强集团内部协同。莱特斯表示将调整和分配现有产能，深化和奥迪的合作优化资源利用，从而实现缩减规模、提高效率。莱特斯计划降低产能，低于去年 28 万辆的销售水平，他表示：“保时捷必须减少汽车产量才能赚钱”。IT之家援引博文介绍，保时捷于 2025 年已裁员约 2000 临时工，未",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/503.htm"
-    },
-    {
-      "id": "38503df8-2d23-81ab-8867-c029e4df76bb",
-      "title": "晋江文学城回应苹果 iOS 端“充值异常”：目前问题已修复完毕，用户可前往账号余额确认",
-      "summary": "IT之家 6 月 20 日消息，今天陆续有苹果 iOS 用户反馈在晋江文学城遇到充值未到账情况，对此“晋江文学城客小服”在微博致歉，发布公告称目前相应问题已修复完毕。尊敬的 iOS 用户，发生在 2026 年 6 月 20 日 00：00-05：00 期间，通过 iOS 充值渠道充值后未到账的订单，截止到 2026 年 6 月 20 日 10：00 技术已全部处理完毕，期间反馈充值未到账的友友，可移步账号余额做下确认，因此给大家带来不好的体验，深表歉意。延伸阅读此次晋江文学城 iOS 充值异常，与历史上其他热门应用因第三方支付渠道或高并发导致的充值问题类似。例如，在 2025 年 10 月《王",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/502.htm"
-    },
-    {
-      "id": "38503df8-2d23-8103-8cba-f1d81eedf34b",
-      "title": "张雪直言：自己创业时比李书福“幸福”",
-      "summary": "IT之家 6 月 20 日消息，@央视财经 今天（6 月 20 日）发布博文，称在《对话》节目录制现场，张雪直言自己创业时比李书福“幸福”，因为他创业时中国工业制造的高度已今非昔比，而李书福当年“啥也没有”。李书福说：当时我们造汽车，确实啥也没有。虽然啥也没有，但力量在风中回荡。有些事情定下来以后，只要认准一个方向、坚定一个信念、凝聚一股力量，最终完成一个使命。张雪说：我比李总幸福的地方在于，当我创业的时候，我国工业制造的高度，已经完全不是同日而语了。IT之家注：这期《对话》节目将于今天 21 点 30 分钟在 CCTV-2 和央视财经新媒体平台同步直播。",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/501.htm"
-    },
-    {
-      "id": "38503df8-2d23-817d-bfb1-cbc1b1116421",
-      "title": "金山办公将于下月推出组织级 AI 办公产品“企业大脑”WPS Comate，可整合公司数据打造 AI 工具",
-      "summary": "IT之家 6 月 20 日消息，金山办公副总裁王少康在四川省自贡市举行的“2026 人民数据大会”上透露公司将于下月（7 月）正式推出组织级 AI 办公产品“企业大脑”WPS Comate，后续将实现规模化交付落地。据介绍，相应“企业大脑”不同于面向个人效率提升的办公性智能体，其重点面向知识密集的中大型组织，主打复杂业务场景。具体来看，该产品整合并激活分散在组织各处的结构化与非结构化数据，之后利用 AI 理解组织结构与团队协作关系，并生成数字员工等 AI 产品融入业务运营与决策环节，进一步帮助员工通过跨工具协同完成组织专业任务。金山办公表示，后续公司将进一步对接客户，帮助不同公司根据具体情况设",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/500.htm"
-    },
-    {
-      "id": "38503df8-2d23-81c9-8fca-d0048be9a2ea",
-      "title": "小米“寻天”SUV 原型车再曝光，自带车顶帐篷",
-      "summary": "IT之家 6 月 20 日消息，汽车博主 @SugarDesign 今天（6 月 20 日）发布微博，分享了一张图片，展示了展开车顶帐篷后的小米“寻天”测试车，并调侃称“Loft（复式高挑房型）有了”。IT之家附上相关截图如下：此前消息称“寻天”SUV 将提供两款车型，一款为七座，另一款则为五座。两车均拥有四平八稳的线条，视觉效果显得颇为“敦实”，预计配备半隐藏式门把手。值得一提的是，体型大一号的七座版车型配备了车顶升降装置。从图片来看，小米“寻天”自带车顶帐篷，帐篷升起后前高后低，四周设有可供透气使用的“蚊帐”。延伸阅读小米“寻天”系列是小米汽车旗下独立的增程式 SUV 子品牌，其车型的车尾",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/499.htm"
-    },
-    {
-      "id": "38503df8-2d23-8164-bf6b-ca42792f2dba",
-      "title": "理想 i6 第 15 万辆量产车正式下线",
-      "summary": "IT之家 6 月 20 日消息，@理想汽车 今天（6 月 20 日）发布微博，宣布理想 i6 第 15 万台量产车下线。延伸阅读理想 i6 是理想汽车旗下的一款纯电 SUV，于 2025 年 9 月 27 日开启交付，官方起售价为 24.98 万元。该车拥有 3 米长轴距，配备前排 16.8 英寸 HUD、3K 双联屏以及后排 21.4 英寸 3K 大屏，并内置了理想同学 MindGPT 大模型。在动力和续航方面，理想 i6 搭载全新 5C 磷酸铁锂电池，支持 5C 超级充电与放电，最大峰值功率超过 500kW，CLTC 工况标准续航为 720 公里。根据理想汽车官方数据，理想 i6 在 20",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/498.htm"
-    },
-    {
-      "id": "38503df8-2d23-8196-b708-cf032f017234",
-      "title": "2026 年暑期档电影总票房已突破 10 亿元，《给阿嬷的情书》累计票房超 18 亿元居首",
-      "summary": "IT之家 6 月 20 日消息，@央视新闻 今天（6 月 20 日）发布微博，称基于网络平台数据，截至目前，2026 年暑期档总票房（含预售）已突破 10 亿元。《给阿嬷的情书》《火遮眼》《消失的人》暂列前 3 位。其中，《给阿嬷的情书》表现尤为亮眼，累计票房已超 18 亿元（含预售），不仅在国内引发观影热潮，还在中国香港、中国澳门及东南亚多地实现大规模上映，成为现象级小成本方言影片。据灯塔专业版数据，《给阿嬷的情书》当月票房达到 3.98 亿元，票房占比 39.7%。《火遮眼》当月票房为 1.52 亿元，票房占比为 15.2%。IT之家附上相关截图如下：IT 之家小伙伴记得用最会买购买电影票",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/497.htm"
-    },
-    {
-      "id": "38503df8-2d23-8138-9c54-d3d2e78aea9a",
-      "title": "1/110 定制：阿斯顿 · 马丁 Valour 超跑被抓拍，变色涂装如流动油画",
-      "summary": "IT之家 6 月 20 日消息，汽车媒体 The Supercar Blog 昨日（6 月 19 日）发布博文，分享了一段在英国街头抓拍的视频，展示了一辆稀有（全球限量 110 辆）阿斯顿 · 马丁 Valour 超跑，变色涂装 Andromeda Red 在自然光下呈现液态金属般流动质感。IT之家曾于 2023 年 7 月报道，阿斯顿 · 马丁为庆祝成立 110 周年，宣布推出 Valour 跑车，全球限量 110 辆，每一辆都为专属定制。外观方面，本次展示的 Andromeda Red 限量车缓缓停在环岛前，漆面随光线角度变化如液态金属般流动，围观者不禁发出“Nice car, man”（",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/496.htm"
-    },
-    {
-      "id": "38503df8-2d23-81d4-b6cc-d002816b93f7",
-      "title": "英特尔陈立武：马斯克是本世纪最杰出的企业家之一",
-      "summary": "IT之家 6 月 20 日消息，做客 No Priors 播客节目时，英特尔首席执行官陈立武（Lip-Bu Tan）透露将会和埃隆 · 马斯克（Elon Musk）合作推进 Terafab 项目，采用 14A 工艺为马斯克的汽车、机器人及太空数据中心制造芯片。 陈立武指出，他和马斯克均认为目前 AI 增速远超半导体基础产能，目前 AI 基建项目亟需提升供给效率。针对 AI 对半导体供应链的冲击，陈立武认为当前存在电力供应限制、氦气短缺风险，以及最突出的内存市场紧张三大瓶颈。谈及马斯克的管理风格，陈立武表示欣赏其“第一性原理”思维，指出马斯克会逐一质疑每个生产步骤，拒绝传统方法，这种反常规特质令",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/495.htm"
-    },
-    {
-      "id": "38503df8-2d23-8199-ad6b-ed298d5ab5ee",
-      "title": "小米平板 9 标准版曝光：高通骁龙 8s Gen4 芯片，9720mAh 电池",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 ximitime 昨日（6 月 19 日）发布博文，报道称小米平板 9 预估将推出标准和 Pro 两个版本，其代码显示小米平板 9 标准版可能复用小米平板 8 的相关硬件和固件平台。根据泄露的代码信息，小米平板 9 标准版预估型号为 M656BA，开发者 Kacper 发现该平板和小米平板 8 共享硬件平台，使用高度相关的固件包。因此该媒体推测小米平板 9 可能会复用小米平板 8 硬件，从而加速 HyperOS 更新。IT之家附上相关截图如下：在内部代号方面，报道称小米平板 9 标准版的内部代号为“donghai”（东海），而 Pro 版本代号为“sh",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/493.htm"
-    },
-    {
-      "id": "38503df8-2d23-81a3-88c6-d01310940d40",
-      "title": "魔声推出 Open Ear AC229 开放式耳机：15x7mm 动圈、32 小时续航，209 元",
-      "summary": "IT之家 6 月 20 日消息，魔声旗下 Open Ear AC229 开放式耳机现已在京东发售，定价为 209 元，部分地区国补后低至 169.2 元。京东魔声 Open Ear AC229 耳机 209 元直达链接该耳机采用开放式设计，整体重量 5.6g，外覆亲肤液态硅胶材质，同时支持触控操作。耳机搭载 15x7mm 动圈，支持四麦克风 ENC 降噪通话，配备蓝牙 6.0 技术，单耳续航 8 小时，在搭配充电盒的情况下至高拥有 32 小时续航。IT之家附耳机参数：",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/492.htm"
-    },
-    {
-      "id": "38503df8-2d23-8103-a0fe-e4724f8be3cd",
-      "title": "“大学生维权”促使海南航空修改运输规定：只要航司原因造成航班提前，无论时长多少都能全额退票",
-      "summary": "IT之家 6 月 20 日消息，近期海南航空修改旗下运输规则，只要航司原因造成航班提前，无论时长多少，旅客都能办理非自愿变更或全额退票。作为比较，此前海航设置有所谓“15 分钟门槛”，也就是航班提前超 15 分钟才可免费退改签。IT之家综合新浪财经报道，本次海南航空修改旗下运输规则由一位广东金融学院大学生力争而来。这名学生购买了深圳飞往呼和浩特的早班机票，不过由于航司临时发通知将起飞时间提前 10 分钟，导致该学生额外花费百元在机场附近住宿。事后他向海航申请免费退改签，或是报销住宿开销，却被对方以“航班提前不足十五分钟不予赔付”为由拒绝。学生认为规则存在明显不公：旅客迟到会被判定违约、机票作废",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/491.htm"
-    },
-    {
-      "id": "38503df8-2d23-819d-960a-e7f64017e023",
-      "title": "安卓最强 2nm 芯片：高通骁龙 8 Elite Gen 6 Pro 曝测试类三星 HPB 散热方案，但效果不如 Exynos",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称在骁龙 8 Elite Gen 6 Pro 芯片上，高通尝试类似三星 HPB 的散热技术，但实施后效果不如 Exynos 芯片。IT之家注：HPB 全称为 Heat Path Block，是三星在 Exynos 2600 芯片中引入的散热技术，通过铜基散热块直接接触应用处理器（AP），利用铜的高导热性迅速传导芯片热量至散热结构，从而降低芯片温度、提升性能稳定性。消息源 @Reptalicant 昨日在 X 平台发布推文，爆料称高通有意模仿三星的 HPB 技术，来进一步增强骁龙 8 Elite G",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/490.htm"
-    },
-    {
-      "id": "38503df8-2d23-81b3-ba4d-c178c0b3b4f6",
-      "title": "微星“MAG 321UP QD-OLED X24”31.5 英寸显示器发售：4K 240Hz QD-OLED，5999 元",
-      "summary": "IT之家 6 月 20 日消息，微星旗下“MAG 321UP QD-OLED X24”31.5 英寸显示器目前已在京东发售，该机主打 4K 240Hz，定价为 5999 元。京东微星 流光 X24 MAG 321UP5999 元直达链接MAG 321UP QD-OLED X24 基于第 4 代 QD-OLED 面板（3840x2160 分辨率 240Hz 刷新率），因此其仍采用了 Square-Stripe 子像素排列、5 层 Tandem OLED、EL Gen 3 技术。该显示器 SDR 亮度 300nits、HDR 峰值亮度 1300nits，GtG 响应时间 0.03ms，获得 VES",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/483.htm"
-    },
-    {
-      "id": "38503df8-2d23-8156-a2d1-d3093c0fae4b",
-      "title": "英特尔 AMD 世纪破冰完善 x86 生态，ACE 规范 1.15 公布增强 AI 算力",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本，通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能。IT之家注：为应对 AI 任务的挑战，英特尔和 AMD 公司于 2024 年“世纪破冰”，联合成立了 EAG 小组，协调 x86 架构的未来演进方向，进一步推动 x86 生态规范化和标准化。ACE 全称为 AI Compute Extensions，是一组专为加速人工智能与机器学习负载设计的 x86 指令集，其核心目标是优化矩阵乘法运算（深度学习中最频繁的计算",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/482.htm"
-    },
-    {
-      "id": "38503df8-2d23-815e-b010-c950ccec93c1",
-      "title": "“NAS 型迷你主机”铭凡 N5 MAX 发售：锐龙 AI Max+ 395、配 64G RAM + 128G SSD 售 16999 元",
-      "summary": "IT之家 6 月 20 日消息，铭凡（Minisforum）旗下 N5 MAX 迷你主机现已在京东发售，该机搭载 AMD Ryzen AI Max+ 395 处理器，匹配 64GB RAM 和 128GB 存储空间，定价为 16999 元。这款主机可同时安装 5 块 M.2 固态硬盘（总计 40TB）和 5 块机械硬盘（总计 150TB），整体存储规模最高可达 190TB。同时设备提供 1 个 PCIe 4.0 x4 的 M.2 2280 插槽、1 个 PCIe 4.0 x1 的 M.2 2230/2280 插槽，以及 3 个 PCIe 4.0 x1 的 M.2 2280 插槽。接口方面，N5",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/481.htm"
-    },
-    {
-      "id": "38503df8-2d23-8132-9ab8-d95f2c059a9e",
-      "title": "安卓最强 2nm 芯片：曝高通骁龙 8 Elite Gen 6 Pro 芯片仅有 LPDDR5X/LPDDR6 两个版本",
-      "summary": "IT之家 6 月 20 日消息，消息源 @Reptalicant 昨日（6 月 19 日）在 X 平台发布推文，指出高通目前正测试 6 个骁龙 8 Elite Gen 6 Pro 芯片样品，但该芯片上线后仅有支持 LPDDR5X 的普通版和顶配 LPDDR6 版两个版本。消息源指出，高通骁龙 8 Elite Gen 6 Pro 芯片（SM8975）样品只有 2 个版本，但是经历了 3 次修订，因此在此前爆料中出现了 6 个工程样品。该芯片在上市后只有 2 个版本，时钟频率相同，主要差别是 LPDDR5X 和 LPDDR6。消息称骁龙 8 Elite Gen 6 Pro 芯片是安卓最强 2nm ",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/480.htm"
-    },
-    {
-      "id": "38503df8-2d23-81a8-828b-c5faa957398f",
-      "title": "绿联推出 65W“小冰片”轻薄充电头：2C+1A，14.5mm 厚度，129 元",
-      "summary": "IT之家 6 月 20 日消息，绿联现已在京东上架 65W“小冰片”轻薄充电头，该产品采用 2C+1A 设计（此前 45W 版本为单 USB-C 接口），厚度也因此调整为 14.5mm，定价 129 元。京东绿联 65W 小冰片充电头 129 元直达链接该充电头整体尺寸 84.3x53.3x14.5mm，目前在售银灰配色，使用可折叠插脚设计。其 USB-C1 接口支持 65W 输出、USB-C2 接口支持 30W 输出、USB-A 接口支持 22.5W 输出，兼容 PD、PPS、QC、FCP、SCP 协议。IT之家附产品参数：",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/479.htm"
-    },
-    {
-      "id": "38503df8-2d23-8145-9c55-cf8b194b19d2",
-      "title": "标称写入总量的 25 倍：16 年旧 64GB 固态硬盘 SSD 写入 100 万 GB 仍存活",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 Tom's Hardware 昨日（6 月 19 日）发布博文，报道称最新测试表明，固态硬盘（SSD）的写入总量（TBW）仅为保修参考，而非寿命硬性上限。 YouTube 频道 WolfyTech 昨日（6 月 19 日）发起极限测试，在 1 块 16 年前发布的闪迪 P4 64GB 固态硬盘上测试写入 1PB（按照商业标准计算，约为 1000TB/100 万 GB）写入，该固态硬盘依然存活，是标称值 40 TBW 的 25 倍。IT之家注：TBW 是厂商为 SSD 设定的写入数据量上限，通常以 TB（太字节）为单位，表示在保修期内可安全写入的数据总量",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/478.htm"
-    },
-    {
-      "id": "38503df8-2d23-8183-a584-e002b6521c4b",
-      "title": "先马推出锋 400 侧透机箱：大面积 Mesh 网孔设计、前部标配双 160mm 风扇，首发价 309 元",
-      "summary": "IT之家 6 月 20 日消息，先马现已在京东上架锋 400 侧透机箱，该产品采用大面积 Mesh 网孔设计，标配前置双 16cm+ 后置单 13cm ARGB 风扇，定价为 309 元，6 月 22 日前购买晒单返 20 元 E 卡。京东先马锋 400 机箱 309 元直达链接该机箱整体尺寸为 400 x 230 x 460 mm，容纳 Mini-ITX、Micro-ATX、ATX 主板。机箱正面配备大尺寸 Mesh 网孔，顶部 I/O 面板提供 1 个 USB-A 3.0、1 个 USB-A 2.0、1 个 3.5mm 音频接口。兼容性方面，该机箱 CPU 散热器限高 180mm；显卡限长",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/476.htm"
-    },
-    {
-      "id": "38503df8-2d23-814e-82d6-c504dbb3dbaa",
-      "title": "AMD 回应称重视用户数据安全，非 PRO 锐龙处理器下月重新启用 TSME 内存加密",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 Tom's Hardware 今天（6 月 20 日）发布博文，报道称 AMD 确认下月（2026 年 7 月）通过 BIOS 更新方式，在桌面锐龙 9000 非 PRO 系列等处理器上重新启用透明安全内存加密（TSME）。IT之家此前报道，部分用户反馈 AMD 在 AGESA 1.2.7.0 固件中，悄然移除了 TSME 支持。随后主板厂商微星（MSI）确认 TSME 曾在 AGESA 1.2.6.0 中可用，但新版固件将其禁用。在社区持续反馈后，AMD 表示“非常重视客户数据安全”，Ryzen PRO 系列的 TSME 功能将永久保留；非 PRO ",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/475.htm"
-    },
-    {
-      "id": "38503df8-2d23-8112-8154-c15ce823d3cc",
-      "title": "存在约 1 年时间：微软修复 Win11 JScript 兼容问题",
-      "summary": "IT之家 6 月 20 日消息，微软于 6 月 18 日更新官方支持文档，承认在 Windows 11 系统中存在 JScript 兼容性问题，已存在将近 1 年时间。微软于 2025 年 7 月为提高 Windows 11 系统的安全性，将默认脚本引擎从 jscript9.dll 切换为 jscript9legacy.dll，而在 2025 年 10 月发布的 25H2 中，默认启用 JScript9Legacy，导致系统始终存在兼容性问题。新引擎减少跨站脚本漏洞，但改变了 JScript 组件的执行上下文处理方式，导致在不同脚本间无法持久保留全局定义和状态（旧版引擎自动保留全局定义），进而",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/474.htm"
-    },
-    {
-      "id": "38503df8-2d23-8153-852d-f85f17bb75b9",
-      "title": "索尼商业战略文件删除“PC 多平台战略”表述，再次证明 SIE 未来第一方单机 3A 游戏将全面回归 PS 独占",
-      "summary": "IT之家 6 月 20 日消息，据外媒 Game File 报道，索尼在提交给美国证券交易委员会（SEC）的最新年度商业报告中对 PlayStation 整体战略进行了多项修订和更新。其中不仅新增了有关 AI 技术应用的内容，也删除了此前涉及 PC 和多平台布局的相关表述，这再次证明索尼计划令 PlayStation 单机大作全面回归独占。参考索尼 2025 财年年度报告，其中曾明确写道：“为了进一步扩大旗下 IP 的覆盖范围和商业价值，索尼计划持续推进第一方游戏登陆 PC 等多平台，并通过集团内部协作，将 PlayStation 游戏 IP 改编为电影和电视剧。”但到了最新的 2026 财年",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/473.htm"
-    },
-    {
-      "id": "38503df8-2d23-81dd-8249-d63d27f22524",
-      "title": "微软 Win11 多个通道更新预览版：提升文件管理器稳定性、修复虚拟机死机故障",
-      "summary": "IT之家 6 月 20 日消息，微软昨日（6 月 19 日）发布博文，邀请 Windows Insider 项目成员，测试 Windows 11 预览版，明确更迭迈入 26H2 年度更新版本。Windows 11 26H2 采用 25H2 相同服务分支，通过启用包（eKB）方式推送，用户只需重启一次即可更新到下一个版本。IT之家附上本次更新版本如下：Beta：Build 26220.8690Experimental：Build 26300.8697Beta (26H1)：Build 28020.2308Experimental (26H1)：Build 28120.2315Experiment",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/472.htm"
-    },
-    {
-      "id": "38503df8-2d23-81be-a770-d3a98417b5d7",
-      "title": "超级珊瑚礁被发现：水温高出 2°C 仍生机盎然",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 Ars Technica 昨日（6 月 19 日）发布博文，报道称在全球海洋热浪导致 80% 以上珊瑚白化背景下，科研团队发现一片生机勃勃的珊瑚礁，将其命名为“超级珊瑚礁”（super reefs）。报道称自 2023 年以来，创纪录的海洋热浪席卷热带海域，导致全球超过 80% 的珊瑚礁发生白化。珊瑚因高温排出体内共生的虫黄藻，变白后生存艰难。来自伍兹霍尔海洋研究所的海洋学家安妮 · 科恩（Anne Cohen）在马绍尔群岛马朱罗环礁发现一片色彩斑斓、繁茂生长的珊瑚礁，仿佛从未受热浪影响，随后团队将其命名为“超级珊瑚礁”。IT之家援引博文介绍，科恩自 ",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/471.htm"
-    },
-    {
-      "id": "38503df8-2d23-81bb-a8a0-c4fb4d48e76f",
-      "title": "负面太多 Hold 不住了：特朗普手机公关公司 Poplar Group 宣布终止合作",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 The Verge 昨日（6 月 19 日）发布博文，报道称特朗普手机（T1 phone）的公关团队已正式“离场”，Poplar Group 宣布不再协助 Trump Mobile 展开任何业务。IT之家援引博文介绍，Poplar Group 于 2025 年 6 月接手 Trump Mobile 公关事宜，其创始合伙人克里斯 · 沃克（Chris Walker）向媒体确认，已终止双方合作，后续不再协助 Trump Mobile 展开任何业务。该媒体解读认为，T1 手机自发布以来风波不断，公关团队职责本是为客户化解负面舆论，但面对接二连三的实锤造假，P",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/469.htm"
-    },
-    {
-      "id": "38503df8-2d23-8130-97d3-fd8d7c60130e",
-      "title": "New video game console aims to get kids moving",
-      "summary": "The cube-shaped console will cost £269 (€319) when it is released on 22 June in the UK and Ireland.",
-      "source": "BBC Tech",
-      "publishTime": "2026-06-20",
-      "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "38503df8-2d23-81ba-956b-d314921e109f",
-      "title": "山东济南开启新一轮国补，购买智能摄影设备 / 无人机等单件销售价格超过 6000 元产品可获 10% 补贴",
-      "summary": "IT之家 6 月 20 日消息，据济南市商务局官网，山东济南现已开启新一轮“国补”智能科技消费提质扩容活动，个人消费者购买智能摄影设备、无人机以及单件销售价格超过 6000 元（不含 6000 元）的手机、平板（含学习机）、智能手表（手环）将获得产品扣除各环节优惠后最终销售价格的 10% 补贴，每人每类可补贴 1 件，每件最高补贴 1000 元。IT之家获悉，本轮补贴为线下模式，消费者到参与活动门店选购活动范围内的产品，按照销售人员指引实名认证后出示个人付款码，方可享受支付立减补贴，参与补贴活动产品均须现场激活，具体要求以商户现场为准，IT之家随附销售门店如下（点此访问）。",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/468.htm"
-    },
-    {
-      "id": "38503df8-2d23-81f9-9df0-cecfc94f6ee3",
-      "title": "Pixel 10 等用户反馈升级谷歌安卓 17 后遇触控异常 / 5G 连接中断故障",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。一、触控异常根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其二是系统会将用户的垂直滑动操作方向识别为相反方向。例如，用户向上滑动，界面却向下滚动。在受影响机型方面，IT之家援引博文介绍，目前 Pixel 10 系列、Pixel 9 系列、Pixel 8 系列和 Pixel 7 系列手机用户均反馈存在上述问",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/467.htm"
-    },
-    {
-      "id": "38503df8-2d23-81e3-92ee-c2305de501bb",
-      "title": "RFK Jr. is making it a hot sauerkraut summer at the White House",
-      "summary": "A growing number of men in President Donald Trump's inner circle are eating fermented foods like sauerkraut and yogurt, which can improve gut health.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-20",
-      "link": "https://www.businessinsider.com/sauerkraut-diet-rfk-jr-health-benefits-what-to-know-2026-6"
-    },
-    {
-      "id": "38503df8-2d23-81ad-9852-c49fad7c4b2b",
-      "title": "Anthropic 恰乌里称有信心“未来几天”重新开放 Mythos 及 Fable 5 AI 模型",
-      "summary": "IT之家 6 月 20 日消息，韩国中央日报于 6 月 19 日发布博文，报道称在韩国首尔举办的新闻发布会上，Anthropic 国际董事总经理克里斯 · 恰乌里（Chris Ciauri）表示，公司有信心“未来几天内”向美国之外地区重新开放 Claude Mythos 以及 Claude Fable 5 模型。IT之家此前报道，由于美国白宫安全指令，Anthropic 临时封锁了其前沿模型 Mythos 和 Fable 5 的访问权限。恰乌里在首尔新闻发布会上表示，有信心在“未来几天内”重新开放。恰乌里表示 Anthropic 将深化对韩投资，已开始组建团队，涵盖商业、技术、政策和运营人员，",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/466.htm"
-    },
-    {
-      "id": "38503df8-2d23-81f9-a6f0-d3f264ff3ca2",
-      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-20",
-      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/"
     }
   ],
   "macroEvents": [
