@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-21 06:40",
+  "updatedAt": "2026-06-21 09:57",
   "news": [
+    {
+      "id": "38503df8-2d23-81b7-85c9-dc82f5d13ddc",
+      "title": "消息称三星正在 Galaxy S23/24、Z Fold7 等机型上测试 One UI 9 Beta 版本",
+      "summary": "IT之家 6 月 21 日消息，据外媒 GSMArena 报道，三星正在 Galaxy Z Fold7、Galaxy A56、Galaxy S23、Galaxy S24 系列手机中测试 One UI 9 Beta 版本。目前，适用于相应机型的固件信息已曝光，其中 Galaxy Z Fold7 的测试固件版本号为 F966USQUACZF3；Galaxy A56 固件版本号为 A566BXXUBDZFB；Galaxy S23 固件版本号为 S911BXXUAGZF9。而 Galaxy S24 系列方面，其中标准版 Galaxy S24+ 测试固件版本号为 S926BXXUFEZF7，Galaxy",
+      "source": "IT之家",
+      "publishTime": "2026-06-21",
+      "link": "https://www.ithome.com/0/966/584.htm"
+    },
+    {
+      "id": "38503df8-2d23-8195-9fac-d750f6b741b5",
+      "title": "华硕 ROG Astral RTX 5090 显卡被曝使用半年致主板散热片变色",
+      "summary": "IT之家 6 月 21 日消息，据 Tweaktown 报道，台湾地区一家硬件论坛的用户反馈，其华硕 ROG Astral GeForce RTX 5090 显卡在使用约六个月后，致使华硕 ProArt X870E-Creator WiFi 主板的 PCH 散热片出现明显变色痕迹。整套主机全部采用华硕硬件，机箱选用华硕 ProArt PA602。变色区域位于主板上显卡正下方的位置。该用户表示，用湿布用力擦拭能擦掉一部分印记，但散热片无法恢复出厂原貌；显卡本体外观无任何异常，依旧可以正常运行。如果主机内显卡周边风道设计不佳，出现这类问题的概率会大幅升高。RTX 5090 显卡功耗极高，常规满载功",
+      "source": "IT之家",
+      "publishTime": "2026-06-21",
+      "link": "https://www.ithome.com/0/966/583.htm"
+    },
+    {
+      "id": "38503df8-2d23-812d-b651-c7cacb58f8ac",
+      "title": "三星 Galaxy Watch 9/Ultra 2 智能手表新细节曝光：引入自适应壁纸表盘、指南针应用新增路径标记功能",
+      "summary": "IT之家 6 月 21 日消息，消息源 @GalaxyTechie 通过拆解三星最新 Galaxy Wearable 应用获得了 Galaxy Watch 9/Ultra 2 的新细节。IT之家参考消息源获悉，目前三星正在对系统图标进行新一轮升级，引入全新立体化 3D 风格图标，同步修改了手机端 App 应用界面，为 ECG（心电图）功能页面采用了新的胶囊导航栏设计，令整体界面显得更简洁，也更现代化。而在手表端，泄露内容显示三星将为 Galaxy Watch 9 新增一款自适应壁纸表盘，当壁纸中存在人物、宠物等主体时，时间数字会智能绕开主体边缘进行排布，这项功能最早在手机平台的 One UI ",
+      "source": "IT之家",
+      "publishTime": "2026-06-21",
+      "link": "https://www.ithome.com/0/966/582.htm"
+    },
+    {
+      "id": "38503df8-2d23-816f-9df2-e304663c6b91",
+      "title": "Valve 向所有用户推送 SteamOS 3.8.11 更新，修复桌面模式锁屏虚拟键盘问题",
+      "summary": "IT之家 6 月 21 日消息，Valve 现已向所有 Steam Deck 用户正式推送 SteamOS 3.8.11 版本更新，本次更新为错误修复更新，仅调整了一项与虚拟键盘相关的问题。通用更新修复了桌面模式锁屏界面无法访问虚拟键盘的问题本次更新已经推送给所有稳定版通道用户，Steam Deck 掌机会自动完成版本更新。本文由机器人发布，如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考 ~[微笑]",
+      "source": "IT之家",
+      "publishTime": "2026-06-21",
+      "link": "https://www.ithome.com/0/966/581.htm"
+    },
+    {
+      "id": "38503df8-2d23-81d8-b990-d3dbf8d86db2",
+      "title": "消息称微软 5 月更新致 Windows Server 2019 无法识别 BitLocker 加密移动设备，至今仍未修复",
+      "summary": "IT之家 6 月 21 日消息，据外媒 Borncity 报道，有多名用户反馈微软 Windows Server 2019 的 5 月累积安全更新导致系统无法正确识别通过 BitLocker 加密的移动存储设备，而且这一问题在 6 月更新后仍未完全解决。IT之家参考报道获悉，相应问题最早于 2026 年 5 月 12 日发布的累积更新 KB5087538 中出现，部分管理员在部署后便发现系统无法正常识别通过 BitLocker To Go 加密的 USB 存储设备。有用户反馈称，在安装更新后，原本可以正常使用的 BitLocker 移动硬盘会被识别为 RAW 分区，虽然能够在资源管理器中能看到",
+      "source": "IT之家",
+      "publishTime": "2026-06-21",
+      "link": "https://www.ithome.com/0/966/580.htm"
+    },
     {
       "id": "38503df8-2d23-81c1-a46c-f42b251012fc",
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
@@ -360,46 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-06-20",
       "link": "https://www.businessinsider.com/siri-ai-review-apple-fixes-features-ios27-2026-6"
-    },
-    {
-      "id": "38503df8-2d23-817b-b62b-d4f7b3220a56",
-      "title": "Toy Story has the right take on tech",
-      "summary": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Sam Bankman-Fried and PE Guy and admi",
-      "source": "The Verge",
-      "publishTime": "2026-06-20",
-      "link": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer"
-    },
-    {
-      "id": "38503df8-2d23-81e4-a5b9-c8085140563d",
-      "title": "AI buildout gives tech investors new reasons to watch bond market",
-      "summary": "Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-20",
-      "link": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html"
-    },
-    {
-      "id": "38503df8-2d23-81ec-8e86-dea4a430d9fb",
-      "title": "英国科学家攻克量子传感器噪声难题，有助于探索暗物质与早期宇宙引力波",
-      "summary": "IT之家 6 月 20 日消息，据新华社今日报道，英国帝国理工学院牵头的一支科研团队首次在接近实际应用的实验条件下验证了一项新型量子传感技术，通过比较两台原子干涉仪的测量结果，有效消除了激光带来的背景噪声，即使单次测量信号被噪声淹没，系统仍能恢复出真实信号。这项成果为未来建设大规模量子传感器奠定了技术基础，为捕捉极早期宇宙的引力波信号和难以探测的暗物质踪迹铺平了道路。▲ 在将原子冷却至接近绝对零度之前，对蓝色激光的偏振进行调整该研究属于英国原子干涉仪观测站与网络（AION）计划的一部分，由英国帝国理工学院牵头，联合伯明翰大学、剑桥大学、利物浦国王学院、牛津大学以及英国科学技术设施委员会卢瑟福 ",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/546.htm"
-    },
-    {
-      "id": "38503df8-2d23-81ab-8b9b-f3f09e7e5c88",
-      "title": "安徽大学首次以第一单位在《自然》发文：研制出三维光纤微镊，实现“以光驭力”精密微操控",
-      "summary": "IT之家 6 月 20 日消息，安徽大学光电信息获取与防护技术全国重点实验室青年教师潘登博士，与中国科学技术大学吴东教授、胡衍雷教授团队合作，在微纳操控领域取得重要突破。相关研究成果于 6 月 17 日以《面向高性能三维微操控的光纤微镊》（Optical fibre gripper for high-performance 3D micromanipulation）为题发表在国际学术期刊《自然》上。安徽大学助理研究员潘登为论文第一作者，中国科学技术大学吴东教授、胡衍雷教授、汪超炜教授以及合肥工业大学张晨初副研究员为共同通讯作者，安徽大学为论文的第一署名单位。这也是安徽大学首次在《自然》期刊上以",
-      "source": "IT之家",
-      "publishTime": "2026-06-20",
-      "link": "https://www.ithome.com/0/966/545.htm"
-    },
-    {
-      "id": "38503df8-2d23-813a-b044-f6c4535c5b97",
-      "title": "I was my mother's caregiver until her death. Four years later, I'm still struggling with the $17,000 medical debt.",
-      "summary": "When my mother got sick, I moved her in with me, which meant I had to cut back work hours and pay medical bills. I'm still paying the price.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-20",
-      "link": "https://www.businessinsider.com/mothers-caregiver-still-in-medical-debt-2026-6"
     }
   ],
   "macroEvents": [
