@@ -1,6 +1,214 @@
 {
-  "updatedAt": "2026-06-23 02:55",
+  "updatedAt": "2026-06-23 05:37",
   "news": [
+    {
+      "id": "38703df8-2d23-8100-ade6-e1edbdbcca9f",
+      "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models.",
+      "source": "Wired",
+      "publishTime": "2026-06-23",
+      "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"
+    },
+    {
+      "id": "38703df8-2d23-8130-a377-f0149aaa931c",
+      "title": "The US Army has a new self-contained Pacific command built for a complex fight",
+      "summary": "The Army combined maneuver forces and weapons across cyber, space, electronic warfare, and fires into a new one-of-a-kind command.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-23",
+      "link": "https://www.businessinsider.com/us-army-new-pacific-command-built-for-a-complex-fight-2026-6"
+    },
+    {
+      "id": "38703df8-2d23-81a7-b54e-e152cbe16053",
+      "title": "Meta pauses an AI training program that tracks employees' keystrokes after a companywide leak",
+      "summary": "Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-23",
+      "link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
+    },
+    {
+      "id": "38703df8-2d23-8196-9d3f-e2aaec12e75f",
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-23",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/"
+    },
+    {
+      "id": "38703df8-2d23-81bd-a9ea-f4d7e2da76b2",
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-23",
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/"
+    },
+    {
+      "id": "38703df8-2d23-8196-b091-fb62c072c624",
+      "title": "I made Ina Garten's easy pasta salad. It's so good that I'll be bringing it to every cookout this summer.",
+      "summary": "I tried Ina Garten's easy pasta salad recipe, and it's my new go-to for summer barbecues. It was briny, refreshing, and different from other recipes.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-23",
+      "link": "https://www.businessinsider.com/ina-garten-easy-pasta-salad-recipe-chef-review-2026-6"
+    },
+    {
+      "id": "38703df8-2d23-814c-8f1f-dc26104aded1",
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It",
+      "source": "The Verge",
+      "publishTime": "2026-06-23",
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"
+    },
+    {
+      "id": "38703df8-2d23-81d5-800e-ee388ac5152b",
+      "title": "MrBeast has hired a team from an A16z-backed startup as he races to build a creator platform",
+      "summary": "MrBeast's company hired the CEO and others from the creator-commerce startup Pietra. YouTube's top star wants to match brands with creators.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-23",
+      "link": "https://www.businessinsider.com/mrbeast-hiring-pietra-startup-team-build-creator-platform-2026-6"
+    },
+    {
+      "id": "38703df8-2d23-819e-be61-d81cb04e9d3f",
+      "title": "Donald Trump unveiled a new presidential jet gifted by Qatar. Here's how Air Force One has changed through the years.",
+      "summary": "Nicknamed the \"flying Oval Office,\" modern Air Force One planes are equipped with everything the president might need.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-23",
+      "link": "https://www.businessinsider.com/air-force-one-photos-through-history-2021-8"
+    },
+    {
+      "id": "38703df8-2d23-8171-b93b-f2d76a8bdba5",
+      "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+      "summary": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-23",
+      "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
+    },
+    {
+      "id": "38703df8-2d23-8180-8d8b-dadde4c8af9a",
+      "title": "Chip and Joanna Gaines are selling the 135-year-old castle they renovated for nearly $2.7 million. Take a look inside.",
+      "summary": "\"Fixer Upper\" stars Chip and Joanna Gaines are selling the castle they restored in Waco for nearly $2.7 million. Check out the historic property.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-23",
+      "link": "https://www.businessinsider.com/inside-chip-and-joanna-gaines-renovated-castle-waco-photos-2023-7"
+    },
+    {
+      "id": "38703df8-2d23-811d-bd24-e94a8d82e732",
+      "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
+      "summary": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPhones.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-23",
+      "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/"
+    },
+    {
+      "id": "38703df8-2d23-81af-92b1-f43827cd88b2",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-23",
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
+    },
+    {
+      "id": "38703df8-2d23-812d-95cc-d8bd89493b8f",
+      "title": "Uber is set for a payday from Lime's IPO — and is interested in doubling down on the scooter bet",
+      "summary": "Uber is Lime's largest shareholder with a 24% stake. The scooter company filed plans for an IPO, targeting a price of $24 to $26 per share.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-23",
+      "link": "https://www.businessinsider.com/uber-stake-in-lime-ipo-value-business-strategy-2026-6"
+    },
+    {
+      "id": "38703df8-2d23-8181-b6ff-e95a7ade37e5",
+      "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
+      "summary": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
+      "source": "Wired",
+      "publishTime": "2026-06-23",
+      "link": "https://www.wired.com/gallery/best-mushroom-coffee/"
+    },
+    {
+      "id": "38703df8-2d23-81e4-a663-d0ed123024cc",
+      "title": "Anthropic says Claude may want to see your ID",
+      "summary": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-23",
+      "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/"
+    },
+    {
+      "id": "38703df8-2d23-816b-b53b-dc1db0308c14",
+      "title": "The Steam Machine is the start of an even more expensive future for game consoles",
+      "summary": "It's no secret that just about every aspect of video games is getting more expensive. Game consoles are getting regular price hikes, PC components are spiking in cost, and the golden age of affordable handhelds is over, all largely due to the global RAM shortage, which has had a similarly costly imp",
+      "source": "The Verge",
+      "publishTime": "2026-06-23",
+      "link": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix"
+    },
+    {
+      "id": "38703df8-2d23-8166-9943-e5738cd8a87c",
+      "title": "The Apple Watch SE 3 is just $199 for Prime Day",
+      "summary": "The Apple Watch SE 3 is at an all-time low of $199, making the sleeper hit of last year’s Apple Watches an even better value. While the Series 11 and Ultra 3 were iterative updates, the SE 3 was a wide-ranging glow-up that added an always-on display, gestures like double tap and wrist flick, a […]",
+      "source": "The Verge",
+      "publishTime": "2026-06-23",
+      "link": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale"
+    },
+    {
+      "id": "38703df8-2d23-8179-8cd7-c425cfdd287c",
+      "title": "28 celebrities who have left Los Angeles on where they moved and why they did it",
+      "summary": "Celebrities like Matthew McConaughey, Sylvester Stallone, and Amanda Seyfried left Los Angeles for other places that offer privacy and lower taxes.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-23",
+      "link": "https://www.businessinsider.com/celebrities-left-los-angeles-california-why-where-they-moved"
+    },
+    {
+      "id": "38703df8-2d23-81a3-85c2-f9a21e22bbf6",
+      "title": "I ordered the same meal from Olive Garden and Carrabba's, and the winner blew me away with its generous portions",
+      "summary": "I compared bread, salads, entrées, and desserts from Olive Garden and Carrabba's to see which Italian-American chain had the better dishes and deals.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-23",
+      "link": "https://www.businessinsider.com/olive-garden-vs-carrabbas-which-is-better-review-photos-2026-6"
+    },
+    {
+      "id": "38703df8-2d23-81e9-9ba2-e73705ec69ac",
+      "title": "Lucid's goal to 'simplify' the company includes 18% layoffs — and eliminating the COO role entirely",
+      "summary": "Lucid is conducting layoffs as it looks to \"simplify the company\" and \"sharpen execution,\" a spokesperson said in a statement.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-23",
+      "link": "https://www.businessinsider.com/lucid-layoffs-coo-role-eliminated-2026-6"
+    },
+    {
+      "id": "38703df8-2d23-81f2-befe-cfcda6b83f92",
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-23",
+      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/"
+    },
+    {
+      "id": "38703df8-2d23-815e-aaab-e978ddebce1e",
+      "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 2 发布",
+      "summary": "【点此直达升级教程】 IT之家 6 月 23 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 2 更新（内部版本号：24A5370h），本次更新距离上次发布 Beta/RC 间隔 14 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 i",
+      "source": "IT之家",
+      "publishTime": "2026-06-23",
+      "link": "https://www.ithome.com/0/967/241.htm"
+    },
+    {
+      "id": "38703df8-2d23-81d0-8808-f7dd3b3dbc91",
+      "title": "苹果 macOS 27.0 开发者预览版 Beta 2 发布",
+      "summary": "IT之家 6 月 23 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 2 更新（内部版本号：26A5368g），本次更新距离上次发布 Beta/RC 间隔 14 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / macOS 固件下载",
+      "source": "IT之家",
+      "publishTime": "2026-06-23",
+      "link": "https://www.ithome.com/0/967/242.htm"
+    },
+    {
+      "id": "38703df8-2d23-81d6-ad67-fed865f7c7b0",
+      "title": "苹果 visionOS 27.0 开发者预览版 Beta 2 发布",
+      "summary": "IT之家 6 月 23 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 2 更新（内部版本号：24M5306i），本次更新距离上次发布 Beta/RC 间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-06-09：visionOS 27 Beta (24M5291p) IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑]",
+      "source": "IT之家",
+      "publishTime": "2026-06-23",
+      "link": "https://www.ithome.com/0/967/243.htm"
+    },
+    {
+      "id": "38703df8-2d23-812d-bd47-cf06ff04d976",
+      "title": "苹果 watchOS 27.0 开发者预览版 Beta 1 发布",
+      "summary": "【点此直达升级教程】 IT之家 6 月 23 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 1 更新（内部版本号：24R5289n）。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大",
+      "source": "IT之家",
+      "publishTime": "2026-06-23",
+      "link": "https://www.ithome.com/0/967/244.htm"
+    },
     {
       "id": "38703df8-2d23-81dd-815f-c26e6ad0ac9e",
       "title": "Google invests in A24 to build AI movie tools",
@@ -192,214 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-06-22",
       "link": "https://www.cnbc.com/2026/06/22/these-2-stocks-could-be-big-winners-from-the-next-generation-of-ai-chips.html"
-    },
-    {
-      "id": "38703df8-2d23-8184-b253-fd728f520999",
-      "title": "谷歌 DeepMind 杰出工程师费恩伯格：想进入顶尖 AI 实验室，得“像条狗一样拼命干”",
-      "summary": "IT之家 6 月 22 日消息，据《商业内幕》22 日（今天）报道，谷歌 DeepMind 杰出工程师、Gemini 预训练负责人弗拉基米尔 · 费恩伯格表示，要想进入顶尖 AI 实验室，求职者可能仍要采用一种出人意料的传统办法：“像狗一样拼命干（Work like a dog）。”费恩伯格近期发表了一篇题为《如何获得前沿实验室职位》的博客文章，介绍希望进入 OpenAI、Anthropic 和谷歌 DeepMind 等前沿 AI 实验室的求职者需要具备哪些条件。费恩伯格表示，前沿 AI 实验室职位竞争异常激烈，“顶尖大学里始终有一批最优秀的本科生和博士生。他们在顶级会议上从事机器学习研究，参",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/237.htm"
-    },
-    {
-      "id": "38703df8-2d23-8151-8ef3-e4faf57f215a",
-      "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah, and invests $900M in startup",
-      "summary": "WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-22",
-      "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/"
-    },
-    {
-      "id": "38703df8-2d23-819b-8ee5-e784c180ddb9",
-      "title": "合约最高价值 63 亿美元，SpaceX 与开源 AI 初创企业 Reflection 签署算力合作协议",
-      "summary": "IT之家 6 月 22 日消息，据 CNBC 报道，SpaceX 已与开源 AI 初创企业 Reflection AI 签署了一项算力合作协议，最高价值可达 63 亿美元（IT之家注：现汇率约合 427.71 亿元人民币）。根据该协议，Reflection 将立即获得英伟达 GB300 AI 芯片的使用权，这些芯片主要用于训练和运行高级模型。Reflection 同意从 2026 年 7 月 1 日至 2029 年底，每月向 SpaceX 支付 1.5 亿美元（现汇率约合 10.18 亿元人民币）。如果该协议执行至期满，总支付金额将达到约 63 亿美元。IT之家注意到，协议还提到，合约生效满三",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/236.htm"
-    },
-    {
-      "id": "38703df8-2d23-81b9-8fb8-f5573dc26154",
-      "title": "消息称三星显示已获苹果量产认证，将为折叠屏 iPhone 独供 OLED 面板",
-      "summary": "IT之家 6 月 22 日消息，据韩媒 The Elec 今天（22 日）援引业内人士消息称，苹果已经批准三星显示启动折叠 OLED 模组生产。三星显示已启用越南工厂的部分后段产线，首批约 300 万块面板计划在今年交付。模组量产认证是面板供应商正式供货前必须通过的审核，主要检验最终组装质量、产品性能和量产稳定性。消息称苹果要求良率至少达到 70%，三星显示最终良率超过 80%，顺利通过认证。三星显示将独家供应苹果首款折叠屏手机所需的 OLED 面板。双方已签署为期三年的独家供货协议，合同期内，苹果不会从其他供应商采购折叠 OLED 面板，今年首批出货量预计约为 300 万块。面板后段制程由三",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/235.htm"
-    },
-    {
-      "id": "38703df8-2d23-813b-b479-c625afa53d90",
-      "title": "开辟新赛道：小米 YU7 GT 创全球首个纽北自动驾驶圈速纪录，官方圈速榜新增“自动驾驶”分类",
-      "summary": "IT之家 6 月 22 日消息，小米汽车今日官宣，小米 YU7 GT 达成全球首个纽北自动驾驶圈速纪录，时间为 10 分 29 秒 483。小米创办人、董事长兼 CEO 雷军今日分享了小米 YU7 GT 使用自动驾驶功能征战纽北赛道后发生的一处细微变化 —— 纽北官方圈速榜新增“自动驾驶”分类。据IT之家今日早些时候报道，央视新闻今日发文谈及了小米此次取得的成绩，称从追赶到领跑，从跟跑到开创，这是中国新能源汽车蓬勃向上的缩影。今天，小米公布，纽博格林北环赛道迎来历史性时刻 —— 小米 YU7 GT（选配赛道专业套装）搭载自主研发的自动驾驶系统，在全程无人状态下完成纽北官方计时圈，成绩 10 分",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/234.htm"
-    },
-    {
-      "id": "38703df8-2d23-81c6-a539-e6e007cdb1e2",
-      "title": "The CEO of Lovable says talent was never the issue with Europe's AI scene",
-      "summary": "Lovable CEO Anton Osika says Europe's AI challenge isn't talent, but belief that world-class startups can be built outside Silicon Valley.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-22",
-      "link": "https://www.businessinsider.com/european-ai-startups-confidence-problem-not-talent-problem-lovable-ceo-2026-6"
-    },
-    {
-      "id": "38703df8-2d23-815c-a6ce-dcd6c7e834b2",
-      "title": "宁德时代许金梅：今年 9 月开始交付首批钠离子电池解决方案，预计年底实现 GWh 级出货量",
-      "summary": "IT之家 6 月 22 日消息，据每日经济新闻，宁德时代储能事业部首席技术官、欧洲区总裁许金梅今日在宁德时代储能新品发布会上表示，在中国市场，宁德时代将于今年 9 月开始向客户交付首批钠离子电池解决方案，并预计在 2026 年底实现 GWh 级的出货量；全球市场将在明年 6 月开始正式交付。许金梅表示，通过技术强化材料的结构及制造的一致性等，宁德时代已经大幅提升了钠离子电池储能产品的良率，且成本低于行业平均水平 10%~20%。许金梅还透露：“目前我们的量产生产线已全部投产，且正常运行，为大规模商业化部署提供了稳定制造基础。”与锂离子电池相比，钠离子电池的原材料资源更为丰富，且具备成本优势。钠",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/233.htm"
-    },
-    {
-      "id": "38703df8-2d23-81df-8a44-f3b12f8dcaae",
-      "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
-      "summary": "SpaceX has turned its Colossus data center into a commercial computing power platform, landing recent deals with Anthropic, Google and Cursor.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-22",
-      "link": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html"
-    },
-    {
-      "id": "38703df8-2d23-81d0-9183-e144487fbe96",
-      "title": "国漫《武动乾坤》第七季最新 PV 上线：林动修成大荒芜经迎战元门弟子，首播时间待定",
-      "summary": "IT之家 6 月 22 日消息，《武动乾坤》动画官方微博今日发布了《武动乾坤》第七季最新 PV 和全新海报，首播时间待定。宗派大战屠元门，绝境处同生共死！荒殿修行，搅动宗门风云，修成大荒芜经。林动投身宗派大赛，孤身一人迎战元门弟子，壮我道宗！IT之家注：国漫《武动乾坤》改编自天蚕土豆同名小说，第一季已于 2019 年 1 月播出，今年已经是连载的第七个年头。原著小说讲述了落魄林氏子弟林动，在小貂帮助下踏上修行一途为父复仇，后闯荡天玄大陆，最终踏入祖境（武祖）护佑苍生迎战异魔皇的故事。官方宣传海报显示，本季登场的角色包括小炎（林炎）、小貂（林貂）、林动（男主）、应欢欢（女主）、绫清竹（女主）等，",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/232.htm"
-    },
-    {
-      "id": "38703df8-2d23-812e-b2ec-ed305892b315",
-      "title": "滨口直树：完成《最终幻想 7：重制版》三部曲后，想挑战参与全新大型 RPG 游戏",
-      "summary": "IT之家 6 月 22 日消息，据外媒 VGC 今晚报道，《最终幻想 7：重制版》三部曲总监滨口直树透露，完成三部曲后，自己希望挑战全新的大型 RPG，而不是继续参与重制项目。三部曲最终章《最终幻想 7：启示录》将于 2027 年春季发售。不同于限时由 PlayStation 主机独占的前两部作品，新作将同步登陆 PS5、Xbox Series X/S、Switch 2 和 PC。《最终幻想 7：启示录》上市后，这项延续 12 年的重制计划也将正式收官。首部作品早在 2015 年 E3 游戏展上公布，滨口直树也将十多年来首次把主要精力转向其他项目。滨口直树称，自己已经注意到不少玩家对他希望接手",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/231.htm"
-    },
-    {
-      "id": "38703df8-2d23-81e2-afd5-cc980c6a0655",
-      "title": "《古墓丽影：亚特兰蒂斯遗迹》游戏实机视频公布，2027 年 2 月 13 日发售",
-      "summary": "IT之家 6 月 22 日消息，古墓丽影官方今日公布了《古墓丽影：亚特兰蒂斯遗迹》最新实机视频，这款游戏将于北京时间 2027 年 2 月 13 日发售，steam 国区标准版游戏售价 268 元。 《古墓丽影：亚特兰蒂斯遗迹》被定位为劳拉 · 克劳馥首次冒险旅程的重启版作品，在保留原作核心氛围的基础上，对画面表现与玩法系统进行了全面升级，同时还加入了“致敬初代精神”的全新内容。本作基于 Unreal Engine 5 开发，已官宣将登陆 PS5、Xbox Series X｜S、Switch 2 和 PC 平台。针对 Switch 2 平台，开发团队承诺会提供经过专门优化的流畅玩法与主机级画面",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/230.htm"
-    },
-    {
-      "id": "38703df8-2d23-816b-8470-f4408754f37a",
-      "title": "华为乾崑｜启境 GT7“新一代智能猎装”进入量产阶段，广汽集团公开新车核心亮点",
-      "summary": "IT之家 6 月 22 日消息，华为乾崑｜启境汽车官方今日宣布，6 月 22 日，启境 GT7 首台量产车正式下线。官方同时宣布，6 月 26 日，启境 GT7 将正式上市。广汽集团官方今日发文，详细介绍了华为乾崑｜启境 GT7 的核心亮点。该车定位“新一代智能猎装”，兼顾优雅设计、极致驾控与全场景实用性，预售价 21.99 万元-30.99 万元。启境 GT7 还搭载新一代华为乾崑 ADS 5 高阶智能辅助驾驶系统、新一代双光路图像级激光雷达、全新一代鸿蒙座舱 HarmonySpace，并率先应用华为乾崑赤兔平台。新车全系标配宁德时代电池、闭式双腔空气悬架、连续阻尼可调减震器与高性能四活塞固",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/229.htm"
-    },
-    {
-      "id": "38703df8-2d23-8195-8c1b-d92964902f64",
-      "title": "After spending hundreds of hours on Amtrak trains, I always prepare for 5 mishaps that can make journeys more difficult",
-      "summary": "I've taken long-haul Amtrak trains around the US, so I've encountered my fair share of problems. Here's how I prepare for trips to make them easier.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-22",
-      "link": "https://www.businessinsider.com/preparing-long-amtrak-rides-problems-frequent-traveler-2026-6"
-    },
-    {
-      "id": "38703df8-2d23-81f3-8b14-fec9520dafb3",
-      "title": "Aviation's most outspoken CEO is in line for a $175 million payday",
-      "summary": "Ryanair's Michael O'Leary has previously justified his big pay packets by comparing himself to soccer star Kylian Mbappe.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-22",
-      "link": "https://www.businessinsider.com/ryanairs-outspoken-ceo-could-get-a-175-million-payday-2026-6"
-    },
-    {
-      "id": "38703df8-2d23-8101-abe9-fee4e6c9e318",
-      "title": "U.S.-Iran roadmap, Greenspan dies at 100, Starmer resigns and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-22",
-      "link": "https://www.cnbc.com/2026/06/22/5-things-to-know-before-the-stock-market-opens.html"
-    },
-    {
-      "id": "38703df8-2d23-81ad-a9fc-f69fa4540f80",
-      "title": "14 岁微软 Surface RT 喜提主线 Linux 内核驱动，能正常读取电池信息、充电状态了",
-      "summary": "IT之家 6 月 22 日消息，据外媒 Phoronix 今晚（22 日）报道，微软 14 年前发布首代 Surface 二合一平板设备 Surface RT，并希望凭借其与苹果 iPad 竞争。时隔 14 年，搭载英伟达 Tegra 3 的 Surface RT 终于获得主线 Linux 内核驱动，可以在 Linux 下正常读取电池信息和充电状态。据IT之家了解，用户可以在 Linux 7.2 中使用新增的“surface-rt-ec”驱动。该驱动负责与 Surface RT 的嵌入式控制器（EC）通信，通过 BATTERY_CHARGER_SURFACE_RT Kconfig 选项启用。开",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/228.htm"
-    },
-    {
-      "id": "38703df8-2d23-819a-ac80-ef7ff3d59e44",
-      "title": "消息称 vivo X Fold5 折叠屏手机累计销量超 52 万台：除华为外唯一突破 50 万台销量的大折",
-      "summary": "IT之家 6 月 22 日消息，vivo X Fold6 折叠屏手机将于 6 月 26 日发布，长期关注国内手机市场份额的博主 @RD观测 今晚透露了 vivo X Fold5 的市场表现。博主称，截至上月底，vivo X Fold5 的累计 Sell out 已经突破 52 万台。这应该是除华为之外历史累计 Sell out 唯一突破 50 万台的大折，算是行业爆款单品了。据IT之家此前报道，vivo X Fold5 折叠屏发布于 2025 年 6 月，搭载骁龙 8 Gen3 处理器，电池容量 6000mAh，重约 217g，售价 6999 元起：12GB+256GB：6999 元12GB+",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/227.htm"
-    },
-    {
-      "id": "38703df8-2d23-8179-9522-ccfaaaeb9153",
-      "title": "用高分子把纳米颗粒“锁扣”起来：我国新型光热蒸发材料实现高效太阳能海水淡化",
-      "summary": "IT之家 6 月 22 日消息，据中国科学院过程工程研究所消息，该所与深圳大学联合团队提出一种高分子“锁扣”机制，成功将纳米颗粒编织成三维光热蒸发材料，使太阳能海水蒸发速率大幅提升，并通过户外试验装置，实现了从海水淡化到农业灌溉的初步探索。据介绍，全球四分之一人口面临严重的水资源短缺，预计 2030 年淡水缺口将达 40%。太阳能驱动界面蒸发凭借绿色低碳、安全高效的优势，成为极具前景的淡水生产技术，该技术的核心是高性能光热材料。纳米粉体材料因比表面积大、能带结构可调，展现出优异的光热转换性能。但在三维宏观组装中遇到两大难题：一是结构化组装难题，颗粒易团聚，导致效能衰减，且三维结构强度低、成本高",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/226.htm"
-    },
-    {
-      "id": "38703df8-2d23-81d6-8589-de1b5e327b7d",
-      "title": "SpaceX makes bond sale days after record IPO, discloses over $100 billion cash pile",
-      "summary": "SpaceX on Monday unveiled a senior unsecured notes offering and said it held about $100.8 billion in cash.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-22",
-      "link": "https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html"
-    },
-    {
-      "id": "38703df8-2d23-81e9-bc7b-fcff7dd86f1b",
-      "title": "I've been to all 63 major US national parks. Here are 10 things I'd never visit one without.",
-      "summary": "As someone who's traveled to all 63 major US national parks, I always pack a first-aid kit, multiple layers of clothing, sun protection, and snacks.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-22",
-      "link": "https://www.businessinsider.com/things-to-bring-national-parks-packing-list-frequent-traveler"
-    },
-    {
-      "id": "38703df8-2d23-81dd-b8ec-eb3b7ca51005",
-      "title": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app",
-      "summary": "Instagram is coming for streaming services like Netflix and Amazon Prime Video as it sets its ambitions for living room viewing.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-22",
-      "link": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/"
-    },
-    {
-      "id": "38703df8-2d23-8192-8c71-c571fdd0d7bc",
-      "title": "履新第一剑先“斩”老员工，美造车新势力 Lucid 宣布裁员 18%",
-      "summary": "IT之家 6 月 22 日消息，当地时间 22 日（今天），美国造车新势力 Lucid 宣布，在新任 CEO 西尔维奥 · 纳波利推进重组之际，将裁减 18% 的员工，约 1500 人受到影响。四个月前，Lucid 刚刚裁员 12%。亚利桑那州卡萨格兰德工厂的汽车第二班生产也已取消。Lucid 表示，本轮裁员旨在配合纳波利所提出的精简公司架构、提高执行效率，并增强长期竞争力。裁员之际，Lucid 正准备在今年晚些时候推出首款面向大众市场的 Lucid Cosmos SUV。Lucid Cosmos 起售价预计低于 5 万美元（IT之家注：现汇率约合 33.9 万元人民币），公司希望通过价格更低",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/224.htm"
-    },
-    {
-      "id": "38703df8-2d23-8189-ba64-ec0e7a24f04c",
-      "title": "Prudential Financial's lead marketer says taste will win out over 'generic AI'",
-      "summary": "Prudential CMO Richard Parkinson discusses PGIM's claymation campaign \"Keep Asking\" and its impact on advertising norms and customer engagement.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-22",
-      "link": "https://www.businessinsider.com/prudential-cmo-richard-parkinson-pgim-claymation-campaign-2026-6"
-    },
-    {
-      "id": "38703df8-2d23-816f-ae6d-f61b2cda0456",
-      "title": "Delivery robot startup Robot.com is betting its next act on workplace humanoids",
-      "summary": "Robot.com is expanding beyond campus-delivery bots with a new wheeled-humanoid that the company said can be deployed across several industries.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-22",
-      "link": "https://www.businessinsider.com/delivery-robot-startup-robot-com-bets-on-workplace-humanoids-2026-6"
-    },
-    {
-      "id": "38703df8-2d23-8144-9d69-f6d632b6def7",
-      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-22",
-      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/"
-    },
-    {
-      "id": "38703df8-2d23-81c2-8ab4-d1ac5e9fc094",
-      "title": "美光与 Anthropic 达成战略合作，包含 AI 存储供应、技术研发及股权投资",
-      "summary": "IT之家 6 月 22 日消息，美光科技于当地时间 6 月 22 日宣布，与 AI 公司 Anthropic 达成战略合作协议，共同扩展下一代人工智能基础设施。IT之家从官方新闻稿获悉，双方合作协议包括内存与存储 AI 架构设计、长期供应协议、美光全面引入 Claude，以及对 Anthropic 的 H 轮融资进行战略投资等内容。根据协议，双方将共同研究 HBM、DRAM 及 SSD 等关键技术在 AI 训练和推理场景中的应用，优化 AI 基础设施的性能、能效和成本结构。此外，美光已与 Anthropic 签署覆盖其数据中心产品组合的长期内存和存储供应协议，为 Anthropic 未来多年算",
-      "source": "IT之家",
-      "publishTime": "2026-06-22",
-      "link": "https://www.ithome.com/0/967/223.htm"
     }
   ],
   "macroEvents": [
