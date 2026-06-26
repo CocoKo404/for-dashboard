@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-26 06:54",
+  "updatedAt": "2026-06-26 09:36",
   "news": [
+    {
+      "id": "38a03df8-2d23-812d-8a40-c4825c9c5eb9",
+      "title": "The abundant but expensive energy source that's under your feet",
+      "summary": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+      "source": "BBC Tech",
+      "publishTime": "2026-06-26",
+      "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "38a03df8-2d23-81fa-8b50-f2603e277f54",
+      "title": "华为与湖北移动完成全国运营商首个 AI 推理加速方案现网测试，长序列 Token 吞吐率提升 372%",
+      "summary": "IT之家 6 月 26 日消息，6 月 24 日，在 2026 MWC 上海展期间，华为与中国移动通信集团湖北有限公司（IT之家注：以下简称“湖北移动”）联合宣布，双方已成功完成全国运营商首个 AI 推理加速解决方案现网测试。据介绍，该测试基于华为 OceanStor A800 存储与昇腾 A3 超节点架构，搭载 UCM (Unified Cache Manager，推理记忆数据管理)，在长序列 AI 推理场景下，实现了 Token 吞吐率最高可提升 372% 的突破性成果。文章称，随着 AI 应用加速向 Agent（智能体）形态演进，长上下文序列（如代码生成、多轮对话）已成为典型场景，但传统",
+      "source": "IT之家",
+      "publishTime": "2026-06-26",
+      "link": "https://www.ithome.com/0/968/730.htm"
+    },
+    {
+      "id": "38a03df8-2d23-811f-85af-e56cfd5f69e4",
+      "title": "古尔曼：苹果罕见调整 Mac 芯片规划，跳过 M6 Pro / Max、押注 AI 导向的 M7 系列",
+      "summary": "IT之家 6 月 26 日消息，彭博社的马克 · 古尔曼（Mark Gurman）在最新 Power On 通讯简报中爆料，苹果公司计划调整 M6 和 M7 系列芯片规划，跳过 M6 Pro 和 M6 Max，转而把研发重心放在更注重 AI 计算的 M7 系列芯片。M6 芯片消息称苹果公司计划 2026 年晚些时候随新款 MacBook Pro 推出 M6 芯片，不过这一代仅有 M6 标准版，没有 Pro 和 Max 版本。规格方面，苹果 M6 标准版的内存带宽将提高到 200GB/s（M5 标准版为 153 GB/s），苹果计划引入新的内存架构，并升级 Neural Engine（神经网络引",
+      "source": "IT之家",
+      "publishTime": "2026-06-26",
+      "link": "https://www.ithome.com/0/968/729.htm"
+    },
+    {
+      "id": "38a03df8-2d23-8172-ba05-f9e5b66d9443",
+      "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
+      "summary": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming months, the virtual controller emulates physical butto",
+      "source": "The Verge",
+      "publishTime": "2026-06-26",
+      "link": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller"
+    },
+    {
+      "id": "38a03df8-2d23-812e-bb42-e72adaf454f5",
+      "title": "Venezuela’s Powerful Earthquakes Were a Rare ‘Seismic Doublet’",
+      "summary": "The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another.",
+      "source": "Wired",
+      "publishTime": "2026-06-26",
+      "link": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/"
+    },
+    {
+      "id": "38a03df8-2d23-8182-9ed3-ddb918ea4931",
+      "title": "YouTube updates Shorts to make it even more like TikTok",
+      "summary": "YouTube is adding even more TikTok-like features to Shorts, including a new \"clear screen\" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube says it's also replacing the \"thumbs-up\" button with a \"heart\" icon, and is introducing a new option tha",
+      "source": "The Verge",
+      "publishTime": "2026-06-26",
+      "link": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok"
+    },
+    {
+      "id": "38a03df8-2d23-8132-a32e-e05109ce2049",
+      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+      "summary": "YouTube Shorts is getting a makeover.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-26",
+      "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/"
+    },
+    {
+      "id": "38a03df8-2d23-810f-9950-fd251c85003c",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited previe",
+      "source": "The Verge",
+      "publishTime": "2026-06-26",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request"
+    },
+    {
+      "id": "38a03df8-2d23-81c3-991d-c28e16bcbd75",
+      "title": "An Iran peace deal doesn't mean cheaper fares. That's great news for airline stocks.",
+      "summary": "Airline stocks are rallying as oil prices plummet and CEOs say airfares are unlikely to fall even if the US-Iran conflict ends.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-26",
+      "link": "https://www.businessinsider.com/flight-prices-stay-high-despite-us-peace-deal-iran-2026-6"
+    },
+    {
+      "id": "38a03df8-2d23-813d-80ab-fff46e3ab49b",
+      "title": "Framework has good news and bad news",
+      "summary": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good news on Thursday that might mean yours will cost less […]",
+      "source": "The Verge",
+      "publishTime": "2026-06-26",
+      "link": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu"
+    },
     {
       "id": "38a03df8-2d23-815b-8a62-c0b0d80cedd3",
       "title": "On Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
@@ -320,86 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-06-26",
       "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/"
-    },
-    {
-      "id": "38a03df8-2d23-811c-8ac4-d425ebca2766",
-      "title": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-26",
-      "link": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"
-    },
-    {
-      "id": "38a03df8-2d23-8126-9987-fba7a4047074",
-      "title": "I never planned to leave New York City, but moving back to my Florida hometown helped me pursue my dream career",
-      "summary": "I never planned on leaving New York for my Florida hometown, but we decided to return after having a baby. The move helped me switch to my dream job.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-25",
-      "link": "https://www.businessinsider.com/moved-to-florida-hometown-got-dream-job-left-new-york-2026-6"
-    },
-    {
-      "id": "38a03df8-2d23-8112-a6fa-c3864dbfc045",
-      "title": "Here's our plan for FedEx Freight's stock heading into its first earnings call",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-25",
-      "link": "https://www.cnbc.com/2026/06/25/heres-our-plan-for-fedex-freights-stock-heading-into-its-first-earnings-call.html"
-    },
-    {
-      "id": "38a03df8-2d23-819b-be8a-c3e3f15a9329",
-      "title": "核心研究员接连离职后，消息称谷歌重组 AI 编程小组试图追赶 Anthropic",
-      "summary": "IT之家 6 月 25 日消息，据 The information 今日消息，知情人士透露，谷歌正对其不久前成立、主攻 AI 编程工具的专项攻坚小组进行重组，试图缩小与 Anthropic 之间的技术差距。知情人士表示，这支成立仅数月的攻坚小组将调整谷歌 AI 模型的训练思路，既要提升模型代码能力，也要强化其生成演示文稿等其他场景的能力。本次调整除扩大攻坚小组的业务范围外，还将这支最初的临时团队架构予以正式固化。据悉，此次重组就发生在乔纳斯 · 阿德勒（Jonas Adler）和亚历山大 · 普里策尔（Alexander Pritzel）计划离职之后。阿德勒此前致力于谷歌的 AI 编程项目，而",
-      "source": "IT之家",
-      "publishTime": "2026-06-25",
-      "link": "https://www.ithome.com/0/968/722.htm"
-    },
-    {
-      "id": "38a03df8-2d23-81ea-a029-dafb099a0b6d",
-      "title": "My son's graduation from high school marks a devastating end for me. I now have to figure out who I am outside being a dad.",
-      "summary": "My adulthood has been filled with the responsibilities and routines of fatherhood. Now, I have to figure out what life looks like without kids.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-25",
-      "link": "https://www.businessinsider.com/who-am-i-outside-dad-son-graduates-high-school-2026-6"
-    },
-    {
-      "id": "38a03df8-2d23-81d3-932c-e4a9058721e5",
-      "title": "The $8 maternity dress the internet can't stop talking about",
-      "summary": "The bump-hugging coral dress, worn by pregnant Second Lady Usha Vance, was cited in a NYT story, sparking online discourse.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-25",
-      "link": "https://www.businessinsider.com/old-navy-maternity-dress-viral-usha-vance-republican-pregnancies-2026-6"
-    },
-    {
-      "id": "38a03df8-2d23-8128-86c4-f73c03d870d1",
-      "title": "My partner and I spent 3 days exploring Acadia National Park. Next time, we'll do 4 things differently.",
-      "summary": "We spent a few days exploring Acadia National Park in Maine. Next time we go, we'll make reservations and avoid mistakes like packing the wrong shoes.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-25",
-      "link": "https://www.businessinsider.com/acadia-national-park-mistakes-packing-reservations-trails-sneakers-2026-6"
-    },
-    {
-      "id": "38a03df8-2d23-81af-bd98-d5bcd174ed03",
-      "title": "雪铁龙推出 C3 Aircross 法国海军 400 周年特别版，个性小车化身“轮上战舰”",
-      "summary": "IT之家 6 月 25 日消息，为纪念法国海军成立 400 周年，雪铁龙打造了一辆加入大量战术和越野元素的 C3 Aircross 法国海军特别版概念车。该车采用模仿海军制服的专属涂装，风暴蓝车身搭配浅灰色车顶，并以红色细节作为点缀，前后保险杠经过重新设计，车身也加入了更多防护饰板，让整车看起来更加硬朗。IT之家发现，特别版的车身高度明显高于普通 C3 Aircross。该车配有黑色 17 英寸轮圈，搭配越野轮胎，车顶行李架足以装载一套海军潜水装备。加宽轮眉和百叶式雾灯也强化了特殊风格，雾灯造型源自水手过去用来发送摩尔斯电码信号的灯笼。车身还加入重型绑带、模仿船只系缆桩设计的拖车钩，以及覆盖车",
-      "source": "IT之家",
-      "publishTime": "2026-06-25",
-      "link": "https://www.ithome.com/0/968/721.htm"
-    },
-    {
-      "id": "38a03df8-2d23-8137-9b5e-eb48f2704cf2",
-      "title": "Everyone's talking about the Lincoln Memorial Reflecting Pool. I visited to see it for myself.",
-      "summary": "Trump's $16 million renovation to the Lincoln Memorial Reflecting Pool was supposed to turn it \"American flag blue.\" See how it really looks now.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-25",
-      "link": "https://www.businessinsider.com/lincoln-memorial-reflecting-pool-visit-photos-what-it-looks-like-2026-6"
-    },
-    {
-      "id": "38a03df8-2d23-81bc-abc1-d276d74a42da",
-      "title": "I'm an American living through the UK heat wave. My kids' school is canceled, and every room feels like a sauna.",
-      "summary": "Despite growing up in the US South, I find heatwaves in the UK more difficult because homes and infrastructure aren't designed for them.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-25",
-      "link": "https://www.businessinsider.com/why-uk-heatwaves-feel-worse-than-us-2026-6"
     }
   ],
   "macroEvents": [
