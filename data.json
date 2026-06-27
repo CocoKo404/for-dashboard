@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-06-28 00:36",
+  "updatedAt": "2026-06-28 02:43",
   "news": [
+    {
+      "id": "38c03df8-2d23-814d-9d42-dd7544d1489f",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM a",
+      "source": "The Verge",
+      "publishTime": "2026-06-28",
+      "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt"
+    },
+    {
+      "id": "38c03df8-2d23-81b1-b6b4-eb4f18df9e85",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "source": "TechCrunch",
+      "publishTime": "2026-06-28",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+    },
+    {
+      "id": "38c03df8-2d23-81c2-80e0-d2a84af55034",
+      "title": "The AI trade cooled and oil sank. A closer look at Wall Street's volatile week",
+      "summary": "Micron finished the week in the red despite a blockbuster earnings report. But falling oil prices was good news for the fight against inflation.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-06-28",
+      "link": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html"
+    },
+    {
+      "id": "38c03df8-2d23-813e-9e84-cfc809cb7ca1",
+      "title": "昔日汽车经销巨头退出新车销售业务：广汇汽车现有 500 多家自有店面仅 30 家在营，以售后为主",
+      "summary": "IT之家 6 月 27 日消息，据红星资本局从广汇汽车董事会办公室获悉，昔日的经销商巨头广汇汽车已全面转型“包租公”，广汇汽车现有 500 多家自有土地房屋的店面，但在营店面只有 30 多家，以售后维修为主。业内人士透露，广汇汽车已基本退出新车销售业务，转为物业租赁管理和存量售后运营。而在巅峰时期，广汇汽车在全国有超 700 个营业网点，代理宝马、奔驰、奥迪、别克等 57 个品牌。据 2024 中国汽车流通行业经销商集团百强排行榜，广汇汽车在 2023 年共实现汽车销售 71.35 万辆，在全国各大汽车经销商中排名第一；2023 年总营业收入达 1379 亿元，排名全国第二。据IT之家此前报道",
+      "source": "IT之家",
+      "publishTime": "2026-06-27",
+      "link": "https://www.ithome.com/0/969/520.htm"
+    },
+    {
+      "id": "38c03df8-2d23-8134-b4bd-df8dd9843b98",
+      "title": "I applied for a job for the first time in 20 years. Job seekers are in a whole new world now.",
+      "summary": "Filling out my first job application in two decades came with unexpected challenges, from recalling my work history to navigating a new process.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-27",
+      "link": "https://www.businessinsider.com/applied-for-job-after-decades-the-process-changed-2026-6"
+    },
+    {
+      "id": "38c03df8-2d23-8183-83e5-f8646ee7b1d4",
+      "title": "I want matinee concerts, matinee dinners, and matinee everything. At 46, I'm done pretending I want to stay up late.",
+      "summary": "I love concerts and dinners with friends, but at this stage of life I'd rather do almost everything before sunset.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-27",
+      "link": "https://www.businessinsider.com/done-pretending-i-want-to-stay-out-late-2026-6"
+    },
+    {
+      "id": "38c03df8-2d23-8116-833e-d226e926a993",
+      "title": "How Domo went from a $2.8 billion darling to fighting for its survival",
+      "summary": "Domo has been rocked by executive departures, new competition from AI agents, and the drunken-driving arrest of its founder and CEO, Josh James.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-27",
+      "link": "https://www.businessinsider.com/domo-josh-james-crash-dui-charge-mark-maughan-2026-6"
+    },
+    {
+      "id": "38c03df8-2d23-8173-8421-ce5c7d595545",
+      "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
+      "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a Peabody Award-winning journalist who has profiled power",
+      "source": "The Verge",
+      "publishTime": "2026-06-27",
+      "link": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire"
+    },
+    {
+      "id": "38c03df8-2d23-8149-973d-fc830f588bf4",
+      "title": "Commodore 宣布使用回收内存且不配耳机，使 Callback 8020 翻盖手机降价 100 美元",
+      "summary": "IT之家 6 月 27 日消息，据 Tom's Hardware 报道，上世纪 80 年代的传奇 PC 厂商 Commodore 宣布，大幅下调其 Callback 8020 翻盖手机的起售价，从 499 美元降至 399 美元（IT之家注：现汇率约合 2716 元人民币），仅金色的创始人版维持原价。这一降价得益于该公司改用了从消费端回收的内存芯片，并将原本标配的耳机改为选配。Callback 8020 的硬件并不强，设计目标也并非性能机器。该机内屏尺寸为 3.25 英寸，分辨率为 480 x 640，处理器是联发科 Helio G81，采用 4GB+64GB 存储组合。同时，该机还保留耳机接",
+      "source": "IT之家",
+      "publishTime": "2026-06-27",
+      "link": "https://www.ithome.com/0/969/519.htm"
+    },
+    {
+      "id": "38c03df8-2d23-8132-a077-d6e238bac9ca",
+      "title": "充电全程不用下车：理想行业首座全自动充电站落地，5C 超充桩已突破 5000 根",
+      "summary": "IT之家 6 月 27 日消息，理想汽车 6 月 25 日发布了最新的 2026 年第二季度超充运营报告。数据显示，截至 6 月 23 日，理想超充网络累计充电量突破 10 亿度，累计服务次数超过 3900 万次。其中，理想 5C 超充桩数量已突破 5000 根，全部配备 5C 超充桩的全 5C 站点超过 600 座。超充网络已覆盖全国 160 条高速公路，服务高速里程总计超过 10 万公里。今年五一假期期间，理想超充在高速公路上的充电量占全国高速充电总量的比例超过 15%。同期，理想汽车正式上线了行业首座全车位全自动充电站。该站点实现了从车辆导航到站、自动泊车入位到机械臂自动插枪充电的全程无",
+      "source": "IT之家",
+      "publishTime": "2026-06-27",
+      "link": "https://www.ithome.com/0/969/518.htm"
+    },
     {
       "id": "38c03df8-2d23-8154-a11f-cfb6e2c3bacb",
       "title": "英国斥资 7.5 亿英镑新建国家级超算，能模拟量子、地震、宇宙膨胀",
@@ -66,6 +146,14 @@
       "link": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6"
     },
     {
+      "id": "38c03df8-2d23-8198-b1d8-d3e7206f5725",
+      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
+      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty",
+      "source": "The Verge",
+      "publishTime": "2026-06-27",
+      "link": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games"
+    },
+    {
       "id": "38c03df8-2d23-8121-8523-cb89959a16d6",
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
       "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
@@ -112,6 +200,14 @@
       "source": "IT之家",
       "publishTime": "2026-06-27",
       "link": "https://www.ithome.com/0/969/508.htm"
+    },
+    {
+      "id": "38c03df8-2d23-81f9-b2ce-d63a3cb95558",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet",
+      "source": "The Verge",
+      "publishTime": "2026-06-27",
+      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech"
     },
     {
       "id": "38c03df8-2d23-815a-a367-dbc6bbc0b1a1",
@@ -304,102 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-06-27",
       "link": "https://www.businessinsider.com/daughter-forgot-passport-mom-traveled-solo-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-81f6-8312-e94ea9659810",
-      "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
-      "summary": "在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。查看全文",
-      "source": "少数派",
-      "publishTime": "2026-06-27",
-      "link": "https://sspai.com/post/111347"
-    },
-    {
-      "id": "38c03df8-2d23-8124-ae12-d760bdc48e4c",
-      "title": "My parents moved in with us before my dad got sick. It made all the difference when he passed.",
-      "summary": "Justin Murphy is keeping his promise of never letting his parent's live in a nursing home. He said it's been both finically and emotionally rewarding.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/parents-moved-in-instead-nursing-home-multigenerational-living-benefits-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-8182-a14f-ce978d07a95a",
-      "title": "联想摩托罗拉海外发布 Moto Pad 70 Pro 平板：13 英寸 3.5K 屏、骁龙 8s Gen 4",
-      "summary": "IT之家 6 月 27 日消息，联想旗下品牌摩托罗拉今日在海外市场发布了 Moto Pad 70 Pro 平板，搭载骁龙 8s Gen 4 芯片，将于 7 月 4 日起在印度开售，包装内附赠 Moto Pen Pro 手写笔，具体售价如下：8GB+128GB 版（UFS 3.1）售价 36,999 印度卢比（现汇率约合 2665 元人民币）；8GB+256GB 版（UFS 4.0）售价 39,999 印度卢比（现汇率约合 2881 元人民币）；8GB+256GB 含键盘套装售价 45,999 印度卢比（现汇率约合 3314 元人民币）。Moto Pad 70 Pro 采用金属机身设计，厚 6.",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/474.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8179-8a1f-d16f829bf54c",
-      "title": "澄清误解：Rockstar 确认没有《GTA 6》实体光盘生产计划",
-      "summary": "IT之家 6 月 27 日消息，本周四，Rockstar Games 正式开启了《侠盗猎车手 6》（Grand Theft Auto VI）的预购，并将于 11 月 19 日正式登陆 PlayStation 5 和 Xbox Series X|S 平台，港区 568~708 港币（IT之家注：现汇率约合 493.1 ~ 614.6 元人民币）。与此同时，官方确认了一个令实体游戏收藏者失望的消息：游戏的实体版包装盒内仅附带数字下载兑换码，不包含任何游戏光盘。消息公布后，部分玩家表示失望。后续，Rockstar 客服在回复玩家咨询时表示“你可以在接下来的几个月内购买到实体版本”。这一表述被 @GT",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/473.htm"
-    },
-    {
-      "id": "38c03df8-2d23-81c4-9b26-cc335a89f6b4",
-      "title": "I tried to be a '90s butter mom.' I'm now a more present parent, but it also reminded me that social media is idealized.",
-      "summary": "The \"90s butter mom\" parenting trend helped me embrace parenting and be more present. But in 2026, I had to remind myself social media is idealized.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/90s-butter-mom-trend-pros-cons-nostalgia-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-81ca-9822-e91a42b4984b",
-      "title": "Duer’s Wear-Everywhere Pants Are on Sale This Weekend",
-      "summary": "It’s not often you can score discounts from the outdoor-coded Canadian company that makes understated and stylish performance clothing.",
-      "source": "Wired",
-      "publishTime": "2026-06-27",
-      "link": "https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/"
-    },
-    {
-      "id": "38c03df8-2d23-8154-8b0f-ff37c762e54c",
-      "title": "鹏城云脑 Ⅲ 登顶 IO500 双榜：搭载华为 OceanStor A800 存储，总分超前世界纪录 1.8 倍",
-      "summary": "IT之家 6 月 27 日消息，华为官方今日宣布，全球权威超算与智算存储性能评测榜单 IO500 完成最新一轮更新。依托华为 OceanStor A800 存储为核心底座搭建的“鹏城云脑 Ⅲ”系统，在此次测评中同时登顶 Full List（总榜单）与 Research List（研究型榜单）两项榜首。IT之家注意到，该系统最终取得总分 603,334.58 分、带宽 8,291.11 GiB/s、元数据性能 43,903,983.64 kIOP/s 的成绩，整体综合性能较此前历史最高纪录提升 2.8 倍。IO500 是高性能计算与人工智能领域权威的存储系统性能基准测试榜单。该榜单通过复杂的混合",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/471.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8184-b4f4-ed6d7ab3a74a",
-      "title": "Why World Cup grass will travel hundreds of miles in refrigerated trucks before kickoff",
-      "summary": "Every 2026 World Cup match relies on engineered grass to deliver consistent playing surfaces across 16 host cities.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/why-world-cup-2026-grass-travels-1000-miles-refrigerated-trucks-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-815c-ad9a-c98881c6b84f",
-      "title": "上汽集团董事长王晓秋：不出海就出局，今年欧洲销量目标 40 万辆",
-      "summary": "IT之家 6 月 27 日消息，据每日经济新闻报道，6 月 26 日，在上汽集团 2025 年年度股东会上，上汽集团董事长王晓秋回答投资者问题时表示，“不出海，就出局。”王晓秋还表示，上汽集团今年在欧洲的预计销量目标达 40 万辆。上汽集团欧洲工厂项目会综合考虑生产成本和长期发展等因素，欧洲首家工厂选址在西班牙境内。目前，相关项目正在稳步推进中。从销量结构来看，今年 1 至 5 月，上汽集团累计销售整车 165.06 万辆。其中自主品牌累计销量达 117.3 万辆，占集团总销量比重首次突破七成，达到 71.1%，较去年同期提升 7 个百分点。据IT之家此前报道，上汽集团 2025 年年度报告数",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/470.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8129-98e0-d58a68eb63bc",
-      "title": "At Cannes Lions, summer fashion mirrored marketers' renewed emphasis on creative credibility",
-      "summary": "In this Saturday edition of Business Insider Today, we're talking about all the best looks from Cannes Lions.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/bi-today-saturday-newsletter-cannes-lions-style-status-symbol-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-81ed-ad7d-e4d4b05c0e7e",
-      "title": "Epic CEO 斯威尼：不管是索尼、微软还是 Valve，谁都无法垄断游戏行业",
-      "summary": "IT之家 6 月 27 日消息，游戏行业今年营收再创新高，然而整体处境却比以往更加动荡。3A 游戏开发成本依然居高不下，PlayStation 和 Xbox 等大型游戏业务预计还会继续大规模裁员。Epic Games CEO 蒂姆 · 斯威尼提出，与其继续争夺市场份额，索尼、微软等游戏巨头更应该打通彼此的社区和生态。据外媒 PC Gamer 当地时间 25 日报道，斯威尼在 Unreal Fest 期间接受采访时表示，没有任何公司能够彻底垄断游戏市场，“现在已经很清楚了，没有谁最终能完全垄断游戏行业。索尼做不到，微软做不到，Valve 做不到，苹果做不到，谷歌也做不到。”在当前混乱的行业环境下",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/469.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8195-86a2-e69dd01f30ee",
-      "title": "技嘉发布 40 周年纪念 AORUS RTX 5080 INFINITY 系列显卡，含 WOOD 木纹版",
-      "summary": "IT之家 6 月 27 日消息，技嘉昨日宣布 AORUS GeForce RTX 5080 INFINITY 16G 与 AORUS GeForce RTX 5080 INFINITY WOOD 16G 两款显卡正式上市，但IT之家未能在国内电商平台或欧美电商平台找到这两款产品。这两款产品是技嘉为庆祝成立 40 周年而推出的 INFINITY 系列限定产品之一，最早于本月初的 COMPUTEX 2026 展会上亮相，此前已经推出过同系列的 RTX 5090 型号。AORUS INFINITY 系列延续了年初 CES 2026 上发布的 RTX 5090 INFINITY 所确立的设计语言，以飞",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/468.htm"
     }
   ],
   "macroEvents": [
