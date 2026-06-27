@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-06-28 02:43",
+  "updatedAt": "2026-06-28 04:37",
   "news": [
+    {
+      "id": "38c03df8-2d23-819c-b8c8-e1f3cb9f0afb",
+      "title": "We expected childcare help from our au pair. We got a new family tradition instead.",
+      "summary": "What started as childcare turned into a friendship, a World Cup obsession, and a connection that spans two continents.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-28",
+      "link": "https://www.businessinsider.com/au-pair-argentina-world-cup-friendship-2026-6"
+    },
+    {
+      "id": "38c03df8-2d23-81f4-9309-d650d9cda6d8",
+      "title": "Country music star Brad Paisley calls a proposed data center near the Nashville Zoo 'a monstrosity'",
+      "summary": "14-time Country Music Award winner Brad Paisley is calling on Nashville to prevent the construction of a data center near the city's zoo.",
+      "source": "Business Insider",
+      "publishTime": "2026-06-28",
+      "link": "https://www.businessinsider.com/brad-paisley-nashville-zoo-data-center-2026-6"
+    },
+    {
+      "id": "38c03df8-2d23-810b-b1f8-f7d65329fe3f",
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood",
+      "source": "The Verge",
+      "publishTime": "2026-06-28",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out"
+    },
+    {
+      "id": "38c03df8-2d23-81a2-8fa9-ebcb299156dd",
+      "title": "62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)",
+      "summary": "Prime Day is officially over, but many of our favorite, hand-picked deals are still available through the weekend.",
+      "source": "Wired",
+      "publishTime": "2026-06-28",
+      "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/"
+    },
     {
       "id": "38c03df8-2d23-814d-9d42-dd7544d1489f",
       "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
@@ -368,38 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-06-27",
       "link": "https://www.businessinsider.com/favorite-aldi-items-single-woman-lifelong-shopper-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-81cd-af5b-e5ad4f62705a",
-      "title": "A US Army commander used attack drones and C4-packed robots to clear a deadly breach before soldiers even got in the fight",
-      "summary": "A recent drill saw dozens of drones targeting enemy weapons, sensors, and positions before soldiers attempted to approach.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/us-army-commander-used-drones-c4-packed-robots-clear-breach-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-815a-8671-ce51672a1024",
-      "title": "世嘉确认初代 Switch 版《索尼克：未知边境》不支持升级至 Switch 2 超豪华版",
-      "summary": "IT之家 6 月 27 日消息，《索尼克：未知边境》超豪华版（Sonic Frontiers - Definitive Edition）现已正式登陆 Switch 2，港区售价 338 港元（IT之家注：现汇率约合 293.4 元人民币）。《索尼克：未知边境》是一款由 Sonic Team 开发并由世嘉发行在 Windows、PlayStation 4、PlayStation 5、任天堂 Switch、Xbox One 和 Xbox Series X｜S 上的平台动作冒险游戏，于 2022 年 11 月 8 日公开发售。 据介绍，Switch 2 超豪华版配合新主机性能，画质与帧率（60 帧）",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/476.htm"
-    },
-    {
-      "id": "38c03df8-2d23-81b5-956b-f9d84ef726de",
-      "title": "Linux 内核新补丁可提升大型 RAID5 阵列性能，最高增益 17%",
-      "summary": "IT之家 6 月 27 日消息，Phoronix 今日发现，Linux 内核开发者 Hiroshi Nishida 本周提交了一组 8 个补丁，旨在提升 MD RAID5 软件 RAID 在大型、多核心、多磁盘阵列上的可扩展性与重建路径性能。根据其公布的测试数据，在特定配置下，系统整体性能可提升约 10% 至 17%。这套补丁的核心思路是解决大规模 RAID5 阵列中普遍存在的性能瓶颈。随着阵列中 CPU 核心数与磁盘数量的增加，每条带（stripe）及其缓存（stripe-cache）上的资源争用会显著影响性能。Nishida 的改进就主要针对这一点，尤其当启用了多个 RAID5 条带处理工",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/475.htm"
-    },
-    {
-      "id": "38c03df8-2d23-81ce-aa28-f1d657868667",
-      "title": "My daughter forgot her passport for our trip to the Turks & Caicos. I went on the trip without her.",
-      "summary": "When my daughter forgot her passport in her apartment in New York City, I decided to go on our mother-daughter trip without her. I felt guilty.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/daughter-forgot-passport-mom-traveled-solo-2026-6"
     }
   ],
   "macroEvents": [
