@@ -1,6 +1,238 @@
 {
-  "updatedAt": "2026-06-28 09:33",
+  "updatedAt": "2026-06-28 14:42",
   "news": [
+    {
+      "id": "38d03df8-2d23-81b5-95cd-f14205ea8d6e",
+      "title": "五菱与东南亚头部出行平台 Grab 达成合作，批量导入缤果车型",
+      "summary": "IT之家 6 月 28 日消息，上汽通用五菱昨天宣布与东南亚头部出行平台 Grab 达成战略合作签约及车辆交付，Grab 租赁平台批量导入缤果车型，全部投入印尼网约车营运。IT之家从上汽通用五菱公众号获悉，五菱印尼已主动链接 Grab、GOTO 等头部出行品牌，历经两年跟进，成功切入印尼出行市场，成为 Grab 电动化运力扩容的核心合作伙伴。值得注意的是，五菱印尼已于 6 月 17 日与本土头部租赁公司 MPM 达成合作，提前布局租赁赛道，为合作车队配套产品培训、全周期维保、技师培训一体化服务，实现降本提效优势。此外，五菱印尼将持续推动 Cloud、Darion、Ekison 等多款车型落地出",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/568.htm"
+    },
+    {
+      "id": "38d03df8-2d23-814d-9381-d6e57ce6494e",
+      "title": "任天堂社长古川俊太郎回应公司股价大跌：多重因素导致市场看衰，寄望 Switch 2 扭转颓势",
+      "summary": "IT之家 6 月 28 日消息，不久前，任天堂股价创下历史新高。可时至如今，任天堂股价已大幅下跌。这件事成了各类财经刊物热议的话题，如今任天堂官方也出面对此作出回应。IT之家注意到，在任天堂股东大会的投资者问答环节中，社长古川俊太郎谈及了公司持续数月的股价下跌问题。古川俊太郎表示，当前任天堂股价仅为历史峰值时期的一半左右。在他看来，股价下跌源于多重外部因素；同时他认为，诸如上调 Switch 2 售价等举措，让资本市场对公司持负面审视态度。古川俊太郎接着称，任天堂当下的核心目标是持续推广 Switch 2 主机，进一步扩大该平台的受众群体。公司希望与消费者建立长期联结，以此推动 Switch ",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/567.htm"
+    },
+    {
+      "id": "38d03df8-2d23-8134-b811-e56e0fbacf96",
+      "title": "14.38 万起，郑州日产锐骐纯电皮卡 ZNA RICH 首发上市",
+      "summary": "IT之家 6 月 28 日消息，6 月 27 日，郑州日产锐骐纯电皮卡 ZNA RICH 正式上市，市场指导价 14.38 万元起。据官方介绍，锐骐纯电皮卡 ZNA RICH 搭载带大梁非承载底盘与渐变钢板弹簧后悬架的组合，额定载重高达 995kg。配合双电机四驱系统，峰值扭矩达 729N·m，最大功率 360kW。锐骐纯电皮卡 ZNA RICH 全系标配宁德时代电池，提供首任非营运车主电池终身质保。IT之家查询获悉，这款新车提供两驱、四驱版本，车身尺寸为 5287×1880×1860/1875mm（含行李架），轴距为 3150mm，搭载 77.28kWh 电池，CLTC 续驶里程分别为 45",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/566.htm"
+    },
+    {
+      "id": "38d03df8-2d23-816c-a118-caf983acc9e4",
+      "title": "不靠预加载“作弊”：微软为 Win11 推出速度更快的文件资源管理器",
+      "summary": "IT之家 6 月 28 日消息，据科技媒体 Windows Latest 今天报道，微软已确认向 Win11 用户推出速度更快的文件资源管理器，无需加入 Insider 计划即可体验。据报道，全新文件资源管理器包含在 2026 年 6 月可选更新 KB5095093（IT之家注：Build 26200.8737）中，将于 7 月累计更新向所有用户推送。据悉，微软此次成功提升了文件资源管理器的响应速度，并且完全没有依赖此前测试的“预加载”机制，而是从底层做优化。微软曾在此前测试文件资源管理器预加载功能，让软件在后台提前启动。用户双击图标时，能更快地打开文件资源管理器。不过不少用户吐槽微软是在“作",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/565.htm"
+    },
+    {
+      "id": "38d03df8-2d23-8170-ad6f-c884311fd320",
+      "title": "如同扫地机器人，开源程序让 Steam 手柄靠震动自动寻找底座充电",
+      "summary": "IT之家 6 月 28 日消息，一名航空航天从业者兼程序员在 GitHub 上发布了一款程序，只要把 Steam 手柄放在桌面，它就能自动朝着充电底座缓慢移动。这款网页应用名为自动充电视觉追踪器，依靠摄像头与计算机视觉技术定位手柄位置；闲置时，它会驱动手柄内置的强力马达，让手柄缓缓爬向充电座自行补电。 IT之家注意到，该网页应用的一大优势是无需在电脑上安装任何软件即可使用：只需打开网页、连接 Steam 手柄，将摄像头正对桌面上方，依次点击标记充电底座、手柄正面与手柄背面，就能正常使用了。这是 Steam 手柄震动马达的趣味拓展用法，这类马达原本主要用于为玩家提供操作反馈。玩家可以在浏览器后台",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/563.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81a3-b8bd-f247b8a4241f",
+      "title": "荣耀 X80 Pro Max 手机首销日“战绩”出炉，获 2026 年安卓新品销量第一",
+      "summary": "IT之家 6 月 28 日消息，荣耀终端股份有限公司 PC 产品经理 @HONOR-tim彭 昨晚发文分享了荣耀 X80 Pro Max 手机首销日“战绩”—— 获 2026 年安卓新品首销日销量第一。据IT之家此前报道，荣耀 X80 Pro Max 手机已于今年 6 月 26 日开售。新机搭载第五代骁龙 6 移动平台、内置 11000mAh 荣耀最大电池，定价 1999 元起。8GB+128GB 版本：定价 1999 元、国补 1699.15 元；8GB+256GB 版本：定价 2199 元、国补 1869.15 元；8GB+512GB 版本：定价 2499 元、国补 2124.15 元；1",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/562.htm"
+    },
+    {
+      "id": "38d03df8-2d23-8149-a1bf-ec7dc1f44475",
+      "title": "因安全气囊可能无法弹出，路虎在美召回超 25 万辆汽车",
+      "summary": "IT之家 6 月 28 日消息，据汽车媒体 Carcoops 今天报道，美国国家公路交通安全管理局（NHTSA）表示，路虎将在美国市场召回 250857 辆汽车，涉及 2020-2026 款卫士、2021-2026 款发现和 2022-2026 款揽胜车型。NHTSA 表示，这些汽车的安全气囊时钟弹簧（IT之家注：Clockspring）连接器端子可能腐蚀，导致安全气囊可能展开异常，或在发生碰撞时完全无法弹出，致使驾驶员在发生事故时增加受伤风险。路虎方面则回应称，早在 2025 年 8 月，公司就注意到安全气囊警示灯亮起的保险索赔数量增加。公司在后续调查中发现，部分汽车的时钟弹簧连接器针脚出现",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/561.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81b9-949c-c892c6f0a9de",
+      "title": "消息称荣耀 Robot Phone 机器人手机将在 8 月上市，后续还会迭代",
+      "summary": "IT之家 6 月 28 日消息，博主 @旺仔百事通 昨晚发文透露，称荣耀 Robot Phone 机器人手机将在 8 月上市。有网友询问这台手机后续是否还会迭代，博主明确表示：“会。”荣耀机器人手机 Robot Phone 发布于今年 3 月，这台手机顶部的三轴云台相机配备 2 亿像素传感器，可以向前 / 向后翻转，方便用户拍摄自己或拍摄物体；支持 AI 物体追踪、AI 视频剪辑与智能拍摄；支持实时感知与补偿，确保视频画面稳定。据IT之家此前报道，荣耀 CEO 李健透露，荣耀首款机器人手机 Robot Phone 将于三季度上市。荣耀此前表示，这款机型研发难度远比想象中的大，定制更小尺寸马达、",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/559.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81e8-bda2-fdf2acc27ba8",
+      "title": "博世回应 CEO 哈通提前卸任：中国业务不受影响，始终是博世全球最重要的战略市场之一",
+      "summary": "IT之家 6 月 28 日消息，汽车零部件巨头博世集团近日迎来高层变动，8 个月前刚续约的博世 CEO 哈通宣布卸任，其原定任职至 2031 年。6 月 27 日晚，博世集团发文表示，此次集团董事会人事调整不会对博世中国各项业务运营产生任何影响。中国始终是博世全球最重要的战略市场之一，也是集团重要的创新基地。未来，博世将一如既往携手广大客户和合作伙伴，持续深耕中国市场。▲ 菲舍尔（左），哈通（右）据官方公告，经与股东充分沟通并达成一致，史蒂凡 · 哈通博士（Dr. Stefan Hartung）主动申请于 2026 年 6 月 30 日卸任博世集团董事会主席职务。他也将同时退出博世集团董事会及",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/560.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81c9-b58e-ecaa5e7a694e",
+      "title": "消息称小米首款 NAS“Xiaomi 智能存储”工程机配 2G RAM + 8G 闪存，双盘位最高支持 40TB SSD",
+      "summary": "IT之家 6 月 28 日消息，小米于 6 月 24 日开始众筹预约旗下首款 NAS“Xiaomi 智能存储”，该产品将于 7 月 1 日 10:00 正式众筹开售，7 月 8 日 10:00 众筹结束。目前博主 @6GHz 曝光了这款产品的工程机参数，显示该机配备 2GB RAM 和 8GB 闪存，不过该机的 CPU 存在争议，博主称该机搭载瑞昱 RTD1619B 处理器（RTD1619B 原生不支持 DDR3/L），评论区用户称该机应为“四核 A55 架构”。其他方面，该机采用双盘位设计，最大支持 40TB SSD。匹配 1 个 USB-A 3.0 接口、1 个 HDMI 1.4 接口。I",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/558.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81cc-80eb-f629c167eefd",
+      "title": "消息称某安卓阵营大厂迭代旗舰线在评估华为 Pura 90 系列手机升杯策略，分标准版、Pro 和 Pro Max",
+      "summary": "IT之家 6 月 28 日消息，博主 @数码闲聊站 昨日发文透露，某安卓阵营大厂的迭代旗舰线在评估华为 Pura 90 系列手机升杯策略：中端系列升为正代旗舰标准版（无后缀），原本的标准版叫 Pro，Pro 加料叫 Pro Max，有一家安卓大厂存在这个计划……博主目前暂未公布该系列旗舰机型具体的品牌所指，因此具体情况仍待观察。有网友总结：“名字加更多后缀，避免涨价比较。”博主回复称：“如果加后缀还可以接受，怕就怕作为正代发了。”此举无疑是又一条应对内存等元器件涨价的策略。而内存涨价的原因想必大家都听过很多了，AI 算力爆发虹吸产能 + 三大寡头控产 + 行业库存见底 + DDR4/DDR5 ",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/556.htm"
+    },
+    {
+      "id": "38d03df8-2d23-819d-a0d9-ec84bf1673ca",
+      "title": "近二十年来最严苛，《汽车侧面碰撞的乘员保护》等新国标 7 月 1 日实施",
+      "summary": "IT之家 6 月 28 日消息，据央视新闻今日报道，7 月 1 日开始，我国将实施一批新的汽车安全碰撞新国标。其中《汽车侧面碰撞的乘员保护》是近二十年来最严苛的一次碰撞安全标准升级。IT之家从报道中获悉，新国标中，采用的侧面碰撞台车质量从 950 公斤大幅提升至 1400 公斤。也就是说，7 月 1 日以后上市的新车都必须经受住这个“重量级”大家伙的侧面碰撞考验。中国汽车技术研究中心首席专家孟宪明介绍，新国标中采用更严苛的侧面碰撞移动壁障，这是更贴近现实侧撞事故的车辆特征，这也意味着中国汽车侧面安全碰撞“底线”被大幅提升。不仅如此，在新国标《汽车侧面碰撞的乘员保护》中还强调了关于电动车的考核要",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/555.htm"
+    },
+    {
+      "id": "38d03df8-2d23-810b-9361-c7b7bcf31757",
+      "title": "叠纸游戏回应《恋与深空》新男主争议：敖尹的加入是游戏长期内容规划一环",
+      "summary": "IT之家 6 月 28 日消息，叠纸游戏今日发文，回应《恋与深空》游戏的新男主争议。官方在声明中表示，敖尹的加入是《恋与深空》长期内容规划中的一环。但在相关信息的呈现上，叠纸未能充分兼顾大家对于后续制作安排的期待，也让大家自首曝以来产生了诸多疑虑与担忧。由此带来的不佳体验，官方在此向大家致以诚挚的歉意。同时，官方承诺游戏内每一位男主的故事、陪伴和未来，始终都是《恋与深空》长期规划中至关重要的一部分，不会因为任何原因而改变。官方将为每位玩家送上「深空许愿券 x10，极空许愿券 x10」，7 月 23 日前登录游戏即可领取。IT之家附官方回应全文如下：亲爱的深空猎人们：近期，制作组收到了非常多对游",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/554.htm"
+    },
+    {
+      "id": "38d03df8-2d23-8143-9b88-d7defdbea2f8",
+      "title": "特斯拉汽车“主动悬架系统”新专利公开，未来 Cybertruck 皮卡经过坑洼路面时有望进一步提升舒适性",
+      "summary": "IT之家 6 月 28 日消息，特斯拉旗下一项编号为“US12654505B2”的“车辆悬架执行器系统专利（Suspension Actuator System for a Vehicle）”系统目前在美国获批，该专利主要提出一套混合式主动悬架方案，将主动式电机驱动控制与被动式悬架组件结合，以提升车辆经过坑洼路面时的舒适性并降低能耗。据介绍，整套悬架系统由主动执行器、被动弹性元件、自适应减振器和并联式空气弹簧组合，系统可通过电动机驱动传动带，带动滚珠螺母与螺杆机构，结合加速度计和车轮位置传感器信息实时调节悬架支柱长度，精确控制车轮升降以抵消路面颠簸。特斯拉还为主动执行器旁并联了一个空气弹簧，由",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/552.htm"
+    },
+    {
+      "id": "38d03df8-2d23-8126-8d7b-d9e61dabc96b",
+      "title": "消息称美国政府即将解除对 Anthropic Fable 5 模型的出口管制，最快下周恢复访问",
+      "summary": "IT之家 6 月 28 日消息，据 Axios 援引知情人士消息报道，特朗普政府即将准许 Anthropic 公司重新开放其 Fable 5 大模型的使用权限。美国政府当地时间 6 月 12 日出台出口管制令后，Anthropic 紧急关停了旗下两款顶级人工智能模型 ——Mythos 5 与 Fable 5，所有用户均无法使用。报道称，内部人士预计政府针对 Fable 5 的限制最早将于下周解除。报道另援引第二位消息人士补充称，相关各方本周末将持续沟通协商，Anthropic 方面预计很快就能恢复 Fable 模型的访问权限。Anthropic 当地时间周五对外表示，美国政府已批准其向部分美国",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/553.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81ef-a4b9-d378dd76a029",
+      "title": "vivo X Fold6 折叠屏手机维修备件价格公布：内屏组件 3780 元，主板 3700 元起",
+      "summary": "IT之家 6 月 28 日消息，vivo X Fold6 折叠屏手机于 6 月 26 日发布，售价 7999 元起。目前，这款新机的维修备件价格已经在官网公布。▲ IT之家开箱：vivo X Fold6「盐湖」配色IT之家整理如下：外屏外层玻璃维修 299 元外屏组件 920 元外屏组件（留件价）620 元内屏组件 3780 元，首次维修 7.5 折（2835 元）内屏组件（留件价）3380 元内屏组件（单屏）1899 元电池 259 元12GB+256GB 主板 3700 元12GB+512GB 主板 4200 元16GB+512GB 主板 4700 元16GB+1TB 主板 5200 元前",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/551.htm"
+    },
+    {
+      "id": "38d03df8-2d23-8111-bcd8-f3045ccb73c7",
+      "title": "HKC 推出“M27A9F1”27 英寸曲面显示器：1080P 144Hz VA 面板，599 元",
+      "summary": "IT之家 6 月 28 日消息，HKC 现已在京东上架一款型号为“M27A9F1”的 27 英寸曲面屏显示器，该机主打 1080P 144Hz，定价为 649 元，首发价 599 元。目前官方尚未公布该机的完整信息，参考商品页已知内容，该机配备一块 1920x1080 分辨率 144Hz VA 面板，曲率 1800R，支持 8-Bit 色彩，显示器采用固定支架，提供 HDMI 和 VGA 接口。IT之家附显示器参数：",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/549.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81a8-a933-e9200c119f55",
+      "title": "国内首个第四代半导体材料全产业链项目落户河南郑州",
+      "summary": "IT之家 6 月 28 日消息，据新华社报道，郑州高新区 6 月 26 日与中科粉研（河南）超硬材料有限公司签署协议，标志着国内首个第四代半导体材料全产业链项目落户郑州，将为河南在全球独具优势的超硬材料产业链补上关键一环。IT之家从原报道了解到，第四代半导体以金刚石、氧化镓等超宽禁带材料为核心，具备禁带宽度大、击穿电场高、热导率优异等特性，在 AI 芯片、5G/6G 通信、电子热管理、新能源汽车、生物医药等领域应用场景中具有不可替代的优势，被人们誉为“终极半导体材料”。中科粉研拥有全球首条 LPPHT 微纳米金刚石产线，将为第四代半导体的自主研发、生产和规模量产打下坚实基础。同时，本次基地建设",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/548.htm"
+    },
+    {
+      "id": "38d03df8-2d23-812e-a281-c4bcfa3feedf",
+      "title": "特斯拉公布 2026 年二季度分析师交付预期：超 40.6 万辆，环比增 12%",
+      "summary": "IT之家 6 月 28 日消息，特斯拉公布了 2026 年第二季度官方交付预期均值。特斯拉投资者关系团队整合 21 位分析师的交付量预测数据，算出市场一致预期值，在下周正式财报数据发布前向投资者公示。该交付预期均值并非特斯拉官方实际交付数据，仅为分析师预测结果，仅供参考、不宜完全采信。华尔街机构预测本季度特斯拉交付新车 406024 辆，其中 Model 3 与 Model Y 合计 392662 辆，其余车型交付量 12978 辆（包含 Cybertruck、剩余的 Model S/X 以及特斯拉 Semi 电动卡车）。IT之家注意到，这份市场一致预期同时涵盖特斯拉储能设备装机量，综合 17",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/547.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81c7-9e1b-e5a564727a73",
+      "title": "比亚迪亮相 2026 釜山车展，首次在韩展示 DM-i 混动技术",
+      "summary": "IT之家 6 月 28 日消息，据韩联社报道，2026 釜山移动出行展于 6 月 26 日在釜山国际会展中心（BEXCO）开幕，韩国汽车巨头现代汽车和起亚，以及比亚迪韩国公司等汽车品牌参展。报道称，本次车展现代汽车全球首发第八代伊兰特“The all new AVANTE”，并展出 IONIQ（艾尼氪）5、6、9 以及科纳（KONA）等电动车型。起亚则展出 EV3、EV4 GT、EV5、EV6 GT 等电动车阵容，以及 PV5 等个性化定制车型（PBV）系列。值得一提的是，比亚迪韩国公司首次在韩展示其自主研发的 DM-i 超级混动技术，并介绍公司的未来发展愿景。IT之家注意到，比亚迪韩国公司 ",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/545.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81c3-897a-eaea01845ffd",
+      "title": "韩国搜索引擎巨头 Naver 上线 AI 对话搜索服务 AI Tab，整合当地电商平台 / 本地生活功能",
+      "summary": "IT之家 6 月 28 日消息，据韩媒 The Elec 报道，韩国当地主流搜索引擎 Naver（地位类似于国内百度）已于 6 月 26 日正式上线其 AI 驱动的对话式搜索服务“AI Tab”，引发当地市场关注。不过许多业内人士认为，Naver 本次上线的 AI Tab 功能在回答深度和推理能力方面相对于 ChatGPT / Gemini 仍有明显差距，当前 Naver 更倾向于将 AI Tab 打造成搜索体验核心，整合公司自家电商平台、地图、Cafe 社区、博客、本地生活服务，将用户牢牢留在自己的生态体系内。根据 Naver 介绍，AI Tab 被定义为一种“AI 智能体搜索”服务，目标不",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/546.htm"
+    },
+    {
+      "id": "38d03df8-2d23-819b-98ad-da0cc5c3c806",
+      "title": "金色轮毂藏巧思，特斯拉 Cybercab 车轮设计专利公开",
+      "summary": "IT之家 6 月 28 日消息，特斯拉为实现自动驾驶网约车布局所研发的专用硬件，正逐步走完官方监管审批流程。工厂团队正全力推进 Cybercab 的量产工作，而一份近期公开的专利，让我们得以近距离一睹这款专属自动驾驶出租车的车轮设计细节。IT之家注意到，美国专利商标局上周公布了专利号为 US-D1130251-S 的专利，该专利对特斯拉 Cybercab 车轮的外观造型予以知识产权保护。外观设计专利并不会披露太多技术参数，但印证了这款车型此前对外曝光的轮胎样式与轮组搭配方案。这款获专利认证的车轮核心特征是一块平整金色轮毂罩，可扣合在轮辋外侧，封闭镂空空隙以最大化空气动力学效能。外观美感也是设计",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/544.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81aa-8f60-eedd285b866e",
+      "title": "微软 Win11 效率神器 PowerToys 更新 0.100.2 版本，修复命令面板内存泄露问题",
+      "summary": "IT之家 6 月 28 日消息，微软 Win11 效率神器 PowerToys 现已更新 0.100.2 版本，主要修复了命令面板的内存泄露问题。IT之家附本次更新详情如下：Command Palette（命令面板）：回滚了 Performance Monitor（性能监视器）扩展的一项 Dock 刷新改动。此前，该改动会强制在每次指标更新时刷新项目。（#48835）修复了 Performance Monitor（性能监视器）的内存泄露问题。通过复用稳定的网络上传 / 下载带宽列表项，而不是每次刷新时都创建新的列表项，有效避免内存占用持续增长。（#48880）此外，本次更新支持 x64/ARM",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/543.htm"
+    },
+    {
+      "id": "38d03df8-2d23-8109-927d-e0622b634d3b",
+      "title": "韩国优化运营商解约流程：消费者仅需手机 App 即可办理，无需前往营业厅 / 电话联系客服",
+      "summary": "IT之家 6 月 28 日消息，据韩媒 The Elec 报道，韩国广播媒体通信委员会于 6 月 26 日公布了《移动通信服务解约流程改善措施》，允许当地民众直接通过在线聊天 / 手机 App 办理运营商解约服务，无需再前往营业厅 / 致电客服。此外，新方案还要求运营商将解约入口在官网上设置得更明显，并采用更直观、更容易理解的文字说明；同时建立统一标准化的解约流程指引，推出统一格式的终止服务账单，并允许用户在有需要时申请获取相关解约咨询录音。目前韩国三大移动运营商 SK Telecom、KT Corporation 和 LG Uplus 以及虚拟运营商（MVNO）已发布跟进公告，预计将在今年第",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/541.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81f3-8da5-d9d756f2032f",
+      "title": "海外经销商推“特别版”树莓派 4B：CPU 降频至 1.25GHz，4GB 版 87.25 美元",
+      "summary": "IT之家 6 月 28 日消息，树莓派授权经销商 Cytron 昨天推出了“特别版”树莓派 4B 单板电脑，采用降频版处理器，但售价相比原版更加便宜。据介绍，这款树莓派 4B 搭载的博通 BCM2711 是“筛选版”SoC，CPU 主频为 1.25GHz。作为对比，原版树莓派 4B 的主频是 1.5GHz，软件更新后可解锁 1.8GHz。官方表示，这批产品采购自树莓派官方，由于芯片体质原因，这批 CPU 无法稳定运行在 1.8GHz，但可以在 1.25GHz 下稳定且无故障地运行。性能方面，这款树莓派的整体性能自然略逊于标准版，但对于大部分日常应用来说，用户感受不到特别明显的性能差距。只有在高",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/540.htm"
+    },
+    {
+      "id": "38d03df8-2d23-819b-8993-c852d38f8232",
+      "title": "特斯拉 Model S 签名典藏版登陆欧洲：限量 20 台，仅限受邀客户购买",
+      "summary": "IT之家 6 月 28 日消息，有消息称，特斯拉已私下联系欧洲部分精选客户，向其发出专属购车邀约，可入手 Model S 签名典藏版（Model S Signature Edition），收藏这款汽车史上的绝版藏品。此事经由 Facebook 德国特斯拉车友社群成员克里斯蒂安 · 达拉波扎爆料传开，他晒出了当地销售顾问发来的购车邀约详情。特斯拉资讯媒体 Drive Tesla 报道，这批典藏版车型不会上架线上公开选配页面，全部采用人工专属分配模式，由销售顾问一对一对接名额，原因是现车库存极其稀缺。特斯拉数月前已正式关闭 Model S 与 Model X 的全球订单通道，不久后美国少数客户就率",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/539.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81d3-879c-fd0593db339c",
+      "title": "联想拯救者神秘新平板真机曝光：50MP 单摄 + 环形 RGB",
+      "summary": "IT之家 6 月 28 日消息，昨日，一款拯救者小平板神秘新品亮相“核聚变游戏嘉年华 2026 深圳站”，采用全新设计。从多位博主分享的图片来看，这款新品的后置 50MP 单摄，镜头周边白色部分预计为环形 RGB。此外，新品背后还印有拯救标志性英文 logo，整体设计非常有辨识度。另外，这款新品目测尺寸较小，预计主打游戏体验。作为参考，目前在售的拯救者 Y700 五代平板于今年 3 月发布，搭载骁龙 8 Elite Gen5 处理器、配备 8.8 英寸 165Hz 猎速电竞屏，首发 3999 元起。此外，拯救者 Y700 五代还后置拯救者光环，搭载 9000mAh 电池，支持 68W 闪充 +",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/538.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81e0-8dbf-ca6a5616df81",
+      "title": "微软称所谓“WSL 3”并不存在，但 WSL Containers 将于下周发布",
+      "summary": "IT之家 6 月 28 日消息，据科技媒体 Windows Latest 今天报道，近期不少媒体将 Build 2026 大会上新发布的 WSL Containers 称为“WSL 3”，但微软官方表示，两者完全不是一回事。微软 WSL（适用于 Linux 的 Windows 子系统）产品经理 Craig Loewen 对此表示：“提醒一下，所谓的 WSL 3 根本不存在！我看不少文章都在讨论，但目前根本没有这个产品”。微软于 Build 2026 大会上公布 Win11 全新功能 WSL Containers，允许开发者在不安装 Docker 的情况下，创建、运行 Linux 容器。由于不少",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/537.htm"
+    },
+    {
+      "id": "38d03df8-2d23-81da-9791-e02e6f958ccf",
+      "title": "Anthropic 调研：约半数 Claude 用户称 AI 已可承担一半以上的工作",
+      "summary": "IT之家 6 月 28 日消息，约半数 Claude 用户表示，人工智能目前已经能够承担他们一半及以上的工作内容。该数据来自 Anthropic 公司针对约 9700 名 Claude 用户（包括聊天、协同办公、代码相关场景）开展的调研。33% 的受访者认为人工智能可完成自身 30% 至 60% 的工作任务；另有 14% 的用户认为这一比例在 60% 至 90%；约 4% 的人表示 Claude 甚至能独立完成自己的全部工作。展望未来 12 个月，26% 左右的用户预计人工智能将接手自己大部分工作。本次调研专门针对文本撰写这类可由 AI 落地执行的具体任务展开提问，但一份完整的工作往往不只是各",
+      "source": "IT之家",
+      "publishTime": "2026-06-28",
+      "link": "https://www.ithome.com/0/969/535.htm"
+    },
     {
       "id": "38c03df8-2d23-81cd-93f8-f209d4e0dfd9",
       "title": "经典游戏《俄罗斯方块》将改编为儿童动画，已进入前期开发阶段",
@@ -168,238 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-06-28",
       "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out"
-    },
-    {
-      "id": "38c03df8-2d23-81a2-8fa9-ebcb299156dd",
-      "title": "62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)",
-      "summary": "Prime Day is officially over, but many of our favorite, hand-picked deals are still available through the weekend.",
-      "source": "Wired",
-      "publishTime": "2026-06-28",
-      "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/"
-    },
-    {
-      "id": "38c03df8-2d23-814d-9d42-dd7544d1489f",
-      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM a",
-      "source": "The Verge",
-      "publishTime": "2026-06-28",
-      "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt"
-    },
-    {
-      "id": "38c03df8-2d23-81b1-b6b4-eb4f18df9e85",
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-28",
-      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
-    },
-    {
-      "id": "38c03df8-2d23-81c2-80e0-d2a84af55034",
-      "title": "The AI trade cooled and oil sank. A closer look at Wall Street's volatile week",
-      "summary": "Micron finished the week in the red despite a blockbuster earnings report. But falling oil prices was good news for the fight against inflation.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-28",
-      "link": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html"
-    },
-    {
-      "id": "38c03df8-2d23-813e-9e84-cfc809cb7ca1",
-      "title": "昔日汽车经销巨头退出新车销售业务：广汇汽车现有 500 多家自有店面仅 30 家在营，以售后为主",
-      "summary": "IT之家 6 月 27 日消息，据红星资本局从广汇汽车董事会办公室获悉，昔日的经销商巨头广汇汽车已全面转型“包租公”，广汇汽车现有 500 多家自有土地房屋的店面，但在营店面只有 30 多家，以售后维修为主。业内人士透露，广汇汽车已基本退出新车销售业务，转为物业租赁管理和存量售后运营。而在巅峰时期，广汇汽车在全国有超 700 个营业网点，代理宝马、奔驰、奥迪、别克等 57 个品牌。据 2024 中国汽车流通行业经销商集团百强排行榜，广汇汽车在 2023 年共实现汽车销售 71.35 万辆，在全国各大汽车经销商中排名第一；2023 年总营业收入达 1379 亿元，排名全国第二。据IT之家此前报道",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/520.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8134-b4bd-df8dd9843b98",
-      "title": "I applied for a job for the first time in 20 years. Job seekers are in a whole new world now.",
-      "summary": "Filling out my first job application in two decades came with unexpected challenges, from recalling my work history to navigating a new process.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/applied-for-job-after-decades-the-process-changed-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-8183-83e5-f8646ee7b1d4",
-      "title": "I want matinee concerts, matinee dinners, and matinee everything. At 46, I'm done pretending I want to stay up late.",
-      "summary": "I love concerts and dinners with friends, but at this stage of life I'd rather do almost everything before sunset.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/done-pretending-i-want-to-stay-out-late-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-8116-833e-d226e926a993",
-      "title": "How Domo went from a $2.8 billion darling to fighting for its survival",
-      "summary": "Domo has been rocked by executive departures, new competition from AI agents, and the drunken-driving arrest of its founder and CEO, Josh James.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/domo-josh-james-crash-dui-charge-mark-maughan-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-8173-8421-ce5c7d595545",
-      "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
-      "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a Peabody Award-winning journalist who has profiled power",
-      "source": "The Verge",
-      "publishTime": "2026-06-27",
-      "link": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire"
-    },
-    {
-      "id": "38c03df8-2d23-8149-973d-fc830f588bf4",
-      "title": "Commodore 宣布使用回收内存且不配耳机，使 Callback 8020 翻盖手机降价 100 美元",
-      "summary": "IT之家 6 月 27 日消息，据 Tom's Hardware 报道，上世纪 80 年代的传奇 PC 厂商 Commodore 宣布，大幅下调其 Callback 8020 翻盖手机的起售价，从 499 美元降至 399 美元（IT之家注：现汇率约合 2716 元人民币），仅金色的创始人版维持原价。这一降价得益于该公司改用了从消费端回收的内存芯片，并将原本标配的耳机改为选配。Callback 8020 的硬件并不强，设计目标也并非性能机器。该机内屏尺寸为 3.25 英寸，分辨率为 480 x 640，处理器是联发科 Helio G81，采用 4GB+64GB 存储组合。同时，该机还保留耳机接",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/519.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8132-a077-d6e238bac9ca",
-      "title": "充电全程不用下车：理想行业首座全自动充电站落地，5C 超充桩已突破 5000 根",
-      "summary": "IT之家 6 月 27 日消息，理想汽车 6 月 25 日发布了最新的 2026 年第二季度超充运营报告。数据显示，截至 6 月 23 日，理想超充网络累计充电量突破 10 亿度，累计服务次数超过 3900 万次。其中，理想 5C 超充桩数量已突破 5000 根，全部配备 5C 超充桩的全 5C 站点超过 600 座。超充网络已覆盖全国 160 条高速公路，服务高速里程总计超过 10 万公里。今年五一假期期间，理想超充在高速公路上的充电量占全国高速充电总量的比例超过 15%。同期，理想汽车正式上线了行业首座全车位全自动充电站。该站点实现了从车辆导航到站、自动泊车入位到机械臂自动插枪充电的全程无",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/518.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8154-a11f-cfb6e2c3bacb",
-      "title": "英国斥资 7.5 亿英镑新建国家级超算，能模拟量子、地震、宇宙膨胀",
-      "summary": "IT之家 6 月 27 日消息，据英国 BBC 当地时间 24 日报道，英国斥资 7.5 亿英镑（IT之家注：现汇率约合 67.38 亿元人民币）建设的新一代国家超级计算机已经正式开工。项目团队表示，新超算预计明年年底完工，届时不仅将成为英国性能最强的计算机，也会跻身全球顶尖超级计算机行列。该超算将部署在爱丁堡大学位于中洛锡安佩尼库克和罗斯林的校舍内，靠近克隆羊多莉诞生的研究所，项目团队和科研人员都对开工表示期待。爱丁堡大学超算项目负责人马克 · 帕森斯教授介绍，新超算的整体规模约相当于一家中型超市，将配备数千颗处理器，每秒可完成 10 亿亿次运算，即 10^18 次运算。其可以帮助科研机构和",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/517.htm"
-    },
-    {
-      "id": "38c03df8-2d23-811d-9e63-e6b1cff81786",
-      "title": "消息称保时捷计划将卡宴 SUV 转回德国生产，提升产能利用率",
-      "summary": "IT之家 6 月 27 日消息，据法兰克福汇报今日消息，保时捷计划将其卡宴（Cayenne）SUV 的生产线从斯洛伐克迁往其位于德国的莱比锡工厂，以提升产能利用率。目前，卡宴与大众途锐、奥迪 Q7 和 Q8 等车型共享大众集团位于斯洛伐克的生产基地。消息人士透露，这项生产转移计划的先决条件是工人必须同意降薪，因为斯洛伐克的工资水平大幅低于德国保时捷员工的薪酬。此举旨在确保莱比锡工厂长期的产能利用率，保时捷目前在德国正面临严重的产能过剩问题。据IT之家此前报道，保时捷 2026 年一季度全球交付 60991 辆，同比下降 15%；其中中国市场交付 7519 辆，同比下降 21%。消息称保时捷这一",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/516.htm"
-    },
-    {
-      "id": "38c03df8-2d23-81d4-b3bc-cf5e05b52d6a",
-      "title": "20.99 万-32.99 万元，启境 GT7 上市 24 小时大定突破 5200 台",
-      "summary": "IT之家 6 月 27 日消息，启境汽车官微今天（27 日）晚间宣布：启境 GT7 上市 24 小时大定突破 5200 台。新车定位中大型智能猎装轿跑，官方指导价 20.99 万元起。IT之家汇总如下：启境 GT7 标准版：20.99 万元启境 GT7 Ultra：23.99 万元启境 GT7 Ultra 超长续航版：26.99 万元启境 GT7 Ultra 三电机四驱版：29.99 万元启境 GT7 Ultra+ 三电机四驱版：32.99 万元启境 GT7 车身长宽高分别为 5050mm、1980mm 和 1470mm，轴距 3000mm，风阻系数 0.198。新车首批搭载华为乾崑智驾 AD",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/515.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8159-ae05-d4e7165ab70b",
-      "title": "塔塔汽车公布 2031 战略：产品线扩至 25 款，电动汽车目标年销 40 万辆",
-      "summary": "IT之家 6 月 27 日消息，印度塔塔汽车（Tata Motors）乘用车业务部门于 2026 年 6 月 23 日在其投资者日上发布了面向 2031 财年（FY31，截至 2031 年 3 月 31 日）的详细发展规划。公司计划将乘用车产品线从目前的 15 款（9 款燃油车 +6 款电动汽车）大幅扩展至 25 款，其中包括新增 6 款燃油车和 4 款全新电动汽车，此外还将对现有车型进行超过 30 次迭代更新、中期改款和版本增推。在电动化方面，塔塔汽车目前已在印度电动车市场占据领先地位，共有 6 款在售电动车型。塔塔汽车未来规划中的 4 款全新电动汽车中已有两款公开：其一是定于 2026 年",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/514.htm"
-    },
-    {
-      "id": "38c03df8-2d23-818e-b480-f537fc1eaeb8",
-      "title": "I moved to a new country after getting married. The toughest adjustment has been my job search.",
-      "summary": "I moved to a new country after marrying my husband. Job hunting in Australia has been unexpectedly hard, and it feels like I have to start over.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/moving-countries-for-love-hurt-job-search-struggles-starting-over-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-815d-8876-de3077075a2d",
-      "title": "量子梦宣布裁员 115 人，员工为拯救《星球大战：日蚀》发起罢工",
-      "summary": "IT之家 6 月 27 日消息，据外媒 Wccftech 今天（27 日）报道，法国游戏开发商 Quantic Dream（量子梦）的部分员工几天前在巴黎总部外举行罢工，希望阻止最多 115 名同事遭到裁撤，同时保住工作室的重点项目《星球大战：日蚀》。《星球大战：日蚀》早在 TGA 2021 活动中就已正式公布，然而由于多年面临招聘困难等问题，项目开发进展迟缓。2025 年末，工作室推出 3v3 MOBA 游戏《咒术师编年史》，然而该作上个月停止运营，随后工作室触发“内部重组”。所谓“内部重组”，实际指向裁员。《咒术师编年史》团队最多 115 名员工可能失去工作，因此部分员工发起罢工。两名抗议",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/513.htm"
-    },
-    {
-      "id": "38c03df8-2d23-81a0-9709-ea65a68cfbde",
-      "title": "2026 款新大洲本田 NS150LA 摩托车上市，14280 元起",
-      "summary": "IT之家 6 月 27 日消息，2026 款新大洲本田 NS150LA 摩托车正式上市，建议零售价 14280 元起：STD 版：建议零售价 14280 元Pro 版：建议零售价 15680 元这款摩托车轴距 1357mm，有流光银、鎏金黑、曜石绿、璀璨白四种颜色可选；搭载单缸四冲程液冷发动机（基于 Honda 160 eSP + 水冷四气门发动机优化），排量 150cc，油箱容量 8.2L，最高车速 107km/h，官方平均油耗 2.3L/100km。新款车型对后减震进行升级，加长减震行程至 100mm，支持五段可调；大座桶储物空间扩充，可容纳约 3/4 头盔的物品；对鞍座进行加厚，长途骑行",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/512.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8151-a1a0-e70e8e1c1f7f",
-      "title": "In the AI era, be a builder or a seller, not a measurer",
-      "summary": "AI isn't killing tech jobs, says Cloudflare CEO Matthew Prince. It's changing which roles companies value most.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-8198-b1d8-d3e7206f5725",
-      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
-      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty",
-      "source": "The Verge",
-      "publishTime": "2026-06-27",
-      "link": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games"
-    },
-    {
-      "id": "38c03df8-2d23-8121-8523-cb89959a16d6",
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-27",
-      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/"
-    },
-    {
-      "id": "38c03df8-2d23-81ca-a7fe-d3439dcfbd9b",
-      "title": "85% 未成年用户“无视监管”，澳大利亚拟加强 16 岁以下人群社媒禁令",
-      "summary": "IT之家 6 月 27 日消息，据央视新闻报道，当地时间 27 日（今天），澳大利亚联邦政府已提出新法案，将加强针对 16 岁以下用户的社交媒体禁令。此前有调查显示，尽管澳大利亚 2025 年 12 月开始实施全球首例未成年人社交媒体禁令，但该国目前仍有约 85% 的 16 岁以下人群通过各种办法逃避监管、继续使用社交媒体。据IT之家此前报道，这项由澳大利亚纽卡斯尔大学（University of Newcastle）研究人员主导的研究，在法案生效前后分别对 408 名 12 至 17 岁的澳大利亚青少年进行了问卷调查。研究团队在论文中写道：“我们没有找到充分证据表明，该法案的出台对 16 岁",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/511.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8176-86cc-c07dd87ac225",
-      "title": "Anthropic's Mythos 5 gets a limited carveout from US restrictions",
-      "summary": "Anthropic said it is restoring access to Mythos 5 for a set of US organizations that \"operate and defend critical infrastructure.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/anthropic-mythos-5-us-restrictions-fable-5-openai-gpt-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-81b6-bdef-d93911210cc4",
-      "title": "华硕灵耀 14 双屏 2026 将酷睿 Ultra X9 388H 替换为 378H，22499 元",
-      "summary": "IT之家 6 月 27 日消息，华硕灵耀 14 双屏 2026 首发时提供英特尔酷睿 Ultra X9 388H + 32G + 2T 版本（16999 元涨至 22999 元）。这款 sku 目前已经下架，取而代之的是昨日新上架的酷睿 Ultra X9 378H 版本，保留了 32GB LPDDR5x-9600 内存 + 2TB PCIe 4.0 固态硬盘配置，京东首发价 22499 元，7 月 1 日开售，晒单返 100 元 E 卡。京东华硕灵耀 14 双屏 2026 皓石灰酷睿 Ultra X9 378H 32G 2T 2.8K 144Hz OLED Fold 双触控 AI 电脑 224",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/510.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8121-9dab-c83f789d32b2",
-      "title": "vivo 产品副总裁黄韬：对 vivo X Fold6 销量非常有信心，预计销量较上一代提升 30% 以上",
-      "summary": "IT之家 6 月 27 日消息，vivo X Fold6 折叠屏手机昨晚正式发布，售价 7999 元起。vivo 产品副总裁黄韬在发布会后接受媒体采访，他表示 vivo X Fold6 各方面提升非常大，而且价格很有诚意，他对这次新品非常有信心，预计销量较上代提升 30% 以上。作为 Pro 级的产品，（vivo X Fold6）价格是非常非常有诚意的。所以我们对这个产品的销量非常非常有信心，相对上一代，我的判断肯定会有一个起码 30% 以上的提升。据IT之家此前报道，vivo X Fold6 折叠屏手机搭载天玑 9500 超能版处理器，内置 7000mAh 电池，配备 8.02 英寸三星 M",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/509.htm"
-    },
-    {
-      "id": "38c03df8-2d23-8118-9097-cf1381d30636",
-      "title": "Alinea 分析师：《GTA 6》面临的最大挑战是让 2.25 亿玩家放弃《GTA 5》",
-      "summary": "IT之家 6 月 27 日消息，当地时间 25 日，据外媒 Wccftech 报道，Rockstar Games 确认《侠盗猎车手 6》基础版售价为 80 美元后，不少玩家终于松了一口气。80 美元既没有刷新行业纪录，也远低于韦德布什证券分析师迈克尔 · 帕切特此前设想的 100 美元。Alinea 市场分析主管里斯 · 埃利奥特早前就认为，100 美元基础版并不现实，《GTA 6》最终更可能定价 70-80 美元（IT之家注：现汇率约合 476.5 - 544.6 元人民币）。售价公布后，埃利奥特在 LinkedIn 发文重申，R 星作出了正确选择。不过，他也指出，《GTA 6》还要面对系列",
-      "source": "IT之家",
-      "publishTime": "2026-06-27",
-      "link": "https://www.ithome.com/0/969/508.htm"
-    },
-    {
-      "id": "38c03df8-2d23-81f9-b2ce-d63a3cb95558",
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet",
-      "source": "The Verge",
-      "publishTime": "2026-06-27",
-      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech"
-    },
-    {
-      "id": "38c03df8-2d23-815a-a367-dbc6bbc0b1a1",
-      "title": "I moved to Canada and couldn't find a job after months of applying. A unique idea helped me start my own business abroad.",
-      "summary": "When I moved to Canada, I couldn't land a job for months. I started drawing illustrations and posted them on social media. People wanted to buy them.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-27",
-      "link": "https://www.businessinsider.com/moved-canada-couldnt-find-job-started-business-2026-6"
-    },
-    {
-      "id": "38c03df8-2d23-8155-94da-d4aab3a30518",
-      "title": "Alphabet burnishes one of its best weapons in the battle for AI supremacy",
-      "summary": "The Google parent's homegrown silicon is a big advantage in the AI compute race.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-27",
-      "link": "https://www.cnbc.com/2026/06/27/alphabet-burnishes-one-of-its-best-weapons-in-the-battle-for-ai-supremacy.html"
     }
   ],
   "macroEvents": [
