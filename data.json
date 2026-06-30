@@ -1,6 +1,158 @@
 {
-  "updatedAt": "2026-07-01 03:16",
+  "updatedAt": "2026-07-01 05:13",
   "news": [
+    {
+      "id": "38f03df8-2d23-81ca-a0c2-fd38caf2df12",
+      "title": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter",
+      "summary": "Wall Street poured into chipmakers not named Nvidia in the second quarter, as the artificial intelligence boom expanded to include more suppliers.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-01",
+      "link": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html"
+    },
+    {
+      "id": "38f03df8-2d23-8120-aee5-d8856a845e6b",
+      "title": "Palo Alto, CrowdStrike both have best quarter ever as AI threats bolster cyber demand",
+      "summary": "The cybersecurity leaders are leaning into identity security, a critical cyber segment, as AI agents outnumber humans",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-01",
+      "link": "https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html"
+    },
+    {
+      "id": "38f03df8-2d23-81dd-bfb3-c18b24262c58",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-01",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
+    },
+    {
+      "id": "38f03df8-2d23-81c2-b99b-d4352042a761",
+      "title": "In an AI world, taste is a competitive advantage for brands",
+      "summary": "Marketing and AI converge at the BI AI Marketer roundtable, where leaders stress creativity and strategic adoption for long-term brand success.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-01",
+      "link": "https://www.businessinsider.com/ai-adoption-shifts-towards-long-term-strategies-leaders-reveal-2026-6"
+    },
+    {
+      "id": "38f03df8-2d23-818a-a5cd-c3e8506fc34b",
+      "title": "SpaceX's AI boom comes with a perk for Memphis residents: half-price for Starlink",
+      "summary": "SpaceX is offering Memphis residents a 50% Starlink discount amid AI expansions, linked to xAI's Colossus data center in the region.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-01",
+      "link": "https://www.businessinsider.com/spacex-half-price-starlink-memphis-residents-2026-6"
+    },
+    {
+      "id": "38f03df8-2d23-819c-a373-e45980a09f81",
+      "title": "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare",
+      "summary": "Anthropic will start an internal drug discovery program, part of a new push to sell artificial intelligence tools to drugmakers.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-01",
+      "link": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html"
+    },
+    {
+      "id": "38f03df8-2d23-81dc-a537-db7190c603e9",
+      "title": "Acer&#8217;s Swift Go 16 is a lot of laptop for $900",
+      "summary": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best Buy, a steep discount from its usual list price of $1,549.99. The",
+      "source": "The Verge",
+      "publishTime": "2026-07-01",
+      "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale"
+    },
+    {
+      "id": "38f03df8-2d23-81c5-80a4-e415ff2f16ee",
+      "title": "AI tools can give CMOs time to focus on taste and judgment, says Reddit's Jim Squires",
+      "summary": "Jim Squires, Reddit's CFO, told Business Insider how AI-generated content can erode trust and how CMOs need to drive business growth.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-01",
+      "link": "https://www.businessinsider.com/reddit-jim-cfo-squires-cannes-lions-2026-6"
+    },
+    {
+      "id": "38f03df8-2d23-8105-aa91-d0fc299e72c5",
+      "title": "Being \"intentional\" with content will help brands win in GEO, says Chime's top marketer, Vineet Mehra",
+      "summary": "Vineet Mehra of Chime, in a video interview with CMO Insider, spoke about the career \"jungle gym\" and being intentional with content strategy.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-01",
+      "link": "https://www.businessinsider.com/chime-cmo-vineet-mehra-cannes-lions-2026-6"
+    },
+    {
+      "id": "38f03df8-2d23-81ae-aae9-e60c2817a768",
+      "title": "Tech Life",
+      "summary": "We hear concerns that shadow banning is limiting access to health advice for women.",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-01",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy2?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "38f03df8-2d23-81f0-9f15-f6b99cbd2f52",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google detai",
+      "source": "The Verge",
+      "publishTime": "2026-07-01",
+      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips"
+    },
+    {
+      "id": "38f03df8-2d23-81a9-bf83-f5d4f4bfdce8",
+      "title": "Erroneous hijack alert on a flight to Tel Aviv triggered fighter escorts and an emergency landing",
+      "summary": "Passengers on a LOT Polish Airlines flight to Tel Aviv found themselves in a tense mid-air situation. It proved to be a false alarm.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-01",
+      "link": "https://www.businessinsider.com/lot-polish-airlines-flight-diverted-false-hijack-alert-2026-6"
+    },
+    {
+      "id": "38f03df8-2d23-815c-9626-d4d027686528",
+      "title": "I regret visiting 6 different places during my 2-week trip to Europe. Next time, I'm choosing quality over quantity.",
+      "summary": "I spent 2 weeks visiting six cities in four European countries: Berlin, Vienna, Venice, Rome, Milan, and Zurich. I didn't have enough time in each.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-01",
+      "link": "https://www.businessinsider.com/europe-backpacking-travel-tip-visit-fewer-countries-cities"
+    },
+    {
+      "id": "38f03df8-2d23-81ac-8f5d-cb5ef8836713",
+      "title": "I've worked at Costco for 8 years. Here are 11 products I swear by getting at the chain.",
+      "summary": "As a longtime Costco employee and shopper, some of the best deals at the chain range from Kirkland Signature medications and nuts to coffee and stock.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-01",
+      "link": "https://www.businessinsider.com/best-things-to-buy-costco-employee-recommendations-list-2026-6"
+    },
+    {
+      "id": "38f03df8-2d23-81b4-851a-e66ae4c86089",
+      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+      "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-01",
+      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/"
+    },
+    {
+      "id": "38f03df8-2d23-81ea-9bdf-f49347e1b7c6",
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-01",
+      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
+    },
+    {
+      "id": "38f03df8-2d23-8125-ac4c-cf6698a15680",
+      "title": "High-functioning depression can be hard to spot, a psychiatrist says. People-pleasing can hide it even more.",
+      "summary": "High-functioning depression is when symptoms are masked by constantly staying busy and achieving things. People-pleasers are especially prone to it.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-01",
+      "link": "https://www.businessinsider.com/psychiatrist-people-pleasing-can-lead-to-high-functioning-depression-2026-6"
+    },
+    {
+      "id": "38f03df8-2d23-812b-a86c-f6852bbc5517",
+      "title": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
+      "summary": "The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $499.99 (originally $599.99). That’s a great deal considering this is one of LG’s Primary RGB Tandem panels built with fo",
+      "source": "The Verge",
+      "publishTime": "2026-07-01",
+      "link": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale"
+    },
+    {
+      "id": "38f03df8-2d23-811e-ba28-cbfae5ee0ec7",
+      "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
+      "summary": "A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-01",
+      "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/"
+    },
     {
       "id": "38f03df8-2d23-815e-a486-e15e0f01b0cd",
       "title": "007 First Light&#8217;s developer lays off staff but claims its next franchise will continue",
@@ -248,158 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-06-30",
       "link": "https://www.theverge.com/column/959433/libby-ai-filter"
-    },
-    {
-      "id": "38f03df8-2d23-8169-ae88-e63b92b9c606",
-      "title": "Epic CEO 斯威尼称V社错失《堡垒之夜》《英雄联盟》《原神》等游戏，少赚了几十亿美元",
-      "summary": "IT之家 6 月 30 日消息，据科技媒体 Wccftech 今天报道，Epic Games 首席执行官蒂姆 · 斯威尼日前表示，V社（Valve）的 Steam 平台因未能引入《堡垒之夜》《英雄联盟》《原神》等大型在线游戏，错失了数十亿美元的市场机会。斯威尼在近日举行的 Unreal Fest 大会上提出“开放阵营”（IT之家注：Team Open）概念。他在发布会后进一步解释称，自己非常乐意看到V社和 Steam 加入这个开放、互联的游戏生态。当记者问起：“Valve 如今拥有强势地位，为什么还要加入你们阵营？”时，斯威尼回答称：“Valve 错失了大量机会，包括《堡垒之夜》、拳头游戏旗下",
-      "source": "IT之家",
-      "publishTime": "2026-06-30",
-      "link": "https://www.ithome.com/0/970/786.htm"
-    },
-    {
-      "id": "38f03df8-2d23-81e0-9b36-f9c5d0b8ea23",
-      "title": "华为官宣全球首个商用多模态文旅大模型规模化应用",
-      "summary": "IT之家 6 月 30 日消息，华为中国宣布，2026 年 6 月 29 日，全球首个商用多模态文旅大模型 ——“博观文旅大模型”在西安规模应用。截至今年 3 月，“博观”支撑开发的 AI 伴游智能体已覆盖超 400 万用户。其打造的非遗数字 IP，衍生产品销售超 200 万。IT之家查询获悉，陕文投与华为等于 2025 年 9 月联合开发的“博观文旅大模型”是全球首个商用的多模态文旅大模型。它依托高质量数据集与昇腾算力底座，还成为了中国首个以文化保护和传承为核心目标的行业大模型。该数据集的资料总量突破 1.2PB，包含 3100 万张的文旅图片、440 万分钟的文博影像、218 万分钟的音频",
-      "source": "IT之家",
-      "publishTime": "2026-06-30",
-      "link": "https://www.ithome.com/0/970/785.htm"
-    },
-    {
-      "id": "38f03df8-2d23-8171-8aa8-cf21583869a2",
-      "title": "I'm in a long-distance relationship and split my time between the US and Denmark. It's less romantic than it sounds.",
-      "summary": "I'm in a long-distance relationship and frequently travel between the US and Denmark. Our arrangement requires a lot of planning, but it has its perks.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-30",
-      "link": "https://www.businessinsider.com/split-time-between-countries-long-distance-relationship-challenges-perks-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-81cb-a91a-e93c5b105b43",
-      "title": "New York Is About to Feel Hotter Than Phoenix",
-      "summary": "Extreme heat coupled with humidity will make it feel like 109 degrees Fahrenheit as the holiday weekend approaches.",
-      "source": "Wired",
-      "publishTime": "2026-06-30",
-      "link": "https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix/"
-    },
-    {
-      "id": "38f03df8-2d23-812c-bbe0-d7a63d97e5b4",
-      "title": "伦敦大学学院新研究：学校“一刀切”禁带智能手机可能适得其反",
-      "summary": "IT之家 6 月 30 日消息，据外媒 Phys 今天报道，伦敦大学学院（UCL）新研究指出，学校全面禁止学生携带智能手机不仅可能收效甚微，还可能削弱学生对老师的信任，也无法真正解决网络霸凌、社交媒体成瘾等根本问题。据报道，该研究由 UCL 与教育机构 Life Lessons Education 共同完成，采用问卷调查、小组访谈和艺术表达等方法，收集 732 名中学生、27 名教育工作者和 41 名家长意见，分析各大学校智能手机管理政策的利弊。调查结果显示，不同人群对智能手机禁令的看法存在明显分歧。87% 教师、88% 的家长赞同学校禁带手机，然而 75% 的学生反对这种禁令。不少学生认为，",
-      "source": "IT之家",
-      "publishTime": "2026-06-30",
-      "link": "https://www.ithome.com/0/970/784.htm"
-    },
-    {
-      "id": "38f03df8-2d23-8159-acd7-c296f0b1c455",
-      "title": "进厂干活前先上学，谷歌投资的 Apptronik 打造占地 8000 多平米的机器人“学校”",
-      "summary": "IT之家 6 月 30 日消息，机器人上岗前，都得先“上学”。总部位于得克萨斯州的人形机器人初创企业 Apptronik，投资方包括谷歌与梅赛德斯-奔驰，该公司已在奥斯汀打造了一座“机器人实训园”。这座仓库占地近 9 万平方英尺（IT之家注：约 8361 平方米），旗下 Apollo 人形机器人在此反复实操各类作业：把箱子装上传送带、将玩具分拣至收纳箱等。这些机器人大部分时间由人员远程操控。实训园全年无休运转，操作人员站在机器人身旁，实时引导、监控它们完成各项实操任务。实训过程中产生的数据会用于优化充当机器人“大脑”的人工智能模型，最终目标是让人形机器人落地工厂、服务行业与普通家庭，具备实用价",
-      "source": "IT之家",
-      "publishTime": "2026-06-30",
-      "link": "https://www.ithome.com/0/970/782.htm"
-    },
-    {
-      "id": "38f03df8-2d23-81e2-a7fb-cfc1f81c28a9",
-      "title": "确认会坚持智界 R7 的 IP，赵长江称后续的改款将会是年度款",
-      "summary": "IT之家 6 月 30 日消息，鸿蒙智行智界汽车执行董事及执行副总裁赵长江今日与网友谈论起智界 R7 的迭代。他表示：我们改款是年度款，会坚持 R7 的 IP，持续迭代给客户带来更好的体验事实上，智界 R7 是鸿蒙智行首款轿跑 SUV，由华为与奇瑞联手打造，该车沿用 OneBox 造型设计理念，一大亮点就是在 2024 年拥有轿跑 SUV 中最大的内部空间。今年 5 月，在鸿蒙智行智界 V9 发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，智界 R7 和智界 S7 汽车累计交付量已突破 16 万台。另据IT之家此前报道，在今年 3 月的华为春季全场景新品发布会上，",
-      "source": "IT之家",
-      "publishTime": "2026-06-30",
-      "link": "https://www.ithome.com/0/970/783.htm"
-    },
-    {
-      "id": "38f03df8-2d23-8143-90d9-edb1e344d1cd",
-      "title": "A salary over $300,000, lifetime job security, and a private basketball court: 12 perks of being a Supreme Court justice",
-      "summary": "SCOTUS perks have included Beyoncé tickets, access to the US Marshals, lifetime job security, and their own staff.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-30",
-      "link": "https://www.businessinsider.com/supreme-court-justice-perks"
-    },
-    {
-      "id": "38f03df8-2d23-81bb-81be-c6bffe439ee2",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-30",
-      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/"
-    },
-    {
-      "id": "38f03df8-2d23-81a0-8886-fe24f9acec16",
-      "title": "After losing my job, I realized I needed an escape from unemployment. A new hobby helped me find it.",
-      "summary": "After I lost my job, I was constantly stressed about finding a new role. Learning to ice skate eased my anxieties and helped me feel powerful again.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-30",
-      "link": "https://www.businessinsider.com/laid-off-from-job-hobby-helped-mental-health-ice-skating-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-81b0-9e4b-f6534ef7d8d5",
-      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused copper",
-      "summary": "Stealthy startup Arcturus uses lasers to infuse carbon nanomaterials into copper, dramatically improving its ability to conduct electricity.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-30",
-      "link": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/"
-    },
-    {
-      "id": "38f03df8-2d23-8177-876f-e1ee31d47ee1",
-      "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
-      "summary": "AWS FDEs will look to leave behind self-sufficient teams with new AI solutions and capabilities in a matter of weeks, the company said.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-30",
-      "link": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html"
-    },
-    {
-      "id": "38f03df8-2d23-8181-bd0a-e48aa9e79480",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-30",
-      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
-    },
-    {
-      "id": "38f03df8-2d23-8129-8029-c319b919b854",
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "summary": "Users will be able use AI to create newsletters based on their recordings.",
-      "source": "TechCrunch",
-      "publishTime": "2026-06-30",
-      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/"
-    },
-    {
-      "id": "38f03df8-2d23-814e-a86c-fae1ef07c1a2",
-      "title": "比亚迪海豹 08 官宣 2 种动力纯电插混标配闪充，新车 7 月 2 日上市",
-      "summary": "IT之家 6 月 30 日消息，比亚迪海豹 08 海洋网旗舰轿车已官宣将在 7 月 2 日正式上市。据比亚迪汽车海洋网销售事业部总经理张卓今日预热，海豹 08 的 2 种动力 —— 纯电插混均标配闪充，主打“续航不焦虑”。这款海洋网旗舰轿车将提供曜石黑、海雾紫、琉光银、阿卡珊瑚红、云雾白等车身配色，以及云霜米、曦光米、烟霞棕、凝夜紫等内饰配色。新车配备前排双零重力座椅，全车座椅通风 / 加热 / 按摩，迎宾光毯、四门电吸、全车双层静音玻璃，并提供 8 处磁吸拓展点及车规级纸巾盒。IT之家注意到，海豹 08 集后轮转向、第二代刀片电池等技术于一身，尺寸为 5150×1999×1505mm、轴距 ",
-      "source": "IT之家",
-      "publishTime": "2026-06-30",
-      "link": "https://www.ithome.com/0/970/776.htm"
-    },
-    {
-      "id": "38f03df8-2d23-81d2-aa36-c114c7e88744",
-      "title": "单芯片混合精度浮点算力达 896TFLOPS，中昊芯英新一代 TPU 芯片「须臾」发布",
-      "summary": "IT之家 6 月 30 日消息，中昊芯英今天宣布推出新一代全自研高性能 TPU AI 专用芯片「须臾」，软硬件一体化智算底座「泰则 2.0」也在今天同步亮相。据介绍，须臾的单芯片混合精度浮点算力可达 896 TFLOPS，性能是上一代芯片「刹那」的 3 倍；8-bit 推理算力可达 1792TOPS，适配海量词元高并发推理场景。须臾的显存、芯片内部互联速率均有大幅提升，支持超长上下文。单卡额定功耗 600W，相比传统算力芯片功耗降低 50%，助力低碳数据中心建设。同时，须臾的芯片 IP 核、专属指令集、底层算子加速库、整机系统软件均是完整自主研发，无海外核心技术依赖。满足政务、金融、电网等行业",
-      "source": "IT之家",
-      "publishTime": "2026-06-30",
-      "link": "https://www.ithome.com/0/970/774.htm"
-    },
-    {
-      "id": "38f03df8-2d23-819d-9ca1-dd7175d8f018",
-      "title": "OpenAI teases a new device for vibe coders that looks like a mini keyboard",
-      "summary": "The teaser video shows a keyboard-like device slowly flashing a rainbow of colors, followed by two logos: OpenAI and Work Louder.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-30",
-      "link": "https://www.businessinsider.com/openai-teases-codex-hardware-device-mini-keyboard-controller-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-810a-8569-f8cbafbdae2d",
-      "title": "The Supreme Court stops Trump&#8217;s attempt to end birthright citizenship",
-      "summary": "The Supreme Court upheld birthright citizenship, ruling 6-3 against President Donald Trump's effort to end the longstanding constitutional right via executive order. Birthright citizenship dates back to Reconstruction. Under the 14th Amendment, which was ratified in 1868 to guarantee citizenship and",
-      "source": "The Verge",
-      "publishTime": "2026-06-30",
-      "link": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump"
-    },
-    {
-      "id": "38f03df8-2d23-81d8-96d4-e34897dde1db",
-      "title": "2026 电影票房突破 173.54 亿，总场次 7329.6 万创中国影史上半年最高纪录",
-      "summary": "IT之家 6 月 30 日消息，据灯塔专业版，截至 6 月 30 日 21 时，2026 上半年票房突破 173.54 亿，《飞驰人生 3》成为 2026 上半年票房冠军。2026 上半年还创造了中国影史上半年场次最高纪录：总人次 4.21 亿、总场次 7329.6 万。另外，《给阿嬷的情书》《镖人：风起大漠》《惊蛰无声》《熊出没 · 年年有熊》分列票房榜第二至第五位。2026 上半年票房 TOP10 如下：《飞驰人生 3》：44.20 亿《给阿嬷的情书》：19.28 亿《镖人：风起大漠》：14.48 亿《惊蛰无声》：13.65 亿《熊出没 · 年年有熊》：10.67 亿《疯狂动物城 2》：5",
-      "source": "IT之家",
-      "publishTime": "2026-06-30",
-      "link": "https://www.ithome.com/0/970/773.htm"
     }
   ],
   "macroEvents": [
