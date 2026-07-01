@@ -1,6 +1,214 @@
 {
-  "updatedAt": "2026-07-01 06:49",
+  "updatedAt": "2026-07-01 09:38",
   "news": [
+    {
+      "id": "38f03df8-2d23-8176-9742-fe75c78a31eb",
+      "title": "谷歌推出 AI 生图模型 Nano Banana 2 Lite：4 秒出图，比标准版更快更便宜",
+      "summary": "IT之家 7 月 1 日消息，当地时间周二，谷歌发布了新款自研 AI 图像与视频生成模型 Nano Banana 2 Lite，宣称相比上一代速度更快、使用成本更低。Nano Banana 2 Lite 可在 4 秒内生成一张图像，延迟较此前明显下降，适合需要快速反复修改方案，或在短时间内批量生成大量图像的工作，每生成 1000 张图像仅收费 0.034 美元（IT之家注：现汇率约合 0.23 元人民币）。谷歌去年夏季推出由 Gemini 3.1 Flash 支持的初代 Nano Banana，随后在今年 2 月发布 Nano Banana 2，增加了生成更逼真图像等能力。谷歌同时提供功能更强",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/812.htm"
+    },
+    {
+      "id": "38f03df8-2d23-8156-83f4-c5bbb9a31c23",
+      "title": "影驰 HOF OC LAB 版 RTX 5090D 首破 4GHz，成 Blackwell 超频里程碑",
+      "summary": "IT之家 7 月 1 日消息，希腊超频团队 Team OGS 使用影驰名人堂 HOF OC LAB 版 GeForce RTX 5090D 显卡，成功将 GPU 频率超频至 4002MHz，这是英伟达 Blackwell 架构 GPU 首次突破 4GHz 大关。该成绩已在 HWBOT 超频数据库提交并登顶。OGS 团队此次使用的并非 RTX 5090D v2 版本，而是搭载与标准 RTX 5090 相同规格 GPU 核心的初版影驰 HOF OC LAB 显卡，该卡配备双 16pin 供电接口和夸张的 36 相供电设计。团队在超频过程中换掉了显卡原装的 27MHz 晶振，改用 Elmor 推出的",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/811.htm"
+    },
+    {
+      "id": "38f03df8-2d23-813b-9c32-c6343f16f13c",
+      "title": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开“建设性”会谈",
+      "summary": "IT之家 7 月 1 日消息，据英国《金融时报》报道，当地时间周二，苹果 CEO 蒂姆 · 库克与欧盟科技事务负责人亨娜 · 维尔库宁举行了“建设性”会谈，试图缓和围绕新版 Siri AI 持续升级的争端。一名欧盟发言人表示：“双方在视频会议中就共同关切议题进行了建设性交流，并将继续推进后续工作。”两名知情人士透露，双方重点讨论了苹果如何在欧洲推出新版 Siri，同时避免因违反欧盟核心竞争法规而遭到数百万美元罚款。新版 Siri 暂未进入欧盟市场，也令苹果与欧盟围绕《数字市场法》的矛盾进一步公开化。据IT之家了解，欧盟希望通过《数字市场法》迫使大型科技集团向竞争对手开放平台。苹果表示，欧盟没有",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/810.htm"
+    },
+    {
+      "id": "38f03df8-2d23-8136-bd23-d98a4a15c870",
+      "title": "系列最强智能体 AI 模型：Claude Sonnet 5 登场，部分性能逼近 Opus 4.8",
+      "summary": "IT之家 7 月 1 日消息，Anthropic 今天（7 月 1 日）发布公告，宣布推出 Claude Sonnet 5，声称是其 Sonnet 系列中智能体 AI 表现最强的模型，能够制定计划、使用浏览器和终端等工具，并自主运行。费用方面，Claude Sonnet 5 模型已上线，已接入 Claude Code 和 Claude Platform，开发者在调用 API 时可指定“claude-sonnet-5”模型调用，IT之家附上价格信息如下：优惠期（至 2026 年 8 月 31 日）每 100 万 Tokens 输入费用为 2 美元（现汇率约合 13.6 元人民币）每 100 万 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/809.htm"
+    },
+    {
+      "id": "38f03df8-2d23-8110-a998-db78f41f1013",
+      "title": "摆脱对 SpaceX 依赖：日本拟投资 1500 亿日元打造国产低轨卫星通信网",
+      "summary": "IT之家 7 月 1 日消息，日本总务省 6 月 30 日正式宣布，选定乐天集团旗下相关企业作为低轨卫星通信服务的补助对象。根据计划，日本政府将在未来三年内累计提供最高 1500 亿日元（IT之家注：现汇率约合 63.03 亿元人民币）的资金，用于支持卫星采购、发射以及地面控制设施的建设，以打造日本国产的低轨卫星星座。该扶持计划是总务省“确保自主性的低轨卫星基础设施建设项目”（简称 J-LEO）的核心举措。其目的是为了从经济安全保障的角度出发，培育日本本土的卫星通信产业，降低对美国 SpaceX 旗下 Starlink 等海外服务的依赖。日经表示，推动这一决策的直接动因之一，是 2024 年能",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/808.htm"
+    },
+    {
+      "id": "38f03df8-2d23-8107-93fb-c1a0f613fc19",
+      "title": "IT早报 0701：寒武纪成科创板首支万亿市值股票；11.98~99 万元优必选超仿生人形机器人 U1 发布；小米 REDMI K90 至尊版手机发布；iPhone 18 工厂照首秀...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 1 日星期三，今天的重要科技资讯有：1、科创板首支万亿市值股票诞生，寒武纪年初至今累计上涨 75%算力芯片龙头寒武纪 6 月 30 日盘中涨幅扩大至 7%，成为科创板首支总市值突破 1 万亿个股，位居 A 股总市值第 9 位，该股年初至今累计上涨超 75%。>> 查看详情2、11.98~99 万元，优必选首款全尺寸超仿生人形机器人优世界 U1 系列发布优必选 6 月 30 日正式发布消费级品牌“优世界”首款产品 U1 系列，主打家庭情感陪伴。男款身高 183cm，女款 168cm，全身 88 个活动关节，搭载专属情感大模型。6 月 2 日",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/806.htm"
+    },
+    {
+      "id": "38f03df8-2d23-813b-9e7d-cdd87fe0215e",
+      "title": "路虎推出全新发现 Landmark 特别版，或为现款车型收官之作",
+      "summary": "IT之家 7 月 1 日消息，据外媒 Autocar 今天（1 日）报道，路虎发布了全新发现 Landmark 高配版。现款发现上市至今已有九年，Landmark 有望是第五代发现大幅转型前的最后一个版本。Landmark 这个名称曾用于发现 2、发现 3 和发现 4 停产前推出的末期特别版，因此再次启用 Landmark，也让外界猜测现款发现已经接近产品周期终点。发现 Landmark 售价 7.6 万英镑（IT之家注：现汇率约合 68.4 万元人民币），定位介于 7 万英镑（现汇率约合 63 万元人民币）的入门版 S 和 8.4 万英镑（现汇率约合 75.6 万元人民币）的顶配 Tempe",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/807.htm"
+    },
+    {
+      "id": "38f03df8-2d23-818c-b359-dcf2495bb4f4",
+      "title": "全国首例涉大熊猫网络谣言案入选法院案例库，主播夫妇双双获刑",
+      "summary": "IT之家 7 月 1 日消息，6 月 30 日，我国首例涉大熊猫网络谣言、网络暴力的刑事案件“白某红、徐某寻衅滋事案”正式入选人民法院案例库。公开资料显示，四川省都江堰市人民法院已于 2025 年 6 月 26 日作出（2025）川 0181 刑初 69 号刑事判决，以寻衅滋事罪判处被告人白某红有期徒刑一年六个月，判处被告人徐某有期徒刑一年二个月。宣判后二人均未上诉、检察机关未抗诉，判决已发生法律效力。经法院审理查明，2023 年 3 月至 2024 年 5 月间，被告人白某红、徐某为扩大直播影响力、增加人气以获取经济利益，在明知相关信息不实的情况下，使用网名“大辽皇后”，于抖音、快手等短视频",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/805.htm"
+    },
+    {
+      "id": "38f03df8-2d23-81a7-8fff-f6b61dfc7709",
+      "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
+      "summary": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-01",
+      "link": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html"
+    },
+    {
+      "id": "38f03df8-2d23-81e0-ac7b-cf54c75d0ebe",
+      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+      "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
+      "source": "Wired",
+      "publishTime": "2026-07-01",
+      "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/"
+    },
+    {
+      "id": "38f03df8-2d23-8182-9294-e9e879e58984",
+      "title": "消息称微软近期将宣布新一轮数千人规模裁员，这次轮到 XBOX 业务",
+      "summary": "IT之家 7 月 1 日消息，据《商业内幕》援引多名知情人士消息称，微软准备在近期宣布新一轮裁员，以进一步控制成本。此次调整预计波及数千个岗位，范围包括销售、咨询和 XBOX 游戏业务。知情人士称，本轮裁员规模将小于去年，涉及人数不会超过微软 22 万名员工总数的 2.5%。微软暂定下周公布裁员消息，具体时间仍可能变化。一名知情人士透露，部分受影响员工会立即获得内部转岗机会。微软过去也曾在 7 月 1 日新财年开始前后调整人员。去年 5 月，微软裁撤 6000 个岗位，7 月又裁减 9000 名员工，后一次裁员约占员工总数的 4%。新一轮裁员反映出，微软一边大幅增加 AI 投资，一边压缩其他成",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/804.htm"
+    },
+    {
+      "id": "38f03df8-2d23-8193-a48f-c3aea5c6cada",
+      "title": "苹果 iPhone 18 Pro / Max 爆料：自研 C2 基带、支持 eSIM、主摄升级索尼 IMX905",
+      "summary": "IT之家 7 月 1 日消息，科技媒体 AppleInsider 昨日（6 月 30 日）发布博文，进一步挖掘从塔塔电子流出的文件，发现更多关于 iPhone 18 Pro 和 iPhone 18 Pro Max 两款机型的细节。基带方面，消息称基于披露文件内容，苹果公司计划分区域部署 iPhone 基带。在美国市场由于需要支持 mmWave 毫米波，苹果计划为 iPhone 18 Pro 和 iPhone 18 Pro Max 配置高通基带芯片。根据披露的物料清单，美版 iPhone 涉及多个高通组件，涵盖 SDX80M、SDR875、QDM8771、QDM8720、PMK75、PMX75 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/803.htm"
+    },
+    {
+      "id": "38f03df8-2d23-81bf-bde9-e0cdc7d1c296",
+      "title": "NASA 再向三家公司授予 5.9 亿美元月球着陆器合同，拟发射月球车",
+      "summary": "北京时间 7 月 1 日，据彭博社报道，美国宇航局 (NASA) 又选定了三家公司向月球发射机器人着陆器，这是该机构在 2030 年前建立月球基地计划的一部分。NASA 在周二宣布，向 Astrobotic Technology 公司授予两份合同，总金额约 2.98 亿美元；向 Firefly Aerospace 公司授予一份合同，金额约 1.44 亿美元；向 Intuitive Machines 公司授予一份合同，金额约 1.48 亿美元。三项合同总金额约 5.9 亿美元。Astrobotic 将于今年或 2027 年初向月球发射一台着陆器，该着陆器将是该公司“游隼”号着陆器的升级版本。“游",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/801.htm"
+    },
+    {
+      "id": "38f03df8-2d23-81d7-a35e-e31aae65088c",
+      "title": "Meta CEO 扎克伯格不认为 AI 必然会带来大规模失业，建议企业发展“个人超级智能”",
+      "summary": "IT之家 7 月 1 日消息，据《商业内幕》1 日（今天）报道，Meta CEO 马克 · 扎克伯格不认为 AI 必然会造成大规模失业：“大家好像都认为这种结果不可避免，可我并不。”扎克伯格认为，如果企业把更多精力放在“个人超级智能”上，而不是试图将所有知识工作自动化，就业前景可能会有所改善。这番话既是在为 Meta 的 AI 路线造势，也是在影射 Anthropic 和 OpenAI 等领先 AI 公司。扎克伯格称，如果未来只有少数公司一心推动知识工作自动化，结果会“很不理想”。“如果能够保持平衡，一些公司负责提高企业运营效率，另一些公司则沿着个人超级智能的方向发展，为个人提供更强能力，并在",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/802.htm"
+    },
+    {
+      "id": "38f03df8-2d23-81d6-b934-d9a2ba22997d",
+      "title": "Dish 申请破产保护：电视与流媒体服务继续运营，5G 频谱出售推迟",
+      "summary": "IT之家 7 月 1 日消息，综合路透社、华尔街日报等多家媒体报道以及 Dish 官方公告，运营 Dish TV 和 Sling TV 的 Dish 公司已申请破产保护。Dish DBS 公司及其子公司（含 Dish Wireless）于 6 月 30 日正式在德州南区破产法院启动预重整案件，寻求法院批准其“预打包”联合破产计划。该计划将依据今年 3 月 19 日签署的重组支持协议执行，目前已获得持有 Dish DBS 超过 88% 有担保和无担保债券的债权人支持，这些债权人同时持有超过 88 亿美元（IT之家注：现汇率约合 598.79 亿元人民币）的 Dish Wireless 债务。公司",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/800.htm"
+    },
+    {
+      "id": "38f03df8-2d23-81ba-9b3e-f76df1938f70",
+      "title": "I knew Bangkok would be cheaper than New York. I didn't expect it to feel so much kinder.",
+      "summary": "Erasmo Guerra enjoys a takeout dinner on his balcony in Bangkok while watching the neon-lit dinner boats cruise along the river.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-01",
+      "link": "https://www.businessinsider.com/couple-left-new-york-moved-to-bangkok-thailand-affordable-life-2026-6"
+    },
+    {
+      "id": "38f03df8-2d23-8127-955f-d2a734f32456",
+      "title": "Microsoft plans another round of job cuts, impacting thousands of roles",
+      "summary": "Microsoft is planning job cuts that are expected to affect areas such as sales, consulting, and Xbox as it ramps up AI spending.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-01",
+      "link": "https://www.businessinsider.com/microsoft-job-cuts-layoffs-sales-consulting-2026-6"
+    },
+    {
+      "id": "38f03df8-2d23-819c-9081-da7d5c6beab0",
+      "title": "史上变化最大的一代：第五代宝马 X5 正式登场，新世代设计、集齐五种动力",
+      "summary": "IT之家 7 月 1 日消息，北京时间 6 月 30 日晚，第五代宝马 X5 正式发布。宝马为新车换上新世代设计语言，重新构思内饰，并一次提供五种动力方案，成为自诞生以来变化最大的一代 X5。全新 X5 的车头采用双 X 形大灯，切换灯光模式后，大灯还能变为黄色，向经典宝马 M 车型致敬。车内另有独立按键，可以彻底关闭灯带。传统门把手也从车身侧面消失。宝马采用了翼片式门把手，通过按键控制开启。新设计让车侧更加简洁流畅，更被宝马称作是“工程能力”的体现。与改款 7 系一样，车主也可以通过车钥匙或手机上的 BMW 应用遥控开关车门。最具争议的变化出现在车尾。新车取消了 X5 长期沿用的上下对开式“",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/799.htm"
+    },
+    {
+      "id": "38f03df8-2d23-8165-96ae-c9b6caabf9a7",
+      "title": "E-scooters being advertised for commuting despite UK road ban",
+      "summary": "A Press Association investigation found major retailers advertising e-scooters for \"commuting\" and \"urban riding\".",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-01",
+      "link": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "38f03df8-2d23-8157-8a66-d99810effe41",
+      "title": "亚马逊以 225 万美元和解 FTC 指控，曾要求客户指认盗刷者才提供信息",
+      "summary": "IT之家 7 月 1 日消息，亚马逊同意支付 225 万美元（IT之家注：现汇率约合 1531 万元人民币），以了结美国监管机构对其未向身份盗窃受害者提供必要记录的指控。和解协议于当地时间周一提交至华盛顿联邦法院的文件中披露。此前，美国联邦贸易委员会（FTC）调查发现，亚马逊未依照《公平信用报告法》向客户提供以其名义进行的欺诈性购买信息，随后将此案移交司法部。司法部于今年 5 月达成和解，要求亚马逊在收到请求后 30 天内，免费向身份盗窃受害者提供相关业务交易记录。FTC 消费者保护局局长克里斯托弗 · 穆法里奇（Christopher Mufarrige）表示：“亚马逊经常将身份盗窃受害者置",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/798.htm"
+    },
+    {
+      "id": "38f03df8-2d23-8125-86a4-e26dfbccd133",
+      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+      "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-01",
+      "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/"
+    },
+    {
+      "id": "38f03df8-2d23-8122-8aa3-d319f0876b93",
+      "title": "苹果中国官网概览 iOS / iPadOS / macOS 27 等系统：体验感愉悦升华",
+      "summary": "IT之家 7 月 1 日消息，苹果官网昨日（6 月 30 日）更新“OS 概览”页面，详细介绍 iOS 27、iPadOS 27、macOS 27 Golden Gate、watchOS 27 与 visionOS 27 系统的新功能 / 新特性，正式版将于今年秋季推出。在界面上，苹果 iOS 27、iPadOS 27 进一步打磨液态玻璃（Liquid Glass）设计，主要优化对比度，确保内容清晰易读；以及新增调节滑块，让用户随心调整 Liquid Glass 的外观效果。速度方面，苹果表示 iOS / iPadOS 27 优化 App 启动速度，升级隔空投送，让其传输表现更迅捷；网络体验方",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/797.htm"
+    },
+    {
+      "id": "38f03df8-2d23-81ba-b538-c7abd3b7d3f6",
+      "title": "小米智能存储规格揭晓：4+32GB 存储 + 2.5G 单网口，最高 40Mbps 免费远程访问",
+      "summary": "IT之家 7 月 1 日消息，小米智能存储将于 7 月 1 日 10:00 正式众筹开售（点此直达），采用双盘位设计，IT之家附价格如下：版本配置众筹到手价厂商建议零售价入门版4TB（2TB×2）¥2299¥3499进阶版8TB（4TB×2）¥2899¥4499专业版16TB（8TB×2）¥4699¥6999该机采用双盘位设计，最大支持 60TB（30TBx2），适配 3.5/2.5 英寸个人硬盘，支持双盘模型下的动态备份 / 双备份功能，提供 1 个 USB-A 3.0 接口、1 个 HDMI 1.4 接口、1 个 2.5GbE 网口。据官方页面介绍，这款产品配备了 4GB 内存 +32GB",
+      "source": "IT之家",
+      "publishTime": "2026-07-01",
+      "link": "https://www.ithome.com/0/970/796.htm"
+    },
+    {
+      "id": "38f03df8-2d23-812f-a6cd-de9df14602d8",
+      "title": "Dish files for bankruptcy, but not shutting down",
+      "summary": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen delays\" held back its sale of $23 billion worth of 5G spectrum",
+      "source": "The Verge",
+      "publishTime": "2026-07-01",
+      "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy"
+    },
+    {
+      "id": "38f03df8-2d23-8181-9da4-f82f28120552",
+      "title": "Micron CEO: Customers driving hard bargain on price contributed to memory shortage",
+      "summary": "Micron CEO Sanjay Mehrotra said years of aggressive pricing pressure left the memory industry underinvested, contributing to today's supply shortages.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-01",
+      "link": "https://www.cnbc.com/2026/06/30/micron-ceo-customers-driving-hard-bargain-on-price-contributed-to-memory-shortage.html"
+    },
+    {
+      "id": "38f03df8-2d23-81b9-9caa-f73c21f8fe18",
+      "title": "Jim Cramer says the AI trade has shifted — and these stocks are leading now",
+      "summary": "CNBC's Jim Cramer said Wall Street is rewarding the companies supplying the artificial intelligence boom rather than the technology giants funding it.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-01",
+      "link": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html"
+    },
     {
       "id": "38f03df8-2d23-810e-b3d1-c043b6f6dccc",
       "title": "OpenClaw is finally available on Android and iOS",
@@ -192,214 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-07-01",
       "link": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs"
-    },
-    {
-      "id": "38f03df8-2d23-814b-adb8-ead31e57bafd",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-01",
-      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
-    },
-    {
-      "id": "38f03df8-2d23-81e6-9017-cddc4ddac1c6",
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-01",
-      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
-    },
-    {
-      "id": "38f03df8-2d23-8159-94ca-ea50f8d731ed",
-      "title": "Jim Cramer: This third-best S&P 500 stock in 2026 can jump another 40%",
-      "summary": "\"Intel is going to $200 like a rocket ship,\" Jim Cramer said Tuesday.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-01",
-      "link": "https://www.cnbc.com/2026/06/30/jim-cramer-this-third-best-sp-500-stock-in-2026-can-jump-another-40percent.html"
-    },
-    {
-      "id": "38f03df8-2d23-81f1-a090-f46db73a80ee",
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
-      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-01",
-      "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
-    },
-    {
-      "id": "38f03df8-2d23-8126-9d29-cf9c02914770",
-      "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
-      "summary": "Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available through Motorola’s site at a special $19.99 launch price (originally $29.99). There are plenty of trac",
-      "source": "The Verge",
-      "publishTime": "2026-07-01",
-      "link": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale"
-    },
-    {
-      "id": "38f03df8-2d23-8182-a3dd-c896dbbb9a1a",
-      "title": "Blue Origin pivots to redesigned launchpad after explosion in push to fly by end of 2026",
-      "summary": "Blue Origin won't be \"rebuilding the same pad,\" and will instead adopt a configuration that was in development for a larger variant of its New Glenn rocket.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-01",
-      "link": "https://www.cnbc.com/2026/06/30/blue-origin-explosion-launchpad.html"
-    },
-    {
-      "id": "38f03df8-2d23-8178-afe6-eded1f249edc",
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI f",
-      "source": "The Verge",
-      "publishTime": "2026-07-01",
-      "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder"
-    },
-    {
-      "id": "38f03df8-2d23-81ae-a242-ceff2267337a",
-      "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
-      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a move accused of being \"union busting.\" A",
-      "source": "The Verge",
-      "publishTime": "2026-07-01",
-      "link": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi"
-    },
-    {
-      "id": "38f03df8-2d23-8164-9cb1-f5612ed57bf6",
-      "title": "C-141 Starlifters transported troops and cargo for over 40 years before C-17s made them obsolete. Take a look inside.",
-      "summary": "The C-141 Starlifter was known as the \"workhorse\" of the US Air Force for over 40 years. Take a look inside one on display.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/air-force-cargo-planes-c-141b-starlifter-history-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-81e0-9035-eeaf789fa1f2",
-      "title": "Xbox weighs canceling Blade game and shuttering Arkane",
-      "summary": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to studio closures or spinoffs, potential mergers of studios, and canceled games. I understand Microsoft is currently weighin",
-      "source": "The Verge",
-      "publishTime": "2026-07-01",
-      "link": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure"
-    },
-    {
-      "id": "38f03df8-2d23-81a9-956e-d8577328de3d",
-      "title": "Google&#8217;s killing off Tenor GIF searches in other apps",
-      "summary": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor website, along with its searchable GIF library, will remain live, platforms like X, Discord, Bluesky, and WhatsApp that previo",
-      "source": "The Verge",
-      "publishTime": "2026-07-01",
-      "link": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker"
-    },
-    {
-      "id": "38f03df8-2d23-819d-8c42-d85e92c6849d",
-      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-01",
-      "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
-    },
-    {
-      "id": "38f03df8-2d23-81af-93bd-fa60a02b8607",
-      "title": "Threads adds new features to Live Chats as it expands access",
-      "summary": "The updates include translations, new tools for hosts, and more.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-01",
-      "link": "https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/"
-    },
-    {
-      "id": "38f03df8-2d23-8122-96a3-e9537aa757d5",
-      "title": "The new generation of US submarine workers wants more work-life balance and isn't afraid to leave a job, Navy workforce official says",
-      "summary": "As the US Navy addresses its shipbuilding workforce problems, it's appealing to a younger generation of workers with certain expectations.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/young-us-submarine-workers-want-balance-arent-afraid-leave-jobs-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-8111-8ca3-def688ec66cd",
-      "title": "Serena Williams arrived at Wimbledon with a $45,000 pink watch. Here's a look at her timepiece and other A-list wrist candy.",
-      "summary": "Wimbledon 2026 is underway, and its audience is filled with celebrities wearing coveted watches. Serena Williams and David Beckham are among them.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/wimbledon-luxury-watches-celebrities-wore-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-81fb-9491-cb144ecd675d",
-      "title": "What's your RTO routine? Take our survey.",
-      "summary": "For many workers, office routines have settled into place. We want to hear about your routine.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/how-often-are-you-going-to-office-take-survey-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-8151-b7ca-e486a2cc07ff",
-      "title": "I asked strangers to let me grow flowers in their yards, and 40 people said yes. I turned their kindness into a business.",
-      "summary": "Marisa Mender-Franklin built a flower business after dozens of neighbors offered free yard space through Facebook.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/asked-strangers-to-farm-their-yards-business-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-8123-b632-f4ac613bd9bf",
-      "title": "8 things passengers should stop wasting money on, according to a flight attendant",
-      "summary": "As a flight attendant, I have tips and tricks for saving money on everything from food and water to upgrades and currency exchanges while traveling.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/things-you-should-avoid-buying-planes-airports-flight-attendant-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-8172-a6c9-eda32c72a84a",
-      "title": "A dietitian and professional track coach shares her 3 tips for building muscle and losing fat",
-      "summary": "A dietitian and track coach said timing her protein intake helps her build muscle. That way, she feels properly fueled for her workouts.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/dietitian-shares-tips-for-building-muscle-losing-fat-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-81ec-832b-c3f104b16a3c",
-      "title": "Nursing and dozens of other programs are officially added to Trump's higher student-loan limits — for now",
-      "summary": "After a court ruling, the Education Department issued a new rule that includes dozens more programs in the higher student-loan borrowing caps.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/nurses-higher-student-loan-limits-trump-debt-repayment-overhaul-caps-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-8133-a81b-f3d829ea39db",
-      "title": "Blue Origin still doesn’t know why its New Glenn rocket blew up last month",
-      "summary": "But the company is still claiming that New Glenn will return to flight this year.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-01",
-      "link": "https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/"
-    },
-    {
-      "id": "38f03df8-2d23-8174-a411-fb5ac6392e49",
-      "title": "The Bose Soundlink Max is $120 off ahead of the July 4th weekend",
-      "summary": "The Bose Soundlink Max is usually $399, but has been on steep discount this week at Amazon, Best Buy, and directly from Bose for $279. This Bluetooth speaker has a big and bold sound, with a wide soundstage that impressed us in our review. It’s great for the outdoors thanks to its IP67 rating, meani",
-      "source": "The Verge",
-      "publishTime": "2026-07-01",
-      "link": "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale"
-    },
-    {
-      "id": "38f03df8-2d23-81b5-b793-f3f700e91dbe",
-      "title": "What is a quantum computer good for? Absolutely nothing — yet",
-      "summary": "To this day, we have yet to see a quantum computer conclusively perform a single useful task. Existing machines are simply too small and error-ridden to solve commercially relevant problems. That hasn't stopped Donald Trump's science adviser from promising a \"quantum computer powerful enough for sci",
-      "source": "The Verge",
-      "publishTime": "2026-07-01",
-      "link": "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo"
-    },
-    {
-      "id": "38f03df8-2d23-814a-b740-ef3ae2c4084a",
-      "title": "Mark Zuckerberg says he doesn't buy the anxiety about AI-related job displacement",
-      "summary": "\"I think that people assume that that's inevitability,\" Meta CEO Mark Zuckerberg said. \"I don't actually think it is.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-06-30",
-      "link": "https://www.businessinsider.com/mark-zuckerberg-ai-job-displacement-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-8103-b5fb-caa09be89785",
-      "title": "Ancestry has spent decades digitizing family records. AI is helping speed it up.",
-      "summary": "Ancestry employs AI and machine learning to expedite digitization of family records, boosting user tools and expanding historical data accessibility.",
-      "source": "Business Insider",
-      "publishTime": "2026-06-30",
-      "link": "https://www.businessinsider.com/ancestry-ai-llm-record-transcription-digitization-facial-recognition-2026-6"
-    },
-    {
-      "id": "38f03df8-2d23-8177-a4e8-ee5d63388496",
-      "title": "AeroVironment skyrockets 15% as dronemaker capitalizes on defense spending surge",
-      "summary": "AeroVironment is benefiting from U.S. plans to modernize the U.S. military and secure space.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-06-30",
-      "link": "https://www.cnbc.com/2026/06/30/aerovironment-avav-stock-earnings-defense.html"
     }
   ],
   "macroEvents": [
