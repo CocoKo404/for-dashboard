@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-07-02 03:16",
+  "updatedAt": "2026-07-02 05:05",
   "news": [
+    {
+      "id": "39003df8-2d23-81c2-ae77-d7998588a8f0",
+      "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
+      "summary": "The stock's struggles in 2026 had been due to concerns about its aggressive AI spending.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-02",
+      "link": "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html"
+    },
+    {
+      "id": "39003df8-2d23-81f9-bbf5-d23c0708659a",
+      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+      "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-02",
+      "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/"
+    },
+    {
+      "id": "39003df8-2d23-8113-b694-d5032a0065f2",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-02",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+    },
+    {
+      "id": "39003df8-2d23-818a-9436-cb7543ed7d9d",
+      "title": "A Washington, DC, rowhouse built during George Washington's presidency is on sale for $1.15 million. Look inside.",
+      "summary": "The Wheat Row homes in Washington, DC, were built in 1794, but have some modern flourishes. See inside one of the historic homes.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-02",
+      "link": "https://www.businessinsider.com/washington-dc-townhouse-1790s-on-market-2026-2"
+    },
+    {
+      "id": "39003df8-2d23-81c9-a9d4-c37869f29b8f",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-02",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
+    },
+    {
+      "id": "39003df8-2d23-8168-a56c-e2c8ba452b50",
+      "title": "Retailers are calling on AI to stop customer return fraud",
+      "summary": "Retailers are implementing AI through software companies like Happy Returns and Narvar to detect return fraud and issue refunds more quickly.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-02",
+      "link": "https://www.businessinsider.com/return-fraud-ai-retail-happy-returns-optoro-2026-6"
+    },
+    {
+      "id": "39003df8-2d23-8169-a491-e813a8f03b26",
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "summary": "The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-02",
+      "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"
+    },
+    {
+      "id": "39003df8-2d23-81cc-98ab-ca92babf04b7",
+      "title": "How Trump's new Air Force One, a luxury jet from Qatar, compares to the outgoing presidential plane",
+      "summary": "Donald Trump flew on the new Air Force One, a luxury jet gifted from Qatar, for the first time. Here's how it compares to the old presidential plane.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-02",
+      "link": "https://www.businessinsider.com/trump-new-air-force-one-differences-cost-photos-2026-7"
+    },
+    {
+      "id": "39003df8-2d23-8169-b60f-c6063320bbd3",
+      "title": "Lime begins life as a public company after years of uncertainty",
+      "summary": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-02",
+      "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/"
+    },
+    {
+      "id": "39003df8-2d23-813a-b86b-d3eb29be21ba",
+      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+      "source": "Wired",
+      "publishTime": "2026-07-02",
+      "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/"
+    },
+    {
+      "id": "39003df8-2d23-81cf-838d-cd9ab3d5db82",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-02",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
+    },
+    {
+      "id": "39003df8-2d23-8109-a7c4-fb560a5d027e",
+      "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
+      "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland and",
+      "source": "The Verge",
+      "publishTime": "2026-07-02",
+      "link": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds"
+    },
+    {
+      "id": "39003df8-2d23-813f-8b9b-c02c68a046e8",
+      "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
+      "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to dig",
+      "source": "The Verge",
+      "publishTime": "2026-07-02",
+      "link": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection"
+    },
+    {
+      "id": "39003df8-2d23-8168-8eb7-df818eaea832",
+      "title": "Sony’s PlayStation Puts a Nail in Physical Media’s Coffin",
+      "summary": "Is PlayStation about to make the same mistake Microsoft made with Xbox One?",
+      "source": "Wired",
+      "publishTime": "2026-07-02",
+      "link": "https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/"
+    },
+    {
+      "id": "39003df8-2d23-8181-b50d-ed0dcd81830a",
+      "title": "We thought these 5 stocks could make a 2026 comeback. Here’s our midyear scorecard",
+      "summary": "Despite war volatility and AI concerns, the S&P 500 still managed to jump 9.5% year to date.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-02",
+      "link": "https://www.cnbc.com/2026/07/01/we-thought-these-5-stocks-could-make-a-2026-comeback-heres-our-midyear-scorecard.html"
+    },
+    {
+      "id": "39003df8-2d23-8138-ae99-dc8ebfef447b",
+      "title": "Even Honda is pivoting to data centers",
+      "summary": "Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-02",
+      "link": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/"
+    },
     {
       "id": "39003df8-2d23-8163-be34-d63b2f99427d",
       "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freights",
@@ -272,134 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-07-01",
       "link": "https://www.businessinsider.com/best-and-worst-summer-items-trader-joes-review-2026"
-    },
-    {
-      "id": "39003df8-2d23-81c0-9d29-d54ae492a155",
-      "title": "格科：2 亿像素传感器产品开发顺利，并与部分客户达成初步合作意向",
-      "summary": "IT之家 7 月 1 日消息，连续两个交易日涨停后，格科微有限公司（简称格科、股票简称为格科微）发布股票交易异常波动暨交易风险提示公告。IT之家注：格科微有限公司成立于 2003 年，总部设于中国上海，主营业务为 CMOS 图像传感器和显示驱动芯片的研发、设计、制造、封测和销售。格科在公告中表示，公司 2 亿像素产品开发顺利，并与部分客户达成初步合作意向，但尚未形成客户产品出货。对于临港 12 英寸晶圆厂，格科称目前主要生产产品为公司高端 CIS 产品。未来仍将专注主业进行工艺开发和产品研发。据IT之家此前报道，今年 3 月，格科推出两款 1/2\" 0.8μm 5000 万像素 CMOS 图像",
-      "source": "IT之家",
-      "publishTime": "2026-07-01",
-      "link": "https://www.ithome.com/0/971/378.htm"
-    },
-    {
-      "id": "39003df8-2d23-8184-b0a5-e2fa4b3b5756",
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-01",
-      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
-    },
-    {
-      "id": "39003df8-2d23-8167-bcf3-d352c2ba2292",
-      "title": "诺兰导演年度大作《奥德赛》终极中字预告片曝光，每一帧画面都由 IMAX 胶片摄影机拍摄",
-      "summary": "IT之家 7 月 1 日消息，克里斯托弗 · 诺兰导演的年度大作《奥德赛》确认引进，将登陆全国大银幕，已定档今年 8 月 14 日上映（北美 7 月 17 日）。据介绍，影片每一帧画面都由 IMAX 胶片摄影机拍摄。在 IMAX70mm 影院，影片将以 IMAX 1.43:1 的扩展宽高比放映。目前，《奥德赛》终极中字预告片已曝光。影片改编自荷马史诗，讲述特洛伊战争后奥德修斯回乡的漫长旅程。马特 · 达蒙饰演奥德修斯，汤姆 · 赫兰德、安妮 · 海瑟薇、赞达亚、罗伯特 · 帕丁森、露皮塔 · 尼永奥、查理兹 · 塞隆、乔 · 博恩瑟、希米什 · 帕特尔、艾略特 · 佩吉、萨曼莎 · 莫顿等出演",
-      "source": "IT之家",
-      "publishTime": "2026-07-01",
-      "link": "https://www.ithome.com/0/971/377.htm"
-    },
-    {
-      "id": "39003df8-2d23-81b3-a92e-c12b67a5615c",
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-01",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
-    },
-    {
-      "id": "39003df8-2d23-81ed-bb19-f1870727c8bc",
-      "title": "中视新科动漫股份有限公司多项资产被拍卖，包含“新科娘少女形象”等作品著作权",
-      "summary": "IT之家 7 月 1 日消息，京东资产交易平台显示，中视新科动漫股份有限公司旗下多项资产将于 7 月 5 日 10 点开始拍卖，拍卖品中除了实物资产外，还有“新科娘少女形象”、“兔英文”等作品著作权，拍卖类型属于“破产清算”，相应消息在网络上引起热议，不少博主发文感叹称“新科娘被拍卖了”。IT之家注意到，相应“作品著作权”资产包拍卖起始价为 3836.9 元，保证金为 383.69 元，截至发稿目前有 24 人参与竞拍报名、90 人关注、11046 人围观，官方页面显示“具体标的物”包含：标的物调查表拍品名称中视新科动漫股份有限公司名下作品著作权一批拍品所有人中视新科动漫股份有限公司提供的文件",
-      "source": "IT之家",
-      "publishTime": "2026-07-01",
-      "link": "https://www.ithome.com/0/971/376.htm"
-    },
-    {
-      "id": "39003df8-2d23-8149-b9d8-c6a2b755894a",
-      "title": "研究：苹果 iPhone 普及与美国生育率下滑存在关联",
-      "summary": "IT之家 7 月 1 日消息，据 MacWorld 报道，美国生育率已跌至历史低位。美国政府数据网站 GovFacts 的数据显示，该国自 2007 年起生育率就长期低于人口更替水平。如今，美国国家经济研究局的科研人员认为，他们找到了生育率下滑的诱因 —— 苹果 iPhone。2007 年 iPhone 首发至 2011 年期间，AT&T 是这款手机的独家运营商。研究人员利用这一情况，单独剥离出 iPhone 带来的特定影响渠道，对比了两类地区的生育率：一类是 AT&T 用户占比高的区域，另一类是 Verizon 等竞争对手运营商占据市场优势的区域。研究结果显示，iPhone 用户数量与生育率",
-      "source": "IT之家",
-      "publishTime": "2026-07-01",
-      "link": "https://www.ithome.com/0/971/375.htm"
-    },
-    {
-      "id": "39003df8-2d23-819d-a6c3-f714732b4521",
-      "title": "我国全面掌握 650℃ 高参数煤电核心高温材料成套生产技术，相关产业链关键环节实现自主可控",
-      "summary": "IT之家 7 月 1 日消息，综合华能浙江分公司和科技日报报道，华能 650℃ 燃煤发电示范项目技术方案评审会昨日在雄安新区召开。与会院士、专家一致认为华能 650℃ 燃煤发电示范项目锅炉、汽轮机和项目整体设计方案总体合理可行。据介绍，世界首台 650℃ 高效超超临界燃煤发电机组 —— 华能玉环电厂四期项目于 2025 年 11 月 8 日开工建设，目前已进入关键攻坚阶段。该项目主蒸汽和再热蒸汽温度均达到 650℃，设计主蒸汽压力达到 35 兆帕，是目前全球范围内燃煤机组最高参数。该项目采用中国华能研发的我国具有自主知识产权的高温合金新材料，实现了关键高温材料技术的完全自主可控。650℃ 燃煤",
-      "source": "IT之家",
-      "publishTime": "2026-07-01",
-      "link": "https://www.ithome.com/0/971/374.htm"
-    },
-    {
-      "id": "39003df8-2d23-81a8-9095-dd7ab51e5042",
-      "title": "Microdramas are one way Crocs is reaching consumers, says Carly Gomez, the brand's top marketer",
-      "summary": "Crocs' lead marketer, Carly Gomez, spoke to CMO Insider at Cannes Lions about how the brand is leveraging creators and new formats like microdramas.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/crocs-carly-gomez-cfo-cannes-lions-2026-6"
-    },
-    {
-      "id": "39003df8-2d23-8123-a23d-c6959a3983b7",
-      "title": "Sony to end physical PlayStation game disc production in 2028",
-      "summary": "Sony will stop producing physical discs for all new PlayStation games beginning in 2028, as the company embraces an all-digital future.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-01",
-      "link": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/"
-    },
-    {
-      "id": "39003df8-2d23-818a-9df9-d7064a70cd30",
-      "title": "小米无线鼠标 4 Pro 发布：TOG 全域传感器、动态电磁滚轮，199 元",
-      "summary": "IT之家 7 月 1 日消息，小米推出了小米无线鼠标 4 Pro，将于 7 月 7 日正式开售，售价 199 元。这款鼠标有黑白两种颜色可选，重约 66g（不含电池），尺寸为 62mm×115.5mm×36.5mm，贴合中小尺寸手型。这款鼠标搭载 TOG 全域传感器，可在玻璃表面使用（厚度不小于 4mm），无需鼠标垫也可使用；搭载动态电磁滚轮，可根据指尖滚动力度和速度切换段落模式和无极模式。这款鼠标支持三设备切换（2.4G 无线 + 2 个蓝牙设备），采用磁吸式上盖设计，方便收取接收器与更换电池；采用网页版驱动，无需下载安装。IT之家附这款鼠标详细参数如下：京东小米无线鼠标 4 Pro 黑色 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-01",
-      "link": "https://www.ithome.com/0/971/373.htm"
-    },
-    {
-      "id": "39003df8-2d23-8134-b52b-ee3754a9586c",
-      "title": "泰坦军团“战魂 KG277V PLUS”27 英寸显示器发售：4K 165Hz / FHD 520Hz 双模，1888 元",
-      "summary": "IT之家 7 月 1 日消息，泰坦军团旗下“战魂 KG277V PLUS”27 英寸显示器现已在京东发售，该机主打 4K 165Hz / FHD 520Hz 双模，定价为 1888 元，部分地区国补后低至 1699.2 元。京东泰坦军团“战魂 KG277V PLUS”显示器 1888 元直达链接该机配备的 Fast IPS 面板支持以 3840x2160 分辨率 165Hz 或 1920x1080 分辨率 520Hz 显示，其 SDR 亮度 350 尼特，HDR 亮度 500 尼特，静态对比度 1200:1，支持 10-Bit 色彩，覆盖 97% DCI-P3、94% AdobeRGB、100",
-      "source": "IT之家",
-      "publishTime": "2026-07-01",
-      "link": "https://www.ithome.com/0/971/379.htm"
-    },
-    {
-      "id": "39003df8-2d23-8153-81ba-e68c2977ef71",
-      "title": "I get 50 free days of eldercare through my job at Bank of America. It's eased the pressure of caring for my mom.",
-      "summary": "Jennifer Edmondson, who works for Bank of America, gets the employee benefit of free eldercare for her mom. It helps her finances and peace of mind.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/mom-free-eldercare-benefit-of-job-bank-of-america-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-81a5-92a1-e6b202ecc4cd",
-      "title": "Read Palantir's 9-point manifesto that decries tokenmaxxing and trumpets 'AI sovereignty'",
-      "summary": "Palantir's X post about \"AI sovereignty\" told institutions to keep data in-house and avoid tokenmaxxing.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/palantir-ai-data-sovereignty-tokenmaxxing-politics-europe-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-812d-862d-e67bc9d8e751",
-      "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
-      "summary": "The actor, who died in 2016, appears in the Netflix show with the consent of his estate.",
-      "source": "BBC Tech",
-      "publishTime": "2026-07-01",
-      "link": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "39003df8-2d23-81d7-ad5a-f1835dde92d8",
-      "title": "PlayStation will end physical disc production for new games in 2028",
-      "summary": "PlayStation will end physical disc production for new games in 2028, the company announced Wednesday morning.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-01",
-      "link": "https://www.cnbc.com/2026/07/01/sony-playstation-physical-disc-production-2028.html"
-    },
-    {
-      "id": "39003df8-2d23-8169-9f02-e24d87ec7d58",
-      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-01",
-      "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/"
     }
   ],
   "macroEvents": [
