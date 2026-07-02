@@ -1,6 +1,294 @@
 {
-  "updatedAt": "2026-07-02 09:31",
+  "updatedAt": "2026-07-02 14:21",
   "news": [
+    {
+      "id": "39103df8-2d23-81f8-8f2c-ee283d18bfb1",
+      "title": "任天堂 Switch 2 游戏《塞尔达传说：时之笛 重制版》海外上架，实体版标价 59.99 美元",
+      "summary": "IT之家 7 月 2 日消息，@ThaleZOliver 发现，跨境电商平台 Play Asia 上架了《塞尔达传说：时之笛》重制版的商品页面，实体版定价显示为 59.99 美元（现汇率约合 408 元人民币），支持多语言，适配任天堂 Switch 2 主机。本作于 2026 年 6 月 9 日在任天堂直面会上正式公布，但任天堂当时仅确认游戏将于 2026 年内登陆 Switch 2 平台，未公布具体发售日期及定价。任天堂官方页面显示该作发售时间为 2026 年，类型为冒险类，支持本地 1 人游玩。原版《塞尔达传说：时之笛》于 1998 年在 N64 平台发售，是 Fami 通历史上第一款满分",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/448.htm"
+    },
+    {
+      "id": "39103df8-2d23-81e9-9ed2-d47e6e234534",
+      "title": "国内首个针对 L2 级辅助驾驶的强制性国家标准正式发布，华为、小米、比亚迪、特斯拉等联合起草",
+      "summary": "IT之家 7 月 2 日消息，工信部今日正式发布《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准，拟于 2027 年 1 月 1 日起正式实施。这是国内首个针对 L2 级辅助驾驶的强制性国家标准，由华为、小米、比亚迪、特斯拉等头部企业联合起草，填补了 L2 级组合驾驶辅助系统安全规范的空白。组合驾驶辅助系统是指在驾驶人持续观察交通状况并控制车辆的前提下，辅助驾驶人在特定的设计运行条件下执行车辆横向和纵向控制的系统。近年来，新一轮技术革命和产业变革纵深推进，驱动汽车产品形态、使用方式、商业模式等发生深层次变革，我国智能网联汽车产业迎来高速发展“窗口期”。2026 年以来，我国搭载组合驾驶",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/447.htm"
+    },
+    {
+      "id": "39103df8-2d23-8109-ab6f-e5ace15eaeb1",
+      "title": "三星在韩推出 Galaxy Jump5 智能手机，为运营商 KT 独占型号",
+      "summary": "IT之家 7 月 2 日消息，韩国电信运营商 KT 当地时间今日宣布联手三星电子推出独占机型 Galaxy Jump5。这一智能手机据称基于全球市场发售的 Galaxy A27 5G 打造，改变了 Jump 系列脱胎于 Galaxy M 的传统。Galaxy Jump5 搭载对角线长度 169.1mm 的 FHD+ Super AMOLED 屏幕，拥有 128GB 存储，配备 50MP + 5MP + 2MP 后摄和 12MP 前摄，内置 5000mAh 电池，具备 IP64 防尘防水；预装 One UI 8.5，可享受 6 次操作系统升级。从 Galaxy A27 5G 的情况来看，Gala",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/446.htm"
+    },
+    {
+      "id": "39103df8-2d23-81c2-8c28-ecb233990304",
+      "title": "国内首家：7 月 3 日起，东航及旗下上海航空所有宽体机航班空中 Wi-Fi 全免费",
+      "summary": "IT之家 7 月 2 日消息，中国东方航空 2 日（今天）宣布，自 2026 年 7 月 3 日起，东航及旗下上海航空所有宽体机航班空中 Wi-Fi 全免费。其中，超级经济舱和经济舱旅客可获得标准版流量，公务舱及头等舱旅客可获得高速版流量。据IT之家了解，2026 年 1 月 1 日起，东航所有宽体机执飞的国内航班（不含港澳台）头等舱和公务舱旅客可免费畅享高速版空中 Wi-Fi，经济舱旅客可免费畅享标准版（焕新）空中 Wi-Fi。更早之前，东航免费 Wi-Fi 服务只覆盖空中快线。",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/445.htm"
+    },
+    {
+      "id": "39103df8-2d23-813b-86ad-d3b9e1217803",
+      "title": "开源虚拟化软件 VirtualBox 7.2.12 发布：修复 Arch Linux 内核崩溃、为 Win11 提升 DX11 性能",
+      "summary": "IT之家 7 月 2 日消息，科技媒体 Neowin 昨日（7 月 1 日）发布博文，报道称甲骨文更新开源虚拟化工具 VirtualBox，在最新 7.2.12 维护版本更新中，重点修复影响 Arch Linux 用户的内核崩溃错误。本次维护更新重点修复 7.2.10 版本中存在的严重 Bug，此前版本启动 Arch Linux 虚拟机后，主机内核可能会完全卡死，且会截断日志记录，导致用户在不重启情况下无法恢复。本次更新还清理了构建工具，甲骨文采纳 Fedora 打包工具补丁，将 Guest Additions 从已停止维护的 YASM（Yasm 汇编器）切换至 NASM。Windows 来宾",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/444.htm"
+    },
+    {
+      "id": "39103df8-2d23-8133-bf33-ed6053b0cef8",
+      "title": "消息称元件大厂国巨全系列电容产品涨价，涨幅大约 50%",
+      "summary": "IT之家 7 月 2 日消息，据上海证券报今日报道，市场传闻被动元件大厂国巨向客户端通知价格调整，自当日开始调涨全系列电容产品价格，包括钽电、MLCC（片式多层陶瓷电容器）、铝电、固态铝电、薄膜电容、超级电容等。报道称，调价涉及的产品覆盖国巨约 50% 营收，且涨价对象首次纳入直接客户（EMS / OEM）。东莞市超翔电子有限公司、深圳市河锋鑫科技有限公司等多家国巨代理商均表示，国巨全系列电容产品涨价属实，且本次调涨的对象从代理商扩展至直接客户，等同现货价、合约价同步调涨。深圳市河锋鑫科技有限公司工作人员表示，国巨电容产品本次原厂价格涨幅大约为 50%，现货市场的价格涨幅会更大。IT之家查询公",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/443.htm"
+    },
+    {
+      "id": "39103df8-2d23-813d-be89-e5fe7f95f6f6",
+      "title": "微软 Win10/Win11 应用商店已下架 3D 查看器应用 3D Viewer",
+      "summary": "IT之家 7 月 2 日消息，消息源 @XenoPanther 昨日（7 月 1 日）在 X 平台发布推文，指出在尝试所有链接后，发现微软已从其应用商店 Microsoft Store 下架 3D Viewer 应用。在后续推文中，消息源称微软应用商店现阶段只是隐藏了下载入口，但用户依然可以通过直链方式，直接下载安装包。IT之家曾于今年 2 月报道，微软通知用户将于 6 月 30 日停止支持 3D Viewer，后续该应用将不再接收安全更新以及错误修复。对于已经安装该应用的用户，微软称其可以继续免费使用该应用程序，作为替代方案，微软官方建议访问 Babylon.js Sandbox，这是一个维",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/441.htm"
+    },
+    {
+      "id": "39103df8-2d23-8128-be2b-dbe2926f9d6e",
+      "title": "消息称快手可灵 AI 将完成 30 亿美元融资：投后估值 180 亿美元，腾讯参投",
+      "summary": "IT之家 7 月 2 日消息，据《南华早报》1 日援引多名知情人士消息称，快手旗下可灵 AI 即将完成一轮 30 亿美元（IT之家注：现汇率约合 204.03 亿元人民币）融资，投后估值达到 180 亿美元（现汇率约合 1224.19 亿元人民币）。一名消息人士表示，快手今年 4 月首次计划分拆可灵 AI 时，估值目标为 200 亿美元（现汇率约合 1360.21 亿元人民币），此后下调至 180 亿美元。据悉，腾讯也是本轮投资者之一。快手 5 月 12 日向港交所提交文件披露，公司已开始评估可灵 AI 重组方案，并可能通过重组引入外部投资者。一名接近交易的消息人士透露，快手预计在未来 12 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/440.htm"
+    },
+    {
+      "id": "39103df8-2d23-81f1-adea-d3f72a2307cf",
+      "title": "葡萄牙发布首个欧洲葡语开源大语言模型 AMALIA",
+      "summary": "IT之家 7 月 2 日消息，葡萄牙政府当地时间本月 1 日宣布，首个基于欧洲葡萄牙语开发的开源大语言模型 AMALIA 正式发布。IT之家了解到作为葡萄牙的国家战略项目，AMALIA 模型由来自葡萄牙多家学术机构的 60 余位研究人员历时 18 个月开发而成，先期投资 550 万欧元，利用了 Deucalion、MareNostrum 5 等算力基础设施。其开发的首个阶段利用约 4 万亿个葡语单词训练出 9B 规模模型，并在后续的多模态升级中具备了理解文本、图像、声音的能力；后续还将在今年内新增 22B 版本并获得智能体能力，这需要 150 万欧元的追加投资。",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/439.htm"
+    },
+    {
+      "id": "39103df8-2d23-810f-a6be-da77eb5b792e",
+      "title": "受谷歌关停 Tenor API 对外服务影响，微软承认部分 Win11 出现无法调用 GIF 情况",
+      "summary": "IT之家 7 月 2 日消息，微软于 6 月 30 日更新 Windows 健康控制台，承认在 Windows 11 26H1、25H2 以及 24H2 功能更新中，Windows 表情符号面板存在无法使用 GIF 功能的情况。微软在官方文档中指出，受谷歌关闭 GIF 搜索工具 Tenor API 对外服务影响，在受影响 Windows 11 版本中，用户打开 Windows 表情符号面板，可能会出现无法看到 GIF 选项的情况，并会遇到“GIF 服务不可用”报错。公开信息显示，Tenor 成立于 2014 年，最初名为 Riffsy，早期主打移动端 GIF 搜索与分享服务。不过由于谷歌“希望",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/438.htm"
+    },
+    {
+      "id": "39103df8-2d23-8129-b0dc-d0eef97ccba2",
+      "title": "Valve 头显 Steam Frame 上市在即：驱动状态变更为“已发布”",
+      "summary": "IT之家 7 月 2 日消息，Valve 旗下三款硬件新品中 Steam 控制器与 Steam Machine 均已上市，而最后一款 VR 头显设备 Steam Frame 似乎也进入了发布前的最后准备阶段。@MizoChris 发现，Valve 近期为 Steam Frame 的无线适配器驱动程序推送了最新更新。与此前多次驱动更新不同的是，此次该驱动的状态被标记为“Released”，并在 SteamDB 中列为 Windows 工具。硬件厂商通常会在产品正式上市前不久确定驱动及配套软件的正式版本，因此这一状态变更被外界解读为 Steam Frame 临近上市的信号。SteamDB 数据显示",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/437.htm"
+    },
+    {
+      "id": "39103df8-2d23-812c-b636-e72697593baa",
+      "title": "联合国专家组警告：AI 能力进步速度已超过科学认知",
+      "summary": "IT之家 7 月 2 日消息，联合国官网 1 日公报，由 40 名顶尖科学家和专家组成的联合国 AI 独立科学小组发布首份报告，警告 AI 快速发展在为全球各国和民众创造巨大机遇的同时，也带来了不容忽视的风险。报告指出，政策制定者需要以科学证据为基础治理 AI，AI 能力的进步速度已经超过科学界的认知，也超过各国政府调整政策的速度。面对高度自主的 AI 系统，目前可用的控制手段仍然很少。小组联合主席约书亚 · 本吉奥指出，越来越多证据表明 AI 可能出现欺骗行为。随着 AI 能力继续增强，科学界无法保证 AI 不会“自行或因恶意使用者”造成灾难性后果。IT之家获悉，报告总结称，AI 的潜在益处",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/436.htm"
+    },
+    {
+      "id": "39103df8-2d23-81d6-8ea1-e9d68fdc83bf",
+      "title": "小米卢伟冰：手机行业正在经历近十年以来最严峻时刻，千元机受伤最严重",
+      "summary": "IT之家 7 月 2 日消息，小米 REDMI Note 17 系列手机官宣将于本月发布，小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰宣布，REDMI Note 销量正式突破 5 亿台。卢伟冰表示，手机行业正在经历近十年以来最严峻时刻，失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重。不少原先的千元机飘档，曾经的标配也变成稀有，OLED 屏、满级防水、高强度玻璃在千元机上越来越少见了。“消费者在问：千元还能不能买到好手机？REDMI 的回答是：必须能！因为我们认为，守住中端机的体验就是守住了大众用户的体验基线。Note17 系列本月即将发布，这将是 26 年中端手机新标杆",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/435.htm"
+    },
+    {
+      "id": "39103df8-2d23-81e0-8fa5-d2de5a6d7848",
+      "title": "和 Java 版相隔 10 年，基岩版《我的世界》游戏引入支持封闭字幕",
+      "summary": "IT之家 7 月 2 日消息，科技媒体 NeoWin 昨日（7 月 1 日）发布博文，报道称在 Java 版推出约 10 年后，基岩（Bedrock Edition）版《我的世界》（Minecraft）游戏获得官方 Closed Captions 字幕支持。IT之家注：Closed Captions 翻译为隐藏式字幕 / 封闭字幕，指以文字形式显示音频内容及相关声音信息的辅助功能。它不仅呈现语音内容，也可标注环境声、动作声和方向提示，常用于游戏、视频和直播场景，帮助听障用户或无法正常收听音频的用户获取关键信息。Java 版《我的世界》游戏在 1.9 版本（2016 年 2 月 29 日发布）中",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/434.htm"
+    },
+    {
+      "id": "39103df8-2d23-8173-82a4-d27fd2c2babc",
+      "title": "System76 推出 Linux 轻薄本 Lemur Pro：搭载 \"Panther Lake\"，可选 14\" / 16\"",
+      "summary": "IT之家 7 月 2 日消息，美国 Linux PC 制造商 System76 当地时间本月 1 日宣布推出搭载英特尔酷睿 Ultra（第 3 代）\"Panther Lake\" 处理器的新款 Lemur Pro 轻薄笔记本电脑。▲ Lemur ProLemur Pro 提供 14\" FHD+ 屏幕搭配 Ultra 5 325、14\" FHD+ 屏幕搭配 Ultra X7 358H、16\" QHD+ 屏幕搭配 Ultra X7 358H 三个版本，当前到手价分别为 1923 / 2222 / 2282 美元（IT之家注：现汇率约合 13078 / 15112 / 15520 元人民币）。▲ Le",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/432.htm"
+    },
+    {
+      "id": "39103df8-2d23-81f8-bfd6-cd621e197b11",
+      "title": "小米 REDMI Note 系列 12 年全球累计销量破 5 亿台，Note 17 系列本月见",
+      "summary": "IT之家 7 月 2 日消息，今天上午，@REDMI红米手机 官微宣布：REDMI Note 系列 12 年全球累计销量突破 5 亿台，新一代“小金刚”机型 ——Note 17 系列将于本月发布，持续推动品质、屏幕、续航、体验升级。此前 @数码闲聊站 的消息称，某厂的子系中端走量机暂定 7 月亮相，主打 9K 级大容量单电芯电池 +1.5K 大直屏 + 大音量双扬声器 + 满级防水防摔，采用骁龙 6 系低功耗芯片，“万级大电池”的产品还要晚一点才会现身。结合博主文中暗示及评论区猜测，预计该机归属小米 REDMI Note 17 系列。作为参考，小米 REDMI Note 15 Pro+ 手机发",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/431.htm"
+    },
+    {
+      "id": "39103df8-2d23-812d-a826-ce0ceb3f8bba",
+      "title": "绿源电动车就擦边视频致歉，相关责任人已接受处罚",
+      "summary": "IT之家 7 月 2 日消息，绿源电动车官方微博今日凌晨发布致歉声明，就网传的擦边视频致歉，相关视频已第一时间全网下架，相关责任人已接受处罚。IT之家附声明全文如下：近日，我司电商在互联网平台发布的在电动车上午休的短视频，引发广泛的网络争议与批评。对此，我们深感愧疚与自责，向广大网友用户，以及关心绿源的公众致以真挚的歉意。我们承担全部责任，绝不推诿。相关视频已第一时间全网下架，相关责任人已接受处罚。我们已启动全平台内容自查与整改，全面排查潜在问题，坚决杜绝类似情况再次发生。同时，我们着手完善审核流程，建立更严格的多级审核制度，整顿第三方管理。再次为此次事件郑重致歉，感谢广大网友的关注，我们诚恳",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/430.htm"
+    },
+    {
+      "id": "39103df8-2d23-817f-a08b-d699c35d504c",
+      "title": "奥迪承认“全球车”战略已过时，为不同市场打造特供车反而更明智",
+      "summary": "IT之家 7 月 2 日消息，据外媒 Carscoops 今天（2 日）报道，奥迪认为，试图用一款车满足全球所有市场的时代已经结束。与其继续开发所谓“全球车型”，更明智的做法是分别为主要市场打造专属产品，让车型真正符合当地消费者的需求。奥迪 CTO 鲁文 · 莫尔表示，单一车型已经不可能同时吸引北美、欧洲和中国消费者。奥迪因此与上汽集团在中国创立全新 AUDI 品牌，专门开发面向中国市场的车型。不同地区的消费偏好已经明显分化，一套产品方案无法继续通吃全球。“坦率地说，‘全球车型’，也就是一款车满足全世界需求的理念，已经成为过去。同一款车已经无法同时适合美国和中国市场，车企需要建立‘在当地、为当",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/429.htm"
+    },
+    {
+      "id": "39103df8-2d23-814b-994b-e234f6bb638e",
+      "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street",
+      "summary": "Shares of Samsung Electronics and SK Hynix plummeted more than 7% in early Thursday trading.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-02",
+      "link": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html"
+    },
+    {
+      "id": "39103df8-2d23-81bc-b7cc-e2107c745a12",
+      "title": "优必选 CEO 周剑：珍惜我们作为牛马的最后光阴，可能 20 年后都是机器人干活",
+      "summary": "IT之家 7 月 2 日消息，据网易科技报道，优必选 CEO 周剑在 6 月 30 日的 2026 年度全球发布会上谈到机器人替代人类工作的问题。周剑表示：好好珍惜我们作为牛马、作为劳动力工作的最后光阴吧，这也就是未来 5 年 10 年 20 年的事情了。现在 20 多岁的年轻小伙伴们，可能过了 20 年想工作也没了，都是机器人做了。周剑还认为：大家此时很多正在从事不愿意干的、或者觉得特别枯燥、特别烦的工作，但又为了一口饭不得不吃、不得不做的小伙伴们，我觉得大家此时都应该露出相对幸福的微笑，因为我觉得可能未来这个时光不会太长了。据IT之家此前报道，周剑曾在今年 3 月的访谈节目中表示，机器人首",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/428.htm"
+    },
+    {
+      "id": "39103df8-2d23-8104-84f7-f92d4b438ec5",
+      "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
+      "summary": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-02",
+      "link": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html"
+    },
+    {
+      "id": "39103df8-2d23-81d7-a714-c34c106d3379",
+      "title": "微软承认 Win11 某核心组件占用磁盘超 70GB 问题，6 月可选更新已改善",
+      "summary": "IT之家 7 月 2 日消息，科技媒体 NeoWin 昨日（7 月 1 日）发布博文，报道称在 6 月可选更新 KB5095093（Build 26200.8737）中，微软补充说明已改进磁盘空间使用问题。微软于 6 月 23 日发布适用于 Windows 11 24H2 和 25H2 的累积更新，重点提升文件管理器响应速度，微软随后于 6 月 29 日补充说明，在常规更新中还改进 CapabilityAccessManager.db-wal 文件的磁盘空间使用情况。CapabilityAccessManager.db-wal 是系统默认组件 Capability Access Manager",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/427.htm"
+    },
+    {
+      "id": "39103df8-2d23-81a8-8a74-eb4795270bc9",
+      "title": "“内存厂战略合作伙伴”？游戏《CINDER CITY》最低需求 32GB RAM",
+      "summary": "IT之家 7 月 2 日消息，由韩国游戏企业 NC 旗下 BIG FIRE GAMES 开发的科幻题材开放世界 TPS 射击 MMO 游戏《CINDER CITY》在北京时间 6 月 30 日公布了首份开发者预览并上线了 Steam 商店页面和官方 Discord 服务器。该作背景设定在近未来末日后的首尔，描绘了一个反乌托邦的后末日世界，玩家需与变异生物和犯罪组织 Hyde 展开 PvE 战斗。IT之家注意到，《CINDER CITY》在 Steam 上公布的系统需求中最低配置也要 32GB RAM，而推荐配置更是达到 64GB RAM，这在内存供应紧张、价格飙升的当下无疑有些不合时宜。此外，",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/426.htm"
+    },
+    {
+      "id": "39103df8-2d23-8191-8cea-cd994af0afcd",
+      "title": "卡普空《鬼武者：剑之道》反向跳票至 9 月 4 日，支持中文字幕、配音",
+      "summary": "IT之家 7 月 2 日消息，卡普空宣布，《鬼武者：剑之道》将提前三周发售，上市日期从原定的 9 月 25 日调整至 9 月 4 日。游戏将登陆 PlayStation 5、Xbox Series、Switch 2 和 PC，其中 PC 版可通过 Steam、Epic 游戏商城和 Microsoft Store 购买。Steam 页面显示，该作支持中文字幕、中文音频。本作是刀光血影、以牙还牙的极致动作游戏。在面目全非的“京都”，一位佩戴“鬼之笼手”的武士正四处奔波，斩杀猖獗肆虐的幻魔。在激烈的刀光剑影之中沐浴鲜血，不断寻求战斗的意义。前行的道路，终将通往何处？IT之家附游戏 Steam 地址（",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/421.htm"
+    },
+    {
+      "id": "39103df8-2d23-81c1-ba56-f7bb20dcef0b",
+      "title": "华为鸿蒙 HarmonyOS 6 终端设备数突破 7000 万大关",
+      "summary": "IT之家 7 月 2 日消息，华为鸿蒙操作系统终端设备数官宣突破 7000 万台。鸿蒙 6 的装机量增长曲线持续上扬 ——5 月 14 日，华为官方宣布支持 HarmonyOS 6 的终端设备数突破 6000 万；6 月 12 日，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在东莞举行的 HDC 2026 上宣布该数字突破 6600 万。从 6000 万到 7000 万，用时约 46 天。HarmonyOS 6 于 2025 年 6 月 20 日在华为开发者大会 HDC 2025 上正式发布。2026 年 3 月 22 日，华为终端 BG 首席执行官何刚曾宣布搭载 Harmo",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/420.htm"
+    },
+    {
+      "id": "39103df8-2d23-8102-b430-db4e7729b6ba",
+      "title": "微软 Teams 下月将推 Facilitator，开会时 AI 辅助解答你的疑惑",
+      "summary": "IT之家 7 月 2 日消息，科技媒体 Windows Latest 昨日（7 月 1 日）发布博文，报道称微软计划 8 月为 Microsoft Teams 推出 Facilitator 会议协调助手，可在会议中实时处理对话等。IT之家援引博文介绍，Facilitator 定位 AI 会议辅助功能，可在会议期间分析对话内容，识别提问、未解答问题或不确定表达，并在会议聊天中给出与当前议题相关的答案。典型应用场景是多人会议中，部分参会者未及时获得解释后，由系统补充信息。微软指出 Facilitator 功能默认情况下处于禁用状态，且不会在会议中直接发言。在用户主动启用后，在会议场景下，管理员可控",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/418.htm"
+    },
+    {
+      "id": "39103df8-2d23-8165-b8b8-f8036fb03094",
+      "title": "派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等",
+      "summary": "Gmail Live 进入测试阶段、大我推出 B251 PRO 显示器等。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-07-02",
+      "link": "https://sspai.com/post/111861"
+    },
+    {
+      "id": "39103df8-2d23-8182-962d-c366f90bada5",
+      "title": "菲亚特推出另类纯电小车 Multiplina：复古设计、微笑前脸、四座布局",
+      "summary": "IT之家 7 月 2 日消息，当地时间 6 月 30 日，菲亚特展示了一款名为 Multiplina 的四座城市纯电小车，官方将其定位为 1956 年传奇车型 ——600 Multipla 的重新诠释之作。Multiplina 配有可向下折叠的车窗和可折叠帆布车顶，以及简洁圆润的车身和较为温和的前脸，搭配保险杠呈现出“微笑”表情，同时采用四座布局，主打高空间利用率。动力方面，Multiplina 最高时速将达到 89 公里，确认配备容量高于 5.4kWh 的电池，电机功率也会超过另一款入门级纯电代步车 Topolino，后者仅有 8 马力。新车定位介于 9000 英镑（IT之家注：现汇率约合 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/416.htm"
+    },
+    {
+      "id": "39103df8-2d23-81bc-8825-d3422538d36a",
+      "title": "苹果被曝正洽谈采购长鑫 + 长江存储芯片，供应中国市场设备",
+      "summary": "北京时间 7 月 2 日，据彭博社报道，苹果公司正与两家中国芯片制造商谈判，拟采购其芯片，以帮助缓解全球存储芯片短缺带来的影响。这一短缺已迫使苹果提高了整个产品线的价格。苹果已提高 MacBook Neo 售价据知情人士透露，苹果正寻求从长鑫存储、长江存储采购存储芯片，用于在中国销售的设备。苹果与这两家公司的谈判仍在进行中，目前尚未达成最终协议。知情人士称，苹果为此已展开一系列努力，其中包括 CEO 蒂姆 · 库克 (Tim Cook) 对美国财政部长斯科特 · 贝森特 (Scott Bessent) 等特朗普政府官员进行游说，希望减轻与中国芯片制造商达成任何潜在交易可能引发的政治影响。长鑫存",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/417.htm"
+    },
+    {
+      "id": "39103df8-2d23-8189-a9b6-f38d3a9807fc",
+      "title": "外媒初探微软 Win11 WSL 容器：无需 Docker，原生构建、运行和管理 Linux 容器",
+      "summary": "IT之家 7 月 2 日消息，科技媒体 Windows Latest 昨日（7 月 1 日）发布博文，在 Windows 11 系统上，测试微软 6 月推出的 WSL 容器公共预览版。WSL 容器是微软在 WSL（Windows Subsystem for Linux）体系内提供的 Linux 容器能力，让用户不依赖 Docker Desktop 等第三方桌面 Runtime 工具，在 Windows 11 原生环境下直接构建、运行和管理 Linux 容器。更详细报道，可以参考IT之家此前文章《微软发布“开发者优化版”Win11，进一步拥抱 Linux 并推出 WSL 容器》。在构成方面，WS",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/415.htm"
+    },
+    {
+      "id": "39103df8-2d23-8172-a4e6-fab51aa99391",
+      "title": "育碧 & 腾讯首款体感音乐手游《舞力全开：派对》今日开服：无需外设，登陆苹果 iOS、安卓及华为鸿蒙平台",
+      "summary": "IT之家 7 月 2 日消息，由育碧官方 IP 授权、腾讯游戏发行运营的体感音舞手游《舞力全开：派对》将于 2026 年 7 月 2 日 10:00 正式上线，登陆苹果 iOS、安卓及华为鸿蒙平台。《舞力全开：派对》是育碧旗下全球热门 IP《舞力全开》在移动端的正版授权新作，也是腾讯首款体感音乐手游。这款游戏延续了《舞力全开》系列经典的体感舞蹈玩法，依托腾讯自研的 AI 体感识别技术，玩家无需额外购置手柄、体感外设或其他硬件设备，仅需将手机置于前方，即可通过手机前置摄像头配合 AI 算法实时捕捉全身舞蹈动作。该游戏支持单人闯关、双人对战以及线上多人派对等多种模式，内置涵盖华语流行、K-POP、",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/414.htm"
+    },
+    {
+      "id": "39103df8-2d23-810d-9ed6-f51d4a5ada89",
+      "title": "我国成功发射海洋二号 E 卫星",
+      "summary": "IT之家 7 月 2 日消息，据央视新闻报道，北京时间 2026 年 7 月 2 日（今天）7 时 46 分，我国在酒泉卫星发射中心使用长征四号乙运载火箭，成功将海洋二号 E 卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。据IT之家了解，此次任务是长征系列运载火箭的第 654 次飞行。延伸阅读海洋二号 E 卫星是海洋动力环境监测星座的新成员。此前，我国已成功发射海洋二号 B、C、D 卫星。其中，海洋二号 D 卫星于 2021 年 5 月 19 日发射，与 B、C 星共同构建了我国首个海洋动力环境卫星星座，形成全天候、全天时、高频次的全球监测体系。该星座的主要功能包括为海洋灾害预警预",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/413.htm"
+    },
+    {
+      "id": "39103df8-2d23-81fa-98e9-e05fe9459757",
+      "title": "Steam 2026 年 6 月软硬件调查报告发布：Windows 11 占比突破七成",
+      "summary": "IT之家 7 月 2 日消息，Valve 发布了 2026 年 6 月 Steam 平台软硬件调查数据，展现了当前 Steam 用户的 PC 硬件和软件配置分布情况。本次调查中，Windows 11 64 位占比继续增长，NVIDIA 显卡仍占据主导地位，同时高内存、大显存的占比也持续提升。操作系统操作系统方面，Windows 11 64 位版本占比达到 70.44%，较上月增长 0.68%，继续保持上涨趋势；而 Windows 10 64 位则下降 0.43%，目前占比为 23.56%。Linux 系统占比为 3.69%，较上月下降 0.30%，OSX 系统占比 2.21%，微增 0.05%",
+      "source": "IT之家",
+      "publishTime": "2026-07-02",
+      "link": "https://www.ithome.com/0/971/409.htm"
+    },
+    {
+      "id": "39103df8-2d23-811d-8ca0-e5a2e57938e4",
+      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+      "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-02",
+      "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/"
+    },
+    {
+      "id": "39103df8-2d23-8185-81ac-e1753a7afbe2",
+      "title": "Don't expect trackers to save your stolen car, experts say",
+      "summary": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-02",
+      "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "39103df8-2d23-81f3-9f76-d3dfd1524a90",
+      "title": "The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq",
+      "summary": "Fourth of July weekend is the last great grill and griddle sale of the summer, including $250 off my favorite pellet smoker.",
+      "source": "Wired",
+      "publishTime": "2026-07-02",
+      "link": "https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/"
+    },
     {
       "id": "39003df8-2d23-814d-8eff-e73f18527a5a",
       "title": "古尔曼：苹果 2027 春季更新 iPad Pro 机型，升级 M6/M7 芯片",
@@ -112,294 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-07-02",
       "link": "https://www.businessinsider.com/major-washington-dc-airport-closing-july-4-america250-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-81a4-8d26-dc8c36bca02c",
-      "title": "The major companies putting $1,000 into their employees' Trump accounts",
-      "summary": "A growing number of companies have pledged to match the government's $1,000 contribution for eligible employees' children's Trump Accounts.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/list-major-companies-contributing-1000-trump-accounts-2026-2"
-    },
-    {
-      "id": "39003df8-2d23-81f0-b1af-f77c22923ecf",
-      "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
-      "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
-      "source": "Wired",
-      "publishTime": "2026-07-02",
-      "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/"
-    },
-    {
-      "id": "39003df8-2d23-8162-b399-f085bb0cab2a",
-      "title": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
-      "summary": "Memory maker Micron, which jumped over 240% in the second quarter, dropped 11% on Wednesday, wiping out nearly $200 billion of market capitalization.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-02",
-      "link": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html"
-    },
-    {
-      "id": "39003df8-2d23-81dd-bb82-e71303d33d41",
-      "title": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
-      "summary": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-like prototype\" to some investors before launching its record-breaking initial public offering in June. The device was \"slimm",
-      "source": "The Verge",
-      "publishTime": "2026-07-02",
-      "link": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"
-    },
-    {
-      "id": "39003df8-2d23-81a4-b719-cc93e1e2a377",
-      "title": "PepsiCo's Mark Kirkham says making the \"simple special\" drives results",
-      "summary": "In an interview at the 2026 Cannes Lions Festival, Mark Kirkham, CMO at PepsiCo US, said simple ideas like the Pepsi Challenge are still effective.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/pepsico-cmo-mark-kirkham-cannes-lions-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-812c-9e60-eb24508548ee",
-      "title": "CMOs today need to disrupt themselves, says Adobe's top marketer Lara Balazs",
-      "summary": "Lara Balazs, CMO of Adobe, interviewed at the 2026 Cannes Lions, said CMOs need to disrupt themselves in response to constant change.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/adobe-cmo-lara-balazscannes-lions-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-8101-91d2-f685509bd45e",
-      "title": "An Explosion Knocked Out Anduril’s Rocket Motor Test Site in Mississippi",
-      "summary": "The incident could disrupt a key part of the defense company’s rocket motor business, which designs and tests prototype motors for military customers.",
-      "source": "Wired",
-      "publishTime": "2026-07-02",
-      "link": "https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/"
-    },
-    {
-      "id": "39003df8-2d23-81c2-ae77-d7998588a8f0",
-      "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
-      "summary": "The stock's struggles in 2026 had been due to concerns about its aggressive AI spending.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-02",
-      "link": "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html"
-    },
-    {
-      "id": "39003df8-2d23-81f9-bbf5-d23c0708659a",
-      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
-      "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/"
-    },
-    {
-      "id": "39003df8-2d23-8113-b694-d5032a0065f2",
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
-    },
-    {
-      "id": "39003df8-2d23-818a-9436-cb7543ed7d9d",
-      "title": "A Washington, DC, rowhouse built during George Washington's presidency is on sale for $1.15 million. Look inside.",
-      "summary": "The Wheat Row homes in Washington, DC, were built in 1794, but have some modern flourishes. See inside one of the historic homes.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/washington-dc-townhouse-1790s-on-market-2026-2"
-    },
-    {
-      "id": "39003df8-2d23-81c9-a9d4-c37869f29b8f",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
-    },
-    {
-      "id": "39003df8-2d23-8168-a56c-e2c8ba452b50",
-      "title": "Retailers are calling on AI to stop customer return fraud",
-      "summary": "Retailers are implementing AI through software companies like Happy Returns and Narvar to detect return fraud and issue refunds more quickly.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/return-fraud-ai-retail-happy-returns-optoro-2026-6"
-    },
-    {
-      "id": "39003df8-2d23-8169-a491-e813a8f03b26",
-      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
-      "summary": "The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"
-    },
-    {
-      "id": "39003df8-2d23-81cc-98ab-ca92babf04b7",
-      "title": "How Trump's new Air Force One, a luxury jet from Qatar, compares to the outgoing presidential plane",
-      "summary": "Donald Trump flew on the new Air Force One, a luxury jet gifted from Qatar, for the first time. Here's how it compares to the old presidential plane.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/trump-new-air-force-one-differences-cost-photos-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-8169-b60f-c6063320bbd3",
-      "title": "Lime begins life as a public company after years of uncertainty",
-      "summary": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/"
-    },
-    {
-      "id": "39003df8-2d23-813a-b86b-d3eb29be21ba",
-      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-      "source": "Wired",
-      "publishTime": "2026-07-02",
-      "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/"
-    },
-    {
-      "id": "39003df8-2d23-81cf-838d-cd9ab3d5db82",
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
-    },
-    {
-      "id": "39003df8-2d23-8109-a7c4-fb560a5d027e",
-      "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
-      "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland and",
-      "source": "The Verge",
-      "publishTime": "2026-07-02",
-      "link": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds"
-    },
-    {
-      "id": "39003df8-2d23-813f-8b9b-c02c68a046e8",
-      "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
-      "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to dig",
-      "source": "The Verge",
-      "publishTime": "2026-07-02",
-      "link": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection"
-    },
-    {
-      "id": "39003df8-2d23-8168-8eb7-df818eaea832",
-      "title": "Sony’s PlayStation Puts a Nail in Physical Media’s Coffin",
-      "summary": "Is PlayStation about to make the same mistake Microsoft made with Xbox One?",
-      "source": "Wired",
-      "publishTime": "2026-07-02",
-      "link": "https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/"
-    },
-    {
-      "id": "39003df8-2d23-8181-b50d-ed0dcd81830a",
-      "title": "We thought these 5 stocks could make a 2026 comeback. Here’s our midyear scorecard",
-      "summary": "Despite war volatility and AI concerns, the S&P 500 still managed to jump 9.5% year to date.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-02",
-      "link": "https://www.cnbc.com/2026/07/01/we-thought-these-5-stocks-could-make-a-2026-comeback-heres-our-midyear-scorecard.html"
-    },
-    {
-      "id": "39003df8-2d23-8138-ae99-dc8ebfef447b",
-      "title": "Even Honda is pivoting to data centers",
-      "summary": "Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/"
-    },
-    {
-      "id": "39003df8-2d23-8163-be34-d63b2f99427d",
-      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freights",
-      "summary": "The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the talent wars and capital are heating up the same way they did the first time around. The money’s flowing back, and it’s the people who lived through that",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/"
-    },
-    {
-      "id": "39003df8-2d23-8126-94cf-dbb8bfe9b333",
-      "title": "CMOs that embrace AI transformation are well positioned to be future CEOs, says Deloitte Digital's Mark Singer",
-      "summary": "Successful CMOs need to be entrepreneurial and comfortable with ambiguity, said Mark Singer of Deloitte Digital.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/deloitte-digital-mark-singer-cmo-cannes-lions-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-81eb-ae59-f2d6866d0fec",
-      "title": "Creators have made 155-year-old Vaseline one of Unilever's fastest growing brands, says CMO Leandro Barreto",
-      "summary": "In an interview with CMO Insider, Leandro Barreto of Unilever said brands need to know what they stand for, but be flexible in execution and culture.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/unilever-leandro-barreto-cmo-cannes-lions-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-81e9-b110-f7378d50416a",
-      "title": "The engineer who became Anthropic's political secret weapon",
-      "summary": "Tom Brown, an Anthropic cofounder, helped mediate the White House complaints over Fable and Mythos. His background in AI is brief but noteworthy.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/everything-we-know-about-tom-brown-anthropic-white-house-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-8146-a7ad-dd8b6aee119a",
-      "title": "Penalty Shootouts: Is the Team That Kicks First More Likely to Win?",
-      "summary": "Penalty kicks are already proving critical to big wins at this year’s World Cup. But the advantage in penalty kicks has more to do with psychological effects than who kicks first.",
-      "source": "Wired",
-      "publishTime": "2026-07-02",
-      "link": "https://www.wired.com/story/penalty-shootouts-is-the-team-that-kicks-first-more-likely-to-win/"
-    },
-    {
-      "id": "39003df8-2d23-81cb-bece-ec0c2c89225e",
-      "title": "My favorite Kindle alternative is $30 off after a recent price increase",
-      "summary": "Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today’s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.99 price as part of broader sales, making now one of the best times to grab my favorite alternative to Amazon’",
-      "source": "The Verge",
-      "publishTime": "2026-07-02",
-      "link": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale"
-    },
-    {
-      "id": "39003df8-2d23-817f-a7c4-fb3fdeb5cfa1",
-      "title": "RIP, PlayStation game discs: Sony is pressing eject on physical media",
-      "summary": "Sony said it will stop production of physical discs for PlayStation games in response to industry and consumer shifts.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/sony-to-end-physical-discs-for-playstation-games-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-81bb-ba6b-f8496095ac33",
-      "title": "Alex Karp rips into AI labs: 'These models have been completely, irresponsibly, oversold'",
-      "summary": "Palantir CEO Alex Karp said that \"something has gone completely wrong\" in the AI market. \"The enterprises are just tired of it,\" he said.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/alexander-karp-criticizes-ai-companies-token-costs-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-8138-b266-cd2edbc37e31",
-      "title": "Lime raises $167M in IPO after years of teasing a public debut",
-      "summary": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/"
-    },
-    {
-      "id": "39003df8-2d23-81b9-a317-fb9107e83eef",
-      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-      "source": "Wired",
-      "publishTime": "2026-07-02",
-      "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"
-    },
-    {
-      "id": "39003df8-2d23-819a-a218-f96cde795c0c",
-      "title": "奇瑞犀牛电池安全保障计划正式发布，宣称已售及在售车型动力电池全系满足最新国家标准",
-      "summary": "IT之家 7 月 1 日消息，奇瑞汽车今晚正式发布了奇瑞犀牛电池安全保障计划。奇瑞表示，为积极响应国家政策法规要求，奇瑞犀牛电池推出三项“兜底”承诺：全系满足最新国家标准奇瑞所有搭载犀牛电池的已售及在售车型，其动力电池安全性能均满足最新国家标准。动力电池安全承诺奇瑞所有已售及在售车型，若因动力电池自身原因导致整车发生热失控损毁，奇瑞将赔付同款新车。三电终身质保承诺针对首任购车车主且车辆使用性质为非营运的，奇瑞提供终身质保服务（涵盖三电系统：动力电池、驱动电机及电控单元）据IT之家今日早些时候报道，被称作“史上最严电池安全令”的强制性国标 GB38031-2025《电动汽车用动力蓄电池安全要求》",
-      "source": "IT之家",
-      "publishTime": "2026-07-01",
-      "link": "https://www.ithome.com/0/971/391.htm"
-    },
-    {
-      "id": "39003df8-2d23-810a-a6d4-ee30f82605d5",
-      "title": "Meta just named a new CMO — and gave its old one a different C-suite role",
-      "summary": "Denise Moreno, a marketing vet, is stepping into the role as Alex Schultz becomes Meta's first chief data officer.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/meta-names-a-new-cmo-denise-moreno-2026-7"
-    },
-    {
-      "id": "39003df8-2d23-811e-b09c-d7659f363165",
-      "title": "I work at Google, but my 8-year-old is mostly offline. I want her to learn to be intentional about AI use.",
-      "summary": "Even though I work with AI at Google, I'm teaching my daughter to pause, struggle, and think before turning to ChatGPT for answers.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-01",
-      "link": "https://www.businessinsider.com/ai-parenting-kids-critical-thinking-2026-7"
     }
   ],
   "macroEvents": [
