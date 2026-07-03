@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-07-03 06:35",
+  "updatedAt": "2026-07-03 09:08",
   "news": [
+    {
+      "id": "39103df8-2d23-815f-bf9f-ea49ea5fccee",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-03",
+      "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "39103df8-2d23-8198-9a21-c4441aa0ff59",
+      "title": "Private space pilots are flying orbital missions for the US Space Force",
+      "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the US military.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-03",
+      "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/"
+    },
+    {
+      "id": "39103df8-2d23-81f9-ae24-f73d89216b90",
+      "title": "让你的代码永存于世，微软 GitHub 推出代码仓库刻录 CD-ROM 实体光盘服务",
+      "summary": "IT之家 7 月 3 日消息，微软旗下的代码托管平台 GitHub 今天宣布推出代码仓库刻录 CD-ROM 实体光盘服务。值得注意的是，GitHub 官方还用一番玩味十足的语气宣发这项服务：我们听到了大家的声音，并表示认同。鉴于近期实体媒介的发展，GitHub 欣然宣布：你现在可以将自己的公开仓库刻录成 CD-ROM 实体光盘。你可以把你的代码收藏起来、借给朋友，再传给你的孩子。你的代码，将真正以实体形式永远归属于你，直到你把光盘弄丢。毕竟现实一点来说，这种事还是有可能发生的。今天就来订购你的光盘吧。同时，GitHub 官方还开放了实体光盘刻录服务预登记表单。据官方所述，这项服务将是限量提供，",
+      "source": "IT之家",
+      "publishTime": "2026-07-03",
+      "link": "https://www.ithome.com/0/971/961.htm"
+    },
+    {
+      "id": "39103df8-2d23-8161-9160-e5603484c46c",
+      "title": "前 SIE 高管肖恩 · 莱登谈索尼重返独占策略，称此前 PC 移植本就不是为了赚钱",
+      "summary": "IT之家 7 月 3 日消息，据游戏媒体 IGN 前天报道，前索尼互娱（SIE）美国总裁兼 CEO 肖恩 · 莱登（IT之家注：Shawn Layden）近日接受采访时谈到老东家，解释他为何在此前坚持 PlayStation 游戏移植 PC 战略。肖恩认为，PlayStation 平台的独占游戏当然有意义，但平台完全可以在某个时间点之后，将这些作品带来其他平台的玩家。当初 PS 搞移植 PC 策略并不是为了赚钱，而是希望旗下 IP 能突破索尼生态圈限制，触发更多受众。他对此解释称：“坦白说，在我当时看来，移植 PC 策略并不是为了赚钱。我们一直在想，如何才能让那些本来不会接触到我们作品的玩家看",
+      "source": "IT之家",
+      "publishTime": "2026-07-03",
+      "link": "https://www.ithome.com/0/971/959.htm"
+    },
+    {
+      "id": "39103df8-2d23-8186-80ae-e7d5d21f4216",
+      "title": "JPMorgan has to keep paying Charlie Javice's legal fees, judge rules",
+      "summary": "JPMorgan Chase must continue paying Charlie Javice's legal fees. The bank said expenses have included $530 on gummy bears.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-03",
+      "link": "https://www.businessinsider.com/jpmorgan-must-pay-charlie-javice-legal-fees-judge-rules-2026-7"
+    },
+    {
+      "id": "39103df8-2d23-81af-832b-e1f57b079a2b",
+      "title": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall",
+      "summary": "Superintelligence will take time, Zuckerberg tells Meta staff, as the company makes its AI training program opt-in after a data leak.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-03",
+      "link": "https://www.businessinsider.com/zuckerberg-said-metas-ai-progress-has-been-slower-than-expected-2026-7"
+    },
+    {
+      "id": "39103df8-2d23-81db-9a8e-fb1bfe97e6da",
+      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+      "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tes",
+      "source": "The Verge",
+      "publishTime": "2026-07-03",
+      "link": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges"
+    },
     {
       "id": "39103df8-2d23-81c2-b633-e34a0db8222d",
       "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
@@ -344,62 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-07-02",
       "link": "https://www.businessinsider.com/celebrity-deaths-famous-people-who-died-2026"
-    },
-    {
-      "id": "39103df8-2d23-81b3-8dcf-faf513c3bab2",
-      "title": "何小鹏：2030 年中国新能源汽车渗透率会超过 90%，未来每一辆汽车都是四个轮子的机器人",
-      "summary": "IT之家 7 月 2 日消息，据新浪科技今日报道，在小鹏 MONA L03 中国首秀发布会后，小鹏集团董事长、CEO 何小鹏，小鹏集团车型产品高级总监杨光，小鹏 MONA 车主、代言人欧阳娜娜与媒体对话。谈及 AI 对汽车行业的变革，何小鹏表示，数字世界的 AI 在变化，物理世界的 AI 也在变化。上一个十年，我们看到的是新能源汽车跟燃油汽车的变化。在 2014、2015 年的时候，基本上没有人相信新能源汽车现在会占到接近 60% 的月新车销售份额。他预测，2030 年中国新能源汽车的渗透率绝对会超过 90%。而在新的十年里，汽车行业的变革是 AI 跟汽车的结合，未来每一个汽车都是四个轮子的机",
-      "source": "IT之家",
-      "publishTime": "2026-07-02",
-      "link": "https://www.ithome.com/0/971/952.htm"
-    },
-    {
-      "id": "39103df8-2d23-818a-8c7f-ec8db9a21c43",
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
-    },
-    {
-      "id": "39103df8-2d23-810b-b34f-dd9557b0724e",
-      "title": "A $7,999 home robot joins the race to automate household chores",
-      "summary": "Isaac 1, the robot launched by Weave Robotics, is available for preorder for $7,999 upfront or a $449 monthly subscription.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-02",
-      "link": "https://www.businessinsider.com/weave-robotics-isaac-1-8000-home-robot-chores-2026-7"
-    },
-    {
-      "id": "39103df8-2d23-8109-9800-ebd9043c1a61",
-      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-      "summary": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-02",
-      "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/"
-    },
-    {
-      "id": "39103df8-2d23-81ec-b73d-f4ceac559020",
-      "title": "何小鹏：自动驾驶发展速度超过预期，未来 3 到 5 年可以看到 L4 甚至 L5 落地",
-      "summary": "7 月 2 日晚间消息，在小鹏 MONA L03 中国首秀发布会后，小鹏集团董事长、CEO 何小鹏，小鹏集团车型产品高级总监杨光，小鹏 MONA 车主、代言人欧阳娜娜与媒体对话。今年 6 月，联合国正式发布了一项全球自动驾驶技术法规 ——ADS GTR，而这部法规的核心制定者之一是中国。何小鹏表示，中国的智能辅助驾驶，无论是企业做的效果，还是相关法律法规的制定，都走在全球前面。联合国的这部自动驾驶法规，覆盖 L2 到 L5。其中 L2 是全面性的，这意味着今年 12 月，中国现在的 L2 智能辅助驾驶将能够在全球使用。这对于小鹏走入全球，是一个非常大的利好。他提到，自己在今年全国两会时提了一个",
-      "source": "IT之家",
-      "publishTime": "2026-07-02",
-      "link": "https://www.ithome.com/0/971/951.htm"
-    },
-    {
-      "id": "39103df8-2d23-81c8-aed3-e7e267b898fc",
-      "title": "Android 17 缺的原生应用锁功能，谷歌仍在持续打磨",
-      "summary": "IT之家 7 月 2 日消息，据 Android Authority 报道，Android 17 正式版已于上月推送，带来了大量全新功能，但唯独少了一项关键功能：应用锁，这点颇为令人费解。Pixel 手机用户一直期盼系统原生应用锁功能上线，Android Canary 2603 版本中曾出现过该功能，可后续 Canary 预览版又莫名移除了相关支持。好在目前看来这项功能并未被彻底砍掉，谷歌仍在后台持续打磨开发。在最新的 Android 17 QPR1 第六版测试更新里，谷歌新增了多段文本字符，出现了“现在你可在设置中批量为多款应用开启应用锁”字样，暗示其正推进应用锁功能的开发工作。这段字符说明",
-      "source": "IT之家",
-      "publishTime": "2026-07-02",
-      "link": "https://www.ithome.com/0/971/949.htm"
-    },
-    {
-      "id": "39103df8-2d23-81b2-901d-f289498b4929",
-      "title": "微信输入法新增“语音转文字整理”功能，手机、PC 均已上线",
-      "summary": "IT之家 7 月 2 日消息，微信派今日分享了微信输入法新功能：语音转文字整理以及隔空传送。据官方分享的界面，用户点击微信输入法左上角图标，使用“语音转文字”功能，完成后会出现“文字整理”选项，点击即可使用该功能。不止是手机，目前已全量上线 Mac、Windows 双端的最新版微信输入法，也同样支持语音转文字整理。IT之家附微信输入法最新版本号如下：微信输入法 3.5.1 for iOS微信输入法 3.5.0 for Android微信输入法 2.2.0 for Mac微信输入法 2.1.0 for Windows此外，微信官方还分享了微信输入法的隔空传送功能：只要两台设备都安装了微信输入法，",
-      "source": "IT之家",
-      "publishTime": "2026-07-02",
-      "link": "https://www.ithome.com/0/971/948.htm"
     }
   ],
   "macroEvents": [
