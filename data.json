@@ -1,6 +1,230 @@
 {
-  "updatedAt": "2026-07-04 13:06",
+  "updatedAt": "2026-07-04 16:09",
   "news": [
+    {
+      "id": "39303df8-2d23-81c7-9d05-da1d302d0caf",
+      "title": "曝微软重构 Copilot AI：精简 Podcasts 等冗余功能、新增 AutoPilot 智能体",
+      "summary": "IT之家 7 月 4 日消息，科技媒体 The Information 昨日（7 月 3 日）发布博文，披露一份内部备忘录，指出微软重构全面升级 Copilot 应用程序，把面向消费者与企业的应用合并为单一产品，预估将于 8 月发布。功能方面，新版本将加入 AI 编程工具，以及名为 AutoPilot 新型 AI 智能体，负责在后台处理日程安排、邮件摘要等任务。IT之家援引博文介绍，微软执行副总裁 Jacob Andreou 在备忘录中称，团队已移除“无效部分”，包括 Copilot Podcasts 以及 Copilot Labs 等。Andreou 表示全面升级后的 Copilot 将聚焦",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/542.htm"
+    },
+    {
+      "id": "39303df8-2d23-8100-8fa4-cf9fc7c2720e",
+      "title": "宇树科技陈立谈具身智能的“ChatGPT 时刻”：需达成两个 80%",
+      "summary": "IT之家 7 月 4 日消息，据新浪科技报道，2026 亚布力论坛创新年会今天在上海市举行。宇树科技股份有限公司联合创始人陈立在现场判断，智能机器人行业将在未来两到五年迎来突破。陈立表示，机器人行业的突破有三大核心要点：第一，统一端到端机器人大模型，这是最核心的关键；第二，更低成本、更长寿命的硬件，以及超大批量规模化生产制造，硬件边际成本会大幅下降，参考汽车行业，规模化后极致性价比可快速普及；第三，低成本、规模化算力，依托分布式算力解决端侧续航、散热、成本痛点，以及云端延时痛点，例如楼宇专属 AI 算力基站，可为场内所有智能设备、机器人提供算力支撑。他认为，具身智能达成“ChatGPT 时刻”",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/540.htm"
+    },
+    {
+      "id": "39303df8-2d23-8131-9928-d5c70ddf5777",
+      "title": "Anthropic 最强抓虫 AI 助推，Epoch 称 6 月报告高危漏洞数是此前纪录 3.5 倍",
+      "summary": "IT之家 7 月 4 日消息，网络安全公司 Epoch AI 最新报告称，2026 年 6 月 21 家机构报告约 1500 个“高危”（high-severity）和“关键”（critical）漏洞，是此前月度最高纪录的 3.5 倍以上。报告指出该上升趋势于 2026 年 4 月显现，关联 Anthropic 于 4 月发布的 Claude Mythos Preview 模型，是该公司的最强“抓虫”AI 模型。IT之家附上相关图片如下：据 Anthropic 称，在模型正式发布之前，一些值得信赖的合作伙伴就已经开始使用该模型查找并修复漏洞。据报道，Anthropic 的“Glasswing”",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/536.htm"
+    },
+    {
+      "id": "39303df8-2d23-8140-a435-f35719d85e9d",
+      "title": "美国乡村居民对数据中心并不买账，担忧推高电价、榨干钱包",
+      "summary": "IT之家 7 月 4 日消息，据《商业内幕》3 日报道，AI 数据中心开发商正把目光投向美国乡村，但当地居民显然并不买账。加德纳食品与农业政策调查显示，与城市和郊区居民相比，美国乡村居民更担心 AI 数据中心会给社区带来负面影响。在当前的美国，乡村地区已经成为新一轮 AI 数据中心建设的主要承载地。皮尤研究中心 4 月发布的报告显示，现有数据中心有 87% 位于城市地区，规划中的数据中心则有 67% 将落户乡村。2025 年，全美获批的新建数据中心项目大多位于乡村城镇。这一代数据中心通常专门为 AI 提供算力，规模比过去支撑互联网和社交媒体的数据中心大数个数量级。加德纳调查研究人员指出，普通受",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/535.htm"
+    },
+    {
+      "id": "39303df8-2d23-81b2-86e7-cc77f661a8f5",
+      "title": "谷歌地图最新代码曝光，预计将支持“得来速”点餐功能",
+      "summary": "IT之家 7 月 4 日消息，据科技媒体 Android Authority 今天报道，谷歌地图已经开始深度整合 Gemini AI 服务，而今年春季推出的 Ask Maps 功能已经可以推荐餐厅等场所。不过，如今谷歌似乎准备更进一步，为 Google Maps 整合更多功能。据报道，Android 版谷歌地图 v26.27.00.941319029 已经出现关于点餐服务的字符串，IT之家附详情如下：<string name=\"ask_maps_food_ordering_promo_title\">Ask Maps to order food</string> <string name=\"as",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/532.htm"
+    },
+    {
+      "id": "39303df8-2d23-81de-8a96-cd6d85ca023b",
+      "title": "美光扩建日本广岛半导体工厂：投资 1.5 万亿日元，为英伟达等供应 AI 芯片",
+      "summary": "IT之家 7 月 4 日消息，彭博社今天（7 月 4 日）发布博文，报道称美光（Micron）在日本广岛启动半导体工厂扩建项目，项目总投资为 1.5 万亿日元（IT之家注：现汇率约合 631.14 亿元人民币），主要生产先进存储芯片。根据公开文件，日本经济产业省（METI）针对该半导体扩建项目，最高提供 5000 亿日元（现汇率约合 210.38 亿元人民币）支持，项目建设方为美光科技。新半导体扩建用于生产高带宽内存等芯片，主要服务英伟达等科技巨头，预估 2028 年投产。在出席仪式活动中，美光首席执行官桑杰 · 梅赫罗特拉（Sanjay Mehrotra）表示：美光首片用于 AI 核心存储技",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/531.htm"
+    },
+    {
+      "id": "39303df8-2d23-81c0-84c8-ce2b56165abe",
+      "title": "Navee 推出 Wavefly 5X 水上飞艇：最高速度 83km/h、80 公里续航，20 万美元",
+      "summary": "IT之家 7 月 4 日消息，主营创新出行产品的厂商 Navee 宣布推出 Wavefly 5X 水上飞艇，新品能够在水面上方低空滑行，为追求新奇体验的消费者带来宛如飞行般的体验。即日起上市，定价 20 万美元（IT之家注：现汇率约合 135.8 万元人民币）。据介绍，这款水上飞艇是全球首款应用“地面效应”（Wing-In-Ground effect）技术的高速快艇，整机配备 4 个螺旋桨，每台电机最高可输出 8000W 动力。四台电机动力全开的情况下，最高速度可达 53 英里（约 85.3 公里）/时。同时，这款飞艇采用贴水飞行的方式，因此不会像传统快艇那样不断拍击海浪，航行过程更加平顺。规",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/528.htm"
+    },
+    {
+      "id": "39303df8-2d23-8199-9697-d17a315826d8",
+      "title": "消息称国行苹果 iPhone 18 Pro Max 电池 5391mAh，增幅 11.78%",
+      "summary": "IT之家 7 月 4 日消息，数码博主 @数码闲聊站 今天（7 月 4 日）发布微博，发现苹果电池供应商的 3C 入网信息，透露苹果国行 iPhone 18 Pro 系列的电池信息。IT之家附上推文内容如下：刚刚查了苹果电池供应商的 3C 入网信息，iPhone 18 Pro 系列电池可能是这样？iPhone 18 Pro—— 国行 4056mAh / 美版 4288mAhiPhone 17 Pro—— 国行 3988mAh / 美版 4252mAhiPhone 18 Pro Max—— 国行 5391mAh / 美版 5567mAhiPhone 17 Pro Max—— 国行 4823mAh",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/527.htm"
+    },
+    {
+      "id": "39303df8-2d23-8114-ae82-ed20e29b5250",
+      "title": "我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒",
+      "summary": "IT之家 7 月 4 日消息，北京大学集成电路学院官方公众号昨日（7 月 3 日）发布博文，宣布联合发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将神经动力学系统的单步运算时延压缩至 2.12 毫秒。IT之家援引博文介绍，该项目由该校杨玉超教授带领，联合中国科学院上海微系统与信息技术研究所研究员宋志棠团队推进，相关成果于 7 月 3 日发表在《科学》上。基于相变型忆阻器的毫秒级神经动力学系统该研究首次将这类复杂运算的单步时延压缩至 2.12 毫秒，在脑皮层重建等任务中较目前先进图形处理器（GPU）提速达 50 至 478 倍，一举突破了制约神经动力学长达半个世纪的实时计算瓶颈。多级电",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/526.htm"
+    },
+    {
+      "id": "39303df8-2d23-8136-8752-ee03c5f96942",
+      "title": "Macron and Modi turn on personal charm offensives as France and India race to secure AI investment",
+      "summary": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-04",
+      "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html"
+    },
+    {
+      "id": "39303df8-2d23-8130-b17e-f3455bf3a7ae",
+      "title": "继豆包后，阿里千问宣布拟人化互动类智能体、用户自建智能体 7 月 10 日下线",
+      "summary": "IT之家 7 月 4 日消息，千问平台发布公告称，因功能升级与维护，拟人化互动类智能体及用户自建智能体功能将于 2026 年 7 月 10 日正式下线（IT之家注：App 端显示“智能体功能与服务”将于 7 月 15 日正式下线）。届时，用户将无法继续访问相关智能体的配置信息及历史对话记录。▲ App 端公告▲ 网页端公告公告称，如用户需保存相关内容，请在下线前及时完成备份，用户可以通过复制、截图、导出对话等方式保存智能体配置信息及重要对话记录。如何导出智能体历史对话：下载最新版千问 App（6.12.9 及以上的客户端版本）→ 进入智能体页面 → 点击右上角更多按钮 → 选择「导出对话」如何",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/525.htm"
+    },
+    {
+      "id": "39303df8-2d23-81d1-b108-f7f4b12b82e4",
+      "title": "华为何庭波发布 V2 版“韬定律”论文，补充工程细节和实测数据",
+      "summary": "IT之家 7 月 4 日消息，根据中国科学院科技论文预发布平台 ChinaXiv 最新公示论文，华为半导体负责人何庭波于 7 月 3 日发布《面向多层级电子系统的时间缩微理论》（业内也称“韬定律”）V2 版本。相比较 5 月 25 日发布的 V1 版本，新版论文在原有理论框架基础上，补充了大量工程落地细节、实测量化数据与产品演进路线，进一步完善了以时间常数 τ 为核心的后摩尔时代缩放理论体系。在论文结构方面，V2 版整合 V1 版引导段落，形成 8 章完整论述体系，章节逻辑分层更清晰。V2 版还新增了多张原理与实物示意图，覆盖 τ 分层时空模型、LogicFolding 架构、键合界面截面、U",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/524.htm"
+    },
+    {
+      "id": "39303df8-2d23-81c2-84ef-d6c9397a5364",
+      "title": "宇树科技陈立：机器人目前没有大面积应用，主要原因是具身智能大模型不成熟",
+      "summary": "IT之家 7 月 4 日消息，据新浪财经报道，亚布力中国企业家论坛第十二届创新年会于 7 月 3 日-4 日在上海召开。宇树科技股份有限公司联合创始人陈立表示，机器人目前其实还没有大面积应用，主要原因还是具身智能大模型没有成熟。他首先认为，未来 2-5 年首先需要有一个统一的端到端机器人大模型，这是最重要的。其次，机器人普及还需要有更低成本、更高寿命的硬件，以及超大批量规模生产制造。在实现超大批量生产后，本体边际成本将变得非常低。接着还需要低成本大规模算力，算力可能是分布式的，因为端侧的算力可能会有比较大的续航、散热和成本问题，云端会有延时问题。IT之家注：具身（Embodiment）是一个跨",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/522.htm"
+    },
+    {
+      "id": "39303df8-2d23-81aa-ba67-ccf598696392",
+      "title": "抢跑苹果官方：奢侈品牌 Caviar 官宣定制版 iPhone Ultra 折叠屏手机，13840 美元起",
+      "summary": "IT之家 7 月 4 日消息，在苹果正式官宣折叠屏 iPhone 之前，奢华设备定制商 Caviar 就已经提前展开布局。Caviar 根据供应链传闻和泄露渲染图，围绕暂称 iPhone Ultra 的折叠屏设备推出“Flagship（旗舰）”定制系列。“Flagship”系列共包括四款机型，每款限量 19 部。Caviar 表示，由于苹果高端产品的配色通常较为保守，因此希望通过更大胆的材质和色彩提供不同选择。四款机型背面均嵌有醒目的立体苹果标志，入门版 Titan 售价 13840 美元（IT之家注：现汇率约合 93983 元人民币），采用黑色 PVD 涂层钛金属机身，并搭配黑色鳄鱼皮。Da",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/521.htm"
+    },
+    {
+      "id": "39303df8-2d23-81a2-919a-eb29fe265609",
+      "title": "粤港澳大湾区首个“华龙一号”项目，太平岭核电 2 号机组并网成功",
+      "summary": "IT之家 7 月 4 日消息，据央视新闻今天报道，粤港澳大湾区首个“华龙一号”核电项目 —— 中广核广东太平岭核电 2 号机组首次并网成功，发出第一度电。IT之家从原报道获悉，本次并网标志着 2 号机组正式具备向电网输送电力的能力，向着投产目标迈出关键一步。后续，2 号机组将按计划进一步验证性能，预计 2026 年下半年正式投产发电。同时，2 号机组正式投产后，年发电量预计可达 90 亿千瓦时以上，能够满足 100 万人口的生产生活年度用电需求。太平岭核电项目 2 号机组采用我国自主三代核电技术“华龙一号”，2020 年 10 月 15 日开工建设。在该机组建设过程中，一系列数字化、智能化技术",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/520.htm"
+    },
+    {
+      "id": "39303df8-2d23-81a2-80a4-e72a990de3be",
+      "title": "F-Droid 抨击谷歌安卓开发者验证机制：看似无害的病毒",
+      "summary": "IT之家 7 月 4 日消息，开源应用仓库 F-Droid 于 7 月 1 日发布博文，抨击谷歌推行的安卓开发者验证机制，称其为：“伪装成看似无害进程的病毒”。IT之家注：安卓开发者验证（Android Developer Verification，简称 ADV）是谷歌推出的身份认证机制，要求安卓应用开发者提供有效信息（如政府 ID 或企业资质）完成注册，通过验证的应用才能被正常安装。该验证机制主要是为了在源头遏制恶意软件，强化生态安全，杜绝匿名发布恶意应用的安全隐患，结合侧载需求设计了有限分发和高级绕过两种例外方案。有限分发账户是谷歌为个人爱好者定制的轻量开发账号。开发者无需支付注册费或提交",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/519.htm"
+    },
+    {
+      "id": "39303df8-2d23-81b7-adc1-ebb04bb5a47a",
+      "title": "消息称佳能 EOS R8 Mark II 全画幅无反相机 9 月发布，主打复古机身",
+      "summary": "IT之家 7 月 4 日消息，据 Canon Rumors 昨日引述知情人士消息，佳能计划在今年 9 月上旬推出一批新产品。IT之家在此援引 Canon Rumors，佳能目前预定的发布窗口是 9 月第二周，但由于 9 月 7 日恰逢美国、加拿大法定节假日，因此正式发布时间可能会在 9 月 10 日前后。本次发布会预计将推出 EOS R8 Mark II 全画幅无反相机，消息人士表示，该机将采用复古设计，因此最终命名有可能会更改。同时，佳能还有可能在 9 月底的阿姆斯特丹 IBC 国际广播大会召开之前，推出 Cinema EOS 产品。根据目前的情报，佳能短期内似乎不会推出新的消费级相机，新产",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/518.htm"
+    },
+    {
+      "id": "39303df8-2d23-8113-a95c-fbe13ff8ee1b",
+      "title": "美国电动校车暑假变身“充电宝”，高温中向电网送电缓解供电压力",
+      "summary": "IT之家 7 月 4 日消息，据路透社当地时间 3 日报道，暑假已经到来，美国超过 200 辆电动校车却没有完全闲置。高温天气推升用电需求时，校车电池可以向电网回送电力，帮助部分居民缓解酷暑带来的影响。从加州到北卡罗来纳州，黄色电动校车已开始在热浪期间为电网分担压力，另有数百辆预计也将陆续接入。IT之家注：车网互动技术可以让车辆在需要时向电网供电，提升电网应对用电高峰的能力。世界资源研究所电动校车倡议项目的数据显示，美国约有 6700 辆电动校车，其中约 230 辆已经参与全面投运的车网互动项目，一次最多可向电网提供约 8 兆瓦时电量。作为对比，美国最大的区域电网 PJM 本周需要超过 16 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/517.htm"
+    },
+    {
+      "id": "39303df8-2d23-8100-8fad-f5bb0fca2db5",
+      "title": "奇瑞南非罗斯林工厂正式启用：从日产手中购得，计划明年年中投产",
+      "summary": "IT之家 7 月 4 日消息，当地时间 7 月 3 日，奇瑞汽车南非罗斯林工厂正式启用。根据介绍，这座始建于 1963 年的老牌汽车制造工厂将在奇瑞手中迎来新生，也标志着奇瑞在南非完成从进口商到本地制造商的跨越，实现全球化布局中的关键落子。奇瑞汽车股份有限公司董事长尹同跃表示：“依据‘In somewhere,For somewhere,Be somewhere（在哪里、为哪里、成为当地一分子）’的理念，无论在何处投资，奇瑞进入每个市场，都将竭力融入当地经济，融入当地社区，融入这个国家的未来。”罗斯林工厂是奇瑞从外企手中收购的。奇瑞承诺保留工厂现有全部 692 名员工，并将带动产业链上下游就业",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/515.htm"
+    },
+    {
+      "id": "39303df8-2d23-818d-94d8-ce2d4c8c5384",
+      "title": "曾重制《GTA 三部曲》的格罗夫街工作室近况曝光：打造原创游戏《BeastLink》",
+      "summary": "IT之家 7 月 4 日消息，据科技媒体 Wccftech 昨天报道，曾负责开发《GTA：三部曲 – 最终版》的格罗夫街工作室（Grove Street Games），正在押注全新原创作品《BeastLink》。IT之家从原报道获悉，格罗夫街工作室此前主要负责移植经典游戏，而《BeastLink》是该工作室成立十多年来的首个原创 IP，也是他们迄今为止最具野心的作品。剧情方面，本作故事发生在一个文明几近毁灭的世界，幸存的人类只能生活在残存的据点之中，而庞大的怪兽则统治着废墟。玩家需要搜集资源、与其他势力交战。并与沉睡中的怪兽建立“连接”，亲自操控这些巨兽作战。本作最大的卖点是打造了格罗夫街工作",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/513.htm"
+    },
+    {
+      "id": "39303df8-2d23-81b2-a678-f0a76c94f255",
+      "title": "“生命炼金术”重要一步：人类首次成功构建可生长和分裂的细胞 SpudCell",
+      "summary": "IT之家 7 月 4 日消息，纽约时报于 7 月 1 日发布博文，报道称来自明尼苏达大学的科研团队朝着“将化学物质转化为生命的炼金术”愿景迈出重要一步，发布人造合成细胞 SpudCell 研究成果。该团队由 Kate Adamala 带领，构建出一种可生长、复制 DNA（脱氧核糖核酸）并分裂的合成细胞 SpudCell，是首个由非细胞材料从零构建、并验证基本细胞分裂循环的人工细胞。SpudCell 由 36 种纯化酶、9 个 DNA 分子上的 9 万碱基对基因组以及脂质膜组成，可在多代中完成增殖、基因组复制与分裂。团队将多种优化后的成分装入带脂质双层的 liposome（脂质体）中，并采用 2",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/514.htm"
+    },
+    {
+      "id": "39303df8-2d23-812f-ad62-cac25080416e",
+      "title": "《对马岛之魂》全新动画《冥人奇谭》细节公布：水野贵信担任导演，三名角色视觉图公开",
+      "summary": "IT之家 7 月 4 日消息，由《对马岛之魂》线上模式《Legends／冥人奇谭》改编的全新动画《对马岛之魂：冥人奇谭》细节今天公开，本片将由水野贵信担任导演，动画制作则由神风动画（IT之家注：曾制作《JOJO 的奇妙冒险》《POP TEAM EPIC》等）负责。据介绍，本片将由 Aniplex 与 Crunchyroll 共同出资，并由双方设立的新公司 HAYATE 负责企划与制作。虚渊玄与前岛贤共同负责剧本创作，冈崎能士担任角色设计。与此同时，官方还公开了刺客、弓手、浪人三位角色的视觉图。作为参考，《对马岛之魂》是一款由 Sucker Punch Productions 开发制作，由索尼互",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/509.htm"
+    },
+    {
+      "id": "39303df8-2d23-81e5-a2b5-eb04da9e81e8",
+      "title": "宫本茂：任天堂将继续拓展 IP，触达游戏外更多人群",
+      "summary": "IT之家 7 月 4 日消息，在 2026 年 6 月发布的投资者问答英文稿中，任天堂执行董事宫本茂表示公司希望进一步扩大知识产权（IP）触达人群，计划在游戏之外，通过电影等各种形式扩展角色。在最新投资者问答稿中，任天堂董事会收到 19 个提问，其中第 14 问聚焦“扩大接触任天堂 IP 人群”的长期战略，涉及通过电影、主题公园、非游戏产品等扩展游戏 IP。IT之家翻译相关内容如下：Q14：关于“扩大可接触任天堂 IP 的人群数量”这一基本战略，任天堂如何看待迄今为止所采取的举措，以及未来将如何发展这一战略？宫本茂：十五年来，我一直与当时的社长岩田聪先生探讨任天堂的未来发展方向。起初，我对任天",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/508.htm"
+    },
+    {
+      "id": "39303df8-2d23-81a9-8cb6-ff4982ab4642",
+      "title": "长城旗舰方盒子 SUV 新车 H10 配色公布：鎏金棕、雪峰白、玄夜黑、青峦绿、暮云灰",
+      "summary": "IT之家 7 月 4 日消息，今天上午，哈弗 SUV 公布了长城旗舰方盒子新车 ——H10 的五款外观配色：鎏金棕、雪峰白、玄夜黑、青峦绿、暮云灰。IT之家附各配色官图如下：延伸阅读长城 H10 是基于长城汽车最新的“归元”平台打造的首款方盒子车型，该平台是长城汽车面向未来推出的全新平台架构。新车提供五座和六座两种布局版本，其中五座版车长为 5138mm，六座版车长为 5299mm，两者轴距均为 3000mm，宽度和高度分别为 2050mm 和 1970mm。动力方面，长城 H10 提供 1.5T 插电混动和 2.0T 插电混动两种选择，其中 2.0T 发动机最大功率为 175 千瓦。在智能驾",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/507.htm"
+    },
+    {
+      "id": "39303df8-2d23-8115-b1ff-f620b0b5ba3f",
+      "title": "拯救“雨燕”空间天文台，美国宇航局成功发射 Swift Boost 任务",
+      "summary": "IT之家 7 月 4 日消息，美国宇航局（NASA）昨日（7 月 3 日）发布公告，宣布于美国东部时间 7 月 3 日星期五 4 点 36 分（IT之家注：北京时间 7 月 3 日 16 点 36 分）发射 Swift Boost 任务，用于拯救即将坠落的“雨燕”空间天文台。本次任务主要发射由 Katalyst Space 公司制造的机器人服务航天器 LINK，并由诺斯罗普 · 格鲁曼公司的 Pegasus XL 火箭发射入轨。火箭由该公司的 Stargazer 改装 L-1011 飞机在约 40000 英尺（约 12192 米）高度释放，随后将 LINK 送入轨道。延伸阅读“雨燕”空间天文台",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/506.htm"
+    },
+    {
+      "id": "39303df8-2d23-815c-830f-c29fe0dd3ebe",
+      "title": "亚马逊悄悄更新 Fire HD 10（2023 款）平板：内存由 3GB 升级至 4GB，同比涨 10.72%",
+      "summary": "IT之家 7 月 4 日消息，亚马逊今天对 2023 年发布的 Fire HD 10 平板进行了低调升级。将 32GB 版本升级为 4GB 内存，不过售价也从 139.99 美元（IT之家注：现汇率约合 950.6 元人民币）小涨至 154.99 美元（现汇率约合 1052 元人民币），同比上涨 10.72%。此前，所有版本的 Fire HD 10 均配备 3GB 内存。不过如今，32GB 的新版机型已经配备 4GB 内存，但令人疑惑的是，64GB 版本仍然还是搭载 3GB 内存。除了内存以外，更新后的 Fire HD 10 硬件规格仍保持不变。具备 10.1 英寸显示屏（1920*1200 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/505.htm"
+    },
+    {
+      "id": "39303df8-2d23-81ed-885c-db38a412efe6",
+      "title": "外媒上手微软 Win11 最极致记事本：TinyRetroPad 仅 2.72KB，功能较完善",
+      "summary": "IT之家 7 月 4 日消息，科技媒体 Windows Latest 今天（7 月 4 日）发布博文，上手体验了 TinyRetroPad，该记事本软件由前微软工程师戴夫 · 普卢默（Dave Plummer）打造，整程序约 2.7KB。在体积方面，TinyRetroPad 记事本应用磁盘空间占用约为 2.72KB（2794 bytes）。功能方面，这款记事本保留打开、保存、查找替换、打印、字体选择、自动换行和未保存更改提示等常见能力。普卢默解释称，这类极小程序依赖 Windows 已内置的大量基础能力，包括窗口管理、菜单、通用对话框、剪贴板处理、编辑控件、字体选择、文件打开与保存对话框，以及",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/504.htm"
+    },
+    {
+      "id": "39303df8-2d23-81ee-9114-e1f3bf75a881",
+      "title": "武汉小米青年公寓正式开放入住，月租平均 1099 元",
+      "summary": "IT之家 7 月 4 日消息，小米公司官微宣布，今天，武汉小米青年公寓正式开放入住。这也是继北京、南京之后，小米落地的第三座青年公寓，累计已建成 12 栋公寓、建筑面积 21 万㎡、提供超 4200 套房源。小米公司方面表示，（公寓）从设计初期便邀请员工参与共创，以工程师思维优化居住体验。小米青年公寓旨在提升员工的幸福感，为有才华、有梦想的年轻人，打造身心可栖的成长空间。愿每一位新同学，都能在这里顺利开启自己的生活新篇章。因户型、楼层等差异，每套房源平均月租为 1099 元（IT之家注：含统一供暖和网络费用），6 月 27 日面向 2026 届小米校招生开放选房，7 月 4 日起面向武汉小米全",
+      "source": "IT之家",
+      "publishTime": "2026-07-04",
+      "link": "https://www.ithome.com/0/972/502.htm"
+    },
     {
       "id": "39303df8-2d23-8172-b8d0-e150bd7c60f0",
       "title": "谷歌 Chrome 浏览器 8 月新规：扩展若过度收集用户数据将下架处置",
@@ -176,230 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-04",
       "link": "https://www.ithome.com/0/972/478.htm"
-    },
-    {
-      "id": "39303df8-2d23-8149-8236-fafd70d5e789",
-      "title": "网友反馈 Claude Fable 5 重上架版“降智”，严苛 AI 护栏致频繁回退 Opus 4.8",
-      "summary": "IT之家 7 月 4 日消息，科技媒体 bleepingcomputer 昨日（7 月 3 日）发布博文，报道称 Anthropic 本月重新上架 Claude Fable 5 最强模型，除了额度限制外，多名用户反馈存在“降智”情况，且更频繁回退到 Opus 4.8 模型。Claude Fable 5 于 6 月 30 日解除出口管制，于 7 月 1 日重新上线。根据官方公告，Fable 5 当前最多只能使用到用户每周总额度的 50%，且 7 月 7 日后将完全转入按用量积分计费模式。IT之家附上相关截图如下：根据 Reddit 社区讨论和 X 社交平台用户反馈，不少用户认为恢复后的实际表现弱",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/477.htm"
-    },
-    {
-      "id": "39203df8-2d23-8172-a011-cffec3bce5b4",
-      "title": "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片",
-      "summary": "IT之家 7 月 4 日消息，爆料人乔恩 · 普罗瑟（Jon Prosser）今天在最新一期 fpt.视频中为我们带来了 iPhone Air 2 最新情报，显示该机将新增第二颗后置摄像头，搭载 A20 Pro 芯片。据介绍，iPhone Air 2 将使用与初代 iPhone Air 相同的钛合金机身，定位轻薄旗舰，配备 A20 Pro 芯片，而非此前传闻的 A20 标准版。新机的芯片将采用 WMCM（IT之家注：晶圆级多芯片模块）封装技术，将 DRAM 内存与 SoC 芯片分离，可改善散热表现，让机身轻薄的同时获得更优性能。规格方面，这款手机将在原有的 4800 万像素主摄基础上，新增一颗",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/476.htm"
-    },
-    {
-      "id": "39203df8-2d23-81df-9ee3-e350bae4e53e",
-      "title": "AYANEO 预告 KONKR 子品牌复古掌机与小尺寸 Windows 掌机",
-      "summary": "IT之家 7 月 4 日消息，AYANEO 昨晚举行了新一期产品分享会，介绍了多款已公布产品的最新进展，同时带来近期新品预告。AYANEO 表示，一款被视为“掌机黄金时代经典象征”的产品曾在玩家心中留下了不灭的印记，而在 REMAKE 设计理念下，AYANEO 将通过 KONKR 子品牌以现代科技带回经典美学。此外，AYANEO 还宣布该品牌的热门小尺寸 Windows 操作系统掌机系列即将迎来迭代型号。",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/475.htm"
-    },
-    {
-      "id": "39203df8-2d23-81b2-977d-d887ff9d9e4d",
-      "title": "SE 回应《最终幻想 15》是否会登陆任天堂 Switch 2：并非完全没有可能",
-      "summary": "IT之家 7 月 4 日消息，据外媒 Inside Gaming 今天（3 日）报道，史克威尔艾尼克斯近期表示，《最终幻想 15》未来仍有机会登陆任天堂 Switch 2。继《最终幻想 7》重制版三部曲登陆 Switch 2 后，越来越多第三方游戏开始扩充其产品阵容。在 2026 年 6 月 24 日举行的股东大会上，有股东询问《最终幻想 15》是否也可能登陆任天堂最新主机。SE 没有直接确认，却给出了相对积极的回应。SE 代表表示，受硬件性能限制，Switch 2 版可能无法完全还原 2016 年原版《最终幻想 15》的体验，但移植并非完全没有可能。“至于最终是否会在 Switch 2 上推",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/474.htm"
-    },
-    {
-      "id": "39203df8-2d23-8147-89aa-c870ee13e459",
-      "title": "华硕 ROG 预热新款游戏手柄控制器，号称“性能颜值双升级”",
-      "summary": "IT之家 7 月 4 日消息，华硕 (ASUS) 玩家国度 (ROG) 昨日发布夏季外设新品预告，暗示即将推出一款游戏手柄控制器。ROG 表示这一型号拥有“性能颜值双升级”。而从视频内容来看，这款手柄将延续非对称布局并支持 8kHz 高回报率。ROG 最近的一款游戏控制器是去年公布的雷切 2 XBOX 无线手柄。该型号具备防飘移 TMR 游戏杆、双模式扳机、微动开关按钮、四个后侧按键，支持三模连接。",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/473.htm"
-    },
-    {
-      "id": "39203df8-2d23-8141-8eac-c9723f884d27",
-      "title": "已修复：微软承认经典版 Outlook 中部分用户无法访问 Copilot 入口",
-      "summary": "IT之家 7 月 4 日消息，微软于 7 月 1 日更新官方文档，承认经典版 Outlook 升级 Build 20026.20182 版本后，拥有 Copilot Chat（基础版）许可证的用户无法访问所有 Copilot 入口。微软官方表示本次 Bug 并未影响 Premium 许可证的付费 Copilot 用户，目前调查显示仅影响 Copilot Chat（基础版）许可证用户，其使用经典版 Outlook 时会复现所有入口消失。IT之家援引文档描述，受影响用户可能会遇到以下问题：右上角功能区上方缺少 Copilot 按钮。在经典版 Outlook 的左侧应用栏或“更多应用”区域中，缺少 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/472.htm"
-    },
-    {
-      "id": "39203df8-2d23-8146-83a7-c30014ef73a7",
-      "title": "任天堂称 Switch 2 游戏机生产成本将持续上涨，未来将贯彻“软硬一体化”方针",
-      "summary": "IT之家 7 月 4 日消息，据科技媒体 TweakTown 昨天报道，任天堂在最新一期投资者问答会透露，公司目前的经营计划是，当前零部件供应紧张的局面不会快速结束。据报道，芯片供应紧张已经让几乎所有电子产品涨价。过去几年，索尼 PS5 已经涨价两次、Xbox 涨价三次。任天堂也计划 9 月 1 日起调整 Switch 2 售价，从最初的 459 美元（IT之家注：现汇率约合 3119 元人民币）提高到 499 美元（现汇率约合 3391 元人民币）。在最新的年度股东大会上，有投资者询问：“芯片价格持续上涨将如何影响任天堂的发展规划”。任天堂社长古川俊太郎对此回应称，公司正在制定 2028 财",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/471.htm"
-    },
-    {
-      "id": "39203df8-2d23-8138-bf4e-cbdbff3c194f",
-      "title": "IT早报 0704：大疆和影石在国内互相起诉专利侵权；国内成品油价格迎来年内最大降幅；曝阿里巴巴全面禁用 Claude；明年起插混 / 增程车需缴纳车船税...",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 4 日星期六，今天的重要科技资讯有：1、手持智能相机两巨头“开战”，大疆和影石在国内互相起诉专利侵权大疆于数周前已在中国多地人民法院，就影石 Luna 系列产品涉嫌专利侵权正式提起诉讼，其中有法院即将开庭。影石则在中国多个城市对大疆提起 6 起专利侵权诉讼，指控大疆的全景相机及云台设备等主力产品侵犯其多项专利。>> 查看详情2、国内成品油价格迎来年内最大降幅，加满一箱 50L 的 92 号汽油可省 37.5 元7 月 3 日 24 时起，国内成品油价格上涨。全国平均来看：92 号汽油降低 0.75 元，95 号汽油降低 0.79 元，0 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/470.htm"
-    },
-    {
-      "id": "39203df8-2d23-810e-8e16-edf6d20652ba",
-      "title": "欧洲拟严管游戏“开盲盒”机制，影响或波及全球其他地区",
-      "summary": "IT之家 7 月 4 日消息，据彭博社 3 日报道，欧洲即将出台的一系列新规，可能限制未成年人接触部分电子游戏，并冲击游戏内购收入。监管机构担心，未成年人可以轻易接触不符合其年龄的游戏和付费功能，战利品箱也成为主要监管目标。这种机制要求玩家付费开启宝箱，再随机获得游戏内数字物品，长期以来一直被批评带有赌博性质，容易诱导沉迷。电子游戏经济学家兼设计师卡塔林 · 亚历山德鲁表示，新规将影响用户准入和留存、广告收入及游戏内销售，每年可能让游戏行业损失数十亿美元。今年 6 月，为家长提供游戏购买建议的泛欧洲游戏信息组织开始规定，只要游戏含有战利品箱，就应评定为不适合 16 岁以下儿童。欧盟监管机构还在",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/469.htm"
-    },
-    {
-      "id": "39203df8-2d23-8197-a7b7-c2b36aa34995",
-      "title": "苹果 iPhone 18/18e 有望升级 9GB 内存，仍缺席 2 项 Siri AI 功能",
-      "summary": "IT之家 7 月 4 日消息，科技媒体 MacRumors 今天（7 月 4 日）发布博文，指出 2027 年登场的 iPhone 18 和 iPhone 18e 可能升级到 9GB 内存，依然缺席两项 Siri AI 功能。IT之家援引博文介绍，iPhone 18 和 iPhone 18e 两款机型将无法支持自定义 Siri AI 语音表现力，以及“大幅提升准确性的”语音转文本听写功能。在 iOS 27 系统中，Siri AI 带来“全新的语音体验”，让用户可以自定义语音助手的声音。在新界面用户可以通过调整滑块，根据个人喜好调整 Siri 语音的表现力和节奏。而语音转文字听写是指设备将用户说",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/468.htm"
-    },
-    {
-      "id": "39203df8-2d23-8135-ad35-c148c9e00c04",
-      "title": "IO Interactive 终止全新原创 IP《幻想计划》外部合作，短期内将有人事变动",
-      "summary": "IT之家 7 月 4 日消息，IO Interactive 官方本周（7 月 1 日）在 X 平台发文：过去很长一段时间里，IO Interactive 向大家分享的几乎都是好消息。大家对我们作品的热烈反响，以及对詹姆斯 · 邦德的热爱，我们始终心怀谦逊地感激。我们为这位娱乐史上最著名的角色打造了大胆的新故事，来自世界各地的玩家们也满怀热情地接纳了这部作品，让我们倍感荣幸。然而，今天我们不得不宣布一则令人遗憾的消息。我们与一家外部合作伙伴围绕全新原创 IP《幻想计划》（IT之家注：Project Fantasy）的合作计划已经结束。这意味着，我们必须适应这一新情况及短期影响，其中包括人事变动。",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/467.htm"
-    },
-    {
-      "id": "39203df8-2d23-814f-bb55-deed2ce384a1",
-      "title": "消息称苹果 Apple Watch Series 12 新表带内嵌传感器，支持血糖监测等",
-      "summary": "IT之家 7 月 4 日消息，科技媒体 MacRumors 昨日（7 月 3 日）发布博文，报道称在 Apple Watch Series 12 智能手表表带上，苹果公司可能会嵌入新的健康传感器。报道称 Apple Watch Series 12 这款表带将采用注塑方式，将传感器集成到硅胶表带中。且消息称由于受限于目前的表带工艺，该传感器仅限部署在硅胶表带。该媒体指出苹果公司早在 2017 年就获得相关专利，构想表带的每个链节可以容纳不同的功能，包括血压监测器和汗液传感器。苹果同年还申请了一项自适应表带专利，称该专利可以通过确保表带更贴合手腕来提高内置生物识别传感器的准确性。随后消息源 @Va",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/466.htm"
-    },
-    {
-      "id": "39203df8-2d23-8142-b085-e058d81b4ee4",
-      "title": "索尼调整 PlayStation 实体游戏停产计划，2028 年以前发售的游戏可继续生产光盘",
-      "summary": "IT之家 7 月 4 日消息，据游戏媒体 Insider Gaming 昨天报道，索尼近日官宣，PlayStation 实体游戏将从 2028 年 1 月后停止生产，引发整个互联网哗然。不过如今这家公司似乎已经改口，似乎是为了安抚情绪不安的实体盘玩家。IT之家从原报道获悉，索尼已向发行合作伙伴表示，凡是 2028 年停产日期之前发售的游戏，未来仍可继续生产实体光盘。但光盘的订购流程将发生变化，具体细节将在后续公布。至于 2028 年之后发售的新游戏，索尼称发行商可以选择以数字兑换码的形式，在线下渠道销售。这意味着玩家们现在可以确认，即使到了 2028 年，你仍然可以在线下渠道买到 2027 年",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/465.htm"
-    },
-    {
-      "id": "39203df8-2d23-8152-b91b-cdd1717e26dd",
-      "title": "苹果 iOS 27 代码曝光 B790 耳机，指向带摄像头的 AirPods",
-      "summary": "IT之家 7 月 4 日消息，科技媒体 AppleInsider 昨日（7 月 3 日）发布博文，报道称在 iOS 27 开发者测试版中，发现相关文字描述，指向具备摄像头功能的苹果 AirPods 耳机产品。程序员 Sam Henri Gold 昨日在 X 平台发布推文，指出在 iOS 27 开发者测试版中，发现了代号为 B790 的智能眼镜。IT之家附上相关截图如下：该开发者后续指出，AirPods Pro 3 的内部代号为 B788，因此这里出现的 B790 并非智能眼镜，更高概率指向带摄像头的 AirPods。该媒体挖掘发现在代码字符串中，出现了“来自用户头部两侧摄像头的 2 张图像，左",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/464.htm"
-    },
-    {
-      "id": "39203df8-2d23-813e-897e-dc4b5252ca22",
-      "title": "It's a cruel summer heatwave: Taylor Swift and Travis Kelce wedding attracts small crowds as NYC temps spike",
-      "summary": "Only a few brave Taylor Swift fans lined the hot NYC sidewalks outside the arena where she and Travis Kelce reportedly were tying the knot.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-04",
-      "link": "https://www.businessinsider.com/taylor-swift-travis-kelce-wedding-fans-msg-heat-2026-7"
-    },
-    {
-      "id": "39203df8-2d23-81d4-a578-d3b9ceeb5c54",
-      "title": "Jonathan Mildenhall, CMO of Rocket Companies, talks about the brand's transformation, and the responsibility of CMOs now",
-      "summary": "Jonathan Mildenhall of Rocket Companies spoke about the brand's transformation over the past three years since he's been chief marketing officer",
-      "source": "Business Insider",
-      "publishTime": "2026-07-04",
-      "link": "https://www.businessinsider.com/rocket-companies-jonathan-mildenhall-cannes-lions-2026-7"
-    },
-    {
-      "id": "39203df8-2d23-8124-9df6-c3bad6aab28a",
-      "title": "V2612A 新机入网：预估 vivo S12 增大电池验证机，7015mAh 增幅 70.89%",
-      "summary": "IT之家 7 月 4 日消息，型号为 V2612A 的 vivo 5G 数字移动电话机已通过电信设备进网许可，暂未公布证件照。IT之家查询公开资料，该型号对应 vivo S12 机型，于 2021 年 12 月发布，额定电池容量 4105mAh，而最新认证机型显示额定容量为 7015mAh，增幅 70.89%。认证信息显示该机机身尺寸为 157.52×74.33×7.99 毫米，重量为 203 克，配备一块 1 块 6.59 英寸 AMOLED 显示屏，分辨率为 2750×1260，彩色屏色深达 107374 万。核心配置方面，该机搭载主频 3.8 GHz 的 8 核处理器，提供 8 GB、1",
-      "source": "IT之家",
-      "publishTime": "2026-07-04",
-      "link": "https://www.ithome.com/0/972/463.htm"
-    },
-    {
-      "id": "39203df8-2d23-81b5-a486-f13935190ce7",
-      "title": "The only AI glossary you’ll need this year",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-04",
-      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-    },
-    {
-      "id": "39203df8-2d23-81be-8f04-cdd7eb95f5b5",
-      "title": "Companies are hiring for something AI can't do, a review of millions of job listings found",
-      "summary": "AI is changing what employers want from tech workers, but demand remains strong, according to an analysis of 2.85 million job listings.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-04",
-      "link": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7"
-    },
-    {
-      "id": "39203df8-2d23-81c6-92f5-c4204022f636",
-      "title": "Taking my dad to the World Cup after his stroke taught me a lot. Mostly, it taught me not to underestimate him.",
-      "summary": "Getting my father to a World Cup match required careful planning, but the day reminded me he is still remarkably independent.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-04",
-      "link": "https://www.businessinsider.com/taking-dad-to-world-cup-after-stroke-2026-7"
-    },
-    {
-      "id": "39203df8-2d23-81ef-a2db-faeb27596b6a",
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-04",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
-    },
-    {
-      "id": "39203df8-2d23-81ed-95cc-cc07953dff4c",
-      "title": "The Dune keypad device can be your meeting controller and more",
-      "summary": "The $149 Dune keyboard can be a meeting controller at least and a script-executing keypad at best.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-04",
-      "link": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/"
-    },
-    {
-      "id": "39203df8-2d23-81c2-a089-c4005ba9a6bc",
-      "title": "Hegseth stands up a new drone office with authority on everything from one-way attack drones to ground robots and boats",
-      "summary": "From small one-way attack drones to drone boats and ground robots, the new office will have vast authority over the future of uncrewed programs.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-04",
-      "link": "https://www.businessinsider.com/new-pentagon-office-will-oversee-majority-of-drones-2026-7"
-    },
-    {
-      "id": "39203df8-2d23-811d-8df9-fbd06d30bfd4",
-      "title": "First known congressional SpaceX stock buys surface after record IPO",
-      "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-04",
-      "link": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html"
-    },
-    {
-      "id": "39203df8-2d23-81c7-befc-c8717469e727",
-      "title": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
-      "summary": "The companies’ Fourth of July plans include celebrating new reactor designs coming online. But there’s still a long way to go before they deliver energy at a meaningful scale.",
-      "source": "Wired",
-      "publishTime": "2026-07-04",
-      "link": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/"
-    },
-    {
-      "id": "39203df8-2d23-8169-899a-c3bddef33e07",
-      "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
-      "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but the 32GB version now",
-      "source": "The Verge",
-      "publishTime": "2026-07-04",
-      "link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update"
-    },
-    {
-      "id": "39203df8-2d23-811b-84ce-c8ac40b3b81c",
-      "title": "I was in Venice for Jeff Bezos' wedding. Taylor Swift's anticipated NYC bash has 1 annoying thing in common.",
-      "summary": "Taylor Swift and Travis Kelce will reportedly marry at Madison Square Garden on July 4. It's a similar flex to Jeff Bezos taking over Venice.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-04",
-      "link": "https://www.businessinsider.com/taylor-swifts-nyc-wedding-jeff-bezos-billionaire-2026-7"
-    },
-    {
-      "id": "39203df8-2d23-812d-8fc6-fd14ab3f1906",
-      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-      "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-      "source": "Wired",
-      "publishTime": "2026-07-04",
-      "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/"
     }
   ],
   "macroEvents": [
