@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-07-09 01:58",
+  "updatedAt": "2026-07-09 04:02",
   "news": [
+    {
+      "id": "39703df8-2d23-81d5-9e9a-e9d1ed1f4001",
+      "title": "I took the same grocery list to Walmart, Kroger, and Amazon to compare prices. After filling my carts, I found a winner.",
+      "summary": "I brought the same shopping list to Walmart, Kroger, and Amazon to see which has the best grocery prices, especially amid Walmart's rollbacks.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-09",
+      "link": "https://www.businessinsider.com/walmart-kroger-amazon-grocery-shopping-comparison-best-prices-review-comparison-2026-7"
+    },
+    {
+      "id": "39703df8-2d23-81d2-9a06-ecb1f8e8bb4d",
+      "title": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
+      "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obsidian Entertainment is changing its plans. The studio, behind games like Grounded and The Outer Worlds, is starting work ",
+      "source": "The Verge",
+      "publishTime": "2026-07-09",
+      "link": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs"
+    },
+    {
+      "id": "39703df8-2d23-81b8-b537-edd3fa3998af",
+      "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+      "summary": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-09",
+      "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/"
+    },
+    {
+      "id": "39703df8-2d23-81dc-8f2c-fe348039139b",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-09",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/"
+    },
+    {
+      "id": "39703df8-2d23-8179-a6a6-e035c1a3b02e",
+      "title": "OpenAI's new voice model wants you to talk over it",
+      "summary": "ChatGPT's voice assistant quirks were fodder for internet punchlines. Its new update aims to make talking with AI feel more human.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-09",
+      "link": "https://www.businessinsider.com/openai-new-voice-model-gpt-live-2026-7"
+    },
+    {
+      "id": "39703df8-2d23-81eb-9f1b-f6962aaa5d56",
+      "title": "NATO is building an AI 'Kill Web' to stop Russian attackers in their tracks",
+      "summary": "The new strategy creates a vast network to detect and strike targets, an approach shaped by lessons from Ukraine.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-09",
+      "link": "https://www.businessinsider.com/nato-builds-ai-kill-web-to-stop-russian-attackers-2026-7"
+    },
+    {
+      "id": "39703df8-2d23-8173-9f3a-fd499f42d19e",
+      "title": "Dimming the Sun Would Help Lower the Risks of El Niño",
+      "summary": "As worries about a growing super El Niño mount, new findings suggest a radical solution to mitigating its impacts.",
+      "source": "Wired",
+      "publishTime": "2026-07-09",
+      "link": "https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/"
+    },
+    {
+      "id": "39703df8-2d23-8182-bde6-f0a560d94e07",
+      "title": "America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph",
+      "summary": "When searching for an affordable electric vehicle these days, there are always tradeoffs. How much range are you willing to sacrifice, how much leg room and storage space, how many features, in the pursuit of that magic sticker price that won't break the bank? The Fiat Topolino is basically the ulti",
+      "source": "The Verge",
+      "publishTime": "2026-07-09",
+      "link": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty"
+    },
+    {
+      "id": "39703df8-2d23-8126-a731-cb236d9a943f",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intell",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-09",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/"
+    },
+    {
+      "id": "39703df8-2d23-81a8-8ab8-effa1cb58c94",
+      "title": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable",
+      "summary": "A little robotic switch-flipper has become my sidekick in combating cockroaches. Before I got the SwitchBot Bot Rechargeable, I'd tiptoe through the dark every morning, hoping I wouldn't step on one of those terrible bugs scurrying around as I made my way to the light switch across the room. Now I'm",
+      "source": "The Verge",
+      "publishTime": "2026-07-09",
+      "link": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review"
+    },
     {
       "id": "39703df8-2d23-81de-bc95-fd3875e8254a",
       "title": "New York and San Francisco are some of the hottest markets for renters, but a tiny Northeastern city beat them both",
@@ -40,6 +120,14 @@
       "source": "CNBC Tech",
       "publishTime": "2026-07-09",
       "link": "https://www.cnbc.com/2026/07/08/the-street-is-divided-over-metas-latest-gamble-heres-where-we-land.html"
+    },
+    {
+      "id": "39703df8-2d23-81ba-80c1-dc2607032b7a",
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-09",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
     },
     {
       "id": "39703df8-2d23-812b-b133-fccdba350466",
@@ -312,94 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-08",
       "link": "https://www.ithome.com/0/974/261.htm"
-    },
-    {
-      "id": "39703df8-2d23-8179-9927-c3ff550f8798",
-      "title": "大疆推出 DJI AP100 无人机降落伞：适配 Matrice 400，售价 7488 元",
-      "summary": "IT之家 7 月 8 日消息，大疆今日发布了大疆行业应用首款无人机降落伞产品 ——DJI AP100 降落伞。该产品专为 Matrice 400 无人机设计，官方定价 7488 元，目前仅通过代理商渠道销售。 据官方介绍，AP100 降落伞重量约 935 克，具备 IP55 防护等级，可在-20°C 至 50°C 温度范围内工作。在触发机制方面，该降落伞支持自动与手动两种模式，官方标称可在 600 毫秒内完成旋翼停转与开伞动作，并将无人机落地速度控制在 5 米 / 秒以内。IT之家注意到，安全冗余方面，AP100 内置独立飞行控制系统与 IMU 传感器，与无人机主控系统形成双链路冗余架构。即使",
-      "source": "IT之家",
-      "publishTime": "2026-07-08",
-      "link": "https://www.ithome.com/0/974/259.htm"
-    },
-    {
-      "id": "39703df8-2d23-81a6-b857-c1213eb9d288",
-      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
-      "summary": "Build a new kind of rocket engine and the world will beat a path to your door.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-08",
-      "link": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/"
-    },
-    {
-      "id": "39703df8-2d23-8196-a286-c5d789e2c8d1",
-      "title": "Blue Origin reportedly raising $10B at $130B valuation",
-      "summary": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself, and other big-name investors, The New York Times reported.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-08",
-      "link": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/"
-    },
-    {
-      "id": "39703df8-2d23-8167-8120-c61ba9fae0c6",
-      "title": "TCL 推出“27C2A”27 英寸显示器：4K 160Hz / FHD 320Hz 双模，2299 元",
-      "summary": "IT之家 7 月 8 日消息，TCL 旗下“27C2A”27 英寸显示器现已在京东发售，该机主打 4K 160Hz / FHD 320Hz 双模，定价为 2299 元，部分地区国补后低至 2069 元。京东 TCL 27C2A 显示器 2299 元直达链接该机配备的 1196 分区 QD-Mini LED 面板支持以 3840x2160 分辨率 160Hz 或者 1920x1080 分辨率 320Hz 显示，其 GtG 响应速度 1ms，静态对比度 1000:1，显示器亮度 1200 尼特，支持 10-Bit 色彩，覆盖 99% DCI-P3 色域。该机支架支持升降 / 倾斜 / 旋转，显示器",
-      "source": "IT之家",
-      "publishTime": "2026-07-08",
-      "link": "https://www.ithome.com/0/974/258.htm"
-    },
-    {
-      "id": "39703df8-2d23-8150-9f9b-d355547283e8",
-      "title": "鸿蒙智行尊界 SUV 测试车新街拍视频曝光，前脸沿用 V800 设计",
-      "summary": "IT之家 7 月 8 日消息，鸿蒙智行尊界 SUV 测试车的新街拍视频已在互联网上曝光。虽然伪装很厚，但画面显示，尊界 SUV 的前脸将沿用 V800 的设计。其尾灯预计也采用了 V800 申报信息中展示的原配方案（非全彩智能交互流光尾灯版本）。▲ 鸿蒙智行尊界 V800 官图IT之家注意到，博主 @拉面师傅Design 也分享了尊界 SUV 的外观猜想图。2026 年是尊界品牌的产品大年，尊界超高端旗舰车型 —— 尊界 S800 Grand Design 典藏大观已正式发布，采用面向 L3+ 高阶自动驾驶架构设计，138.8 万元起。后续尊界 MPV、SUV 车型相继落地，将快速形成“轿车 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-08",
-      "link": "https://www.ithome.com/0/974/257.htm"
-    },
-    {
-      "id": "39703df8-2d23-816b-9557-f3c6913a0761",
-      "title": "HMD Skyline 2 手机海报曝光：延续现款机型设计，预计可选蓝 / 黄 / 黑三种配色",
-      "summary": "IT之家 7 月 8 日消息，消息源 smashx_60 现已曝光了 HMD Skyline 2 手机的海报，显示该机延续现款初代 Skyline 手机设计，目前已知该机可选蓝、黄、黑三种配色。该机规格先前已遭消息源曝光，爆料显示该机正面配备一块 6.55 英寸 FHD+ 144Hz OLED 面板（峰值亮度 1200 尼特），匹配 50MP 自拍摄像头；手机侧面带有相机按键，底部使用 USB-C 3.2 接口；手机背面采用 108MP 主摄 + 50MP 长焦 + 50MP 超广角设计，相机模组设计与初代相同，居于手机左上。该机搭载高通骁龙 7s Gen 4 处理器，匹配 8/12GB RA",
-      "source": "IT之家",
-      "publishTime": "2026-07-08",
-      "link": "https://www.ithome.com/0/974/256.htm"
-    },
-    {
-      "id": "39703df8-2d23-8147-b4f2-db8843baee8c",
-      "title": "权力交接前夕，苹果 CEO 库克和接班人特努斯出席太阳谷峰会",
-      "summary": "IT之家 7 月 8 日消息，据《福布斯》报道，苹果 CEO 蒂姆 · 库克（Tim Cook）和即将接任 CEO 一职的约翰 · 特努斯（John Ternus）正在出席今年的太阳谷峰会（Sun Valley Conference）。太阳谷峰会由精品投资银行 Allen & Co. 主办，每年都会邀请传媒、科技和金融行业的重量级人物齐聚美国太阳谷度假村（Sun Valley Lodge），进行为期一周的闭门交流。今年的大会于当地时间 7 月 7 日开幕，预计持续至 7 月 11 日。这也是库克以苹果首席执行官身份最后一次参加太阳谷峰会。今年 4 月，苹果宣布约翰 · 特努斯将于 9 月 1 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-08",
-      "link": "https://www.ithome.com/0/974/253.htm"
-    },
-    {
-      "id": "39703df8-2d23-81bb-9221-dad10da94771",
-      "title": "TCL 推出 27P2A Ultra 双模 27 英寸 Mini LED 显示器：HD 1080Hz / QHD 550Hz，3999 元",
-      "summary": "IT之家 7 月 8 日消息，TCL 推出 27P2A Ultra 双模 Mini LED 显示器，现已开售，售价 3999 元。这款显示器定位专业电竞，支持 HD（720P）1080Hz 和 QHD（2K）550Hz 双模刷新率切换；采用万象分区 Mini LED 背光，配备 180 个万象分区；峰值亮度达到 800nits，支持 DisplayHDR 600。这款显示器色域覆盖 95% DCI-P3 、 99% sRGB 色域，支持 10bit 色深；提供两个 HDMI 2.1 接口，一个 DP 1.4 接口，一个 3.5mm 耳机接口以及一个电源接口。IT之家附详细参数如下： 京东 TC",
-      "source": "IT之家",
-      "publishTime": "2026-07-08",
-      "link": "https://www.ithome.com/0/974/252.htm"
-    },
-    {
-      "id": "39703df8-2d23-8108-a020-c842f1916dd1",
-      "title": "I moved to New York for my dream job, but my fiancé didn't come with me. After 2 years, we reached a compromise.",
-      "summary": "I left Maine and moved to New York City to pursue my dream job, but my partner didn't join me. After years of long-distance struggles, we compromised.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-08",
-      "link": "https://www.businessinsider.com/moved-to-new-york-job-partner-stayed-behind-compromise-relationship-2026-7"
-    },
-    {
-      "id": "39703df8-2d23-81e3-8f67-d40ecbb21f8d",
-      "title": "2026 款机械革命蛟龙 16 Pro 笔记本新增“R9-8945HX + 16G + 1T + RTX5070”版本，10499 元（国补后 8999 元）",
-      "summary": "IT之家 7 月 8 日消息，机械革命现已为旗下 2026 款蛟龙 16 Pro 笔记本新增 R9-8945HX + 16GB RAM + 1TB SSD + RTX 5070 版本，首发价 10499 元，国补到手后 8999 元。京东机械革命蛟龙 16 ProR9-8945HX + 16GB RAM + 1TB SSD + RTX 5070 版本 10499 元直达链接该机 A 面采用航空级金属，带有高亮镜面金属 Logo；B 面配备一块 2560x1600 分辨率 300Hz 面板（亮度 500 尼特，覆盖 100% DCI-P3 色域）该机搭载 16 核心 32 线程 AMD 锐龙 9",
-      "source": "IT之家",
-      "publishTime": "2026-07-08",
-      "link": "https://www.ithome.com/0/974/251.htm"
-    },
-    {
-      "id": "39703df8-2d23-810f-82c3-eba5d44f9f31",
-      "title": "Tina Knowles reveals the one thing that irritates her after being in the entertainment industry for 3 decades",
-      "summary": "Tina Knowles opened up about embracing recognition, the business philosophies she's taught her daughters, and what's next for Mama Tina's Gumbo.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-08",
-      "link": "https://www.businessinsider.com/tina-knowles-it-irritates-me-a-bit-that-im-underestimated-2026-7"
     }
   ],
   "macroEvents": [
