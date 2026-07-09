@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-07-10 03:06",
+  "updatedAt": "2026-07-10 05:02",
   "news": [
+    {
+      "id": "39803df8-2d23-81df-b8cc-df889e851888",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
+    },
+    {
+      "id": "39803df8-2d23-8105-bc57-db01c9115c00",
+      "title": "Slate Auto teams up with Crayola to color its EV truck",
+      "summary": "Slate has an answer for owners who have always want to drive a truck with bright crayon colors.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/"
+    },
+    {
+      "id": "39803df8-2d23-8137-9f00-dcc93023b826",
+      "title": "OpenAI is making its biggest play for the office",
+      "summary": "OpenAI merges Codex into ChatGPT and launches GPT-5.6 models, aiming to enhance AI capabilities and compete in an increasingly crowded market.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-10",
+      "link": "https://www.businessinsider.com/openai-codex-chatgpt-app-releases-gpt-5-6-models-2026-7"
+    },
+    {
+      "id": "39803df8-2d23-81e2-93bf-d22d61627a41",
+      "title": "Anduril CEO says it's bad to IPO in ‘middle of a hype cycle’",
+      "summary": "Anduril recently hit a $61 billion valuation, becoming one of the most highly valued private tech companies.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-10",
+      "link": "https://www.cnbc.com/2026/07/09/anduril-ceo-ipo-defense.html"
+    },
+    {
+      "id": "39803df8-2d23-8178-850d-ddd7472683ea",
+      "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
+      "summary": "The video calls highlights the murky relationship between professional athletes and gambling apps.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/"
+    },
+    {
+      "id": "39803df8-2d23-818d-9e53-cb9b285a8b96",
+      "title": "Mercor is in talks for a $20B valuation",
+      "summary": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/"
+    },
+    {
+      "id": "39803df8-2d23-81f4-b592-c89191396afe",
+      "title": "Google will now disclose which ads are made with AI",
+      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/"
+    },
+    {
+      "id": "39803df8-2d23-81be-a5e4-eab8dbe727fe",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/"
+    },
+    {
+      "id": "39803df8-2d23-815f-b390-fc779586e211",
+      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
+      "source": "Wired",
+      "publishTime": "2026-07-10",
+      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/"
+    },
+    {
+      "id": "39803df8-2d23-8116-8315-cf6a779f289c",
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/"
+    },
+    {
+      "id": "39803df8-2d23-8157-8426-cf85b05a9e1e",
+      "title": "Meta launches a new AI coding model with 'very aggressive' pricing, CEO Mark Zuckerberg says",
+      "summary": "Meta launches a new AI coding model, Muse Spark 1.1, which is priced aggressively, CEO Mark Zuckerberg said. He called out rivals' \"extreme\" pricing.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-10",
+      "link": "https://www.businessinsider.com/meta-launches-muse-spark-1-1-cost-effective-ai-2026-7"
+    },
+    {
+      "id": "39803df8-2d23-8164-bddc-fcb2bb9ca4b6",
+      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/"
+    },
     {
       "id": "39803df8-2d23-8109-ad81-ff0ef708d967",
       "title": "Google&#8217;s Nest Thermostat has hit its best price of the year",
@@ -304,102 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-07-09",
       "link": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale"
-    },
-    {
-      "id": "39803df8-2d23-81c4-bbbb-ec3cee7380f7",
-      "title": "马斯克：SpaceX 上市已让公司数千名员工成为百万富翁",
-      "summary": "IT之家 7 月 9 日消息，埃隆 · 马斯克（Elon Musk）表示，SpaceX 创纪录的估值很可能已经让公司数千名员工跻身百万富翁行列。在当地时间周三播出的《The Sean Hannity Show》节目中，马斯克被问及一位前 SpaceX 焊工的故事。据报道，这名员工曾获得公司股票，在 SpaceX 于今年 6 月上市、市值约达 2 万亿美元后，其持有股份价值已超过 100 万美元。对此，马斯克在电话连线中对代班主持人、得州州长格雷格 · 阿博特（Greg Abbott）表示：“不仅仅是一位焊工，而是几千名生产线员工。如果他们加入公司的时间比较早，那么他们持有的股票现在很可能都已经",
-      "source": "IT之家",
-      "publishTime": "2026-07-09",
-      "link": "https://www.ithome.com/0/974/772.htm"
-    },
-    {
-      "id": "39803df8-2d23-81b8-9fcc-f1c07e4731ea",
-      "title": "Wimbledon's breakout star is the son of a hedge fund multimillionaire",
-      "summary": "Arthur Fery entered Wimbledon as a wild card but has reached the semifinals. He went to an elite British school and his dad made millions in finance.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-09",
-      "link": "https://www.businessinsider.com/wimbledon-arthur-fery-loice-fery-hedge-fund-multimillionaire-father-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-813d-8e86-f66d13776075",
-      "title": "索尼推出黑卡 RX10V 长焦相机：2010 万像素 1 英寸传感器、等效 24-600mm 镜头，国行 15199 元",
-      "summary": "IT之家 7 月 9 日消息，索尼现已发布黑卡 RX10V 长焦相机，将于 8 月初（下月）上市，国行 15199 元。京东索尼黑卡 RX10V15199 元直达链接该机搭载等效约 24-600mm 蔡司 Vario-Sonnar T * 镜头（F2.4-4.0 光圈），广角端最近 3 cm 微距对焦，长焦端最高 0.49 倍放大倍率。该机握柄与拨轮迎来重新设计，同步拿掉了机顶的显示屏，机身提供独立 AF-ON 按钮、双控制拨轮，配备 368 万点（120fps 刷新率）EVF 电子取景器，屏幕从 144 万点 LCD 升级为 162 万点 LCD。数据传输接口从 Micro USB 升级为 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-09",
-      "link": "https://www.ithome.com/0/974/771.htm"
-    },
-    {
-      "id": "39803df8-2d23-8113-85b9-f4e6e7ecb36a",
-      "title": "动作 RPG 游戏《致命躯壳 2》官宣 8 月 20 日发售，Steam 国区 198 元起",
-      "summary": "IT之家 7 月 9 日消息，开发商 Cold Symmetry 宣布，动作 RPG 游戏《致命躯壳 2》将于 8 月 20 日在 PS5、Xbox Series X｜S 以及 PC 平台上发售。据介绍，《致命躯壳 2》是《致命躯壳》的独立续作，在原作的基础上进行大幅扩展，带来节奏更快、更加硬核的战斗系统，更深入的武器设计、更丰富的升级选项，突出在紧凑开放世界中的自由探索体验。 彼之血肉，你之兵戎。《Mortal Shell II》（致命躯壳 2）是一款独立续作动作 RPG 游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。该作支持简体中文界面与字",
-      "source": "IT之家",
-      "publishTime": "2026-07-09",
-      "link": "https://www.ithome.com/0/974/770.htm"
-    },
-    {
-      "id": "39803df8-2d23-8106-b558-c3345e065017",
-      "title": "AMD 确认 7 月 22~23 日 Advancing AI 2026 推出 \"Zen 6\" 处理器",
-      "summary": "IT之家 7 月 9 日消息，AMD 执行副总裁及首席技术官 Mark Papermaster 近日在 2026 巴黎人工智能峰会 | RAISE 峰会上接受外媒 theCUBE 采访时确认，AMD 将在 7 月 22~23 日的 AMD Advancing AI 2026 上推出基于 \"Zen 6\" 微架构的新一代处理器。作为 AMD 年度开发者、客户及合作伙伴大会，AMD Advancing AI 2026 将在美国旧金山莫斯康展览中心西馆举行。Mark Papermaster 表示：就我个人而言，我现在参与的每一次企业级对话中，都会提到这一点。因为企业们，你知道的，已经运行 x86 架构",
-      "source": "IT之家",
-      "publishTime": "2026-07-09",
-      "link": "https://www.ithome.com/0/974/769.htm"
-    },
-    {
-      "id": "39803df8-2d23-8162-9fdf-d4b6a4b599a4",
-      "title": "2026 年度电影票房破 180 亿，《飞驰人生 3》《给阿嬷的情书》《镖人：风起大漠》前三",
-      "summary": "IT之家 7 月 9 日消息，据灯塔专业版数据，截至 7 月 9 日，2026 年度大盘票房（含预售）突破 180 亿。《飞驰人生 3》《给阿嬷的情书》《镖人：风起大漠》《惊蛰无声》《熊出没 · 年年有熊》暂列年度票房前五名。IT之家附榜单如下：《飞驰人生 3》44.21 亿《给阿嬷的情书》19.74 亿《镖人：风起大漠》14.48 亿《惊蛰无声》13.66 亿《熊出没 · 年年有熊》10.67 亿《消失的人》5.73 亿《疯狂动物城 2》5.73 亿《匿杀》4.36 亿《阿凡达 3》4.28 亿《寒战 1994》2.96 亿2026 暑期档电影片单发布，近 80 部中外影片在暑期档上映，包含",
-      "source": "IT之家",
-      "publishTime": "2026-07-09",
-      "link": "https://www.ithome.com/0/974/768.htm"
-    },
-    {
-      "id": "39803df8-2d23-81fd-8357-c2583d377405",
-      "title": "The PocketMage resurrects the PDA with an e-paper screen",
-      "summary": "Personal digital assistants like the iconic Palm Pilot were one of many devices we thought went extinct with the arrival of the smartphone. But similar to Canon resurrecting a nearly decade-old digital camera to appeal to point-and-shoot fans, Talisman Design is crowdfunding a clamshell PDA called t",
-      "source": "The Verge",
-      "publishTime": "2026-07-09",
-      "link": "https://www.theverge.com/tech/963281/pocketmage-pda-e-paper-oled-clamshell-crowd-supply"
-    },
-    {
-      "id": "39803df8-2d23-812e-8997-ea4a7b287b1e",
-      "title": "7 of the best maternity outfits Anne Hathaway has ever worn",
-      "summary": "Anne Hathaway is one of the most fashionable actors in Hollywood — and that's especially true when she's sporting maternity fashion.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-09",
-      "link": "https://www.businessinsider.com/anne-hathaway-best-maternity-outfits-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-8154-af22-fad9f33e1576",
-      "title": "I tried 7 different mayonnaises to find the best one. I'm shocked the cheapest condiment beat my usual favorite.",
-      "summary": "I compared Miracle Whip and different Kraft, Kewpie, Duke's, Hellmann's mayonnaises, tasting them on their own and in chicken salad to find the best.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-09",
-      "link": "https://www.businessinsider.com/which-brand-mayonnaise-best-grocery-store-ranking-taste-test-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-810a-a4fa-ebcd31847ad1",
-      "title": "京东快递推出行业首个「寄文件证照送千元保价」服务：单独封装、专用信封箱",
-      "summary": "IT之家 7 月 9 日消息，今日，京东快递宣布完成 CBD（中央商务区）个人与企业商务寄件服务全面升级，在专人上门揽收、规范密封封装等服务基础上，推出形象换新、服务上新、丢失必赔的升级。京东快递表示，作为行业首创举措，为所有文件证照类快递免费赠送千元保价的服务，有望解决商务用户寄递重要文件的丢损顾虑。据介绍，京东快递本次 CBD 服务升级全方位覆盖揽收、中转、派送全流程。在服务形象层面，京东快递完成专属小哥工服全面换新，以更专业的服务形象上门取送。在寄递安全层面，用户下单可选择专属服务，文件、证照、合同等快件将实现单独封装、专用信封箱全程运输以及短信验证码核验、派件身份验证。此外，在权益保障",
-      "source": "IT之家",
-      "publishTime": "2026-07-09",
-      "link": "https://www.ithome.com/0/974/767.htm"
-    },
-    {
-      "id": "39803df8-2d23-81c6-bd82-d92c1f8faef4",
-      "title": "印度取消部分手机及电子设备零部件进口关税，利好苹果、小米等厂商",
-      "summary": "IT之家 7 月 9 日消息，据路透社报道，印度已取消部分手机及其他电子设备零部件的进口关税，免除了此前 7.5% 和 5% 的税率，此举有望帮助苹果、小米等企业进一步降低制造成本。此次获得免税的产品包括：用于生产手机无线充电模块的关键零部件、医疗设备和汽车显示屏相关零部件，以及锂离子电芯等。该免税政策将持续至 2029 年 3 月 31 日。商业咨询公司 Grant Thornton Bharat 合伙人马诺杰 · 米什拉（Manoj Mishra）表示，此举将有助于提升印度电子制造业的成本竞争力，提高本地增值率，并推动高价值智能手机及电子产品制造进一步实现本土化。他还表示，对锂离子电芯制造",
-      "source": "IT之家",
-      "publishTime": "2026-07-09",
-      "link": "https://www.ithome.com/0/974/766.htm"
-    },
-    {
-      "id": "39803df8-2d23-813f-9a5c-e891f6123a0f",
-      "title": "Meta says its new AI model is ready to compete on coding",
-      "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvem",
-      "source": "The Verge",
-      "publishTime": "2026-07-09",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api"
     }
   ],
   "macroEvents": [
