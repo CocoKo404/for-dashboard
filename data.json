@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-07-11 03:57",
+  "updatedAt": "2026-07-11 05:34",
   "news": [
+    {
+      "id": "39903df8-2d23-81e8-9ec2-f82815be1a1d",
+      "title": "OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO",
+      "summary": "With Fidji Simo's official departure from OpenAI due to a chronic medical issue, Greg Brockman's role has become clearer.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-11",
+      "link": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html"
+    },
+    {
+      "id": "39903df8-2d23-8149-aaba-e15d672bfe1a",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "summary": "The iPhone-maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "source": "Wired",
+      "publishTime": "2026-07-11",
+      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/"
+    },
+    {
+      "id": "39903df8-2d23-813c-83d3-d6253478e99d",
+      "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+      "summary": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-11",
+      "link": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html"
+    },
+    {
+      "id": "39903df8-2d23-8125-a012-ee63a5e9acf8",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-11",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+    },
+    {
+      "id": "39903df8-2d23-8178-82f0-d5fb8a8002ab",
+      "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart",
+      "summary": "Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-11",
+      "link": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html"
+    },
+    {
+      "id": "39903df8-2d23-81a1-bc5d-e344c9aa8e0a",
+      "title": "Trump admin eases export controls for UAE; Warren blasts 'corrupt' provision",
+      "summary": "The Commerce Department will favorably review exports involving MGX, which used a stablecoin linked to President Trump's family for a $2B Binance investment.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-11",
+      "link": "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html"
+    },
+    {
+      "id": "39903df8-2d23-81ca-802e-ca98ab47a615",
+      "title": "A decade later, Pokémon Go finally made good on its original promise",
+      "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pokémon Go showed the world how it's done. Almost 2,000 players (many of […]",
+      "source": "The Verge",
+      "publishTime": "2026-07-11",
+      "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026"
+    },
+    {
+      "id": "39903df8-2d23-81ee-805d-cd0d75b22f9c",
+      "title": "Meta stock got the 18% pop Jim Cramer said it could on cloud news. What's next?",
+      "summary": "Investors are also celebrating Meta's launch Thursday of Muse Spark 1.1.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-11",
+      "link": "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html"
+    },
+    {
+      "id": "39903df8-2d23-81f4-9505-d10986ba7e51",
+      "title": "ICE is threatening to deport witnesses of its latest shooting",
+      "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved in the shooting weren't ",
+      "source": "The Verge",
+      "publishTime": "2026-07-11",
+      "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo"
+    },
     {
       "id": "39903df8-2d23-8188-8245-fc82f3456970",
       "title": "Philadelphia built a free, 39-day World Cup festival serving more than 425,000 fans. Take a look inside.",
@@ -328,78 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-07-10",
       "link": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/"
-    },
-    {
-      "id": "39903df8-2d23-8159-a193-ddfe7da1a2b4",
-      "title": "微信 Win / Mac PC 测试版 4.1.12 发布：通话中可接听新来电，支持 Markdown 排版",
-      "summary": "IT之家 7 月 10 日消息，微信团队今日面向 PC 版内测用户推送了最新的 4.1.12 版本更新。该版本在通话功能、多媒体展示以及笔记工具方面带来了多项改进。在通话功能方面，新版微信电脑版支持在视频或语音通话过程中接听新的来电。此前，电脑版微信在通话期间无法处理其他呼叫，此次更新后用户在通话中可接听新的通话请求，无需挂断当前通话。此外，针对手机端合并发送的图片和视频，电脑版现在可在聊天窗口中合并展示，改善了多媒体内容的查看体验。同时，本次更新还修复了一些已知问题。微信电脑版 4.1.12 内测版新增了对 Markdown 语法的支持。用户可在笔记中直接使用 Markdown 语法进行排版",
-      "source": "IT之家",
-      "publishTime": "2026-07-10",
-      "link": "https://www.ithome.com/0/975/358.htm"
-    },
-    {
-      "id": "39903df8-2d23-813a-9e8f-e5f5590015ac",
-      "title": "SK Hynix stock set for Nasdaq debut, opening the trillion-dollar chip giant to U.S. investors",
-      "summary": "SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-10",
-      "link": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html"
-    },
-    {
-      "id": "39903df8-2d23-819f-83ca-fd3ac2137202",
-      "title": "北通鲲鹏 70 手柄《异环》联名款上市：安魂曲、薄荷双色可选，699 元",
-      "summary": "IT之家 7 月 10 日消息，《异环》与北通联合推出的联动定制礼盒已于 7 月 9 日开启全价预售，京东首发显示为 699 元。京东北通鲲鹏 70 异环联名款 薄荷智控游戏手柄 AI 自适应双切震动扳机【京仓发货】699 元直达链接该礼盒以北通鲲鹏 70 AI 智控旗舰手柄为基础，提供“安魂曲”与“薄荷”两款配色，围绕游戏《异环》的角色与世界观展开定制设计。除联名定制款手柄本体外，礼盒中还包含定制亚克力流沙砖、定制摇杆帽一对、定制徽章、定制贴纸、编织数据线、无线接收器，以及说明书与保修卡等配件。另外，前 12000 套购买用户还将额外获得游戏道具兑换卡。礼盒整体采用全套限定设计，周边产品均融",
-      "source": "IT之家",
-      "publishTime": "2026-07-10",
-      "link": "https://www.ithome.com/0/975/357.htm"
-    },
-    {
-      "id": "39903df8-2d23-81b6-88f3-e4c6b206d59b",
-      "title": "全新零跑 B01/B10 车型 7 月 16 日上市：50 英寸 AR-HUD、双零重力座椅、激光雷达",
-      "summary": "IT之家 7 月 10 日消息，全新零跑 B01/B10 车型将于 7 月 16 日上市，这两款新车已在 7 月 8 日开启盲订。IT之家注意到，全新 B01/B10 的外观已经公布，全新零跑 B01 新增云黛紫、液态银外观，定位“年轻时尚超长续航轿车”；全新 B10 新增风禾青、液态银配色，定位“全球智享长续航 SUV”。据介绍，全新 B01 搭载 50 英寸虚实融合 AR-HUD、17.3 英寸 3K 超清中控屏、8.8 英寸液晶仪表、Leap Sound 14 扬声器、主驾头枕扬声器（共享、驾享、私享 3 大模式）。全新 B10 则搭载 124° 前排双零重力座椅，提供吸风式通风、加热、",
-      "source": "IT之家",
-      "publishTime": "2026-07-10",
-      "link": "https://www.ithome.com/0/975/356.htm"
-    },
-    {
-      "id": "39903df8-2d23-8142-811f-f547f5a62f94",
-      "title": "We spend almost $50,000 a year on childcare. It's helped me build the career I wanted.",
-      "summary": "Karina Monesson says staying in the workforce has strengthened her family's long-term financial future despite high childcare costs.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/paying-50000-for-childcare-working-mom-2026-7"
-    },
-    {
-      "id": "39903df8-2d23-8186-87ec-c3441f2c18ea",
-      "title": "告别卓易通：飞牛 fnOS 鸿蒙原生 App 开启首轮测试招募",
-      "summary": "IT之家 7 月 10 日消息，飞牛私有云（fnOS）今晚宣布，飞牛鸿蒙版 App 开发工作已进入尾声，即将开启首轮内测，现面向社区招募首批体验官。本次内测面向已使用飞牛 NAS（fnOS）的鸿蒙手机用户，设备需运行 HarmonyOS 5 或支持参与测试的鸿蒙系统。招募对象需愿意积极反馈问题和使用建议，并能配合安装测试版本持续体验。飞牛方面表示，首批体验官将提前体验飞牛鸿蒙版 App 的新功能，并与产品、研发团队直接沟通交流，优先参与后续系统与应用版本内测。优秀反馈者还有机会获得飞牛官方周边或其他福利。报名通道自 7 月 10 日起开放，持续一周，预计下周公布入选名单。飞牛团队希望体验官重点",
-      "source": "IT之家",
-      "publishTime": "2026-07-10",
-      "link": "https://www.ithome.com/0/975/355.htm"
-    },
-    {
-      "id": "39903df8-2d23-8119-8fe9-c7728144751c",
-      "title": "I'm an interior designer. Here are 9 ways to make your home look more expensive on a budget.",
-      "summary": "As an interior designer, I know some budget-friendly ways to make a home look more expensive, from incorporating crown molding to utilizing mirrors.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/cheap-ways-to-make-home-look-expensive-interior-designer-2026-7"
-    },
-    {
-      "id": "39903df8-2d23-8163-bf81-e650e4362e3b",
-      "title": "I spent a week using the Trump phone — it sucks",
-      "summary": "The Trump phone was never a serious phone. Not when it was announced last June, in dodgy renders and with an incoherent spec sheet. Nor when Trump Mobile admitted - just two weeks later - that it wouldn't be made in the US. Not even when the company revealed the final phone, first to me […]",
-      "source": "The Verge",
-      "publishTime": "2026-07-10",
-      "link": "https://www.theverge.com/tech/963382/trump-mobile-t1-phone-review"
-    },
-    {
-      "id": "39903df8-2d23-810f-b35f-f43e69db6a2f",
-      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
-      "summary": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/"
     }
   ],
   "macroEvents": [
