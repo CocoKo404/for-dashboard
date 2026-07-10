@@ -1,6 +1,342 @@
 {
-  "updatedAt": "2026-07-10 09:07",
+  "updatedAt": "2026-07-10 13:32",
   "news": [
+    {
+      "id": "39903df8-2d23-81f1-9277-ed347241cea5",
+      "title": "NVIDIA 发布 GeForce 典藏卡第 1 系列：致敬历史时刻，BW2026 有赠卡活动",
+      "summary": "IT之家 7 月 10 日消息，NVIDIA（英伟达）当地时间昨日宣布推出首个 GeForce 典藏卡系列。这套免费典藏卡共包含 14 款设计，展示了 GeForce PC 游戏发展历程的经典时刻，将通过 BW2026 等线上线下活动向玩家赠送。IT之家整理 GeForce 典藏卡第 1 系列部分主题内容如下：NV1（NVIDIA 首款面向主流市场的多媒体处理器）；GeForce 256（全球首款 GPU）；GeForce 3（首款支持可编程着色器的 GPU）；GeForce 7800 GTX（2000 年代中期 GeForce 7 系列的代表）；GeForce 10 系列；Bubble、Ch",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/830.htm"
+    },
+    {
+      "id": "39903df8-2d23-81b4-8823-f9f5283e52e9",
+      "title": "六年来首个大型抢劫任务更新，《GTA Online》“科兹中心豪劫”7 月 14 日上线",
+      "summary": "IT之家 7 月 10 日消息，Rockstar Games 官宣了《侠盗猎车手》在线模式六年来的首个大型抢劫任务更新“科兹中心豪劫”的完整内容。更新将于 7 月 14 日星期二登陆全平台。IT之家注：这也是自 2020 年的“佩里科岛”以来，官方首次推出真正意义上的抢劫任务更新。“科兹中心豪劫”支持单人游玩，也支持最多四人组队，任务中，玩家将与神秘的费伯先生及其主要中间人拉夫 · 德 · 安杰利斯合作，对一座知名艺术博物馆进行踩点，并盗走馆内最珍贵的藏品。抢劫高端博物馆前，哪怕老手也得做好准备。更新将加入新的据点内容：艺术工作室。玩家需要先在自己的豪宅中开设艺术工作室，才能启动这次抢劫任务。",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/829.htm"
+    },
+    {
+      "id": "39903df8-2d23-81c3-a66f-ed2ba8f8e0c2",
+      "title": "三星电子会长李在镕拟于本月底赴美，会见英伟达 CEO 黄仁勋",
+      "summary": "IT之家 7 月 10 日消息，据韩媒《东亚日报》今天报道，三星电子会长李在镕预计将于本月底奔赴美国，会见英伟达创始人兼 CEO 黄仁勋。据业内人士透露，李在镕正在和黄仁勋协调硅谷会面的相关安排。如果会面成行，两人将在时隔九个月后会晤，他们上一次会面是在去年 10 月的 APEC 会议。同时，本次会谈将进一步促进韩国国内的“三大超级计划”。根据该计划，韩国各大企业将在光州投资 800 万亿韩元（IT之家注：现汇率约合 3.62 万亿元人民币）建设半导体园区，并在国内投资超 1000 万亿韩元（现汇率约合 4.52 万亿元人民币）建立 AI 数据中心，而英伟达预计将在其中发挥关键作用。并且，韩国",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/828.htm"
+    },
+    {
+      "id": "39903df8-2d23-813c-9e5c-e6447dbb2880",
+      "title": "铭凡公布本地 AI 边缘工作站 MS-03 更多信息：支持 128GB DDR5-7200",
+      "summary": "IT之家 7 月 10 日消息，MINISFORUM（铭凡）现已公布有关其本地 AI 边缘工作站 MS-03 的更多信息，这也标志着此款迷你主机距离推出更近了一步。MS-03 至少可选英特尔酷睿 Ultra 9 286H、Ultra 5 336H 处理器，支持至少 128GB 的 DDR5-7200 SO-DIMM 内存，提供 3 个 M.2 SSD 盘位和 PCIe 扩展槽，支持至高 15TB 的企业级 U.2 SSD，通过英特尔 X710 有线网卡扩展出 2 个 10Gbps SFP+ 接口，配备英特尔 BE211 无线网卡。其搭载三热管 + 涡轮风扇 + 相变 TIM 散热系统，部分型号",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/827.htm"
+    },
+    {
+      "id": "39903df8-2d23-81c4-ab06-e663e7dc0744",
+      "title": "Win10/Win11 学院：如何在微软 Edge 150 稳定版浏览器启用谷歌账号登录入口",
+      "summary": "IT之家 7 月 10 日消息，科技媒体 Windows Latest 今天（7 月 10 日）发布博文，报道称在 Microsoft Edge 浏览器 150 稳定版（150.0.4078.48）中，微软新增支持谷歌账号登录入口。微软于 7 月 2 日发布 Microsoft Edge 150 稳定版，主要新增支持谷歌账号登录入口，不过由于该功能 / 特性处于渐进式推送状态，部分用户暂未生效。IT之家援引博文介绍，对于没有看到相关登录入口的用户，在升级到 Edge 150 稳定版后，可以在浏览器地址栏中访问以下路径：edge://flags/#edge-enable-google-sign-",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/826.htm"
+    },
+    {
+      "id": "39903df8-2d23-81c2-b0d1-d96e64dfe92c",
+      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+      "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-10",
+      "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "39903df8-2d23-81ae-9f54-d85b250ea5e2",
+      "title": "《使命召唤：黑色行动 1/2》游戏登陆索尼 PS4/PS5，不支持跨平台联机",
+      "summary": "IT之家 7 月 10 日消息，动视旗下游戏《使命召唤：黑色行动》和《使命召唤：黑色行动 2》现已登陆索尼 PS4/PS5 平台，原价 39.99 美元（现汇率约合 271.9 元人民币）/款，PS Plus 会员首发优惠价每款 19.99 美元（IT之家注：现汇率约合 135.9 元人民币）。作为参考，《使命召唤：黑色行动 1》最初发售于 2010 年 11 月 9 日，登陆 PS3、Xbox 360、Wii、NDS 和 PC 等平台；而《使命召唤：黑色行动 2》则是发售于 2012 年 11 月 13 日，登陆 PS3、Xbox 360、Wii U 和 PC 等平台。两款在 PS4/PS5",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/825.htm"
+    },
+    {
+      "id": "39903df8-2d23-8129-96b3-ca101d21df0e",
+      "title": "洛图科技：2030 年中国星闪音频终端设备出货量将突破 1.8 亿台，渗透率超 50%",
+      "summary": "IT之家 7 月 10 日消息，科技产业研究机构洛图科技今日发布《星闪赋能音频产业发展白皮书》，作出中长期预测：2030 年，中国星闪音频终端设备的出货量将突破 1.8 亿台，在整体市场的渗透率超 50%，成为音频行业存量竞争阶段的核心增量。星闪（Nearlink）音频解决方案基于新一代星闪技术，物理层带宽最高可达 16Mbps，可稳定承载 48kHz/24bit 规格 Hi-Fi 无损音频所需 2.3Mbps 传输码率。▲ 首款星闪音频耳机：华为 FreeBuds Pro 5 悦彰耳机同时，该方案兼容现有蓝牙生态，无需用户更换设备即可平滑过渡，降低终端厂商与用户的迁移成本。依托“开源鸿蒙 +",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/823.htm"
+    },
+    {
+      "id": "39903df8-2d23-8153-a85d-dc4d4f12a4e9",
+      "title": "开启“算力自主”，粤港澳大湾区国产智算超万卡集群发布",
+      "summary": "IT之家 7 月 10 日消息，据央视新闻今天（10 日）报道，昨天（9 日），粤港澳大湾区国产智算超万卡集群在韶关上线启用，重点服务于粤港澳大湾区人工智能产业，标志着国产大模型研发正式进入“算力自主”新阶段。IT之家从报道中获悉，该集群总投资 55 亿元，总计部署 11520 张昇腾国产 AI 加速算力芯片卡，总算力达 9000P，整体性能达国际领先水平，它是全国一体化算力网络粤港澳大湾区枢纽的组成部分。通过联动国产芯片、操作系统、算法框架等上下游企业，完善从基础设施到产业应用的完整算力生态链，推动国产芯片、国产训练框架的规模化应用。中国电信广东分公司云网发展部总经理刘志军介绍，这个集群全国",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/822.htm"
+    },
+    {
+      "id": "39903df8-2d23-8110-b86a-c2ab9fbb2044",
+      "title": "Kensington 垂直轨迹球鼠标 TB675 三模版国行上市，521 元",
+      "summary": "IT之家 7 月 10 日消息，Kensington（肯辛通）现已在国内电商平台上架 Pro Fit Ergo TB675 鼠标的三模无线版本，售价 521 元。天猫 Kensington TB675 轨迹球 鼠标 三模 521 元直达链接Pro Fit Ergo TB675 采用 60° 大倾角设计，由拇指操控 34mm 球体。其长 130mm、宽 98mm，面向手掌长度 175.26~190.5mm、掌宽 76.2~88.9mm 的中尺寸手型用户。该鼠标 cpi / DPI 支持 400~1600 四档调节，配备金属 4D 滚轮，拥有九个可编程按钮，背部集成按钮式球体抛出机构，无线模式续航",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/821.htm"
+    },
+    {
+      "id": "39903df8-2d23-81a7-bf5a-d17b358e1a71",
+      "title": "超阿里巴巴刷新外企赴美 IPO 募资纪录，SK 海力士 7 月 13 日正式挂牌纳斯达克",
+      "summary": "IT之家 7 月 10 日消息，SK 海力士将于今天在美国纳斯达克市场开启预发行交易，拟定发行价格为 149 美元（IT之家注：现汇率约合 1013 元人民币）/股，预计募资约 265 亿美元（现汇率约合 1802.06 亿元人民币）。如果金额最终确定，本次上市有望刷新外国企业赴美 IPO 融资金额纪录。值得注意的是，本次 IPO 规模还将超越阿里巴巴集团 2014 年 9 月在纽交所上市时创下的 250 亿美元（现汇率约合 1700.06 亿元人民币）融资记录，成为史上第三大 IPO。目前，历史上最大的 IPO 归 SpaceX（纳斯达克交易所）所有，融资 750 亿美元（现汇率约合 510",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/820.htm"
+    },
+    {
+      "id": "39903df8-2d23-81ef-99cb-c3518b238e75",
+      "title": "微软确认 Win10 支持 WSL Containers，需 Build 19041 及更高版本",
+      "summary": "IT之家 7 月 10 日消息，微软 WSL 产品负责人克雷格 · 洛温（Craig Loewen）确认，Windows 10 平台也支持运行 WSL Containers 功能。WSL Containers 是微软基于 WSL 提供的原生 Linux 容器能力，用户无需安装 Docker Desktop 或 Podman Desktop，可通过 wslc.exe 在 Windows 中创建、运行和管理容器。适用场景包括本地容器化开发、单服务测试、镜像构建与命令行运维。关于 WSL Containers 更多的体验细节，可以参考IT之家此前发布文章《外媒初探微软 Win11 WSL 容器：无需",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/819.htm"
+    },
+    {
+      "id": "39903df8-2d23-8104-89a4-ea0cae13ddd9",
+      "title": "微软承认可持续发展解决方案未能跟上 AI 需求，去年碳排放大增 25%",
+      "summary": "IT之家 7 月 10 日消息，根据微软 2026 年可持续发展报告，若不计入部分干预措施，微软 2025 年碳排放量同比增长 25%，达到 3400 万吨。微软称，排放上升主要源于数据中心基础设施扩张，同时也与微软去年 2 月停止购买非额外性、非捆绑式可再生能源证书有关。据外媒 The Verge 今天（10 日）报道，微软数年前承诺，到 2030 年实现碳负排放，也就是清除的碳排放量超过自身产生的碳排放量，不过实现这一目标的过程并不顺利。2024 年可持续发展报告显示，微软气候污染出现类似增长。今年，微软在报告中承认：“虽然 AI 基础设施推高了对能源、水、土地和材料的需求，但可持续发展解",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/818.htm"
+    },
+    {
+      "id": "39903df8-2d23-813e-9532-f99fa107da75",
+      "title": "上汽通用五菱捐赠总价值 300 万元资金及车辆驰援广西抗洪救灾",
+      "summary": "IT之家 7 月 10 日消息，上汽通用五菱今日宣布，捐赠总价值 300 万元资金及车辆驰援广西抗洪救灾。IT之家附公告全文如下：近日，受台风“美莎克”影响，广西出现持续性强降雨，部分地区发生严重洪涝灾害，灾情牵动人心。上汽通用五菱快速启动应急响应，依托中国红十字基金会上汽通用五菱博爱基金“奋斗者专项计划”，从该专项计划中列支总价值 300 万元的资金及车辆，定向用于广西受灾地区的灾后重建、困难群众救助及救援队伍能力建设等，全力支持抢险救援与灾后重建工作。扎根广西，与家乡同心同行。上汽通用五菱始终以实际行动践行本土企业责任，与受灾群众并肩而立、共渡难关。据广西南宁防汛救灾发布会 7 月 9 日",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/816.htm"
+    },
+    {
+      "id": "39903df8-2d23-817f-a4db-f1395d5491f0",
+      "title": "Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo",
+      "summary": "A surprise 10th-anniversary event saw Niantic fulfilling a promise teased in the original 2016 launch trailer for its popular mobile game.",
+      "source": "Wired",
+      "publishTime": "2026-07-10",
+      "link": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/"
+    },
+    {
+      "id": "39903df8-2d23-81dc-a613-e85136857884",
+      "title": "多家机构预测三星电子 MX 业务恐在 2026Q2 陷入成立后首次亏损",
+      "summary": "IT之家 7 月 10 日消息，据韩媒《ChosunBiz》当地时间昨日报道，多家金融机构预测主营智能手机的三星电子 DX 部 MX 业务恐会在 2026Q2 陷入成立后的首次亏损，而该业务此前甚至在 Galaxy Note 7 暴雷时仍有盈利。MX 业务本是三星电子“下金蛋的母鸡”。然而在这波全球 AI 浪潮下，MX 业务面临严重的存储器成本危机；与之相对应的，三星电子 DS（“半导体”）部存储器业务近来可以说是赚得盆满钵满。三星证券预测，三星电子 MX 业务在上一季度的亏损额达 1.4 万亿韩元。MX 与网络业务（MX 的体量占到两者合计的 95% 以上）整体将在 2026 年出现 5.8",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/815.htm"
+    },
+    {
+      "id": "39903df8-2d23-81dd-9314-ec9a947d6121",
+      "title": "微软 Win10/Win11 新版 Outlook 规划旧邮件回复提醒等 3 项功能",
+      "summary": "IT之家 7 月 10 日消息，科技媒体 Windows Latest 今天（7 月 10 日）发布博文，报道称微软计划在 2026 年 8~9 月期间，升级 Windows 10、Windows 11 新版 Outlook 应用程序，规划新增 3 项新功能 / 新特性。根据 Microsoft 365 路线图规划，微软计划升级新版 Outlook，引入回复旧邮件提醒、基于模板的自动回复规则，以及改进分类 3 项功能。在回复旧邮件提醒方面，IT之家援引博文介绍，该功能于 7 月 7 日邀请部分用户测试，计划 8 月底前向 Windows 用户推出，并同步扩展至 Outlook.com。该功能默",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/814.htm"
+    },
+    {
+      "id": "39903df8-2d23-819c-9f63-f033ec0cc611",
+      "title": "变卦了：马斯克盛赞 Anthropic，承诺不会因竞争将其赶出 SpaceX 服务器",
+      "summary": "IT之家 7 月 10 日消息，Anthropic 能放心把模型托管给马斯克吗？X 上有用户暗示，马斯克哪天一觉醒来，或许就能把它直接赶出 SpaceX 服务器，以此打击竞争对手。马斯克随后高调称赞 Anthropic，并回应称这种做法“不是我的风格”：“我显然看错了 Anthropic。”IT之家注：此处指的是马斯克 2025 年 9 月的一条帖文。当时，马斯克曾说：“胜利从来不在 Anthropic 可能出现的结果集合中。”截至 2026 年 7 月，Anthropic 已成为 SpaceX 最大客户之一。今年 5 月，Anthropic 向 SpaceX 购买了 300 兆瓦算力，也就是",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/813.htm"
+    },
+    {
+      "id": "39903df8-2d23-8100-b75c-f34161fb181b",
+      "title": "派早报：蔚来 ES8 大五座版正式上市等",
+      "summary": "OpenAI 发布 GPT-5.6 系列模型等，SpaceXAI 发布编程智能体模型 Grok 4.5。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-07-10",
+      "link": "https://sspai.com/post/112143"
+    },
+    {
+      "id": "39903df8-2d23-81fc-9a5b-f0e4e505f49c",
+      "title": "通过短信远程养龙虾，中国移动“新消息 Claw”上线",
+      "summary": "IT之家 7 月 10 日消息，中国移动新消息今日宣布推出“新消息 Claw”应用号服务。依托新消息技术，已在电脑上使用飞书 OpenClaw、QClaw、OpenClaw（原生）、AutoClaw 的用户，无需下载 App、无需繁琐安装流程，通过该应用号，在手机短信里就能指挥“龙虾”帮你干活，还能使用短信接收龙虾推给你的资讯。Claw（又称“龙虾”）是一款现象级的开源 AI Agent。它让 AI 不再只会聊天，更能真正替你干活 —— 读文件、写代码、整理表格、执行提醒任务、自动回复消息等。新消息基于传统短信全新升级，具备更丰富的内容形式、更智能化的消息服务体验：使用新消息 Claw，用户可",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/812.htm"
+    },
+    {
+      "id": "39903df8-2d23-8137-a962-eae866571c7c",
+      "title": "Character.AI 因数据和未成年人保护问题在意大利被罚 15.8 万欧元",
+      "summary": "IT之家 7 月 10 日消息，意大利数据保护局当地时间 9 日宣布对运营生成式人工智能服务 Character.AI 的美国企业 Character Technologies 处以 15.8 万欧元（IT之家注：现汇率约合 122.8 万元人民币）的罚款。用户在 Character.AI 上可通过聊天利用 AI 创建虚拟角色并与之互动。而在去年末之前，Character Technologies 并未阻止未成年人使用开放式聊天功能。▲ Character.ai 最新 AI 短剧功能界面意大利数据保护局表示，Character Technologies 存在多项违反数据保护法规的行为，包括提供",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/810.htm"
+    },
+    {
+      "id": "39903df8-2d23-819e-b7e8-c9d426da2927",
+      "title": "微软承认因兼容性问题，导致部分 Win11 设备无法正常更新安全启动证书",
+      "summary": "IT之家 7 月 10 日消息，科技媒体 Windows Latest 今天（7 月 10 日）发布博文，报道称微软承认由于兼容性问题，导致部分 Windows 11 设备无法正常安装安全启动证书更新。安全启动（Secure Boot）内置于 UEFI 固件中的启动安全机制，用于在设备开机阶段验证引导链中的软件是否可信。它主要用于阻止未授权、被篡改或已知存在风险的启动程序加载，常见于 Windows 11 设备的默认安全要求中。由于 2011 年及更早签发的安全启动证书已过期，微软通过升级安全启动证书，推动 Windows 11 设备更替证书，升级到 2023 年签发的证书上。微软在最新支持文",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/808.htm"
+    },
+    {
+      "id": "39903df8-2d23-81eb-a9f9-ecedb886db63",
+      "title": "摩根大通：AI 投资热潮降温，市场已不再想着“凡是跟 AI 沾边的东西都买”",
+      "summary": "IT之家 7 月 10 日消息，摩根大通资产管理全球市场策略师戴维 · 莱博维茨认为，投资者正在更成熟地区分 AI 带来的潜在风险和回报。随着 AI 逐渐演变为覆盖各类资产和行业的交易主题，这将成为华尔街必须掌握的一课。莱博维茨提到，投资者已经开始更细致地区分 AI 产业链中的不同环节，判断哪些领域可能供给过剩，哪些领域仍有强劲需求。“市场不再只是抱着‘我们看好 AI，所以凡是跟 AI 沾边的东西都买’的想法。”莱博维茨指出，相较于半导体和硬件生产，数据中心建设和运营需求更可能具备结构性支撑。他认为，芯片确实可能出现供应过多的问题。“在我看来，供给风险主要集中在芯片和硬件领域。投资者的热情显然",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/806.htm"
+    },
+    {
+      "id": "39903df8-2d23-81d3-9302-f1f228ada786",
+      "title": "OpenAI 升级适用于谷歌 Chrome 浏览器的 ChatGPT 扩展：与你并肩工作",
+      "summary": "IT之家 7 月 10 日消息，OpenAI 今天（7 月 10 日）发布公告，宣布升级适用于谷歌 Chrome 浏览器的 ChatGPT 扩展程序，让用户可以直接在 Chrome 侧边栏中使用 ChatGPT。官方在博文中写道：用户可以让 ChatGPT 研究市场、比较来源、从网站提取信息，或在应用内打开并完善 Google Workspace 和 Microsoft 365 中的文件。它可以使用浏览器引入最新上下文、在网页间执行步骤，并在你审阅和指导结果的同时持续推进工作。这些能力建立在我们从 Atlas 以及用户那里获得的经验之上，他们帮助我们理解智能体式工具如何让基于浏览器的工作更有用",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/807.htm"
+    },
+    {
+      "id": "39903df8-2d23-81f1-875f-ce8faf5c4c3b",
+      "title": "现已恢复：苹果一度让部分老 iPhone / iPad 无法还原、刷机，涵盖 iOS 6-iOS 10",
+      "summary": "IT之家 7 月 10 日消息，据科技媒体 MacRumors 今天更新，苹果从太平洋时间 7 月 9 日 12:24 开始（北京时间 7 月 10 日 3:24），恢复多个老版本 iOS 系统的基带签名，涵盖 iPhone 4、iPhone 5C、iPad mini（第一代）等设备，目前可以正常还原、刷机。据报道，苹果从太平洋时间 7 月 9 日 5:31（北京时间 7 月 8 日 20:31）开始停止签署部分老版本 iOS 的基带固件，但 iOS 系统本身并没有停止签名，一度导致部分机器无法还原系统或刷机。IT之家附本次受影响设备名单如下：iPhone 4（CDMA）：无法通过 IPSW ",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/805.htm"
+    },
+    {
+      "id": "39903df8-2d23-819c-8c00-c2d5377f60bc",
+      "title": "OpenAI 整合桌面端 ChatGPT / Codex 应用，集成聊天、工作和 AI 编程",
+      "summary": "IT之家 7 月 10 日消息，OpenAI 公司今天（7 月 10 日）发布公告，宣布推出全新桌面应用程序，将整合 Codex 和 ChatGPT 体验，增强 AI 编程体验的同时，扩展覆盖更多非开发者群体。桌面版 Codex 在更新后，将会变成全新的 ChatGPT 桌面应用，包括 Chat（聊天）、ChatGPT Work（工作）和 Codex 三个组成部分，更新后应用会保留现有的 Codex 任务和项目，也可以在设置中选择 Codex 应用图标。对于已经在使用 ChatGPT 桌面版用户，在打开应用后会提示下载新的 ChatGPT 桌面应用，可以和当前 ChatGPT 桌面应用同时存在",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/804.htm"
+    },
+    {
+      "id": "39903df8-2d23-8158-9d04-ce7e31dfbcf8",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
+    },
+    {
+      "id": "39903df8-2d23-819b-927b-d5ba39381332",
+      "title": "纽约联储主席威廉姆斯：AI 现在是我最关注的通胀问题，未来或迫使美联储加息",
+      "summary": "IT之家 7 月 10 日消息，据彭博社今天（10 日）报道，纽约联储主席约翰 · 威廉姆斯透露，在美国通胀的各项推动因素中，自己最关注 AI 带来的需求增长。如果这股需求持续下去，美联储可能被迫加息。威廉姆斯说，如果 AI 需求相对于供给形成持续冲击，并进一步推高通胀，就不能把这类压力当作可以忽略的短期扰动。“如果通胀最终比我的基准预测更顽固，而且明显更高，那么货币政策就需要作出回应。”威廉姆斯同时指出，如果形势没有恶化，而是以更温和的方式发展，美联储现有政策立场仍然合适。“货币政策目前处于有利位置，并将继续如此。”谈到通胀监测时，威廉姆斯说，如果美联储偏好的基础通胀指标（核心个人消费支出价",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/803.htm"
+    },
+    {
+      "id": "39903df8-2d23-81e4-8f10-e4424223f190",
+      "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
+      "summary": "The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/"
+    },
+    {
+      "id": "39903df8-2d23-81f5-b840-ec824e61a6ba",
+      "title": "美商务部长卢特尼克敦促 SK 海力士和三星在美扩产存储芯片：必须得跟上",
+      "summary": "IT之家 7 月 10 日消息，据彭博社今天（10 日）报道，美国商务部长霍华德 · 卢特尼克敦促三星电子和 SK 海力士加快在美国扩大存储芯片产能，以缓解全球短缺。卢特尼克在美光科技主办的活动上证实，自己已与两家韩国存储芯片厂商展开磋商，但没有透露更多细节。他承认，美光 CEO 桑杰 · 梅赫罗特拉未必愿意看到竞争对手扩大美国业务，不过美国需要打造更稳固的芯片供应链。“他不会喜欢，但我希望把他的竞争对手 —— 三星和 SK 海力士带到美国建厂。美光已经走在前头了，其他公司接下来会眼红的，对吧？它们必须跟上。”在全球 AI 热潮推高存储产品需求之际，SK 海力士和三星计划未来数年合计投资 88",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/802.htm"
+    },
+    {
+      "id": "39903df8-2d23-81eb-8210-cb9601a33613",
+      "title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Micro",
+      "source": "The Verge",
+      "publishTime": "2026-07-10",
+      "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026"
+    },
+    {
+      "id": "39903df8-2d23-817e-b209-cb54289a4e28",
+      "title": "刷新外国企业赴美 IPO 纪录：曝 SK 海力士募资约 265 亿美元，预发行交易今日开启",
+      "summary": "IT之家 7 月 10 日消息，据彭博社今天报道，韩国芯片制造商 SK 海力士计划在美国纳斯达克上市，预计募资约 265 亿美元（IT之家注：现汇率约合 1804.71 亿元人民币），成为外国企业在美国规模最大的 IPO（首次公开募股）。据悉，SK 海力士本次将超越阿里巴巴集团在美国的首次上市，成为历史上第三大上市交易。King&Spalding 合伙人 Zack Davis 对此表示：“从执行层面看，如果这笔交易能够像市场预期那样被消化并顺利取得成功，那么未来将有更多公司效仿，并借助美国市场推动行业需求升温，值得关注”。SK 海力士本次计划通过美国存托凭证（ADR）发行 1.779 亿份股新",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/800.htm"
+    },
+    {
+      "id": "39903df8-2d23-8136-81af-c45d6af3887b",
+      "title": "阿斯顿 · 马丁将继续采用 V12 发动机，不急于推出电动跑车",
+      "summary": "IT之家 7 月 10 日消息，阿斯顿 · 马丁正在推进下一代整车平台开发，新平台将覆盖未来跑车和 SUV 车型，下一代车型仍有望继续搭载 V12 发动机。据外媒 Auto Express 当地时间 6 日报道，阿斯顿 · 马丁 CEO 阿德里安 · 霍尔马克表示，公司已经对 V12 发动机进行调整，使其符合欧洲和美国法规，“只要我们把 V12 车型年销量控制在 1000 辆以下，至少到 2035 年以前就可以获得法规豁免。”阿斯顿 · 马丁曾在 2023 年宣布与 Lucid 合作，由 Lucid 为未来纯电车型供应电驱系统，但此后大幅推迟。阿斯顿 · 马丁原本计划到 2030 年推出 4 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/801.htm"
+    },
+    {
+      "id": "39903df8-2d23-812d-8982-cd2334ab5ade",
+      "title": "7.8% 份额触及低点：Netflix 挽救用户参与度，评估引入直播频道",
+      "summary": "IT之家 7 月 10 日消息，华尔街日报昨日（7 月 9 日）发布博文，报道称网飞（Netflix）为应对用户观看参与度走弱，正评估引入直播电视频道与流媒体捆绑销售。消息称在 Netflix 管理层的重要议题中，其核心之一是用户参与度下滑，该指标是指用户在平台上的观看时长、访问频率以及是否完整看完一部电影或一季剧集等行为指标。IT之家注：流媒体平台通常用这一指标衡量内容吸引力与用户留存稳定性，并据此调整内容投放、产品设计和商业化策略。尼尔森数据显示，Netflix 2026 年 4 月电视观看份额降至 7.8%，为 2025 年 5 月以来最低水平。过去 12 个月，公司股价累计下跌超过 4",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/799.htm"
+    },
+    {
+      "id": "39903df8-2d23-814a-8bdb-d41aee5e93f6",
+      "title": "Anthropic Claude 测试上线 Reflect：四个维度回顾用户使用 AI 习惯",
+      "summary": "IT之家 7 月 10 日消息，Anthropic 昨日（7 月 9 日）发布博文，宣布推出测试版 Reflect 功能，用于帮助用户回顾和调整 Claude 的使用方式。该功能已向开启记忆功能的 Free、Pro、Max 用户开放，入口位于网页端和桌面端 Claude 应用的设置应用内，支持回看过去 1 个月、3 个月、6 个月或 12 个月的 Claude 聊天活动，并生成使用总结。IT之家附上相关截图如下：在生成的总结中，覆盖重点话题、使用模式和常见任务类型，同时展示用户最常在哪些时段使用 Claude，以及相应时间主要处理的工作内容。Anthropic 称，后续还将增加使用时长视图。在",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/798.htm"
+    },
+    {
+      "id": "39903df8-2d23-81c1-93f0-fb1d3ced1b02",
+      "title": "健康在先：OpenAI 应用业务 CEO 菲吉・西莫因慢性病严重恶化，转任兼职顾问",
+      "summary": "IT之家 7 月 10 日消息，OpenAI 应用程序业务 CEO 菲吉・西莫（Fidji Simo）今天在 X 平台发表长文，宣布自己决定卸任 OpenAI 的全职岗位，转为担任兼职顾问。菲吉・西莫表示，她在三个月前由于慢性疾病严重恶化，不得不开始休病假。在那段时间里，她逐步意识到，她的康复之路将比想象中更加复杂、漫长，因此她必须全身心投入到恢复健康之中。过去几年，西莫的医生、朋友和同事都劝过她放慢脚步。在她生病两年后，Facebook 曾提出让她休一年医疗假期，但她最终连考虑都没有就拒绝了。当时扎克伯格对她说，要把目光放长远，而西莫在回忆这段经历时则表示：“真希望我当时能听取他的建议”。不",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/797.htm"
+    },
+    {
+      "id": "39903df8-2d23-8119-9cae-edee6257db35",
+      "title": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
+      "summary": "Fidji Simo stepped away from OpenAI in April for a medical leave, says she now has to focus on recovery.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-10",
+      "link": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html"
+    },
+    {
+      "id": "39903df8-2d23-8178-bc7f-de9d5eeda50d",
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-10",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
+    },
+    {
+      "id": "39903df8-2d23-8184-8ade-facb89b89f5c",
+      "title": "已在 iPhone 17 Pro 上完整运行 Qwen 3.6，消息称 PrismML 模型 AI 压缩技术被苹果看中",
+      "summary": "IT之家 7 月 10 日消息，科技媒体 The Information 昨日（7 月 9 日）发布博文，报道称苹果公司正接洽 PrismML 初创公司，评估在 iPhone 上直接运行更大规模 AI 模型的可行性。IT之家查询公开资料，PrismML 是加州理工衍生出来的 AI 初创公司，核心突破为原生 1-bit 模型压缩技术，模型体积可压缩至全精度版本的 1/14 左右，内存占用降低超 90%。原生 1-bit 模型压缩技术权重仅用 {-1, +1} 表示，配合分组缩放因子，非传统量化，声称无“高精度逃生通道”，宣称在保持接近 FP16 模型精度的同时，推理速度提升最高 8 倍，能耗降低",
+      "source": "IT之家",
+      "publishTime": "2026-07-10",
+      "link": "https://www.ithome.com/0/974/796.htm"
+    },
+    {
+      "id": "39903df8-2d23-8137-afb2-dd84dafa63c9",
+      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she",
+      "source": "The Verge",
+      "publishTime": "2026-07-10",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor"
+    },
+    {
+      "id": "39903df8-2d23-8112-8d44-f43e1316348e",
+      "title": "Top OpenAI executive Fidji Simo is stepping down",
+      "summary": "Fidji Simo, a top OpenAI exec, steps down amid a chronic illness. She is shifting to an advisor role after medical leave.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-10",
+      "link": "https://www.businessinsider.com/top-openai-executive-fidji-simo-is-stepping-down-2026-7"
+    },
+    {
+      "id": "39903df8-2d23-81dd-91fa-e7493a53c99e",
+      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+      "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
+      "source": "Wired",
+      "publishTime": "2026-07-10",
+      "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/"
+    },
     {
       "id": "39803df8-2d23-8154-849c-ce994fa9e1f7",
       "title": "Netflix reportedly considers adding always-on channels",
@@ -64,342 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-10",
       "link": "https://www.ithome.com/0/974/788.htm"
-    },
-    {
-      "id": "39803df8-2d23-815a-8a3f-ef338c662f18",
-      "title": "The Fed's new task forces feature big names in business, from Marc Andreessen to Asha Sharma",
-      "summary": "Economists, researchers, and industry insiders like Marc Andreessen and Asha Sharma have joined Fed task forces to revamp economic policies.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/fed-chair-warsh-task-force-members-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-8104-827e-fecbca457e3b",
-      "title": "Disney is exploring adding a free tier to Disney+ as YouTube draws TV viewers",
-      "summary": "Disney is discussing a free tier for Disney+ as US TV viewers embrace no-cost streamers like YouTube.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/disney-discusses-free-tier-viewers-youtube-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-814b-9670-d25cf35c3c11",
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "summary": "OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
-    },
-    {
-      "id": "39803df8-2d23-81e2-a149-c8602f26ac39",
-      "title": "Jim Cramer says investors are making a mistake with the trillion-dollar tech giants",
-      "summary": "CNBC's Jim Cramer said that investors are making a mistake when comparing all the \"Magnificent Seven\" companies when they all have vastly different businesses.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-10",
-      "link": "https://www.cnbc.com/2026/07/09/jim-cramer-investors-making-mistake-trillion-dollar-tech-giants.html"
-    },
-    {
-      "id": "39803df8-2d23-8126-9025-e1b0ee756a28",
-      "title": "An AI agent startup just let its agent run its $100 million fundraise",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
-    },
-    {
-      "id": "39803df8-2d23-81ae-bc1a-f4daa5dc8fb0",
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
-    },
-    {
-      "id": "39803df8-2d23-811a-adbb-edf0b8bb02fb",
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/"
-    },
-    {
-      "id": "39803df8-2d23-81d9-b2d7-e2400285583f",
-      "title": "Elon Musk has reversed course on Anthropic",
-      "summary": "In recent weeks, SpaceX CEO Elon Musk has shared kinder words for Anthropic, not long after repeatedly disparaging the competitor.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/elon-musk-anthropic-ai-leader-rival-claude-spacexai-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-8110-8399-dcbfdf26e433",
-      "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
-      "summary": "Today on Uncanny Valley, we unpack the political debacle unfolding in Maine surrounding the campaign of Democratic candidate Graham Platner.",
-      "source": "Wired",
-      "publishTime": "2026-07-10",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/"
-    },
-    {
-      "id": "39803df8-2d23-81e7-b640-e693280a88f8",
-      "title": "Can AI answer the $3 trillion question?",
-      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/"
-    },
-    {
-      "id": "39803df8-2d23-8108-b482-c2b0fe34e438",
-      "title": "Come to Our WIRED@NIGHT02 Film Screening!",
-      "summary": "See the documentary The Oldest Person in the World before it’s in theaters.",
-      "source": "Wired",
-      "publishTime": "2026-07-10",
-      "link": "https://www.wired.com/story/come-to-wirednight02-film-screening/"
-    },
-    {
-      "id": "39803df8-2d23-81d4-8fdb-eb2e6a341957",
-      "title": "The ChatGPT browser is already dead",
-      "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is target",
-      "source": "The Verge",
-      "publishTime": "2026-07-10",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset"
-    },
-    {
-      "id": "39803df8-2d23-8155-b7d5-c867c394060b",
-      "title": "The floatable, powerful Soundcore Boom 2 speaker is over half off",
-      "summary": "Bluetooth speakers with big sound and great features are hard to find for under $100, with most offerings being some variation of the same basic (and often small) design. Thankfully, through July 10th Woot has the Anker Soundcore Boom 2 on sale for $69.99, which is $20 cheaper than the discounted pr",
-      "source": "The Verge",
-      "publishTime": "2026-07-10",
-      "link": "https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale"
-    },
-    {
-      "id": "39803df8-2d23-81df-a9ee-ce6ead06a7ae",
-      "title": "Google will now tell you if an ad was made with AI",
-      "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can",
-      "source": "The Verge",
-      "publishTime": "2026-07-10",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label"
-    },
-    {
-      "id": "39803df8-2d23-81f7-b4e4-c9614088128a",
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
-    },
-    {
-      "id": "39803df8-2d23-81f3-b23c-f2a598d00c95",
-      "title": "Why you should think twice about using AI to write your LinkedIn posts",
-      "summary": "New data suggests LinkedIn is filling up with AI-written content. Pangram estimates 41% of long-form LinkedIn posts are AI-generated.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/ai-writing-linkedin-posts-downsides-steven-bartlett-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-8155-8665-d475b9de4f48",
-      "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
-      "summary": "In this week’s episode of Build Mode, Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders should avoid in order to get funded.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/"
-    },
-    {
-      "id": "39803df8-2d23-81df-b8cc-df889e851888",
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
-    },
-    {
-      "id": "39803df8-2d23-8105-bc57-db01c9115c00",
-      "title": "Slate Auto teams up with Crayola to color its EV truck",
-      "summary": "Slate has an answer for owners who have always want to drive a truck with bright crayon colors.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/"
-    },
-    {
-      "id": "39803df8-2d23-8137-9f00-dcc93023b826",
-      "title": "OpenAI is making its biggest play for the office",
-      "summary": "OpenAI merges Codex into ChatGPT and launches GPT-5.6 models, aiming to enhance AI capabilities and compete in an increasingly crowded market.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/openai-codex-chatgpt-app-releases-gpt-5-6-models-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-81e2-93bf-d22d61627a41",
-      "title": "Anduril CEO says it's bad to IPO in ‘middle of a hype cycle’",
-      "summary": "Anduril recently hit a $61 billion valuation, becoming one of the most highly valued private tech companies.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-10",
-      "link": "https://www.cnbc.com/2026/07/09/anduril-ceo-ipo-defense.html"
-    },
-    {
-      "id": "39803df8-2d23-8178-850d-ddd7472683ea",
-      "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
-      "summary": "The video calls highlights the murky relationship between professional athletes and gambling apps.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/"
-    },
-    {
-      "id": "39803df8-2d23-818d-9e53-cb9b285a8b96",
-      "title": "Mercor is in talks for a $20B valuation",
-      "summary": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/"
-    },
-    {
-      "id": "39803df8-2d23-81f4-b592-c89191396afe",
-      "title": "Google will now disclose which ads are made with AI",
-      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/"
-    },
-    {
-      "id": "39803df8-2d23-81be-a5e4-eab8dbe727fe",
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/"
-    },
-    {
-      "id": "39803df8-2d23-815f-b390-fc779586e211",
-      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
-      "source": "Wired",
-      "publishTime": "2026-07-10",
-      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/"
-    },
-    {
-      "id": "39803df8-2d23-8116-8315-cf6a779f289c",
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/"
-    },
-    {
-      "id": "39803df8-2d23-8157-8426-cf85b05a9e1e",
-      "title": "Meta launches a new AI coding model with 'very aggressive' pricing, CEO Mark Zuckerberg says",
-      "summary": "Meta launches a new AI coding model, Muse Spark 1.1, which is priced aggressively, CEO Mark Zuckerberg said. He called out rivals' \"extreme\" pricing.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/meta-launches-muse-spark-1-1-cost-effective-ai-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-8164-bddc-fcb2bb9ca4b6",
-      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
-      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/"
-    },
-    {
-      "id": "39803df8-2d23-8109-ad81-ff0ef708d967",
-      "title": "Google&#8217;s Nest Thermostat has hit its best price of the year",
-      "summary": "If you’re looking for a relatively affordable way to cut down on cooling costs, Google’s Nest Thermostat can help. It’s packed with smart controls and energy-saving features, and right now it’s on sale in white for $79 ($50 off), which is its best price of the year, at Amazon. The smart thermostat i",
-      "source": "The Verge",
-      "publishTime": "2026-07-10",
-      "link": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale"
-    },
-    {
-      "id": "39803df8-2d23-81bd-a3ea-f79974d84d24",
-      "title": "Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket",
-      "summary": "Palo Alto Networks CEO Nikesh Arora said high token costs could prevent businesses from adopting artificial intelligence at scale.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-10",
-      "link": "https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html"
-    },
-    {
-      "id": "39803df8-2d23-81cd-92b3-c801324d7013",
-      "title": "Anthropic appoints former Fed Chair Ben Bernanke to its independent trust",
-      "summary": "Members of the trust advise Anthropic leadership and do not hold any equity in the company.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-10",
-      "link": "https://www.cnbc.com/2026/07/09/anthropic-fed-chair-bernanke-independent-trust.html"
-    },
-    {
-      "id": "39803df8-2d23-8110-9d99-d8896dcd433a",
-      "title": "Meta’s new AI chips will begin production in September",
-      "summary": "In its bid to spend less on GPUs from providers like Nvidia, Meta is on track to start making its the latest versions of its AI-specific chips in September.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
-    },
-    {
-      "id": "39803df8-2d23-818c-83b0-ed581d179d1f",
-      "title": "My son and I bonded over soccer, but I had given up on World Cup tickets. An email from a stranger changed everything.",
-      "summary": "Getting World Cup tickets for my son, a die-hard soccer fan, felt impossible. I wrote about my quest, and Sugar Land, TX, offered us tickets.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/world-cup-tickets-son-texas-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-812c-8cac-fe130414916e",
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-10",
-      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/"
-    },
-    {
-      "id": "39803df8-2d23-8164-8969-cbffb9ee22a3",
-      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-      "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the b",
-      "source": "The Verge",
-      "publishTime": "2026-07-10",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work"
-    },
-    {
-      "id": "39803df8-2d23-8135-a2d3-e284ec14ec37",
-      "title": "Microsoft’s patch Tuesdays are about to get bigger",
-      "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even",
-      "source": "The Verge",
-      "publishTime": "2026-07-10",
-      "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates"
-    },
-    {
-      "id": "39803df8-2d23-81af-9c19-dd0c0eb51e9a",
-      "title": "This chart should be a 'wake-up call' about AI cheating, Brown University professor says",
-      "summary": "Brown University professor Roberto Serrano saw scores drop between a take-home midterm and an in-person final. He suspects widespread AI cheating.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/brown-university-ai-cheating-scandal-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-81a5-ad3a-dee7ce4594f2",
-      "title": "Cloudflare's latest AI rankings expose the web's biggest free rider",
-      "summary": "Anthropic's web scraping practices spotlight ethical AI dilemmas, with a high crawl-to-refer ratio undermining the digital content economy.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/anthropic-web-bots-crawling-referrals-cloudflare-distillation-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-8110-8ee9-d034ca240b88",
-      "title": "I moved across the country for a dream job. Within a year, I realized I'd made a mistake.",
-      "summary": "I took a pay cut and moved across the country for my dream job in California. After about a year, I left and moved back to the East Coast.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/moving-for-dream-job-was-mistake-quit-left-2026-7"
-    },
-    {
-      "id": "39803df8-2d23-81c9-8734-d95d6ec96838",
-      "title": "A complete timeline of Justin Baldoni and Blake Lively's feud and lawsuits",
-      "summary": "Blake Lively and Justin Baldoni's legal battle over \"It Ends With Us\" reached a settlement. Now, Baldoni is speaking for the first time on the saga.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-10",
-      "link": "https://www.businessinsider.com/it-ends-with-us-blake-lively-justin-baldoni-feud-rumors-2024-8"
-    },
-    {
-      "id": "39803df8-2d23-810a-99aa-f6fa8a98f8d3",
-      "title": "The 1X Neo Robot Has Freaky Fast Fingers",
-      "summary": "The soft, weirdly sexualized home-chore robot has been given some very tactile hands.",
-      "source": "Wired",
-      "publishTime": "2026-07-10",
-      "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/"
     }
   ],
   "macroEvents": [
