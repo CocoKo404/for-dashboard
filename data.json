@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-07-12 01:29",
+  "updatedAt": "2026-07-12 02:28",
   "news": [
+    {
+      "id": "39a03df8-2d23-817b-9b5a-d96f2ac70d57",
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-12",
+      "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/"
+    },
+    {
+      "id": "39a03df8-2d23-8125-a4bf-ddb900550256",
+      "title": "Instagram's newest AI tool didn't survive the week",
+      "summary": "Meta said that its new feature allowing users to generate AI images from public Instagram posts is no longer available.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-12",
+      "link": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7"
+    },
     {
       "id": "39a03df8-2d23-8105-9a28-fdf3c4d26a74",
       "title": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
@@ -384,22 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-07-11",
       "link": "https://www.businessinsider.com/marines-have-new-nerve-center-for-fighting-with-cheap-drones-2026-7"
-    },
-    {
-      "id": "39a03df8-2d23-81f1-98f1-eed6b07931a3",
-      "title": "一汽-大众 ID. AURA T6 内饰首次亮相：后排高承重小桌板、90L 大容量前备箱",
-      "summary": "IT之家 7 月 11 日消息，今日，2026 长春国际汽车博览会正式启幕，一汽-大众 ID. AURA T6 亮相展台，整车内饰首次与公众见面。IT之家从官方介绍获悉，新车长宽高分别为 4811/1879/1648mm，轴距达到 2836mm，新车得房率达 85.3%。座舱内采用更大面积的软触亲肤材质搭配细腻镀铬点缀，首次搭载的女王副驾支持 12 向电动调节，配备 SPA 级十点按摩、通风加热及迎宾记忆功能，搭配十层舒压缓振结构的云感座椅。前排座椅支持一键放平、一键复位，放倒后可与后排坐垫齐平形成 1.8 米的平整休息空间。后排高承重小桌板、可拓展磁吸生态接口，可加装手机支架、护眼灯、美妆镜",
-      "source": "IT之家",
-      "publishTime": "2026-07-11",
-      "link": "https://www.ithome.com/0/975/581.htm"
-    },
-    {
-      "id": "39a03df8-2d23-81ee-a8aa-d3f617618bb0",
-      "title": "用计算换显存：AMD 公布 PEPS 纹理压缩新技术，保持同级画质的前提下参数减少 25%",
-      "summary": "IT之家 7 月 11 日消息，AMD 在 2026 年度 I3D 研讨会上公布了一项名为“PEPS：位置编码投影采样”的最新研究成果。这项技术聚焦于近年来备受关注的神经纹理压缩领域，在保持画质基本不变的前提下，成功将模型参数量削减了 25%。神经纹理压缩的核心在于训练一种叫做“隐式神经表示”的模型，让它学会将纹理坐标映射为最终的信号值。传统的位置编码通常会把低维坐标映射到高维的正弦 / 余弦向量上，而 PEPS 的改进思路是，把每一个正弦 / 余弦投影都看作李萨如曲线上的一个点，再对这些投影点进行采样。这一变化使得隐式神经表示能够承载更丰富的信息量，从而用更少的参数实现同等的纹理还原效果。当",
-      "source": "IT之家",
-      "publishTime": "2026-07-11",
-      "link": "https://www.ithome.com/0/975/580.htm"
     }
   ],
   "macroEvents": [
