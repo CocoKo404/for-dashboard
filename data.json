@@ -1,6 +1,206 @@
 {
-  "updatedAt": "2026-07-11 08:56",
+  "updatedAt": "2026-07-11 12:39",
   "news": [
+    {
+      "id": "39a03df8-2d23-81b4-b6a1-d77c2e36d50f",
+      "title": "三星自研芯片路线图曝光：Exynos 2700 目标时钟频率提升 15%，功耗降低 26%",
+      "summary": "IT之家 7 月 11 日消息，科技媒体 Wccftech 昨日（7 月 10 日）发布博文，报道称基于最新曝光的路线图，三星 Exynos 2900 芯片将转向 1.4nm 节点工艺，要比台积电晚 1 年。根据消息源 @BairroGrande 披露的系列，三星 Exynos 系列芯片会采用以下工艺：Exynos 2600: SF2Exynos 2700: SF2P 工艺，内部代号 UlyssesExynos 2800: SF2P+ 工艺，内部代号 VanguardExynos 2900: SF1.4 工艺，内部代号 Whistler三星 Exynos 2600 成为三星进入 2nm GAA",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/396.htm"
+    },
+    {
+      "id": "39a03df8-2d23-81c9-8a2a-f1d12d70d379",
+      "title": "1662 万美元！开发者收到 Anthropic 巨额 AI 账单，Claude 控制台显示 0 美元",
+      "summary": "IT之家 7 月 11 日消息，科技媒体 Wccftech 昨日（7 月 10 日）发布博文，报道称一位韩国开发者收到来自 Anthropic 的 160 万美元、1662 万美元两笔扣款账单，但在 Claude API 控制台中显示为 0 美元。博文指出该开发者于 7 月 8 日共收到 2 封由 Anthropic 自动发送的扣款通知，其中第一笔扣款金额通知约为 160 万美元（现汇率约合 1085.6 万元人民币），第二笔扣款通知显示约为 1662 万美元（IT之家注：现汇率约合 1.13 亿元人民币）。开发者通过调用 API 方式来使用 AI 智能体编程，虽然有时候会因为无限循环，导致大",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/395.htm"
+    },
+    {
+      "id": "39a03df8-2d23-81ef-92c9-ec3c4527717d",
+      "title": "奇瑞 iCAR V25 官图公布，定位科技时尚轻旗舰 SUV",
+      "summary": "IT之家 7 月 11 日消息，在昨天工信部公布“证件照”之后，奇瑞 iCAR 官微立马就放出了旗下全新车型 ——V25 的官图。根据介绍，新车定位科技时尚轻旗舰 SUV。新车基本延续 iCAR 家族的“未来风格”，依旧是方盒子造型，值得一提的是车顶配备了激光雷达。这款新车为插电式增程混合动力多用途乘用车，车身尺寸为长 4636 mm、宽 1920 mm、高 1855 mm，轴距 2820 mm，额定载客 5 人。据IT之家了解，iCAR V25 最高车速为 180 km/h，搭载型号为 SQRH4J15 的发动机，由奇瑞汽车股份有限公司生产，排量 1499 ml，功率 115 kW，发动机最",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/393.htm"
+    },
+    {
+      "id": "39a03df8-2d23-819d-a3f9-f4533c14fe91",
+      "title": "Keychron 推出 K5 Ultra 8K 矮轴机械键盘：樱桃木饰板、8K 回报率，115 美元",
+      "summary": "IT之家 7 月 11 日消息，Keychron 现已在海外市场推出 K5 Ultra 8K 矮轴机械键盘。新品采用全尺寸布局，支持三模连接，带有樱桃木饰板，售价 114.99 美元（IT之家注：现汇率约合 780.2 元人民币）。据介绍，这款键盘采用标准全尺寸布局，Bksp 退格键、数字小键盘上方带有可编程按键，采用 Milk POM 超薄轴体，兼容 Gateron Low-Profile 2.0 引脚规格，官方提供红轴、茶轴和香蕉轴三种版本，总键程均为 3.1mm。同时，这款键盘的机身主体采用 ABS 塑料材质，上下边框加入金属导轨，两侧面板则是较为精致的樱桃木。配备 LSA 高度键帽，采",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/392.htm"
+    },
+    {
+      "id": "39a03df8-2d23-81f0-aec0-f20dde3b7097",
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+      "source": "Wired",
+      "publishTime": "2026-07-11",
+      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/"
+    },
+    {
+      "id": "39a03df8-2d23-8138-8a62-fea0b95a9148",
+      "title": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
+      "summary": "CISA said it \"missed\" an opportunity to get ahead of the security incident by not creating a response plan ahead of time.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-11",
+      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/"
+    },
+    {
+      "id": "39a03df8-2d23-813d-a3ca-f54c19994006",
+      "title": "Tech Now",
+      "summary": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-11",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "39a03df8-2d23-81cd-8bb2-f08ee2511518",
+      "title": "被裁员工吐槽育碧“背刺”，开发完《刺客信条: 黑旗》重制版游戏就裁员 51 人",
+      "summary": "IT之家 7 月 11 日消息，游戏媒体 Insider Gaming 昨日（7 月 10 日）发布博文，报道称育碧巴塞罗那工作室于 6 月 10 日裁员 51 人，其中多人参与制作《刺客信条: 黑旗》重制版。在接受该媒体采访时，其中一名被裁员工吐槽育碧“背刺”，在其所属团队完成开发《刺客信条: 黑旗》重制版游戏仅数天后，就收到团队解散通知，共有 51 名员工被裁。报道指出，育碧通常会在团队完成当前项目之前分配新项目，有时会提前 1 年安排。巴塞罗那团队早在 2025 年夏季就担忧无法获得新项目分配，但工作室此后仍未获得新的开发任务。一名受裁员影响、匿名接受采访的员工表示，此次裁员与持续存在的",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/391.htm"
+    },
+    {
+      "id": "39a03df8-2d23-812e-a053-e2f4717ecd56",
+      "title": "AI-enabled cheating is forcing some schools to go analog",
+      "summary": "University of Chicago Law School has announced a laptop ban to foster independent thinking amid AI's rise in legal education and practice.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-11",
+      "link": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7"
+    },
+    {
+      "id": "39a03df8-2d23-8198-8606-c08a2cf30719",
+      "title": "质量“第一”、召回数也“第一”，福特 CEO 法利称还有大量工作要做",
+      "summary": "IT之家 7 月 11 日消息，福特在 J.D. Power 最新一期新车质量研究中夺得主流品牌第一名，而另一边，福特至今已发起 56 次召回，涉及 1210 万辆汽车，召回次数仍居全行业首位。福特汽车 CEO 吉姆 · 法利接受美国 CNBC 采访时说，公司对新车质量成绩感到非常自豪，但远未达到可以满意的程度。“显然，我们没有任何人对此感到满意。要想成为各项质量指标均排名第一的品牌，我们还有大量工作要做。”法利自 2023 年起着手改善福特汽车的质量，具体采取了加强开发阶段测试、招聘更多技术专家，以及推动不同团队加强协作等多项措施。不过，美国国家公路交通安全管理局 2024 年仍因福特未能按",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/390.htm"
+    },
+    {
+      "id": "39a03df8-2d23-8153-8feb-ead1984627a6",
+      "title": "三菱与初创公司 Highlanders 合作研发人形机器人，应对日本劳动力短缺",
+      "summary": "IT之家 7 月 11 日消息，据汽车媒体 Carscoops 今天报道，三菱现已与初创公司 Highlanders 达成合作，共同开发工厂用人形机器人，未来有望缓解日本长期存在的劳动力短缺问题。IT之家在此援引 Carscoops，三菱此前已经对 Highlanders 进行投资，并表示未来可能继续追加资金。双方将联合开发人形机器人，并计划在三菱位于京都的工厂生产。三菱京都工厂目前主要生产发动机，其人形机器人最快将于明年投产，未来产能预计将提升至每月 1000 台。这些搭载 AI 系统的机器人将在初期负责搬运零件、发动机装配等工作，如果表现良好，公司还会考虑对外销售机器人。延伸阅读目前，人形",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/389.htm"
+    },
+    {
+      "id": "39a03df8-2d23-8124-8396-dbb102202cd2",
+      "title": "id Software 游戏工作室回应：确受 XBOX 裁员影响，现规模与开发《毁灭战士》（2016）时相当",
+      "summary": "IT之家 7 月 11 日消息，游戏工作室 id Software 今天（7 月 11 日）发布公告，回应“近半数员工被裁”风波，指出工作室确实受到裁员影响，但变动分散在多个团队，目前团队配置足以支撑开发其代表性游戏与技术。在微软本轮 XBOX 裁员调整中，id Software 工作室裁员约 50%，甚至有说法称多数或全部程序员已被裁撤，并称得州办公室仅剩 1 名开发者。而在最新声明中，id Software 工作室回应，IT之家翻译如下：感谢大家本周的支持。虽然工作室受到了影响，但这些变化分散在各个团队中。我们仍然拥有打造我们引以为傲的游戏和技术所需的人员。如今的团队规模与开发《毁灭战士 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/387.htm"
+    },
+    {
+      "id": "39a03df8-2d23-8123-85fd-c63be3eaaa78",
+      "title": "消息称马斯克要求特斯拉员工尽可能使用 Grok",
+      "summary": "IT之家 7 月 11 日消息，据《The Information》昨天报道，特斯拉 CEO 埃隆 · 马斯克在一份备忘录中表示，鉴于 Grok 4.5 的 Token 成本低于对手，员工应在尽可能的情况下改用 Grok。据报道，特斯拉曾在本周早些时候规定，员工每周使用 AI 的支出上限为 200 美元（IT之家注：现汇率约合 1357 元人民币）。这一条款适用于 Anthropic、OpenAI 和谷歌产品，但 xAI 的 Grok 不受限制。过去几个月，特斯拉一直在内部测试新版 Grok，xAI 产品负责人 Andrew Milich 也持续和特斯拉员工合作，解决使用过程中显现的问题。不过",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/386.htm"
+    },
+    {
+      "id": "39a03df8-2d23-81b5-a16e-ed1e73169362",
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend, Sophia Kianni, is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-11",
+      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/"
+    },
+    {
+      "id": "39a03df8-2d23-8196-96c9-da3f7d8f4e66",
+      "title": "英伟达 RTX 5090 SE 显卡规格曝光：24GB 显存、384-bit 位宽",
+      "summary": "IT之家 7 月 11 日消息，科技媒体 NeoWin 昨日（7 月 10 日）发布博文，报道称英伟达规划推出 GeForce RTX 5090 SE 显卡，配备 24GB 显存，性能可能介于 RTX 5090 和 RTX 5080 之间。消息源称，RTX 5090 SE 显卡会配备 14080 个 CUDA 核心、110 个 SM 流式多处理器，384-bit 位宽，以及 24GB 的 GDDR7 显存。IT之家援引博文介绍，附上相关对比规格如下：RTX 5090RTX 5090 SERTX 5080RTX 5070 Ti架构BlackwellBlackwellBlackwellBlackw",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/385.htm"
+    },
+    {
+      "id": "39a03df8-2d23-81e4-a0f2-d1a77fdbd629",
+      "title": "B 社工会证实将举行 Xbox 裁员抗议活动：“我们不会默默消失”",
+      "summary": "IT之家 7 月 11 日消息，据外媒 VGC 当地时间 10 日报道，贝塞斯达游戏工作室工会成员计划下周在公司四处工作室门外举行抗议，回应 ZeniMax 旗下近 450 名工会成员遭到裁员。隶属美国通信工人协会的 B 社工会 OneBGS 称，抗议活动定于 7 月 15 日举行，地点包括 B 社位于蒙特利尔、马里兰州罗克维尔和奥斯汀的办公室。本周，B 社和 ZeniMax 共裁撤 440 名工会成员，其中包括《毁灭战士》开发商 id Software 的约 100 人，以及《上古卷轴 Online》开发商 ZeniMax Online 的 200 多人。据IT之家了解，OneBGS 在一份",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/384.htm"
+    },
+    {
+      "id": "39a03df8-2d23-81dc-8870-f168ed64f51e",
+      "title": "《刺客信条：黑旗》重制版游戏首日发行超 200 万份，Steam 同时在线玩家峰值刷新系列纪录",
+      "summary": "IT之家 7 月 11 日消息，刺客信条官方 X 账号今天（7 月 11 日）发布推文，宣布《刺客信条：黑旗》重制版游戏上线首日售出 200 万份，刷新该系列发行纪录。在刷新《刺客信条》系列首日销量纪录外，根据 SteamDB 公布数据，《刺客信条：黑旗》重制版游戏在 Steam 平台的同时在线人数峰值，达到 99451 名玩家，高于《刺客信条：影》在内的系列其它作品。IT之家发稿前查询 Steam 页面，该游戏目前共有 1131 条简体中文评价，好评率为 35%，综合评价为多半差评。游戏简介如下：经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华・肯威，在海盗的",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/383.htm"
+    },
+    {
+      "id": "39a03df8-2d23-81c6-914c-e8e4bba53ff8",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-11",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "39a03df8-2d23-8187-9564-f9f43571c882",
+      "title": "《奥德赛》导演诺兰：年轻人正在彻底拒绝“AI 垃圾”",
+      "summary": "IT之家 7 月 11 日消息，据 IGN 今天报道，《奥德赛》导演克里斯托弗 · 诺兰近日接受采访，谈到年轻观众对所谓“AI 垃圾”（IT之家注：AI Slop）内容的看法。诺兰表示：“我从不相信‘年轻观众的注意力被毁掉，无法欣赏一部长达三小时的希腊史诗电影’这种说法。这些电影充满神秘感也引人深思。我是说，《后室》的某些片段甚至像大卫 · 林奇最晦涩的作品一样，但年轻人就是对此乐此不疲”。谈到 AI 时诺兰认为：“人们投入了大量精力推动 AI 发展，但如果看看这一代人的反应就知道，他们正在彻底拒绝‘AI 垃圾’。他们能够非常快地看透本质，并且这类内容本身就诞生在网络世界，所以年轻人能更快速地",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/382.htm"
+    },
+    {
+      "id": "39a03df8-2d23-81ae-9c73-ed51693a1d00",
+      "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
+      "summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash over its technology and work with law enforcement agencies, and ",
+      "source": "The Verge",
+      "publishTime": "2026-07-11",
+      "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter"
+    },
+    {
+      "id": "39a03df8-2d23-81d4-9b30-c9dfa42019e4",
+      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+      "summary": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-11",
+      "link": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "39a03df8-2d23-819d-aa6e-f19ea3bd40c4",
+      "title": "无法完全关闭：39 页起诉书指出微软 Win11 内置 GDID 追踪器",
+      "summary": "IT之家 7 月 11 日消息，科技媒体 Windows Latest 昨日（7 月 10 日）发布博文，基于 39 页联邦起诉书，指出微软承认在 Windows 11 系统中，内置全局设备标识符（Global Device Identifier，简称 GDID），且没有完整关闭选项。全局设备标识符是微软用于识别某次 Windows 安装实例的持久设备级标识，可关联实体设备或虚拟机，并在部分微软服务中作为统一识别键使用。典型场景包括设备目录登记、跨设备服务协同、更新分发与企业级状态上报。而在针对一起针对美国奢侈珠宝零售商的攻击调查中，美国联邦调查局（FBI）借助微软全局设备标识符，成功抓获 1",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/381.htm"
+    },
+    {
+      "id": "39a03df8-2d23-81b9-8157-e1e6f1952a67",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-11",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+    },
+    {
+      "id": "39a03df8-2d23-8121-9add-c7006ae2b3c5",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI c",
+      "source": "The Verge",
+      "publishTime": "2026-07-11",
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"
+    },
+    {
+      "id": "39a03df8-2d23-8187-936b-d9f425339d48",
+      "title": "SK 海力士 CEO 郭鲁正：内存行业明年将迎来史上最严峻局势，供不应求局面或持续至下一个十年",
+      "summary": "IT之家 7 月 11 日消息，据路透社今天报道，SK 海力士首席执行官郭鲁正（IT之家注：Kwak Noh-jung）表示，全球 DRAM 行业即将面临有史以来最严重的供应短缺，内存市场仍将供不应求的局面可能持续至下一个十年。郭鲁正在接受采访时表示：“从供应角度来看，我们预计明年将是内存行业历史上最困难的一年。客户需求持续增长，而我们的产能存在限制。我们预计，即使到了 2030 年以后，客户需求仍将高于供应能力。不过，我们已经在尽最大努力解决问题”。他还在采访中透露，美国仍是 SK 海力士未来建设晶圆厂的候选地点之一，但目前公司并未作出最终决定。他认为，SK 海力士会优先考虑能够提供充足土地",
+      "source": "IT之家",
+      "publishTime": "2026-07-11",
+      "link": "https://www.ithome.com/0/975/380.htm"
+    },
     {
       "id": "39903df8-2d23-81ad-8b10-e1fe4f34647d",
       "title": "Win11 用户反馈微软 Phone Link 问题：内存占用超 90%，网速下降 83.33%",
@@ -200,206 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-07-11",
       "link": "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html"
-    },
-    {
-      "id": "39903df8-2d23-81ca-802e-ca98ab47a615",
-      "title": "A decade later, Pokémon Go finally made good on its original promise",
-      "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pokémon Go showed the world how it's done. Almost 2,000 players (many of […]",
-      "source": "The Verge",
-      "publishTime": "2026-07-11",
-      "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026"
-    },
-    {
-      "id": "39903df8-2d23-81ee-805d-cd0d75b22f9c",
-      "title": "Meta stock got the 18% pop Jim Cramer said it could on cloud news. What's next?",
-      "summary": "Investors are also celebrating Meta's launch Thursday of Muse Spark 1.1.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-11",
-      "link": "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html"
-    },
-    {
-      "id": "39903df8-2d23-81f4-9505-d10986ba7e51",
-      "title": "ICE is threatening to deport witnesses of its latest shooting",
-      "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved in the shooting weren't ",
-      "source": "The Verge",
-      "publishTime": "2026-07-11",
-      "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo"
-    },
-    {
-      "id": "39903df8-2d23-8188-8245-fc82f3456970",
-      "title": "Philadelphia built a free, 39-day World Cup festival serving more than 425,000 fans. Take a look inside.",
-      "summary": "The marathon festival celebrating \"soccer Coachella\" was the result of six years of fundraising and citywide collaborations.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/inside-philadelphia-fifa-fanfest-2026-7"
-    },
-    {
-      "id": "39903df8-2d23-81b1-ab9a-f9ac0f02bd87",
-      "title": "The real Wimbledon starts at the campsite across the street",
-      "summary": "Does Wimbledon conjure images of men in slacks, pristine tennis lawns, and strawberries and cream? Wait until you see the line for $28 tickets.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/wimbledon-the-queue-resale-grounds-pass-starts-campsite-park-2026-7"
-    },
-    {
-      "id": "39903df8-2d23-8184-a9b6-c498a6bcd41c",
-      "title": "I toured the USS Arlington, an active US Navy warship. Here are the photos I was allowed to take.",
-      "summary": "The USS Arlington, a San Antonio-class landing transport dock, visited New York City for America's 250th anniversary. Take a look inside.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/navy-ships-uss-arlington-warship-tour-2026-7"
-    },
-    {
-      "id": "39903df8-2d23-8149-ae82-d515a0bc21d0",
-      "title": "I brought my dad to a work trip, and he forgot his passport. I flew without him.",
-      "summary": "A forgotten passport nearly derailed a work trip to New York and changed the way I saw my aging father.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/dad-brought-wrong-passport-airport-2026-7"
-    },
-    {
-      "id": "39903df8-2d23-81dd-8386-c6478052c7c2",
-      "title": "The Pentagon is spending big on lasers to shoot down hostile drones and cruise missiles",
-      "summary": "DoD believes the prototypes could lead to a useful alternative to expensive missiles for intercepting drones and cruise missiles.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/pentagon-spending-big-on-laser-weapons-shoot-down-drones-missiles-2026-7"
-    },
-    {
-      "id": "39903df8-2d23-81cf-86b5-ef72c4937d8f",
-      "title": "A new GOP bill aims to make the transfer of millions of student-loan accounts to Treasury official",
-      "summary": "The House education committee released a slate of bills to \"right-size\" the Education Department, including transferring student-loan accounts.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/student-loan-transfer-to-treasury-new-gop-bill-borrowers-accounts-2026-7"
-    },
-    {
-      "id": "39903df8-2d23-81df-b899-dbb4b63405db",
-      "title": "Meet the Battery Startup Taking on China’s Giants",
-      "summary": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
-      "source": "Wired",
-      "publishTime": "2026-07-11",
-      "link": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/"
-    },
-    {
-      "id": "39903df8-2d23-819b-bc06-c5bcb343c19f",
-      "title": "POTS explained: The disorder that led OpenAI exec Fidji Simo to step down",
-      "summary": "POTS is a disorder that can cause heart palpitations, lightheadedness, and fainting. It is more common in women than in men.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/what-is-pots-fidji-simo-openai-symptons-treatment-diagnosis"
-    },
-    {
-      "id": "39903df8-2d23-81cf-a221-f5b44c87cc58",
-      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-      "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-11",
-      "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/"
-    },
-    {
-      "id": "39903df8-2d23-81d6-b65e-f13ad7b30f6c",
-      "title": "I tried chicken tenders from 14 fast-food chains and ranked them from worst to best",
-      "summary": "We compared chicken tenders from 14 fast-food chains, including McDonald's, Chick-fil-A-, KFC, Wingstop, and Taco Bell.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/fast-food-chicken-tenders-ranked-2022-1"
-    },
-    {
-      "id": "39903df8-2d23-815f-b8f5-cfcc423dac36",
-      "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-      "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign company, according to re",
-      "source": "The Verge",
-      "publishTime": "2026-07-11",
-      "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut"
-    },
-    {
-      "id": "39903df8-2d23-815b-8b8a-d67bd5a3090b",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-11",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
-    },
-    {
-      "id": "39903df8-2d23-81d2-8e43-dfc80b5f1175",
-      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-      "summary": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-11",
-      "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/"
-    },
-    {
-      "id": "39903df8-2d23-814f-bc34-c8fc659192e0",
-      "title": "Air taxi company Beta wraps first test flights in U.S. government's pilot program",
-      "summary": "Beta is one of several electric air taxi makers racing to secure Federal Aviation Administration certification and start flying passengers commercially.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-11",
-      "link": "https://www.cnbc.com/2026/07/10/beta-evtol-air-taxi-trump-program.html"
-    },
-    {
-      "id": "39903df8-2d23-81f5-badb-ca7bf3502fae",
-      "title": "Serena Williams arrived at Wimbledon with a $45,000 pink watch. Here's a look at her timepiece and other A-list wrist candy.",
-      "summary": "Wimbledon 2026 is underway, and its audience is filled with celebrities wearing coveted watches. Serena Williams and David Beckham are among them.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/wimbledon-luxury-watches-celebrities-wore-2026-6"
-    },
-    {
-      "id": "39903df8-2d23-8190-9f8a-edc63921e206",
-      "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
-      "summary": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new to you, and more. Listeners can choose from up to five options",
-      "source": "The Verge",
-      "publishTime": "2026-07-11",
-      "link": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls"
-    },
-    {
-      "id": "39903df8-2d23-818d-b573-cedc2bde10fa",
-      "title": "China is catching up to Elon Musk’s reusable rockets",
-      "summary": "China's state-owned space company recovered its first orbital rocket booster after launch.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-11",
-      "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/"
-    },
-    {
-      "id": "39903df8-2d23-814f-b841-cb7176f81a1a",
-      "title": "Netflix is turning into YouTube",
-      "summary": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate. For a company that sees sleep as its primary competitor, it mi",
-      "source": "The Verge",
-      "publishTime": "2026-07-11",
-      "link": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast"
-    },
-    {
-      "id": "39903df8-2d23-8172-b5e8-f60cbb1a5fff",
-      "title": "Disney+ is considering a free streaming tier, report says",
-      "summary": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-11",
-      "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/"
-    },
-    {
-      "id": "39903df8-2d23-81c1-99eb-ea3974330903",
-      "title": "Adam Mosseri says Instagram has 'reined in' AI costs after shutting down 'the silly things' that were burning tokens",
-      "summary": "Instagram CEO Adam Mosseri says his division does not currently have AI token limits, but he \"can imagine caps being healthy.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7"
-    },
-    {
-      "id": "39903df8-2d23-8127-b2a2-e794a7f4465c",
-      "title": "Meta's stock heads for best week since early 2024 as optimism builds around AI strategy",
-      "summary": "Meta released two AI models this week as part of its new Muse Spark family, under the leadership of Alexandr Wang.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-11",
-      "link": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html"
-    },
-    {
-      "id": "39903df8-2d23-8187-be31-d4632cd72e8a",
-      "title": "How AI could help make your furniture delivery headaches go away",
-      "summary": "Sundays furniture brand uses Cartage AI's Wilson to enhance delivery logistics, improving customer service and efficiency.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-11",
-      "link": "https://www.businessinsider.com/sundays-furniture-delivery-cartage-ai-2026-7"
     }
   ],
   "macroEvents": [
