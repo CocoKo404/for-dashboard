@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-07-15 02:37",
+  "updatedAt": "2026-07-15 04:36",
   "news": [
+    {
+      "id": "39d03df8-2d23-81a0-93dd-fc84c1d7188c",
+      "title": "New York becomes first U.S. state to impose AI data center ban",
+      "summary": "New York became the first state to ban construction of 'hyperscale' AI data centers, for one year, after Gov. Kathy Hochul signed an executive order Tuesday.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-15",
+      "link": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html"
+    },
+    {
+      "id": "39d03df8-2d23-8113-9580-c0326e9d29f0",
+      "title": "Lucid Motors denies report it’s considering bankruptcy",
+      "summary": "The company said the \"rumors are completely false\" after its stock sank more than 50% on a report that it was weighing the option.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-15",
+      "link": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/"
+    },
+    {
+      "id": "39d03df8-2d23-8152-95e8-f399efc6022a",
+      "title": "Cybersecurity stocks rally on AI spending change comments from IBM's Krishna",
+      "summary": "IBM CEO Arvind Krishna told CNBC's Sara Eisen that some major deals were put on hold toward the end of the quarter as businesses rethink spending.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-15",
+      "link": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html"
+    },
+    {
+      "id": "39d03df8-2d23-811d-9744-f1bc0bd19168",
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-15",
+      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/"
+    },
+    {
+      "id": "39d03df8-2d23-8199-921e-c4c8e1db23d6",
+      "title": "Apple in talks with startup that shrinks AI models to run on an iPhone",
+      "summary": "PrismML says its compressed version of Alibaba’s Qwen model uses up to 15 times less memory, potentially advancing Apple’s AI push.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-15",
+      "link": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html"
+    },
+    {
+      "id": "39d03df8-2d23-81c0-ad90-ccb37535fe9f",
+      "title": "IBM gets sucked into the AI-powered memory chip vortex",
+      "summary": "IBM's warning shows how AI infrastructure and cybersecurity spending are reshaping technology budgets.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-15",
+      "link": "https://www.businessinsider.com/ibm-ai-biggest-winners-draining-tech-budgets-memory-prices-2026-7"
+    },
+    {
+      "id": "39d03df8-2d23-8142-a847-ce5ebe4a42c0",
+      "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
+      "summary": "Zipline is growing its drone delivery business in the U.S., and has hired former Tesla, Uber Eats and Waymo executives to help it scale up in new markets.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-15",
+      "link": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html"
+    },
+    {
+      "id": "39d03df8-2d23-81fb-b6f6-ccf46190d118",
+      "title": "What smart people are saying about IBM's AI warning and SaaSpocalypse fears",
+      "summary": "IBM CEO Arvind Krishna wrote a letter to shareholders about a revenue miss. It's renewing months-old fears about a SaaSpocalypse.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-15",
+      "link": "https://www.businessinsider.com/smart-people-ibm-ai-warning-saaspocalypse-2026-7"
+    },
+    {
+      "id": "39d03df8-2d23-815f-9dfb-f6d97be49d26",
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-15",
+      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
+    },
+    {
+      "id": "39d03df8-2d23-816f-9a1b-f3042ed29673",
+      "title": "Live Q&A: How vibe coding is transforming tech — and tech jobs",
+      "summary": "The CEO of vibe-coding startup Emergent, Mukund Jha, joins BI's Dan DeFrancesco to discuss his company's exponential growth.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-15",
+      "link": "https://www.businessinsider.com/live-how-vibe-coding-is-transforming-tech-and-jobs-2026-7"
+    },
+    {
+      "id": "39d03df8-2d23-81eb-aa3f-f17541998235",
+      "title": "Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price",
+      "summary": "Although most of Prime Day’s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a new all-time low price like Philips Hue’s Essential starter kit. Right now, you can bu",
+      "source": "The Verge",
+      "publishTime": "2026-07-15",
+      "link": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale"
+    },
+    {
+      "id": "39d03df8-2d23-8110-be5a-ffa0148c9967",
+      "title": "Plex problems prevented users from streaming movies and shows",
+      "summary": "Plex services experienced some major issues on Tuesday, with multiple users reporting problems on Plex's forums and on Reddit. Many people use Plex as a way to stream shows and movies they host locally, but users are upset because today's problems were reportedly affecting their ability to do that. ",
+      "source": "The Verge",
+      "publishTime": "2026-07-15",
+      "link": "https://www.theverge.com/tech/965518/plex-tv-down-outage-issues"
+    },
+    {
+      "id": "39d03df8-2d23-81a0-a4b0-d61d09a5d5a6",
+      "title": "Nintendo’s Switch 2 bundle that includes a game is $50 off",
+      "summary": "Discounts on the Nintendo Switch 2 are rare, but they do happen on occasion. There’s one happening now, actually, on the company’s $499.99 console bundle that includes a digital game (Mario Kart World, Donkey Kong Bananza, or Pokémon Pokopia). Usually, the bundle saves you $20 or $30, depending on t",
+      "source": "The Verge",
+      "publishTime": "2026-07-15",
+      "link": "https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale"
+    },
+    {
+      "id": "39d03df8-2d23-812b-b454-f8729bebae12",
+      "title": "Smoking is having a cultural comeback. My dad's death will never make cigarettes cool.",
+      "summary": "My father died of lung cancer caused by smoking. Seeing cigarettes become fashionable again feels deeply personal.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-15",
+      "link": "https://www.businessinsider.com/smoking-cool-again-after-losing-dad-2026-7"
+    },
+    {
+      "id": "39d03df8-2d23-8153-96a7-f1ffb522b214",
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constel",
+      "source": "The Verge",
+      "publishTime": "2026-07-15",
+      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs"
+    },
+    {
+      "id": "39d03df8-2d23-81c5-950c-d1a7885873b1",
+      "title": "How To Watch the 2026 FIFA World Cup Semifinals: France vs Spain",
+      "summary": "The end of the FIFA Men’s World Cup is nigh. Here’s how to watch the final games and the first ever World Cup halftime show.",
+      "source": "Wired",
+      "publishTime": "2026-07-15",
+      "link": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-14-2026/"
+    },
     {
       "id": "39d03df8-2d23-817f-aa48-e0aa32edce94",
       "title": "The most iconic ice cream shop in every state",
@@ -272,134 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-07-14",
       "link": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html"
-    },
-    {
-      "id": "39d03df8-2d23-81c2-9f36-ebfe370f9105",
-      "title": "Iran abused mobile networks’ vulnerabilities to locate U.S. military in the Middle East, report says",
-      "summary": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/"
-    },
-    {
-      "id": "39d03df8-2d23-81a2-b707-e46b0c6dfde7",
-      "title": "IBM 股价大跌 25%，创 1987 年以来最大单日跌幅",
-      "summary": "凤凰网科技讯（作者 / 于雷）7 月 14 日，IBM 的股价在该公司公布第二季度初步销售额低于预期后暴跌 25%，创 1987 年以来最大单日跌幅，该公司将业绩未达预期归咎于客户将支出转向芯片和服务器。据此前报道，IBM 提前披露的二季度预计营收 172 亿美元，低于市场预期的约 178.6 亿美元；调整后每股收益 2.93 美元，也未达预期。更令市场担忧的是，IBM 新一代 z17 大型机及相关软件销售不及预期，基础设施业务预计下滑约 7%；同时客户临时将预算转向服务器、存储和内存，导致多笔大型软件交易延期。本质上，这是一次“业绩不及预期 + 执行失误 +AI 时代增长逻辑受质疑”的集中释",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/752.htm"
-    },
-    {
-      "id": "39d03df8-2d23-817f-be09-dad27d5e7da7",
-      "title": "I got the diarrhea parasite Cyclospora after a work lunch. These were my tell-tale symptoms.",
-      "summary": "A man in New York City contracted the diarrhea parasite cyclospora, and suspects a lunch bowl with chopped lettuce was the cause.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/man-got-diarrhea-parasite-cyclospora-symptoms-advice-2026-7"
-    },
-    {
-      "id": "39d03df8-2d23-81f9-903d-c705492173b4",
-      "title": "4 种配色可选，谷歌 Pixel Watch 5 手表抢先看",
-      "summary": "IT之家 7 月 14 日消息，据科技媒体 Android Headlines 今天报道，谷歌 Pixel Watch 5 手表的高清渲染图已在发布前流出。据介绍，这款手表将拥有深炭黑（Dark Anthracite）、自然银（Natural Silver）、黄铁矿（Pyrite）和暖金（Warm Gold）四种配色可选，IT之家附渲染图如下：从设计来看，这款手表相比前代 Pixel Watch 4 没有明显变化。不过由于本次曝光的渲染图仅展示正面，因此目前无法确认其充电触点是否会发生变化。同时，这款手表将提供 41mm 和 45mm 两种尺寸，支持选择 Wi-Fi / 蓝牙版和 LTE 版两",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/751.htm"
-    },
-    {
-      "id": "39d03df8-2d23-8151-8665-f195424712f9",
-      "title": "奕境曾清林谈“新能源车平均车龄仅 1.8 年”，称适当超前硬件预埋等是化解“过时焦虑”的最优解",
-      "summary": "IT之家 7 月 14 日消息，奕境汽车品牌总经理曾清林今日凌晨发文谈及了“新能源车平均车龄仅 1.8 年”这一话题。他表示，非常理解大家的焦虑。新能源车技术飞速迭代，“买完就过时”的巨大落差和背刺感，确实让人难以接受。曾清林称，造成 1.8 年是新能源车的平均车龄的原因，主要是过去几年新能源渗透率从 20% 冲到了 60% 多，市面上的新能源车很多都是近两三年才卖出去的，平均车龄当然低。他表示，这种迭代速度也符合一个新兴行业的发展规律。初期的技术迭代会比较快，中晚期就会升级越来越慢。比如手机行业。新能源汽车的有些技术也开始逐步成熟。比如电池技术越来越成熟可靠，智能座舱的硬件水平也非常流畅了。",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/750.htm"
-    },
-    {
-      "id": "39d03df8-2d23-81de-b1c1-d39135014a4f",
-      "title": "New York Governor Signs First Statewide Data Center Moratorium",
-      "summary": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
-      "source": "Wired",
-      "publishTime": "2026-07-14",
-      "link": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/"
-    },
-    {
-      "id": "39d03df8-2d23-8126-aaff-d2bb771ef867",
-      "title": "消息称英特尔调整 Nova Lake 生产策略，大部分计算芯粒重回自家晶圆厂生产",
-      "summary": "IT之家 7 月 14 日消息，据消息人士 @Alex_Intel_ 今日爆料，KBCM 投行的一份研究报告显示，英特尔最初计划将 Nova Lake 处理器的计算芯粒（IT之家注：Compute Tile）外包给台积电生产，并采用 2nm N2 制程工艺。按照原计划，约 60-70% 的 Nova Lake 计算芯粒将由台积电制造，其余部分则由英特尔晶圆厂采用 18A 工艺生产。不过最新供应链消息显示，英特尔已将大部分 Nova Lake 计算芯粒的生产工作转回自家晶圆厂，预计约 80-90% 的计算芯粒将由英特尔工厂制造。据悉，本次调整主要得益于 18A 制程良率有所提升。目前该制程的良率",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/748.htm"
-    },
-    {
-      "id": "39d03df8-2d23-81bf-858a-efc202ccf5bf",
-      "title": "毫米级精准就位：全球最大变质岩潜山油田二期开发项目组块海上安装完成",
-      "summary": "IT之家 7 月 14 日消息，据海油工程微讯消息，近日，随着 WHPD 组块精准就位，全球最大变质岩潜山油田 —— 渤中 26-6 油田开发项目（二期）组块海上安装完成，为项目按期投产奠定坚实基础。据介绍，渤中 26-6 油田位于渤海中部海域，一期开发项目于 2025 年正式投产，作为中国海油在渤海油田规划的重点二氧化碳捕集利用示范工程，同时也是渤海岩土特性和承载力规律研究的重点支撑，承载着能源保供、绿色转型与科学研究的多重使命，对保障京津冀及环渤海地区能源安全具有重要意义。二期项目采用整体规划、分布实施、一体化推进的开发策略，项目全面应用导管架系列化成果及标准化建造技术，通过模块化设计、预",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/747.htm"
-    },
-    {
-      "id": "39d03df8-2d23-81f8-ac77-f8f5e705ac73",
-      "title": "Chamath Palihapitiya says soaring AI token spend will hit companies' earnings",
-      "summary": "Palihapitiya is part of a growing chorus of investors and tech executives who are cautioning that the tokenmaxxing era is coming to an end.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-14",
-      "link": "https://www.cnbc.com/2026/07/14/chamath-palihapitiya-ai-tokenmaxxing.html"
-    },
-    {
-      "id": "39d03df8-2d23-8196-a43c-eeacda9a57e9",
-      "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
-      "summary": "The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/14/ringconn-3-review/"
-    },
-    {
-      "id": "39d03df8-2d23-81f0-a48c-e508ce1b3c5d",
-      "title": "华为智选车产品总监彭磊科普国家 L3 准入要求，称享界 G9 设计之初就瞄准 L3 级自动驾驶开发",
-      "summary": "IT之家 7 月 14 日消息，鸿蒙智行享界汽车今日宣布，享界 G9 正式获批北京市 L3 级自动驾驶道路测试牌照，成为首款获批北京市时速 120 公里 L3 级自动驾驶道路测试牌照的车型。IT之家注意到，华为智选车产品总监（享界系列）彭磊今日发文科普了国家在 L3 准入的要求。他称首先是生产车企要获得 L3 级自动驾驶测试资格，其次是其提交的申报车型再去满足国家相关部委对 L3 级自动驾驶的要求，然后逐项认证。他表示，享界 G9 产品在设计之初就是瞄准 L3 级自动驾驶要求开发，而且也是首款按照 120km/h 车速 L3 要求展开设计开发（这个车速是更多的覆盖中国高速场景），这一点无疑走到",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/745.htm"
-    },
-    {
-      "id": "39d03df8-2d23-81c2-a750-f36142ac2ba1",
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "summary": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
-    },
-    {
-      "id": "39d03df8-2d23-81fd-a6ce-c77c4ac1359c",
-      "title": "特斯拉海外推出“保值计划”，防止贷款购车的 Model 3/Y 车主被降价“背刺”",
-      "summary": "IT之家 7 月 14 日消息，据汽车媒体 Electrek 今天报道，特斯拉现已在澳大利亚市场推出“保证未来价值”（GFV）计划，为贷款购买 Model 3/Y 的消费者锁定未来回购价格，防止车主在还贷款时，被突如其来的降价“背刺”。IT之家从原报道获悉，这项计划适用于购买新款 Model 3、Model Y 的用户，车主可与金融机构根据贷款期限、行驶里程等条件，提前确定车辆未来的回购价格。只要车辆行驶里程未超出约定范围、符合正常折旧标准，用户可在贷款期满后将车辆以约定价格交还；或者留下车辆、自行支付剩余尾款；也可以自行卖出车辆，若售价高于约定价格，车主可保留差额。目前，该计划仅面向澳大利亚",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/744.htm"
-    },
-    {
-      "id": "39d03df8-2d23-8151-a895-c388b439ab50",
-      "title": "Warren Buffett says he'll donate his entire Berkshire fortune 'one way or another' by 2034",
-      "summary": "Warren Buffett announced a $6 billion summer gift, leaving the Gates Foundation off the list, and said he wants his fortune dispensed by 2034.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-philanthropy-foundations-death-gates-foundation-2026-7"
-    },
-    {
-      "id": "39d03df8-2d23-81f8-9c47-fe8d8f87af5f",
-      "title": "This map shows which states are the hotspots of the parasitic diarrhea outbreak",
-      "summary": "A map of the US outbreak of cyclosporiasis, which can cause diarrhea, shows Michigan has the most known cases. Lettuce and bagged salad could be the culprits.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/cyclosporiasis-outbreak-map-diarrhea-parasite-what-states-2026-7"
-    },
-    {
-      "id": "39d03df8-2d23-8147-8f36-ea139ee308e2",
-      "title": "The real AI race may no longer be at the frontier",
-      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/"
     }
   ],
   "macroEvents": [
