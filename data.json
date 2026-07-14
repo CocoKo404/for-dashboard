@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-07-14 07:25",
+  "updatedAt": "2026-07-14 08:51",
   "news": [
+    {
+      "id": "39c03df8-2d23-81c4-9dcf-d4e477b7ddec",
+      "title": "CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器",
+      "summary": "IT之家 7 月 14 日消息，网络安全公司 Jamf Threat Labs 最新报告披露 CrashStealer 漏洞，影响约 80 个加密货币钱包扩展和 14 款密码管理器。苹果在收到 Jamf 通报后，已撤销相关恶意应用签名凭证。Jamf 研究人员于 2026 年 5 月初在 VirusTotal 发现可疑样本，并在 2026 年 7 月初于客户 Mac 设备上看到匹配检测结果。专家通过深入分析后发现，在攻击链的首个阶段，主要通过 Werkbit 签名并经苹果公证应用分发。该应用带有与 Emil Grigorov 关联的有效 Developer ID，可绕过 Gatekeeper 未",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/263.htm"
+    },
+    {
+      "id": "39c03df8-2d23-8165-84e2-fca270045fc7",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-14",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
+    },
+    {
+      "id": "39c03df8-2d23-8108-8064-c80d3ae3ca31",
+      "title": "OpenAI 安全系统负责人海德克即将离职：盘点团队近年出走的 8 名核心成员",
+      "summary": "IT之家 7 月 14 日消息，据《商业内幕》13 日报道，OpenAI 安全系统团队负责人约翰内斯 · 海德克即将离职。近年来，OpenAI 安全与对齐团队已有多名员工离开。OpenAI 首席研究官陈信翰告诉《商业内幕》：“我们感谢约翰内斯为 OpenAI 作出的贡献。研究与安全工作将在米娅 · 格莱泽的带领下迈入新阶段，我们对此充满期待。”OpenAI 表示，格莱泽将出任研究与安全副总裁，并推动安全工作更深入地融入各研究团队。此次调整表明，OpenAI 正在重新思考研究与安全工作的关系。OpenAI 发言人说：“只有了解模型的基础能力，才能作出正确的安全决策，只有了解潜在的安全影响，才能作",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/262.htm"
+    },
+    {
+      "id": "39c03df8-2d23-816f-9d1f-c09c5d99064e",
+      "title": "IT早报 0714：特斯拉单车利润暴跌 40%；比亚迪官宣秦 MAX B 级闪充轿车；蔚来李斌回应友商智驾兜底；海南成中国首个确认禁售燃油车省份...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 14 日星期二，今天的重要科技资讯有：1、全球车企利润大缩水：特斯拉单车利润暴跌 40%受美国关税及电动车需求放缓影响，全球七大车企 2025 财年单车利润普遍下滑。特斯拉虽仍居榜首，但利润大跌 40%，与丰田的差距已不足万元。分析指出，碳积分收入下降及竞争加剧是主因。>> 查看详情2、比亚迪全新 B 级闪充轿车秦 MAX 官宣，路天称定位在秦 L 之上比亚迪王朝网销售事业部总经理路天 7 月 13 日宣布，比亚迪为年轻朋友打造了一款大有不同的全新 B 级闪充轿车，它是秦家族的“超大杯”，定位在秦 L 之上，也是网上呼声很高的闪充秦 ——",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/261.htm"
+    },
+    {
+      "id": "39c03df8-2d23-81a0-9d64-ebb3fe388c39",
+      "title": "苹果收购 SigScalr 部分资产，补充应用监控与排障能力",
+      "summary": "IT之家 7 月 14 日消息，科技媒体 AppleInsider 昨日（7 月 13 日）发布博文，基于欧盟披露的公开数据，苹果公司于 3 月 12 日通过其子公司收购 SigScalr 公司部分资产，并向 SigScalr 的部分员工提供就业机会。IT之家查询公开资料，SigScalr 公司成立于 2021 年 5 月，其公司只有 SigLens 单品，属于一款应用监控工具，可跟踪多个应用内部活动，以及同一应用内多项流程的运行情况。该工具可替代从 Xcode（苹果集成开发环境）到活动监视器等多种工具的部分监测场景，用于持续观察应用随时间变化的运行状态。SigScalr 曾宣称，SigLen",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/260.htm"
+    },
+    {
+      "id": "39c03df8-2d23-81e1-92ab-e02ee246d12e",
+      "title": "California's new EV incentive gives a leg up to Lucid and Rivian",
+      "summary": "Companies like Rivian and Lucid could be exempt from a price-cap that bars some EVs from qualifying for the new California EV incentive program.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-14",
+      "link": "https://www.businessinsider.com/california-ev-rebate-rivian-lucid-price-cap-exemption-explained-2026-7"
+    },
+    {
+      "id": "39c03df8-2d23-81d0-9fbd-f534361cb121",
+      "title": "微软继续翻新 Win11 经典界面：关机重启对话框迎来现代化改造，Alt+F4 暂未同步",
+      "summary": "IT之家 7 月 14 日消息，微软今日面向 Experimental 频道的 Windows Insider 项目成员开放了最新的 Windows 11 的预览版功能更新，带来多项 Windows 搜索框改进。虽然微软没有在更新公告中提到，但 @phantomofearth 发现微软已经悄悄将系统内置的“关机”与“重启”对话框界面进行了现代化更新。如图所示，当用户在最新版 Win11 中通过搜索结果打开“关机”或“重启”时，Windows 会弹出一个经过重新设计的确认对话框来处理该选项。这个新版对话框采用了更贴合 Windows 11 整体设计语言的视觉风格，取代了沿用多年的经典样式。不过需",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/259.htm"
+    },
+    {
+      "id": "39c03df8-2d23-814d-a266-c2607f27b1a4",
+      "title": "诺奖得主、经济学家等 200 余名专家联合呼吁：必须引导 AI 的发展利于人类",
+      "summary": "IT之家 7 月 14 日消息，据彭博社 13 日报道，由经济学家埃里克 · 布林约尔松、阿杰伊 · 阿格拉瓦尔、安东 · 科里内克和汤姆 · 坎宁安发起，包括 200 多名学者和 AI 专家在内的一批顶尖经济学家与 AI 研究人员呼吁，社会应进一步研究 AI 可能造成的影响。联署者包括 16 名诺贝尔奖得主，以及最近入选美联储 AI 影响工作组的斯坦福大学经济学家查尔斯 ·I· 琼斯。联署者认为，AI 未来十年可能变得“强大得多”，必须引导 AI 朝着有利于人类的方向发展。联署者声明提到，AI 可能引发一场前所未有的经济变革。这场变革的规模将超过工业革命，却会在短得多的时间内完成。AI 有望",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/258.htm"
+    },
+    {
+      "id": "39c03df8-2d23-8171-90a8-f39d89179c72",
+      "title": "消息称苹果转化 100 亿美元造车成果，用于 M7/M8 系列 Mac AI 芯片",
+      "summary": "IT之家 7 月 14 日消息，科技媒体 AppleInsider 昨日（7 月 13 日）发布博文，报道称苹果酝酿的 M7 系列、M8 系列芯片，关联苹果公司已取消的汽车（Apple Car）项目。彭博社的马克 · 古尔曼在最新一期 Power On 时事通讯中指出，苹果公司于 2024 年搁置汽车研发，相关技术与研究成果并未被完全废弃，开始转入其他产品线。苹果首席执行官蒂姆 · 库克在 2017 年 6 月就曾表示：“我们专注于自主驾驶系统，很显然，其中一个用途是自动驾驶汽车，当然还有其他用途。”库克此前还描述该项目为“所有 AI 项目之母”（the mother of all AI pr",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/257.htm"
+    },
+    {
+      "id": "39c03df8-2d23-8190-81a2-f5f7d30ae217",
+      "title": "The Best Movies to Stream This Month (July 2026)",
+      "summary": "Project Hail Mary, They Will Kill You, and The Long Walk are among the films deserving of your eyeballs this month.",
+      "source": "Wired",
+      "publishTime": "2026-07-14",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/"
+    },
+    {
+      "id": "39c03df8-2d23-81c1-a614-d09549898642",
+      "title": "OpenAI 多名员工公开声援 CEO 奥尔特曼，证实其乐于听取不同意见",
+      "summary": "IT之家 7 月 14 日消息，OpenAI 多名员工公开声援 CEO 萨姆 · 奥尔特曼，称奥尔特曼并非排斥批评，反而非常愿意听取不同意见。OpenAI 后训练前沿团队联席负责人埃里克 · 米切尔写道，自己曾多次当面反驳萨姆、纠正他的说法，或向他表达对管理层的不满。“每次我向萨姆提出异议、投诉或纠正意见时，他都会抱着好奇和开放的态度听取，有时甚至愿意退让。”其中一次意见冲突，就发生在他入职 OpenAI 后的前六个月内。米切尔和其他员工是在回应 OpenAI 人工智能产品负责人尼克 · 休伯一篇现已删除的帖文。帖文截图显示，休伯曾参加 OpenAI 的面试，其间一名面试官要求他用数据验证一种",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/256.htm"
+    },
+    {
+      "id": "39c03df8-2d23-81b8-9434-f95f48fbdcdb",
+      "title": "Is tracking your food purchases good for your health?",
+      "summary": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-14",
+      "link": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "39c03df8-2d23-8120-9be2-c551a9b10567",
+      "title": "长鑫科技 7 月 16 日开启新股申购，近 2 万员工持股人均账面收益超百万",
+      "summary": "IT之家 7 月 14 日消息，国产 DRAM 存储芯片龙头长鑫科技的科创板 IPO 进程已进入最后冲刺阶段。长鑫科技将于 2026 年 7 月 16 日正式开启网上申购及网下申购。此次 IPO，长鑫科技初始公开发行 66.88 亿股，占发行后总股本约 10%，拟募资 295 亿元。这一募资规模不仅使其成为 2026 年以来 A 股市场规模最大的 IPO，也标志着它成为科创板历史上仅次于中芯国际（532 亿元）的第二大 IPO。随着上市节点的临近，该公司在上市前落地的大规模员工持股计划，也成为资本市场关注的焦点之一。根据招股书披露的信息，长鑫科技在上市前已实施两期员工持股计划，整个计划历时四年",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/255.htm"
+    },
+    {
+      "id": "39c03df8-2d23-8115-8b42-ec4a99f06d6e",
+      "title": "CNBC's The China Connection newsletter: Betting on Shenzhen over Silicon Valley",
+      "summary": "The coastal Chinese city of Shenzhen has become a hub for tech hardware that U.S. firms can't ignore.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-14",
+      "link": "https://www.cnbc.com/2026/07/13/cnbcs-the-china-connection-newsletter-betting-on-shenzhen-over-silicon-valley.html"
+    },
+    {
+      "id": "39c03df8-2d23-8159-b780-c86b91659d24",
+      "title": "苹果发布 iOS 27 等首个公测版，同步推送 macOS 27 Beta 3 修订版",
+      "summary": "IT之家 7 月 14 日消息，苹果公司今天推出 iOS 27 、iPadOS 27、macOS 27 Golden Gate、watchOS 27、visionOS 27 和 tvOS 27 的首个公开测试版。IT之家查询苹果官方更新日志，附上本次 27 系列公测版相关信息如下：iOS 27 首个公测版版本号为 24A5380hiPadOS 27 首个公测版版本号为 24A5380lmacOS 27 首个公测版版本号为 macOS 27.0 Beta 3 v.2，版本号为 26A5378ntvOS 27 首个公测版版本号为 24J5315ivisionOS 27 首个公测版版本号为 24M5",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/254.htm"
+    },
+    {
+      "id": "39c03df8-2d23-815d-b38b-ecee854e28ad",
+      "title": "用户反馈三星 Galaxy S26 Ultra 手机中间屏幕泛红，外媒推测关联“隐私屏幕”机制",
+      "summary": "IT之家 7 月 14 日消息，科技媒体 Android Police 今天（7 月 14 日）发布博文，报道称多名 Galaxy S26 Ultra 手机用户在 Reddit 社区等平台反馈，其手机屏幕显示异常，中部出现红色色调。根据韩媒 Newsway 报道，三星发言人表示已陆续收到相关用户反馈，目前公司正内部核查，以确认问题原因。IT之家附上相关截图如下：原因方面，目前尚不清楚具体根源，但该媒体推测关联 Privacy Display（隐私屏幕）运行机制。该功能的设计目标，是限制旁观者从侧面窥视屏幕内容。图源：cafe.naver 论坛依据报道描述，这一功能会压暗屏幕两侧像素，同时增强中",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/253.htm"
+    },
     {
       "id": "39c03df8-2d23-8169-9367-cbc46fffbd1d",
       "title": "Sam Neill Inspired a Generation of Scientists",
@@ -266,140 +394,12 @@
       "link": "https://www.businessinsider.com/jay-z-yankee-stadium-show-celebrity-guests-photos-2026-7"
     },
     {
-      "id": "39c03df8-2d23-81d5-b7f0-d511c9224597",
-      "title": "Meta is doubling down on its Louisiana AI data center",
-      "summary": "Meta said its Hyperion data center project will now grow to 5 gigawatts of compute capacity, bringing its cost to more than $50 billion.",
-      "source": "Business Insider",
+      "id": "39c03df8-2d23-81b5-abb5-d82f1fda9112",
+      "title": "《多重人生：最终变量》DLC 登陆 Steam：国区 50 元，支持简体中文",
+      "summary": "IT之家 7 月 14 日消息，11 bit studios 推出的《多重人生》全新 DLC 《最终变量》现已上架 Steam 平台，国区售价 50 元，需要拥有本体游戏才能游玩。IT之家附游戏商品页（https://store.steampowered.com/app/3237520/_/?l=schinese&cc=cn）。本作当前在 Metacritic 评分 85 分，整体评价为“普遍好评”。语言支持方面，游戏支持简体中文界面和简体中文字幕，同时支持完全音频输出。 DLC 承接“科学家扬选择留在星球上”的结局展开，预计游玩时长约为 20 小时。《多重人生》的下一段故事将围绕着“在科学界",
+      "source": "IT之家",
       "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-812d-891b-e0e57c31e4d1",
-      "title": "Wi-Fi 8 Explained: Features, Release Date, and More",
-      "summary": "Chipset makers and router manufacturers are talking about Wi-Fi 8, but what is the new standard, and when will it arrive?",
-      "source": "Wired",
-      "publishTime": "2026-07-14",
-      "link": "https://www.wired.com/story/what-is-wi-fi-8/"
-    },
-    {
-      "id": "39c03df8-2d23-814d-8476-d7e4c6a18f21",
-      "title": "The EV market is on the road to recovery thanks to high gas prices",
-      "summary": "As the US war on Iran sent gas prices soaring, American car buyers flocked to electric vehicles - and in particular hybrids. After a sluggish winter and fall, EV sales rebounded in the second quarter of 2026, with automakers posting some of their best numbers since the elimination of the federal EV ",
-      "source": "The Verge",
-      "publishTime": "2026-07-14",
-      "link": "https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota"
-    },
-    {
-      "id": "39c03df8-2d23-813b-94b5-f93c8364467d",
-      "title": "Alex Karp says the biggest problem with AI is that not everyone will get that rich from it",
-      "summary": "Palantir CEO Alex Karp said the wealth disparity AI might create is \"a problem for society\" and called out the AI labs overhyping the technology.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/palantir-ceo-ai-wealth-inequality-problem-job-losses-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-815d-aece-d082803e8248",
-      "title": "AI glasses have a new hater: Lorde",
-      "summary": "Lorde criticized AI glasses during a festival sponsored by Ray-Ban. The jab came right before Blackpink's Jennie, a brand ambassador, took the stage.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-81fa-90b5-d942233e0a93",
-      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/"
-    },
-    {
-      "id": "39c03df8-2d23-811f-9ef7-fa30de37fe24",
-      "title": "Tesla Says It’s Building a Wheelchair-Accessible Robotaxi",
-      "summary": "A Tesla representative at a DC hearing said the vehicle is “an active product being built.” But its timeline isn’t clear.",
-      "source": "Wired",
-      "publishTime": "2026-07-14",
-      "link": "https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/"
-    },
-    {
-      "id": "39c03df8-2d23-81f0-b2c3-f612901c74b2",
-      "title": "I live in Rhode Island. My favorite town to visit in the summer has great seafood, quiet beaches, and a bamboo forest.",
-      "summary": "As a lifelong New England local, my favorite Rhode Island town to visit in the summer is Charlestown, home to quiet beaches and great seafood.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/best-rhode-island-town-to-visit-summer-charlestown-new-england-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-814f-b806-dfd37b19c82f",
-      "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
-      "summary": "General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/"
-    },
-    {
-      "id": "39c03df8-2d23-8144-a071-e8d8971fea8f",
-      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confi",
-      "source": "The Verge",
-      "publishTime": "2026-07-14",
-      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims"
-    },
-    {
-      "id": "39c03df8-2d23-81e4-ba85-e421479b063e",
-      "title": "12 states sue to block Paramount’s $110B Warner Bros deal",
-      "summary": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/"
-    },
-    {
-      "id": "39c03df8-2d23-81a1-81c8-e4ff8c53a1be",
-      "title": "Trump demands shipping vessels pay 20% if they want to get through the Strait of Hormuz",
-      "summary": "Donald Trump said the 20% fee was necessary to \"do the job of providing safety and security\" to the region. Stocks dropped and oil spiked on the news.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/trump-strait-hormuz-blockade-cargo-fee-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-81ac-ac1f-c8151f208395",
-      "title": "Trump calls for Congress to pass Clarity Act crypto bill to honor Lindsey Graham",
-      "summary": "The Senate Banking Committee approved the bill 15-9 in May, with two Democrats joining Republicans to advance the legislation.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-14",
-      "link": "https://www.cnbc.com/2026/07/13/trump-congress-clarity-act-crypto-bill-lindsey-graham.html"
-    },
-    {
-      "id": "39c03df8-2d23-813a-a246-c131117dec44",
-      "title": "Should AI help you get away with killing your spouse?",
-      "summary": "What does a world of total user-aligned AI actually look like?",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/"
-    },
-    {
-      "id": "39c03df8-2d23-8187-be95-d7523a75d8ba",
-      "title": "I spent a decade taking annual trips to celebrate my birthday. Once I turned 40, I knew the tradition had to end.",
-      "summary": "I took my last annual birthday trip at 40 after a decade of celebrating. I realized traveling once a year wasn't enough, and I needed a life change.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/annual-birthday-trips-why-stopped-40-years-old-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-81d2-a426-ddcc3cba768b",
-      "title": "I took my first long-distance Amtrak trip. Here are 10 things that surprised me.",
-      "summary": "During a train trip from Miami to Tampa, I learned that traveling by Amtrak isn't really cheaper or faster than driving or flying.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/first-amtrak-trip-things-that-surprised-me"
-    },
-    {
-      "id": "39c03df8-2d23-8106-ab3f-f41dd925c6d3",
-      "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
-      "summary": "SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-14",
-      "link": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html"
+      "link": "https://www.ithome.com/0/976/248.htm"
     }
   ],
   "macroEvents": [
