@@ -1,6 +1,246 @@
 {
-  "updatedAt": "2026-07-14 08:51",
+  "updatedAt": "2026-07-14 12:24",
   "news": [
+    {
+      "id": "39d03df8-2d23-8140-809e-c79965ebf815",
+      "title": "微软 Win11 测试 PC Insights：目标替代任务管理器排查拖慢 PC 原因",
+      "summary": "IT之家 7 月 14 日消息，科技媒体 Windows Latest 于 7 月 12 日发布博文，报道称微软公司正酝酿为 Copilot 测试 PC Insights 功能，通过读取 CPU、RAM、GPU 占用等信息，聊天形式更直观告诉用户是什么拖慢电脑运行速度。在定位方面，PC Insights 在未来有望补充甚至替代 Windows 11 系统现有的任务管理器，用户未来遇到故障或者想要了解当前设备运行状态，不需要打开任务管理器排查原因，只需要调用 PC Insights，通过聊天式对话，就能让 AI 辅助定位问题原因。IT之家援引博文介绍，微软目前已邀请部分美国地区 Windows ",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/291.htm"
+    },
+    {
+      "id": "39d03df8-2d23-8119-a8b2-d473f4e9bfab",
+      "title": "微软警告：AI 加快漏洞挖掘速度，不建议 Windows 安全更新延迟超过三天",
+      "summary": "IT之家 7 月 14 日消息，在例行的“星期二补丁”更新推送前夕，微软向 Windows 用户与 IT 管理员发出了一项前所未有的严正警告 —— 不建议将 Windows 安全更新的部署延迟超过三天。这一政策调整的核心原因直指人工智能：AI 技术正在将漏洞从公开披露到被黑客利用的时间窗口，从此前的数周急剧压缩至短短数小时。微软 365 部门总监 Jeremy Chapman 在与 Windows 团队密切协作的更新部署指导中明确表示，过去消费者和企业组织习惯性地将安全补丁推迟数天再安装的做法“不应再继续”。“如果你在安全更新发布后仍等待一两周才部署关键修复，那就相当于给使用 AI 的攻击者留",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/290.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81d2-a43e-dcdc394c97df",
+      "title": "特斯拉正开发轮椅无障碍自动驾驶汽车：旨在为残障人士提供出行自由",
+      "summary": "IT之家 7 月 14 日消息，据《连线》杂志 14 日（今天）报道，特斯拉高级政策顾问英迪娅 · 赫德曼周一在华盛顿特区证实，特斯拉正在开发一款可供轮椅乘客使用的无人驾驶汽车。特斯拉 CEO 埃隆 · 马斯克此前也曾透露，公司正在筹备无障碍出行服务。当地时间周一，赫德曼在听证会上表示：“我们正在开发一款专门面向轮椅乘客的自动驾驶汽车。无障碍接送服务往往很不方便，但长期依赖轮椅的人同样应当拥有自由出行的能力，因此我们正在得州开发这款产品。”听证会讨论的是一项争议法案，法案一旦通过，无人驾驶出租车服务便可获准在华盛顿特区运营。按照特斯拉以往的产品推进速度，从正式公布到投入生产往往需要数年。特斯拉",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/289.htm"
+    },
+    {
+      "id": "39d03df8-2d23-8162-befb-d8dedf850292",
+      "title": "东方甄选前 CEO 孙东旭与离职主播合伙开公司，有望与老东家展开竞争",
+      "summary": "IT之家 7 月 14 日消息，东方甄选前 CEO 孙东旭和离职主播合伙开办新公司，有望与老东家展开竞争。美丽明天（北京）科技有限公司于 2026 年 7 月 10 日注册成立，注册资本 1000 万元。其中：孙东旭出资 340 万，持股比例 34%，担任法定代表人、董事和财务负责人；东方甄选前明星主播石明（明明）和郭天权（天权）分别出资 330 万元，持股比例 33%。新公司的经营范围涵盖鲜肉、水产品、水果蔬菜批发零售及化妆品等品类，与东方甄选的业务版图高度重合。IT之家查询发现，“美丽明天”抖音账号已经上线，并在 7 月 13 日发布了第一条视频，三位新公司创始人集体亮相。据新浪财经报道，",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/288.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81f1-9853-edb6fcf2163f",
+      "title": "全汉推出 SFX 电源 DAGGER 钢盾，原生搭载 12V-2×6 供电接口",
+      "summary": "IT之家 7 月 14 日消息，全汉 (FSP) 已于近期推出 DAGGER 钢盾 (DAGGER GD) 系列电源，初期提供 650W 和 850W 款式。这两个型号采用 125×100×63.5 (mm) 的标准 SFX 外形规格，符合 ATX 3.1 / SFX 4.1 规范。DAGGER 钢盾系列采用全模组设计，标配压纹编织线材。其可承受最高 200% 瞬时功率波动，原生搭载 PCIe 12V-2×6 供电接口，通过 80 PLUS 金牌认证，内置 92mm 的 FDP 轴承风扇。该电源支持宽幅电压输入，操作温度 40℃，内置完整的八大电路保护机制，享受 5 年质保。",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/287.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81a3-a4a6-ddf5c384603a",
+      "title": "博世首座美国晶圆厂启动样品生产，计划未来 5 年在美投资 75 亿美元",
+      "summary": "IT之家 7 月 14 日消息，BOSCH（博世）当地时间 13 日宣布，其位于加利福尼亚州 Roseville（罗斯维尔）的 8 英寸碳化硅 (SiC) 晶圆厂已在进行样品生产，预计今年内启动商业芯片制造。罗斯维尔晶圆厂是博世首个在美半导体生产基地，源自 2023 年收购的 TSI Semiconductors，全期改造投资 20 亿美元。博世同时宣布，这一改造项目正式获得来自美国商务部的 2.25 亿美元《CHIPS 法案》直接资金支持，该项目还获得了 2500 万美元的州级税收抵免激励。博世还提到，目标到 2031 年（即其美国业务成立 125 周年之际）在美国投资至高 75 亿美元（I",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/286.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81b5-9704-c876532ab9c5",
+      "title": "纳斯达克首秀后，SK 海力士在韩国“老家”股价暴跌 15% 创近 20 年最惨烈单日表现",
+      "summary": "IT之家 7 月 14 日消息，据路透社报道，当地时间周一，SK 海力士遭到投资者集中抛售，在韩国市场的股价暴跌逾 15%，创下近 20 年来最惨烈的单日表现。SK 海力士上周刚刚登陆纳斯达克，上市前后股价一路猛涨，随后不少投资者选择落袋为安。SK 海力士的美国存托凭证也未能幸免。上周五上市首日涨逾 12% 后，周一早盘下跌 7.9%，报 154.70 美元（IT之家注：现汇率约合 1050 元人民币）。三星电子股价也同步重挫，两大芯片股拖累韩国综合股价指数 KOSPI 暴跌 9%，市场一度触发熔断，暂停交易 20 分钟。美国存储芯片股同样全线走低。美光科技下跌 6.4%，闪迪下跌 8.4%，",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/285.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81f0-aba7-d77041e01c62",
+      "title": "全球首台超导量子热机诞生：利用量子尺度热能为未来大规模量子计算铺路",
+      "summary": "IT之家 7 月 14 日消息，芬兰阿尔托大学（Aalto University）当地时间 7 月 13 日发布公报，该校研究人员成功研制出全球首个基于超导电路的循环量子热机，并完成实验验证。这一成果展示了量子热力学领域的重要进展，有望为未来高量子比特数量子计算机的发展提供新的技术路径。相关研究论文已于 2026 年 7 月 13 日发表于《Nature Communications》。传统热机通过热能转化为机械能或电能，例如詹姆斯 · 瓦特改良的纽科门蒸汽机奠定了工业革命的重要基础，以及如今汽车、船舶、飞机和发电站中使用的动力系统。而量子热机则尝试在微观量子尺度下实现类似过程，将量子系统中的",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/283.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81d2-bc43-d0618e7a703e",
+      "title": "苹果 iOS 26.6 Beta 5 新增“检测到恶意信息”提醒",
+      "summary": "IT之家 7 月 14 日消息，科技媒体 MacRumors 今天（7 月 14 日）发布博文，报道称在 iOS 26.6 Beta 5 更新中，苹果加入“恶意信息检测”提醒。根据 @limpless_skelly 在 X 平台分享的截图，在 iOS 26.6 Beta 5 更新中，系统在识别到潜在恶意信息后，会向用户发出“检测到恶意消息”提示。IT之家附上相关截图如下：根据弹窗内容，该信息可能试图损害 iPhone，或危及用户隐私，在处理方式上会有“暂不处理”（Not Now）、“向苹果公司报告”（Share With Apple）以及“不要报告”（Don't Report）三个选项。在既有",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/282.htm"
+    },
+    {
+      "id": "39d03df8-2d23-8175-8101-c4dd990a6fba",
+      "title": "亚马逊“抢跑”谷歌 Pixel 11 系列手机配色及规格信息：标准版也有 12GB 内存",
+      "summary": "IT之家 7 月 14 日消息，外媒 9to5Toys 发现，亚马逊平台上的谷歌商店出现了三个疑似尚未完成的商品页面，展示了 Pixel 11 标准版的三种配色，并配有疑似官方宣传图。报道分析称，三个页面可能只是提前上线的占位页面或内部草稿，其中的图片却与谷歌官图相似。商品信息还显示，Pixel 11 由亚马逊直接销售和配送，并被列入亚马逊平台上的谷歌商店。不过，亚马逊平台上也有大量第三方卖家，因此目前还不能认定页面内容完全可靠。Pixel 11 标准版共展示了三种颜色。商品标题把三种颜色写成“Obsidian（黑曜石）”“Hibiscus（芙蓉）”和“Pistachio（开心果）”，与此前的",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/280.htm"
+    },
+    {
+      "id": "39d03df8-2d23-8133-a629-f47918cf384a",
+      "title": "日本摩托车出货量 6 年来再次刷新历史最低",
+      "summary": "IT之家 7 月 14 日消息，据日经新闻 7 月 13 日报道，日本汽车工业协会公布的数据显示，2026 年 1～6 月日本国内摩托车出货量同比减少 21%，降至 14 万 1005 辆。6 年来再次刷新历史最低水平。日本于 2025 年 11 月收紧了尾气排放法规，第一类原付摩托车（排量 50cc 以下）的出货量减少 52%，降至 2 万 9472 辆。IT之家查询获悉，根据中国摩托车商会发布的数据，2025 年我国摩托车产业规模实现进一步增长。2025 年，我国摩托车产销分别达到 2210.93 万辆和 2196.77 万辆，同比分别增长 10.69% 和 10.25%。细分来看，202",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/281.htm"
+    },
+    {
+      "id": "39d03df8-2d23-812f-89b6-c0ea3c186584",
+      "title": "漫威电影《复仇者联盟 5：毁灭之日》片长 165 分钟，仅次于《终局之战》",
+      "summary": "IT之家 7 月 14 日消息，《好莱坞报道者》今日报道称，《复仇者联盟 5：毁灭之日》片长为 165 分钟（即 2 小时 45 分钟），北美地区预售将于 7 月 20 日（下周一）正式启动。这部影片由安东尼 · 罗素与乔 · 罗素兄弟执导，定于 2026 年 12 月 18 日在北美公映，12 月 16 日在中国台湾公映，中国大陆暂未定档。165 分钟的时长将使《毁灭之日》位列漫威电影宇宙（MCU）片长第二，仅次于 2019 年《复仇者联盟 4：终局之战》的 181 分钟，超过 2018 年《复仇者联盟 3：无限战争》的 149 分钟。不过《好莱坞报道者》也指出，由于距离上映尚有五个月，影片",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/279.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81bd-8db3-dba43c8c6c6a",
+      "title": "响应更快：多位大 V 推荐苹果 iOS 27 首个公测版，稳定性满足日常使用",
+      "summary": "IT之家 7 月 14 日消息，科技媒体 Cult of Mac 今天（7 月 14 日）发布博文，报道称苹果最新发布的 iOS 27 首个公测版已基本完善，其稳定性足以满足日常使用需求。该媒体测试后认为 iOS 27 首个公测版已趋于完善，各方面的体验都非常稳定，完全满足日常使用需求，不过测试后认为，最大的缺点可能会缩短续航表现。 科技记者 Joanna Stern 今天在 X 平台也发布推文，IT之家翻译如下：iOS 27 公测版发布了。这是多年来（也许是有史以来？）第一个让我觉得足够稳定，可以在第一天就推荐的测试版。现在，祝你好运脱离 Siri 等待名单。IT之家查询公开资料，Joann",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/278.htm"
+    },
+    {
+      "id": "39d03df8-2d23-818c-94ae-ce3cb715da36",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-14",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/"
+    },
+    {
+      "id": "39d03df8-2d23-8197-863a-eefb73e7d2cb",
+      "title": "美国油价飙升致电动汽车销量反弹：Q2 销量环比增长 14%，加州推出 3500 美元首车补贴助市场回暖",
+      "summary": "IT之家 7 月 14 日消息，美国电动车市场在经历了联邦税收抵免取消后的低迷期后，终于在 2026 年第二季度迎来了复苏信号。Cox Automotive 数据显示，2026 年 4 月至 6 月期间，美国汽车制造商共售出 247,226 辆电动汽车，环比增长 14.2%，创下自 2025 年 9 月联邦电动车税收抵免取消以来的最佳季度表现。不过，与 2025 年同期（当时联邦补贴仍在）相比，销量仍下降了 20.5%。推动这轮回暖的首要因素无疑是汽油价格的飙升。受中东地缘政治紧张局势影响，美国汽油价格已涨至每加仑近 5 美元。高昂的燃料成本让越来越多的消费者重新权衡电动车的长期使用成本优势 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/276.htm"
+    },
+    {
+      "id": "39d03df8-2d23-8199-a3a5-e0ad482c76df",
+      "title": "法拉利营销总监卡兰多：看到 Luce 外形引发争论，我反而觉得高兴",
+      "summary": "IT之家 7 月 14 日消息，法拉利首款纯电车型 Luce 公布后，网络舆论迅速炸开了锅。多数车迷认为 Luce 外形平淡、缺少辨识度，看不出应有的法拉利气质。法拉利全球营销总监埃马努埃莱 · 卡兰多、前 CMO 兼商务负责人恩里科 · 加列拉，以及跑车媒体与公关经理亚历山德罗 · 瓦卡里随后出面回应。面对几乎一边倒的质疑，法拉利管理层表面上仍显得从容，甚至有人声称，铺天盖地的争议反而让自己感到“高兴”。卡兰多告诉外媒 Edmunds，法拉利早已预料到 Luce 会引发“强烈”并且“严重两极分化”的反应，但舆论声势之大仍然超出预期。在卡兰多看来，负面评价并非全无好处，反而为 Luce 带来了",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/275.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81af-9cc2-f39307ba6d1c",
+      "title": "苹果发布 tvOS / HomePod 27 首个公测版，暂未整合 Siri AI",
+      "summary": "IT之家 7 月 14 日消息，科技媒体 9to5Mac 今天（7 月 14 日）发布博文，汇总梳理了苹果 tvOS 27 以及 HomePod 27 首个公测版相关内容。在适配机型方面，tvOS 27 不再支持 Apple TV HD 以及初代 Apple TV 4K；而 HomePod 适配所有现有 HomePod 机型。功能方面，tvOS 27 首个公测版暂未整合 Siri AI，相关适配机型需要等到今年秋季，苹果公司有望和 iPhone 18 Pro 系列一起，推出支持 Siri AI 的 2026 款 Apple TV 4K 机型。IT之家援引博文介绍，附上 tvOS 27 首个公测",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/273.htm"
+    },
+    {
+      "id": "39d03df8-2d23-817d-9110-cef5baa4bfc7",
+      "title": "派早报：全球智能手机出货量创 13 年来最低水平等",
+      "summary": "少数派的近期动态声擎×少数派｜「角落新声」征文活动已经启动。投稿赚音箱少数派×AKKO灵犀Linx68键盘预售开启。看看新键盘你可能错过的文章你这图「保真」吗？AI生图时代的信息防伪依江伴湖，树影连绵 ...查看全文",
+      "source": "少数派",
+      "publishTime": "2026-07-14",
+      "link": "https://sspai.com/post/112286"
+    },
+    {
+      "id": "39d03df8-2d23-8116-9847-db97d685f78c",
+      "title": "成本高出对手 20%：大众汽车正考虑追加裁员 5 万人，累计裁员上限达 10 万",
+      "summary": "IT之家 7 月 14 日消息，据路透社当地时间 7 月 13 日报道 —— 欧洲最大汽车制造商大众汽车集团正面临前所未有的成本压力。大众 CEO 奥利弗 · 布鲁姆（Oliver Blume）在 7 月 13 日向员工发布的一份内部备忘录中透露，公司可能需要在已达成协议的裁员基础上，再削减约 5 万个工作岗位。这一表态意味着，大众汽车此前面临的最高 10 万人裁员传闻，首次得到了管理层的证实。布鲁姆在备忘录中指出，经测算，大众汽车相较同类竞争对手存在约 20% 的成本劣势。在集团（包括保时捷和奥迪子公司）已同意裁减 5 万人的前提下，若要弥补这一成本差距，理论上仍需在全球范围内“理论性削减”",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/272.htm"
+    },
+    {
+      "id": "39d03df8-2d23-8188-bffd-ca5afd69a1dd",
+      "title": "微软 CEO 纳德拉警告企业：你花钱用的 AI，最终可能会成为你的竞争对手",
+      "summary": "IT之家 7 月 14 日消息，据外媒 TechCrunch 今天（14 日）报道，硅谷围绕人工智能风险的争论持续无休，最让 AI 拥护者坐立不安的，却是大型 AI 实验室可能借专有模型充当“特洛伊木马”。初创企业和大型企业把敏感资料喂给模型后，模型提供商便能逐渐摸清客户的业务，还可能利用积累下来的知识开拓同类业务，最终与客户直接竞争。当地时间 12 日，纳德拉在博客中警告，企业使用 AI 时其实付了两遍钱：一遍是明码标价的 token 费用，另一遍则是在毫无察觉的情况下交出有价值的数据。“你实际上付了两次钱，一次用金钱支付，另一次则用更加宝贵的东西支付，也就是为了让 AI 真正发挥作用而必须",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/271.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81a7-bdbb-ed31e28dc8de",
+      "title": "突破显微镜极限：科学家改造百年前成像技术，激光让“看不见”的蛋白结构变可见",
+      "summary": "IT之家 7 月 14 日消息，加州大学伯克利分校（UC Berkeley）物理学家团队基于近百年前提出的相差成像方法，开发出了一项基于激光的冷冻电子显微镜（cryo-EM）改进技术，有望帮助科学家观察过去难以分辨的微小生物结构。目前，冷冻电子显微镜已经成为研究生物大分子结构的重要工具，但受限于信噪比等因素，大量人体和动物蛋白质仍然难以获得清晰成像。UC 伯克利团队研发的激光相位板（laser phase plate）技术，通过改变电子束的相位信息提升图像对比度，同时避免传统相位板容易降低电子束强度的问题，从而增强显微镜对微小结构的观察能力。1930 年，荷兰物理学家弗里茨・泽尔尼克（Frit",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/270.htm"
+    },
+    {
+      "id": "39d03df8-2d23-819b-a775-e08ec3ae236f",
+      "title": "X 平台官宣调整推荐算法：互关好友“存在感”更强，首页不再像“战场”",
+      "summary": "IT之家 7 月 14 日消息，X 产品负责人尼基塔 · 比尔宣布，平台现已调整推荐算法，让互关的用户更容易看到彼此的帖文。Meta 旗下 Threads 近来也在通过算法调整强化社区氛围，希望与 X 拉开差异。比尔表示：“我们发现，算法原先没有纳入互关关系，导致朋友的回复不容易被看到，回复区也因此更像一个充斥着陌生人的战场。”此次调整不会彻底改变 X 的使用体验，却有望减少回复区里陌生人彼此对线的情况，让 X 多一些社区氛围，不再只是无数互不相干的声音各说各话。比尔指出，此次调整还将让用户更容易围绕共同兴趣形成群体，而这正是许多人此前所呼吁的。X 近期接连调整多项功能，不少改动都在为创作者服",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/269.htm"
+    },
+    {
+      "id": "39d03df8-2d23-8155-be72-fab30e1f09ad",
+      "title": "Omdia 报告 2026Q2 全球手机出货量同比降 4%：三星占 22%、苹果占 20%",
+      "summary": "IT之家 7 月 14 日消息，市场调查机构 Omdia 昨日（7 月 13 日）发布博文，报告称 2026 年第 2 季度全球智能手机出货量同比下滑 4%。报告认为受持续的内存危机影响，推高零部件成本，导致全球智能手机出货量持续下滑。细分到品牌方面，相比较 2025 年第 2 季度，三星和苹果逆势而上，出货量市场份额同比增长 2 个百分点和 4 个百分点。细分到品牌方面，三星公司在 2026 年第 2 季度出货量占比份额为 22%，较 2025 年 2 季度提升 2 个百分点，得益于强劲的需求和充足的供应，目前保持智能手机市场最大厂商的地位。苹果公司方面，在通常被视为一年中最淡季的季度中，苹",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/268.htm"
+    },
+    {
+      "id": "39d03df8-2d23-8199-8fa0-c3ad721c3f9c",
+      "title": "Flock is falling out of favor with police departments",
+      "summary": "LAPD will not renewed its agreement with Flock Safety, citing concerns over \"civil liberty\" and a lack of clarity over terms regarding privacy.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-14",
+      "link": "https://www.businessinsider.com/flock-safety-cameras-police-departments-lapd-2026-7"
+    },
+    {
+      "id": "39d03df8-2d23-81c0-b6e8-f57170eb2c62",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-14",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+    },
+    {
+      "id": "39d03df8-2d23-81e8-a417-e4152abb87cc",
+      "title": "通用汽车推行供应商筛选新标准：若自动化水平不达标，或拿不到新订单",
+      "summary": "IT之家 7 月 14 日消息，据外媒 Carscoops 今天（14 日）报道，通用汽车启用了一套新的自动化标准筛选零部件供应商，达不到要求的供应商今后可能拿不到新订单。通用汽车发言人帕特里克 · 沙利文称，公司会协助供应商提升生产能力；美国汽车工人联合会（UAW）主席肖恩 · 费恩则警告，AI 和大规模自动化正在威胁工人的饭碗。今年 3 月，通用汽车开始向供应商发放调查问卷，同时推出“整体自动化成熟度指数”。供应商按照通用汽车制定的标准检查各自工厂，再给自动化水平打分。检查范围包括从购买原材料到组织生产、完成交货的全部环节，通用汽车有时还会派人直接检查供应商的工厂。通用汽车把自动化水平分成",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/267.htm"
+    },
+    {
+      "id": "39d03df8-2d23-8156-93fd-f38bb0e5132e",
+      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+      "summary": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-14",
+      "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/"
+    },
+    {
+      "id": "39d03df8-2d23-812a-9700-fa886d2527d5",
+      "title": "Telegram 核心域名 t.me 突遭全球停用，官方尚未回应",
+      "summary": "IT之家 7 月 14 日消息，今日凌晨有用户发现，即时通讯软件 Telegram 使用的短链接域名 t.me 在全球范围内无法访问。根据 Whois 域名查询服务的数据，该域名的状态被更新为“serverHold”。根据互联网名称与数字地址分配机构（ICANN）的文档，此状态由域名注册局操作员设置，意味着该域名已被从全球域名系统（DNS）中移除。此次故障直接影响所有以 t.me 开头的链接，包括指向 Telegram 频道、聊天群组和个人主页的短网址，这些链接在浏览器中均无法正常打开和跳转。不过，Telegram 的桌面客户端和手机应用本身仍可正常使用，且应用内置浏览器中的 t.me 链接也",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/266.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81d5-8217-d0a66393affe",
+      "title": "前索尼高管谈 PlayStation 全面数字化：实体光盘销售地位正在下降，定价权仍握在发行商手中",
+      "summary": "IT之家 7 月 14 日消息，当地时间 7 月 13 日，前索尼互动娱乐资深高管戈登 · 桑顿（Gordon Thornton）在接受 InsiderGaming 专访时，就 PlayStation 全面转向数字发行以及 PlayStation Stars 会员奖励计划的失利发表了看法。桑顿在索尼任职长达 17 年，直至 2022 年离职。他曾担任全球直接面向消费者业务的高级副总裁，主导了 PlayStation Store 从零起步到成为年收入高达 140 亿美元（IT之家注：现汇率约合 949.19 亿元人民币）数字游戏巨头的全过程。索尼互动娱乐宣布：自 2028 年 1 月起，Play",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/265.htm"
+    },
+    {
+      "id": "39d03df8-2d23-81ba-b023-e8dd10073180",
+      "title": "大众未来停产车型名单曝光：速腾、保时捷 Taycan 或难以幸免",
+      "summary": "IT之家 7 月 14 日消息，大众汽车集团上周公布了规模庞大的成本削减计划，并明确表示到 2030 年可能砍掉最多一半的现有车型。产品选择也会大幅收缩，从现在到本世纪 20 年代末，可选配置数量将减少 75%，年产能还将从目前的 1000 万辆降至 900 万辆。当地时间 12 日，德国《图片报》报道称，可能被淘汰的车型已经有了一份初步名单。大众品牌可能首先停产 Jetta（IT之家注：国内对应的是速腾）和 Taos，两款车据称都不会再有下一代。同时，“确定停产车型名单”还涉及多款保时捷车型。销量表现不佳的保时捷纯电轿车 Taycan 据称将在现款车型完成生命周期后退出市场，而且不会有直接继",
+      "source": "IT之家",
+      "publishTime": "2026-07-14",
+      "link": "https://www.ithome.com/0/976/264.htm"
+    },
     {
       "id": "39c03df8-2d23-81c4-9dcf-d4e477b7ddec",
       "title": "CrashStealer 攻击披露：针对苹果 Mac 用户，瞄准 1Password 等 14 款密码管理器",
@@ -160,246 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-07-14",
       "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe"
-    },
-    {
-      "id": "39c03df8-2d23-81b8-a35c-fea24142f5dc",
-      "title": "Siri AI Is Becoming Apple’s Everything Tool",
-      "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
-      "source": "Wired",
-      "publishTime": "2026-07-14",
-      "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/"
-    },
-    {
-      "id": "39c03df8-2d23-8109-b9dd-c1f3d8ea579b",
-      "title": "A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut",
-      "summary": "Smartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking, to say the least. A wireless lavalier microphone can dramatically improve the audio quality of your videos, whether you’re the only one talking, or if you’re getting ",
-      "source": "The Verge",
-      "publishTime": "2026-07-14",
-      "link": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale"
-    },
-    {
-      "id": "39c03df8-2d23-81a4-8a4c-d63281506a4a",
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/"
-    },
-    {
-      "id": "39c03df8-2d23-811e-b9df-d9f9ae61fbe5",
-      "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
-      "summary": "Noise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware of approaching cars, cyclists, and other potential hazards, and right now they're on sale for $109 ",
-      "source": "The Verge",
-      "publishTime": "2026-07-14",
-      "link": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale"
-    },
-    {
-      "id": "39c03df8-2d23-8185-8076-c96051e6fbf7",
-      "title": "The Pixel colors might rule this year",
-      "summary": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Google's upcoming Pixel 11 in hot pink Fuchsia (Hibiscus), vibrant green Moss (Pistachio), and Midnight (Obsidian) black. We",
-      "source": "The Verge",
-      "publishTime": "2026-07-14",
-      "link": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor"
-    },
-    {
-      "id": "39c03df8-2d23-8195-8488-d70286a36840",
-      "title": "Beyoncé and Jay-Z own the most expensive mansion in California history. See all the homes in their real-estate empire.",
-      "summary": "From New York to the Cotswolds, Beyoncé and Jay-Z have invested hundreds of millions of dollars in real estate over the years. Here are their homes.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/beyonce-and-jay-z-houses"
-    },
-    {
-      "id": "39c03df8-2d23-811f-87e1-c48510688e26",
-      "title": "Apple’s public betas for iOS 27 and more are out now",
-      "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise! - though it keeps things brief. Other betas available now […",
-      "source": "The Verge",
-      "publishTime": "2026-07-14",
-      "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai"
-    },
-    {
-      "id": "39c03df8-2d23-81c8-8996-ffe988edaad1",
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-      "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get […]",
-      "source": "The Verge",
-      "publishTime": "2026-07-14",
-      "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch"
-    },
-    {
-      "id": "39c03df8-2d23-8132-a34e-f150d6440b5f",
-      "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
-      "summary": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at least a little excited for macOS 27 (particularly if you're on Tahoe and disliking",
-      "source": "The Verge",
-      "publishTime": "2026-07-14",
-      "link": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai"
-    },
-    {
-      "id": "39c03df8-2d23-81de-8051-f3bb1a52d16f",
-      "title": "Siri AI is already changing how I use my iPhone",
-      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [",
-      "source": "The Verge",
-      "publishTime": "2026-07-14",
-      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on"
-    },
-    {
-      "id": "39c03df8-2d23-81af-94f9-c8f684543410",
-      "title": "苹果 iOS/iPadOS 26.6 开发者预览版 Beta 5 发布",
-      "summary": "【点此直达升级教程】 IT之家 7 月 14 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6 开发者预览版 Beta 5 更新（内部版本号：23G5065a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iO",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/249.htm"
-    },
-    {
-      "id": "39c03df8-2d23-81d1-9f01-e9193fe581c5",
-      "title": "苹果 macOS 26.6 开发者预览版 Beta 5 发布",
-      "summary": "IT之家 7 月 14 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6 开发者预览版 Beta 5 更新（内部版本号：25G5065a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / macOS 固件下载 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/250.htm"
-    },
-    {
-      "id": "39c03df8-2d23-81f1-9d21-dad04bc4daf4",
-      "title": "苹果 visionOS 26.6 开发者预览版 Beta 5 发布",
-      "summary": "IT之家 7 月 14 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6 开发者预览版 Beta 5 更新（内部版本号：23O5765a），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 26 发布历史： 2026-07-07：visionOS 26.6 Beta 4 (23O5757c) 2026-06-30：visionOS 26.6 Beta 3 (23O",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/251.htm"
-    },
-    {
-      "id": "39c03df8-2d23-819d-bc08-faf4f49593f0",
-      "title": "苹果 watchOS 26.6 开发者预览版 Beta 5 发布",
-      "summary": "【点此直达升级教程】 IT之家 7 月 14 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.6 开发者预览版 Beta 5 更新（内部版本号：23U5062b），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / i",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/252.htm"
-    },
-    {
-      "id": "39c03df8-2d23-8130-b55d-c72ef6e14bb9",
-      "title": "First Microsoft, now Apple: Sam Altman keeps breaking up with Big Tech.",
-      "summary": "OpenAI and Sam Altman have made big deals with Microsoft, and Apple. Both have ended poorly. Why?",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/openai-lawsuit-apple-microsoft-history-sam-altman-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-816e-badb-d8689264f351",
-      "title": "22 candid photos of Prince William, Kate Middleton, and their children over the years",
-      "summary": "The Prince and Princess of Wales have been photographed giggling and hugging their kids at royal engagements over the years.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/prince-william-kate-middleton-kids-candid-photos"
-    },
-    {
-      "id": "39c03df8-2d23-81db-aa51-de3044892a5b",
-      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/"
-    },
-    {
-      "id": "39c03df8-2d23-8118-9927-cf9892802c03",
-      "title": "An active 45-year-old man couldn't sit or use the bathroom without pain. He was diagnosed with stage 3 colon cancer.",
-      "summary": "Randy League was diagnosed with stage 3 colorectal cancer at 45 after feeling a sudden, sharp pain in his rectum.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/active-45-year-old-man-diagnosed-colorectal-cancer-lynch-syndrome-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-815d-bb97-d7e3e4abc885",
-      "title": "OpenAI employees want everyone to know Sam Altman is totally receptive to pushback",
-      "summary": "OpenAI staffers defended CEO Sam Altman's ability to field critical feedback. \"It is one of OpenAI's greatest strengths,\" one wrote.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/openai-employees-say-sam-altman-receptive-critical-feedback-pushback-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-8120-b85f-efbae999f1cc",
-      "title": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
-      "summary": "The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here’s why.",
-      "source": "Wired",
-      "publishTime": "2026-07-14",
-      "link": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/"
-    },
-    {
-      "id": "39c03df8-2d23-8186-8a2b-faf6db2fdd17",
-      "title": "The US Navy's new sea drones have gone from rescuing downed airmen to blowing up Iranian targets",
-      "summary": "Last month, the US Navy's Corsair sea drones made by Saronic rescued downed US airmen. More recently, they were used in an explosive attack on Iran.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/us-navy-sea-drones-rescuing-airmen-attacking-iran-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-8129-8fe0-ccb8d5d1cfbd",
-      "title": "Judge says Trump tried to 'manipulate the judicial process' with $10 billion IRS lawsuit",
-      "summary": "A US judge issued a full-throated repudiation of Trump and his administration in a Monday ruling, POLITICO reported.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/trump-irs-lawsuit-anti-weaponization-fund-court-ruling-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-8176-a333-f04e26bb10ce",
-      "title": "Trump's corporate endorsements put government fingers on the scale of business",
-      "summary": "Ethics watchdogs are worried that Trump's actions could incentivize companies to view the government as transactional.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/trump-dell-corporate-endorsements-ethics-legal-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-8151-a64d-fbfecd9a5ccf",
-      "title": "We went on our first African safari. Our trip would've been better if we'd known these 5 things before we left.",
-      "summary": "My first African safari trip would've been better if I'd planned my layover and itinerary differently and avoided packing and dress code mistakes.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/first-african-safari-trip-mistakes-lessons-learned-packing-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-81f1-a1a5-cb8612101208",
-      "title": "3 key reasons Disney's 'Moana' flopped in its box-office debut",
-      "summary": "The new \"Moana\" movie fell flat in its box-office debut, and analysts say a few factors contributed to the weak performance.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/disney-moana-box-office-opening-live-action-remake-reboot-strategy-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-8105-b3d5-cb5d482c6691",
-      "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
-      "summary": "A dozen state attorneys general are trying to block the $110 billion merger of Paramount and Warner Bros Discovery they warn would raise movie prices and crush cable TV distributors. The states - California, Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, Ne",
-      "source": "The Verge",
-      "publishTime": "2026-07-14",
-      "link": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit"
-    },
-    {
-      "id": "39c03df8-2d23-8180-80cb-fb74ce983843",
-      "title": "Jamie Dimon hinted at what he might do after JPMorgan — and it's not politics",
-      "summary": "Jamie Dimon said there's \"pretty much no chance\" he runs for office, but that he might take on other public-facing roles.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/jamie-dimon-succession-jpmorgan-ceo-president-politics-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-8109-b350-f4d924f9b320",
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-14",
-      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/"
-    },
-    {
-      "id": "39c03df8-2d23-811e-9ed4-e7e28bf00ed5",
-      "title": "Jay-Z's final Yankee Stadium show was a trip down memory lane. See the surprise celebrity guests he brought onstage.",
-      "summary": "Jay-Z concluded his Yankee Stadium residency with stars like Beyoncé and Rihanna. Not even a delay due to security issues could dampen the finale.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-14",
-      "link": "https://www.businessinsider.com/jay-z-yankee-stadium-show-celebrity-guests-photos-2026-7"
-    },
-    {
-      "id": "39c03df8-2d23-81b5-abb5-d82f1fda9112",
-      "title": "《多重人生：最终变量》DLC 登陆 Steam：国区 50 元，支持简体中文",
-      "summary": "IT之家 7 月 14 日消息，11 bit studios 推出的《多重人生》全新 DLC 《最终变量》现已上架 Steam 平台，国区售价 50 元，需要拥有本体游戏才能游玩。IT之家附游戏商品页（https://store.steampowered.com/app/3237520/_/?l=schinese&cc=cn）。本作当前在 Metacritic 评分 85 分，整体评价为“普遍好评”。语言支持方面，游戏支持简体中文界面和简体中文字幕，同时支持完全音频输出。 DLC 承接“科学家扬选择留在星球上”的结局展开，预计游玩时长约为 20 小时。《多重人生》的下一段故事将围绕着“在科学界",
-      "source": "IT之家",
-      "publishTime": "2026-07-14",
-      "link": "https://www.ithome.com/0/976/248.htm"
     }
   ],
   "macroEvents": [
