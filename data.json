@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-07-16 06:28",
+  "updatedAt": "2026-07-16 07:30",
   "news": [
+    {
+      "id": "39e03df8-2d23-8197-82dd-cbfeaf96b3ed",
+      "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+      "summary": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usually $1,649.99) with an Intel Core 7 Ultra CPU, 16GB […]",
+      "source": "The Verge",
+      "publishTime": "2026-07-16",
+      "link": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale"
+    },
+    {
+      "id": "39e03df8-2d23-8147-a19a-f3742f9a8759",
+      "title": "上传用户代码事件后，马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+      "summary": "IT之家 7 月 16 日消息，马斯克旗下 SpaceXAI 公司昨日（7 月 15 日）宣布开源 Grok Build，并将源代码发布至 GitHub 平台。在官方博文中，SpaceXAI 表示：开源发布源代码，是构建强大、可靠框架的最直接方法。用户可以阅读源代码，了解其从上下文构建到工具调用分发的完整工作原理。开源也让框架更容易探索和扩展：如果用户正在使用 Agent Skills、插件、hooks、MCP 服务器或子智能体，则源代码是了解每个组件如何加载和调用的权威参考。Grok Build 现在可以完全本地优先运行：自己编译，指向自己的本地推理，并从 config.toml 驱动一切。",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/265.htm"
+    },
+    {
+      "id": "39e03df8-2d23-81a2-84c9-db9f28e05f40",
+      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus pricing, \"a plan for a ",
+      "source": "The Verge",
+      "publishTime": "2026-07-16",
+      "link": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase"
+    },
+    {
+      "id": "39e03df8-2d23-81c4-a221-d4bd4dbe9cb9",
+      "title": "Trump calls data centers 'money machines' and says New York is letting them slip away",
+      "summary": "Trump slams New York's pause on AI data center, warning it could drive investment to states like Texas, amid debates over the infrastructure's impact.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-16",
+      "link": "https://www.businessinsider.com/donald-trump-urges-new-york-reverse-ai-data-center-pause-2026-7"
+    },
+    {
+      "id": "39e03df8-2d23-814f-a753-d4518fbb46d3",
+      "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
+      "summary": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just buy a battery from iFixit and install it yourself. Why would Val",
+      "source": "The Verge",
+      "publishTime": "2026-07-16",
+      "link": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery"
+    },
+    {
+      "id": "39e03df8-2d23-818f-8be9-d2f78c9a412f",
+      "title": "The US Mint says it's making a $1 coin with Trump's face on it",
+      "summary": "The Treasury unveiled a $1 gold coin featuring a portrait of Trump, breaking the tradition that US currencies shouldn't feature living persons.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-16",
+      "link": "https://www.businessinsider.com/us-mint-trump-portrait-dollar-gold-coin-legality-2026-7"
+    },
     {
       "id": "39e03df8-2d23-81e4-ae96-eb01f483be0e",
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
@@ -352,54 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-07-16",
       "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
-    },
-    {
-      "id": "39e03df8-2d23-818b-904c-ebc7e45bb214",
-      "title": "Lucid’s bankruptcy rumor is a bad sign for the EV future",
-      "summary": "Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result. The company quickly denied the report, calling it \"completely false\" and pointing to its available free cash flow as evidence that it has enough runway to operate into ",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future"
-    },
-    {
-      "id": "39e03df8-2d23-818f-babc-f1c6ce041e1d",
-      "title": "SpaceX stock sinks below $135 IPO price for the first time",
-      "summary": "SpaceX shares fell for a fourth-straight session on Wednesday days after entering the Nasdaq-100",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-16",
-      "link": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html"
-    },
-    {
-      "id": "39e03df8-2d23-81d6-b457-d4ae61f97ffe",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-16",
-      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/"
-    },
-    {
-      "id": "39e03df8-2d23-8180-95d9-d7f543364e09",
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-16",
-      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/"
-    },
-    {
-      "id": "39e03df8-2d23-8194-98d7-d0c38b1ecdb3",
-      "title": "Citi tech chief Tim Ryan explains why he won't track employees' every AI move",
-      "summary": "Tim Ryan, Citi's tech chief, said banks will win based on how many people are using AI, more than their specific AI tools.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-81d0-829c-de3266e2edf6",
-      "title": "Netflix tries to recapture Stranger Things magic with nostalgic re-release",
-      "summary": "Netflix just can't let Stranger Things go. Since the final episode aired on New Year's Eve there's been a behind-the-scenes documentary, an animated series that expands the story, and now, on the 10th anniversary of the show's original release, Netflix has released a new version of the show's first ",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix"
     }
   ],
   "macroEvents": [
