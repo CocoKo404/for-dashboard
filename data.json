@@ -1,6 +1,150 @@
 {
-  "updatedAt": "2026-07-16 00:50",
+  "updatedAt": "2026-07-16 02:36",
   "news": [
+    {
+      "id": "39e03df8-2d23-818f-babc-f1c6ce041e1d",
+      "title": "SpaceX stock sinks below $135 IPO price for the first time",
+      "summary": "SpaceX shares fell for a fourth-straight session on Wednesday days after entering the Nasdaq-100",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-16",
+      "link": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html"
+    },
+    {
+      "id": "39e03df8-2d23-81d6-b457-d4ae61f97ffe",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-16",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/"
+    },
+    {
+      "id": "39e03df8-2d23-8180-95d9-d7f543364e09",
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-16",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/"
+    },
+    {
+      "id": "39e03df8-2d23-8194-98d7-d0c38b1ecdb3",
+      "title": "Citi tech chief Tim Ryan explains why he won't track employees' every AI move",
+      "summary": "Tim Ryan, Citi's tech chief, said banks will win based on how many people are using AI, more than their specific AI tools.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-16",
+      "link": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7"
+    },
+    {
+      "id": "39e03df8-2d23-81d0-829c-de3266e2edf6",
+      "title": "Netflix tries to recapture Stranger Things magic with nostalgic re-release",
+      "summary": "Netflix just can't let Stranger Things go. Since the final episode aired on New Year's Eve there's been a behind-the-scenes documentary, an animated series that expands the story, and now, on the 10th anniversary of the show's original release, Netflix has released a new version of the show's first ",
+      "source": "The Verge",
+      "publishTime": "2026-07-16",
+      "link": "https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix"
+    },
+    {
+      "id": "39e03df8-2d23-810b-8439-f6518f37e9f9",
+      "title": "Lionel Messi’s Final World Cup—and the Death of Early Retirement",
+      "summary": "Argentina’s Lionel Messi was supposed to be done years ago. Now, sports science is helping soccer’s biggest stars rewrite the rules of aging.",
+      "source": "Wired",
+      "publishTime": "2026-07-16",
+      "link": "https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/"
+    },
+    {
+      "id": "39e03df8-2d23-816f-8d47-cd804e3c78ae",
+      "title": "I couldn't find a job for 9 months, so I decided to learn new skills. I'm now assembling electronics with no experience.",
+      "summary": "I lost my job in public service and have been unemployed ever since. I accepted a position assembling electronic parts, so I'm learning new skills.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-16",
+      "link": "https://www.businessinsider.com/unemployed-months-learn-new-skills-2026-7"
+    },
+    {
+      "id": "39e03df8-2d23-8130-8bc0-f58fd34816de",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-16",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/"
+    },
+    {
+      "id": "39e03df8-2d23-81c6-ab12-db070c27b4b5",
+      "title": "Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser",
+      "summary": "Samsung gave a sneak peek of the \"brand new shape\" for its upcoming Galaxy Z Fold 8 in a new teaser for Spider-Man: Brand New Day. The video includes a few shots of Spidey taking a foldable phone off a 3D printer and opening it book-style, but each shot is heavily obscured by lens flares. […]",
+      "source": "The Verge",
+      "publishTime": "2026-07-16",
+      "link": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser"
+    },
+    {
+      "id": "39e03df8-2d23-810a-85a6-d5bcc63570a4",
+      "title": "Why 9 planes had to declare an emergency above one of Europe's busiest airports",
+      "summary": "14 flights scheduled to land at London Gatwick Airport were diverted after a British Airways plane was met by emergency vehicles on the runway.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-16",
+      "link": "https://www.businessinsider.com/why-9-planes-declared-emergencies-near-london-gatwick-airport-2026-7"
+    },
+    {
+      "id": "39e03df8-2d23-81c8-9d5e-e79e6df78d70",
+      "title": "OpenAI's new $230 mini keyboard is for Codex power users",
+      "summary": "OpenAI launched Codex Micro, a shortcut keyboard for users of its AI coding product. It was engineered by Work Louder and priced at $230.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-16",
+      "link": "https://www.businessinsider.com/openai-codex-micro-shortcuts-agent-work-louder-2026-7"
+    },
+    {
+      "id": "39e03df8-2d23-8152-939b-e646fefe3c2f",
+      "title": "OpenAI finally launches hardware… for Codex",
+      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-s",
+      "source": "The Verge",
+      "publishTime": "2026-07-16",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch"
+    },
+    {
+      "id": "39e03df8-2d23-8145-abac-eb8de6076b22",
+      "title": "第四条 737 生产线启用，波音美国两座工厂将同时生产 737",
+      "summary": "IT之家 7 月 15 日消息，波音中国今日宣布，波音团队已于 7 月 10 日通过接力赛和剪彩仪式庆祝位于华盛顿州埃弗雷特的 737“北生产线（北线）”正式启用。据介绍，伦顿工厂和埃弗雷特工厂将同时生产 737。而随着北线投产，737 进入了 50 多年来首次在伦顿之外生产的阶段。IT之家从波音中国了解到，北线是 737 项目的第四条生产线，投资高达 10 亿美元。北线将着重生产 737-8、-9 和-10。目前，737 MAX 储备订单已超过 4000 架，现有订单的生产排期已经进入 2030 年代。波音公司总裁兼首席执行官凯利 · 奥特伯格表示，北线将成为 737 项目长期成功的重要一环",
+      "source": "IT之家",
+      "publishTime": "2026-07-15",
+      "link": "https://www.ithome.com/0/977/247.htm"
+    },
+    {
+      "id": "39e03df8-2d23-816e-a6d2-c8159a82f863",
+      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
+      "summary": "Stripe and private equity firm Advent International have reportedly submitted a joint bid to acquire PayPal in a deal valued at approximately $53.4 billion. Reuters reports that the offer was submitted earlier this month and is backed by roughly $50 billion in committed bank financing. Under the pro",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-15",
+      "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/"
+    },
+    {
+      "id": "39e03df8-2d23-8126-bef1-ca1ee69bdc7a",
+      "title": "Daylight saving time is a step closer to becoming permanent in the US",
+      "summary": "The US is getting closer to observing daylight saving time year-round. On Tuesday, the House advanced the Sunshine Protection Act on a 308 to 117 vote, which would turn clocks one hour ahead permanently, as reported by CBS News. President Donald Trump wrote on Truth Social in May that the bill would",
+      "source": "The Verge",
+      "publishTime": "2026-07-15",
+      "link": "https://www.theverge.com/policy/965952/daylight-saving-time-permanent-us-house"
+    },
+    {
+      "id": "39e03df8-2d23-8112-8dd4-c62feb659676",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most impor",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-15",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
+    },
+    {
+      "id": "39e03df8-2d23-812f-b98d-fa509fce0796",
+      "title": "民航局：上半年，实名登记无人机总数突破 478.8 万架",
+      "summary": "IT之家 7 月 15 日消息，据民航局网站消息，2026 年全国民航年中工作电视电话会议今日在京召开。民航局局长宋志勇指出：上半年，全行业完成运输总周转量 833.7 亿吨公里、旅客运输量 3.8 亿人次、货邮运输量 507.3 万吨，同比分别增长 6.4%、1%、6%。完成运输飞行 714.6 万小时、268.3 万架次，人为原因责任征候万时率同比下降 20.6%。航班正常率 93.5%，千万级机场近机位靠桥率 87.5%。实名登记无人机总数突破 478.8 万架，累计飞行 2641.4 万小时，同比增长 8%。图源：Pexels据IT之家此前报道，由中国民航局发布的强制性国家标准《民用无",
+      "source": "IT之家",
+      "publishTime": "2026-07-15",
+      "link": "https://www.ithome.com/0/977/246.htm"
+    },
+    {
+      "id": "39e03df8-2d23-8182-be02-daa6c64c4f18",
+      "title": "Teen babysitters provide a lot more than inexpensive childcare for my kids",
+      "summary": "I built a trusted network of neighborhood teens to help with childcare. My kids gained role models that they look up to and enjoy spending time with.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-15",
+      "link": "https://www.businessinsider.com/local-teens-fill-childcare-gaps-inexpensive-budget-friendly-2026-7"
+    },
     {
       "id": "39e03df8-2d23-8164-9de9-e5aa1392e9ab",
       "title": "JBL&#8217;s Flip 7 speaker is small, versatile, and 40 percent off",
@@ -256,150 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-07-15",
       "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/"
-    },
-    {
-      "id": "39e03df8-2d23-81af-aa28-f650df626690",
-      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-      "summary": "Rime is handling over 100 million calls each month across multiple companies",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-15",
-      "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/"
-    },
-    {
-      "id": "39e03df8-2d23-8111-a408-cd4eefd86e05",
-      "title": "全球化仍势不可挡，硅谷预言家凯文 · 凯利断言中国 5 年内做出最先进 AI 芯片",
-      "summary": "IT之家 7 月 15 日消息，据央视网今日报道，美国著名专栏作家、互联网专家与未来学家凯文 · 凯利日前接受了总台《高端访谈》的专访。凯文 · 凯利展望了人工智能未来在教育领域或将发挥的作用。他表示，全球化仍势不可挡，中国将在其中发挥引领作用。说到人工智能，芯片至关重要。据总台记者王冠回顾，凯文 · 凯利之前在上海曾表示，未来 5 年，中国或许能造出全球最先进的芯片。凯文 · 凯利随后补充称是全球最先进的人工智能芯片。凯文 · 凯利也分享了自己做出这一预测的依据，称自己在中国接触到的工程师们所展现的雄心与能力，以及这项成就的重要性及其影响。自己相信，在中国，这样的发展速度是完全有可能实现的。",
-      "source": "IT之家",
-      "publishTime": "2026-07-15",
-      "link": "https://www.ithome.com/0/977/225.htm"
-    },
-    {
-      "id": "39e03df8-2d23-817e-86a6-e6f3c6811503",
-      "title": "I've traveled all across Europe. One Croatian city won my heart even more than Dubrovnik and Split.",
-      "summary": "I frequently visit and explore Europe, and my favorite city is Zadar, Croatia. There are a ton of activities to do here, and the pace feels relaxed.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-15",
-      "link": "https://www.businessinsider.com/favorite-european-city-in-croatia-zadar-beaches-activities-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-816b-be1e-d366440bf2e6",
-      "title": "We're buying more of Jim Cramer's favorite chip stock for the second time this week",
-      "summary": "We also added to our position on Monday.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-15",
-      "link": "https://www.cnbc.com/2026/07/15/were-buying-more-of-jim-cramers-favorite-chip-stock-for-the-second-time-this-week.html"
-    },
-    {
-      "id": "39e03df8-2d23-81f6-885f-d543d77c1cec",
-      "title": "订单太多忙不过来，消息称三星电子拟将谷歌 TPU I/O 芯片后端设计工作外包",
-      "summary": "IT之家 7 月 15 日消息，据 The Elec 报道，由于晶圆代工需求持续攀升，三星电子内部工程资源日趋紧张，目前正考虑将谷歌 2 纳米张量处理器（TPU）的输入输出（I/O）裸片后端设计工作外包给外部合作方，以此缓解产能与人力压力。多位行业业内消息人士透露，三星近期已接洽旗下设计解决方案合作商（DSP），征询其承接谷歌第十代张量处理器 I/O 裸片后端设计业务的意向。这款代号为“冰鱼（Icefish）”的新一代 TPU，将采用三星 2 纳米工艺制程生产。张量处理器是谷歌自研的人工智能加速芯片，主要为 Gemini 等人工智能模型提供算力支撑。据悉，谷歌正联合联发科共同研发第十代 TPU",
-      "source": "IT之家",
-      "publishTime": "2026-07-15",
-      "link": "https://www.ithome.com/0/977/224.htm"
-    },
-    {
-      "id": "39e03df8-2d23-81d2-b6b1-e380cde67f5c",
-      "title": "Mick Jagger, 82, rejects the idea that aging makes you wiser: 'There's nothing good about it'",
-      "summary": "Mick Jagger declared aging \"not pleasant\" but remains ready to tour with the Rolling Stones for their new album.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-15",
-      "link": "https://www.businessinsider.com/mick-jagger-aging-still-wants-to-tour-rolling-stones-80s-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-8149-bdad-eec726e5728a",
-      "title": "I secured an $849 monthly mortgage payment on my first home in New York. A few years later, I feel trapped by it.",
-      "summary": "I secured a good mortgage rate and low monthly payment on my first home in New York, but I now feel stuck and am taking steps to get out of it.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-15",
-      "link": "https://www.businessinsider.com/got-home-cheap-mortgage-payment-stuck-how-getting-out-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-810f-9c87-eef6a987faad",
-      "title": "长鑫科技：第五代工艺技术平台处于研发阶段，采用进一步优化的多重曝光技术",
-      "summary": "IT之家 7 月 15 日消息，长鑫科技科创板上市网上投资者交流会今日举行。据上海证券报消息，长鑫科技董事长朱一明表示，技术平台方面，公司始终坚持自主研发道路，并通过跳代研发加快技术创新，完成了从第一代工艺技术平台到第四代工艺技术平台的量产。产品方面，公司于 2019 年 9 月推出自主设计生产的 8Gb DDR4 产品，实现了中国大陆 DRAM 产业“从零到一”的突破。截至 2025 年 12 月 31 日，公司已完成 LPDDR4X、DDR5 和 LPDDR5/5X 的开发与量产。IT之家注意到，长鑫科技副总裁、董事会秘书袁园表示，公司第五代工艺技术平台及相关产品目前处于研发阶段。该平台采",
-      "source": "IT之家",
-      "publishTime": "2026-07-15",
-      "link": "https://www.ithome.com/0/977/223.htm"
-    },
-    {
-      "id": "39e03df8-2d23-8187-9b3d-d64577ce4ccb",
-      "title": "Inflation cools, Morgan Stanley earnings, IBM's bad day and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-15",
-      "link": "https://www.cnbc.com/2026/07/15/5-things-to-know-before-the-stock-market-opens.html"
-    },
-    {
-      "id": "39e03df8-2d23-8127-9541-eb9d01b39e30",
-      "title": "Warren Buffett spoke about Bill Gates' Epstein ties — and why he's stopped giving money to the Gates Foundation",
-      "summary": "Warren Buffett said he and Bill Gates have had a \"wonderful friendship,\" but the investor now trusts his kids to distribute his vast fortune.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-15",
-      "link": "https://www.businessinsider.com/warren-buffett-bill-gates-foundation-stock-donation-jeffrey-epstein-philanthropy-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-8112-ac3a-ff318a11c2c7",
-      "title": "东风汽车：行业首发 2400MPa 超高强钢结构件，相关技术已在奕境汽车上搭载应用",
-      "summary": "IT之家 7 月 15 日消息，东风汽车研发总院宣布，2400MPa 超高强钢结构件实现行业首发，新镀层超高强材料激光拼焊一体式门环试制件成功下线。IT之家获悉，该系列材料具有强度高、韧性好、焊接性能优的特点，相关技术已在奕境汽车上搭载应用：强度高：经过热冲压成形之后，产品强度较上一代车型提升 16.2%。在门环 B 柱结构上配合 1500MPa 级吸能过渡区，实现乘员舱刚性与碰撞吸能分区优化。韧性好：通过优化合金成分配比、调控晶粒尺寸和冷却速率等多技术手段，持续提升热成型钢材料性能，在低温环境下依然有良好的材料韧性，韧脆转变温度 DBTT＜-50℃，材料韧性 VDA≥40°。焊接性能优：超高",
-      "source": "IT之家",
-      "publishTime": "2026-07-15",
-      "link": "https://www.ithome.com/0/977/222.htm"
-    },
-    {
-      "id": "39e03df8-2d23-8124-94e2-d8aa78c711ab",
-      "title": "李柯：不靠美国市场，比亚迪五年内也能超越丰田登顶全球销量第一",
-      "summary": "IT之家 7 月 15 日消息，据《金融时报》报道，比亚迪海外业务负责人表示，即便无法进入美国市场，比亚迪仍有望超越丰田，登顶全球汽车销量榜首，这表明比亚迪将加快在欧洲的激进扩张步伐。上月，比亚迪创始人兼董事长王传福宣布，将凭借充电技术飞速迭代与海外市场爆发式增长，计划五年内赶超丰田、拿下全球销量冠军。比亚迪去年整车销量 450 万辆，远低于丰田的 1050 万辆；丰田的高销量得益于其深耕利润丰厚的美国市场，同时持续售卖燃油车型。比亚迪国际业务负责人李柯在接受《金融时报》采访时称：“我们定下这个宏大目标，依靠的是自身内生增长，不靠美国市场也能实现。”李柯还表示，比亚迪无需通过收购车企拉动销量，",
-      "source": "IT之家",
-      "publishTime": "2026-07-15",
-      "link": "https://www.ithome.com/0/977/221.htm"
-    },
-    {
-      "id": "39e03df8-2d23-8158-9e22-cc03ef186785",
-      "title": "Jensen Huang still steps in to settle internal fights over Nvidia's scarce AI chips, executive says",
-      "summary": "The AI giant's automotive boss says teams compete weekly for computing power as demand continues to outstrip supply.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-15",
-      "link": "https://www.businessinsider.com/jensen-huang-settles-fights-over-nvidias-ai-chips-auto-chief-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-816a-aba5-fab80668568a",
-      "title": "The Motorola Edge 70 Max is all about power",
-      "summary": "Motorola has launched the Edge 70 Max, its latest flagship phone that's designed for power intensive tasks like streaming video and mobile gaming. Alongside having a huge battery and rapid wired charging support, the Motorola Edge 70 Max is the first Android phone to support full 25W wireless Qi2 ch",
-      "source": "The Verge",
-      "publishTime": "2026-07-15",
-      "link": "https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability"
-    },
-    {
-      "id": "39e03df8-2d23-813b-8b15-d0ace934058b",
-      "title": "唯卓仕发布 AF 26mm F2.8 EVO 全画幅饼干镜头：索尼 FE / 尼康 Z 卡口，1399 元",
-      "summary": "IT之家 7 月 15 日消息，唯卓仕今晚发布了 AF 26mm F2.8 EVO FE/Z 镜头，售价 1399 元。新镜头厚约 23.8mm，重约 130g（均为 E 卡口数据）；采用 6 组 8 片光学结构，搭载 STM + 齿轮形对焦马达，最近对焦距离 0.2m；搭载磁吸镜头前盖，遮光罩预留滤镜（43mm 口径）安装槽；卡口采用防尘防泼溅设计。IT之家附这款镜头详细参数如下：京东唯卓仕 AF 26mm F2.8 EVO FE 索尼口 1399 元直达链接",
-      "source": "IT之家",
-      "publishTime": "2026-07-15",
-      "link": "https://www.ithome.com/0/977/219.htm"
-    },
-    {
-      "id": "39e03df8-2d23-81bd-8fde-e9429f55501d",
-      "title": "OPPO 回应获端侧 AI 服务备案：后续目标实现更个性化的主动智能体验",
-      "summary": "IT之家 7 月 15 日消息，今日，网信办发布 7 款手机端侧生成式人工智能服务备案信息，包括 Apple、华为、OPPO 等端侧模型在列。据《科创板日报》报道，针对 OPPO AndesGPT 大模型完成端侧生成式人工智能服务备案，OPPO 方面回应《科创板日报》称：端侧 AI 是 OPPO 重要的技术战略方向之一。未来，OPPO 将继续依托安第斯大模型及相关技术积累，稳妥推进大模型能力与智能终端融合。OPPO AI 和小布助手也将实现更个性化的主动智能体验。据IT之家了解，AndesGPT 是 OPPO 旗下安第斯智能云团队研发的生成式大语言模型，基于混合云架构，融合中文对话数据的持续学",
-      "source": "IT之家",
-      "publishTime": "2026-07-15",
-      "link": "https://www.ithome.com/0/977/218.htm"
-    },
-    {
-      "id": "39e03df8-2d23-8170-b85e-c79109a70f1d",
-      "title": "Inside Anthropic's state-by-state plan to ratchet up AI rules",
-      "summary": "By pushing for ever-tougher AI safety laws, Anthropic is drawing a distinction between its state lobbying strategy and OpenAI's campaign to streamline a set of rules across the country.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-15",
-      "link": "https://www.businessinsider.com/anthropic-openai-ai-safety-laws-state-lobbying-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-815f-b9b9-e9275a5b79d7",
-      "title": "消息称面壁智能 MiniCPM 系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型",
-      "summary": "IT之家 7 月 15 日消息，今日，网信办发布 7 款手机端侧生成式人工智能服务备案信息，包括 Apple 智能、华为小艺 AI 大模型、OPPO Andes GPT、vivo 蓝心端侧大模型、小米澎湃 AI、三星盖乐世 AI 以及努比亚豆包手机大模型。据《智能涌现》报道，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的 MiniCPM 系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。面壁智能 2022 年 8 月在北京成立，孵化自清华大学自然语言处理实验室。联合创始人、CEO 李大海曾任知乎合伙人、CTO；联合创始人、首席科学家刘知远现任清华大学计算机系教授；联合创始人、CTO",
-      "source": "IT之家",
-      "publishTime": "2026-07-15",
-      "link": "https://www.ithome.com/0/977/217.htm"
     }
   ],
   "macroEvents": [
