@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-07-17 04:25",
+  "updatedAt": "2026-07-17 05:31",
   "news": [
+    {
+      "id": "39f03df8-2d23-812d-867c-dc6d6a7ee9c2",
+      "title": "Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed",
+      "summary": "As wildfire smoke threatens air quality and safety for millions, here’s your playbook to keep your family safe from the damaging effects of smoke.",
+      "source": "Wired",
+      "publishTime": "2026-07-17",
+      "link": "https://www.wired.com/story/wildfire-smoke-safety-guide/"
+    },
+    {
+      "id": "39f03df8-2d23-81aa-b8af-cc336aaca353",
+      "title": "Netflix says around 300 titles used generative AI",
+      "summary": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher quality output more qu",
+      "source": "The Verge",
+      "publishTime": "2026-07-17",
+      "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings"
+    },
+    {
+      "id": "39f03df8-2d23-81c4-b2a5-cbd8843b95fe",
+      "title": "Netflix shares fall 8% after a lukewarm earnings report and a shake-up to how it shares viewing data",
+      "summary": "Netflix underwhelmed Wall Street with its second-quarter earnings report, though engagement grew modestly.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-17",
+      "link": "https://www.businessinsider.com/netflix-second-quarter-earnings-engagement-report-short-form-video-2026-7"
+    },
+    {
+      "id": "39f03df8-2d23-8166-bd53-f9b21274b75d",
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-17",
+      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/"
+    },
     {
       "id": "39f03df8-2d23-81ec-bda5-f60e8f38b727",
       "title": "Why are CD sales suddenly growing again?",
@@ -368,38 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-07-16",
       "link": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/"
-    },
-    {
-      "id": "39f03df8-2d23-8103-ad4a-f0f15fa09c25",
-      "title": "中国无人车首入中亚，百度萝卜快跑将驶入哈萨克斯坦",
-      "summary": "IT之家 7 月 16 日消息，在 2026 世界人工智能大会（WAIC）召开前夕，百度今日宣布，中国无人驾驶出行服务平台萝卜快跑与哈萨克斯坦企业 Turlov Private Holding Ltd.（TPH）在上海签署战略合作协议。这意味着中国无人车首次进入了中亚市场。据百度披露，截至今年 5 月，萝卜快跑已在全球 27 座城市落地，覆盖迪拜、阿布扎比等多个海外地区，累计完成超 2200 万次服务。据IT之家今年 6 月 16 日报道，萝卜快跑已在瑞士获得 L4 级自动驾驶出租车运营许可，其许可覆盖瑞士东部 80 平方公里范围，涉及圣加仑、外阿彭策尔和内阿彭策尔三大州。路试已于 6 月 1",
-      "source": "IT之家",
-      "publishTime": "2026-07-16",
-      "link": "https://www.ithome.com/0/977/802.htm"
-    },
-    {
-      "id": "39f03df8-2d23-8105-b709-eb130db3e6b3",
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-16",
-      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
-    },
-    {
-      "id": "39f03df8-2d23-8183-ba87-fc15b4f600b3",
-      "title": "The oldest bar in every state",
-      "summary": "Some of the nation's oldest bars, taverns, and saloons date before the US even declared independence. See each state's oldest bar.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/oldest-bar-every-state"
-    },
-    {
-      "id": "39f03df8-2d23-81c8-ab8f-e160a6369709",
-      "title": "统一标准、智能通知、场景化规范，vivo、小米、OPPO、荣耀共建公平运存机制",
-      "summary": "IT之家 7 月 16 日消息，2026 金标联盟开发者沙龙今日在北京举行，vivo、小米、OPPO、荣耀共建“公平运存机制”，旨在公平分配内存运行资源、统一规则降低适配成本、构建良性可持续终端生态。针对安卓用户面临的运行卡顿、设备发热、切换重加载问题，vivo、小米、OPPO、荣耀共建的公平运行内存机制将进行高效调度，让体验改善形成正循环，核心内容包括：统一标准：建立清晰的内存使用区间参考，让优化目标有据可依；智能通知：在内存紧张时，系统会主动通知应用进行资源释放，减少对用户体验的直接影响；场景化规范：明确特殊场景下的用户通知规则，最大限度减少对用户的打扰。参考IT之家此前报道，据博主 @懒",
-      "source": "IT之家",
-      "publishTime": "2026-07-16",
-      "link": "https://www.ithome.com/0/977/801.htm"
     }
   ],
   "macroEvents": [
