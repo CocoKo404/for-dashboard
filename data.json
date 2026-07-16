@@ -1,6 +1,286 @@
 {
-  "updatedAt": "2026-07-16 08:59",
+  "updatedAt": "2026-07-16 12:36",
   "news": [
+    {
+      "id": "39f03df8-2d23-8192-8fb8-e0fb20ef54cb",
+      "title": "我国首艘自主建造的海缆施工船入列，海底通信光缆装载量世界第一",
+      "summary": "IT之家 7 月 16 日消息，据央视新闻今日报道，我国自主设计建造的首艘深海型、智能化海缆施工船 ——“天翼领航者”号昨天（15 日）在上海正式入列并开展全系统海缆施工试验，为算力和人工智能发展奠定了坚实的基础。“天翼领航者”号船长 116 米，具备在全球海域进行海缆铺设、维护与检修的综合能力。船宽 24 米，型深 12 米，满载排水量 18000 吨，其缆舱可装载 8000 吨海底通信光缆，居世界首位。这艘海缆施工船融合北斗卫星与 GPS 双模定位，配备了智能动力定位系统，可通过先进的数字式风速传感器、位置传感器等设备，能实时感知海流、风浪的细微变化，在 5 级海况下也能保持稳定作业。IT",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/315.htm"
+    },
+    {
+      "id": "39f03df8-2d23-8175-b000-cfdef60f823a",
+      "title": "一加被曝将在印度重启 4G 手机产品线，瞄准入门至中端市场",
+      "summary": "IT之家 7 月 16 日消息，Smartprix 今日援引消息人士的话称，一加计划在印度市场推出一款全新的 4G 智能手机。在 5G 手机已成为市场主流的背景下，这一产品规划引起了外界关注。爆料称，在当前市场环境下，5G 基带及相关射频组件仍会增加整机成本，因此对于价格敏感型产品而言，推出仅支持 4G 网络的机型，可以为厂商节省部分硬件预算，并将成本投入到屏幕、电池、存储容量或影像等其他配置上，以满足预算有限消费者对于续航、流畅度等基础体验的需求。消息人士表示，一加希望借助这一策略进一步强化印度 2.5 万卢比（IT之家注：现汇率约合 1760 元人民币）以下价位市场的竞争力。此次产品策略调",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/314.htm"
+    },
+    {
+      "id": "39f03df8-2d23-8154-bbc4-d99c300bb486",
+      "title": "银昕推出 Vital Force Rz 电源：ATX 3.1 白金全模组，120mm 风扇",
+      "summary": "IT之家 7 月 16 日消息，SilverStone（银欣 / 银昕）现已推出 Vital Force Rz 电源，850W 到手价 749 元、1200W 到手低至 967 元。这一系列采用标准 140mm 长度 ATX 外形规格，符合 ATX 3.1 规范，采用全模组线材设计，得到 80 PLUS 白金能效认证。Vital Force Rz 搭配压纹线材，选用全日系电解电容，内建支持智能停转的 120mm 规格 HMB 轴承风扇。其模组面板提供原生 12V-2×6 输出，EPS 8-Pin 和 PCIe 8-Pin 采用“可盲插”通用接头接口。该系列电源提供标准 6 大安全保护措施，操作",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/313.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81a3-b3a8-fa1983fad2d9",
+      "title": "兰博基尼：电动汽车技术“不够成熟”，客户没有购买兴趣",
+      "summary": "IT之家 7 月 16 日消息，兰博基尼 Urus 和 Lanzador 产品总监斯特凡诺 · 科萨尔特证实，原定作为品牌首款纯电车型推出的 Lanzador 将改用插混动力，兰博基尼真正的首款纯电车型则不会早于 2030 年问世。兰博基尼给出的理由是，客户不愿购买电车，现阶段的技术也还不够成熟。Lanzador 概念车于 2023 年蒙特雷汽车周亮相，当时被定位为纯电动 2+2 座豪华旅行车，不仅将成为兰博基尼第四条产品线，也承担着品牌首款纯电车型的角色。三年过去，最初规划几乎已不复存在。科萨尔特告诉《What Car?》，Lanzador 量产版将采用插混动力，预计会使用 Urus 所搭载",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/311.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81eb-82dd-f6e686090561",
+      "title": "《使命召唤：现代战争 4》游戏将取消“散布”机制，增强玩家对武器掌控力",
+      "summary": "IT之家 7 月 16 日消息，在 Infinity Ward 今天（7 月 16 日）发布的官方介绍视频中，《使命召唤：现代战争 4》游戏将彻底取消“武器散布”（weapon bloom）机制。IT之家注：武器散布是射击游戏中的一种命中偏移机制。玩家移动、连续射击或特定动作后，准星会扩大，子弹可能在瞄准点周围随机分布。该机制常用于限制武器稳定性，常见于多人射击游戏的步枪、冲锋枪和腰射场景。在官方介绍视频中，《使命召唤：现代战争 4》游戏将彻底取消该游戏机制，武器后坐力会匹配子弹轨迹。 游戏武器设计师科迪 · 皮尔森（Cody Pierson）解释表示：在游戏中，你对武器的掌控力达到前所未有的",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/312.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81d7-b05b-f9b99965df11",
+      "title": "半年工期取代两年土建，中国“预制变电站”全球爆单",
+      "summary": "IT之家 7 月 16 日消息，全球算力、数据中心及终端设备需求的持续扩张，正带动我国相关电力设备出口迎来显著增长。据央视报道，海外市场对变压器等电力设备和预制舱变电站的需求大幅增加。我国出口的最高电压等级预制舱变电站已在阿曼成功送电。在阿曼，一座 400 千伏预制舱变电站已成功送电。该变电站分为 4 座功能独立、系统协同的集成预制舱，整体由 24 个标准化功能模块拼装组成，全部在中国完成设计、生产、组装与系统联调。这些模块运抵阿曼后，如同搭积木般进行拼接与系统连接。IT之家注意到，相较于传统变电站建设所需的大规模土建与调试，这种预制模块化方式大幅缩短了建造时间。据山东青岛特锐德电气股份有限公",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/310.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81a4-9778-d812c5742d58",
+      "title": "地震预警 App 被质疑会员优先推送消息，成都高新减灾研究所发布整改公告",
+      "summary": "IT之家 7 月 16 日消息，据光明网 7 月 15 日报道，消息称使用苹果手机打开由成都高新减灾研究所研发的“地震预警”App 时，在地震发生后进入软件，首页会强制弹出开屏广告，需要手动点击“跳过”才能进入。还有网友发现，VIP 用户拥有“预警信息加速通道”，服务器优先推送预警。针对质疑，成都高新减灾研究所昨日晚间发布关于地震预警 App 的情况说明及整改公告，表示高度重视，第一时间全面复盘、自查整改，作出致歉。公告称，面向公众的核心地震预警推送、灾害提醒等安全功能，对所有用户免费开放、无差别推送、不设置任何付费门槛与权限限制。只要用户正常开启 App 通知、权限设置，达到预警触发标准即可",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/309.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81b4-b03b-f08e0ca063ef",
+      "title": "比亚迪英国总经理葛洪德：已有用户取消迈凯伦、法拉利订单，转购腾势 Z 赛道版",
+      "summary": "IT之家 7 月 16 日消息，当地时间 7 月 10 日，比亚迪在英国分公司举行媒体沟通会，比亚迪集团品牌及公关处总经理李云飞、比亚迪英国总经理葛洪德出席。葛洪德透露，比亚迪的核心标签是“高科技”与“高端”，在门店端采用“五步体验法”：NFC 钥匙解锁、语音唤醒及旋转屏展示、车载卡拉 OK 互动、V2L 外放电制作咖啡、最后与用户深度交流。看似保守的英国人，对卡拉 OK 互动反馈积极。此外，闪充技术和二代刀片电池的传播效果显著，进一步强化了“科技”标签；配置上坚持“一步到位”，减少用户选配负担，传递“高级”印象。葛洪德认为，英国市场的优势在于市场开放性和清晰的电动化时间表（2035 年实现 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/307.htm"
+    },
+    {
+      "id": "39f03df8-2d23-8103-bbf9-f3301fbd0eb7",
+      "title": "吴新宙：英伟达的芯片自己也不够用，黄仁勋会介入调解内部纷争",
+      "summary": "北京时间 7 月 16 日，据《商业内幕》报道，就连英伟达也无法完全避免 AI 芯片短缺的影响。据英伟达汽车业务负责人吴新宙透露，该公司的汽车部门至今仍需要在内部竞争，以获得那些让英伟达成为全球市值最高公司的 GPU。吴新宙在周一播出的 The Verge 播客节目《Decoder》中表示：“即使在英伟达，我们用于计算的 GPU 供应实际上也是有限的。”黄仁勋随着 AI 公司建设大规模数据中心，英伟达芯片的需求持续激增。吴新宙表示，英伟达内部不同团队也经常需要竞争，以获得训练和测试自身 AI 模型所需的计算资源。吴新宙表示：“我们有一套内部优先级机制。我基本上每周都要和同事们协调，决定如何分配",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/305.htm"
+    },
+    {
+      "id": "39f03df8-2d23-8199-8c62-ee36efa904ff",
+      "title": "90 天倒计时：微软提醒 Win11 24H2 家庭版与专业版 10 月结束支持",
+      "summary": "IT之家 7 月 16 日消息，科技媒体 Neowin 昨日（7 月 15 日）发布博文，报道称微软发布 90 天倒计时提醒，指出 Windows 11 24H2 家庭版与专业版将于 2026 年 10 月 13 日结束支持。IT之家援引博文介绍，微软消息中心昨日发布公告，宣布将于 2026 年 10 月 13 日结束支持 Windows 11 24H2 家庭版与专业版，以及 Windows 10 Enterprise LTSB 2016 版本。按微软既有产品周期，Windows 11 家庭版与专业版每个版本提供 24 个月（2 年）支持，若设备运行 Windows 11 24H2 企业版或教",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/304.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81d9-92f3-ee934858d5ba",
+      "title": "消息称 ASML 计划提高芯片制造设备定价，引发台积电不满",
+      "summary": "IT之家 7 月 16 日消息，外媒 The Information 当地时间 15 日报道称，ASML 计划提高其芯片制造设备定价，引发台积电不满。有消息传出，其已向部分客户通知 DUV 光刻机将涨价 10%。ASML 是世界唯一的尖端光刻图案化设备供应商，其光刻机产能在很大程度上左右了全球半导体前端新增产能规模。ASML 设立了 Low NA EUV 和 DUV 光刻机产量未来 2 年持续同比增长 30% 的展望，但对于 AI 产业对半导体产能的强劲需求来说这仍显不足。ASML 首席财务官 Roger Dassen 在当地时间昨日的企业 2026Q2 财报电话会议上表示：“我们一直在提高 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/302.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81f4-b3a4-dbff9d8f5d15",
+      "title": "比亚迪发布三大系列电摩、电动自行车磷酸铁锂电池，最高 76V 60Ah",
+      "summary": "IT之家 7 月 16 日消息，比亚迪轻型车用电池 7 月 14 日 ~15 日在河南郑州举办为期两天的品牌赋能峰会，启动轻型车用电池锂电 2.0 战略，并发布覆盖全场景的三大新品系列 —— U 越系列、骑行堡垒 S、骑行堡垒 Ultra。U 越系列针对日常通勤代步用户打造，180mm 宽度，针对性适配主流车型脚踏仓空间；减重 2kg，提拿更省力户外时尚塑胶外壳，多色可选，告别传统“黑盒子”。U 越系列可选四个版本，其中 76V 24Ah 版本定价 1978 元，76V 30Ah 版本定价 2498 元。京东比亚迪电动车锂电池 76V 24Ah1978 元直达链接京东比亚迪电动车锂电池 76V",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/303.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81ec-9489-ff84a1824838",
+      "title": "涉嫌“串通价格”：澜起科技、瑞萨电子、Rambus 内存接口芯片三强遭韩国调查，三家合计全球市场份额超 93%",
+      "summary": "IT之家 7 月 16 日消息，当地时间 7 月 15 日，韩国首尔中央地方检察厅公平交易调查部（部长检察官罗熙锡）以涉嫌违反《公平交易法》为由，对中国澜起科技、日本瑞萨电子以及美国 Rambus 三家半导体企业的韩国办事处进行了搜查。这三家公司是全球内存接口芯片（Memory Interface Chip，MIC）市场的主要供应商，共同客户包括三星电子、SK 海力士及美光等全球存储器半导体巨头。据韩国法律界消息，检方自行发现了这三家企业在向三星电子等客户供应内存接口芯片过程中涉嫌事先串通供货价格的线索，并由此启动强制调查。内存接口芯片是连接 CPU、GPU 与 DRAM 之间的关键零部件，负",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/301.htm"
+    },
+    {
+      "id": "39f03df8-2d23-8171-a639-f947dc340e27",
+      "title": "Linux 之父托瓦兹回应 AI 争议：不同意使用者可 Fork 或离开",
+      "summary": "IT之家 7 月 16 日消息，科技媒体 Neowin 昨日（7 月 15 日）发布博文，报道称 Linux 创始人林纳斯 · 托瓦兹（Linus Torvalds）在内核讨论社区发飙，针对 AI 争议表示“要么 Fork 要么离开”。fork（项目分叉）是开源开发中的常见机制，指基于现有项目代码库复制出独立版本，并按新的治理规则继续开发。典型应用场景包括技术路线分歧、社区治理冲突或许可证需求变化。林纳斯 · 托瓦兹（Linus Torvalds），图源：WikiMediaIT之家援引博文介绍，本次争议的导火索是补丁审查机器人 Sashiko。Sashiko 是 Linux 基金会旗下的开源项",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/300.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81e8-9928-ec50b08bb9c2",
+      "title": "超 2000 马力新一代“赛道猛兽”：新款小米 SU7 Ultra 现身，或命名为 Extreme",
+      "summary": "IT之家 7 月 16 日消息，当地时间 15 日，外媒 AutoEvolution 公布了一组小米 SU7 最新车型的路试谍照，并称这款新车将是 SU7 Ultra 的“最极限”版本，全新的“赛道猛兽”。消息称这款车型将采用限量版形式推出，或命名为 SU7 Ultra Extreme，并配备多项醒目的空气动力学部件，拥有巨大的后扰流板，以及采用大型鳍片、用于减少气流扰动的后扩散器。车头造型比现款 SU7 Ultra 更具攻击性，配备尺寸更大的扰流翼片和前轮拱新通风口。尺寸更大的后扰流板和竞赛级后扩散器表明，新车的性能将会超过现款车型。IT之家从报道中获悉，传闻显示其功率可能超过 2000 马",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/299.htm"
+    },
+    {
+      "id": "39f03df8-2d23-8109-8d97-d319b56c27e2",
+      "title": "消息称欧盟拟因一系列违规行为对谷歌合计罚款数亿欧元",
+      "summary": "IT之家 7 月 16 日消息，英国《金融时报》昨日报道称，欧盟委员会内部文件显示欧盟计划在未来一周公布一系列针对 Google（谷歌）的决定，对这家美国科技巨头处以数亿欧元级别的罚款。图源：Pixabay谷歌遭遇处罚的原因是其未能遵守《数字市场法案》（DMA 法案）：谷歌在搜索引擎结果中偏袒自家服务，使其排名高于竞争对手；另一方面，谷歌阻碍应用开发者引导用户转向 Google Play 之外的移动应用程序生态系统。若谷歌未能在 60 天内满足 DMA 法案的相关规定，则其还面临被处以定期罚款的风险。此外，欧盟还将在本周就谷歌是否必须向第三方搜索引擎开放搜索数据（含排名、查询、点击、浏览）进行",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/298.htm"
+    },
+    {
+      "id": "39f03df8-2d23-810a-a900-caf5008f979b",
+      "title": "还特斯拉清白：NTSB 确认美国得州车祸中驾驶员电门踩到 100%，FSD 没有控制权",
+      "summary": "IT之家 7 月 16 日消息，当地时间 7 月 15 日，美国国家运输安全委员会（NTSB）公布了一份针对 6 月特斯拉致命车祸的初步调查报告。报告证实，事故发生时驾驶员将加速踏板踩至 100%，从而覆盖了“FSD（Supervised）”的控制权。这起事故发生于 2026 年 6 月 19 日晚约 8 时，地点位于得克萨斯州哈里斯县凯蒂市（Katy）罗斯霍洛巷（Rose Hollow Lane）的一处住宅区。44 岁的驾驶员迈克尔 · 巴特勒（Michael Butler）驾驶一辆 2025 款特斯拉 Model 3，在限速 30 英里 / 小时（约 48.3 公里 / 小时）的双车道居民",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/296.htm"
+    },
+    {
+      "id": "39f03df8-2d23-813b-a452-fcf359a30057",
+      "title": "我国首个水风光一体化智慧运营大模型发布",
+      "summary": "IT之家 7 月 16 日消息，据央视新闻今日报道，从国投集团雅砻江公司获悉，我国首个水风光一体化智慧运营大模型在四川雅砻（IT之家注读音：yǎ lóng）江流域正式发布。这个大模型最大的技术突破是打通了气象、水文、风光资源预测和电力实际运行决策全流程，成为千万千瓦级清洁能源大基地的“智慧大脑”。这套系统最突出的优势就是数据整合能力极强，汇聚了卫星遥感、地面气象监测站、流域水文测站、新能源场站传感设备等海量基础数据，搭建起覆盖全流域、全资源要素、多时间尺度、发电－调度－运维－交易全业务链条的一体化智能预报体系。经过海量实景数据训练、高原复杂场景专项优化后，预报能力实现跨越式升级。中国科学院外籍",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/295.htm"
+    },
+    {
+      "id": "39f03df8-2d23-817c-87f4-cd2404fa3043",
+      "title": "歌尔丹拿与 IMAX 达成战略合作，全球首款 IMAX 车载娱乐系统预计年底落地",
+      "summary": "IT之家 7 月 16 日消息，歌尔丹拿、IMAX 及 IMAX China 今天（16 日）宣布达成战略合作，正式推出全球首款 IMAX 车载娱乐系统。该系统由歌尔丹拿与 IMAX 独家合作设计，首批系统预计将于 2026 年底产业化落地，歌尔丹拿与 IMAX 将面向中国高端汽车制造商共同推广该系统。该全新系统采用 IMAX 专属增强声学架构，专为实现超高动态范围和低频性能而设计，带来澎湃强劲、纯净无失真的低频响应。同时配备经 IMAX 认证的智能显示系统，采用大尺寸 4K HDR 翻折式显示屏，并搭载定制开发的显示技术，可精准呈现纤毫毕现的电影画面细节，并借助智能环境光感模式，可根据不断变",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/294.htm"
+    },
+    {
+      "id": "39f03df8-2d23-8154-a7a2-c3fd24d79e29",
+      "title": "Suno 接入 iMessage：苹果 iPhone 17 等用户可在聊天内 AI 生成歌曲",
+      "summary": "IT之家 7 月 16 日消息，科技媒体 9to5Mac 昨日（7 月 15 日）发布博文，报道称已安装 Suno 应用的 iPhone 用户无需离开对话界面，可以直接在 iMessage 中通过文本提示或语音备忘录生成歌曲。IT之家注：Suno 是主流 AI 歌曲生成平台之一，目前全球拥有超过 200 万付费用户，每天生成超过 700 万首歌曲。 在 7 月 7 日更新的 Suno 应用版本中，在 iMessage 应用抽屉中新增功能入口，用户可在对话界面内调用该扩展，通过文本提示生成歌曲，也可用语音备忘录触发生成。在新上线的 iMessage 场景中，用户可先选择音乐流派，再触发歌曲生成。",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/293.htm"
+    },
+    {
+      "id": "39f03df8-2d23-8115-93ae-e5bad4967769",
+      "title": "为测试 Win11 共享音频功能，微软专门搭建了一座“飞机客舱”",
+      "summary": "IT之家 7 月 16 日消息，微软设计与研究负责人 Marcus Ash 于 7 月 11 日在 X 上发帖，回顾了微软此前在研发 Windows 11“共享音频（Shared Audio）”功能过程中的一项幕后细节。为了让这一功能能够更贴近真实使用环境，而不仅仅停留在实验室测试阶段，微软专门搭建了一座全尺寸的飞机客舱模型。据介绍，这一测试思路来自微软设计与研究团队，希望通过尽可能接近真实生活场景的用户研究，进一步完善产品体验。Marcus Ash 表示：“大量的设计和研究工作，核心在于尽可能地贴近那些真实的瞬间。观察、模拟、构建原型并理解体验背后的场景，这正是我们所做的。”他透露，团队最初",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/290.htm"
+    },
+    {
+      "id": "39f03df8-2d23-817a-89c9-fdae16fdcebc",
+      "title": "苹果和 OpenAI 商业纠纷细节：2 封关键邮件、13 分钟间隔与 1 次姓名混淆",
+      "summary": "IT之家 7 月 16 日消息，NBC 昨日（7 月 15 日）发布博文，在苹果和 OpenAI 公司的商业纠纷案件中， 2 封关键邮件、13 分钟间隔与 1 次姓名混淆，构成双方起诉前沟通受阻的核心细节。IT之家本月报道，苹果公司上周在美国加州北区联邦法院起诉 OpenAI，指控该公司数名员工窃取未发布产品、零部件和供应商关系等高级商业机密。诉讼文件指出，苹果在 2026 年 2 月曾致函 OpenAI，要求说明防范措施、调查情况与补救安排，但 OpenAI“从未回应”。NBC News 调查后发现，首封邮件发于美国当地时间 2026 年 2 月 23 日 17 时 53 分，苹果外部律师 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/291.htm"
+    },
+    {
+      "id": "39f03df8-2d23-816a-9483-f3afb821ee2e",
+      "title": "消息称微软主动出击推销自家 AI，销售要掌握 OpenAI、谷歌、Anthropic 的不足",
+      "summary": "IT之家 7 月 16 日消息，据彭博社 15 日报道，微软有望准备改变 AI 产品的销售打法，让销售团队更直接地与行业主要对手展开竞争。当地时间 14 日，微软高管召开新财年内部战略会议，要求销售人员在推销微软 AI 产品时，主动指出 OpenAI、谷歌和 Anthropic 等竞争对手产品的不足。微软希望销售团队重点强调自研模型在运行效率和成本效益方面的优势。微软执行副总裁杰伊 · 帕里克在会上表示：“其他公司出售的只是零散部件，我们提供的是一整套端到端系统。2027 财年，所有人都要向市场讲清楚完整系统的优势。”微软执行副总裁雅各布 · 安德烈乌提出了更加直接的竞争策略，并在演示中把 C",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/292.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81cd-a25b-fb9e1daa7147",
+      "title": "派早报：国行版 Apple Intelligence 完成备案等",
+      "summary": "阿里发布实时语音模型 Qwen-Audio-3.0-Realtime、腾龙发布 12-20mm F2.8 镜头等。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-07-16",
+      "link": "https://sspai.com/post/112373"
+    },
+    {
+      "id": "39f03df8-2d23-81a5-a68f-ec373d492bcc",
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-16",
+      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/"
+    },
+    {
+      "id": "39f03df8-2d23-818c-8f9b-c8e35d7b3eb3",
+      "title": "xAI 罕见起诉一名 Grok 用户，因其滥用 AI 生成儿童性虐待图片、视频",
+      "summary": "IT之家 7 月 16 日消息，据路透社报道，埃隆 · 马斯克旗下 AI 初创公司 xAI 对南卡罗来纳州男子特里 · 哈伍德提出诉讼。哈伍德今年 2 月因涉嫌性剥削未成年人被捕，xAI 指控他滥用 Grok 生成儿童性虐待材料。当地时间周二，xAI 向得克萨斯州一家联邦法院提交诉状，指控哈伍德违反服务条款。AI 公司主动起诉用户涉嫌利用 AI 生成色情内容的案例，此前极为少见。诉讼提交之际，xAI 正因 Grok 的内容安全问题受到全球审视。外界指控 Grok 允许用户制作未经当事人同意的色情深度伪造内容，包括由 AI 生成、外观逼真的虚假视频。xAI 在诉状中提到，公司会暂停或终止违规账户",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/289.htm"
+    },
+    {
+      "id": "39f03df8-2d23-818e-b961-f1b4b4a39e7d",
+      "title": "诺兰再登神坛？《奥德赛》首映烂番茄评分 97%，全球首部全程使用 IMAX 胶片拍摄的电影",
+      "summary": "IT之家 7 月 16 日消息，环球影业出品的史诗巨制《奥德赛》今日起在全球各地陆续公映（中国大陆要等到 8 月 14 日）。该影片于 7 月上旬在伦敦举行了全球首映礼，首批影评今日解禁。截至目前，这部影片在 Metacritic 上的评分达到了 88 分（54 条影评），烂番茄新鲜度 97%（186 条影评），IMDb 暂未开分。这部由克里斯托弗 · 诺兰执导、马特 · 达蒙领衔主演的作品，是诺兰继《奥本海默》之后的首部新作，也是他职业生涯中投资规模最大的电影 —— 制作成本高达 2.5 亿美元（IT之家注：现汇率约合 16.96 亿元人民币）。《奥德赛》改编自古希腊诗人荷马的同名史诗，讲述",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/288.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81d5-bef8-df4f50c1fc07",
+      "title": "苹果更新地图 Apple Maps 广告投放条款：明确禁投家政服务等内容",
+      "summary": "IT之家 7 月 16 日消息，科技媒体 AppleInsider 昨日（7 月 15 日）发布博文，报道称苹果更新地图（Apple Maps）广告策略，明确禁止投放保释担保、加密货币 ATM、家政服务及政治广告，此外医疗服务广告则按个案审核。根据 7 月 14 日修订生效的 Apple Maps 地图广告指引，首次明确禁止投放保释担保服务、加密货币 ATM 和家政服务（涵盖管道维修、电工、暖通空调、屋顶维修等类别）广告。新规并未全面禁止医疗服务，不过苹果明确表示将“按个案评估”此类广告。IT之家援引博文介绍，在地图广告指引中，苹果强调广告必须清晰呈现，广告主不得把用户导向无关页面，也不得使用",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/287.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81cc-bf2c-d70bd056fed8",
+      "title": "Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?",
+      "summary": "Skullcandy’s audio products aren’t exactly known for their stellar audio quality or noise cancellation, but its latest headphones are getting an assist from Bose to turn things around.",
+      "source": "Wired",
+      "publishTime": "2026-07-16",
+      "link": "https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/"
+    },
+    {
+      "id": "39f03df8-2d23-8107-996c-c1f6f417e5a8",
+      "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+      "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedica",
+      "source": "The Verge",
+      "publishTime": "2026-07-16",
+      "link": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones"
+    },
+    {
+      "id": "39f03df8-2d23-81dc-b0f9-ee332df2cb0a",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-16",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
+    },
+    {
+      "id": "39f03df8-2d23-81c1-9917-fefd7eaf0c65",
+      "title": "苹果和 OpenAI 商业诉讼核心人物：唐 · 坦职业路径曝光，曾参与开发 iPod / iPhone",
+      "summary": "IT之家 7 月 16 日消息，科技媒体 AppleInsider 昨日（7 月 15 日）发布博文，聚焦苹果公司和 OpenAI 公司商业秘密诉讼的核心人物唐 · 坦（Tang Tan）。IT之家援引博文介绍，基于公开信息，唐 · 坦出生于马来西亚，本科就读于知名学府伦敦帝国理工学院，随后进入麻省理工学院，1999 年获得机械工程硕士学位。图源：Instagram2025 年 10 月在麻省理工学院的一次演讲中，唐 · 坦表示他在硕士阶段主要专注于工业自动化，曾考虑过在造船厂工作，不过在毕业前夕获得一次苹果公司面试机会，于 1999 年以应届毕业生身份加入苹果。唐 · 坦入职苹果公司 2 年",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/286.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81da-923f-e1d69c9ca4b4",
+      "title": "软银孙正义公开嘲讽“AI 反对论”：就像朝天吐口水",
+      "summary": "IT之家 7 月 16 日消息，据英国《金融时报》15 日报道，软银集团创始人、亿万富豪孙正义公开嘲讽 AI 反对者是在“朝天吐口水”，并预测到 2040 年，AI 将占全球经济产出的 20%。孙正义在软银集团年度 SoftBank World 大会上对企业高管表示，反对 AI 与过去拒绝汽车和飞机没有本质区别。“讨厌 AI 的人，实际上是在拒绝自身进化。谴责 AI 的人，无异于朝天吐口水。”孙正义正以巨额资金押注 AI，通过投资 Arm、OpenAI 和其他科技企业，试图在 AI 革命中占据核心位置。投资者却开始担忧软银集团的杠杆率持续攀升，以及 OpenAI 可能推迟 IPO。软银集团已经",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/285.htm"
+    },
+    {
+      "id": "39f03df8-2d23-81e9-aa70-d8a00c060ff5",
+      "title": "马斯克 SpaceX 股价自高位下跌 40%：市值缩水超万亿美元，盘中一度破发",
+      "summary": "北京时间 7 月 16 日，据《金融时报》报道，当地时间周三，SpaceX 股价盘中跌破每股 135 美元的上市发行价，延续了近期的下跌趋势。自该公司创纪录 IPO 后不久达到股价峰值以来，这轮下跌已经让 SpaceX 的市值缩水超过 1 万亿美元（现汇率约合 6.78 万亿元人民币）。SpaceX 上市SpaceX 股价在 6 月中旬一度触及 225 美元的盘中高点，推动这家仍在亏损公司的市值在几天内超越亚马逊。此前，该公司以超过 2 万亿美元的估值募集了 860 亿美元，完成了全球规模最大的 IPO。但在此之后，SpaceX 股价已累计下跌 40%，马斯克所持 42% 股份的价值同期从 1",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/284.htm"
+    },
+    {
+      "id": "39f03df8-2d23-8142-aaf9-fdf71d83b72e",
+      "title": "OpenAI 前女 CTO 穆拉蒂创业公司 TML 发布首款 AI 模型 Inkling：借鉴中国技术，主打成本和性能平衡",
+      "summary": "北京时间 7 月 16 日，据《华尔街日报》报道，OpenAI 前首席技术官米拉 · 穆拉蒂 (Mira Murati) 正押注更具可定制性的 AI 模型，希望借此缩小与其前东家 OpenAI 等前沿 AI 实验室之间的技术差距。穆拉蒂领导的 Thinking Machines Lab 在周三发布了公司的首款 AI 模型，并采用了“开放权重”模式，这意味着其他开发者可以结合自己的数据对模型进行修改。这款名为 Inkling 的模型拥有 9750 亿个参数，规模远小于外界对 OpenAI、Anthropic 等竞争对手最先进闭源模型的预估参数。穆拉蒂Thinking Machines 称，Ink",
+      "source": "IT之家",
+      "publishTime": "2026-07-16",
+      "link": "https://www.ithome.com/0/977/281.htm"
+    },
     {
       "id": "39e03df8-2d23-8123-a28e-c00ba9745d20",
       "title": "微软厘清 Win11 各类更新发布机制与命名规则：热补丁、预览更新、OOB 各司其职",
@@ -120,286 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-16",
       "link": "https://www.ithome.com/0/977/266.htm"
-    },
-    {
-      "id": "39e03df8-2d23-8197-82dd-cbfeaf96b3ed",
-      "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
-      "summary": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usually $1,649.99) with an Intel Core 7 Ultra CPU, 16GB […]",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale"
-    },
-    {
-      "id": "39e03df8-2d23-81cd-a3c6-fb7dee2ddbc3",
-      "title": "Jim Cramer questions whether Wednesday's rally in Big Tech will have staying power",
-      "summary": "CNBC's Jim Cramer warned that Wednesday's rally in tech may have gotten carried away from fundamentals.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-16",
-      "link": "https://www.cnbc.com/2026/07/15/jim-cramer-wednesday-rally-big-tech-staying-power.html"
-    },
-    {
-      "id": "39e03df8-2d23-8147-a19a-f3742f9a8759",
-      "title": "上传用户代码事件后，马斯克宣布开源 Grok Build 编程 AI 智能体工具",
-      "summary": "IT之家 7 月 16 日消息，马斯克旗下 SpaceXAI 公司昨日（7 月 15 日）宣布开源 Grok Build，并将源代码发布至 GitHub 平台。在官方博文中，SpaceXAI 表示：开源发布源代码，是构建强大、可靠框架的最直接方法。用户可以阅读源代码，了解其从上下文构建到工具调用分发的完整工作原理。开源也让框架更容易探索和扩展：如果用户正在使用 Agent Skills、插件、hooks、MCP 服务器或子智能体，则源代码是了解每个组件如何加载和调用的权威参考。Grok Build 现在可以完全本地优先运行：自己编译，指向自己的本地推理，并从 config.toml 驱动一切。",
-      "source": "IT之家",
-      "publishTime": "2026-07-16",
-      "link": "https://www.ithome.com/0/977/265.htm"
-    },
-    {
-      "id": "39e03df8-2d23-81a2-84c9-db9f28e05f40",
-      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
-      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus pricing, \"a plan for a ",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase"
-    },
-    {
-      "id": "39e03df8-2d23-81c4-a221-d4bd4dbe9cb9",
-      "title": "Trump calls data centers 'money machines' and says New York is letting them slip away",
-      "summary": "Trump slams New York's pause on AI data center, warning it could drive investment to states like Texas, amid debates over the infrastructure's impact.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/donald-trump-urges-new-york-reverse-ai-data-center-pause-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-814f-a753-d4518fbb46d3",
-      "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
-      "summary": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just buy a battery from iFixit and install it yourself. Why would Val",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery"
-    },
-    {
-      "id": "39e03df8-2d23-818f-8be9-d2f78c9a412f",
-      "title": "The US Mint says it's making a $1 coin with Trump's face on it",
-      "summary": "The Treasury unveiled a $1 gold coin featuring a portrait of Trump, breaking the tradition that US currencies shouldn't feature living persons.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/us-mint-trump-portrait-dollar-gold-coin-legality-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-81e4-ae96-eb01f483be0e",
-      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
-      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonco",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam"
-    },
-    {
-      "id": "39e03df8-2d23-8166-a53e-c2cf5f40e373",
-      "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
-      "summary": "The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr announced an August 6th vote to end the national ownership cap rule,",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr"
-    },
-    {
-      "id": "39e03df8-2d23-81bd-9de7-d23f127a6124",
-      "title": "Intel Officials Predict the Pentagon’s Bill for the Iran War Will Exceed $100 Billion",
-      "summary": "The Trump administration has not disclosed its cost estimates for the Iran war.",
-      "source": "Wired",
-      "publishTime": "2026-07-16",
-      "link": "https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/"
-    },
-    {
-      "id": "39e03df8-2d23-81a1-9ddb-d1e56139e88b",
-      "title": "Here’s the Truth About Whether Meta’s NameTag Face Recognition Tech ‘Exists’",
-      "summary": "Since WIRED reported on Meta’s NameTag face recognition system, company executives have made confusing and conflicting remarks about its very existence.",
-      "source": "Wired",
-      "publishTime": "2026-07-16",
-      "link": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/"
-    },
-    {
-      "id": "39e03df8-2d23-812c-a1f5-eeea70fa78a2",
-      "title": "Senators press top Justice Department officials on decision to subpoena New York Times reporters",
-      "summary": "The Justice Department subpoenaed a group of New York Times journalists who reported on security problems with the new Qatar-donated Air Force One.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/new-york-times-subpoenas-senate-confirmation-blanche-clayton-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-8163-9756-d3d02c4a767e",
-      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-16",
-      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/"
-    },
-    {
-      "id": "39e03df8-2d23-8161-a7ee-d780ea8a2ace",
-      "title": "Companies laying off staff this year include Meta, Amazon, and Groupon — see the list",
-      "summary": "Layoffs have hit over 35 companies in 2026, including Meta, Walmart, and Groupon, as AI and economic conditions reshape the business landscape.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026"
-    },
-    {
-      "id": "39e03df8-2d23-8199-8289-c7b8e2641b8e",
-      "title": "Roblox is shutting down its video chat service",
-      "summary": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were making in real life. You could also run around with people on the call in a sha",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down"
-    },
-    {
-      "id": "39e03df8-2d23-81db-8915-cb3a5d8382ec",
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood"
-    },
-    {
-      "id": "39e03df8-2d23-81c4-b303-c9fdca52eea9",
-      "title": "Trump blasts New York AI data center ban, says state should change policy 'immediately'",
-      "summary": "New York became the first state in the U.S. to impose a ban of its kind, after the state executive order was signed by the governor Tuesday.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-16",
-      "link": "https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html"
-    },
-    {
-      "id": "39e03df8-2d23-8195-afff-ed49b406f65c",
-      "title": "The most eye-catching outfits Zendaya has worn, from sheer gowns to a dress with angel wings",
-      "summary": "On red carpets, Zendaya is known for her elegant, high-fashion style with a daring twist. It's been on display while she promotes \"The Odyssey.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/zendaya-most-daring-outfits-photos"
-    },
-    {
-      "id": "39e03df8-2d23-81eb-89e5-eadfe7e08301",
-      "title": "Worried about low T among warfighters, Pete Hegseth's Pentagon is going to be screening troop testosterone levels",
-      "summary": "Defense Secretary Pete Hegseth announced new testosterone screenings for troops 30 and older. Screening is automatic, but treatment is voluntary.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/us-military-screening-troop-testosterone-levels-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-81cb-9bac-e935992797d4",
-      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
-      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-16",
-      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/"
-    },
-    {
-      "id": "39e03df8-2d23-81d3-b9e0-d8f36b124ddf",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-16",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
-    },
-    {
-      "id": "39e03df8-2d23-8164-8150-f14f3eed79e4",
-      "title": "Elon Musk puts $5 million behind Vivek Ramaswamy's run for governor after their abrupt DOGE split",
-      "summary": "Elon Musk backs Vivek Ramaswamy for Ohio governor, donating $5 million to a super PAC, after their abrupt DOGE split last year.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/elon-musk-donates-5-million-to-support-ramaswamys-ohio-campaign-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-8137-b5e6-d7041739cd92",
-      "title": "Emergent's CEO shares what he looks for in developers in the AI era",
-      "summary": "Mukund Jha said he expects demand for software to \"exponentially increase.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/emergent-ceo-vibe-coding-software-engineer-ai-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-8184-8bb8-fd8ca5f20637",
-      "title": "I've traveled solo to all 63 US national parks. Here are my 10 tips for first-time visitors.",
-      "summary": "As someone who visited all 63 US national parks alone, I always tell first-time visitor to make reservations in advance and take lots of photos.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/solo-travel-us-national-parks-tips-frequent-traveler-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-819b-967a-fbedb7ca4720",
-      "title": "Lucid denied bankruptcy rumors. Its make-or-break midsize EV is still a race against time.",
-      "summary": "Saudi-backed Lucid Motors' stock has been on a wild ride after bankruptcy rumors. The EV maker filed an SEC statement forcefully denying the reports.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/lucid-ceo-bankruptcy-rumors-false-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-8194-94f8-ddb2694d90f3",
-      "title": "Microsoft patches bug in video game Age of Empires II",
-      "summary": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-16",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/"
-    },
-    {
-      "id": "39e03df8-2d23-81db-9706-d78a18f608b8",
-      "title": "Our ‘explosive diarrhea parasite’ future",
-      "summary": "Bryan, a food broker from Michigan, wasn't sure if he'd be able to make it to urgent care in time. He started feeling off on Thursday, and by Saturday, he was having to use the bathroom every 15 to 30 minutes. \"It's no joke about the explosive diarrhea,\" Bryan, who asked that his last name […]",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell"
-    },
-    {
-      "id": "39e03df8-2d23-81be-87ae-d380a1f54c99",
-      "title": "Robot dogs could soon leave packages at your doorstep — automating delivery's 'final frontier'",
-      "summary": "Boston Dynamics' Spot robot dog is being tested for package delivery, tackling the last 50 feet from truck to doorstep.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/boston-dynamics-is-using-robot-dog-as-a-delivery-worker-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-81b5-97bd-e2313d07cfc9",
-      "title": "AI Isn’t Smarter Than a Baby—Yet",
-      "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
-      "source": "Wired",
-      "publishTime": "2026-07-16",
-      "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/"
-    },
-    {
-      "id": "39e03df8-2d23-81e7-b744-e69d414cca05",
-      "title": "The CEO of a startup helping non-techies code still sees a lot of value in engineering degrees",
-      "summary": "The CEO of vibe-coding startup Emergent, Mukund Jha, joins BI's Dan DeFrancesco to discuss his company's exponential growth.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-16",
-      "link": "https://www.businessinsider.com/startup-ceo-emergent-sees-value-engineering-degrees-2026-7"
-    },
-    {
-      "id": "39e03df8-2d23-81ee-af1f-dac34c9d73b2",
-      "title": "Something&#8217;s glowing on the Pixel 11&#8217;s camera bar",
-      "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 has a short video that shows the glowing, color-shifting orb to the one side of the camera bar. The stor",
-      "source": "The Verge",
-      "publishTime": "2026-07-16",
-      "link": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser"
-    },
-    {
-      "id": "39e03df8-2d23-8191-b83e-f523045a38da",
-      "title": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot",
-      "summary": "Jim Cramer said on CNBC on Wednesday that Citi's optimism is contrary to everything he has been hearing about Copilot being subpar.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-16",
-      "link": "https://www.cnbc.com/2026/07/15/why-jim-cramer-is-shocked-by-citis-against-the-grain-praise-of-microsofts-copilot.html"
-    },
-    {
-      "id": "39e03df8-2d23-81c6-a873-f567022e199e",
-      "title": "Amazon senior cloud executive departs after 18 years",
-      "summary": "Brown helped launch one of AWS' oldest services and also oversaw its compute and machine learning units.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-16",
-      "link": "https://www.cnbc.com/2026/07/15/amazon-dave-brown-treadwell-aws.html"
-    },
-    {
-      "id": "39e03df8-2d23-81ed-98c5-c077d2158e69",
-      "title": "Apple quietly reveals how its Maps ads will differ from Google’s",
-      "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive ",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-16",
-      "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/"
-    },
-    {
-      "id": "39e03df8-2d23-819f-a169-d6a5b66dfecc",
-      "title": "SpaceX share price drops below stock market debut",
-      "summary": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
-      "source": "BBC Tech",
-      "publishTime": "2026-07-16",
-      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "macroEvents": [
