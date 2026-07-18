@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-07-18 23:28",
+  "updatedAt": "2026-07-19 00:28",
   "news": [
+    {
+      "id": "3a103df8-2d23-81c9-81c0-f88455fd5ef3",
+      "title": "Read the pitch decks of 18 startups looking to disrupt dating apps and social networking that have raised millions",
+      "summary": "Social networking and dating startups used these pitch decks and memos to raise capital and ink deals.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-18",
+      "link": "https://www.businessinsider.com/dating-app-social-network-startup-read-pitch-decks-used-2024-10"
+    },
+    {
+      "id": "3a103df8-2d23-81a2-8a38-c765649f91df",
+      "title": "英伟达 N1X 首个 Cinebench 2026 跑分曝光：微软 Surface Ultra 工程样机现身，单核成绩接近苹果 M3 Max",
+      "summary": "IT之家 7 月 18 日消息，爆料者 @ExoticSpice101 今日放出了英伟达 N1X 芯片首个 Cinebench 2026 测试数据。测试平台是一台 Surface Ultra 工程样机，该机在测试中获得单核 540 分、多核 5771 分的成绩，单核性能据称“与苹果 M3 Max 相当”。当然，英伟达和微软尚未公布 N1X 的官方性能数据，该数据仅做参考。Cinebench 2026 是 Maxon 面向新一代处理器推出的基准测试工具，主要用于评估 CPU 在渲染等多线程计算任务中的性能表现。由于工程样机可能受到固件、驱动、电源策略以及散热设计影响，最终产品性能仍可能存在变化。",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/600.htm"
+    },
+    {
+      "id": "3a103df8-2d23-815d-a461-c7596883f172",
+      "title": "英伟达 RTX Spark 首批 Win11 Arm 驱动发布：最高 6144 个 Blackwell 核心，N1X PC 预计今秋登场",
+      "summary": "IT之家 7 月 18 日消息，英伟达已经发布了专为 RTX Spark PC 准备的 Windows 11 驱动程序，这意味着距离搭载 N1X 芯片的设备正式上市又近了一步。目前该驱动主要面向开发测试设备，并非普通消费者产品，但其中包含的硬件信息进一步确认了 RTX Spark 平台部分 GPU 配置。英伟达官网出现了一款版本号为 616.00 的 Windows 11 Arm64 原生驱动程序。对安装文件进行分析后发现，其中包含名为“nv_surface_woa.inf”的配置文件。Windows 驱动中的 INF 文件通常用于记录支持设备的硬件信息、设备 ID 以及安装参数，因此可以从中",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/599.htm"
+    },
+    {
+      "id": "3a103df8-2d23-81d5-b500-c66339dbcbf7",
+      "title": "United Airlines flights delayed nationwide after 'technology outage'",
+      "summary": "United Airlines said it's operations were returning to normal after a \"technology outage\" caused delays across the country on Saturday morning.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-18",
+      "link": "https://www.businessinsider.com/united-airlines-flights-delayed-nationwide-2026-7"
+    },
+    {
+      "id": "3a103df8-2d23-8182-a2a8-fbad6024f873",
+      "title": "AMD Zen 6 APU 跑分再曝光：单核跑分超越锐龙 AI 9 365 近 35%",
+      "summary": "IT之家 7 月 18 日消息，AMD 下一代 Zen 6 架构移动处理器（代号“Medusa Point”）一款 10 核 20 线程的 ES 工程样品再次出现在 Geekbench 数据库中，跑分成绩再创新高。数据显示，这款处理器的识别信息为“100-000001713-33_N”，测试平台显示为 AMD Plum-MDS1，配备 32GB 内存，运行 Win11 专业版，最终单核成绩 3329 分，多核成绩 16555 分。此前，该工程样品在 Geekbench 中的单核成绩为 3174 分，而最新测试提升至 3329 分，增幅约为 5%；多核成绩则从此前约 15000 分提升至 165",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/598.htm"
+    },
+    {
+      "id": "3a103df8-2d23-81ef-8887-d10149253e41",
+      "title": "摩尔线程联合创始人王东：推理市场没有“万能芯片”，而是解决方案的组合",
+      "summary": "IT之家 7 月 18 日消息，据财联社今日报道，GPU 厂商摩尔线程联合创始人、执行总裁王东说，“大模型的发展在国内外都非常迅速，现在头部厂商平均每两个月完成一次前沿基础模型版本迭代，而在模型的调用成本上，我们发现，中国前沿基础模型较国外同等智力水平模型有明显成本优势，中国模型性价比更优，这也恰恰说明模型公司在有限算力的情况下，对如何提升模型效率、价格效率以及训练成本方面做了非常多的工作。”王东指出，推理市场没有“万能芯片”，而是“解决方案”的组合，“推理市场的技术应用门槛相对较低，且场景高度碎片化，不存在任何一家公司能够垄断所有细分应用场景；没有绝对完美的单一硬件，通过灵活的软硬协同，每个",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/597.htm"
+    },
+    {
+      "id": "3a103df8-2d23-81ca-8e2e-c533c06d152d",
+      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
+      "summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and GoPro). […]",
+      "source": "The Verge",
+      "publishTime": "2026-07-18",
+      "link": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale"
+    },
+    {
+      "id": "3a103df8-2d23-81f5-9480-d8f64f49a850",
+      "title": "印度民营航天新突破：首枚自研轨道火箭维克拉姆-1 号发射成功",
+      "summary": "IT之家 7 月 18 日消息，据路透社今天（18 日）报道，印度航天初创公司 Skyroot Aerospace 成功发射了印度首枚民营轨道运载火箭，这也是印度首枚自主研发的轨道火箭。发射任务不仅是印度私人航天产业的重要里程碑，也将检验印度能否在全球商业发射市场中争取更大份额。维克拉姆-1 号于北京时间 14 时 35 分从斯里哈里科塔的萨蒂什 · 达万航天中心点火升空，执行首次轨道任务“阿加曼任务”，搭载了多项客户载荷和在轨实验设备。升空约 15 分钟后，维克拉姆-1 号顺利把载荷送入 450 公里高的轨道。印度由此成为全球第三个通过私营企业实现轨道发射的国家。Skyroot Aerosp",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/596.htm"
+    },
+    {
+      "id": "3a103df8-2d23-81af-876d-ecab93a69310",
+      "title": "马斯克：Grok 4.6 训练进入最后阶段，2 万亿参数模型下周完成初步训练",
+      "summary": "IT之家 7 月 18 日消息，埃隆 · 马斯克（Elon Musk）今日在 X 上回复网友时透露，xAI 正在训练中的下一代 Grok 4.6 模型参数规模将达到 2 万亿，预计将在下周完成初始训练。马斯克表示，2 万亿参数模型在各方面都优于当前的 1.5 万亿参数版本，同时推理速度和 Token 效率将接近现有的 1.5T 模型（即 Grok 4.5）。马斯克猜测它可能会超过月之暗面最新 Kimi 3。目前，xAI 尚未公布 Grok 4.6 的正式发布时间、训练细节以及完整技术指标。此前，xAI 已推出 Grok 系列多个版本。在参数规模方面，马斯克 2026 年 5 月表示 Grok ",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/595.htm"
+    },
+    {
+      "id": "3a103df8-2d23-81c4-89f5-fe9a7054a28e",
+      "title": "浙大等团队联合攻克顶级原子级材料合成三十余年难题，成果登《科学》",
+      "summary": "IT之家 7 月 18 日消息，浙江大学今日宣布，该校机械工程学院原子级材料制造实验室项荣教授团队联合大连理工大学、西湖大学、苏州实验室、北京大学及日本大阪大学、东京大学等国内外合作单位首次实现 TMDC 纳米管的手性可控合成，选择性获得扶手椅型纳米管，一举攻克了横亘该领域三十余年的核心挑战。据介绍，一维过渡金属二硫化物（TMDC）纳米管因 1D 量子限域效应、范霍夫奇点等独特量子现象，展现出特殊的力学、光学与电子学性质，理论上具有广阔的应用前景。1992 年，TMDC 纳米管被科学家首次发现。TMDC 是一个成员庞大的材料家族，二硫化钼、二硫化钨、二硫化锡等都属于此类。然而，手性可控合成这一",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/594.htm"
+    },
+    {
+      "id": "3a103df8-2d23-8178-9b57-f0f483e18888",
+      "title": "京东发布 JoyAI-Talker 实时语音交互模型与 JoyAI-Video-Edit 视频编辑模型",
+      "summary": "IT之家 7 月 18 日消息，2026 世界人工智能大会暨人工智能全球治理高级别会议（WAIC）昨日在上海世博、张江、西岸“三地四馆”同步启幕。7 月 18 日，京东以“AI 进入物理世界”为核心主题亮相上海世博展览馆，首次系统展示面向物理世界的 JoyAI 模型矩阵。在模型方面，京东推出了 JoyAI-Talker 实时语音交互模型与 JoyAI-Video-Edit 实时视频编辑模型。据京东介绍，JoyAI-Talker 具备低延迟对话、情绪理解、工具调用和记忆等能力，让 AI 从机械执行指令走向理解人的意图和状态。该模型能够通过声纹识别用户身份，结合环境数据理解对话意图。JoyAI-V",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/593.htm"
+    },
+    {
+      "id": "3a103df8-2d23-812e-b9be-cc315e1dd480",
+      "title": "Espresso martinis, Greek charcuterie, and a fight: inside my surreal 4 a.m. screening of 'The Odyssey'",
+      "summary": "I joined the sold-out 4 a.m. 70mm Imax screening of Christopher Nolan's 'The Odyssey' in London. It was a scene.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-18",
+      "link": "https://www.businessinsider.com/the-odyssey-early-morning-showtimes-imax-2026-7"
+    },
+    {
+      "id": "3a103df8-2d23-8167-ae7b-ca8cf653cf24",
+      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+      "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-18",
+      "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/"
+    },
+    {
+      "id": "3a103df8-2d23-8144-8c30-e7cbded5e06a",
+      "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+      "summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along the way, she's garnered a Scripps Howard Award, a National Pr",
+      "source": "The Verge",
+      "publishTime": "2026-07-18",
+      "link": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview"
+    },
+    {
+      "id": "3a103df8-2d23-81f2-9364-ce791c30b15c",
+      "title": "反对 AI 数据中心“不受控”快速扩张，全美至少 125 个地点将举行抗议活动",
+      "summary": "IT之家 7 月 18 日消息，据路透社报道，反对 AI 数据中心快速扩张的民众计划于周六（7 月 18 日）在全美至少 125 个地点举行抗议活动。此次抗议活动由一个名为“人类优先 (HumansFirst)”的民间组织牵头。抗议者将举行集会，反对“不受控的”数据中心扩张行为，以及“对我们自由不可容忍的侵犯”。尽管遭到居民的强烈反对或缺乏监管审查，报道称某些地方官员仍在与开发商签署保密协议后，为这些项目开了绿灯。如今，数据中心带来的电费飙升、水资源被挪用以及环境污染等问题，导致民众的不满情绪持续发酵。据悉，反对数据中心扩张是少数几个能让美国人跨越意识形态分歧达成共识的议题之一。根据路透社与益",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/592.htm"
+    },
+    {
+      "id": "3a103df8-2d23-8192-89ce-eb70000b7ed7",
+      "title": "喊着“爸爸妈妈”的贴心主播反手骗了老人 1000 万，宁夏警方破获特大网络直播养老诈骗案",
+      "summary": "IT之家 7 月 18 日消息，据央视新闻今日报道，宁夏回族自治区中卫市中宁县公安局本月初破获了一起特大网络直播养老诈骗案，截至 7 月 9 日成功抓获犯罪嫌疑人 12 名。至此，一个长期盘踞在网络平台、以老年群体为目标的特大网络直播系列养老诈骗团伙被全链条摧毁。今年 4 月以来，中宁县公安局在工作中发现，有犯罪团伙运营多个直播账号，伪装成“实力雄厚的收藏大企业”，长期针对老年人实施精准诈骗。中宁县公安局网络安全保卫大队民警浦鹏介绍，主播在直播时说话特别亲切，一口一个“爸爸妈妈”，声称所售商品经过“大师开光”，能保平安、旺财运，购买后还可安排专人上门高价回收，冲榜靠前还能拿到百万现金。老年人防",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/591.htm"
+    },
+    {
+      "id": "3a103df8-2d23-81c3-a2be-d074b4ce382c",
+      "title": "前《GTA 5》首席制作人回忆开发往事：R 星砍了完整关卡和不少快完工的小游戏",
+      "summary": "IT之家 7 月 18 日消息，据外媒 NotebookCheck 今天（18 日）晚间报道，曾担任《侠盗猎车手 5》首席制作人的 R 星前制作人约翰 · 里基奥透露，由于各支开发团队已经不堪重负，没有足够人力把所有内容打磨到 R 星要求的水准，《GTA 5》最终砍掉了完整关卡和多款几乎制作完成的小游戏。里基奥表示，《GTA 5》开发期间遭到删除的内容数量非常庞大，部分关卡几乎已经全部完成，许多小游戏在接近完工后也难逃一砍。《GTA 5》拥有随机事件、各类活动、自由探索和支线内容，足以让玩家投入数百个小时。不过，R 星在开发过程中仍要不断取舍，决定哪些内容能够保留到正式版。为了确保整部游戏的完",
+      "source": "IT之家",
+      "publishTime": "2026-07-18",
+      "link": "https://www.ithome.com/0/978/588.htm"
+    },
     {
       "id": "3a103df8-2d23-81fd-88a1-ffb4b8cfcb97",
       "title": "蔚来官宣 NIO Day 2026 将在武汉举行，有望首发最新产品、技术",
@@ -264,142 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-07-18",
       "link": "https://www.businessinsider.com/ukraine-elite-operators-change-how-they-fight-drones-clear-trenches-2026-7"
-    },
-    {
-      "id": "3a103df8-2d23-81a6-9f41-d1f9f6625cbf",
-      "title": "My teenager hated it when I used AI to create art for my business. She taught me the dangers, and now I quit AI for good.",
-      "summary": "When I showed my daughter the art I created using AI, she taught me how problematic AI really is. Now that I quit AI, our relationship is stronger.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-18",
-      "link": "https://www.businessinsider.com/teen-convinced-mom-stop-using-ai-to-make-art-2026-7"
-    },
-    {
-      "id": "3a103df8-2d23-8141-9542-e2edf854d8be",
-      "title": "4 Best Walking Pads for Small Spaces and Standing Desks (2026)",
-      "summary": "Our remote team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
-      "source": "Wired",
-      "publishTime": "2026-07-18",
-      "link": "https://www.wired.com/story/best-walking-pads/"
-    },
-    {
-      "id": "3a103df8-2d23-81a4-8716-dea2afde6bb8",
-      "title": "社交平台 Soul 推出 AI 智能硬件 B Soul：提供智能交互与定制化语音体验，预计 8 月逐步量产销售",
-      "summary": "IT之家 7 月 18 日消息，在 2026 世界人工智能大会上，社交平台 Soul 推出了 AI 硬件“B Soul”。官方表示，通过将 SoulX（Soul 推出的多模态交互大模型）的语音交互、情感表达等核心能力融入可随身携带的智能终端“B Soul”，让 AI 陪伴从手机屏幕内走向真实物理空间。B Soul 提供了智能交互与定制化语音体验，并能够实现随时唤醒、自然交流和持续陪伴。据介绍，与 AI 硬件 B Soul 配套推出的，还包括了 App、小程序。软硬件将共同承载用户的 AI 角色、长期记忆、情绪关系与个性内容：其中 App 负责关系养成、记忆沉淀和内容运营；硬件设备让陪伴可携带、",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/563.htm"
-    },
-    {
-      "id": "3a103df8-2d23-817d-a280-f87f3d54b86a",
-      "title": "超越海森堡不确定性原理：科学家首次观测到电子运动“时空极限”，揭示位置与时间无法同时精确测定",
-      "summary": "IT之家 7 月 18 日消息，在量子力学中，海森堡不确定性原理早已划定了一条根本界限：粒子的位置与动量无法同时被精确测定，但位置与时间之间并不存在这样的不确定性关系。这种限制并非来自仪器精度不足，而是量子系统本身的基本属性。如今，一支研究团队首次通过实验观测到，电子的位置与其时间演化同样无法以任意精度同时测定 —— 他们将这一新发现称为“时空极限”。德国雷根斯堡大学雷根斯堡超快纳米成像中心（Regensburg Center for Ultrafast Nanoscopy，RUN）联合德国马克斯 · 普朗克学会汉堡结构与动力学研究所（Max Planck Institute for the ",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/564.htm"
-    },
-    {
-      "id": "3a103df8-2d23-81e0-b64f-f0677c3b9811",
-      "title": "A small-business mecca in Philadelphia is leaning into World Cup fandom",
-      "summary": "World Cup boosts East Passyunk businesses in Philadelphia, leading to creative block parties despite denied city permits and limited support.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-18",
-      "link": "https://www.businessinsider.com/south-philadelphia-small-business-strategy-world-cup-2026-7"
-    },
-    {
-      "id": "3a103df8-2d23-81b6-8b12-d82acc8519c2",
-      "title": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
-      "summary": "If you prefer not to have cameras in and around your home, try one of these more private, WIRED-tested security devices.",
-      "source": "Wired",
-      "publishTime": "2026-07-18",
-      "link": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/"
-    },
-    {
-      "id": "3a103df8-2d23-8132-90aa-fff41e4570c8",
-      "title": "Your Period Tracker Is (Probably) Spying on You",
-      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
-      "source": "Wired",
-      "publishTime": "2026-07-18",
-      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/"
-    },
-    {
-      "id": "3a103df8-2d23-81d6-af60-fc6fbdb57a18",
-      "title": "商汤科技发布日日新 U1 Pro 图片创作模型：最高 8K 原生分辨率输出，宣称告别“AI 味”",
-      "summary": "IT之家 7 月 18 日消息，商汤科技今日发布日日新 SenseNova U1 Pro 图片创作模型，官方宣称可通过内生的图文交错思维链创作出内容准确、设计精美、生产可用的图片素材，效果比肩海外顶尖模型。IT之家从官方新闻稿获悉，SenseNova U1 Pro 有以下 4 个核心交付能力：专业设计美感，告别“AI 味”：图像生成从“细节逼真”推进到“专业设计美感”的全新阶段，直接实现专业交付品质；原生 8K 超清输出：最高可支持 8K 原生分辨率输出，画幅放大后，文字、线条、图标和模块关系仍然清晰稳定，经得起印刷、展览级细节检验。▲ 受限于上传规格，画质有所压缩图文与细节控制：大幅加强了图",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/562.htm"
-    },
-    {
-      "id": "3a103df8-2d23-8133-9cf4-ca4bebdda3b6",
-      "title": "I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-      "summary": "Hamza Mostafa decided he needed to be in San Francisco to make it in tech. When he landed an OpenAI internship, he felt that decision paid off.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-18",
-      "link": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7"
-    },
-    {
-      "id": "3a103df8-2d23-81a0-aff1-c26019b2887c",
-      "title": "国产虚幻 5 游戏《古剑》开启线下试玩，41 分钟实机演示视频发布",
-      "summary": "IT之家 7 月 18 日消息，上海烛龙工作室开发的《古剑奇谭》系列正统续作《古剑》首次线下试玩会今日在上海美术馆（中华艺术宫）正式拉开帷幕。本次试玩活动将持续两天至 7 月 19 日。试玩会现场向受邀玩家与媒体开放了四场首领（含隐藏）对决与一个独立关卡片段的实机试玩。后续，游戏媒体 IGN 发布了一段长达 41 分钟的实机演示视频，全方位展示了游戏的战斗流程与画面表现。 据官方介绍，这是《古剑》系列首次举办的大规模线下试玩活动。试玩版本以战斗玩法为核心展示内容，现场提供了多个首领战及独立关卡片段，让玩家近距离体验游戏的战斗体系与核心玩法。官方在试玩会前夕发布的说明中提到，作为系列第四部单机作",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/552.htm"
-    },
-    {
-      "id": "3a103df8-2d23-8115-a893-e0f9d24bd1c4",
-      "title": "RoboSense 发布第二代全固态数字化激光雷达 E2，可无缝嵌入机器人头部、腕部",
-      "summary": "IT之家 7 月 18 日消息，在 2026 世界人工智能大会上，RoboSense 速腾聚创发布首款基于自研超大面阵 SPAD-SoC“孔雀”芯片打造的第二代高精度超广角全固态数字化激光雷达 E2。据介绍，E2 整机体积缩小 60%，重量减少 40%；可无缝嵌入机器人头部、腕部及各类高集成设备；采用内置式双镜头设计，平整无凸起，更小地露出表面，使部署更美观的同时也更不易剐蹭。官方表示，仅需一颗 E2，机器人便可覆盖正前方以及两侧沿边的障碍物，快速获取完整的空间环境与操作姿态信息。IT之家获悉，E2 搭载新一代 SPAD-SoC“孔雀”，采用 28nm 制程，实现 640×480 VGA 级分",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/546.htm"
-    },
-    {
-      "id": "3a103df8-2d23-81a5-a13d-cabe185aa28f",
-      "title": "The tech-ification of the World Cup",
-      "summary": "Referees wear a POV camera, there's a sensor in the ball, and all 1,248 players were scanned in 3D.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-18",
-      "link": "https://www.businessinsider.com/world-cup-technology-referee-camera-offside-microchipped-ball-2026-7"
-    },
-    {
-      "id": "3a103df8-2d23-8171-bf3f-cf6ca88e3490",
-      "title": "FIFA Doesn’t Have a Plan to Deal With Climate Change",
-      "summary": "This year’s World Cup has faced sweltering heat and humidity. Now it may need to deal with wildfire smoke.",
-      "source": "Wired",
-      "publishTime": "2026-07-18",
-      "link": "https://www.wired.com/story/fifa-doesnt-have-plan-to-deal-with-climate-change/"
-    },
-    {
-      "id": "3a103df8-2d23-8170-8654-c7b79fabe458",
-      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
-      "source": "Wired",
-      "publishTime": "2026-07-18",
-      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/"
-    },
-    {
-      "id": "3a103df8-2d23-816d-b0db-c94d2ebf7264",
-      "title": "Dan Ives, the Wall Street analyst known for his bullish tech calls, is making a big bet on himself",
-      "summary": "Business Insider talked to tech analyst Dan Ives about his plan to form a \"modern merchant bank.\" Beyond a promise to disrupt, the details are sparse.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-18",
-      "link": "https://www.businessinsider.com/dan-ives-analyst-wedbush-yorkville-bank-2026-7"
-    },
-    {
-      "id": "3a103df8-2d23-8109-8fd1-e9aa5647f950",
-      "title": "2022 年《GTA 6》大规模泄密案最新进展：少年黑客 Arion Kurtaj 转至普通监狱等待 11 月重审，游戏同月发售",
-      "summary": "IT 之家 7 月 18 日消息，据英国广播公司（BBC）7 月 16 日报道，曾因泄露《侠盗猎车手 VI》（Grand Theft Auto VI，简称 GTA 6）内部资料而受到关注的黑客 Arion Kurtaj，已经从英国一所安全医疗机构转移至普通监狱，目前正在等待 2026 年 11 月进行的重新审判。Kurtaj 此前因被认定不具备接受普通刑事审判的能力，被英国法院裁定无限期留置于安全医疗设施中。此次转移意味着相关部门认为其目前可能具备重新面对刑事程序的条件，但具体原因尚未公开。这起案件源于 2022 年 9 月发生的 GTA 6 大规模泄露事件。当时，超过 90 段游戏测试视频和",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/532.htm"
-    },
-    {
-      "id": "3a103df8-2d23-81c4-8f20-faa139a927f6",
-      "title": "I spent 2 nights at a tiny home resort. My 260-square-foot house on wheels felt shockingly spacious.",
-      "summary": "I stayed at A Tiny House Resort in the Catskills, where guests sleep in tiny homes on wheels. Take a look inside my 260-square-foot accommodation.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-18",
-      "link": "https://www.businessinsider.com/tiny-home-resort-catskills-tour-inside-260-square-foot-house-2026-7"
     }
   ],
   "macroEvents": [
