@@ -1,6 +1,150 @@
 {
-  "updatedAt": "2026-07-19 08:58",
+  "updatedAt": "2026-07-19 12:45",
   "news": [
+    {
+      "id": "3a203df8-2d23-81d3-b3b5-c2a4e10edca2",
+      "title": "微软 Win11 系统 KB5121767 补丁发布，修复部分戴尔电脑意外关机和过热问题",
+      "summary": "IT之家 7 月 19 日消息，据科技媒体 Windows Latest 今天报道，微软现已为 Win11 系统发布 KB5121767 紧急更新，用于替代此前的 2026 年 7 月累积更新，修复部分戴尔电脑出现的意外关机、性能下降、过热和电池耗电异常问题。IT之家从原报道获悉，该更新在 Windows Update 中显示为“2026-07 Update (KB5121767) (26200.8894)”。微软仅建议部分戴尔电脑安装。但实际上只要开启“尽快获取最新更新”开关，其他品牌的电脑也可能自动下载并安装。内部资料显示，该更新适用于以下戴尔电脑：Dell Pro Max 14 Prem",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/632.htm"
+    },
+    {
+      "id": "3a203df8-2d23-81b8-a476-e21970860634",
+      "title": "马斯克 X 平台与音乐出版商三年版权诉讼落幕，双方撤回所有诉讼",
+      "summary": "IT之家 7 月 19 日消息，持续近三年的 X（原 Twitter）与美国多家大型音乐出版商之间的法律纠纷，如今已悄然画上句号。根据双方提交给法院的文件，X 和一批音乐出版商已共同申请撤销彼此提起的诉讼。不过，双方均未披露和解协议的具体内容。这场纠纷始于 2023 年。当时，由美国国家音乐出版商协会（NMPA）牵头的一批音乐出版商对当时仍名为 Twitter 的社交平台提起诉讼，索赔金额高达 2.5 亿美元（IT之家注：现汇率约合 16.97 亿元人民币）。原告认为，Twitter 平台长期存在大量用户侵犯音乐版权的行为，但平台不仅未采取有效措施制止，还放任侵权内容传播。值得注意的是，在当时",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/631.htm"
+    },
+    {
+      "id": "3a203df8-2d23-8183-a22d-f7ddbb954271",
+      "title": "谷歌开源 3D Emoji 表情符号，还讲了背后的设计故事",
+      "summary": "IT之家 7 月 19 日消息，如今，如果你愿意，已经可以把谷歌的 3D Emoji 用到自己的创作中了。IT之家注意到，在周五世界表情符号日（World Emoji Day）之际，谷歌分享了这套 3D Emoji 的设计幕后故事，介绍了设计团队是如何打造这些小表情，以及背后的设计思路。谷歌表示，在设计二维 Emoji 时，很多问题并不需要考虑，但到了三维世界，这些细节就变得十分重要。例如，一个笑脸 Emoji 究竟应该是一个完整的球体、一张面具，还是一个扁平的圆盘？这些都需要重新定义。除了公开设计过程外，谷歌还宣布，将完全开源这套 3D Emoji。谷歌表示：“我们将把原始的 .OBJ 模型",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/630.htm"
+    },
+    {
+      "id": "3a203df8-2d23-811f-ad2e-f79803369660",
+      "title": "安谋科技发起“开源 AIOS 联盟”，合作伙伴包含瑞芯微、紫光展锐、全志等",
+      "summary": "IT之家 7 月 19 日消息，安谋科技在 2026 世界人工智能大会期间宣布发起“开源 AIOS 联盟”，目前已吸引超 20 家生态伙伴入驻，涵盖芯片与 IP、大模型、AI 硬件、具身本体、软件方案、高校、科研等国内 AI 产学研全链路。IT之家从安谋科技公众号了解到，开源 AIOS 系统聚焦 AI 模型能力、传感与运控、AI 任务编排、记忆系统四大技术模块，有望重塑基于感知的生成式交互和具身互动体验，面向新一代 AI 产品。目前，“开源 AIOS 联盟”已有 20 家生态合作伙伴，其中牵头单位包括芯发科技、紫光展锐、瑞芯微、辉羲智能、此芯科技、全志科技等国内领先的芯片厂商，以及面壁智能、R",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/628.htm"
+    },
+    {
+      "id": "3a203df8-2d23-8169-a066-c0d6e47a699a",
+      "title": "本田推出商用自动驾驶电动割草机，售价 32999 美元",
+      "summary": "IT之家 7 月 19 日消息，如果你期待本田推出一款能够与特斯拉或通用汽车竞争的自动驾驶电动汽车，可能还需要再等一段时间。不过，在另一个规模同样达到数十亿美元的市场，本田已经率先迈出一步。面向园林设备市场，本田最新推出了具备自动驾驶能力的纯电动割草机 ProZision Autonomous ZTR，并已正式开始向经销商发货。这款产品最早于 2023 年以概念机形式亮相。今年 1 月，本田已在位于美国北卡罗来纳州、拥有 40 年历史的动力设备工厂启动量产工作。目前，这款售价 32999 美元（IT之家注：现汇率约合 22.4 万元人民币）的 AI 割草机正陆续进入市场，本田希望借此抢占美国规",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/627.htm"
+    },
+    {
+      "id": "3a203df8-2d23-8136-b303-f76ba61ee725",
+      "title": "雷军试乘小米澎程 N90 后排视频曝光，新车有望搭载智能电动门",
+      "summary": "IT之家 7 月 19 日消息，博主 @SugarDesign 分享了一段雷军亲自试乘小米澎程 N90 后排视频。从画面来看，雷军上车前车门自动打开，上车后车门也随之关闭，并且未见雷军进行其他操作。由此来看，小米澎程 N90 预计将搭载智能电动门。据IT之家此前报道，工信部 7 月 10 日发布了第 409 批《道路机动车辆生产企业及产品公告》新产品公示，小米汽车四款澎程系列插电式增程混合动力车型完成申报。本次申报包含四款车型，分别为小米澎程 N90 Max 露营版（插电式增程混合动力文化生活服务车）、小米澎程 N70（插电式增程混合动力多用途乘用车）、小米澎程 N70 Max（插电式增程混合",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/626.htm"
+    },
+    {
+      "id": "3a203df8-2d23-8103-9c69-cf91a932f0e8",
+      "title": "为防 AI 作弊，澳大利亚高校重新拥抱口试和线下考试",
+      "summary": "IT之家 7 月 19 日消息，随着越来越多大学担忧学生利用 AI 完成作业甚至作弊，澳大利亚高校正加快调整考试和评估方式，以维护学位的公信力。不过，澳大利亚国立大学（ANU）的一名学者认为，当前高校对 AI 的应对已经带有“歇斯底里”的意味；而另一位教授则警告，如果不能恢复教育的严谨性，澳大利亚的“国家智力能力”将被拱手送给美国和中国的科技公司。IT之家注意到，澳大利亚国立大学是积极应对生成式 AI 冲击的高校之一。学校担心，学生不仅可能利用 AI 作弊，还可能因此无法真正掌握课程知识。《2025 年澳大利亚数字包容指数》显示，78.9% 的中学和高校学生已经在使用生成式 AI。为此，澳大利",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/625.htm"
+    },
+    {
+      "id": "3a203df8-2d23-81d0-b575-fcf0c3ba4e5e",
+      "title": "柯达发布 EC35 胶片相机：经典滑盖设计、25mm f/10 固定镜头",
+      "summary": "IT之家 7 月 19 日消息，柯达现已在海外市场推出 EC35 胶片相机。这款产品定位“随身携带”（EDC），主打经典滑盖设计和简单易用的操控体验。据介绍，柯达 Kodak EC35 是一款 35mm 胶片傻瓜相机，采用全塑料机身，重量 102g，尺寸为 119*65*41.5mm。规格方面，这款相机配备一枚 25mm、固定 f/10 光圈的镜头，快门速度被固定在 1/100 秒，采用手动过片、手动回卷设计。内置电子闪光灯，使用一节 5 号碱性电池供电。外观方面，这款相机采用 20 世纪 90 年代末经典的滑盖设计，用户可在收纳时滑上盖子，保护镜头和取景器不被划花。官方提供午夜黑、香草白、黄",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/624.htm"
+    },
+    {
+      "id": "3a203df8-2d23-8189-aac6-c08e9fd704b8",
+      "title": "谷歌安卓系统最新漏洞曝光：Gemini 可绕过锁屏密码发送短信，官方即将修复",
+      "summary": "IT之家 7 月 19 日消息，据科技媒体 GSMArena 昨天报道，谷歌安卓系统存在一项身份验证绕过漏洞，可让攻击者在拥有物理访问权限的情况下，不输入锁屏密码就能通过 Gemini 发送短信或 WhatsApp 消息。IT之家从原报道了解到，该漏洞自今年 5 月以来被人们发现，最初是在 Android 16 系统、Pixel 6a 手机中复现。正常情况下，如果用户禁止 Gemini 访问消息等应用时，有人在锁屏界面要求 Gemini 发送短信，系统会就要求输入 PIN 码验证身份。然而，如果用户这时同时按下“继续”（Continue）和“添加附件”（Add attachment）按钮，系统",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/622.htm"
+    },
+    {
+      "id": "3a203df8-2d23-8196-aeb1-d8515d663e0c",
+      "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
+      "summary": "IT之家 7 月 19 日消息，荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 已在 2026 世界人工智能大会上正式发布。荣耀手机官方昨晚发布了 AgenticOS 的核心亮点一图知。据介绍，荣耀 AgenticOS 系统支持意图驱动、自然交互、主动智能、天生跨端四大特征，拥有行业首个系统级 Agent 架构，支持全局多智能体协同、全场景自适应沉淀和面向全场景智能体的自循环等能力。根据规划，8 月发布的荣耀 Robot Phone 将首发 AgenticOS 内核，而 Q4 发布的荣耀 Magic9 系列手机则会发布 AgenticOS 尝鲜版。据IT之家昨日报道，荣耀 Robot",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/621.htm"
+    },
+    {
+      "id": "3a203df8-2d23-81cd-90b3-c57e92c408e0",
+      "title": "博主指控索尼动用社交媒体水军引导舆论，为停售实体光盘政策洗白",
+      "summary": "IT之家 7 月 19 日消息，PlayStation 计划于 2028 年停止生产新的实体游戏光盘，此前曾有报道称，这一决定甚至对索尼内部不少部门都处于保密状态。如今，索尼又陷入了新的争议。IT之家注意到，知名 YouTuber、游戏行业爆料人 Moore's Law Is Dead（简称 MLID）近日声称，索尼可能动用了社交媒体机器人账号（Bot），试图引导舆论，淡化玩家对 PlayStation 全面数字化战略的强烈负面反应。MLID 表示，在相关消息公布后，他几乎找不到真正支持 PlayStation 放弃实体游戏的玩家。即便偶尔看到支持言论，相关账号也显得十分可疑。随后，他重点调查",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/619.htm"
+    },
+    {
+      "id": "3a203df8-2d23-81ae-b8ba-e82b89ae4ea7",
+      "title": "Steam Frame 头显何时发售？曝V社收到 19.3 吨 VR 设备",
+      "summary": "IT之家 7 月 19 日消息，据 X 平台博主 @HardwareSteam 前天爆料，V社近期收到三批“VR 设备”（Virtual Reality Devices），总重量达 19.304 吨（19304 公斤）。从该博主近期爆料可以看出，V社曾在一周多前收到一批货物，描述为“HMD（IT之家注：Head Mounted Display，头戴式显示器）+VR 控制器配件”。结合V社近期动作，这些货物很可能就是 Steam Frame 头显。目前，V社仍未正式公布 Steam Frame 的上市日期和售价。本月早些时候，Steam 平台已新增“非常适合 Frame”分类，方便用户查看 St",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/620.htm"
+    },
+    {
+      "id": "3a203df8-2d23-812c-8103-f9e44ca48048",
+      "title": "小米汽车回应澎程为何要用 76kWh 大电池，称源于做增程产品的底层理念「纯电长续航」",
+      "summary": "IT之家 7 月 19 日消息，小米汽车官方昨日发布了答网友问（第 261 集），针对小米澎程为什么要用 76kWh 的大电池、澎程系列 CLTC 最高纯电续航 505 km 日常开能跑多少等问题进行了解答。IT之家附小米汽车本期答网友问重点内容如下：小米澎程为什么要用 76kWh 的大电池？增程车有必要用大电池吗？小米澎程全系最大电池容量 76kWh。这个数字的选择，核心源于我们做增程产品的底层理念「纯电长续航」。「纯电长续航」是为了让用户在绝大多数场景下，都能享受纯电体验，用增程来保障长途时纯电体验的连续性。小米澎程系列 WLTC 最高纯电续航 380km、CLTC 最高纯电续航 505k",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/618.htm"
+    },
+    {
+      "id": "3a203df8-2d23-8137-a0ee-c2a0d907bb06",
+      "title": "美国初创公司发布机器人 AI 模型 ACT-2，宣称在陌生家庭叠衣成功率超 99%",
+      "summary": "IT之家 7 月 19 日消息，在家庭机器人竞赛中，最大的难题之一始终是让机器人进入陌生家庭后，依然能够完成各种家务，而无需针对每个家庭重新训练。如今，美国初创公司 Sunday Robotics 宣称，他们已经攻克了这一难关。当地时间周四，总部位于美国旧金山湾区的 Sunday Robotics 发布了新一代机器人 AI 模型 ACT-2，该模型将应用于旗下轮式家庭机器人 Memo。公司表示，在陌生家庭环境中进行测试时，即便面对此前从未专门训练过的衣物，Memo 的叠衣服成功率仍超过 99%。 Sunday Robotics 联合创始人兼 CEO Tony Zhao 在接受 Business",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/617.htm"
+    },
+    {
+      "id": "3a203df8-2d23-8144-ba57-ee88ee82a548",
+      "title": "《使命召唤》电影定调：现代战争宇宙、2028 年 6 月 30 日上映",
+      "summary": "IT之家 7 月 19 日消息，派拉蒙与动视曾在去年 9 月宣布，《使命召唤》系列 IP 将首次登上大荧幕舞台。如今导演彼得 · 伯格（IT之家注：Peter Berg）正式确认，《使命召唤》电影将以现代战争宇宙展开剧情。作为参考，《使命召唤：现代战争》系列游戏已经有六款正作，并于 2019 年完成重启。再过几个月，《使命召唤：现代战争 4》就要登陆 PC 和主机平台。不过遗憾的是，导演并没有透露电影的具体剧情。但可以预见的是，这部电影将包含大量高速动作场面和爆炸镜头。此外，本片计划 2028 年 6 月 30 日在影院上映，目前官方命名暂未公布。IT 之家小伙伴记得用最会买购买电影票，享受折",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/616.htm"
+    },
+    {
+      "id": "3a203df8-2d23-8120-8336-ef45bbfa5dbe",
+      "title": "华为 Pura X Max、智慧屏 S7 Pro 获国标人工智能 L3 等级手机、电视首证",
+      "summary": "IT之家 7 月 19 日消息，华为终端官方昨日宣布，HUAWEI Pura X Max、HUAWEI MateBook Pro、华为智慧屏 S7 Pro 获国标人工智能 L3 等级手机、电脑、电视首证。据IT之家今日早些时候报道，小米手机官方宣布，小米荣获首批《人工智能终端智能化分级》系列国家标准 L3 评级证书。小米表示，L3 级为目前有明确划分标准的最高智能化水平。作为参考，工业和信息化部、国家市场监督管理总局、商务部等部门于今年 5 月联合发布《人工智能终端智能化分级》（GB/Z 177—2026）系列国家标准。该标准将终端智能化水平划分为 L1 响应级、L2 工具级、L3 辅助级和 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/615.htm"
+    },
+    {
+      "id": "3a203df8-2d23-81b8-946f-ff350de233bf",
+      "title": "英伟达 CEO 黄仁勋东京行：敲定国家级 AI 工厂合作，送粉丝红豆糕",
+      "summary": "IT之家 7 月 19 日消息，英伟达 CEO 黄仁勋这次来到东京，不仅为日本科技产业带来了多项 AI 和机器人合作计划，还给现场等候的粉丝送上了红豆糕。当地时间周三，黄仁勋现身东京神田地区一家挂满红灯笼的传统居酒屋，引来大批民众围观，希望一睹这位在日本被亲切称为“皮夹克哥”（日语昵称“kawa-jan”，意为“皮夹克”）的风采。此次日本之行最重要的成果于周四公布。英伟达宣布与 Noetra 公司达成合作。这家由日本政府支持、软银（SoftBank）、NEC、索尼（Sony）和本田（Honda）共同成立的 AI 企业，将与英伟达携手建设一座配备 2.75 万块 GPU 的“AI 工厂（AI F",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/614.htm"
+    },
+    {
+      "id": "3a203df8-2d23-81e7-b3f1-f2496e6b13fa",
+      "title": "分析师：苹果 AI 策略“保守”反而是优势，可降低资本压力并驱动硬件升级",
+      "summary": "IT之家 7 月 19 日消息，据科技媒体 Wccftech 昨天报道，BRI Wealth Management 分析师 Toni Meadows 认为，市场对苹果 AI 战略的看法已经发生改变，他们采取相对保守的策略不仅降低资本支出压力，还能够依托强大的服务业务开辟新收入来源，有望推动更多硬件升级需求。IT之家从原报道获悉，AI 热潮推动一众科技公司高歌猛进，同时也给整个行业带来极大不确定性。而在刻板印象中，苹果似乎并没有跟上 AI 的脚步，其生成式 AI 长期缺乏明显进展。直到最近，该公司才推出 AI Siri 并全面升级 Apple 智能，希望借此弥补不足。Toni Meadows 表",
+      "source": "IT之家",
+      "publishTime": "2026-07-19",
+      "link": "https://www.ithome.com/0/978/613.htm"
+    },
     {
       "id": "3a103df8-2d23-815b-ae88-d5a283b138c3",
       "title": "英伟达全球销售体系开启新篇章：微软 26 年老将加盟出任销售负责人",
@@ -256,150 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-07-18",
       "link": "https://www.businessinsider.com/united-airlines-flights-delayed-nationwide-2026-7"
-    },
-    {
-      "id": "3a103df8-2d23-8182-a2a8-fbad6024f873",
-      "title": "AMD Zen 6 APU 跑分再曝光：单核跑分超越锐龙 AI 9 365 近 35%",
-      "summary": "IT之家 7 月 18 日消息，AMD 下一代 Zen 6 架构移动处理器（代号“Medusa Point”）一款 10 核 20 线程的 ES 工程样品再次出现在 Geekbench 数据库中，跑分成绩再创新高。数据显示，这款处理器的识别信息为“100-000001713-33_N”，测试平台显示为 AMD Plum-MDS1，配备 32GB 内存，运行 Win11 专业版，最终单核成绩 3329 分，多核成绩 16555 分。此前，该工程样品在 Geekbench 中的单核成绩为 3174 分，而最新测试提升至 3329 分，增幅约为 5%；多核成绩则从此前约 15000 分提升至 165",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/598.htm"
-    },
-    {
-      "id": "3a103df8-2d23-81ef-8887-d10149253e41",
-      "title": "摩尔线程联合创始人王东：推理市场没有“万能芯片”，而是解决方案的组合",
-      "summary": "IT之家 7 月 18 日消息，据财联社今日报道，GPU 厂商摩尔线程联合创始人、执行总裁王东说，“大模型的发展在国内外都非常迅速，现在头部厂商平均每两个月完成一次前沿基础模型版本迭代，而在模型的调用成本上，我们发现，中国前沿基础模型较国外同等智力水平模型有明显成本优势，中国模型性价比更优，这也恰恰说明模型公司在有限算力的情况下，对如何提升模型效率、价格效率以及训练成本方面做了非常多的工作。”王东指出，推理市场没有“万能芯片”，而是“解决方案”的组合，“推理市场的技术应用门槛相对较低，且场景高度碎片化，不存在任何一家公司能够垄断所有细分应用场景；没有绝对完美的单一硬件，通过灵活的软硬协同，每个",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/597.htm"
-    },
-    {
-      "id": "3a103df8-2d23-81ca-8e2e-c533c06d152d",
-      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
-      "summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and GoPro). […]",
-      "source": "The Verge",
-      "publishTime": "2026-07-18",
-      "link": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale"
-    },
-    {
-      "id": "3a103df8-2d23-81f5-9480-d8f64f49a850",
-      "title": "印度民营航天新突破：首枚自研轨道火箭维克拉姆-1 号发射成功",
-      "summary": "IT之家 7 月 18 日消息，据路透社今天（18 日）报道，印度航天初创公司 Skyroot Aerospace 成功发射了印度首枚民营轨道运载火箭，这也是印度首枚自主研发的轨道火箭。发射任务不仅是印度私人航天产业的重要里程碑，也将检验印度能否在全球商业发射市场中争取更大份额。维克拉姆-1 号于北京时间 14 时 35 分从斯里哈里科塔的萨蒂什 · 达万航天中心点火升空，执行首次轨道任务“阿加曼任务”，搭载了多项客户载荷和在轨实验设备。升空约 15 分钟后，维克拉姆-1 号顺利把载荷送入 450 公里高的轨道。印度由此成为全球第三个通过私营企业实现轨道发射的国家。Skyroot Aerosp",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/596.htm"
-    },
-    {
-      "id": "3a103df8-2d23-81af-876d-ecab93a69310",
-      "title": "马斯克：Grok 4.6 训练进入最后阶段，2 万亿参数模型下周完成初步训练",
-      "summary": "IT之家 7 月 18 日消息，埃隆 · 马斯克（Elon Musk）今日在 X 上回复网友时透露，xAI 正在训练中的下一代 Grok 4.6 模型参数规模将达到 2 万亿，预计将在下周完成初始训练。马斯克表示，2 万亿参数模型在各方面都优于当前的 1.5 万亿参数版本，同时推理速度和 Token 效率将接近现有的 1.5T 模型（即 Grok 4.5）。马斯克猜测它可能会超过月之暗面最新 Kimi 3。目前，xAI 尚未公布 Grok 4.6 的正式发布时间、训练细节以及完整技术指标。此前，xAI 已推出 Grok 系列多个版本。在参数规模方面，马斯克 2026 年 5 月表示 Grok ",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/595.htm"
-    },
-    {
-      "id": "3a103df8-2d23-81c4-89f5-fe9a7054a28e",
-      "title": "浙大等团队联合攻克顶级原子级材料合成三十余年难题，成果登《科学》",
-      "summary": "IT之家 7 月 18 日消息，浙江大学今日宣布，该校机械工程学院原子级材料制造实验室项荣教授团队联合大连理工大学、西湖大学、苏州实验室、北京大学及日本大阪大学、东京大学等国内外合作单位首次实现 TMDC 纳米管的手性可控合成，选择性获得扶手椅型纳米管，一举攻克了横亘该领域三十余年的核心挑战。据介绍，一维过渡金属二硫化物（TMDC）纳米管因 1D 量子限域效应、范霍夫奇点等独特量子现象，展现出特殊的力学、光学与电子学性质，理论上具有广阔的应用前景。1992 年，TMDC 纳米管被科学家首次发现。TMDC 是一个成员庞大的材料家族，二硫化钼、二硫化钨、二硫化锡等都属于此类。然而，手性可控合成这一",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/594.htm"
-    },
-    {
-      "id": "3a103df8-2d23-8178-9b57-f0f483e18888",
-      "title": "京东发布 JoyAI-Talker 实时语音交互模型与 JoyAI-Video-Edit 视频编辑模型",
-      "summary": "IT之家 7 月 18 日消息，2026 世界人工智能大会暨人工智能全球治理高级别会议（WAIC）昨日在上海世博、张江、西岸“三地四馆”同步启幕。7 月 18 日，京东以“AI 进入物理世界”为核心主题亮相上海世博展览馆，首次系统展示面向物理世界的 JoyAI 模型矩阵。在模型方面，京东推出了 JoyAI-Talker 实时语音交互模型与 JoyAI-Video-Edit 实时视频编辑模型。据京东介绍，JoyAI-Talker 具备低延迟对话、情绪理解、工具调用和记忆等能力，让 AI 从机械执行指令走向理解人的意图和状态。该模型能够通过声纹识别用户身份，结合环境数据理解对话意图。JoyAI-V",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/593.htm"
-    },
-    {
-      "id": "3a103df8-2d23-812e-b9be-cc315e1dd480",
-      "title": "Espresso martinis, Greek charcuterie, and a fight: inside my surreal 4 a.m. screening of 'The Odyssey'",
-      "summary": "I joined the sold-out 4 a.m. 70mm Imax screening of Christopher Nolan's 'The Odyssey' in London. It was a scene.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-18",
-      "link": "https://www.businessinsider.com/the-odyssey-early-morning-showtimes-imax-2026-7"
-    },
-    {
-      "id": "3a103df8-2d23-8167-ae7b-ca8cf653cf24",
-      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-      "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-18",
-      "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/"
-    },
-    {
-      "id": "3a103df8-2d23-8144-8c30-e7cbded5e06a",
-      "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
-      "summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along the way, she's garnered a Scripps Howard Award, a National Pr",
-      "source": "The Verge",
-      "publishTime": "2026-07-18",
-      "link": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview"
-    },
-    {
-      "id": "3a103df8-2d23-81f2-9364-ce791c30b15c",
-      "title": "反对 AI 数据中心“不受控”快速扩张，全美至少 125 个地点将举行抗议活动",
-      "summary": "IT之家 7 月 18 日消息，据路透社报道，反对 AI 数据中心快速扩张的民众计划于周六（7 月 18 日）在全美至少 125 个地点举行抗议活动。此次抗议活动由一个名为“人类优先 (HumansFirst)”的民间组织牵头。抗议者将举行集会，反对“不受控的”数据中心扩张行为，以及“对我们自由不可容忍的侵犯”。尽管遭到居民的强烈反对或缺乏监管审查，报道称某些地方官员仍在与开发商签署保密协议后，为这些项目开了绿灯。如今，数据中心带来的电费飙升、水资源被挪用以及环境污染等问题，导致民众的不满情绪持续发酵。据悉，反对数据中心扩张是少数几个能让美国人跨越意识形态分歧达成共识的议题之一。根据路透社与益",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/592.htm"
-    },
-    {
-      "id": "3a103df8-2d23-8192-89ce-eb70000b7ed7",
-      "title": "喊着“爸爸妈妈”的贴心主播反手骗了老人 1000 万，宁夏警方破获特大网络直播养老诈骗案",
-      "summary": "IT之家 7 月 18 日消息，据央视新闻今日报道，宁夏回族自治区中卫市中宁县公安局本月初破获了一起特大网络直播养老诈骗案，截至 7 月 9 日成功抓获犯罪嫌疑人 12 名。至此，一个长期盘踞在网络平台、以老年群体为目标的特大网络直播系列养老诈骗团伙被全链条摧毁。今年 4 月以来，中宁县公安局在工作中发现，有犯罪团伙运营多个直播账号，伪装成“实力雄厚的收藏大企业”，长期针对老年人实施精准诈骗。中宁县公安局网络安全保卫大队民警浦鹏介绍，主播在直播时说话特别亲切，一口一个“爸爸妈妈”，声称所售商品经过“大师开光”，能保平安、旺财运，购买后还可安排专人上门高价回收，冲榜靠前还能拿到百万现金。老年人防",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/591.htm"
-    },
-    {
-      "id": "3a103df8-2d23-81c3-a2be-d074b4ce382c",
-      "title": "前《GTA 5》首席制作人回忆开发往事：R 星砍了完整关卡和不少快完工的小游戏",
-      "summary": "IT之家 7 月 18 日消息，据外媒 NotebookCheck 今天（18 日）晚间报道，曾担任《侠盗猎车手 5》首席制作人的 R 星前制作人约翰 · 里基奥透露，由于各支开发团队已经不堪重负，没有足够人力把所有内容打磨到 R 星要求的水准，《GTA 5》最终砍掉了完整关卡和多款几乎制作完成的小游戏。里基奥表示，《GTA 5》开发期间遭到删除的内容数量非常庞大，部分关卡几乎已经全部完成，许多小游戏在接近完工后也难逃一砍。《GTA 5》拥有随机事件、各类活动、自由探索和支线内容，足以让玩家投入数百个小时。不过，R 星在开发过程中仍要不断取舍，决定哪些内容能够保留到正式版。为了确保整部游戏的完",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/588.htm"
-    },
-    {
-      "id": "3a103df8-2d23-81fd-88a1-ffb4b8cfcb97",
-      "title": "蔚来官宣 NIO Day 2026 将在武汉举行，有望首发最新产品、技术",
-      "summary": "IT之家 7 月 18 日消息，今晚，蔚来官宣 NIO Day 2026 城市申办投票结果出炉，武汉以 178,854,028 票位居三城榜首，成为由蔚来社区用户共同决定的 NIO Day 2026 的举办城市。IT之家注意到，蔚来 NIO Day 今年的申办城市包括：长春、重庆、哈尔滨、济南、南京、青岛、武汉、厦门。最终，哈尔滨、武汉、厦门入围最后投票阶段。目前，蔚来官方暂未公布 NIO Day 2026 的具体举办时间以及活动内容，按照以往惯例，本次活动预计将带来重磅产品发布。自 2017 年以来，NIO Day 已举办九届，IT之家附每一届的主要发布内容如下：2017：首届 NIO Da",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/587.htm"
-    },
-    {
-      "id": "3a103df8-2d23-8121-8be5-d0bfd8c9e91b",
-      "title": "The apartment I never would have picked became our family's home. I've learned to love it.",
-      "summary": "I moved into my partner's apartment which didn't check any of my must-have boxes. Five years later, we're married with a child and we're still here.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-18",
-      "link": "https://www.businessinsider.com/apartment-wouldnt-have-chosen-became-family-home-2026-7"
-    },
-    {
-      "id": "3a103df8-2d23-81e5-9dab-d739b8fa5cd4",
-      "title": "戴尔 XPS 13 2026 上架京东：酷睿 5 320 处理器，16+512GB 存储 8999 元",
-      "summary": "IT之家 7 月 18 日消息，戴尔 XPS 13 2026 现已上架京东及天猫，搭载酷睿 5 320 处理器，售价 8999 元与官网持平，叠加国补后 7649.15 元，堪称目前最贵 Wildcat Lake 笔记本电脑。京东戴尔（DELL）新款 XPS 13 第三代酷睿 5 320 13.4 英寸 AI 轻薄本学生办公 2.5K 120Hz 高刷触控屏 8999 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元",
-      "source": "IT之家",
-      "publishTime": "2026-07-18",
-      "link": "https://www.ithome.com/0/978/586.htm"
-    },
-    {
-      "id": "3a103df8-2d23-81b0-a7be-c518fa3cff06",
-      "title": "Big Tech earnings season and the capex spiral",
-      "summary": "Big Tech's AI spending is soaring, but higher capex may reflect inflation as much as expansion this earnings season.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-18",
-      "link": "https://www.businessinsider.com/big-tech-spending-capex-earnings-season-memory-prices-ai-2026-7"
-    },
-    {
-      "id": "3a103df8-2d23-814e-a245-ec6704f6ef69",
-      "title": "Surprise! Facial recognition smart locks are actually good",
-      "summary": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, press, or poke at the lock. One way to […]",
-      "source": "The Verge",
-      "publishTime": "2026-07-18",
-      "link": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review"
     }
   ],
   "macroEvents": [
