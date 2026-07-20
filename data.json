@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-07-21 03:12",
+  "updatedAt": "2026-07-21 04:47",
   "news": [
+    {
+      "id": "3a303df8-2d23-813a-83bd-cb52d2611ea7",
+      "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
+      "summary": "The end of the Ford F-150 Lightning was also the start of a new era for the automaker. After failing to capture the market with the electric version of its popular F-Series truck, Ford is going back to the drawing board with its Universal Electric Vehicle Platform. The first offering will be a $30,0",
+      "source": "The Verge",
+      "publishTime": "2026-07-21",
+      "link": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable"
+    },
+    {
+      "id": "3a303df8-2d23-8199-92fa-dcce937f810e",
+      "title": "Trump administration's head of AI safety agency resigns after 3 months on job",
+      "summary": "Arvind Raman, the director of National Institute of Standards and Technology, will serve as acting director of CAISI, according to a spokesperson",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-21",
+      "link": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html"
+    },
+    {
+      "id": "3a303df8-2d23-8151-8b2f-f5f36840af94",
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-21",
+      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+    },
+    {
+      "id": "3a303df8-2d23-8162-b49d-cebbf2de2ba6",
+      "title": "Even Mild Sleep Deprivation May Lead to Weight Gain",
+      "summary": "A recent study suggests that not getting enough sleep increases the risk of weight gain, and thus of conditions like heart disease and type 2 diabetes.",
+      "source": "Wired",
+      "publishTime": "2026-07-21",
+      "link": "https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/"
+    },
+    {
+      "id": "3a303df8-2d23-8137-b199-fb69894cfb8d",
+      "title": "Students who attended 10 elite schools accused of price fixing are now getting payments from a $284 million settlement",
+      "summary": "Students who attended schools including Yale, Brown, and Columbia began receiving payments on July 20 from a financial aid antitrust settlement.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-21",
+      "link": "https://www.businessinsider.com/financial-aid-price-fixing-settlement-students-now-getting-payments-2026-7"
+    },
+    {
+      "id": "3a303df8-2d23-81e9-9fac-e563f2cac87c",
+      "title": "I used to travel a lot for work. It ate away at me as a parent — until I talked to my kids about it years later.",
+      "summary": "It was hard to travel across the country for work often and leave my family behind, but my kids ended up OK and don't remember. The job was worth it.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-21",
+      "link": "https://www.businessinsider.com/parent-traveled-for-work-hard-kids-ok-worth-it-2026-7"
+    },
+    {
+      "id": "3a303df8-2d23-81d6-8c69-c4e747151327",
+      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
+      "summary": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-21",
+      "link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/"
+    },
+    {
+      "id": "3a303df8-2d23-81a9-a404-e8d2dc4bfe83",
+      "title": "All the celebrities spotted cheering on their favorite teams at the 2026 World Cup",
+      "summary": "Spain was declared the champions of the world on July 19, with plenty of celebrities on hand to watch their victory.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-21",
+      "link": "https://www.businessinsider.com/photos-celebrities-cheering-2026-world-cup"
+    },
+    {
+      "id": "3a303df8-2d23-81b2-ae5b-da769c34462f",
+      "title": "The new rules for building a career — and protecting it",
+      "summary": "Workers spend more time networking, learning AI, building personal brands, and preparing for layoffs as careers become harder to build and protect.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-21",
+      "link": "https://www.businessinsider.com/job-search-career-building-extra-work-ai-network-upskilling-linkedin-2026-7"
+    },
+    {
+      "id": "3a303df8-2d23-81b5-b5e5-e7280426b306",
+      "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
+      "summary": "A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported by Variety and Reuters. US District Judge Araceli Martínez-Olguín said that based on the new company's market share, \"t",
+      "source": "The Verge",
+      "publishTime": "2026-07-21",
+      "link": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro"
+    },
+    {
+      "id": "3a303df8-2d23-8120-97c1-e87877c2214d",
+      "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 4 发布",
+      "summary": "【点此直达升级教程】 IT之家 7 月 21 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 4 更新（内部版本号：24A5390f），本次更新距离上次发布 Beta/RC 间隔 14 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 i",
+      "source": "IT之家",
+      "publishTime": "2026-07-21",
+      "link": "https://www.ithome.com/0/979/262.htm"
+    },
+    {
+      "id": "3a303df8-2d23-818f-a022-e7898dec1434",
+      "title": "苹果 macOS 27.0 开发者预览版 Beta 4 发布",
+      "summary": "IT之家 7 月 21 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 4 更新（内部版本号：26A5388g），本次更新距离上次发布 Beta/RC 间隔 14 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / macOS 固件下载",
+      "source": "IT之家",
+      "publishTime": "2026-07-21",
+      "link": "https://www.ithome.com/0/979/263.htm"
+    },
+    {
+      "id": "3a303df8-2d23-815e-98ff-dfeb019a41b3",
+      "title": "苹果 iOS/iPadOS 26.6 RC 发布",
+      "summary": "【点此直达升级教程】 IT之家 7 月 21 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6 RC 更新（内部版本号：23G71），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / m",
+      "source": "IT之家",
+      "publishTime": "2026-07-21",
+      "link": "https://www.ithome.com/0/979/264.htm"
+    },
+    {
+      "id": "3a303df8-2d23-8100-9b51-ddb326f6ad29",
+      "title": "苹果 macOS 26.6 RC 发布",
+      "summary": "IT之家 7 月 21 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6 RC 更新（内部版本号：25G70），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大全》 本文由机",
+      "source": "IT之家",
+      "publishTime": "2026-07-21",
+      "link": "https://www.ithome.com/0/979/265.htm"
+    },
+    {
+      "id": "3a303df8-2d23-8161-8228-d775864cfd1e",
+      "title": "苹果 visionOS 26.6 RC 发布",
+      "summary": "IT之家 7 月 21 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.6 RC 更新（内部版本号：23O770），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 26 发布历史： 2026-07-14：visionOS 26.6 Beta 5 (23O5765a) 2026-07-07：visionOS 26.6 Beta 4 (23O5757c) 2026-0",
+      "source": "IT之家",
+      "publishTime": "2026-07-21",
+      "link": "https://www.ithome.com/0/979/266.htm"
+    },
+    {
+      "id": "3a303df8-2d23-8123-80c8-ef78ea4d2d1e",
+      "title": "苹果 watchOS 26.6 RC 发布",
+      "summary": "【点此直达升级教程】 IT之家 7 月 21 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.6 RC 更新（内部版本号：23U67），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / macOS ",
+      "source": "IT之家",
+      "publishTime": "2026-07-21",
+      "link": "https://www.ithome.com/0/979/267.htm"
+    },
     {
       "id": "3a303df8-2d23-81f1-94fd-ceed14f6e830",
       "title": "Archer stock rips 20% higher as company unveils military craft with Anduril",
@@ -272,134 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-07-20",
       "link": "https://www.businessinsider.com/ukraine-arms-makers-fear-slowdown-after-tech-champion-fedorov-dismissal-2026-7"
-    },
-    {
-      "id": "3a303df8-2d23-8136-94b6-d157a2cbf488",
-      "title": "中国商飞：290 座级的 C929 宽体飞机设计工作正在稳步推进",
-      "summary": "IT之家 7 月 20 日消息，7 月 20 日，中国商飞公司参加 2026 年范堡罗国际航展，展出了 C909 基本型和衍生型飞机模型以及 C919、C929 飞机模型，呈现了中国商用飞机系列产品布局。IT之家从官方介绍获悉，中国商飞公司持续丰富飞机产品谱系、推进系列化发展。90 座级的 C909 支线飞机对高温、高原、短窄跑道等运行环境具备良好的适应性，目前已交付十余家客户，主要在中国和东南亚地区投入商业运营。190 座级的 C919 单通道干线飞机已交付东航、国航、南航并投入商业运营。290 座级的 C929 宽体飞机设计工作正在稳步推进。在此基础上，中国商飞公司还推出了 C909 医疗",
-      "source": "IT之家",
-      "publishTime": "2026-07-20",
-      "link": "https://www.ithome.com/0/979/240.htm"
-    },
-    {
-      "id": "3a303df8-2d23-8169-a8cf-c49dc6326098",
-      "title": "Electric air taxis go to war",
-      "summary": "Electric aviation is still in its infancy, but manufacturers are already looking beyond mere air taxi trips across cities. Today, one of the leading air taxi startups, San Jose-based Archer Aviation, unveiled a new aircraft it co-developed with defense technology company Anduril - though the platfor",
-      "source": "The Verge",
-      "publishTime": "2026-07-20",
-      "link": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder"
-    },
-    {
-      "id": "3a303df8-2d23-8159-acfc-fe6c4cb2d45d",
-      "title": "AliExpress gets record €550m fine from EU for allowing sale of illegal products",
-      "summary": "It is the highest penalty imposed under the Digital Services Act and follows a two-year investigation.",
-      "source": "BBC Tech",
-      "publishTime": "2026-07-20",
-      "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3a303df8-2d23-81bd-a43d-cc7bdab746cb",
-      "title": "Avengers: Doomsday’s first trailer puts everyone on high alert",
-      "summary": "After months of teasing us with reminders about how large Avengers: Doomsday's cast is going to be, Marvel has finally released a proper trailer for the film. Though Robert. Downey Jr.'s Doctor Doom definitely appears to be causing a lot of the chaos in Doomsday's first trailer, the movie seems like",
-      "source": "The Verge",
-      "publishTime": "2026-07-20",
-      "link": "https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date"
-    },
-    {
-      "id": "3a303df8-2d23-81d8-8f9f-ff83ae7197b4",
-      "title": "漫威影业发布《复仇者联盟 5：毁灭之日》全新预告，12 月全球上映",
-      "summary": "IT之家 7 月 20 日消息，漫威影业今日发布《复仇者联盟 5：毁灭之日》全新预告，这部超英电影将于 12 月全球上映，预告时长 2 分 25 秒。本片将由罗素兄弟回归执导，小罗伯特・唐尼、克里斯・埃文斯、克里斯・海姆斯沃斯、佩德罗・帕斯卡、凡妮莎・柯比、汤姆・希德勒斯顿、安东尼・麦凯、塞巴斯蒂安・斯坦等人主演，将于 2026 年 12 月 18 日北美上映。此前，漫威影业正式公布了全新的《复仇者联盟 5》，同时宣布“钢铁侠”小罗伯特・唐尼回归漫威电影宇宙，这次他饰演的是超级大反派毁灭博士，堪称是钢铁侠和神秘博士的集合体。除了小罗伯特・唐尼和史蒂夫・罗杰斯回归外，官方此前还透露了 27 名演",
-      "source": "IT之家",
-      "publishTime": "2026-07-20",
-      "link": "https://www.ithome.com/0/979/239.htm"
-    },
-    {
-      "id": "3a303df8-2d23-8143-a97b-ebbb7e2c84f1",
-      "title": "元脑服务器：推出 CXL 内存跨代扩展方案，实现 DDR5 和 DDR4 同机部署内存扩容",
-      "summary": "IT之家 7 月 20 日消息，元脑服务器今日宣布，推出 CXL（Compute Express Link）内存跨代扩展方案，实现 DDR5 和 DDR4 同机部署内存扩容。官方表示，基于元脑服务器 NF5280，在 24 条本地 DDR5 内存基本配置下，通过自研 CXL 内存扩展卡，单机最多可扩展 16 条 DDR4 内存，按照单条内存 32GB 容量，额外扩展 512GB 内存，整机内存容量提升 33%，成本大幅降低 25%。IT之家从官方获悉，目前该方案已在国内某大型互联网客户完成验证并实现规模应用。据介绍，该方案结合元脑服务器操作系统 KOS 池化内存技术，将本地 DRAM 内存与 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-20",
-      "link": "https://www.ithome.com/0/979/238.htm"
-    },
-    {
-      "id": "3a303df8-2d23-8133-b2ff-d5d49afadd11",
-      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer",
-      "summary": "AMD is taking aim at Nvidia with Helios, its first AI rack system, and has landed Microsoft as a new customer, joining Meta, OpenAI and Oracle.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-20",
-      "link": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html"
-    },
-    {
-      "id": "3a303df8-2d23-81d9-9bd5-d0a54682f736",
-      "title": "古尔曼：新款 OLED 屏 iPad mini 处理器将迎来重大升级",
-      "summary": "IT之家 7 月 20 日消息，据彭博社的马克 · 古尔曼（Mark Gurman）报道，将于今年 10 月推出的新款 iPad mini 将带来“处理器重大升级”。此前有传闻称，下一代 iPad mini 将搭载 A19 Pro 芯片或 A20 Pro 芯片，较当前 2024 款机型的 A17 Pro 芯片有所升级。其他传闻中的特性还包括 OLED 显示屏、基于振动的扬声器系统以及更强的防水性能。IT之家注意到，消息人士 yeux1122 此前也爆料称，苹果 iPad mini 平板将在今年晚些时候发布。据介绍，这款平板将配备一块 8.4 英寸的 LTPS 混合 OLED 面板，刷新率为 6",
-      "source": "IT之家",
-      "publishTime": "2026-07-20",
-      "link": "https://www.ithome.com/0/979/236.htm"
-    },
-    {
-      "id": "3a303df8-2d23-81b6-9df1-f13ea8d68daa",
-      "title": "美团客服回应网传按骑手学历收费：从没有上线过此类增值服务",
-      "summary": "IT之家 7 月 20 日消息，近日，一张标注着本科专送、硕士优送的外卖结算截图，引发广泛关注。据大河报今日报道，负责用户配送服务的官方客服工作人员明确回应，从没有上线过任何按骑手学历划分收费标准的配送增值服务。工作人员告诉记者，平台所有配送服务收费标准，只和配送距离、天气、订单时段、运力情况挂钩，目前平台只施行用户拉黑骑手和打赏骑手的功能，不存在以学历为依据额外加价的规则。IT之家注意到，网传截图显示，该商家是一家潮汕牛肉火锅店，商品、收货地址、价格明细一应俱全。但配送选项栏分成四档，标准配送为 3 元，8 元“本科专送”标注骑手会持学位证上岗，可用英文说“您的外卖到了”；15 元“硕士优送",
-      "source": "IT之家",
-      "publishTime": "2026-07-20",
-      "link": "https://www.ithome.com/0/979/237.htm"
-    },
-    {
-      "id": "3a303df8-2d23-811b-bd2a-d6b793e0f7e0",
-      "title": "微软将在 Azure 云服务上部署 AMD Helios 机架系统，用于 AI 推理",
-      "summary": "IT之家 7 月 20 日消息，微软今日宣布，联合 AMD 扩展 Azure AI 与高性能计算（HPC）基础设施。微软表示，AI 工作负载的规模正急速膨胀，任何单一的基础设施方案都已无法完全支撑。为满足这一需求，微软正不断升级 Azure 的基础设施，包括采用 AMD 最先进的 AI 与高性能计算解决方案来扩充其 AI 计算集群。微软宣布，将 AMD 最新的 Helios AI 平台与下一代 EPYC 数据中心处理器引入 Azure。IT之家获悉，这些底层技术将驱动三款即将推出的 Azure 服务：用于数据处理的 HDv2 虚拟机；用于电子设计自动化 (EDA) 的 HXv2 虚拟机；用于 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-20",
-      "link": "https://www.ithome.com/0/979/235.htm"
-    },
-    {
-      "id": "3a303df8-2d23-814d-947a-ee137e6da463",
-      "title": "The most iconic food in every state",
-      "summary": "From Maine's famous lobster rolls to Tennessee's Nashville hot chicken, every state is known for an iconic dish.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-20",
-      "link": "https://www.businessinsider.com/most-famous-iconic-food-in-every-state"
-    },
-    {
-      "id": "3a303df8-2d23-811c-bca6-fc1b671be41f",
-      "title": "调查显示：苹果产品涨价致超九成用户调整购买行为，超 1/3 将降低升级频率",
-      "summary": "IT之家 7 月 20 日消息，一项针对数千名 9to5Mac 读者的调查显示，苹果产品价格上涨很可能会导致用户延长升级周期，即使是最忠实的苹果用户也难以完全不受影响。在调查结果中，“降低升级频率”是读者选择最多的应对方式，而只有 9% 的受访者表示，涨价不会改变他们的购买行为。苹果部分产品的价格涨幅已经超过 50%，在某些情况下，内存和存储容量升级的价格甚至翻了一倍。而目前的迹象显示，这种高价状态短期内并不会改善。随后的一份分析师报告指出，供应链价格在 2028 年之前可能不会出现明显改善，即使到那时，改善幅度也可能非常有限。这意味着，目前明显提高的苹果产品售价至少可能持续数年，甚至未来也不",
-      "source": "IT之家",
-      "publishTime": "2026-07-20",
-      "link": "https://www.ithome.com/0/979/234.htm"
-    },
-    {
-      "id": "3a303df8-2d23-813b-b71b-d3176d1c789b",
-      "title": "消息称比亚迪海狮 08 将于 8 月上市，有 5 座和 6 座车型版本",
-      "summary": "IT之家 7 月 20 日消息，据迪粉之家公众号，比亚迪海狮 08 配置信息曝光，其中纯电车型提供 800 公里和 900 公里续航版本，并且有 5 座和 6 座车型的版本，目前的消息是 8 月份上市。据IT之家此前报道，比亚迪海狮 08 今年 4 月在北京车展首发亮相，搭载第二代刀片电池、闪充技术、云辇-A（智能空气车身控制系统）、后轮转向、天神之眼 5.0 等配置。工信部申报信息显示，这款新车长宽高分别为 5115/1999/1800mm，轴距 3030mm。提供纯电、插混两种动力：纯电版：单电机低功率版 320kW，高功率版 370kW；双电机版峰值功率前 215kW / 后 370kW",
-      "source": "IT之家",
-      "publishTime": "2026-07-20",
-      "link": "https://www.ithome.com/0/979/233.htm"
-    },
-    {
-      "id": "3a303df8-2d23-81d9-98a7-d6e1a6d9e118",
-      "title": "I learned poker to get ahead at work. I'm more empowered in my career and have made incredible connections.",
-      "summary": "Every month, I play poker with a group of women professionals. The hobby has made me better at my advertising executive job and expanded my network.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-20",
-      "link": "https://www.businessinsider.com/playing-poker-better-at-job-making-connections-benefits-2026-7"
-    },
-    {
-      "id": "3a303df8-2d23-8159-ab1b-ec16a26fc480",
-      "title": "低空云层多年来为地球“遮阳降温”，但科学家预警这一趋势即将逆转",
-      "summary": "IT之家 7 月 20 日消息，近年来，低空云层数量增加，为海洋遮挡阳光并帮助降低地球温度。但这一反馈机制如今可能正在发生逆转，并可能进一步加快全球变暖速度。据IT之家了解，云层一直是预测未来气候变化过程中最大的“不确定因素”之一，因为它们反射太阳辐射的方式十分复杂，既可能让地球升温，也可能帮助降温。位于对流层上部的薄薄卷云，由于无法大量反射进入地球的阳光，反而会阻挡地表向外释放的热量，因此具有增温作用。相比之下，位于低层对流层的大面积层积云则会将阳光反射回太空，从而降低地球温度。这也是为什么地球工程研究人员曾尝试喷洒微小海水颗粒，希望制造更多、更明亮的反射性云层。气候模型预测，随着全球气温升",
-      "source": "IT之家",
-      "publishTime": "2026-07-20",
-      "link": "https://www.ithome.com/0/979/232.htm"
-    },
-    {
-      "id": "3a303df8-2d23-8158-9641-e0c92bdc32cf",
-      "title": "五羊本田 UQ3 电动摩托车发布：复古圆灯造型、68km 续航，3999 元",
-      "summary": "IT之家 7 月 20 日消息，五羊本田 UQ3 电动摩托车今日发布，采用复古圆灯 + 极简车身线条设计，售价 3999 元。IT之家从官方介绍获悉，该车采用高亮涂装 + 三层涂装工艺，杜绝橘皮、更抗刮耐晒，提供数码银、牛油果绿、奶咖白、极道黑、珍珠白等多款配色，车身尺寸为 1840*718*1090mm，轴距为 1325mm，配备五羊本田高强度车架、真空续航胎。该车搭载五羊本田高性能电机，峰值功率 2200W，极速至高可达 53km/h，WMTC 工况续航可达 68km，显示屏精准电量显示。实用性方面，该车提供 400*400mm 大踏板、30L 行李箱空间、670mm 大鞍座、前置物箱等配",
-      "source": "IT之家",
-      "publishTime": "2026-07-20",
-      "link": "https://www.ithome.com/0/979/230.htm"
     }
   ],
   "macroEvents": [
