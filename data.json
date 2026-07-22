@@ -1,6 +1,286 @@
 {
-  "updatedAt": "2026-07-22 08:55",
+  "updatedAt": "2026-07-22 12:44",
   "news": [
+    {
+      "id": "3a503df8-2d23-81b5-a9e9-c60c1ad05fce",
+      "title": "彭博预计到 2035 年，美国数据中心用电量将增至目前 4 倍",
+      "summary": "IT之家 7 月 22 日消息，彭博新能源财经最新报告显示，到 2035 年，美国数据中心的用电量预计将增至目前的 4 倍，占全国发电量的五分之一。AI 算力需求激增将推动数据中心规模在未来 10 年扩大至接近 200 吉瓦，其中近一半容量将服务于模型训练和推理，大部分仍会集中在美国。到 2033 年，按耗电需求计算，全球 64% 的 AI 芯片将部署在美国。从各机构不断上调预测的趋势来看，上述数字可能依然低估了实际需求。同时，大多数新建数据中心预计会接入本已不堪重负的电网。据外媒 TechCrunch 今天（22 日）报道，覆盖弗吉尼亚州至伊利诺伊州的 PJM 互联电网，未来可能需要把 34",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/859.htm"
+    },
+    {
+      "id": "3a503df8-2d23-814f-a093-c7d5ad96f4a8",
+      "title": "总台中国之声曝光 POS 机乱象：代理商为信用卡套现提供各种便利，低费率诱导购买",
+      "summary": "IT之家 7 月 22 日消息，据中央广播电视总台中国之声今日报道，POS 机刷卡消费，是我们日常生活中的常见场景。然而，这些本该被商户用来收款的工具，却在网上被违规推销给个人，成了信用卡套现的手段。同时，也有商家在投诉平台上反映，POS 机发行机构，又叫“收单机构”常常以低费率诱导购买 POS 机，背后却是层层套路。图源：Pexels山东的张先生半年前开了一家小卖铺，为收款方便，购买了一台 POS 机，看中的正是所谓的“刷卡手续费低”、无额外费用等，但实际用下来，却遇到各种理由的扣款和涨价。内蒙古的李先生直言，他办理 POS 机的就是为了套现，只是当时业务员承诺一年只收三四十元的流量费，但一",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/857.htm"
+    },
+    {
+      "id": "3a503df8-2d23-813d-b75f-e8961a6a5d82",
+      "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+      "summary": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-22",
+      "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/"
+    },
+    {
+      "id": "3a503df8-2d23-8187-a3eb-c5172b930812",
+      "title": "超 60% 的 V-NAND 产能给英伟达，三星加速 V9、V10 闪存布局",
+      "summary": "IT之家 7 月 22 日消息，韩媒 sedaily 于 7 月 20 日发布博文，报道称在 NAND Flash 闪存供应方面，三星正扩大和英伟达的合作，向后者供应超过 60% 的 V-NAND（垂直 NAND）产能。IT之家注：V-NAND 是一种通过纵向堆叠存储单元提升容量与密度的闪存架构。与平面 NAND 相比，它可在相同芯片面积内容纳更多存储层，常用于企业级 SSD、数据中心存储和高容量移动存储产品。报道指出伴随着 AI 服务器规模扩大，临时上下文数据（Key-Value cache，也称 KV 缓存）规模持续扩大，已开始形成数据瓶颈。英伟达希望通过 Context Memory S",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/856.htm"
+    },
+    {
+      "id": "3a503df8-2d23-815e-bff5-ff0a9653cffe",
+      "title": "雷蛇推出魔音海妖 V3 幻彩版 32 位 DSP 麦克风，支持 AI 音频处理",
+      "summary": "IT之家 7 月 22 日消息，Razer 雷蛇昨日宣布推出魔音海妖 V3 幻彩版 32 位 DSP (Seiren V3 Chroma 32-Bit DSP)。这一超心形拾音 USB 麦克风采用 32 位音频数字信号处理，提供更显著的动态余量，可呈现更干净的人声。此款麦克风具备 AI 驱动的智能音频处理，内置降噪、自动均衡、压缩、限幅功能；支持 120dB 最大声压级、112dB 信噪比；具备由雷蛇 Chroma 技术支持的直播与游戏响应式灯光效果；提供轻触式静音传感器；兼容麦克风臂架。",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/855.htm"
+    },
+    {
+      "id": "3a503df8-2d23-81ac-bf05-d29739e5f6db",
+      "title": "《战地 6》赛季更新致 RTX 50 系列显卡驱动崩溃，EA 与英伟达联手修复中",
+      "summary": "IT之家 7 月 22 日消息，EA《战地风云 6》第 4 赛季“太平洋前线”（Pacific Front）昨日正式上线。然而该更新推送后，部分 PC 玩家反馈游戏出现频繁崩溃的问题。《战地》官方账号今日发布声明，开发团队确认在搭载 NVIDIA GeForce RTX 50 系列显卡的 PC 上存在稳定性问题。该问题似乎主要出现在包含大面积水域的地图中，包括本赛季新上线的大型地图“津留礁”（Tsuru Reef），游戏在这些地图上会导致 GPU 驱动程序崩溃。EA 在声明中表示，正在与 NVIDIA 合作以确定解决方案。对于遭遇崩溃的玩家，官方建议暂时将 NVIDIA 驱动回滚至 596.4",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/854.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8191-905e-dd507f578133",
+      "title": "原《极限竞速：地平线 5》总监：微软 XGP 理论上很好，奈何订阅人数实在不多",
+      "summary": "IT之家 7 月 22 日消息，曾在 Playground Games 担任《极限竞速：地平线 5》总监、目前负责 Maverick Games 开放世界赛车游戏《Clutch》开发的迈克 · 布朗认为，XBOX 近年来围绕 XBOX Game Pass 制定整体战略，却没有获得足够多的订阅用户，最终引发业务重组、大规模裁员和工作室剥离。据外媒 EuroGamer 当地时间 21 日报道，布朗表示：“XBOX 为 XGP 投入了巨额资金，收购大量团队、资助大量游戏，也创造了大量工作岗位，希望不断让新游戏加入服务并提供给玩家。然而，愿意按照维持业务所需价格订阅的人数并不够多，实在令人难过。接下来",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/853.htm"
+    },
+    {
+      "id": "3a503df8-2d23-815d-8847-ca7bfe356f78",
+      "title": "中国银联与 15 家商业银行合作推“智能体银行卡”，航旅纵横、滴滴等一键智能支付",
+      "summary": "IT之家 7 月 22 日消息，中国银联 7 月 20 日宣布推出智能体银行卡解决方案，携手商业银行开启银行卡“智能体”时代。中国银联携手 15 家商业银行，相继推出 AI 智能体银行卡产品。该系列产品将大模型算力、智能体会员、 AI 办公学习工具等纳入银行卡权益体系，标志着银行卡从支付工具向 AI 能力分发载体演进。银联通过 MaaS 能力输出，将多年积累的大模型能力、金融垂域 AI 能力通过标准化接口开放给银行等合作伙伴，形成一套标准化、可复制的智能体银行卡解决方案。支付功能方面，银联已与商业银行、智能体场景商户推进一键智能支付核心功能，航旅纵横、滴滴等应用场景将作为首批试点商户。IT之家",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/852.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8145-9f92-d9987a47118a",
+      "title": "光模块龙头中际旭创启动 H 股招股：最高发行价 1010 港元预计募资 545 亿港元或成港股年内最大 IPO，拟 7 月 30 日上市",
+      "summary": "IT之家 7 月 22 日消息，光模块龙头企业中际旭创今日发布公告，宣布正式启动招股，公司拟全球发售约 5450 万股 H 股（视乎超额配售权行使与否而定），预期将于 7 月 30 日在港交所主板挂牌上市。根据公司公告，本次全球发售的股份中，香港发售约占 10%，国际发售约占 90%，另有 15% 的超额配股权。中际旭创每股发售价最高不超过 1010 港元（现汇率约合 872.9 元人民币），公司预计将于 7 月 28 日前后确定发行价格。中际旭创是全球领先的光互连解决方案提供商，主要产品为光模块，通过实现电信号与光信号的相互转换，在云端及 AI 基础设施中实现服务器、交换机等设备之间的高速、",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/850.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8155-b88c-d38d5c6db3e3",
+      "title": "谷歌 7000km 跨大西洋海底光缆 Nuvem 落成，连接美国与葡萄牙",
+      "summary": "IT之家 7 月 22 日消息，Alphabet 旗下 Google（谷歌）当地时间昨日表示，其连接美国与葡萄牙的跨大西洋海底光缆项目 Nuvem 正式落成。\"Nuvem\" 一词葡萄牙语中意为“云”。IT之家了解到，Nuvem 系统两端分别为美国南卡罗来纳州 Myrtle Beach 和葡萄牙 Sines，还途经了英国海外自治领地百慕大和葡萄牙的亚速尔群岛，全长约 7000km，由 16 对光纤组成，总设计容量约为 384Tbps。Google Cloud EMEA 政府事务和公共政策主管 Giorgia Abeltino 表示，Nuvem 是葡萄牙和欧洲投资支撑数字经济的战略基础设施这一更广",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/848.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8178-98ee-d5dc1fabd34b",
+      "title": "投资者争相买入马斯克旗下资产：Neuralink 二级市场估值飙升至 420 亿美元，较去年增长近四倍",
+      "summary": "IT之家 7 月 22 日消息，据 Business Insider 今日报道，埃隆 · 马斯克旗下的脑机接口初创公司 Neuralink 在近期的二级市场交易中，估值达 290 亿美元至 420 亿美元（IT之家注：现汇率约合 1965.24 亿元至 2846.21 亿元人民币）。这一数字较该公司去年上一轮融资时的估值增长了近四倍。私募市场研究机构 Caplight 称，甚至有部分买家试图以接近 600 亿美元估值的价格购买 Neuralink 股份。由于 Neuralink 是一家私营公司，投资者通过二级市场购买由员工或早期投资者出售的股份，这些估值是基于市场需求的估算，而非公开市场的连续",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/846.htm"
+    },
+    {
+      "id": "3a503df8-2d23-81dd-8298-d31311af36f9",
+      "title": "苹果已修复“隐藏电子邮件”漏洞，7 月 7 日前创建地址仍存泄露风险",
+      "summary": "IT之家 7 月 22 日消息，科技媒体 404Media 昨日（7 月 21 日）发布博文，刊发来自苹果公司的官方声明，指出该公司已经于 7 月 3 日部署补丁，修复了“隐藏电子邮件”（Hide My Email）功能漏洞。IT之家注：Hide My Email 是苹果在 iCloud+ 中提供的隐私功能，可生成随机匿名邮箱，供用户注册网站、服务或对外收发邮件。其目的在于减少真实邮箱地址直接暴露给第三方，降低跨服务关联和信息泄露风险。消息称该漏洞最早由 EasyOptOuts 公司发现，在 2025 年 6 月报告给苹果公司后，一直没有后续动作。苹果公司曾于 2026 年 3 月回复称已修复",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/847.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8179-ae6f-d162008e9928",
+      "title": "北京通用人工智能研究院院长朱松纯：AI 行业少不了文科生",
+      "summary": "IT之家 7 月 22 日消息，据央视财经 20 日报道，北京通用人工智能研究院院长、北京大学智能学院院长朱松纯表示，做人工智能少不了文科生，AI 时代需要文理工跨界通才。他认为，通用人工智能本质就是“造人”，而搞懂“什么是人”，恰恰是人文社科的长项。朱松纯教授寄语青年与家长：未来的 AI 时代，我们需要的是穿透文理工跨界的“通才”。我们“通班”在北大和清华目前是全国高考最好的一些学生，在我们的班上目前是特别的热门。以前还需要我去动员，现在不需要我动员了，大家都来学。那么我想跟他们说的是，未来肯定是通用人工智能的时代。但是大家要有耐心，要打好基础。我们以前的人才就是挖井一样的越挖越深，（培养）",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/845.htm"
+    },
+    {
+      "id": "3a503df8-2d23-81f5-90b5-c096738a2f80",
+      "title": "Samsung Galaxy Unpacked July 2026: How to watch",
+      "summary": "Samsung's next Galaxy Unpacked event is just around the corner, and the company is expected to take the wraps off a bunch of new devices. Based on the rumors and leaks we've seen so far, Samsung's next generation of foldables will likely be the stars of the show. Samsung is expected to show off a […",
+      "source": "The Verge",
+      "publishTime": "2026-07-22",
+      "link": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch"
+    },
+    {
+      "id": "3a503df8-2d23-8133-8e33-c104d2a20994",
+      "title": "消息称三星李在镕、SK 集团崔泰源等韩国 AI 企业掌门将在美集体与英伟达黄仁勋会面",
+      "summary": "IT之家 7 月 22 日消息，据韩联社今日报道，有关行业消息称，三星电子会长李在镕、SK 集团会长崔泰源、NAVER 董事会主席李海珍近期将在美国与英伟达 CEO 黄仁勋举行圆桌对话。报道提到，圆桌对话很可能于 7 月 24 日在硅谷附近举行，预计 OpenAI CEO 萨姆 · 奥尔特曼和 Anthropic CEO 达里奥 · 阿莫迪也有可能出席。IT之家注意到，黄仁勋今年 6 月刚刚去了韩国，在首尔麻浦区弘大入口站附近的一家韩式烤肉店与 SK 集团会长崔泰源、LG 集团会长具光谟、NAVER 董事会主席李海珍共进晚餐。黄仁勋还表示，英伟达已着手在韩新建 AI 技术中心项目，正在录用韩国",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/844.htm"
+    },
+    {
+      "id": "3a503df8-2d23-81d4-9300-f934b9ba81eb",
+      "title": "Anthropic 首次面临专利侵权案件，遭田纳西大学研究基金会起诉",
+      "summary": "IT之家 7 月 22 日消息，据路透社当地时间 21 日报道，Anthropic 首次面临专利侵权诉讼：获得田纳西大学知识产权许可的非营利组织田纳西大学研究基金会当地时间本周一在特拉华州联邦法院起诉 Anthropic 侵犯专利。田纳西大学研究基金会宣称“Anthropic 在产品开发过程中对他人知识产权的漠视态度，不仅限于使用受版权保护的材料”，指控这家人工智能企业的系统产品侵犯了该大学教授发明的两项专利，这些专利涵盖了“对人工智能、机器学习、神经形态计算和神经科学启发式计算领域做出的重大贡献”。Anthropic 的发言人回应称：“我们不同意这些指控，并将全力捍卫我们的权益。”",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/842.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8122-bed6-c1df71189774",
+      "title": "耳听为虚：AI 冒充亲友、伪造名人声音、散布虚假言论，国家安全部警示 AI 语音深度合成三大风险",
+      "summary": "IT之家 7 月 22 日消息，国家安全部今日发文，对于当前 AI 语音克隆技术可能存在的风险进行了警示。得益于 AI 技术的快速发展，AI 已能在极短时间内完成对真实人声的高仿真复刻，但相关滥用行为正严重扰乱社会秩序、侵害群众财产安全。国家安全部分析了 AI 语音克隆技术的三个主要特征。其一，采样速度极快，主流商业平台所需的最短训练样本时长已从几十分钟压缩至 3 到 5 秒。其二，合成语音极为逼真，研究显示在无提示情况下普通人识别高质量合成语音的准确率不足 50%。其三，操作极为简便，大批在线平台向公众开放“声音克隆”功能，普通用户上传样本即可一键生成。当声音可被随意伪造时，其承载的信任价值",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/841.htm"
+    },
+    {
+      "id": "3a503df8-2d23-81bf-8f39-cc6b78c77b3e",
+      "title": "英伟达 Jetson 系列全线涨价，部分型号价格翻倍",
+      "summary": "IT之家 7 月 22 日消息，当地时间 7 月 21 日，VideoCardz 发现英伟达悄悄上调了其 Jetson 系列全部产品的价格，部分型号涨幅高达 101%，但官方未对此次调价做出任何解释。此次调价涵盖目前所有三款开发者套件及仍在售的全部量产模组：旗舰级 Jetson AGX Thor 开发者套件从 3,499 美元涨至 5,499 美元（IT之家注：现汇率约合 37265 元人民币），涨幅 57%；Jetson AGX Orin 开发者套件从 1,999 美元涨至 3,499 美元（现汇率约合 23712 元人民币），涨幅 75%；Jetson Orin Nano Super 开发",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/840.htm"
+    },
+    {
+      "id": "3a503df8-2d23-81c0-b1f2-cc80441ad76f",
+      "title": "小红书大模型 IMO 满分夺金，第三题解法让冠军选手直呼优雅",
+      "summary": "刚刚，IMO 2026 成绩新鲜出炉，大模型交卷今年卷到了新高度。经 IMO 官方评定，小红书大模型 dots-note-3.0，六道题全部答对，以满分成绩斩获金牌。含金量有多高呢？这么说吧，这是中国大模型首次获得 IMO 官方金牌水平认证，也是继谷歌 Gemini 模型之后，全球第二个达到该成绩的大模型。而且划重点！是满分！谷歌当年也只答对了 5/6……震惊了，这还是我印象中的小红书吗？首次登上世界级竞赛，就来了场开门红～再往下深扒，小红书大模型 dots-note-3.0 的解题方式也让人眼前一亮又一亮：它仅用自然语言就完成了从读题、解析到写证明的全过程，最终答案不仅全部正确，在部分题目上",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/839.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8195-8bd7-dd721ccb231c",
+      "title": "今年 6 月，电动汽车在欧洲市场份额已达四分之一",
+      "summary": "IT之家 7 月 22 日消息，据外媒 insideevs 当地时间 21 日报道，2026 年上半年，欧洲纯电汽车销量突破 124 万辆，同比增长 33.7%，市场需求继续扩大。6 月增长进一步提速，17 个欧洲市场共注册 275060 辆纯电汽车，同比大增 39.5%。E-Mobility Europe 和 New AutoMotive 公布了上述数据。New AutoMotive 表示，统计覆盖的 17 个市场约占欧盟与欧洲自由贸易联盟新车市场总量的 90%。6 月每四辆新注册汽车中，就有超过一辆是纯电车型，市场份额达到 25.6%。纯电汽车去年 12 月首次在欧洲超过非混动燃油车。今年",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/838.htm"
+    },
+    {
+      "id": "3a503df8-2d23-81a6-9590-e5b93747b3f2",
+      "title": "智能体 AI 测试：英伟达 Vera CPU 比英特尔 Sapphire Rapids 快 2.2 倍",
+      "summary": "IT之家 7 月 22 日消息，云端 AI 推理平台 DeepInfra 昨日（7 月 21 日）发布博文，报道称在生产环境下智能体 AI（Agentic AI）负载测试显示，英伟达 Vera CPU 速度是其它 CPU 的 2 倍多。英伟达在此前官方博文中指出，相比较 AMD 的 Turin 9755 处理器，Vera CPU 在处理智能体 AI 负载上的性能提升 80%。而在 DeepInfra 最新测试中，英伟达 Vera CPU 的 runc（基于 Linux 内核特性的“进程级”轻量化容器）延迟为 29ms，而英特尔 Sapphire Rapids 为 64ms，英伟达 Vera 快",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/837.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8178-9c80-e8925a5c377d",
+      "title": "Sony’s 'ironic' PlayStation disc decision upends gamer conventions and threatens a $7 billion resale market",
+      "summary": "In 2013, Sony tweaked Xbox by showing how easy it was to share a PlayStation disc. Now, gamers say Sony has become exactly what it mocked.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-22",
+      "link": "https://www.cnbc.com/2026/07/22/sonys-playstation-disc-decision-threatens-a-7-billion-resale-market-.html"
+    },
+    {
+      "id": "3a503df8-2d23-8164-9b9d-c5fc434ca77a",
+      "title": "派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等",
+      "summary": "英伟达推出合成视频检测器 NIM、WordPress 曝出高危漏洞等。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-07-22",
+      "link": "https://sspai.com/post/112597"
+    },
+    {
+      "id": "3a503df8-2d23-81f3-af65-fed35886ec62",
+      "title": "From Substack to YouTube, here are the social platforms cracking down on AI slop",
+      "summary": "Platforms like YouTube and TikTok are navigating the fine line between a fine line between embracing AI and low-quality, machine-generated content.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-22",
+      "link": "https://www.businessinsider.com/ai-slop-substack-youtube-tiktok-pinterest-facebook-instagram-threads-2026-7"
+    },
+    {
+      "id": "3a503df8-2d23-81fa-b3df-e7634c306f0d",
+      "title": "LG Display 2026 财年第二财季营收 5.61 万亿韩元，同比增长 0.45%",
+      "summary": "IT之家 7 月 22 日消息，LG Display 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第二财季（2026 年 4 月～2026 年 6 月）业绩快报报告：营业总收入：5.61 万亿韩元，同比增长 0.45%归母净利润：-1077.28 亿韩元，同比亏损收窄 7.16%AI 解读本次 LG 显示 2026 财年第二财季营收 5.6121 万亿韩元，低于机构一致预期的 5.6623 万亿韩元；营业亏损 1077 亿韩元，亏损幅度大于市场预期的平均 80 亿韩元亏损。核心业绩表现2026 财年第二财季：实现合并营业收入 5.61 万亿韩元，同比上年同期 增长 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/835.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8112-ba81-cf8677979f7f",
+      "title": "英伟达详解 Vera CPU：专为智能体 AI 构建，88 个 Olympus 核心、1.2 TB/s LPDDR5X 内存",
+      "summary": "IT之家 7 月 22 日消息，英伟达昨日（7 月 21 日）发布博文，从技术角度详细介绍了 Vera CPU，专为智能体 AI（Agentic AI）场景设计。英伟达表示智能体 AI 将更多的关键执行路径转移到了 CPU 上。智能体（Agents）在沙箱中运行代码、调用工具、检索上下文、与数据库交互以及分析结果，然后再将信息返回给模型。IT之家援引博文介绍，智能体 AI 工作负载主要取决于以下几点：即使插槽完全负载，也需要强大的单线程性能。每个核心都有足够的内存带宽，以持续为许多活跃的执行上下文提供数据。并发下的延迟具有可预测性，以便智能体能够稳定完成预定步骤。高效处理不规则控制流、长依赖链",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/834.htm"
+    },
+    {
+      "id": "3a503df8-2d23-81ee-9180-d57792b78bf6",
+      "title": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
+      "summary": "Global biotech firms are increasingly being drawn to Hong Kong for its growing investor base and proximity to Chinese pharmaceutical partners.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-22",
+      "link": "https://www.cnbc.com/2026/07/22/axiom-aiosciences-ipo-listing-hong-kong.html"
+    },
+    {
+      "id": "3a503df8-2d23-81e1-9ae5-ccccf3a98082",
+      "title": "Twitch 强化家长控制功能，可直接禁止自家子女开播",
+      "summary": "IT之家 7 月 22 日消息，据外媒 The Verge 今天（22 日）报道，Twitch 上线了更完善的家长控制功能，家长不仅可以查看子女的使用情况，还能完全禁止他们开播。监护人可以把自己的 Twitch 账号与 13 至 17 岁子女的账号关联，统一管理账号，并每周通过电子邮件收到使用报告，了解子女观看过哪些频道以及观看了多长时间。家长可以禁止青少年直播，也可以关闭 Twitch 私信功能 Whispers，阻止未成年人发送或接收私信。此外，家长还能够针对青少年使用的所有设备设置灵活的每日时长上限，并屏蔽带有“赌博”“成人分级游戏”或“性主题”等分类标签的内容，避免有关内容出现在搜索结",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/833.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8173-b9f3-c0ec5ec6674e",
+      "title": "Glorious 宣布 GHS 无线 InfinitePlay 换电耳机，配 2 块 85+ 小时电池包",
+      "summary": "IT之家 7 月 22 日消息，科技媒体 TechPowerUp 昨日（7 月 21 日）发布博文，报道称美国外设品牌 Glorious（IT之家查询公开信息，暂未发现中文品牌名称）推出 GHS Wireless InfinitePlay 无线游戏耳机，最大亮点是配备 2 块可拆卸电池，每块电池可持续播放 85 小时以上。 这款游戏耳机采用 Guardian Battery System，该电池系统最早应用于 Glorious V3 鼠标，在今年 4 月宣布进军游戏耳机市场后，在本次推出的 GHS Wireless InfinitePlay 无线游戏耳机中整合换电设计。根据官方介绍，该系统配备",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/832.htm"
+    },
+    {
+      "id": "3a503df8-2d23-81ae-901e-d42dde5443a8",
+      "title": "“史诗级”更新：微软悄悄测试 Win11 原生深色“属性”界面",
+      "summary": "IT之家 7 月 22 日消息，深色模式是 Windows 11 在视觉设计上长期存在的不统一之处。按照常理，启用深色模式后，整个系统界面都应切换为深色，但部分组件始终没有完成适配。“属性”面板就是最明显的例子。无论系统使用浅色还是深色主题，窗口始终保持白色，与周围界面格格不入。问题看似微不足道，但一旦注意到便很难视而不见，对追求界面统一的用户尤其如此。情况终于出现变化。据外媒 Neowin 今天（22 日）报道，Windows 11 实验性版本 26300.8935 中已经隐藏了现代化的深色“属性”界面。新设计目前只应用于已删除文件的界面，还没有覆盖所有“属性”窗口，却足以说明微软已经开始着",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/831.htm"
+    },
+    {
+      "id": "3a503df8-2d23-811a-95ec-df43ea7c1c35",
+      "title": "SK 海力士回应收购英特尔美国晶圆厂传闻：没有相关计划",
+      "summary": "IT之家 7 月 22 日消息，韩国媒体《中央日报》今日早些时候报道称，SK 海力士正在与英特尔就收购后者位于美国俄亥俄州的新建晶圆厂进行谈判，计划未来在美国实现存储芯片前端制造。不过，SK 海力士随后通过发言人回应称，公司“没有收购计划”，否认了相关报道内容。英特尔方面也表示，公司不会对媒体关于未来商业协议的猜测发表评论，但仍将继续推进俄亥俄项目建设。此前《中央日报》援引匿名业内人士消息称，SK 海力士正在评估收购英特尔俄亥俄州半导体园区的可能性，目标是在未来五年内利用该基地生产存储芯片。据报道，该交易如果推进，可能帮助 SK 海力士扩大美国本土生产布局，同时为英特尔晶圆代工业务提供资金支持",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/830.htm"
+    },
+    {
+      "id": "3a503df8-2d23-8133-962a-f1f58745da9a",
+      "title": "Phone calls on flights could soon be banned. Former flight attendants say it's about more than manners.",
+      "summary": "A new bill would ban phone calls on flights. Former flight attendants say it would be good for passengers and crew.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-22",
+      "link": "https://www.businessinsider.com/phone-call-ban-airplanes-flight-attendants-passengers-safety-etiquette-2026-7"
+    },
+    {
+      "id": "3a503df8-2d23-813a-b2c5-d5aaaea83339",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-22",
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/"
+    },
+    {
+      "id": "3a503df8-2d23-819d-bc3a-f70bf187515f",
+      "title": "突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热",
+      "summary": "IT之家 7 月 22 日消息，科技媒体 Wccftech 昨日（7 月 21 日）发布博文，报道称三星自研 Exynos 2700 芯片主频可能突破 4.00GHz 频率门槛，目标峰值为 4.20GHz。消息称在三星 2nm GAA 工艺下，三星 Exynos 2600 芯片主频最高可以达到 3.9GHz。而伴随着三星不断提升良率，三星新一代 2nm 制程 SF2P 有望解锁更高的时钟频率。消息源称三星在改善 SF2P 良率后，Exynos 2700 芯片的目标主核频率为 4.20GHz。此外为了压制散热，三星计划采用 Side-by-Side（SbS）架构，进一步提高散热能力。IT之家此前",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/829.htm"
+    },
+    {
+      "id": "3a503df8-2d23-81fc-bdbf-e28a28fbd56b",
+      "title": "“后 FIFA 时代”首次，法国球星姆巴佩登上《EA Sports FC 27》终极版封面",
+      "summary": "IT之家 7 月 22 日消息，EA Sports 宣布，法国国家队和皇家马德里前锋基利安 · 姆巴佩将担任《EA Sports FC 27》终极版封面球星。《EA Sports FC 27》将于今年晚些时候发售，姆巴佩也将再次登上 EA 足球游戏系列封面。姆巴佩上一次成为系列封面球星还要追溯到 4 年前的《FIFA 23》，当时 EA 尚未结束与 FIFA 的授权合作。姆巴佩说：“首次登上《EA Sports FC》封面，对我而言是非常特别的时刻。能够在系列迈入新篇章之际延续长期合作，并与塑造系列历史的球员并肩出现，是我的荣幸。我已经迫不及待想让所有人体验《EA Sports FC 27》。",
+      "source": "IT之家",
+      "publishTime": "2026-07-22",
+      "link": "https://www.ithome.com/0/979/828.htm"
+    },
     {
       "id": "3a403df8-2d23-8132-87bd-c07ef9c75a66",
       "title": "美国将改革科研资金分配：从大学转向 AI，影响 2000 亿美元预算",
@@ -120,286 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-22",
       "link": "https://www.ithome.com/0/979/813.htm"
-    },
-    {
-      "id": "3a403df8-2d23-8173-bf62-c458ed30d014",
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-      "source": "Wired",
-      "publishTime": "2026-07-22",
-      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/"
-    },
-    {
-      "id": "3a403df8-2d23-81de-97ac-c1882a4312c9",
-      "title": "纬创资通美国首家半导体工厂：投资 7 亿美元，生产英伟达最强 AI 计算产品",
-      "summary": "IT之家 7 月 22 日消息，英伟达（NVIDIA）今天（7 月 22 日）发布博文，报道称纬创资通（Wistron）在美国得克萨斯州沃斯堡开设其首家美国制造工厂，将生产英伟达 GB300、Vera Rubin 等 AI 超级芯片，总投资达 7 亿美元。IT之家援引博文介绍，该工厂占地面积约为 32.4 万平方英尺（IT之家注：约 30101 平方米），将负责生产 NVIDIA Grace Blackwell Ultra、Vera Rubin Superchips 超级芯片。纬创资通表示这项先进制造投入金额为 7 亿美元，已在德州设施创造 500 多个新岗位，计划在年底前增至 1000 个，",
-      "source": "IT之家",
-      "publishTime": "2026-07-22",
-      "link": "https://www.ithome.com/0/979/812.htm"
-    },
-    {
-      "id": "3a403df8-2d23-8175-bb40-c29d729dd3c9",
-      "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
-      "summary": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-22",
-      "link": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html"
-    },
-    {
-      "id": "3a403df8-2d23-81f0-99fd-f4b16f781292",
-      "title": "Jim Cramer says this old-school investing concept still wins — even in the AI boom",
-      "summary": "CNBC's Jim Cramer urged investors to diversify beyond the market's hottest AI winners, warning that no single investment theme should dominate a portfolio.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-22",
-      "link": "https://www.cnbc.com/2026/07/21/jim-cramer-investing-concept-wins-ai-boom.html"
-    },
-    {
-      "id": "3a403df8-2d23-818b-b09b-ee31fae0c9e4",
-      "title": "Some investors are valuing Elon Musk's Neuralink at $42 billion",
-      "summary": "Neuralink, the brain chip startup owned by Elon Musk, is seeing its valuation soar. Investor appetite for Musk's companies is reaching new highs.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-22",
-      "link": "https://www.businessinsider.com/investors-valuing-elon-musks-neuralink-at-42-billion-2026-7"
-    },
-    {
-      "id": "3a403df8-2d23-814a-99c0-f5458346a06b",
-      "title": "月租 iPhone、iPad 成为现实：古尔曼称苹果下周将在美国率先推出 Apple Upgrade 设备租赁计划以刺激销售，年年焕新计划将逐步停运",
-      "summary": "IT之家 7 月 22 日消息，彭博社马克 · 古尔曼昨日报道称，苹果公司预计于 2026 年 7 月 28 日（下周二）在美国市场推出名为“Apple Upgrade”的全新设备租赁计划。这项服务将覆盖 iPhone、Mac、iPad 及 Apple Watch 的大部分机型，是苹果在硬件销售模式上的一次重要调整。据介绍，苹果将与金融科技公司 Klarna 合作，由后者为该租赁项目提供资金支持。受此消息影响，Klarna 股价一度上涨 11% 至 20.78 美元，市值超 92 亿美元（IT之家注：现汇率约合 623.58 亿元人民币）。古尔曼透露，Apple Upgrade 的运作模式类似",
-      "source": "IT之家",
-      "publishTime": "2026-07-22",
-      "link": "https://www.ithome.com/0/979/811.htm"
-    },
-    {
-      "id": "3a403df8-2d23-8196-832b-ecff59cab86e",
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features charact",
-      "source": "The Verge",
-      "publishTime": "2026-07-22",
-      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance"
-    },
-    {
-      "id": "3a403df8-2d23-8189-9d62-eaf70127d077",
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to g",
-      "source": "The Verge",
-      "publishTime": "2026-07-22",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai"
-    },
-    {
-      "id": "3a403df8-2d23-8156-9a30-c04bb40f0059",
-      "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
-      "summary": "Many server makers are seeing faster growth as companies race to deploy artificial intelligence servers.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-22",
-      "link": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html"
-    },
-    {
-      "id": "3a403df8-2d23-81d7-a1fe-f6d823a93bb2",
-      "title": "OpenAI appoints two new members to board of directors",
-      "summary": "OpenAI appointed longtime financial executives David Vélez and Robin Vince to its nonprofit and for-profit boards.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-22",
-      "link": "https://www.cnbc.com/2026/07/21/openai-appoints-two-new-members-to-board-of-directors.html"
-    },
-    {
-      "id": "3a403df8-2d23-812b-a687-c11982cbf0cb",
-      "title": "These are the countries moving to ban social media for children",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-22",
-      "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/"
-    },
-    {
-      "id": "3a403df8-2d23-8132-8c73-e2ec4c96549b",
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-22",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/"
-    },
-    {
-      "id": "3a403df8-2d23-8123-9990-fdcd0844dd36",
-      "title": "3 lawyers react to Trump's new limits on student visas",
-      "summary": "We asked 3 immigration lawyers to break down what international students should know about F-1 student visa changes announced last week.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-22",
-      "link": "https://www.businessinsider.com/3-lawyers-react-to-trumps-limits-on-f1-student-visas-2026-7"
-    },
-    {
-      "id": "3a403df8-2d23-81cc-b725-d62af8e4724d",
-      "title": "If AI wins, 'made by humans' could be a very good business",
-      "summary": "When AI is everywhere, offering AI-free options may be very appealing. That's the bet Substack is making.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-22",
-      "link": "https://www.businessinsider.com/substack-anti-ai-slop-plan-label-2026-7"
-    },
-    {
-      "id": "3a403df8-2d23-816d-a237-fe71316bba76",
-      "title": "Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos",
-      "summary": "The discounts may not beat Prime Day, but I found worthwhile prices on WIRED-approved TVs, laptops, tablets, speakers, and other home gear.",
-      "source": "Wired",
-      "publishTime": "2026-07-22",
-      "link": "https://www.wired.com/story/best-buy-black-friday-in-july-2026/"
-    },
-    {
-      "id": "3a403df8-2d23-815b-9c8b-fe979d66475c",
-      "title": "Tech Life",
-      "summary": "Dogs have a great sense of smell. Now machines are being trained to sniff out odours.",
-      "source": "BBC Tech",
-      "publishTime": "2026-07-22",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy5?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3a403df8-2d23-81f3-b028-c744dc9206e2",
-      "title": "I'm a gastroenterologist. Here's how my family is eating during the cyclospora outbreak.",
-      "summary": "A gastroenterologist shares how his family is navigating the cyclospora outbreak — and the advice he's sharing with his friends and family.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-22",
-      "link": "https://www.businessinsider.com/gastroenterologist-dad-advice-cyclospora-outbreak-eating-habits-2026-7"
-    },
-    {
-      "id": "3a403df8-2d23-8114-a0a7-c906443869ff",
-      "title": "Inside Paramount and WBD, employees are on edge as David Ellison's mega-merger hits resistance",
-      "summary": "The Paramount-WBD mega-merger is on pause, leaving staffers wondering whether a deal or no deal would be better for their careers.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-22",
-      "link": "https://www.businessinsider.com/paramount-employees-wbd-merger-deal-delay-antitrust-lawsuit-david-ellison-2026-7"
-    },
-    {
-      "id": "3a403df8-2d23-81b1-bf2e-f42bf023b521",
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-22",
-      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
-    },
-    {
-      "id": "3a403df8-2d23-81a9-bd65-f56ff02d86ca",
-      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-      "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-22",
-      "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html"
-    },
-    {
-      "id": "3a403df8-2d23-816f-99da-e7ff747b8108",
-      "title": "AI and the rise of the universal entertainment app",
-      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-22",
-      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/"
-    },
-    {
-      "id": "3a403df8-2d23-814b-bdc7-f3737ea35318",
-      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-      "summary": "Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-22",
-      "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/"
-    },
-    {
-      "id": "3a403df8-2d23-812f-bed4-d6fa8e46b075",
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post publis",
-      "source": "The Verge",
-      "publishTime": "2026-07-22",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool"
-    },
-    {
-      "id": "3a403df8-2d23-8161-96b8-e35fbf8b8373",
-      "title": "Taylor Farms Spent Big on MAGA and Anti-Regulatory Lobbying Before Diarrhea Outbreak",
-      "summary": "The company donated more than $3.6 million to conservative groups between 2020 and 2025, including $1 million to the MAGA Inc. super PAC.",
-      "source": "Wired",
-      "publishTime": "2026-07-22",
-      "link": "https://www.wired.com/story/diarrhea-outbreak-taylor-farms-maga-donations-lobbying/"
-    },
-    {
-      "id": "3a403df8-2d23-81b6-b226-dc5d145ff511",
-      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-      "source": "Wired",
-      "publishTime": "2026-07-22",
-      "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/"
-    },
-    {
-      "id": "3a403df8-2d23-81c0-b660-fb455b02e601",
-      "title": "Einride bets $38M on EV charging as it scales electric trucking",
-      "summary": "The acquisition — Einride's first as a publicly traded company — will expand its EV-charging ecosystem as it works to scale its electric trucking business.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-22",
-      "link": "https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/"
-    },
-    {
-      "id": "3a403df8-2d23-81fa-b746-f7a9dc05d274",
-      "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
-      "summary": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-22",
-      "link": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/"
-    },
-    {
-      "id": "3a403df8-2d23-8199-b7fb-fcbe945abdb1",
-      "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
-      "summary": "I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my cameras. The problem is, strapping a finder tag to a […]",
-      "source": "The Verge",
-      "publishTime": "2026-07-22",
-      "link": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter"
-    },
-    {
-      "id": "3a403df8-2d23-816e-b9c1-c50ac4630cce",
-      "title": "Data centers expected to use 4x more electricity by 2035",
-      "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-22",
-      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/"
-    },
-    {
-      "id": "3a403df8-2d23-81fb-b448-e3dc09e15791",
-      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
-      "summary": "The company didn't say how many are in each city, and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-22",
-      "link": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/"
-    },
-    {
-      "id": "3a403df8-2d23-8186-b458-d2d746f3722a",
-      "title": "A 44-year-old mom felt out of breath while talking. It turns out she had stage 4 lung cancer, despite never smoking.",
-      "summary": "A busy mom of three developed a persistent cough and had trouble breathing, despite never smoking. She was diagnosed with a rare form of lung cancer.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-22",
-      "link": "https://www.businessinsider.com/44-year-old-woman-trouble-breathing-stage-4-lung-cancer-2026-7"
-    },
-    {
-      "id": "3a403df8-2d23-8177-983e-ec9051fe05fb",
-      "title": "China's 'open' AI is a terrible business, and nothing like open-source software",
-      "summary": "China's AI models are impressing developers but losing investors. The problem? Open-weight AI is a much worse business than open-source software.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-22",
-      "link": "https://www.businessinsider.com/china-ai-boom-terrible-business-open-weight-models-2026-7"
-    },
-    {
-      "id": "3a403df8-2d23-814f-9128-f1505c007689",
-      "title": "Amazon taps Alexa executive as Leo satellite business’s first finance VP",
-      "summary": "Amazon's Leo satellite business names Mike Recupero as its first VP of finance, signaling its growth as an independent entity.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-22",
-      "link": "https://www.businessinsider.com/amazons-leo-satellite-venture-names-first-finance-vp-2026-7"
-    },
-    {
-      "id": "3a403df8-2d23-8161-b2ae-d75a1158445d",
-      "title": "Nearly every Kindle is steeply discounted at Best Buy",
-      "summary": "If you’ve been thinking about picking up a Kindle before school starts, or for your next vacation, now’s a good time to do it. As part of its Black Friday in July sale, Best Buy has brought the Kindle Paperwhite back down to its all-time low of $124.99 ($35 off). It’s the Kindle we recommend […]",
-      "source": "The Verge",
-      "publishTime": "2026-07-22",
-      "link": "https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale"
-    },
-    {
-      "id": "3a403df8-2d23-812b-97c7-c804668cd99d",
-      "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
-      "summary": "As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with options to upgrade to a new device early, or keep or return the device at the end of t",
-      "source": "The Verge",
-      "publishTime": "2026-07-22",
-      "link": "https://www.theverge.com/tech/968750/apple-upgrade-program"
     }
   ],
   "macroEvents": [
