@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-07-24 03:54",
+  "updatedAt": "2026-07-24 05:34",
   "news": [
+    {
+      "id": "3a603df8-2d23-81b2-b577-f0435a67b5d0",
+      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "summary": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-24",
+      "link": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html"
+    },
+    {
+      "id": "3a603df8-2d23-8170-bb46-ece680f18f55",
+      "title": "Tesla’s door handles may spur new U.S. safety rules",
+      "summary": "The new rule-making process follows a series of incidents, including fatal ones, in which people have become stuck inside cars.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-24",
+      "link": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/"
+    },
+    {
+      "id": "3a603df8-2d23-8132-b45a-db668e9d64ea",
+      "title": "IMAX's CEO isn't buying Disney's 'Infinity Vision' pitch for 'Avengers: Doomsday': It's just 'marketing'",
+      "summary": "IMAX CEO Rich Gelfond reacted to Disney's \"Infinity Vision\" format for \"Avengers: Doomsday,\" saying it's just marketing.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/imax-ceo-response-disney-infinity-vision-avengers-doomsday-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-81a3-b71f-c6132681bb39",
+      "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
+      "summary": "As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threaten broadcasters that have exercised their free speech rights to make jokes about",
+      "source": "The Verge",
+      "publishTime": "2026-07-24",
+      "link": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment"
+    },
+    {
+      "id": "3a603df8-2d23-81c7-aa23-d1dc188c2ac0",
+      "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
+      "summary": "Meta has made significant investments in natural gas over the past year. Now, it's dropping out of an industry renewable energy group.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-24",
+      "link": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/"
+    },
+    {
+      "id": "3a603df8-2d23-81a2-a3ee-d1226d868604",
+      "title": "Nothing screams 2026 like Elon Musk thanking chipmakers on an earnings call",
+      "summary": "On Wednesday, Musk took a moment from the company's earnings to thank three chip-making companies: \"They've got to make some very tough decisions.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/musk-tesla-earnings-micron-samsung-tsmc-chips-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-81a6-9e41-c9acc6f6118e",
+      "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
+      "summary": "IBM's CEO highlighted growing mainframe hardware capacity, and said software should \"catch back up\" within a year.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-24",
+      "link": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html"
+    },
+    {
+      "id": "3a603df8-2d23-8161-a513-d8a1f42a4b4a",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it wa",
+      "source": "The Verge",
+      "publishTime": "2026-07-24",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+    },
+    {
+      "id": "3a603df8-2d23-812e-8e6f-c6aa96c22368",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-24",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+    },
     {
       "id": "3a603df8-2d23-811d-93bd-dabed7f6bb30",
       "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
@@ -328,78 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-07-23",
       "link": "https://www.businessinsider.com/what-to-know-before-moving-small-island-remote-surprises-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-8174-9523-ffe6007f9437",
-      "title": "17 companies that have said they're doing AI-related layoffs",
-      "summary": "A number of companies, including Uber, Cisco, and Block, have attributed recent staff reductions to AI.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/list-companies-replacing-human-employees-with-ai-layoffs-workforce-reductions"
-    },
-    {
-      "id": "3a603df8-2d23-8182-adce-eb8d0d9d93c4",
-      "title": "Intel stock is down 27% from June record highs. How the chipmaker can reverse the slide",
-      "summary": "The report comes at a critical time for optimistic investors like us at the Club.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-23",
-      "link": "https://www.cnbc.com/2026/07/23/intel-is-down-27percent-from-june-record-highs-how-it-can-reverse-the-slide.html"
-    },
-    {
-      "id": "3a603df8-2d23-813c-91b4-f95b85d2f39f",
-      "title": "Every state ranked by its math and reading test scores, from worst to best",
-      "summary": "The National Assessment of Educational Progress measures student performance in math and reading. See how the 50 states shape up.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/states-ranked-math-reading-test-scores-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-8198-9d56-e33c28b921c1",
-      "title": "英伟达 Jetson 芯片将登陆月球，驱动月面机器人自主运行",
-      "summary": "IT之家 7 月 23 日消息，英伟达正努力将旗下 GPU 部署到更多场景，而该公司的最新目标，已经瞄准了月球。致力于太空基础设施机器人研发的初创公司 Lunar Outpost 当地时间周四宣布，其即将执行月球任务的月球车将采用英伟达 Jetson 芯片来控制激光雷达（LiDAR）系统。如果任务顺利完成，这将有望成为首款登陆月球表面的 GPU。Lunar Outpost 首席执行官贾斯汀 · 赛勒斯（Justin Cyrus）表示：“我们正在将英伟达 Jetson 平台与我们现有、拥有更多航天飞行经验的计算平台进行比较，评估各自的优缺点。我们的目标是在这些极端环境中，尽可能采用性能更强、由 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/866.htm"
-    },
-    {
-      "id": "3a603df8-2d23-815c-8aab-c405e126d30a",
-      "title": "Instagram is now banning pickup artists and pranksters who use Meta glasses",
-      "summary": "Content shot on Meta glasses from pickup artists and pranksters can now get you banned.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/instagram-meta-glasses-banning-pickup-prank-creeps-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-81b4-9d4c-f510583572b8",
-      "title": "Google Cloud CEO Kurian says customers are spending 50% more as segment blows away expectations",
-      "summary": "Google Cloud CEO Thomas Kurian told CNBC on Thursday that the company's existing customers are spending \"roughly 50% more\" than they've already committed.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-23",
-      "link": "https://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html"
-    },
-    {
-      "id": "3a603df8-2d23-814b-95c0-f87c2a04003f",
-      "title": "消息称荣耀实验室主摄物料最高为豪威 OVB0D，支持 200Mp 1/1.12\"",
-      "summary": "IT之家 7 月 23 日消息，博主 @数码闲聊站 今日爆料，荣耀实验室目前主摄物料最高 OVB0D，200Mp 1/1.12\" LOFIC 超级大底国产镜皇，这颗镜头同步开启下一代长焦端的可行性预研。IT之家注意到，豪威于去年 12 月推出 OVB0D 手机 CMOS 传感器。结合 GSMArena 此前报道，OVB0D 传感器拥有 40 万 full-well（满阱容量，每个像素能容纳的最大电荷量）、108dB 动态范围、二代 DCG（双转换增益）和 LOFIC（横向溢出积分电容）等“黑科技”，可在极限 HDR 场景下展现更佳效果。LOFIC（lateral overflow integr",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/865.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8198-82d0-e20dee0f8bb3",
-      "title": "Epic 喜加一：叙事卡牌游戏《预言奇谈》免费领取",
-      "summary": "IT之家 7 月 23 日消息，Epic 本周送出的是叙事卡牌游戏《预言奇谈 (Foretales)》，一旦领取永久入库。下周送出的是俯视角快节奏肉鸽射击游戏《孤狼 (OTXO)》和 Roguelite 战术游戏《日之旅 (Sol Cesto)》。领取链接：《预言奇谈》IT之家附《预言奇谈》游戏简介：一个可怕的诅咒使世界陷入危机，唯一能阻止它的人是一个名叫 Volepain 的小偷。织婆将用于创造天地的工具托付给了她的孩子，Nymphants。织婆将创造天地万物和稳定世界的权力交到了她孩子的手中。创造天地的工具具有创造和摧毁 Foretales 诸多大小世界的力量。查明 Nymphants 和",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/864.htm"
-    },
-    {
-      "id": "3a603df8-2d23-816d-bc47-c85f0e83f121",
-      "title": "知乎发文祝贺邓煜斩获菲尔兹奖，数学天才画风曝光",
-      "summary": "IT之家 7 月 23 日消息，2026 年国际数学家大会当地时间 7 月 23 日上午在美国费城开幕，现场揭晓 2026 年菲尔兹奖得主，中国青年数学家王虹、邓煜获奖。这是中国数学家首次获得菲尔兹奖，也是中国数学家首次在同一届国际数学家大会上同时获得两枚菲尔兹奖，实现了中国数学发展的历史性突破。知乎官方刚刚发文恭喜了邓煜等学者斩获菲尔兹奖，随即分享了对这位数学天才知乎主页的“考古发现”：考古了一下邓煜的知乎主页，发现数学天才的画风是这样的：读博「很轻松」，博士毕业靠「对早日 tenure 的憧憬」，研究数学之余还认真嗑 CP、写物理诗……数学水平看不懂，精神状态倒是很亲切再次恭喜知乎答主邓煜",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/863.htm"
     }
   ],
   "macroEvents": [
