@@ -1,6 +1,190 @@
 {
-  "updatedAt": "2026-07-23 23:30",
+  "updatedAt": "2026-07-24 01:54",
   "news": [
+    {
+      "id": "3a603df8-2d23-816c-9895-caed4d73d82c",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-24",
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
+    },
+    {
+      "id": "3a603df8-2d23-8118-8bb6-d3e11a8126bc",
+      "title": "AI 'kill switch' bill unveiled as OpenAI hack raises alarms",
+      "summary": "A bipartisan House bill slated to be introduced Thursday would authorize the US government to shut down or throttle risky AI models.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/ai-kill-switch-bill-openai-hack-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-819a-837b-d06b38c6fad9",
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of ",
+      "source": "The Verge",
+      "publishTime": "2026-07-24",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+    },
+    {
+      "id": "3a603df8-2d23-81f5-8ce5-efbbcea3e344",
+      "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
+      "summary": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned multi-core test, and larger, more demanding datasets for CPUs and GPUs to crunch through. It otherwise looks and acts just l",
+      "source": "The Verge",
+      "publishTime": "2026-07-24",
+      "link": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update"
+    },
+    {
+      "id": "3a603df8-2d23-81c5-a33d-e52858ed6162",
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-24",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
+    },
+    {
+      "id": "3a603df8-2d23-81bb-a700-d797472576e8",
+      "title": "Domo sells its main businesses for $400 million, leaving founder Josh James with a hoard of cash to put to work",
+      "summary": "Progress Software agreed to buy Domo's AI and data business for $400 million. Domo founder Josh James will run the remaining debt-free entity.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/domo-sells-businesses-400-million-josh-james-cash-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-81da-9522-df659fc05070",
+      "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
+      "summary": "The European Commission claims that Google boosted its own apps and products to the top of search rankings to the detriment of its competitors.",
+      "source": "Wired",
+      "publishTime": "2026-07-24",
+      "link": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search/"
+    },
+    {
+      "id": "3a603df8-2d23-81eb-8fd5-fe1eae0d6e09",
+      "title": "A side-by-side comparison shows stark differences between Meta and Anthropic's AI ad campaigns",
+      "summary": "Anthropic and Meta premiered rival ads, both of which reference AI worries and offer hope — but with key differences in their visuals and messaging.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/meta-anthropic-ai-ad-campaign-compared-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-8194-a63f-f733a0cef7a5",
+      "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
+      "summary": "The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices. With Prime Gaming, Amazon Game Studios, and Luna now combined into one organization, it's aiming at the more casual audience",
+      "source": "The Verge",
+      "publishTime": "2026-07-24",
+      "link": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming"
+    },
+    {
+      "id": "3a603df8-2d23-8179-a1ae-ddee3b8a7893",
+      "title": "Ford's next generation of EVs will have Apple built into their brains",
+      "summary": "Apple Maps will power navigation in Ford's coming lower-cost EVs and provide road data for its next hands-free driving system.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/ford-apple-partnership-ev-self-driving-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-813f-97a5-c5a1dd3b0ee3",
+      "title": "John Cena said his fitness routine at 49 includes something he hates",
+      "summary": "John Cena said he needs to stretch daily, likening the aging body to a \"crusty rubber band.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/john-cena-aging-stretching-flexibility-longevity-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-818d-b118-c203a29b6770",
+      "title": "Tesla’s robotaxis are moving in reverse",
+      "summary": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-24",
+      "link": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/"
+    },
+    {
+      "id": "3a603df8-2d23-812a-83aa-edf2f813ccee",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-24",
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
+    },
+    {
+      "id": "3a603df8-2d23-8185-af69-fb2b60ece6d2",
+      "title": "Elon Musk laid out why it's so hard to make Optimus a reality",
+      "summary": "Elon Musk spelled out the difficulty of making Optimus dexterous, reliable, durable, and safe, and why it will be tough to ramp up production.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/elon-musk-optimus-tesla-humanoid-robot-design-scale-manufacturing-ai-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-81dd-a42d-f5bb805294a8",
+      "title": "I struggled to pay for fertility treatments until I found a public grant. I paid just $7,500 for a full round of IVF.",
+      "summary": "As a single woman, I first paid for my fertility treatments out of pocket. But then I found a public grant in New York that shared the costs.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/pay-for-fertility-treatments-public-grant-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-81aa-89b0-f598d53e2d59",
+      "title": "I traveled to the Amalfi Coast with my parents to celebrate my dad's retirement. Next time, I'd do a few things differently.",
+      "summary": "We took a family trip to Italy's Amalfi Coast to celebrate my dad's retirement. Next time, I'd change our itinerary and how we plan to make it better.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/mistakes-amalfi-coast-trip-older-parents-italy-advice-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-813f-b31a-d3fc228851fd",
+      "title": "Amazon and Microsoft pivot cloud gaming strategies to target different players",
+      "summary": "Amazon is bringing Luna to the Prime Video streaming service, while Microsoft will test an ad-supported streaming of titles that people own.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-24",
+      "link": "https://www.cnbc.com/2026/07/23/amazon-microsoft-cloud-gaming.html"
+    },
+    {
+      "id": "3a603df8-2d23-81c2-9860-ec60b72dd10a",
+      "title": "Wall Street is worried about Netflix's new shows. Its old ones are its secret weapon.",
+      "summary": "Netflix may have an engagement problem. Its enormous back catalog may be the solution.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/netflix-engagement-chart-old-hits-new-shows-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-81e0-985f-cf6f3b2b653a",
+      "title": "Google will now let you sign in to your account with a selfie video",
+      "summary": "The tech giant says selfie videos give users more options to sign in if they're ever locked out or don't have access to their usual phone or computer.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-24",
+      "link": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/"
+    },
+    {
+      "id": "3a603df8-2d23-81e3-b476-e2400cace8a8",
+      "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders",
+      "summary": "Xbox Insiders can stream games from their libraries for free in ad-supported streaming sessions starting today. The free streaming sessions are limited to games you already own, and sessions are capped at one hour. However, ads will only play \"before sessions begin.\" It's also optional - you won't n",
+      "source": "The Verge",
+      "publishTime": "2026-07-24",
+      "link": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming"
+    },
+    {
+      "id": "3a603df8-2d23-81fd-8f4d-db28599ace51",
+      "title": "I live on a remote island with fewer than 60 people. There are a few things I wish I'd known before moving here.",
+      "summary": "Last year, I moved to Fair Isle, a remote UK island with under 60 residents. I love my life here, but I faced some challenges and surprises at first.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-23",
+      "link": "https://www.businessinsider.com/what-to-know-before-moving-small-island-remote-surprises-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-8174-9523-ffe6007f9437",
+      "title": "17 companies that have said they're doing AI-related layoffs",
+      "summary": "A number of companies, including Uber, Cisco, and Block, have attributed recent staff reductions to AI.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-23",
+      "link": "https://www.businessinsider.com/list-companies-replacing-human-employees-with-ai-layoffs-workforce-reductions"
+    },
+    {
+      "id": "3a603df8-2d23-8182-adce-eb8d0d9d93c4",
+      "title": "Intel stock is down 27% from June record highs. How the chipmaker can reverse the slide",
+      "summary": "The report comes at a critical time for optimistic investors like us at the Club.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-23",
+      "link": "https://www.cnbc.com/2026/07/23/intel-is-down-27percent-from-june-record-highs-how-it-can-reverse-the-slide.html"
+    },
     {
       "id": "3a603df8-2d23-813c-91b4-f95b85d2f39f",
       "title": "Every state ranked by its math and reading test scores, from worst to best",
@@ -8,6 +192,14 @@
       "source": "Business Insider",
       "publishTime": "2026-07-23",
       "link": "https://www.businessinsider.com/states-ranked-math-reading-test-scores-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-8198-9d56-e33c28b921c1",
+      "title": "英伟达 Jetson 芯片将登陆月球，驱动月面机器人自主运行",
+      "summary": "IT之家 7 月 23 日消息，英伟达正努力将旗下 GPU 部署到更多场景，而该公司的最新目标，已经瞄准了月球。致力于太空基础设施机器人研发的初创公司 Lunar Outpost 当地时间周四宣布，其即将执行月球任务的月球车将采用英伟达 Jetson 芯片来控制激光雷达（LiDAR）系统。如果任务顺利完成，这将有望成为首款登陆月球表面的 GPU。Lunar Outpost 首席执行官贾斯汀 · 赛勒斯（Justin Cyrus）表示：“我们正在将英伟达 Jetson 平台与我们现有、拥有更多航天飞行经验的计算平台进行比较，评估各自的优缺点。我们的目标是在这些极端环境中，尽可能采用性能更强、由 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-23",
+      "link": "https://www.ithome.com/0/980/866.htm"
     },
     {
       "id": "3a603df8-2d23-815c-8aab-c405e126d30a",
@@ -24,6 +216,30 @@
       "source": "CNBC Tech",
       "publishTime": "2026-07-23",
       "link": "https://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html"
+    },
+    {
+      "id": "3a603df8-2d23-814b-95c0-f87c2a04003f",
+      "title": "消息称荣耀实验室主摄物料最高为豪威 OVB0D，支持 200Mp 1/1.12\"",
+      "summary": "IT之家 7 月 23 日消息，博主 @数码闲聊站 今日爆料，荣耀实验室目前主摄物料最高 OVB0D，200Mp 1/1.12\" LOFIC 超级大底国产镜皇，这颗镜头同步开启下一代长焦端的可行性预研。IT之家注意到，豪威于去年 12 月推出 OVB0D 手机 CMOS 传感器。结合 GSMArena 此前报道，OVB0D 传感器拥有 40 万 full-well（满阱容量，每个像素能容纳的最大电荷量）、108dB 动态范围、二代 DCG（双转换增益）和 LOFIC（横向溢出积分电容）等“黑科技”，可在极限 HDR 场景下展现更佳效果。LOFIC（lateral overflow integr",
+      "source": "IT之家",
+      "publishTime": "2026-07-23",
+      "link": "https://www.ithome.com/0/980/865.htm"
+    },
+    {
+      "id": "3a603df8-2d23-8198-82d0-e20dee0f8bb3",
+      "title": "Epic 喜加一：叙事卡牌游戏《预言奇谈》免费领取",
+      "summary": "IT之家 7 月 23 日消息，Epic 本周送出的是叙事卡牌游戏《预言奇谈 (Foretales)》，一旦领取永久入库。下周送出的是俯视角快节奏肉鸽射击游戏《孤狼 (OTXO)》和 Roguelite 战术游戏《日之旅 (Sol Cesto)》。领取链接：《预言奇谈》IT之家附《预言奇谈》游戏简介：一个可怕的诅咒使世界陷入危机，唯一能阻止它的人是一个名叫 Volepain 的小偷。织婆将用于创造天地的工具托付给了她的孩子，Nymphants。织婆将创造天地万物和稳定世界的权力交到了她孩子的手中。创造天地的工具具有创造和摧毁 Foretales 诸多大小世界的力量。查明 Nymphants 和",
+      "source": "IT之家",
+      "publishTime": "2026-07-23",
+      "link": "https://www.ithome.com/0/980/864.htm"
+    },
+    {
+      "id": "3a603df8-2d23-816d-bc47-c85f0e83f121",
+      "title": "知乎发文祝贺邓煜斩获菲尔兹奖，数学天才画风曝光",
+      "summary": "IT之家 7 月 23 日消息，2026 年国际数学家大会当地时间 7 月 23 日上午在美国费城开幕，现场揭晓 2026 年菲尔兹奖得主，中国青年数学家王虹、邓煜获奖。这是中国数学家首次获得菲尔兹奖，也是中国数学家首次在同一届国际数学家大会上同时获得两枚菲尔兹奖，实现了中国数学发展的历史性突破。知乎官方刚刚发文恭喜了邓煜等学者斩获菲尔兹奖，随即分享了对这位数学天才知乎主页的“考古发现”：考古了一下邓煜的知乎主页，发现数学天才的画风是这样的：读博「很轻松」，博士毕业靠「对早日 tenure 的憧憬」，研究数学之余还认真嗑 CP、写物理诗……数学水平看不懂，精神状态倒是很亲切再次恭喜知乎答主邓煜",
+      "source": "IT之家",
+      "publishTime": "2026-07-23",
+      "link": "https://www.ithome.com/0/980/863.htm"
     },
     {
       "id": "3a603df8-2d23-8194-82f5-f7e5ca3ff28d",
@@ -184,222 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-23",
       "link": "https://www.ithome.com/0/980/374.htm"
-    },
-    {
-      "id": "3a603df8-2d23-818e-859a-d746cfa5307f",
-      "title": "微信鸿蒙版 App 获 8.0.19.44 版本尝鲜升级，AI 助手小微（测试版）灰度中",
-      "summary": "IT之家 7 月 23 日消息，微信鸿蒙版 App 已在华为应用市场（App Gallery）开启了 8.0.19.44 (8393516) 版本尝鲜升级（如果未抢到尝鲜版本，须等待官方“补货”），测试时间为 2026/7/23-2026/8/22。和往常一样，本次更新的说明依旧为“修复了一些已知问题”，具体更新内容仍在探索中，不过微信 AI 助手“小微”已灰度上线，可通过文字或语音对话操作微信原生功能。IT之家整理微信鸿蒙版 App 的 8.0.19 版本的更新内容如下：微信相机录制视频时支持切换前后摄像头；通过朋友验证时新增添加电话选项；收藏的聊天记录支持转存为笔记；通过群聊添加群成员时支",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/857.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8130-a77d-d59fe213c2dc",
-      "title": "乘联分会：7 月狭义乘用车零售预计 152 万辆，新能源渗透率约 64.5%",
-      "summary": "IT之家 7 月 23 日消息，乘联分会今日公布数据，结合终端表现推算，7 月狭义乘用车零售市场规模约 152 万辆，环比下降 5.1%，同比下降 16.8%。其中新能源零售量预计 98 万辆左右，环比持平微降，渗透率约 64.5%，渗透率进一步提高。7 月第一周，市场季节性回调，日均零售 3.4 万辆；第二周，受局部极端天气干扰，终端修复乏力，日均零售环比微增至 3.9 万辆；第三周，高温抑制出行与购车需求，终端人气不振，日均零售 4.7 万，走势略弱于常规季节性。第四周、第五周市场预计延续低平台运行，维持同比-17% 左右的降幅。全月零售预计完成 152 万辆，全月同比下降 16.8%。I",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/856.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8131-924f-c55c81f7ef3a",
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the ",
-      "source": "The Verge",
-      "publishTime": "2026-07-23",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
-    },
-    {
-      "id": "3a603df8-2d23-8150-80f4-d25b42067442",
-      "title": "领克 07GT 旅行车上市 27 分钟大定破万，限时价 14.58 万元起",
-      "summary": "IT之家 7 月 23 日消息，领克汽车官方刚刚宣布，领克 07GT 旅行车上市 27 分钟大定破万。四驱性能 Ultra 版：上市指导价 17.78 万元、上市限时价 16.58 万元；200 超长续航 Ultra 版：上市指导价 16.78 万元、上市限时价 15.58 万元；200 超长续航 Max 版：上市指导价 15.78 万元、上市限时价 14.58 万元。领克 07GT 尺寸为 4846 (4866)×1900×1485mm、轴距 2843mm、轴长比 0.59、轮轴比 4.19，提供 18 英寸和 19 英寸轮圈。车头带有激光雷达，车身采用半隐藏式门把手，车顶配备 1.9m² ",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/854.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8180-8c5a-f71cbfd34658",
-      "title": "Google fined €890m by EU for favouring its own apps over rivals",
-      "summary": "It is the first major enforcement action against the tech giant under the EU's new digital rules.",
-      "source": "BBC Tech",
-      "publishTime": "2026-07-23",
-      "link": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3a603df8-2d23-81fd-8077-fecdd81cd426",
-      "title": "Your backstage pass to TechCrunch Disrupt 2026 is waiting",
-      "summary": "Volunteer at TechCrunch Disrupt 2026 and get a behind-the-scenes look at how one of the world's biggest startup conferences gets built.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-23",
-      "link": "https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/"
-    },
-    {
-      "id": "3a603df8-2d23-816c-8a00-edc6af02856a",
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a ",
-      "source": "The Verge",
-      "publishTime": "2026-07-23",
-      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"
-    },
-    {
-      "id": "3a603df8-2d23-8174-8299-d131765424c5",
-      "title": "全新《生化危机》真人电影《生化危机：爆发夜》正式预告发布，北美 2026 年 9 月上映",
-      "summary": "IT之家 7 月 23 日消息，全新《生化危机》真人电影 ——《生化危机：爆发夜》正式预告发布，影片将于 2026 年 9 月 18 日在北美大银幕上映。据介绍，本片根据热门恐怖游戏《生化危机》改编，这也是该 IP 的最新一部院线电影，由《凶器》《野蛮人》导演扎克・克雷格倾力打造，奥斯汀 · 艾布拉姆斯、保罗 · 沃尔特 · 豪泽、扎克 · 切利、卡莉 · 瑞斯参与主演。本片将讲述奉命奔赴浣熊市的医疗速递员布莱恩，却意外深陷全城失控的病毒浩劫的故事：受命前往浣熊市的医疗快递员，在运送神秘包裹的途中，意外卷入全面爆发的病毒危机。整座城市彻底沦陷，嗜血变异生物穷追不舍，他该如何在这场末日噩梦中活下",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/848.htm"
-    },
-    {
-      "id": "3a603df8-2d23-81d9-be07-c61ce08f2e05",
-      "title": "Ford bets on Apple for its next-generation of EVs",
-      "summary": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-23",
-      "link": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/"
-    },
-    {
-      "id": "3a603df8-2d23-8100-bdea-fbc5eca07dc7",
-      "title": "AMD 即将推出新一代 AI 基础设施，与英伟达正面交锋",
-      "summary": "IT之家 7 月 23 日消息，AMD 将于当地时间周四在旧金山市中心的一场活动上发布一系列人工智能硬件产品，与英伟达展开正面竞争。AMD 正试图在快速增长的数据中心芯片市场抢占更多份额，尤其是 AI 推理计算领域。所谓推理计算，是指用户向 ChatGPT 等聊天机器人发出请求后，系统进行数据处理和生成回答所需的计算过程。预计 AMD 将在此次活动上展示多款数据中心硬件，其中包括公司首款服务器机架产品 Helios。AMD 将其定位为英伟达同类产品的竞争对手，而英伟达今年正在推出第二代相关产品。此外，AMD 还预计将正式发布面向数据中心的 Venice 中央处理器（CPU）。本周，英伟达也公布",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/847.htm"
-    },
-    {
-      "id": "3a603df8-2d23-819e-8244-d65df0986789",
-      "title": "Ford picks Apple Maps for its next EV platform and updated BlueCruise",
-      "summary": "Ford plans to embed Apple Maps directly into its Universal Electric Vehicle Platform, which will start with a $30,000 midsize pickup truck set for release in 2027. In an announcement on Thursday, Ford says it will use Apple Maps to offer \"turn-by-turn directions using natural language, real-time tra",
-      "source": "The Verge",
-      "publishTime": "2026-07-23",
-      "link": "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist"
-    },
-    {
-      "id": "3a603df8-2d23-8148-885b-c33ebea44976",
-      "title": "I've been my mom's caregiver for 10 years. I'm running on empty.",
-      "summary": "Jessica Chalk says working alongside her mother helped her notice the earliest signs of dementia and continues to shape their lives today.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/early-dementia-signs-missed-diagnosis-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-8135-b747-dc0d54f9f91d",
-      "title": "王虹、邓煜获 2026 年菲尔兹奖，中国数学实现历史性突破",
-      "summary": "IT之家 7 月 23 日消息，据央视新闻报道，2026 年国际数学家大会当地时间 7 月 23 日上午在美国费城开幕，现场揭晓 2026 年菲尔兹奖得主，中国青年数学家王虹、邓煜获奖。王虹出生于 1991 年，邓煜出生于 1989 年，本科均毕业于北京大学。这是中国数学家首次获得菲尔兹奖，也是中国数学家首次在同一届国际数学家大会上同时获得两枚菲尔兹奖，实现了中国数学发展的历史性突破。邓煜王虹菲尔兹奖（Fields Medal），是以加拿大数学家约翰 · 查尔斯 · 菲尔兹的名字命名，在国际数学联盟的国际数学家大会上颁发的奖项，菲尔兹奖是国际数学界最高荣誉。因诺贝尔奖未设置数学奖，故该奖被誉为",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/846.htm"
-    },
-    {
-      "id": "3a603df8-2d23-817b-a4db-fff45cfb9e73",
-      "title": "全新理想 L9/L8 首次大版本 OTA 更新即将上线，悬架高度将由三档升级为五档可调",
-      "summary": "IT之家 7 月 23 日消息，理想汽车今日发布新一期答网友问，回答了有关全新理想 L9、全新理想 L8 的高频问题。据官方透露，全新理想 L9、全新理想 L8 当前悬架提供高、标准、低三档高度可调。可通过车机【设置】>【驾驶】界面，将悬架切换至“低”档位，即可降低车身高度。全新理想 L9、全新理想 L8 首次大版本 OTA 更新即将上线，悬架高度将由现有的三档升级为五档可调，车身升降区间进一步拓宽 —— 最高更高、最低更低，全方位覆盖不同场景下的用车需求。对于“提车后是否可以一直使用纯电行驶？不使用增程器是否会有问题？”等问题，理想汽车表示自研第三代增程器支持三年或增程器行驶三万公里的超长保",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/844.htm"
-    },
-    {
-      "id": "3a603df8-2d23-81a7-802a-ff23147d8c65",
-      "title": "小米澎程新车布局示意图发布，雷军透露 N90 转弯半径很小",
-      "summary": "IT之家 7 月 23 日消息，小米创办人、董事长兼 CEO 雷军今日在微博分享了小米澎程新车的布局示意图。从画面可以看到，澎程布局有所优化，三排座椅的空间相较传统 SUV 更方正、更宽敞。不少网友对澎程的轮拱去哪里感到好奇，雷军表示：“下了很大功夫，重新设计了技术架构。”还有网友询问澎程是否支持后轮转向功能，雷军回复称：“小米澎程 N90 转弯半径很小。”IT之家注意到，雷军还聊到了纯平地板这一话题：“SUV 做纯平地板确实有难度。SUV 高度有限，而且要求驾驶性和通过性，地板厚度要尽量压缩，再做平地板很难。”IT之家注：SkyNomad 小米澎程是小米汽车旗下，定位智能可变大空间的 SUV",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/843.htm"
-    },
-    {
-      "id": "3a603df8-2d23-81e5-a4fe-e2fe72feb1eb",
-      "title": "I worked as a ranger at state and national parks. Here are my 6 favorite national parks to visit.",
-      "summary": "I worked as a park ranger at state and national parks for six years. Some of my favorite national parks to visit are Bryce Canyon, Zion, and Congaree.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/favorite-us-national-parks-according-to-former-ranger-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-810a-b60e-c6cd2819a505",
-      "title": "Amazon gaming boss predicts future where players no longer need consoles",
-      "summary": "Jeff Gattis said the rising cost of gaming tech is likely to mean more people will stream their games online.",
-      "source": "BBC Tech",
-      "publishTime": "2026-07-23",
-      "link": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3a603df8-2d23-812d-a5e1-da831cf27460",
-      "title": "华为计算模组首次亮相 WAIC 2026 世界人工智能大会",
-      "summary": "IT之家 7 月 23 日消息，在 WAIC 2026 世界人工智能大会上，华为首次完整展示全系列计算模组产品，包括网卡、SSD、DPU、RAID 卡四大系列产品。800G SP560 系列 AI 网卡国内首发 800GE AI 网卡，支持 10 万级节点超大规模组网，主机侧支持灵衢 +PCIe 双总线，SP560 系列在网络带宽、主机带宽和报文处理能力方面都得到了大幅提升。同时数控分离下数据面直通 GPU / NPU 内存，降低通信时延；GPU 直驱，集合通信任务聚合下发，缩短消息处理时间；协议可编程，提升 RDMA 网络利用率，充分释放网络潜能。破解“存储墙”的 KVU 方案AI 驱动数据",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/842.htm"
-    },
-    {
-      "id": "3a603df8-2d23-81a7-bcc4-ce9c6c88974e",
-      "title": "Shadow fleet escorts are straining Russia’s warships and worsening already 'serious' problems, NATO official says",
-      "summary": "The warships are doing escorts for sanctioned shadow fleet vessels, a dozen of which have been boarded by allied navies over the past year.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/russian-escorts-strain-warships-worsen-serious-issues-nato-official-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-8166-83b8-ff47460f68be",
-      "title": "I visited an Air Force museum on an active base. Here are the most fascinating things I saw.",
-      "summary": "The Air Mobility Command Museum is located on Dover Air Force Base in Delaware and features an old Air Force Two as well as cargo planes.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/air-force-air-mobility-command-museum-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-818f-998b-dccf4701171a",
-      "title": "百度萝卜快跑：部分网络账号将无人驾驶网约车与人员失踪相挂钩，涉嫌误导公众认知，已依法提起诉讼",
-      "summary": "IT之家 7 月 23 日消息，百度萝卜快跑法务部今日发文称，此前，我司曾就部分网络账号传播涉“萝卜快跑”不实信息音频一事发布声明，并依法启动相关法律程序。近日，该事项取得进一步进展。经核查，网络账号“福原 ***”“浩哥 ***”等传播针对萝卜快跑的相关音频内容，借惊悚化、夸张化叙事吸引流量。相关音频无事实依据地将无人驾驶网约车与人员失踪相挂钩，并以身份背景、国别归属等标签化表述，歪曲萝卜快跑作为中国本土自动驾驶出行服务品牌的事实，涉嫌借民族情绪制造对立，损害品牌声誉。相关内容涉嫌误导公众认知，已超出理性讨论和正常监督范畴。目前，经法定程序，萝卜快跑已确定实际侵权主体，并已依法正式提起诉讼，",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/840.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8128-8969-d1c08e694e97",
-      "title": "我国脑机接口领域迎重要突破，千人同步脑电采集技术发布",
-      "summary": "IT之家 7 月 23 日消息，脑机接口是全球未来产业的重要赛道。据央视财经今日报道，7 月 22 日下午，我国科研团队发布一款新型脑电信号采集装置，在全球范围内首次实现跨地域上千人同步脑电信号采集，使得神经大模型训练与脑机接口通用技术研发迈出关键一步。据介绍，此次发布的一款脑电信号采集装置，能够支持多人同步捕捉脑神经信号。过去脑机接口相关实验大多只是小范围测试，现在有了这项技术，科学家就有能力批量收集普通人的脑电信号并进行解读。而实现千人级跨地域同步采集，需要核心攻克了两大技术难关，IT之家附如下：一是在设备小型化的同时保障信号采集精度；二是克服网络延迟影响，实现多设备、多地域间的毫秒级时间",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/841.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8126-a0d0-eda7786d3c0e",
-      "title": "Anthropic 首席经济学家：短期内 AI 不会取代大量工作岗位",
-      "summary": "IT之家 7 月 23 日消息，Anthropic 首席经济学家彼得 · 麦克罗里（Peter McCrory）表示，目前人工智能尚未取代大量工作岗位，因为与完全替代人类相比，AI 与人类协作的效果更好。而美国亿万富翁马克 · 库班（Mark Cuban）则认为，这种情况可能永远都不会改变。麦克罗里周三在 X 平台发文称，从目前掌握的情况来看，“人工智能迄今尚未导致失业率出现明显上升”，即便是在那些最容易受到 AI 自动化冲击的职业中，也没有出现显著变化。作为打造顶级大语言模型之一 Claude Fable 5 的人工智能公司 Anthropic 的经济学负责人，麦克罗里表示，目前 AI 表现",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/838.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8114-817c-d22913ae18e9",
-      "title": "I spent 4 hours at an AI data center town meeting. Things got rowdy.",
-      "summary": "A crowd of residents gathered at a Pennsylvania middle school auditorium on Wednesday to resist the construction of a massive data center campus.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/ai-data-center-opposition-upper-merion-pennsylvania-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-81df-881c-e9f99eed2678",
-      "title": "智谱：开源意味着模型可以被自主部署、随时调用，并真正掌握在使用者手中",
-      "summary": "IT之家 7 月 23 日消息，北京智谱华章科技股份有限公司官方微博今日发文谈及了“闭源的矛与开源的盾”这一话题。智谱官方分享了一起案例：近日，一次前沿模型安全评测演变成真实安全事件。OpenAI 披露，GPT‑5.6 Sol 及一款尚未发布的模型突破隔离环境，进入 Hugging Face 的生产基础设施。事件发生后，Hugging Face 的安全团队在对攻击日志进行紧急取证和溯源分析时发现，商业闭源大模型会拒绝处理包含真实攻击载荷和敏感凭据的日志分析请求。面对超过 17,000 条攻击事件记录，Hugging Face 选择在自有基础设施上运行 GLM‑5.2，完成关键取证与安全分析，将",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/837.htm"
-    },
-    {
-      "id": "3a603df8-2d23-81c4-aabe-c6fe17bc316f",
-      "title": "The 20 US cities where people are the most stressed",
-      "summary": "Some cities in America are more stressed out than others, an analysis by WalletHub shows.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/most-stressed-us-cities-ranked-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-81e1-8a0c-ef3d1c09d6c6",
-      "title": "The sci-fi movie that imagines AI isn’t so dystopian after all",
-      "summary": "Imagine you are the parent of an inquisitive seven-year-old who loves his family, playing baseball, and hanging out with his friends. It's the life you've always wanted. And then the worst thing that ever could happen happens: A freak accident takes your son away. But as it turns out, you don't have",
-      "source": "The Verge",
-      "publishTime": "2026-07-23",
-      "link": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview"
     }
   ],
   "macroEvents": [
