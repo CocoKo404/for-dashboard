@@ -1,6 +1,166 @@
 {
-  "updatedAt": "2026-07-24 01:54",
+  "updatedAt": "2026-07-24 03:54",
   "news": [
+    {
+      "id": "3a603df8-2d23-811d-93bd-dabed7f6bb30",
+      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+      "source": "Wired",
+      "publishTime": "2026-07-24",
+      "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"
+    },
+    {
+      "id": "3a603df8-2d23-815f-b02f-e21f565f3c48",
+      "title": "苏姿丰：在服务器 CPU 营收方面，AMD 份额已达到 46%",
+      "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，透露在数据中心 CPU 市场营收中的比重，AMD 公司份额达到 46%。苏姿丰在演讲中透露，伴随着智能体 AI 在推理过程中更加依赖 CPU 编排调度，在可以预见的未来，该数字会不断攀升。IT之家注：CPU 在数据中心服务器中充当系统编排器。GPU 负责进行矩阵计算和处理与 AI 相关的请求，但 CPU 负责调度操作并管理 GPU 和 HBM 之间的数据流。此外苏姿丰还预估到 2030 年，与计算相关的潜在市场规模（TAM",
+      "source": "IT之家",
+      "publishTime": "2026-07-24",
+      "link": "https://www.ithome.com/0/980/874.htm"
+    },
+    {
+      "id": "3a603df8-2d23-8138-a6c0-f1c80777f898",
+      "title": "Cerebras stock gains on AMD partnership",
+      "summary": "Cerebras and AMD agreed to work together, pairing their technology for AI systems.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-24",
+      "link": "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html"
+    },
+    {
+      "id": "3a603df8-2d23-81f2-a6fd-c799b9ef33c3",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "summary": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-24",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+    },
+    {
+      "id": "3a603df8-2d23-81c6-97b4-ed80954c6d06",
+      "title": "AMD 展示最强 AI 加速器 MI455X：台积电 2nm 工艺、3200 亿晶体管、432GB HBM4",
+      "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，并公布了下一代 AI 加速器 Instinct MI455X 的更多细节。工艺方面，Instinct MI455X GPU 拥有 3200 亿个晶体管，采用先进封装技术构建。其设计包含 4 个加速器复合芯粒（XCD），通过混合键合（hybrid bonding）堆叠在 Fabric 与缓存芯粒（FCD）之上。而 2 个 FCD 均使用台积电的 CoWoS-L 技术封装，并连接 6 个 HBM4 堆和 2 个 I/O Die",
+      "source": "IT之家",
+      "publishTime": "2026-07-24",
+      "link": "https://www.ithome.com/0/980/873.htm"
+    },
+    {
+      "id": "3a603df8-2d23-816e-93ea-e6ba4481d060",
+      "title": "The AI boom didn't stop Google from hiring nearly 12,000 people",
+      "summary": "Google's parent Alphabet said that it grew its head count by nearly 12,000 between June 2025 and June 2026.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/chart-shows-google-alphabet-head-count-growth-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-8154-9aa3-d9767b5bcc4a",
+      "title": "Patreon is laying off 20 percent of workers",
+      "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech in",
+      "source": "The Verge",
+      "publishTime": "2026-07-24",
+      "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai"
+    },
+    {
+      "id": "3a603df8-2d23-813f-92e7-ccd7c88fdcaa",
+      "title": "Meet 22 VCs on the hunt for the next breakout startup in social media",
+      "summary": "From dating apps to new takes on the social network for the AI era, meet 22 VC firms backing innovative internet startups.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/meet-vcs-backing-ai-native-social-vibe-coding-dating-apps-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-8165-8d67-f3d51222005a",
+      "title": "For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark",
+      "summary": "MSG’s sprawling surveillance system can monitor guests down to the second. Its owners made an exception for the pop star’s rehearsal dinner.",
+      "source": "Wired",
+      "publishTime": "2026-07-24",
+      "link": "https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/"
+    },
+    {
+      "id": "3a603df8-2d23-81a0-b1fe-c7d25704a507",
+      "title": "AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率",
+      "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 公司董事会主席及首席执行官苏姿丰发表主题演讲，介绍了 AMD 第六代 EPYC Venice CPU。工艺方面，这款旗舰服务器 CPU 率先采用台积电 2nm 工艺量产，集成 2030 亿个晶体管，其中计算芯粒（compute chiplet）采用 2nm 工艺，而 I/O Die 部分采用 6nm 工艺。IT之家注：台积电的 2nm 工艺最大的亮点，在于从 FinFET 过渡到 GAA（纳米片晶体管），在相同功耗下性能提升 10-15%，在相同性能下功耗降低 2",
+      "source": "IT之家",
+      "publishTime": "2026-07-24",
+      "link": "https://www.ithome.com/0/980/872.htm"
+    },
+    {
+      "id": "3a603df8-2d23-8128-9e2e-f37240c678d0",
+      "title": "TikTok has been quietly testing a paid micro-drama app that costs $20 a week",
+      "summary": "TikTok is testing a paid micro-drama app called LimeShorts. The company is experimenting with different pricing models.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/tiktok-testing-paid-micro-drama-app-costs-20-a-month-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-81c5-8f28-e6946e63a048",
+      "title": "AMD 计划 2027 发布 Venice-X 处理器：176 个 Zen 6 核心，主频超 5GHz",
+      "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 公司确认针对高性能计算和人工智能工作负载，将于 2027 年发布 EPYC Verano 和 3D V-Cache 增强型 Venice-X CPU。IT之家援引博文介绍，EPYC Venice-X 计划明年部署在微软 Azure HXv2 实例中，内部集成 176 个“Zen 6”架构核心与 342 个线程，运行频率可超过 5GHz。借助位于 Zen 6 核心下方的 3D V-Cache 堆栈技术，每核心可寻址的缓存容量较前代提升 50%，从而提供更强的技术计算",
+      "source": "IT之家",
+      "publishTime": "2026-07-24",
+      "link": "https://www.ithome.com/0/980/871.htm"
+    },
+    {
+      "id": "3a603df8-2d23-814b-be9e-fdf81cf9aa06",
+      "title": "和 AMD 合作推进 AI 推理硬件利好，Cerebras Systems 今日股价盘中上涨 11%",
+      "summary": "IT之家 7 月 24 日消息，AMD 和 Cerebras Systems （CBRS）于本周三宣布建立技术合作伙伴关系，受该利好消息影响，Cerebras Systems 股价今天盘中上涨 11%。根据双方公告内容，AMD 和 Cerebras Systems 将联合开发 AI 推理解决方案，整合 AMD 全新的 Helios 机架级解决方案与 Cerebras 的晶圆级引擎（该引擎搭载了该公司的大型 AI 芯片）。该组合产品将集成在一个单一的推理工作流中，其中 AMD Helios 将提供一个高性能、可扩展的吞吐量引擎，用于处理超高吞吐量、提示和大型上下文窗口。Cerebras 将提供超",
+      "source": "IT之家",
+      "publishTime": "2026-07-24",
+      "link": "https://www.ithome.com/0/980/870.htm"
+    },
+    {
+      "id": "3a603df8-2d23-8168-866a-ff99cddf6638",
+      "title": "3 US airports plan to replace TSA agents with private contractors in a bid to reduce disruptions to passengers — see the list",
+      "summary": "The TSA Gold+ program aims to expand the use of private contractors while retaining federal oversight. Three airports are set to participate.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/airports-tsa-private-security-government-shutdown-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-81a2-ada9-c91db946cc0b",
+      "title": "AMD takes a shot at Nvidia by betting on AI's next big shift",
+      "summary": "AMD is betting the future of AI won't rely on a single chip, unveiling a Cerebras partnership and new Helios system to challenge Nvidia.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-24",
+      "link": "https://www.businessinsider.com/amd-cerebras-partner-ai-inference-helios-system-2026-7"
+    },
+    {
+      "id": "3a603df8-2d23-8155-8c4f-eb914464d294",
+      "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
+      "summary": "An updated government advisory warns that Iranian hackers are exploiting systems used by water and energy providers.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-24",
+      "link": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/"
+    },
+    {
+      "id": "3a603df8-2d23-814d-a357-c794606e2480",
+      "title": "Corsair’s PC case with a panoramic glass design is $70 off",
+      "summary": "On the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Best Buy, and Corsair are selling the Corsair Frame 4500X RS for $119.99, a $70 discount from the usual price. The versatile case supports motherboards up to EATX, GPUs up to 460mm in length, and has a seamless […]",
+      "source": "The Verge",
+      "publishTime": "2026-07-24",
+      "link": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale"
+    },
+    {
+      "id": "3a603df8-2d23-810e-8b28-d9009d1d1043",
+      "title": "AMD 苏姿丰称 AI 改变每个行业，发布 MI455x 加速器和 EPYC Venice CPU",
+      "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，并发布了新一代 AI 数据中心硬件。在硬件方面，本次活动聚焦数据中心 AI 产品，苏姿丰表示 AI 正在改变每一个行业。我们非常早地看到，计算需求每年持续增长 5 倍，模型越来越好，我们看到了更好的能力。我们现在正在获得专业化的模型。今年是推理超越训练需求的第一个年份，因为目前有 60% 的计算资源用于推理，而非训练。苏姿丰表示智能体 AI（Agentic AI）正在带来一次巨大的飞跃。你给它一个问题，它会一直工作直到问题",
+      "source": "IT之家",
+      "publishTime": "2026-07-24",
+      "link": "https://www.ithome.com/0/980/867.htm"
+    },
+    {
+      "id": "3a603df8-2d23-81d7-97dc-f4cd682095d4",
+      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+      "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-24",
+      "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html"
+    },
+    {
+      "id": "3a603df8-2d23-81e3-b550-eef7559e89bb",
+      "title": "Tesla’s robotaxi promises are clashing with reality",
+      "summary": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people are experiencing Tesla's unsupervised vehicles. But Musk's typical bullishness seemed to be absent ",
+      "source": "The Verge",
+      "publishTime": "2026-07-24",
+      "link": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk"
+    },
     {
       "id": "3a603df8-2d23-816c-9895-caed4d73d82c",
       "title": "Runway launches AI model router as generative media gets crowded",
@@ -240,166 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-23",
       "link": "https://www.ithome.com/0/980/863.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8194-82f5-f7e5ca3ff28d",
-      "title": "Amazon’s best 4K streaming sticks are up to 40 percent off",
-      "summary": "There’s no shortage of great shows and movies to watch, but discovering something new isn’t always easy. Amazon’s Fire TV Stick 4K Plus and Fire TV Stick 4K Max come with redesigned software that aims to make it easier to finding something you’ll like, and both 4K-ready streaming sticks are back to ",
-      "source": "The Verge",
-      "publishTime": "2026-07-23",
-      "link": "https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale"
-    },
-    {
-      "id": "3a603df8-2d23-813e-ab4e-f1e1db121abb",
-      "title": "The new Halo remake is a reminder of what Xbox used to be",
-      "summary": "It's impossible to talk about a new Xbox game without also talking about the state of Xbox. Microsoft's gaming division is in freefall: Recent headlines are dominated by extensive layoffs, decimated studios, and confusing strategies, most of which stem from years of bad decisions and expensive acqui",
-      "source": "The Verge",
-      "publishTime": "2026-07-23",
-      "link": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc"
-    },
-    {
-      "id": "3a603df8-2d23-81d8-a8ac-dba57108f6f1",
-      "title": "Nvidia is sending GPUs to the Moon",
-      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-23",
-      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/"
-    },
-    {
-      "id": "3a603df8-2d23-81f0-996e-f858f2ee426c",
-      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
-      "summary": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Wil.i.am.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-23",
-      "link": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/"
-    },
-    {
-      "id": "3a603df8-2d23-81f8-b89e-cc7008fa3da9",
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-23",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
-    },
-    {
-      "id": "3a603df8-2d23-8147-8004-fa87ad96f612",
-      "title": "We bought a house and regretted it after 2 years. Now, we own an apartment instead.",
-      "summary": "My wife and I were thrilled to buy a house. The pricey repairs and lack of accessibility made it harder then we expected, so now we own an apartment.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/owning-house-too-expensive-bought-apartment-instead-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-81f9-aa54-d02402e762f0",
-      "title": "先马推出 S300-360 一体式水冷散热器：冷头配 6 英寸磁吸面板，黑白双色均售 499 元",
-      "summary": "IT之家 7 月 23 日消息，先马现已在京东上架 S300 系列一体式水冷散热器，暂提供 360 规格可选，黑白双色均售 499 元，提供 6 年质保。京东先马 S300-360 散热器 499 元直达链接该散热器兼容 Intel LGA 1700/1851 和 AMD AM4/AM5 平台，冷头搭载了一块 6 英寸 IPS LCD 磁吸屏（支持四大方位定点安装），即使拿下磁吸屏，冷头也带有无限镜灯效。该散热器内置 1800~2600±10% RPM 转速水泵，冷排厚度 27 mm，标配冰轨 360 液压轴承风扇，转速为 800~1900±10% RPM，最大静压 / 风量分别为 1.73 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/862.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8127-888e-ea20bccffc1d",
-      "title": "I tried making a popular air-fryer chicken recipe. It was so easy — and the dish tasted as good as takeout.",
-      "summary": "Here's how I made a popular, gluten-free air-fryer orange chicken recipe for dinner that turned out to be an easy, at-home substitute for takeout.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/best-air-fryer-chicken-recipe-to-make-easy-dinner-photos-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-8115-8349-f9918a57be18",
-      "title": "华为小艺获 11.6.6.300 版本升级，鸿蒙“龙虾”小艺 Claw 接入 Kimi K3 旗舰模型",
-      "summary": "IT之家 7 月 23 日消息，华为小艺 App 今日迎来了 11.6.6.300 (110606300) 版本升级，更新日志显示，小艺 Claw 接入了 Kimi K3 旗舰模型。IT之家附华为小艺此次更新内容如下：1、小艺 Claw：接入 Kimi K3 旗舰模型，多个模型自由选择，体验全面升级快来试试吧。2、小艺深度解题：AI 互动讲解新增图文并茂讲解，讲解更直观。3、小艺翻译：同声传译支持实时摘要和总结摘要，省心又高效。据IT之家此前报道，今年 7 月 16 日，Kimi K3 正式上线，其是 Kimi 迄今能力最强的模型，拥有 2.8 万亿参数，100 万 Tokens 上下文，主要",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/861.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8190-9717-d5e627c7b2e4",
-      "title": "Google closes in on another billion- user product with Gemini",
-      "summary": "Gemini had over 750 million monthly users in February.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-23",
-      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
-    },
-    {
-      "id": "3a603df8-2d23-816b-8519-cf3f4d2c4dcc",
-      "title": "Paramount+ is building out a free tier to lure cost-conscious viewers",
-      "summary": "Paramount+ is planning to make more movies and shows free to give users \"more reasons to sign up,\" an internal presentation said.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/paramount-free-tier-pluto-tv-streaming-youtube-tubi-ellison-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-810a-950b-d9cf824ac9dc",
-      "title": "Amazon is bringing games to Prime Video",
-      "summary": "Amazon is hoping the addition of games can turn Prime Video into a one-stop entertainment destination, borrowing a strategy from Netflix, which has increasingly embraced party games over the past several years.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-23",
-      "link": "https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/"
-    },
-    {
-      "id": "3a603df8-2d23-8122-b22a-c0361bb933d3",
-      "title": "MeBeMe’s new ‘interrupter’ app helps you become your best self instead of doomscrolling",
-      "summary": "MeBeMe delivers small tasks to help users become their best selves instead of endlessly scrolling.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-23",
-      "link": "https://techcrunch.com/2026/07/23/mebemes-new-interrupter-app-helps-you-become-your-best-self-instead-of-doomscrolling/"
-    },
-    {
-      "id": "3a603df8-2d23-8101-b407-c60383f45e76",
-      "title": "《恐怖黎明：阿斯特卡恩之牙》大型 DLC 发售，国区首发价 65.7 元",
-      "summary": "IT之家 7 月 23 日消息，经典动作角色扮演游戏《恐怖黎明》的全新大型 DLC《恐怖黎明：阿斯特卡恩之牙》现已在 Steam 平台正式推出，由开发商 Crate Entertainment 制作发行，该 DLC 支持简体中文界面与字幕。IT之家附游戏商品页（https://store.steampowered.com/app/2699230/Grim_Dawn__Fangs_of_Asterkarn/?l=schinese&cc=cn）。目前该 DLC 正在 Steam 平台进行首发 9 折特惠，折扣截止到 7 月 30 日，折后国区售价为 65.7 元，该 DLC 原价为 73 元。IT",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/855.htm"
-    },
-    {
-      "id": "3a603df8-2d23-81fc-abab-dbf0df759bca",
-      "title": "2026 款微星泰坦 16 笔记本新增“酷睿 Ultra 7 255HX + 16G + 1T + RTX5070Ti”版本，18599 元",
-      "summary": "IT之家 7 月 23 日消息，微星现已为旗下 2026 款泰坦 16 笔记本新增英特尔酷睿 Ultra 7 255HX + 16GB RAM + 1TB SSD + RTX5070Ti 版本，定价为 18599 元。京东 2026 款微星泰坦 16 笔记本 Ultra 7 255HX + 16GB RAM + 1TB SSD + RTX5070Ti 版本 18599 元直达链接该机 A 面带有微星龙盾徽标，B 面配备一块 2560x1600 分辨率 240Hz 面板（覆盖 100% DCI-P3 色域），C 面采用 24 区 RGB 电竞键盘。该机搭载 20 核心 20 线程英特尔酷睿 Ul",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/860.htm"
-    },
-    {
-      "id": "3a603df8-2d23-81be-a165-d81745fb9c5e",
-      "title": "Uber lays off 10% of customer service workers and calls others back to working in the office, citing AI",
-      "summary": "Uber is laying off 10% of its community operations team, citing AI. Remote workers must relocate to an office, impacting customer service roles.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-23",
-      "link": "https://www.businessinsider.com/uber-layoffs-ai-prompts-cuts-to-customer-service-jobs-2026-7"
-    },
-    {
-      "id": "3a603df8-2d23-81a7-8a86-f53bc62b3a57",
-      "title": "史上最大杠杆收购：沙特 PIF 牵头财团 550 亿美元收购 EA 交易获欧盟初步批准",
-      "summary": "IT之家 7 月 23 日消息，由沙特阿拉伯公共投资基金（PIF）牵头的投资财团，已获得欧盟反垄断监管机构批准，可以推进以 550 亿美元（IT之家注：现汇率约合 3729.84 亿元人民币）收购游戏开发商美国艺电（Electronic Arts，EA）的交易。欧盟委员会于当地时间周四宣布了这一决定。这一投资财团由沙特规模约 1 万亿美元（现汇率约合 6.78 万亿元人民币）的主权财富基金、美国总统特朗普女婿贾里德 · 库什纳（Jared Kushner）创立的 Affinity Partners，以及私募股权公司 Silver Lake 组成。三方于去年 9 月宣布了这笔交易，这是历史上规模",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/859.htm"
-    },
-    {
-      "id": "3a603df8-2d23-813f-8ca9-f70005b96b35",
-      "title": "比亚迪大唐 EV 第 1 万辆交车，中国足球小将创始人董路成为车主",
-      "summary": "IT之家 7 月 23 日消息，比亚迪汽车官方刚刚宣布，大唐 EV 第 10,000 辆交车，中国足球小将创始人董路成为大唐车主。据IT之家此前报道，比亚迪大唐 EV 于 6 月 17 日上市，官方指导价 23.99 万元起。该车是王朝网首款 D 级旗舰 SUV，拥有第二代刀片电池、全域 1000V 高压架构等，尺寸为 5263×1999×1790mm、轴距 3130mm。800KM 后驱激光雷达尊荣型：23.99 万元950KM 后驱激光雷达旗舰型：26.99 万元850KM 四驱激光雷达旗舰型：28.99 万元大唐盛世版：30.99 万元相关阅读：《23.99 万元起，王朝网首款 D 级旗",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/858.htm"
-    },
-    {
-      "id": "3a603df8-2d23-8166-8952-f74492fdd782",
-      "title": "Mobileye 2026 财年第二财季归母亏损 0.21 亿美元，同比亏损收窄 68.66%",
-      "summary": "IT之家 7 月 23 日消息，Mobileye 今日发布 2026 财年（2026 年 1 月 3 日～2027 年 1 月 2 日）第二财季（2026 年 3 月 29 日～2026 年 6 月 27 日）报告：营业总收入： 5.08 亿美元，同比增长 0.40%毛利： 2.35 亿美元，同比下降 6.75%归母净利润： -0.21 亿美元，同比亏损收窄 68.66%基本每股收益： -0.03 美元，同比亏损收窄 62.50%稀释每股收益： -0.03 美元，同比亏损收窄 62.50%资产负债率：7.11% AI 解读本次财报业绩基本符合市场普遍预期，在营收持平的背景下经营端亏损大幅收窄，",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/805.htm"
-    },
-    {
-      "id": "3a603df8-2d23-81c3-bede-d43b8c52bbf9",
-      "title": "Steam 国产新游《红色史诗》Demo 上架，2026 年第四季度推出正式版",
-      "summary": "IT之家 7 月 23 日消息，由旧日档案工作室开发并发行的国产策略游戏《红色史诗》的免费 Demo 现已登陆 Steam 平台，该试玩版于 2026 年 7 月 22 日正式上线，本作正式版预计将于 2026 年第四季度发售，IT之家附游戏商品页（https://store.steampowered.com/app/4928410/_Demo/?l=schinese&cc=cn）。据介绍，《红色史诗》是一款以中国工农红军长征为背景的塔防 + 轻度 RTS 混合策略游戏，游戏忠实还原历史事件与地理细节，不虚构核心史实，玩家将重返那段波澜壮阔的历史，在 1:1 真实还原的战役地图上亲身感受红军的",
-      "source": "IT之家",
-      "publishTime": "2026-07-23",
-      "link": "https://www.ithome.com/0/980/374.htm"
     }
   ],
   "macroEvents": [
