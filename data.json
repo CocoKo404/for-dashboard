@@ -1,6 +1,198 @@
 {
-  "updatedAt": "2026-07-25 06:33",
+  "updatedAt": "2026-07-25 08:58",
   "news": [
+    {
+      "id": "3a703df8-2d23-816d-a288-c39208de0acd",
+      "title": "实施门槛较高：新方法可绕过苹果 macOS 安全机制运行恶意软件",
+      "summary": "IT之家 7 月 25 日消息，科技媒体 AppleInsider 昨日（7 月 24 日）发布博文，报道称研究人员发现了一种方法，可以绕过苹果 macOS 的安全机制并运行恶意软件。IT之家援引博文介绍，该方法实施门槛相对较高，需要满足以下 3 个条件：用户已在 Mac 设备下载并安装应用至少启动运行过 1 次攻击者已获得目标 Mac 的远程或物理访问权限该媒体还指出从 Mac App Store 下载的应用程序不会受到此漏洞的影响，只有从网站下载的应用程序才可能受到影响，因此在实际使用场景下遭到这种攻击的风险并不高。该方法由安全专家 Talal Haj Bakry 与 Tommy Mysk",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/414.htm"
+    },
+    {
+      "id": "3a703df8-2d23-8184-9810-fd6acb125019",
+      "title": "马斯克推动 X 全面开源，称“完全透明才能赢得信任”",
+      "summary": "IT之家 7 月 25 日消息，马斯克今日在 X 上发帖称，“下个月，所有涉及 X 系统的代码都将开源，并接受第三方审计。只有完全透明才能赢得信任。”马斯克此前宣布，X 将从 2026 年 8 月起公开所有与平台系统交互的代码。如果该计划实现，这将是 X 在平台透明化方面采取的最大规模行动。马斯克此前曾推动 X 逐步开放部分代码，包括推荐算法。2023 年，X 曾公开部分决定推文排序的算法代码。2024 年，平台进一步向外界开放部分内容审核工具。而此次计划涉及范围更广，目标并非公开某个单独模块，而是开放所有与 X 技术栈相关的代码。马斯克表示，在完成内部安全漏洞审查后，X 将开放整个代码库，并",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/413.htm"
+    },
+    {
+      "id": "3a703df8-2d23-813e-b1b9-d4f9fcb14d1d",
+      "title": "英伟达 CEO 黄仁勋：“AI 末日论”该翻篇了，行业别再吓人了",
+      "summary": "IT之家 7 月 25 日消息，据《商业内幕》24 日报道，英伟达 CEO 黄仁勋认为，所谓的“AI 末日论者”已经完成了警示任务，现在应该翻篇了。“听着，如果目的是提醒全世界 AI 技术具备惊人的能力，我认为目的已经达到了。”黄仁勋表示，部分 AI 行业领袖反复渲染 AI 可能引发大规模失业，正在吓坏美国民众；他们对中国在 AI 竞赛中实力的担忧，也令华盛顿的政策制定者感到恐慌。“大家都必须审慎思考、谨慎行事。我们正在吓唬民众。”IT之家从报道中获悉，黄仁勋还强调，重视安全并向监管机构充分说明 AI 技术完全合理，但行业同样需要让公众了解 AI 带来的好处。“我认为，我们应该对 AI 抱有更",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/412.htm"
+    },
+    {
+      "id": "3a703df8-2d23-8164-896e-fe9e1af34c95",
+      "title": "消息称苹果为消化内存涨价，提议下调 iPhone 18 Pro / Max 的 OLED 面板采购价",
+      "summary": "IT之家 7 月 25 日消息，韩媒 The Elec 昨日（7 月 24 日）发布博文，报道称苹果公司为更好消化内存等存储元件供应短缺导致的成本涨价，在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，已提议下调 OLED 面板采购价格。报道称苹果已提议希望将适用于 iPhone 18 Pro 和 iPhone 18 Pro Max 的 OLED 面板供应价格降至约 70 美元（IT之家注：现汇率约合 474.8 元人民币）。业内人士预估三星显示（Samsung Display）和乐金显示（LG Display）的实际供应均价约为 66.5 美元（现汇率约合 451.",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/411.htm"
+    },
+    {
+      "id": "3a703df8-2d23-81bc-8410-c89acb5a56f9",
+      "title": "用户强烈反对后，Meta 暂缓旗下智能眼镜“对话聚焦”无障碍功能收费计划",
+      "summary": "IT之家 7 月 25 日消息，据科技媒体 The Verge 今天报道，Meta 曾计划对旗下智能眼镜的一项功能收取每月 20 美元（IT之家注：现汇率约合 135.7 元人民币）订阅费用，随后遭到用户强烈反对。据报道，这项计划收费的无障碍功能名为“对话聚焦”，可通过眼镜内置的麦克风阵列与 AI 技术，将交谈者的声音放大并降低背景杂音，使对话更加清晰。如今 Meta 发言人 Tyler Yee 确认，公司已经暂停“对话聚焦”收费计划。在公司找到更好替代方案前，该功能将通过抢鲜体验计划免费提供。值得注意的是，Meta 曾在宣布收费计划时表示，哪怕是付费用户，每个月也只能使用 15 小时“对话聚",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/410.htm"
+    },
+    {
+      "id": "3a703df8-2d23-8179-9352-e590f581720a",
+      "title": "报告称苹果 Apple Park 园区 23 日发生火情，消防人员出动约 45 分钟完成处置",
+      "summary": "IT之家 7 月 25 日消息，科技媒体 AppleInsider 昨日（7 月 24 日）发布博文，报道称苹果总部 Apple Park 园区于 23 日发生火情，消防人员接警后约 45 分钟结案，目前尚不清楚人员伤亡情况。火情发生在被称为 Apple Forge 1 的建筑外部，该建筑位于 Forge Drive 18920 至 18922 号。报道指出圣克拉拉县消防局于当地时间 7 月 23 日 17 时 38 分接到火灾报警，库比蒂诺 18922 Forge Drive 发生室外火情，消防人员到场后于 18 时 24 分结案，处置时长约 45 分钟，公开列表仅显示派出 Engine 7",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/408.htm"
+    },
+    {
+      "id": "3a703df8-2d23-8105-a794-e840565025c2",
+      "title": "美国宣布发现高品位富钇重稀土矿区，Diamond Creek 项目公布最新勘探结果",
+      "summary": "IT之家 7 月 25 日消息，美国爱达荷州战略资源公司（Idaho Strategic Resources）当地时间 7 月 23 日公布，其 Diamond Creek 稀土项目通过新的钻探和地表采样发现了富含钇元素的重稀土矿化区域。根据公告，Diamond Creek 项目的地表采样在 4 个不同勘探区域发现稀土矿化，这些区域沿约 3.2 公里长的地质构造带分布，分别为 Contact、Lucky Gem、Simer 和 Frank Burch。采样结果显示，样品中的总稀土氧化物平均含量约为 1.8%，重稀土氧化物平均含量超过 2000 ppm，其中钇元素含量超过 1300 ppm。IT",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/409.htm"
+    },
+    {
+      "id": "3a703df8-2d23-81fe-a097-e7dbb1e1ac1d",
+      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+      "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue re-lighting the booster's rocket engines.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-25",
+      "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/"
+    },
+    {
+      "id": "3a703df8-2d23-8114-a24e-de1e869ca6ba",
+      "title": "“氛围编程”命名人卡帕西提高 AI 回答质量的窍门：与它闲聊 10 分钟",
+      "summary": "IT之家 7 月 25 日消息，Anthropic 知名 AI 研究员、“氛围编程”概念提出者安德烈 · 卡帕西认为，使用 AI 时不必费尽心思打磨提示词：别琢磨了，想到什么就说什么，尽管一直说下去。卡帕西表示，自己有时会打开语音模式，对着 AI 连续讲上大概 10 分钟，思路不必完整，内容也不需要提前组织，整个过程乱七八糟，什么都说，完全想到哪儿说到哪儿。“有时，大语言模型需要获得更多信息，才能真正明白你想完成什么。”卡帕西表示，漫谈可以让用户与聊天机器人更合理地分工。用户只需把脑中所有尚未成形的项目想法全部说出来，再由聊天机器人整理成清晰、有条理的内容。他通常会在开头先提醒聊天机器人，自己",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/407.htm"
+    },
+    {
+      "id": "3a703df8-2d23-81cc-8dc8-e09263ca1902",
+      "title": "IT早报 0725：工信部抽检埃安小鹏样车及电池；宁德时代拟以 A 股史上最大规模回购股份；宇树王兴兴登《时代》封面；曝美团“骑手等灯停表”功能将上线...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 25 日星期六，今天的重要科技资讯有：1、工信部赴广汽埃安、肇庆小鹏开展监督检查，现场随机抽取样车、动力电池等工信部装备工业一司 7 月 24 日赴广汽埃安、小鹏汽车开展监督检查，重点检查智能网联汽车安全保障、生产一致性等准入条件，并随机抽取样车、电池送检。工信部将持续组织检查，对问题企业严肃处理，守牢产品安全底线。>> 查看详情2、A 股史上最大规模：宁德时代拟 200 亿-400 亿元回购股份，全部予以注销宁德时代 7 月 24 日晚发布公告，拟使用自有或自筹资金，以集中竞价方式回购 A 股股份，回购资金总额不低于 200 亿元且不超",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/406.htm"
+    },
+    {
+      "id": "3a703df8-2d23-81b6-853a-e468b6cc22b0",
+      "title": "《漫威斗魂》游戏公测后，索尼 PSN 服务器崩溃数小时",
+      "summary": "IT之家 7 月 25 日消息，《漫威斗魂》游戏于 7 月 24 日开启公测。测试版上线后不久，索尼 PlayStation Network 服务出现故障，大量玩家反馈无法进入游戏。Downdetector 数据显示，自公测开启后，用户每 15 分钟提交的错误报告数量维持在 1500 次-1700 次之间。并且由于该游戏强制绑定 PSN 账号，所以 PS5、PC 和 Xbox 版本均受影响。Arc System Works 和索尼于北京时间今日凌晨 5 点左右宣布，《漫威斗魂》公测服务器将暂时下线维护，结束时间预计为太平洋时间下午 4 点（北京时间早晨 7 点）。截至IT之家发稿，本作已结束维",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/405.htm"
+    },
+    {
+      "id": "3a703df8-2d23-8115-ad07-e5c99808ecd6",
+      "title": "苹果 macOS 27 邮件应用测试新撰写窗口，整合 Siri AI 交互",
+      "summary": "IT之家 7 月 25 日消息，科技媒体 MacRumors 昨日（7 月 24 日）发布博文，报道称在 macOS 27 Golden Gate Beta 4 开发者预览版中，苹果公司为邮件（Mail）应用酝酿“Write with Siri”功能，把 Siri AI 整合到邮件撰写窗口内。根据该媒体论坛网友 mactracker 分享的截图，在 macOS 27 系统邮件应用中，苹果重新设计邮件撰写窗口的格式栏，其中“Write with Siri”被置于最突出的位置。IT之家附上相关截图如下：根据页面截图显示，经典的格式控制按钮会自动折叠到撰写器右边缘，一旦用户选择“使用 Siri 撰写",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/404.htm"
+    },
+    {
+      "id": "3a703df8-2d23-8187-9cba-c3dd295201f7",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-25",
+      "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3a703df8-2d23-819c-948e-d6ce743d79c7",
+      "title": "谷歌确认 Pixel 11 系列手机将涨价，后续 Android 系统将提升内存优化",
+      "summary": "IT之家 7 月 25 日消息，谷歌设备与服务部门副总裁沙基尔 · 巴卡特（Shakil Barkat）昨天接受外媒 9To5Google 采访，确认 Pixel 11 系列手机将涨价。巴卡特表示，谷歌和所有消费电子公司一样，都在经历前所未有的内存涨价。摩根士丹利数据显示，2025 年 1GB 内存的价格约 2.8 美元（IT之家注：现汇率约合 19 元人民币），今年已经涨到 12 美元（现汇率约合 81.4 元人民币）。他认为，谷歌已经尽可能保护消费者免受供应波动影响（此处指的是已上市产品），但由于整体经济环境发生根本性变化，没有人能独善其身。因此所有 Pixel 系列产品未来都将迎来价格调",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/403.htm"
+    },
+    {
+      "id": "3a703df8-2d23-8194-843d-e76e075581b9",
+      "title": "SpaceX“星舰”实施第 13 次试飞，超重助推器按计划完成海上溅落着陆",
+      "summary": "IT之家 7 月 25 日消息，美国太空探索技术公司重型运载火箭“星舰”于美国中部时间 24 日下午从得克萨斯州南部的发射基地升空，实施第 13 次试飞。据 SpaceX 介绍，本次任务将继续验证新一代“星舰”系统的性能，并首次部署 20 颗新一代“星链”卫星。按计划，火箭第一级“超重型”助推器将在墨西哥湾附近海域实施受控溅落，不返回发射场进行回收；第二级“星舰”飞船将在完成试飞后，在印度洋预定区域溅落。目前超重型助推器（B20）已按计划与星舰（S40）完成分离，在墨西哥湾按计划完成海上溅落着陆，但一级溅落前发动机点火出现异常，部分引擎未能成功点火，好在冗余足够大，试飞达成预期目标。（更新：星",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/402.htm"
+    },
+    {
+      "id": "3a703df8-2d23-815e-8a19-eb26c30a7b3e",
+      "title": "高通宣布 9 月起芯片涨价，涨幅达两位数百分比",
+      "summary": "IT之家 7 月 25 日消息，据彭博社今日报道，高通公司正准备提高芯片产品价格，涨幅将达到两位数百分比。作为全球主要智能手机处理器供应商之一，高通此次调价可能影响智能手机、可穿戴设备等多个科技领域。据彭博社看到的一份文件显示，高通已于当地时间 7 月 24 日向客户发送涨价通知，并表示新价格将适用于 9 月 1 日之后出货的产品。高通在通知中提到，公司已经无法继续消化来自供应链的成本上涨压力，同时也尝试寻找新的零部件供应来源。高通表示，当前整个科技行业都受到历史性供应短缺影响，从智能手机、超级计算机到汽车产业均受到波及。AI 数据中心建设规模快速扩大，导致存储芯片和其他半导体产品产能紧张，同",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/400.htm"
+    },
+    {
+      "id": "3a703df8-2d23-8187-ab66-f252304ddffa",
+      "title": "罕见可运行的苹果 Apple-1 电脑拍卖，预估成交价可买 272 部 iPhone 17 Pro",
+      "summary": "IT之家 7 月 25 日消息，科技媒体 AppleInsider 昨日（7 月 24 日）发布博文，报道称在 RR Auction 举办的专场拍卖活动中，来自 1977 年、依然可运行的 Apple-1 成为全场焦点，预估成交价格超过 30 万美元（IT之家注：现汇率约合 203.5 万元人民币）。该媒体指出以 iPhone 17 Pro 起售价（256GB）1099 美元计算，这台稀有的 Apple-1 能买到 272 台 iPhone 17 Pro。本次专场拍卖名为“Steve Jobs & the Computer Revolution：The Apple 50th Anniversa",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/401.htm"
+    },
+    {
+      "id": "3a703df8-2d23-810b-bf68-c0b7900c4fff",
+      "title": "Siri 虚假宣传集体诉讼和解方案获批，苹果将向部分美国 iPhone 用户支付赔偿金",
+      "summary": "IT之家 7 月 25 日消息，据科技媒体 MacRumors 昨天报道，苹果今年 5 月同意支付 2.5 亿美元（IT之家注：现汇率约合 16.96 亿元人民币），就美国消费者发起的 Siri AI 延迟推出集体诉讼达成和解。符合条件的 iPhone 用户最高可获 95 美元（现汇率约合 644.4 元人民币）赔偿。苹果的和解协议已在 7 月 17 日获得法庭批准，符合条件的用户或可在数月后提交索赔申请，不过目前还没有正式的和解方案网站。据悉，本起诉讼源于 2024 年 6 月推出的 Apple 智能（Beta），苹果在广告中宣称，该功能可让 Siri 理解用户个人信息、识别屏幕内容，还拥有",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/399.htm"
+    },
+    {
+      "id": "3a703df8-2d23-815c-8640-d1f370af1aa6",
+      "title": "Anthropic Opus 5 发布：性能逼近 Fable 5 但价格砍半，刷新 ARC-AGI-3 纪录",
+      "summary": "IT之家 7 月 25 日消息，Anthropic 今日发布了 Opus 系列最新旗舰模型 ——Claude Opus 5，相比上一代 Opus 4.8 在性能提升的同时保持价格不变。Anthropic 表示，Opus 5 定位为面向日常使用的高性能模型，官方称其在部分能力上接近更高规格的 Claude Fable 5，但价格约为后者的一半。该模型目前已成为 Claude Max 服务的默认模型，也是 Claude Pro 用户可使用的最高能力模型，在多项代码、知识工作和科学研究测试中达到当前最高水平。据介绍，Opus 5 在 Frontier-Bench、GDPval-AA 等代码和知识工作",
+      "source": "IT之家",
+      "publishTime": "2026-07-25",
+      "link": "https://www.ithome.com/0/981/398.htm"
+    },
+    {
+      "id": "3a703df8-2d23-81cb-9b4f-f5feee78a6d3",
+      "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
+      "summary": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
+      "source": "Wired",
+      "publishTime": "2026-07-25",
+      "link": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/"
+    },
+    {
+      "id": "3a703df8-2d23-81f5-9a9a-ef5a7bd5e22d",
+      "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+      "summary": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson Tyler Yee confirms to ",
+      "source": "The Verge",
+      "publishTime": "2026-07-25",
+      "link": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses"
+    },
+    {
+      "id": "3a703df8-2d23-81da-a653-d52a573104dd",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-25",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+    },
+    {
+      "id": "3a703df8-2d23-8116-b3e2-e2911337d17b",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-25",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/"
+    },
+    {
+      "id": "3a703df8-2d23-8185-abdc-caab94f4cfaa",
+      "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+      "summary": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-25",
+      "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/"
+    },
     {
       "id": "3a703df8-2d23-8152-8ce8-f8b766f621ab",
       "title": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
@@ -208,198 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-07-25",
       "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
-    },
-    {
-      "id": "3a703df8-2d23-81c9-a933-c2070eaa9d10",
-      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
-      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
-      "source": "Wired",
-      "publishTime": "2026-07-25",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast/"
-    },
-    {
-      "id": "3a703df8-2d23-819d-9801-dc37bd8efc3a",
-      "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
-      "summary": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-25",
-      "link": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/"
-    },
-    {
-      "id": "3a703df8-2d23-8152-a68e-c96d4c07e05a",
-      "title": "What if Facebook just becomes TikTok? We may find out soon.",
-      "summary": "It's the circle of life, social media style.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-25",
-      "link": "https://www.businessinsider.com/facebook-tiktok-test-video-advertising-2026-7"
-    },
-    {
-      "id": "3a703df8-2d23-81dd-9c66-e2fbab688a8c",
-      "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
-      "summary": "After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on November 25th with all eight episodes dropping at once. We also got the first trailer for the series, which i",
-      "source": "The Verge",
-      "publishTime": "2026-07-25",
-      "link": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video"
-    },
-    {
-      "id": "3a703df8-2d23-81ad-87d1-f7844c484167",
-      "title": "I moved to Los Angeles for love. The relationship ended, but staying helped me find my future husband and build a career.",
-      "summary": "Moving to Los Angeles for love didn't work out how I expected, but staying in California after we split helped me find my husband and build a career.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-25",
-      "link": "https://www.businessinsider.com/moved-to-los-angeles-for-love-broke-up-stayed-california-2026-7"
-    },
-    {
-      "id": "3a703df8-2d23-81ef-8e18-d53cb1e71887",
-      "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
-      "summary": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-25",
-      "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/"
-    },
-    {
-      "id": "3a703df8-2d23-81f7-8929-f370cddc19f4",
-      "title": "You can’t ignore Google Zero anymore",
-      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [",
-      "source": "The Verge",
-      "publishTime": "2026-07-25",
-      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"
-    },
-    {
-      "id": "3a703df8-2d23-81e1-9f54-d764e7e718f9",
-      "title": "I've purchased Amtrak's USA Rail Pass 3 times. Most rides are slow and uncomfortable, but I can't wait to buy it again.",
-      "summary": "I've bought the $500 Amtrak USA Rail Pass three times. It saves me money and provides 10 rides to over 500 destinations across the country.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-25",
-      "link": "https://www.businessinsider.com/amtrak-usa-rail-pass-worth-money-according-to-frequent-traveler-2026-7"
-    },
-    {
-      "id": "3a703df8-2d23-81d6-9418-fe2239f96ceb",
-      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
-      "summary": "Anthropic said Claude Opus 5 is its best performing and its most cost-effective offering.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-25",
-      "link": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html"
-    },
-    {
-      "id": "3a703df8-2d23-8180-88f9-db441deadabc",
-      "title": "The trailer for 'Avengers: Doomsday' teases the return of new and old MCU stars — here's everything we know",
-      "summary": "\"Avengers: Doomsday\" is set for release in December. Stars like Robert Downey Jr., Chris Evans, and Chris Hemsworth are returning to the MCU.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-25",
-      "link": "https://www.businessinsider.com/avengers-doomsday-release-date-plot-cast-trailer"
-    },
-    {
-      "id": "3a703df8-2d23-8147-91e3-d817ae783dc2",
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as i",
-      "source": "The Verge",
-      "publishTime": "2026-07-25",
-      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"
-    },
-    {
-      "id": "3a703df8-2d23-8116-85fb-c6655b0cef95",
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude ",
-      "source": "The Verge",
-      "publishTime": "2026-07-25",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release"
-    },
-    {
-      "id": "3a703df8-2d23-8105-90be-ebf55a396bef",
-      "title": "Anthropic launches Opus 5",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-25",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
-    },
-    {
-      "id": "3a703df8-2d23-8121-be71-f09ad7ce6047",
-      "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
-      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-25",
-      "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/"
-    },
-    {
-      "id": "3a703df8-2d23-8172-9a61-e85a658f7c05",
-      "title": "Thousands of student-loan borrowers are getting long-awaited debt cancellation from a $23 billion settlement",
-      "summary": "Sweet vs. McMahon, a yearslong settlement over student-loan forgiveness for defrauded borrowers, is finally making progress.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-25",
-      "link": "https://www.businessinsider.com/student-loan-forgiveness-defrauded-borrowers-sweet-vs-mcmahon-settlement-debt-2026-7"
-    },
-    {
-      "id": "3a703df8-2d23-814a-a1b9-ccd44df217c5",
-      "title": "PlayStation Network down, leaving thousands of gamers unable to play",
-      "summary": "Sony's status page read that it was \"working to resolve the issue as soon as possible\".",
-      "source": "BBC Tech",
-      "publishTime": "2026-07-25",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3a703df8-2d23-8167-b7aa-eb93a14acae4",
-      "title": "India’s move against Jack Dorsey’s Bitchat sparks legal debate",
-      "summary": "The offline messaging app surged in popularity in India amid protests in New Delhi.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-25",
-      "link": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/"
-    },
-    {
-      "id": "3a703df8-2d23-81c0-a25d-fb30ed479b9b",
-      "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
-      "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breac",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-25",
-      "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/"
-    },
-    {
-      "id": "3a703df8-2d23-8102-ba6e-ecec6763e564",
-      "title": "I visited the 'Niagara of the West.' It's the perfect way to enjoy a breathtaking waterfall without overwhelming crowds.",
-      "summary": "I visited Shoshone Falls in Idaho, which is often referred to as the \"Niagara of the West.\" The falls are stunning and there's lots to do in the area.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-25",
-      "link": "https://www.businessinsider.com/visiting-shoshone-falls-idaho-best-things-to-do-2026-7"
-    },
-    {
-      "id": "3a703df8-2d23-814a-bfd3-e004eb480cb8",
-      "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
-      "summary": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-25",
-      "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/"
-    },
-    {
-      "id": "3a703df8-2d23-810c-8c4e-c5443745247c",
-      "title": "The US scored its first Iranian Shahed kill with a counter-drone system proven in Ukraine",
-      "summary": "Ukraine has used the American-made Merops system to intercept more than 1,000 Shaheds launched by Russia.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-25",
-      "link": "https://www.businessinsider.com/us-military-kill-iranian-drone-system-proven-in-ukraine-2026-7"
-    },
-    {
-      "id": "3a703df8-2d23-813d-aeab-d31b5de3a600",
-      "title": "What life looked like under Trump's tariff hero, US President William McKinley",
-      "summary": "Trump's tariff policy was inspired by a 19th-century US president, who later changed his mind on his tariff approach.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-24",
-      "link": "https://www.businessinsider.com/vintage-photos-president-mckinley-tariffs-economy-2025-2"
-    },
-    {
-      "id": "3a703df8-2d23-8165-ae5e-e36f73088098",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-24",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
-    },
-    {
-      "id": "3a703df8-2d23-8179-84f4-f204959ab834",
-      "title": "香港 TVB 官宣更名无线集团，由传统电视台升级为跨媒体娱乐集团",
-      "summary": "IT之家 7 月 24 日消息，今日，@TVB官方微博 发布消息，TVB 宣布正式更名为“无线集团”，由传统电视台升级为跨媒体娱乐集团。业务更多元化，拥抱创新 AI 技术，市场拓宽到大湾区。IT之家从官方公告获悉，TVB 中文名称由“电视广播有限公司”更改为“无线集团有限公司”，英文名称由“Television Broadcasts Limited”更改为“TVB Limited”。无线集团行政主席许涛在致辞中表示：“由 1967 年启播以来，‘无线’已扎根香港超过半世纪，记载了香港的历史，亦承载了几代香港人的集体回忆。我们制作的内容，除了透过电视机、也透过 TVB 的数码平台矩阵传送到观众的",
-      "source": "IT之家",
-      "publishTime": "2026-07-24",
-      "link": "https://www.ithome.com/0/981/395.htm"
     }
   ],
   "macroEvents": [
