@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-07-27 05:25",
+  "updatedAt": "2026-07-27 06:29",
   "news": [
+    {
+      "id": "3a903df8-2d23-8166-b44f-d0aff0444ba9",
+      "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
+      "summary": "There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of \"so bad they're good\" films are marvelous curiosities where ambition far outstrips resources, ability, and self-awareness to become something much greater than the sum of their parts.",
+      "source": "The Verge",
+      "publishTime": "2026-07-27",
+      "link": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review"
+    },
+    {
+      "id": "3a903df8-2d23-81f1-bf5d-c76e6f6d5e14",
+      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+      "summary": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-27",
+      "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/"
+    },
+    {
+      "id": "3a903df8-2d23-8168-9983-c2c7835c3afc",
+      "title": "A photo of a community meeting has sparked a generational fight over San Francisco real estate",
+      "summary": "A group of older San Francisco residents resisting a new residential tower is facing a backlash from the city's younger techies.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-27",
+      "link": "https://www.businessinsider.com/housing-market-boomers-millenials-real-estate-marina-district-san-francisco-2026-7"
+    },
     {
       "id": "3a903df8-2d23-8192-ac8a-f479aec8be7f",
       "title": "Making sense of the panic over Chinese AI",
@@ -376,30 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-26",
       "link": "https://www.ithome.com/0/981/788.htm"
-    },
-    {
-      "id": "3a903df8-2d23-817b-89f0-dd4867442c09",
-      "title": "SK 集团与英伟达达成 5000 亿美元合作，2027 年上线首个 AI 工厂",
-      "summary": "IT之家 7 月 26 日消息，7 月 24 日，SK 集团与英伟达达成价值超过 5000 亿美元（IT之家注：现汇率约合 3.39 万亿元人民币）的 AI 合作计划，包括 SK 集团旗下的 SK 电讯将建设 2 吉瓦容量的 AI 云计算中心，采用英伟达 Vera Rubin DSX，并部署基于 SK 海力士 HBM4 的 Vera Rubin 加速计算系统，首个 AI 工厂计划于 2027 年上线；与 SK 海力士合作开发 HBM 在内的下一代人工智能内存技术。首先，SK 集团计划建设韩国国内最高规模 2 吉瓦（GW）的 AI 工厂，将引进下一代 GPU 并推进投资合作。本次合作是双方 6 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/787.htm"
-    },
-    {
-      "id": "3a903df8-2d23-81c2-8681-fddba6cabdad",
-      "title": "开发者推出防 AI 训练图片干扰工具，意外催生“抖动视觉风格”梗图创作潮流",
-      "summary": "IT之家 7 月 26 日消息，近年来包括 Facebook、Instagram、X 等众多海外社交平台都会利用用户上传的内容训练 AI 模型。针对这一趋势，有开发者 TI111310 设计一款名为“grid-noise-animator”的工具，通过在图片中加入大量噪点来干扰 AI 识别能力，阻止自己的图片被用于训练 AI，IT之家附工具地址（https://grid-noise-animator.vercel.app/zh-hans.html）。具体来看，该工具可以将任意照片转换成带有大量噪点效果的视频或动态图片。用户只需上传照片，系统便能即时生成处理后的影像，同时还可以根据需求调整噪点尺",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/786.htm"
-    },
-    {
-      "id": "3a903df8-2d23-817f-bcb8-ce014f56ff19",
-      "title": "跨境电商 SHEIN 希音通过港交所上市聆讯",
-      "summary": "IT之家 7 月 26 日消息，今日，希音国际控股有限公司更新聆讯后资料集，意味着该公司港交所 IPO 通过聆讯。IT之家注意到，中国证监会国际合作司于 7 月 10 日发布关于 SHEIN Global Holdings Limited（希音国际控股有限公司）境外发行上市备案通知书。备案通知书显示，希音国际控股有限公司拟发行不超过 341,613,000 股境外上市普通股并在香港联合交易所上市。据彭博社此前报道，知情人士透露，如果中国证监会批准，SHEIN 及其顾问最快可能寻求在未来数月内启动 IPO（首次公开募股）。SHEIN 希音正考虑在首次公开募股中筹资数十亿美元，并补充称最终的募资金",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/785.htm"
     }
   ],
   "macroEvents": [
