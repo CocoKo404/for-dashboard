@@ -1,6 +1,174 @@
 {
-  "updatedAt": "2026-07-26 19:44",
+  "updatedAt": "2026-07-26 22:07",
   "news": [
+    {
+      "id": "3a903df8-2d23-8120-98b7-c5e69d98d288",
+      "title": "The 23 most dangerous countries for US travelers in 2026, according to the State Department",
+      "summary": "The US State Department issued a worldwide warning for American travelers. See the 23 countries it previously warned US citizens against visiting.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-26",
+      "link": "https://www.businessinsider.com/most-dangerous-countries-tourism-travel"
+    },
+    {
+      "id": "3a903df8-2d23-8181-8f6c-cc1f7ee23df6",
+      "title": "Don't like AI? Linux's creator says go fork yourself",
+      "summary": "Linus Torvalds says Linux developers should embrace AI coding tools or fork the project, ending a heated open-source debate.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-26",
+      "link": "https://www.businessinsider.com/linux-creator-linus-torvalds-ai-holdouts-fork-off-2026-7"
+    },
+    {
+      "id": "3a903df8-2d23-816a-9ac9-cd98b1a54378",
+      "title": "I wrote a story about a woman who regretted moving to South Carolina. It sparked a debate about living in the South.",
+      "summary": "BI readers debated one woman's move from Connecticut to South Carolina, discussing the state's climate and affordability.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-26",
+      "link": "https://www.businessinsider.com/is-south-carolina-charleston-affordable-good-place-to-live-2026-7"
+    },
+    {
+      "id": "3a903df8-2d23-8169-b053-e0fafc8efe2c",
+      "title": "When my family moved in with my parents, we set some ground rules. However, it's our unspoken rules that have helped the most.",
+      "summary": "When we began living in a multigenerational house, we set some ground rules. However, it's perhaps the unspoken rules that have helped the most.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-26",
+      "link": "https://www.businessinsider.com/unspoken-rules-multigenerational-house-2026-7"
+    },
+    {
+      "id": "3a903df8-2d23-81fc-a426-f9780606de38",
+      "title": "A woman built a $400,000 ADU on her property so her parents can live rent-free",
+      "summary": "Hana Brown didn't want her parents to have to worry about housing as they age, so she and her husband built a luxury ADU for them in their yard.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-26",
+      "link": "https://www.businessinsider.com/woman-built-adu-on-her-property-parents-live-rent-free-2026-7"
+    },
+    {
+      "id": "3a903df8-2d23-815c-933f-d6988400a8c1",
+      "title": "The vertical video takeover is here",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started For a while, every social an",
+      "source": "The Verge",
+      "publishTime": "2026-07-26",
+      "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook"
+    },
+    {
+      "id": "3a903df8-2d23-81c5-91d1-e375a1ef3ad6",
+      "title": "I'm a working single mom. I pay other parents to make my children's school lunches.",
+      "summary": "I loved making school lunches for my kids, but now that I'm divorced, I don't have the time with my busy career. I turn to other moms for help.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-26",
+      "link": "https://www.businessinsider.com/single-mom-pays-other-parents-make-childrens-school-lunches-2026-7"
+    },
+    {
+      "id": "3a903df8-2d23-817b-89f0-dd4867442c09",
+      "title": "SK 集团与英伟达达成 5000 亿美元合作，2027 年上线首个 AI 工厂",
+      "summary": "IT之家 7 月 26 日消息，7 月 24 日，SK 集团与英伟达达成价值超过 5000 亿美元（IT之家注：现汇率约合 3.39 万亿元人民币）的 AI 合作计划，包括 SK 集团旗下的 SK 电讯将建设 2 吉瓦容量的 AI 云计算中心，采用英伟达 Vera Rubin DSX，并部署基于 SK 海力士 HBM4 的 Vera Rubin 加速计算系统，首个 AI 工厂计划于 2027 年上线；与 SK 海力士合作开发 HBM 在内的下一代人工智能内存技术。首先，SK 集团计划建设韩国国内最高规模 2 吉瓦（GW）的 AI 工厂，将引进下一代 GPU 并推进投资合作。本次合作是双方 6 ",
+      "source": "IT之家",
+      "publishTime": "2026-07-26",
+      "link": "https://www.ithome.com/0/981/787.htm"
+    },
+    {
+      "id": "3a903df8-2d23-81c2-8681-fddba6cabdad",
+      "title": "开发者推出防 AI 训练图片干扰工具，意外催生“抖动视觉风格”梗图创作潮流",
+      "summary": "IT之家 7 月 26 日消息，近年来包括 Facebook、Instagram、X 等众多海外社交平台都会利用用户上传的内容训练 AI 模型。针对这一趋势，有开发者 TI111310 设计一款名为“grid-noise-animator”的工具，通过在图片中加入大量噪点来干扰 AI 识别能力，阻止自己的图片被用于训练 AI，IT之家附工具地址（https://grid-noise-animator.vercel.app/zh-hans.html）。具体来看，该工具可以将任意照片转换成带有大量噪点效果的视频或动态图片。用户只需上传照片，系统便能即时生成处理后的影像，同时还可以根据需求调整噪点尺",
+      "source": "IT之家",
+      "publishTime": "2026-07-26",
+      "link": "https://www.ithome.com/0/981/786.htm"
+    },
+    {
+      "id": "3a903df8-2d23-817f-bcb8-ce014f56ff19",
+      "title": "跨境电商 SHEIN 希音通过港交所上市聆讯",
+      "summary": "IT之家 7 月 26 日消息，今日，希音国际控股有限公司更新聆讯后资料集，意味着该公司港交所 IPO 通过聆讯。IT之家注意到，中国证监会国际合作司于 7 月 10 日发布关于 SHEIN Global Holdings Limited（希音国际控股有限公司）境外发行上市备案通知书。备案通知书显示，希音国际控股有限公司拟发行不超过 341,613,000 股境外上市普通股并在香港联合交易所上市。据彭博社此前报道，知情人士透露，如果中国证监会批准，SHEIN 及其顾问最快可能寻求在未来数月内启动 IPO（首次公开募股）。SHEIN 希音正考虑在首次公开募股中筹资数十亿美元，并补充称最终的募资金",
+      "source": "IT之家",
+      "publishTime": "2026-07-26",
+      "link": "https://www.ithome.com/0/981/785.htm"
+    },
+    {
+      "id": "3a903df8-2d23-8121-82e1-f03a0dec71b8",
+      "title": "The first US sea drone strike in Iran set the stage for a new way of NATO warfighting. 'It's coming,' top commander says.",
+      "summary": "NATO militaries are integrating sea drones into their naval operations, but the US became the first ally to use one in combat.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-26",
+      "link": "https://www.businessinsider.com/us-sea-drone-strike-iran-new-frontier-warfighting-nato-commander-2026-7"
+    },
+    {
+      "id": "3a903df8-2d23-8137-86b8-ea383b2dd1ef",
+      "title": "I paid $1,500 to upgrade my Delta flight from NYC to Paris. Here's what I got, and whether I'd do it again.",
+      "summary": "The author was offered a $1,500 upgrade to Delta One at check-in. She bought the premium ticket and details whether the experience was worth it.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-26",
+      "link": "https://www.businessinsider.com/i-paid-1500-upgrade-delta-one-paris-flight-worth-it-2026-7"
+    },
+    {
+      "id": "3a903df8-2d23-810e-b92c-d8cc66d11142",
+      "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+      "summary": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+      "source": "Wired",
+      "publishTime": "2026-07-26",
+      "link": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/"
+    },
+    {
+      "id": "3a903df8-2d23-8111-a700-ce9414f9e2fa",
+      "title": "网友脑洞大开设计创意程序，用苹果 AirPods“挥鞭抽打”AI 加速运行",
+      "summary": "IT之家 7 月 26 日消息，Reddit 用户 Disastrous-Body-297 发帖，公布了一款利用苹果 AirPods 传感器模拟鞭子“抽打”AI 的创意程序“whoisbadai”，其用途是在 AI 陷入卡顿或长时间无响应时，利用“挥鞭”让它“动起来”。据介绍，“whoisbadai”利用了 AirPods 内置的陀螺仪和加速度传感器，当系统检测到用户大幅甩动耳机的动作后，就会触发对 AI 进行“鞭打”的动画效果。同时该程序还可以利用传感器数据检测耳机移动方向和位移，让用户像操作 Switch 体感控制器一样，通过动作控制虚拟皮鞭的位置，使其落在指定窗口上，对“不听话”的 AI",
+      "source": "IT之家",
+      "publishTime": "2026-07-26",
+      "link": "https://www.ithome.com/0/981/783.htm"
+    },
+    {
+      "id": "3a903df8-2d23-81db-b896-e6a8b57a9112",
+      "title": "All the Ways You Can Make Reading on Your Phone Easier",
+      "summary": "Tired of eye strain? These tips will help optimize your smartphone for marathon reading sessions.",
+      "source": "Wired",
+      "publishTime": "2026-07-26",
+      "link": "https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/"
+    },
+    {
+      "id": "3a903df8-2d23-81fb-ad3a-d5457fcb0964",
+      "title": "《最终幻想 7：启示录》世界比《重生》更大，滨口直树称将避免玩家陷入“开放世界疲劳”",
+      "summary": "IT之家 7 月 26 日消息，《最终幻想 7：启示录》（Final Fantasy VII Revelation）导演滨口直树接受 Eurogamer 采访时表示：“目前市面上有很多开放世界游戏，而‘开放世界疲劳 (Open world fatigue)’对我来说是一个需要重点关注的概念”。滨口直树称，就其个人而言，也曾体会过那种被丢进一个开放世界游戏后，不知该去哪、不知从何开始、也不知该做什么的迷茫感。不过他同时也强调，那种置身于一个充满无限可能、令人惊叹的奇妙世界中的设定，又是极其迷人的。但对我个人来说，作为一名创作者，我认为在开放世界游戏中为玩家提供适当的引导至关重要。玩家需要明确自己",
+      "source": "IT之家",
+      "publishTime": "2026-07-26",
+      "link": "https://www.ithome.com/0/981/782.htm"
+    },
+    {
+      "id": "3a903df8-2d23-81ab-ae50-d8dbd332cca3",
+      "title": "A preventive neurologist shares 3 simple habits she follows to help reduce her Alzheimer's risk",
+      "summary": "Preventive neurologist Dr. Kellyann Niotis focuses on strength training, zone 4 cardio, and lots of hydration to keep her brain sharp.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-26",
+      "link": "https://www.businessinsider.com/preventive-neurologist-tips-to-help-reduce-alzheimer-s-risk-2026-7"
+    },
+    {
+      "id": "3a903df8-2d23-81b3-8fda-d9bb33d580fb",
+      "title": "《超级变色龙》游戏开发团队调查第三方恶意地图“中招”，官方 Discord 交流频道遭黑客入侵",
+      "summary": "IT之家 7 月 26 日消息，据 4Gamers 报道，Steam 近期爆火的独立多人派对游戏《超级变色龙（MECCHA CHAMELEON）》的官方 Discord 交流服务器于今天凌晨遭遇黑客入侵。《超级变色龙》开发团队表示，本次安全事故最初源于团队调查 Steam Workshop 自制模组地图中的恶意程序问题。此前有玩家反馈，部分非官方地图暗藏恶意远程执行代码脚本，开发团队随后展开修复，并已在 3.1.0 版本中修补相关漏洞。负责技术处理的 HAGANEIRO 表示，为验证玩家提交的问题，他曾在一台非开发环境电脑上测试被举报的恶意地图，确认漏洞确实存在。结果相应电脑遭到黑客入侵，黑客",
+      "source": "IT之家",
+      "publishTime": "2026-07-26",
+      "link": "https://www.ithome.com/0/981/781.htm"
+    },
+    {
+      "id": "3a903df8-2d23-8117-b407-c1a5bf082775",
+      "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
+      "summary": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
+      "source": "Wired",
+      "publishTime": "2026-07-26",
+      "link": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/"
+    },
+    {
+      "id": "3a903df8-2d23-8188-bb0b-e9d4c6fa3bc4",
+      "title": "The Best Motorola Phones, From Razr to Moto G (2026)",
+      "summary": "Motorola phones may seem old-school, but their reasonable prices, colorful designs, and simple software make them good, wallet-friendly Android smartphones.",
+      "source": "Wired",
+      "publishTime": "2026-07-26",
+      "link": "https://www.wired.com/story/best-motorola-phones/"
+    },
+    {
+      "id": "3a903df8-2d23-81e0-8ff1-ca76d3ad4d77",
+      "title": "7 kids, 3 moms, and 1 giant cruise ship. We finally booked a trip that felt like a real vacation.",
+      "summary": "I spent nearly $6,000 to take my kids on a trip with our friends on Royal Caribbean's Star of the Seas. We can't wait to do it again.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-26",
+      "link": "https://www.businessinsider.com/royal-caribbean-star-of-the-seas-mom-kids-trip-cruise-2026-7"
+    },
     {
       "id": "3a903df8-2d23-81bb-9330-d564a186bfff",
       "title": "光荣特库摩《三国志 14 威力加强传承版》开启预购：Steam 国区 128 元，9 月 10 日解锁",
@@ -232,174 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-26",
       "link": "https://www.ithome.com/0/981/758.htm"
-    },
-    {
-      "id": "3a903df8-2d23-8131-afbd-c07ee45df628",
-      "title": "华为鸿蒙“龙虾”小艺 Claw 上线“新人福利”，新用户首次订阅连续包月享 7 天免费体验",
-      "summary": "IT之家 7 月 26 日消息，华为宣布为鸿蒙 HarmonyOS 小艺 Claw 上线“新用户首次订阅连续包月享 7 天免费体验”活动。官方表示，即日起持有 HarmonyOS 6 及以上系统版本的手机、平板用户，将小艺 App 升级到最新 11.6.6.300 版本，即可参加活动。唤醒小艺后说“小艺 Claw 新人福利”，或者在小艺主对话页面底部找到“小艺 Claw 免费体验”按钮，点击即可领取新用户权益。活动期间，首次订阅连续包月的新用户可享受 7 天免费体验权益，并获得 500 AI 点数。华为表示，随着版本更新，小艺 Claw 的 PPT 生成、编码能力、图像创作技能、上下文压缩时延",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/756.htm"
-    },
-    {
-      "id": "3a903df8-2d23-81b4-9d31-c2a03076ff6e",
-      "title": "欧盟 AI 透明度准则 8 月 2 日起生效：聊天机器人需“自报身份”，深度伪造内容须带有机读标签",
-      "summary": "IT之家 7 月 26 日消息，据外媒 Notebookcheck 今天报道，欧盟《人工智能法案》第 50 条 AI 透明度准则将于 8 月 2 日正式生效。根据法案，聊天机器人必须在服务人类时，明确告知其并非真人而是 AI 系统；深度伪造内容也必须在发布时明确说明。具体来说，《人工智能法案》第 50 条要求厂商设计聊天机器人和语音助手时必须添加明显标记，使用户能够知道自己在和机器交流。AI 生成图片、音频、视频和文本必须附带机器可读的标记，声明自己是 AI 内容。同时，该法案要求用户和机构发布深度伪造（IT之家注：Deepfake）内容时必须进行明确说明，涉及公共利益的 AI 生成文本也必须",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/755.htm"
-    },
-    {
-      "id": "3a903df8-2d23-816b-980a-c5a462a74f7c",
-      "title": "中国“景德镇手工瓷业遗存”列入《世界遗产名录》，官方游戏《数字景德镇 · 瓷都小匠》同步上线",
-      "summary": "IT之家 7 月 26 日消息，据“江西日报”，联合国教科文组织第 48 届世界遗产大会于 7 月 25 日通过决议，将中国“景德镇手工瓷业遗存”列入《世界遗产名录》。景德镇由此成为中国第 61 处世界遗产。当日，作为“数字景德镇”建设的创新成果，全球首款申遗小游戏《数字景德镇 · 瓷都小匠》也正式上线。据介绍，《数字景德镇 · 瓷都小匠》由景德镇官方联合腾讯共同打造，融合了 AI 数字人、AI 3D 生成、AI+PCG 等多种技术，玩家能够化身成窑厂小匠，亲历景德镇千年瓷业的演进历程，并与“AI 师傅”进行问答，了解景德镇瓷业发展的每一个细节。本作以模拟制瓷玩法为主，拥有选泥、制坯、装饰到上",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/753.htm"
-    },
-    {
-      "id": "3a903df8-2d23-8120-8d21-c8e2aa1509f7",
-      "title": "华为智选车产品总监彭磊详解方盒子车型分类，享界 G9 定位豪华硬派 SUV 而非纯粹越野",
-      "summary": "IT之家 7 月 26 日消息，华为智选车产品总监（享界系列）彭磊昨日在微博介绍了方盒子车型的分类，称看起来会比较类似金字塔的结构：最上面的叫纯粹越野，也就是传统的带大梁的越野车，越野能力很强，但可能牺牲了一部分舒适性。身边有不少媒体朋友，说出去重装越野，都挺累的，也牺牲了部分铺装路面舒适性（真实反馈）。第二档叫豪华硬派 SUV，也就是我们享界 G9，有豪华空间内饰和舒适体验，也具备一定的全地形能力，带差速锁，底盘上硬件配置也不错，兼顾铺装路面舒适性与操控能力，和部分户外场景穿越与脱困能力（后边我们会慢慢和大家沟通，包括试驾或者发布会）。第三档叫城市豪华 SUV，这部分会更加贴近主流家用 SU",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/754.htm"
-    },
-    {
-      "id": "3a903df8-2d23-814c-9f99-fa96c1c37a34",
-      "title": "上海交大红杉书院揭牌成立：沈南鹏捐资 3 亿元，蚂蚁井贤栋、米哈游刘伟、联想杨元庆等任顾问委员",
-      "summary": "IT之家 7 月 26 日消息，上海交通大学今日宣布，上海交大红杉书院正式揭牌成立，面向国家战略需求，深化基础学科，拔尖创新人才培养改革。为系统谋划书院长远发展、科学统筹建设布局，红杉书院成立顾问委员会，作为书院建设发展的战略咨询与指导机构，由上海交通大学校长及中国科学院院士丁奎岭、红杉中国创始及执行合伙人沈南鹏担任顾问委员会主任。活动现场举行聘任仪式，为刘伟、井贤栋、杨振宇、倪军、张杰、俞勇、其实、陈光明等首批顾问委员会委员颁发聘书。IT之家注意到，上海交通大学官方今年 6 月 1 日宣布，值上海交通大学建校 130 周年之际，1985 级首届教改试点班杰出校友、红杉中国创始及执行合伙人沈南",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/751.htm"
-    },
-    {
-      "id": "3a903df8-2d23-81b6-a2cf-e94b248e8ca1",
-      "title": "AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
-      "summary": "People are increasingly turning to AI to talk about their relationships, but relying on chatbots can weaken empathy and communication skills.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-26",
-      "link": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7"
-    },
-    {
-      "id": "3a903df8-2d23-81fa-afb5-eaf121bb06cb",
-      "title": "奇瑞风云 T7 即将开启小订：搭载犀牛电池，600km CLTC 续航",
-      "summary": "IT之家 7 月 26 日消息，奇瑞风云新能源官方今日宣布，风云 T7 国内小订即将开启，该车现已在海外以“LEPAS L6”的名称上市。外观方面，风云 T7 采用风云新能源最新一代极简电动化设计语言，封闭式车身搭配狭长锐利的分体式 LED 大灯，两侧配备立体导流槽，下包围运动饰板强化整车冲击力。车身尺寸方面，新车长宽高为 4570*1852*1694mm，轴距为 2700mm，定位紧凑型 SUV。侧面采用溜背式车顶线条，搭配黑色熏黑轮眉与多辐运动轮毂；车尾配备贯穿式 LED 尾灯。IT之家从工信部申报信息获悉，风云 T7 动力形式为单电机，最大功率为 178 千瓦，最高车速 180km/h。",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/750.htm"
-    },
-    {
-      "id": "3a903df8-2d23-81a1-ad1a-db52c081c3b6",
-      "title": "Microsoft bet everything on AI. Is its North Star now a noose?",
-      "summary": "Microsoft bet everything on AI. Is its North Star now a noose?",
-      "source": "Business Insider",
-      "publishTime": "2026-07-26",
-      "link": "https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7"
-    },
-    {
-      "id": "3a903df8-2d23-8175-9fa2-d7fc327b310d",
-      "title": "全球首个 ±500 千伏柔性直流海缆建成，深远海大容量输电通道全线贯通",
-      "summary": "IT之家 7 月 26 日消息，据中国交建分享，近日，由中交海峰承建的三峡阳江青洲五期、七期海缆集中送出工程，在广东阳江青洲海域完成全线敷设作业。▲ 图源：中国交建公众号（后同）据介绍，这条全球首个 ±500 千伏柔性直流海缆成功扎根南海深海床，与全球最大海上换流站“海风之心”精准对接，标志着我国在深远海风电柔性直流送出领域形成了全套工程化能力，正式开启了向深海要电的“中国方案”。IT之家注：全球规模最大海上换流站 ——“海风之心”已于今年 6 月抵达广东阳江青洲海上风电场安装海域，开展了海上浮托安装作业。同时，“海风之心”也是世界首座 ±500 千伏 / 2000 兆瓦柔性直流海上换流站。传",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/749.htm"
-    },
-    {
-      "id": "3a903df8-2d23-818e-9f8d-c85f66b3bb78",
-      "title": "China built full-size models of US warships and aircraft to hone its missiles",
-      "summary": "Satellite images reveal how China is building replicas to hone its weapons. Their targets: F-35 stealth fighters, US warships, and Taiwan's capital.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-26",
-      "link": "https://www.businessinsider.com/satellite-images-china-full-size-mock-us-warships-attack-2026-7"
-    },
-    {
-      "id": "3a903df8-2d23-8135-a79d-d9355b957304",
-      "title": "米哈游 AI 聊天软件 AnuNeko 下周永久关闭",
-      "summary": "IT之家 7 月 26 日消息，米哈游近日宣布，旗下 AI 聊天软件 AnuNeko 将于太平洋标准时间 7 月 29 日 23:59（北京时间 7 月 30 日 14:59）永久关闭。AnuNeko 表示，他们经过艰难思考后决定将资源投入其他方向。对于许多人来说，AnuNeko 是一个可以自由交流的陪伴、安慰空间。IT之家从官方公告获悉，AnuNeko 关闭前可以正常使用，如果用户希望在停止服务前删除聊天记录，可联系官方客服协助。服务器关闭后，所有用户数据将根据官方隐私政策永久删除。",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/748.htm"
-    },
-    {
-      "id": "3a903df8-2d23-8199-9b45-c72416a47c59",
-      "title": "国产科幻电影《群星闪耀时》豆瓣开分 7.6，上映 2 天总票房破 5000 万",
-      "summary": "IT之家 7 月 26 日消息，国产科幻电影《群星闪耀时》已于昨日上映。据猫眼专业版数据，电影《群星闪耀时》上映 2 天，总票房破 5000 万。目前，《群星闪耀时》豆瓣开分 7.6，近 5 万名网友参与评价，其中 29.4% 的观众给出五星好评，一星评价占比为 1.9%。IT之家查询获悉，《群星闪耀时》讲述了未来时空，三名中国航天员在返回地球途中突遇险情，与地面失去联系。危急时刻，一条神秘电子信号悄然出现，其中隐藏的代码，将彻底改写他们的命运。影片由黄建新监制，章笛沙执导，黄渤、吴磊、高叶、孙阳领衔主演。IT 之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计每张票可以节",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/747.htm"
-    },
-    {
-      "id": "3a903df8-2d23-819d-a196-f8fc03787911",
-      "title": "Steam 策略新游《噩梦边境》发售：国区售价 93 元，支持简体中文",
-      "summary": "IT之家 7 月 26 日消息，由 Ice Code Games 开发、知名策略游戏发行商 Slitherine Ltd. 推出的《噩梦边境 - Nightmare Frontier》已正式登陆 Steam 平台，目前国区定价 93 元，IT之家附游戏商品页（https://store.steampowered.com/app/3310950/__Nightmare_Frontier/?l=schinese&cc=cn）。据介绍，本作是官方自称的首款 Tactical Extraction Looter 类型游戏，融合了策略、生存与怪物战斗元素，玩家将带领一支 Scavengers 小队，踏入",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/980/335.htm"
-    },
-    {
-      "id": "3a903df8-2d23-8136-8e37-ffd8830bc5d3",
-      "title": "Steam 客户端 Preview / Beta 通道更新发布：优化游戏及更新包下载传输表现",
-      "summary": "IT之家 7 月 26 日消息，Valve 现已向 Steam 客户端的 Preview / Beta 测试通道推送了新版本更新，本次更新重点针对下载相关模块进行了问题修复。IT之家附 Steam 官方公告链接（https://store.steampowered.com/news/）。下载修复了一项会对 Steam 内容分发系统运行效率产生负面影响的 Bug，优化游戏及更新包的下载传输表现。本次更新目前仅面向参与 Preview / Beta 测试通道的用户推送，普通正式版通道用户暂未收到该版本更新，后续相关修复也将在完成稳定性验证后推送至全量正式版本。本文由机器人发布，如果你发现了日志中未",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/980/869.htm"
-    },
-    {
-      "id": "3a903df8-2d23-8166-a130-c40c823a4b76",
-      "title": "小米汽车：YU7 GT 武士黑哑光已到店，小米定制服务专属打造",
-      "summary": "IT之家 7 月 26 日消息，小米汽车官方今日转发博主 @11AMYLIU 消息，并表示，小米 YU7 GT 武士黑哑光已到店，小米定制服务专属打造。实车已在小米汽车北京工厂店展出，欢迎到店品鉴。据IT之家此前报道，5 月 21 日，小米 YU7 GT 正式发布，定价 38.99 万元，“大满配”42.99 万元。小米汽车为小米 YU7 GT 推出了小米定制服务，提供多项个性化配置选项，涵盖了车辆外观、内饰、细节标识等多个维度，选配需包含定制配置且定制选配金额需超过 60,000 元。",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/745.htm"
-    },
-    {
-      "id": "3a903df8-2d23-81f8-a6d9-c4b3af5e4624",
-      "title": "哈勃望远镜观测到银河系独特的新星爆发，以 3200 万公里时速喷射“宇宙子弹”",
-      "summary": "IT之家 7 月 26 日消息，借助服役多年的美国国家航空航天局（NASA）哈勃空间望远镜，天文学家发现，银河系中的一次恒星爆发正向外喷射速度高达每小时 2000 万英里（IT之家注：约 3200 万公里）的“宇宙子弹”。此次爆发的天体名为 V445 Puppis（船尾座 V445），它于 2000 年发生爆发，是目前银河系中已知唯一一颗“氦新星（helium nova）”。过去 20 多年来，天文学家一直在研究它，但由于爆发后形成的大量尘埃碎片长期将其包裹，这颗新星的许多特征始终笼罩在谜团之中。直到这些尘埃逐渐散去，研究团队才得以利用哈勃空间望远镜、NASA 系外行星巡天卫星 TESS（凌日",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/744.htm"
-    },
-    {
-      "id": "3a903df8-2d23-8189-afe2-cddda056219e",
-      "title": "联想推出拯救者“24-1r”23.8 英寸显示器：1080P 280Hz，669 元",
-      "summary": "IT之家 7 月 26 日消息，联想现已在京东上架拯救者“24-1r”23.8 英寸显示器，该机主打 1080P 280Hz，定价为 669 元。京东联想拯救者 24-1r 显示器 669 元直达链接该机配备一块 1920x1080 分辨率 280Hz IPS 面板，显示器亮度 400 尼特，MPRT 响应速度 0.5ms，支持 8-Bit 色彩，覆盖 99% sRGB 色域。该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，提供了 HDMI、DP 和 3.5mm 音频接口。",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/743.htm"
-    },
-    {
-      "id": "3a903df8-2d23-8178-8d55-d22af98feb40",
-      "title": "极氪 9X 五座版 SUV 外观、内饰配色公布，六座版也能选新色",
-      "summary": "IT之家 7 月 26 日消息，极氪 9X 五座版将于 7 月 28 日 10:00 正式上市，六座版也将同步开启外观、内饰新色选配，官方今日公布新车配色信息。六款外观色：探野棕（新增）、极夜黑、极昼白、冰川银、星穹灰、暗夜紫四款内饰色：勃艮第红（新增）、极地白、月影蓝、琥珀棕IT之家注意到，此前预热显示该车二排腿部空间最大可达 1.4 米，二排左右两侧对等的尊享配置，均支持零重力座椅、伊姆斯躺椅模式，新增中央豪华电动扶手。该车搭载 17 英寸 3K 超清 OLED 屏，支持 95-115° 五档调节角度，配备 Naim 殿堂之声音响系统、6.5L 二排电动隐私收纳盒、9L 智能冷暖恒温冰箱、",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/741.htm"
-    },
-    {
-      "id": "3a903df8-2d23-8141-a048-f809dd119cb5",
-      "title": "前索尼 SIE 高管肖恩 · 莱登：3A 大作开发成本已然失控，2A 游戏理应复兴",
-      "summary": "IT之家 7 月 26 日消息，据外媒 Eurogamer 本周（7 月 23 日）报道，前索尼 SIE 高管肖恩 · 莱登（Shawn Layde）表示，他希望 2A 级游戏能够拯救行业，并以“小而美”的形式赢得玩家喜爱。最近二三十年，游戏主机每换一次世代就会让游戏开发成本翻倍。例如在 PS1 世代，开发一款游戏可能需要 100 万美元（IT之家注：现汇率约合 678.6 万元人民币），之后逐步变成 200 万美元、400 万美元，最后再到 1600 万美元（现汇率约合 1.09 亿元人民币），呈指数级增长。莱登表示，在他最后掌管的 PS4 世代，开发一款顶级游戏的成本就要 1.5 亿美元（",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/739.htm"
-    },
-    {
-      "id": "3a903df8-2d23-819f-89cc-edb96ef00438",
-      "title": "HAVN 推出 HAVN BF360 Flow 风道散热机箱：标配双 180mm 风扇，黑白双色均 1499 元",
-      "summary": "IT之家 7 月 26 日消息，HAVN 联合先马，推出一款 HAVN BF360 Flow 风道散热机箱，可选黑白双色，定价均为 1499 元（标配 2 把 180mm 风扇和 1 把 140mm 风扇）。京东 HAVN BF360 机箱 1499 元直达链接系列机箱采用半开放式框架设计，整体尺寸为 515x254x522.6mm，支持 ATX 主板。机箱正面带有五层堆叠板岩纹理效果，I/O 方面提供了 1 个 USB-C 3.2 Gen 2 和 2 个 USB-A 3.2 Gen 1 接口。该机箱支持大风量配置，最多可安装 4 把 180mm 风扇或 7 把 120mm 风扇，兼容 360",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/733.htm"
-    },
-    {
-      "id": "3a903df8-2d23-81dd-a324-c3433ddbf33f",
-      "title": "神舟二十三号乘组太空之旅满两月，平台照料与健康管理同步进行",
-      "summary": "IT之家 7 月 26 日消息，据中国载人航天工程办公室，神舟二十三号乘组朱杨柱、张志远、黎家盈在轨已满两月，空间站内各项科学实（试）验进展顺利，平台照料与健康管理同步进行。IT之家整理主要内容如下：开展实验、定期训练神舟二十三号乘组利用太空拉曼光谱仪进行“菌群与营养代谢”相关实验研究，通过检测尿液样本中的代谢组分，探究长期飞行环境下肠道菌群的变化及其对营养代谢的影响。航天员使用相关设备及实验软件，开展力量控制测试，获取数据将用于开展长期在轨飞行中航天员精细动作控制的变化规律及适应性学习机制研究。乘组使用脑电测量设备开展了多项在轨脑电测试工作。测试结果有助于阐明长期空间飞行中航天员脑作业能力变",
-      "source": "IT之家",
-      "publishTime": "2026-07-26",
-      "link": "https://www.ithome.com/0/981/732.htm"
     }
   ],
   "macroEvents": [
