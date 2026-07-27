@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-07-28 01:16",
+  "updatedAt": "2026-07-28 02:54",
   "news": [
+    {
+      "id": "3aa03df8-2d23-8137-bf59-d1ebe0c949e2",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-28",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/"
+    },
+    {
+      "id": "3aa03df8-2d23-8159-bc0f-c4926b33ce6a",
+      "title": "I love visiting the 'Napa of the Midwest.' It's an underrated gem with reasonable prices and fantastic wine.",
+      "summary": "The Midwest gem Traverse City, Michigan, won me over with its wine, vibes, and prices. The town feels cheaper to visit and as pretty as Napa Valley.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-28",
+      "link": "https://www.businessinsider.com/visited-town-midwest-good-wine-better-than-napa-traverse-city-2026-7"
+    },
+    {
+      "id": "3aa03df8-2d23-81e5-a27b-f7bfaddf7f78",
+      "title": "Student-loan borrowers who received the wrong monthly repayment amount are being told to reapply",
+      "summary": "After receiving an incorrect student-loan payment amount, 6,000 borrowers received an email to reapply for an income-driven repayment plan.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-28",
+      "link": "https://www.businessinsider.com/student-loan-borrowers-wrong-payment-amount-resubmit-application-idr-email-2026-7"
+    },
+    {
+      "id": "3aa03df8-2d23-8127-b9dd-d00f0782563c",
+      "title": "Op-ed: Over 2,000 proposals aim to govern AI. Not a single one addresses a long-term regulatory framework",
+      "summary": "AI can't be regulated by the invisible hand of the market. We need a comprehensive future-focused regulatory framework.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-28",
+      "link": "https://www.cnbc.com/2026/07/27/ai-industry-risk-future-regulation.html"
+    },
+    {
+      "id": "3aa03df8-2d23-81b1-83b0-cbe948e4376e",
+      "title": "Why China is giving away its best AI models",
+      "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry betw",
+      "source": "The Verge",
+      "publishTime": "2026-07-28",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"
+    },
+    {
+      "id": "3aa03df8-2d23-81ea-8e4a-f6087c3a8bd0",
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-28",
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/"
+    },
+    {
+      "id": "3aa03df8-2d23-81c3-a056-c66cd8884470",
+      "title": "I shop for Trader Joe's tote bags whenever I'm in the US — then sell them for nearly 10 times the price",
+      "summary": "When I'm in the US, I look for Trader Joe's viral canvas tote bags so I can buy them cheap and sell them for a profit when I'm back home in Australia.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-28",
+      "link": "https://www.businessinsider.com/buy-trader-joes-tote-bags-sell-for-profit-home-country-2026-7"
+    },
+    {
+      "id": "3aa03df8-2d23-81f3-b812-f68c47a466e5",
+      "title": "Y Combinator turned a sports arena into AI's biggest pep rally",
+      "summary": "Y Combinator filled the Chase Center with aspiring founders for its annual Startup School. Some compared it to a megachurch.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-28",
+      "link": "https://www.businessinsider.com/y-combinator-startup-school-arena-2026-7"
+    },
+    {
+      "id": "3aa03df8-2d23-815e-9a0f-cde5c87cdbb0",
+      "title": "YouTube Premium will include Peacock starting next year",
+      "summary": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream Peacock's ad-supported shows, movies, and live sports directly through the YouTube app in 2027. YouTube",
+      "source": "The Verge",
+      "publishTime": "2026-07-28",
+      "link": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal"
+    },
+    {
+      "id": "3aa03df8-2d23-8183-a337-de293606485e",
+      "title": "33 Disney movies have hit $1 billion at the box office — here they all are",
+      "summary": "Disney leads the movie industry, releasing 33 of 63 billion-dollar films, featuring beloved franchises like Marvel, \"Star Wars,\" and \"Avatar.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-07-28",
+      "link": "https://www.businessinsider.com/every-disney-movie-to-make-1-billion-box-office"
+    },
+    {
+      "id": "3aa03df8-2d23-8131-9e36-e54fe34c469b",
+      "title": "英伟达 CUDA 的 20 年护城河一个周末崩了，Claude 独自跑通 AMD 新 GPU",
+      "summary": "一句话，一个周末，Claude 直接把自家最前沿的模型跑在了一台全新的 AMD MI355X 机架上！人类工程师全程没动手改过一行代码。谁能想到，英伟达花 20 年堆起的 CUDA 护城河，就这样被跨了过去。一个周末，Claude 把 AMD 新 GPU 调通了故事是这样的。前段时间，AMD 给 Anthropic 送来一台搭载 MI355X 的机架。团队看完，心里已经做好了打硬仗的准备。新平台配新软件栈，注定需要新一轮适配。不过，Anthropic 手里正好有 Claude。团队干脆先让一名工程师试试：把 Claude 接上机器，丢给它一句，「去，把这台机器跑起来。」等周末结束回到工位，屏幕",
+      "source": "IT之家",
+      "publishTime": "2026-07-27",
+      "link": "https://www.ithome.com/0/982/264.htm"
+    },
+    {
+      "id": "3aa03df8-2d23-81be-a460-f24d2e7845da",
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-27",
+      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
+    },
+    {
+      "id": "3aa03df8-2d23-8125-a287-d331ff04162d",
+      "title": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
+      "summary": "The proposed network will partly rely on assets from Globalstar, which Amazon announced plans to acquire in April for roughly $11.6 billion.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-27",
+      "link": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html"
+    },
+    {
+      "id": "3aa03df8-2d23-8199-8f3c-d0f93458d227",
+      "title": "How female serial killers actually work, according to a former FBI profiler",
+      "summary": "Candice DeLong is a former FBI agent and profiler who has interviewed dozens of female killers. Presented by the new Hulu original series \"Furious.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-07-27",
+      "link": "https://www.businessinsider.com/how-female-serial-killers-work-according-to-former-fbi-profiler-2026-7"
+    },
+    {
+      "id": "3aa03df8-2d23-8166-8c00-da9a99a1a2ed",
+      "title": "I day-tripped to 3 peaceful Japanese towns just a few hours from major cities — and they were the highlights of my visit",
+      "summary": "On my first trip to Japan, I visited three rural villages: Oshio, Shirakawa-go, and Nachi-Katsuura. These turned into the highlights of my trip.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-27",
+      "link": "https://www.businessinsider.com/best-rural-towns-visit-japan-near-major-cities-tokyo-osaka-2026-7"
+    },
+    {
+      "id": "3aa03df8-2d23-8154-a999-ccb14553fd60",
+      "title": "1928 → 758 元再降价：追觅 T1 滚筒洗衣机 3 年质保，配备 AI 直驱变频电机",
+      "summary": "追觅 T1 滚筒洗衣机 / 洗烘一体机 10kg 官方定价 1928 元，今日京东自营直降国补后，仅需 869 元 + 支持 6 期免息。另外本次大多数京东账号支持组合购优惠，洗衣机低至 758 元，烘干机低至 913.8 元：先领 905 元券：点此领券京东追觅 T1 滚筒洗衣机 DWF10T10TNCN 国补后 869 元直达链接京东追觅 T1 滚筒洗烘一体机 DWC10T10TNCN 国补后 1070 元直达链接大家如果不放心官方售后，可在下单时加购“8 年换新”京东服务（约 130 元），8 年内如出现三包故障（非人为）可免费换新 1 次。此款配备直驱变频电机，且搭载 AI 算法，可精",
+      "source": "IT之家",
+      "publishTime": "2026-07-27",
+      "link": "https://www.ithome.com/0/982/263.htm"
+    },
+    {
+      "id": "3aa03df8-2d23-81fc-bf09-e2b15954696a",
+      "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
+      "summary": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites in 2028. It says it pl",
+      "source": "The Verge",
+      "publishTime": "2026-07-27",
+      "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network"
+    },
     {
       "id": "3aa03df8-2d23-81cb-a094-d86f594faed7",
       "title": "Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago",
@@ -264,142 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-27",
       "link": "https://www.ithome.com/0/982/240.htm"
-    },
-    {
-      "id": "3aa03df8-2d23-8128-a034-c6e1f69415c9",
-      "title": "I quit National Geographic to make TikToks. It was the best career move I ever made.",
-      "summary": "Erin McGoff says leaving documentary filmmaking for social media allowed her to reach millions of job seekers directly.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-27",
-      "link": "https://www.businessinsider.com/quit-national-geographic-for-tiktok-dont-regret-it-2026-7"
-    },
-    {
-      "id": "3aa03df8-2d23-8198-bd08-ccdacba16e47",
-      "title": "Constant surveillance is pushing NATO to ‘scatter the force’ to survive, top commander says",
-      "summary": "Large troop gatherings or fixed command posts are vulnerable in modern conflict, as has been the case in Ukraine.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-27",
-      "link": "https://www.businessinsider.com/nato-must-scatter-force-survive-constant-surveillance-top-commander-2026-7"
-    },
-    {
-      "id": "3aa03df8-2d23-81d7-bf1a-df9031b7bb6b",
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-      "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-27",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
-    },
-    {
-      "id": "3aa03df8-2d23-810c-a05d-e95b096d4d71",
-      "title": "Snapchat now lets you share what you’re listening to in real time",
-      "summary": "Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-27",
-      "link": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/"
-    },
-    {
-      "id": "3aa03df8-2d23-81ea-a606-e36dee1370b7",
-      "title": "Anthropic gets heat for being the only major AI lab not supporting open models",
-      "summary": "Anthropic is facing criticism from across Silicon Valley for failing to sign an open letter defending open-weight AI models.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-27",
-      "link": "https://www.businessinsider.com/anthropic-open-source-ai-model-weights-criticism-2026-7"
-    },
-    {
-      "id": "3aa03df8-2d23-8141-95ec-df6a832a84c4",
-      "title": "小度 AI 手表 Fit 开售：搭载百度文心大模型，国补价 159.8 元",
-      "summary": "IT之家 7 月 27 日消息，小度 AI 智能手表 Fit 于今日正式发布，定价为 198 元，国补价 159.8 元。IT之家从商品页面获悉，这款产品搭载百度 AI 文心大模型，轻触表盘后通过语音提问即可获得智能作答，日常查询天气、穿搭建议、健康饮食方案都能快速得到响应。它支持 AI 生成精美表盘，用户可以通过语音输入实现个性化定制，轻松生成海底世界、萌宠、国风山水画等多种风格的专属表盘。小度 AI 智能手表 Fit 配备 1.95 英寸超清全面屏，采用 320*386 分辨率的 IPS 广视角面板搭配弧面玻璃，显示效果清晰顺滑，抬腕即可浏览丰富内容。整机设计轻薄，薄至 8.8mm、轻至 ",
-      "source": "IT之家",
-      "publishTime": "2026-07-27",
-      "link": "https://www.ithome.com/0/982/239.htm"
-    },
-    {
-      "id": "3aa03df8-2d23-81d1-aaae-d27d99ecf26b",
-      "title": "21 celebrities who moved to Texas on why it's the best place for them",
-      "summary": "Famous people from Elon Musk to Simone Biles have moved to Texas in recent years, many from California. Here's why.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-27",
-      "link": "https://www.businessinsider.com/celebrities-moved-to-texas-from-california-new-york-reasons-why-2024-8"
-    },
-    {
-      "id": "3aa03df8-2d23-81de-ac06-fc369c277c01",
-      "title": "工信部：全国累计发放智能网联汽车测试示范牌照超 2 万张",
-      "summary": "IT之家 7 月 27 日消息，据新华社报道，7 月 27 日，2026 世界智能网联汽车大会媒体圆桌会在北京召开。工业和信息化部装备工业一司司长郭守刚介绍，全国各地累计发放智能网联汽车测试示范牌照超过 2 万张，开放测试示范道路超 5.7 万公里，累计测试超过 2.2 亿公里；20 个“车路云一体化”试点城市部署各类智能化设备超 6 万套，服务各类车辆超过十万台。今年以来，L2 级组合驾驶辅助功能乘用车渗透率达到 70.5%，领航驾驶辅助（NOA）功能乘用车渗透率达到 34.2%，首批 L3 级有条件自动驾驶车型开始在特定区域上路通行。据IT之家此前报道，由工业和信息化部、交通运输部、北京市",
-      "source": "IT之家",
-      "publishTime": "2026-07-27",
-      "link": "https://www.ithome.com/0/982/237.htm"
-    },
-    {
-      "id": "3aa03df8-2d23-81ee-8380-c1ee977da290",
-      "title": "Western defense companies are looking to Ukrainian firms for lessons on how to build in wartime conditions",
-      "summary": "Western defense firms are building gear with Ukrainian ones to combine their own expertise with what Ukraine is learning from being in the fight.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-27",
-      "link": "https://www.businessinsider.com/western-companies-learn-from-ukraine-defense-weapons-firms-2026-7"
-    },
-    {
-      "id": "3aa03df8-2d23-8163-8384-d899f283af69",
-      "title": "巫术背景 Roguelite 游戏《恶仙》发售，国区售价 43.2 元",
-      "summary": "IT之家 7 月 27 日消息，独立厂商 Wayway Inc 开发并发行的民俗题材新游《恶仙》（原名 Aksun）现已在 Steam 平台发售，首发优惠将持续至 8 月 4 日。该作完整支持简体中文界面、字幕与全音频配音。IT之家附游戏商品页（https://store.steampowered.com/app/3129360/Aksun/?l=schinese&cc=cn）。据介绍，《恶仙》是一款深植于巫术民俗的砍杀类 Roguelite 游戏，游戏背景设定在名为「六道轮回」的宏大生灵世界，玩家将被困在专为囚禁「木头鬼王」打造的诅咒装置「木人」之中，需要在无数次重生轮回中刻印新武器与堕落鬼",
-      "source": "IT之家",
-      "publishTime": "2026-07-27",
-      "link": "https://www.ithome.com/0/979/806.htm"
-    },
-    {
-      "id": "3aa03df8-2d23-812a-8874-c9f7a882b371",
-      "title": "Oil prices cool, AI's 'distillation' debate, Ford's 'Nike shoe drop' and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-27",
-      "link": "https://www.cnbc.com/2026/07/27/5-things-to-know-before-the-stock-market-opens.html"
-    },
-    {
-      "id": "3aa03df8-2d23-817f-af18-d5521b0738ca",
-      "title": "猛玛发布 LARK A2 无线麦克风：三档 AI 降噪，139-269 元",
-      "summary": "IT之家 7 月 27 日消息，猛玛今日发布了 LARK A2 无线麦克风，售价 139 元起：一拖一：139 元一拖二不带盒：199 元一拖二带充电盒：269 元这款麦克风支持三档 AI 降噪，搭载 MOMA Smart-Sound 智能双降噪系统，拥有 10dB、15dB、20dB 三档降噪力度，可适配不同使用场景。这款麦克风音频采样规格达到 48kHz/24Bit，搭配 68dB 高信噪比与 120dBSPL 最大声压级，宣称能够还原真实通透的原声声场；内置智能人声美化功能，可一键自动优化齿音、均衡、动态压缩。这款麦克风发射器单次续航 7 小时，配合充电盒可为整套设备完整补电 2 次，综",
-      "source": "IT之家",
-      "publishTime": "2026-07-27",
-      "link": "https://www.ithome.com/0/982/236.htm"
-    },
-    {
-      "id": "3aa03df8-2d23-8124-909a-e3f2e3591c82",
-      "title": "三星硅碳电池有望下放至 Galaxy S27 系列，卷轴屏手机研发持续推进",
-      "summary": "IT之家 7 月 27 日消息，三星最新发布的 Galaxy 折叠屏手机终于开始采用硅碳（Si-C）电池，如今该公司也谈到了未来将硅碳电池引入 Galaxy S 系列（包括 Galaxy S27 系列）的可能性，同时还透露了备受关注的卷轴屏手机的研发进展。据IT之家了解，最新发布的 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8，是三星首批搭载硅碳电池的智能手机。硅碳电池拥有更高的能量密度，因此能够在更轻薄的机身中装入容量更大的电池。其中，两款横向折叠机型均配备了比上一代 Galaxy Z Fold7 更大的电池，而竖向折叠的 Gala",
-      "source": "IT之家",
-      "publishTime": "2026-07-27",
-      "link": "https://www.ithome.com/0/982/235.htm"
-    },
-    {
-      "id": "3aa03df8-2d23-81b2-9c0d-c73cd2338b36",
-      "title": "提前 60 天，京沪高铁、京沪铁路中秋假期车票今起可预约",
-      "summary": "IT之家 7 月 27 日消息，7 月 20 日起，铁路部门在继续提供火车票预售、退票、改签服务的同时，在京沪高铁、京沪铁路的 200 多趟列车试点新增火车票预约购票服务。IT之家注意到，京沪高铁、京沪铁路中秋假期车票今起可预约。具体如下：7 月 27 日 → 9 月 24 日7 月 28 日 → 9 月 25 日（中秋节）7 月 29 日 → 9 月 26 日7 月 30 日 → 9 月 27 日7 月 31 日 → 9 月 28 日根据规定，试点日期 7 月 20 日至 8 月 29 日为过渡期，可依次预约 9 月 15 日及以后的车票，8 月 30 日起，可常态化预约开车前第 60 天至",
-      "source": "IT之家",
-      "publishTime": "2026-07-27",
-      "link": "https://www.ithome.com/0/982/234.htm"
-    },
-    {
-      "id": "3aa03df8-2d23-81a7-b3fc-fa73388b4838",
-      "title": "I stopped reading when I had kids. It took some alone time to get back my love of books — and this crucial piece of my identity.",
-      "summary": "I've always loved reading but I stopped when I became a mom. Alone time reminded me how much I love books, and talking to other people about stories.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-27",
-      "link": "https://www.businessinsider.com/alone-time-helped-mom-rediscover-love-reading-books-2026-7"
-    },
-    {
-      "id": "3aa03df8-2d23-819b-aa98-cae374973bfb",
-      "title": "OpenAI 将在爱尔兰设立新的欧盟总部，两年内新增 250 个工作岗位",
-      "summary": "IT之家 7 月 27 日消息，据爱尔兰投资发展局官网，OpenAI 今日宣布在都柏林码头区的热带水果仓库办公楼租下 8.8 万平方英尺（约 8175 平方米）的办公空间，作为其位于都柏林的欧盟总部新址。IT之家注：爱尔兰热带水果仓库是位于爱尔兰的一座标志性历史建筑兼现代办公开发项目，最初建于 19 世纪 90 年代，曾是都柏林热带水果公司的仓储旧址。目前，OpenAI 在当地拥有 100 多名员工。在未来两年内，该公司将在市场推广 / 销售、工程、用户运营、人力资源、财务、隐私、法律、企业安全以及办公场所管理等领域新增 250 个岗位。据悉，该总部将用于支持不断扩大的员工规模，促进与客户和开",
-      "source": "IT之家",
-      "publishTime": "2026-07-27",
-      "link": "https://www.ithome.com/0/982/233.htm"
-    },
-    {
-      "id": "3aa03df8-2d23-81c7-8011-dcb92ca2b47e",
-      "title": "Nvidia leads push for open AI cyber tools after Hugging Face hack",
-      "summary": "Nvidia and dozens of tech firms form the Open Secure AI Alliance to advocate for open AI models as cyber defense tools after Hugging Face breach.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-27",
-      "link": "https://www.businessinsider.com/nvidia-tech-giants-advocate-open-ai-cybersecurity-hugging-face-2026-7"
     }
   ],
   "macroEvents": [
