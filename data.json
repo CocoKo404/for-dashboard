@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-07-30 06:29",
+  "updatedAt": "2026-07-30 07:33",
   "news": [
+    {
+      "id": "3ac03df8-2d23-81d7-af54-fb54ed0fb62c",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-30",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
+    },
+    {
+      "id": "3ac03df8-2d23-810c-b7a5-ceb9ae76e507",
+      "title": "高通财报预警：苹果业务加速流失，中国手机厂商贡献收入已触底",
+      "summary": "IT之家 7 月 30 日消息，高通今日发布了最新的 2026 财年第三季度财报，并对第四季度业绩作出展望。高通预计第四季度调整后每股收益在 2.05 至 2.25 美元之间，低于分析师平均预期的 2.36 美元。同时，高通警告称，由于供应链限制，来自苹果产品的收入下滑速度将快于此前预期。财报显示，高通第三财季营收为 99.5 亿美元（现汇率约合 674.46 亿元人民币），同比下降 4%，但略高于分析师预期的 96.7 亿美元；调整后每股收益为 2.21 美元，与市场预期基本持平。当季净利润为 20 亿美元（现汇率约合 135.57 亿元人民币）。芯片业务（QCT）营收为 85 亿美元（现汇",
+      "source": "IT之家",
+      "publishTime": "2026-07-30",
+      "link": "https://www.ithome.com/0/983/363.htm"
+    },
+    {
+      "id": "3ac03df8-2d23-8151-8a1a-f5a763e44e10",
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-30",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+    },
+    {
+      "id": "3ac03df8-2d23-8165-8121-ddade1e1af15",
+      "title": "Jim Cramer says software's comeback could be the blueprint for AI stocks' next rally",
+      "summary": "CNBC's Jim Cramer said software's sharp turnaround shows how quickly Wall Street can change its mind — and beaten-down AI infrastructure stocks could be next.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-30",
+      "link": "https://www.cnbc.com/2026/07/29/jim-cramer-softwares-comeback-blueprint-ai-stocks-rally.html"
+    },
+    {
+      "id": "3ac03df8-2d23-81ad-b204-fe1d2516682e",
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from ",
+      "source": "The Verge",
+      "publishTime": "2026-07-30",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed"
+    },
+    {
+      "id": "3ac03df8-2d23-815e-bc98-de59b9a0e8ca",
+      "title": "Mark Zuckerberg's 'AI is great, really' PR campaign is in full swing. Here's a better idea.",
+      "summary": "Mark Zuckerberg is doing a big AI public relations push. It's unclear if it will move the needle. So why not try cold, hard cash?",
+      "source": "Business Insider",
+      "publishTime": "2026-07-30",
+      "link": "https://www.businessinsider.com/mark-zuckerberg-meta-ai-pr-campaign-cash-payments-2026-7"
+    },
+    {
+      "id": "3ac03df8-2d23-8168-b9a5-eb8f7467fa65",
+      "title": "The Chinese robot army transforming the UK's retail industry",
+      "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-30",
+      "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3ac03df8-2d23-8156-be9f-dc301b929a9b",
+      "title": "Microsoft keeps capex forecast unchanged, becoming one of the first data center giants to hold the line on AI spending",
+      "summary": "Most tech giants have been raising their AI capex forecasts. Microsoft is an outlier.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-30",
+      "link": "https://www.businessinsider.com/microsoft-ai-capex-unchanged-data-centers-spending-tech-giants-2026-7"
+    },
+    {
+      "id": "3ac03df8-2d23-8134-b66e-fe143bb41dc8",
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do",
+      "source": "The Verge",
+      "publishTime": "2026-07-30",
+      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents"
+    },
     {
       "id": "3ac03df8-2d23-8120-9490-fdabbaa04d93",
       "title": "Meta shares fall as frustration grows over AI spending plans",
@@ -40,6 +112,14 @@
       "source": "TechCrunch",
       "publishTime": "2026-07-30",
       "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "3ac03df8-2d23-819f-acdc-d1da787299b6",
+      "title": "英伟达宣布北京时间 8 月 27 日召开 2027 财年第 2 财季电话会议",
+      "summary": "IT之家 7 月 30 日消息，英伟达昨日（7 月 29 日）发布公告，宣布太平洋时间 8 月 26 日星期三下午 2 点（IT之家注：北京时间 8 月 27 日早上 5 点）召开财报电话会议，讨论 2027 财年第二财季（截至 2026 年 7 月 26 日）的财务业绩。在直播方面，本次财报电话会议将通过 investor.nvidia.com 网站开放直播（仅限收听），公司将作发言，随后进行问答环节，提问者仅限金融分析师和机构投资者。在电话会议召开之前，英伟达将发布公司执行副总裁兼首席财务官科莱特 · 克雷斯（Colette Kress）对第二季度业绩的书面评论。该材料将在公司于太平洋时间",
+      "source": "IT之家",
+      "publishTime": "2026-07-30",
+      "link": "https://www.ithome.com/0/983/362.htm"
     },
     {
       "id": "3ac03df8-2d23-8138-8efb-dd0da65f2b8c",
@@ -120,6 +200,14 @@
       "source": "IT之家",
       "publishTime": "2026-07-30",
       "link": "https://www.ithome.com/0/983/360.htm"
+    },
+    {
+      "id": "3ac03df8-2d23-819d-a939-f06479bee4fc",
+      "title": "Counterpoint：可折叠屏幕折痕控制成核心战场，2026 全球面板出货量预计增 24%",
+      "summary": "IT之家 7 月 30 日消息，可折叠显示屏的竞争正从基础折叠可靠性转向视觉无缝屏幕，折痕控制已成为一项系统级挑战。Counterpoint Research 最新发布的折叠显示屏出货量与技术报告指出，可折叠屏幕平整度已经从次要优化项变为折叠智能手机领域清晰的技术战场之一。屏幕中间的折痕会干扰反射光线、扭曲文字与图像，还会造成触感不平，并影响高端屏幕的长期使用体验。三星最新推出的 Flex Titanium 架构、OPPO 的零感折痕定位，以及各大面板厂商针对折痕的技术演示，都表明对耐用且视觉无缝可折叠屏幕的追求已经成为行业核心焦点。此外，可折叠智能手机面板需求预计将迎来反弹。Counterp",
+      "source": "IT之家",
+      "publishTime": "2026-07-30",
+      "link": "https://www.ithome.com/0/983/358.htm"
     },
     {
       "id": "3ac03df8-2d23-8177-bee9-f158cb4eea1f",
@@ -312,94 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-07-30",
       "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/"
-    },
-    {
-      "id": "3ac03df8-2d23-8180-94b7-cf34d2c72553",
-      "title": "I moved to Paris 2 years ago. My dream career is still on hold, and I often question if I truly belong here.",
-      "summary": "Moving from the United States to Paris has its challenges. Navigating healthcare is tough, my career is on hold, and I've struggled to make friends.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-30",
-      "link": "https://www.businessinsider.com/american-moved-to-paris-challenging-career-social-life-healthcare-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-8126-b730-c1d7071b3237",
-      "title": "He spent years beside Stan Lee. His footage became the documentary nobody wanted you to see.",
-      "summary": "Jon Bolerjack chronicled Stan Lee's every move for years. So he decided to turn his footage of the Marvel legend into a documentary.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-30",
-      "link": "https://www.businessinsider.com/stan-lee-the-final-chapter-documentary-jon-bolerjack-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-8104-8837-eebb1904f7a4",
-      "title": "Full school day cellphone bans are more popular than ever",
-      "summary": "As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cellphones in middle and high school classes, and 48 percent support banning them for the entire school day. Th",
-      "source": "The Verge",
-      "publishTime": "2026-07-30",
-      "link": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever"
-    },
-    {
-      "id": "3ac03df8-2d23-81f4-b88a-ee2491a450a0",
-      "title": "Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe",
-      "summary": "Climate change is helping invasive species to not only establish themselves across the Continent but to stay alive for longer. Scientists suggest we get used to it.",
-      "source": "Wired",
-      "publishTime": "2026-07-30",
-      "link": "https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/"
-    },
-    {
-      "id": "3ac03df8-2d23-8178-a8ef-e6e507767eec",
-      "title": "I took over the family business at 26 after my father died. Finishing his final project helped me grieve.",
-      "summary": "Camilla Kodsi took over her father's company at 26 after his unexpected death. Now, she's found her passion in real estate while honoring his legacy.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-30",
-      "link": "https://www.businessinsider.com/took-over-family-business-at-26-when-dad-died-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-8176-a01e-e736dacdf81f",
-      "title": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",
-      "summary": "Investors are looking to see if Microsoft follows Alphabet in raising its capital spending plans",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-30",
-      "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html"
-    },
-    {
-      "id": "3ac03df8-2d23-8157-b31c-d906b1e1aad7",
-      "title": "'The Diary of a CEO' star Steven Bartlett has lost 4 key podcast staffers in recent months",
-      "summary": "The star podcaster Steven Bartlett has lost four core employees in the UK in recent months as he grows the show and expands his media empire.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-30",
-      "link": "https://www.businessinsider.com/diary-of-a-ceo-star-steven-bartlett-key-staffers-depart-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-8156-b754-f74ce8180413",
-      "title": "AI's power crunch could get a boost from old EV batteries",
-      "summary": "AI is straining America's power grid. One solution: Millions of retired EV batteries could become a low-cost source of energy storage.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-30",
-      "link": "https://www.businessinsider.com/ai-power-crunch-unlikely-solution-old-ev-batteries-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-816a-801d-c58ccdcc327f",
-      "title": "Meta reports second-quarter results after the close",
-      "summary": "Meta continues to see healthy growth from online ads, but investors are looking for more clarity on the company's plans to diversify.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-07-30",
-      "link": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html"
-    },
-    {
-      "id": "3ac03df8-2d23-8149-a0f7-f9495e45399a",
-      "title": "Mark Cuban and Michal Burry warn the AI boom is dangerously reliant on Nvidia",
-      "summary": "Mark Cuban said Nvidia is \"funding everyone and anyone,\" like IPOs during the dot-com bubble. Michael Burry said it's \"overreaching\" with its deals.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-29",
-      "link": "https://www.businessinsider.com/mark-cuban-michael-burry-nvidia-ai-deals-boom-microchips-infrastructure-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-8199-86fe-e24bb26c9c3b",
-      "title": "荣耀起诉一电商平台手机壳商家商标侵权，双方现已达成和解",
-      "summary": "IT之家 7 月 29 日消息，近日，有媒体报道，一名电商平台手机壳商家因在商品标题中使用“荣耀手机壳”等表述，被荣耀公司以商标侵权为由提起诉讼。据深圳商报今日消息，记者从荣耀公司及当事电商林坚（化名）双方获悉，目前双方已就相关纠纷达成和解。对于事件最新进展，林坚称目前双方已经达成和解，自己从未向荣耀赔偿 38 万元，希望大家不要再继续攻击荣耀品牌。荣耀方面回应称，公司一直重视生态合作伙伴建设，目前正面向生态企业开放合作通道。IT之家从报道获悉，林坚表示双方确实因知识产权问题产生过法律纠纷，但事件发生后，荣耀方面一直保持顺畅沟通，相关问题已得到妥善解决。林坚还透露，荣耀目前已向手机壳等生态企业",
-      "source": "IT之家",
-      "publishTime": "2026-07-29",
-      "link": "https://www.ithome.com/0/983/353.htm"
     }
   ],
   "macroEvents": [
