@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-07-30 05:28",
+  "updatedAt": "2026-07-30 06:29",
   "news": [
+    {
+      "id": "3ac03df8-2d23-8120-9490-fdabbaa04d93",
+      "title": "Meta shares fall as frustration grows over AI spending plans",
+      "summary": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
+      "source": "BBC Tech",
+      "publishTime": "2026-07-30",
+      "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3ac03df8-2d23-8195-bebc-d34e2d48388b",
+      "title": "Qualcomm is raising phone chip prices starting September 1st",
+      "summary": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that \"prices are going to go up\" on the company's products starting on September 1st, CNBC reports. The price hikes were ru",
+      "source": "The Verge",
+      "publishTime": "2026-07-30",
+      "link": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings"
+    },
+    {
+      "id": "3ac03df8-2d23-8154-93c3-e91bdff34bec",
+      "title": "These charts show how the number of Big Tech employees is changing as companies embrace AI",
+      "summary": "Google's parent company Alphabet grew its workforce by nearly 12,000 amid continued investment in AI.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-30",
+      "link": "https://www.businessinsider.com/charts-show-employee-count-changing-big-tech-companies-2026-7"
+    },
+    {
+      "id": "3ac03df8-2d23-810f-a73a-f38493a70abc",
+      "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
+      "summary": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-30",
+      "link": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html"
+    },
+    {
+      "id": "3ac03df8-2d23-8186-afbf-e518a4ab4cd7",
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-30",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "3ac03df8-2d23-8138-8efb-dd0da65f2b8c",
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-30",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/"
+    },
+    {
+      "id": "3ac03df8-2d23-81d8-af42-e4ed2c013373",
+      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, t",
+      "source": "The Verge",
+      "publishTime": "2026-07-30",
+      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit"
+    },
+    {
+      "id": "3ac03df8-2d23-8147-aa63-e159a024123a",
+      "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
+      "summary": "Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game has gone from a source for funny, glitch-fueled videos to a world I’ve returned to a number of times to",
+      "source": "The Verge",
+      "publishTime": "2026-07-30",
+      "link": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale"
+    },
+    {
+      "id": "3ac03df8-2d23-81d2-ad5b-e0dee913ba26",
+      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+      "summary": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
+      "source": "TechCrunch",
+      "publishTime": "2026-07-30",
+      "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/"
+    },
+    {
+      "id": "3ac03df8-2d23-81c7-923a-f4d48ca25ef4",
+      "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
+      "summary": "Despite weeks of renewed press coverage and controversy around ICE, Donald Trump’s supporters appear to be standing by the agency no matter what.",
+      "source": "Wired",
+      "publishTime": "2026-07-30",
+      "link": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/"
+    },
+    {
+      "id": "3ac03df8-2d23-8122-88ad-c58129f28769",
+      "title": "Meta’s Reality Labs lost over $4.6 billion in second quarter",
+      "summary": "Meta's Reality Labs unit, which develops virtual reality and wearable devices, continues losing money.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-07-30",
+      "link": "https://www.cnbc.com/2026/07/29/metas-reality-labs-lost-over-4point6-billion-in-second-quarter.html"
+    },
+    {
+      "id": "3ac03df8-2d23-81d7-9223-c8681c9ea58e",
+      "title": "Microsoft CFO tells employees the company's biggest AI bets are paying off",
+      "summary": "The memo cited \"important progress in key areas\" like Azure and Microsoft 365 Copilot. These businesses have faced pressure amid generative AI boom.",
+      "source": "Business Insider",
+      "publishTime": "2026-07-30",
+      "link": "https://www.businessinsider.com/microsoft-internal-memo-tells-employees-azure-and-copilot-made-progress-2026-7"
+    },
+    {
+      "id": "3ac03df8-2d23-817d-bce5-dd324617cae4",
+      "title": "Save Up to $100 on Apple’s Newest AirPods (2026)",
+      "summary": "Save up to $100 on Apple’s latest AirPods models before prices go back up.",
+      "source": "Wired",
+      "publishTime": "2026-07-30",
+      "link": "https://www.wired.com/story/apple-airpods-deal-july-2026/"
+    },
+    {
+      "id": "3ac03df8-2d23-818c-ade4-e971eb4b2ada",
+      "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+      "summary": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 13 percent, according to Microsoft's fourth-quarter earnings report released on Wednesday. The new",
+      "source": "The Verge",
+      "publishTime": "2026-07-30",
+      "link": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026"
+    },
+    {
+      "id": "3ac03df8-2d23-812d-8685-d553b9eb4d96",
+      "title": "微软 2026 财年年报归母净利润 1337.49 亿美元，同比增长 31.34%",
+      "summary": "IT之家 7 月 30 日消息，微软今日发布 2026 财年（2025 年 7 月 1 日～2026 年 6 月 30 日）年报及第四财季（2026 年 4 月 1 日～2026 年 6 月 30 日）报告： 2026 财年年报 营业总收入： 3318.39 亿美元，同比增长 17.79% 毛利： 2254.65 亿美元，同比增长 16.28% 毛利率：67.94%，同比下降 0.89 个百分点 归母净利润： 1337.49 亿美元，同比增长 31.34% 经营现金流： 1829.35 亿美元，同比增长 34.35% 基本每股收益： 18.00 美元 稀释每股收益： 17.95 美元，同比增长",
+      "source": "IT之家",
+      "publishTime": "2026-07-30",
+      "link": "https://www.ithome.com/0/983/360.htm"
+    },
+    {
+      "id": "3ac03df8-2d23-8177-bee9-f158cb4eea1f",
+      "title": "Meta 2026 财年第二财季归母净利润 158.48 亿美元，同比下降 14%",
+      "summary": "IT之家 7 月 30 日消息，Meta今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第二财季（2026 年 4 月～2026 年 6 月）报告： 营业总收入： 608.01 亿美元，同比增长 28% 毛利： 494.71 亿美元，同比增长 26.77% 毛利率： 81.37 %，同比下降 0.76 个百分点 归母净利润： 158.48 亿美元，同比下降 14% 经营现金流： 318.62 亿美元，同比增长 24.65% 自由现金流： 7.84 亿美元，同比下降 90.83% 基本每股收益： 6.23 美元，同比下降 14.42% 稀释每股收益： 6.18 美元，同比",
+      "source": "IT之家",
+      "publishTime": "2026-07-30",
+      "link": "https://www.ithome.com/0/983/359.htm"
+    },
     {
       "id": "3ac03df8-2d23-81d6-a662-fc72457fcfa5",
       "title": "高通 2026 财年第三财季归母净利润 20.02 亿美元，同比下降 24.91%",
@@ -272,134 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-07-29",
       "link": "https://www.ithome.com/0/983/353.htm"
-    },
-    {
-      "id": "3ac03df8-2d23-8138-a9c3-f35726f9920a",
-      "title": "I've been to all 20 regions in Italy. The whole country has great food, but one region is a step above the rest.",
-      "summary": "After visiting all 20 regions of Italy, my favorite for food is Emilia-Romagna. This region has the best cheese, truffles, tomatoes, and tortellini.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-29",
-      "link": "https://www.businessinsider.com/best-part-of-italy-for-food-region-pasta-cheese-tomatoes-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-8107-a66f-c99425a90e96",
-      "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
-      "summary": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-29",
-      "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/"
-    },
-    {
-      "id": "3ac03df8-2d23-811f-9743-fdb9e330d64c",
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-29",
-      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/"
-    },
-    {
-      "id": "3ac03df8-2d23-81ee-9d76-f980214f0b91",
-      "title": "I'm an interior designer. Here are 10 things that I'd never have in my own home.",
-      "summary": "As an interior designer in residential luxury design, here are trends and decor pieces I don't like for my own space, like posters and ceiling fans.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-29",
-      "link": "https://www.businessinsider.com/things-interior-designer-would-never-have-in-his-home-why-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-81c1-a7cb-d1fbcf2aad51",
-      "title": "微信鸿蒙版 App 获 8.0.20.32 邀测升级，新增收藏的网页链接可点击跳转等功能",
-      "summary": "IT之家 7 月 29 日消息，微信鸿蒙版 App 今日开启了 8.0.20.32 (8393745) 版本邀测升级（需收到短信通知后点击链接跳转安装，未收到短信需继续等待），测试时间为 2026/7/29-2026/8/28。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据用户反馈，8.0.20 版本的微信新增了如下特性：1.聊天中的笔记查看时右上角三点新增收藏；2.视频号点击分享新增设为铃声，更换来电铃声时点进视频新增设为铃声浮窗；3.视频号评论支持搜索表情和动画表情，支持查看评论中的动画表情；4.发现-游戏-右上角人头-记录-微信小游戏动态支持分享图片给好友；5.收藏中的网址链",
-      "source": "IT之家",
-      "publishTime": "2026-07-29",
-      "link": "https://www.ithome.com/0/983/352.htm"
-    },
-    {
-      "id": "3ac03df8-2d23-8130-bd14-e55f3969fc96",
-      "title": "I created no-spend days for my kids. They were easier for them than for me.",
-      "summary": "I wanted to teach my children about money. Instead, our monthly no-spend days changed the way I thought about convenience and parenting.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-29",
-      "link": "https://www.businessinsider.com/no-spend-days-with-kids-lessons-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-8123-b15b-fa01d34b03fa",
-      "title": "The Ferrari Luce has at least 500 fans",
-      "summary": "Just two months after a bumpy launch earlier this year, Ferrari has reportedly already hit its 2026 sales goal for its polarizing, Jony Ive-designed Luce EV. Ahead of Ferrari announcing its quarterly earnings on Thursday, the Financial Times reports that Ferrari was aiming to sell \"just under 500\" L",
-      "source": "The Verge",
-      "publishTime": "2026-07-29",
-      "link": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales"
-    },
-    {
-      "id": "3ac03df8-2d23-812b-a784-e644b764aa5d",
-      "title": "Willie Nelson is fighting data centers near his Texas hometown: 'The last thing we need'",
-      "summary": "Willie Nelson says Texas residents don't need \"loud, water thieving, light polluting\" data centers in their backyard.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-29",
-      "link": "https://www.businessinsider.com/willie-nelson-ai-data-center-opposition-texas-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-81ba-82da-edf267850349",
-      "title": "美团回应“多名月付用户称被批量盗刷”：很大概率是新型电信诈骗，正积极配合警方调查",
-      "summary": "IT之家 7 月 29 日消息，近日，有媒体报道多位用户反映美团账户遭遇异常消费，称个人账号在本人未操作、不知情的情况下遭遇异地批量盗刷。据悉，盗刷事件多发生在凌晨深夜时段，被盗刷资金通过美团月付支出，且涉事用户均开通了平台 500 元以下小额免密支付功能。盗刷订单为各类餐饮、休闲团购券，且下单后迅速被异地门店核销使用。不少用户次日醒来收到还款账单短信，才发现账户异常消费。据观察者网报道，7 月 29 日晚间，美团方面回应称，经逐一核查，相关用户很大概率遭遇了新型电信诈骗，美团正积极配合警方调查，并已采取多种措施，保证用户账户安全。美团方面表示，据多方调查，此次事件作案手法高度一致：犯罪分子以",
-      "source": "IT之家",
-      "publishTime": "2026-07-29",
-      "link": "https://www.ithome.com/0/983/347.htm"
-    },
-    {
-      "id": "3ac03df8-2d23-81b4-ac79-fb3c865dfb62",
-      "title": "Only 49 songs have stayed at No. 1 on the chart for 10 weeks or more — here they all are",
-      "summary": "Very few hit songs have managed to rule the Billboard Hot 100 for double-digit weeks. Here's a complete list of the chart's longest leaders.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-29",
-      "link": "https://www.businessinsider.com/number-1-songs-chart-longest-leaders-billboard-hot-100"
-    },
-    {
-      "id": "3ac03df8-2d23-8192-b7e3-eae30d2377b1",
-      "title": "I booked a budget-friendly, all-inclusive resort in Mexico for a family trip. I wouldn't do it again.",
-      "summary": "I didn't give much thought to a pop-up about seaweed when I booked our trip. Reality was much worse than I imagined.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-29",
-      "link": "https://www.businessinsider.com/budget-friendly-all-inclusive-mexico-regrets-sargassum-2026-7"
-    },
-    {
-      "id": "3ac03df8-2d23-815c-8169-e117e2158cd9",
-      "title": "Remarkable’s refurbished bundle is an awesome deal that’s over $350 off",
-      "summary": "A lot of us here at The Verge are fans of Remarkable’s digital note-taking tablets, and right now one of its higher-end options is much cheaper than usual. The Remarkable Paper Pro normally sells for $629 on its own, but Woot is currently offering a refurbished bundle for $449.99 through July 31st. ",
-      "source": "The Verge",
-      "publishTime": "2026-07-29",
-      "link": "https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale"
-    },
-    {
-      "id": "3ac03df8-2d23-8182-881a-f93c407eec3c",
-      "title": "华为鸿蒙 HarmonyOS 7 花粉 Beta 版再曝新特性，搭配星闪 / 有线耳机可在播控中心“K 歌”",
-      "summary": "IT之家 7 月 29 日消息，华为昨日开启了鸿蒙 HarmonyOS 7 花粉 Beta 版报名，随后新版本便已开启推送，带来了大量新特性，系统包大小也来到了 10GB 左右（部分机型更是冲破 20GB）。据用户反馈，华为 Mate 80 系列手机在升级 HarmonyOS 7 花粉 Beta 版后，播控中心新增歌词页面，并增加了独立控制人声分离强度的功能。同时，用户佩戴华为星闪 / 有线耳机还可以激活耳返功能，图标暗示可以直接“K 歌”。关于华为鸿蒙 HarmonyOS 7 的新特性，IT之家仍在发掘中，感兴趣的小伙伴可以关注后续报道。相关阅读：《华为 HarmonyOS 7 花粉 Bet",
-      "source": "IT之家",
-      "publishTime": "2026-07-29",
-      "link": "https://www.ithome.com/0/983/343.htm"
-    },
-    {
-      "id": "3ac03df8-2d23-815b-b731-c30e1549f7c0",
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-      "summary": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
-      "source": "TechCrunch",
-      "publishTime": "2026-07-29",
-      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/"
-    },
-    {
-      "id": "3ac03df8-2d23-8154-9305-cbfd9cdc419e",
-      "title": "Celebrity deaths in 2026: Remembering the famous people we lost this year",
-      "summary": "Here are the stars we lost this year, including James Van Der Beek, Catherine O'Hara, Ted Turner, Glen Hansard, and Jesse Jackson.",
-      "source": "Business Insider",
-      "publishTime": "2026-07-29",
-      "link": "https://www.businessinsider.com/celebrity-deaths-famous-people-who-died-2026"
-    },
-    {
-      "id": "3ac03df8-2d23-81bb-aa33-e6e6e2779d5b",
-      "title": "雷军晒小米机器人在工厂工作视频：“督工”竟也是机器人，还会比耶耍酷",
-      "summary": "IT之家 7 月 29 日消息，小米创办人、董事长兼 CEO 雷军今日在微博分享了一条来自机器人团队的视频，并坦言：“挺有趣的。”视频的开头一切正常，就是一辆白色涂装的小米机器人在工厂工作，折叠着一个便携收纳盒。当白色机器人折叠好了收纳盒，并将其顺手推向旁侧的时候，镜头一转，改为了自拍视角。就在大家以为是真人摄影师即将露面时，结果画面显示在一旁的“督工”也是一台小米机器人，不过其采用的是黑色涂装。值得一提的是，这台黑色机器人还对着镜头顺手比了一个酷酷的“[胜利]”手势。据IT之家此前报道，小米官方公布了小米机器人“实习”的新进展：经过一个季度的努力，自攻螺母上件工站双侧作业成功率已提升至 98",
-      "source": "IT之家",
-      "publishTime": "2026-07-29",
-      "link": "https://www.ithome.com/0/983/342.htm"
     }
   ],
   "macroEvents": [
