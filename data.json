@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-08-02 07:27",
+  "updatedAt": "2026-08-02 09:07",
   "news": [
+    {
+      "id": "3af03df8-2d23-81a6-b49b-d652b49dd71f",
+      "title": "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉",
+      "summary": "IT之家 8 月 2 日消息，海外知名科普创作者汉克 · 格林（Hank Green）表示，在因使用 AI 而受到粉丝批评后，他将放缓内容创作节奏。据IT之家了解，除了个人频道外，格林还运营着知名科普 YouTube 频道 SciShow 和 Crash Course。其中，SciShow 由多个专注于不同科学领域的频道组成，而 Crash Course 则通过视频深入浅出地讲解拉丁美洲文学、阅读统计学等各类知识。此外，他还与哥哥约翰 · 格林（John Green）共同创办了 Vlogbrothers 频道。格林当地时间周五在 Reddit 发布了一篇长文，表示未来一段时间内，自己的 You",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/649.htm"
+    },
+    {
+      "id": "3af03df8-2d23-817c-8179-f0d66138a760",
+      "title": "小米汽车：澎程配备低速慢行灯，夜晚车辆时速低于 10km/h 自动打开",
+      "summary": "IT之家 8 月 2 日消息，小米汽车昨晚发布了答网友问（第 265 集），针对澎程系列新车的滑轨和座椅旋转与市面其他车的区别、澎程驾驶起来体验如何、小米龙甲电池 55 摄氏度热失控无热蔓延是什么意思等问题进行了解答。IT之家附小米汽车本期答网友问如下：市面上挺多车都有滑轨和座椅旋转，小米澎程有什么不一样吗？市面上确实有不少车型配备了长滑轨或座椅旋转功能，但从硬件规格、功能实现到场景丰富度，小米澎程的做法有几点明显不同，这里我们以 N90 Max 举例，先说滑轨：长度长：小米澎程 N90 Max 配备 6 根超长滑轨，其中座椅滑轨最长可达 1938mm，二三排座椅滑移距离都可分别达到 900m",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/648.htm"
+    },
+    {
+      "id": "3af03df8-2d23-8116-8fcc-fa26a20e23af",
+      "title": "因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查",
+      "summary": "IT之家 8 月 2 日消息，据科技媒体 CNBC 前天报道，美国众议院两个委员会的主席正展开联合调查，要求全美最大外卖平台 DoorDash 提供其使用的中国 AI 大模型信息。DoorDash 创始人 Andy Fang 曾在 X 平台发文称，据内部测试结果，月之暗面 Kimi K2.6+Anthropic Fable 5 的组合可超越 Sonnet 4.6 + Opus 4.8，并且成本更低。目前公司已经用上模型路由服务，将底层任务委托给 Kimi K2.6。而美国众议院的调查函是这么写的：“我们意识到，美国企业可能会部署中国开发的开放权重模型，这些模型拥有更具竞争力的使用成本、定制化特",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/647.htm"
+    },
+    {
+      "id": "3af03df8-2d23-81fa-821a-d2d7b4fd391e",
+      "title": "法官驳回 xAI 诉求，明尼苏达州 AI“脱衣”应用禁令将如期生效",
+      "summary": "IT之家 8 月 2 日消息，据 NBC News 报道，尽管 xAI 提起诉讼，美国明尼苏达州针对可将照片进行“裸化”处理的应用的禁令仍可按计划生效。美国联邦地区法院法官多诺万 · 弗兰克（Donovan Frank）在裁决中表示，他的决定不仅基于法律本身，也考虑了 xAI 提起诉讼的时间节点。弗兰克指出，xAI 于 2026 年 7 月 29 日申请临时限制令，而距离该法律正式签署已经过去近三个月，且距离法律于 8 月 1 日正式生效仅剩三天。他写道：“如此延迟才提起诉讼并申请临时限制令，表明所谓的损害并非迫在眉睫。”不过，这并不意味着 xAI 针对该禁令的诉讼已经结束，只意味着在案件继续",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/646.htm"
+    },
+    {
+      "id": "3af03df8-2d23-818e-919a-d7a1f793dfb2",
+      "title": "IT早报 0802：DeepSeek V4-Flash 成本仅为 GPT-5.6 Luna 四成；小米手机正式涨价 300 元起；中国最高薪本科专业易主；曝长鑫 LPDDR6 有望今年下半年发布...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 2 日星期日，今天的重要科技资讯有：1、DeepSeek-V4-Flash 正式版跑分报告：AI 单任务成本比 GPT-5.6 Luna 低约 60%深度求索（DeepSeek）7 月 31 日通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。@ArtificialAnlys、@arena 等 AI 跑分基准平台 8 月 1 日同步更新了相关基准测试结果。>> 查看详情2、小米手机正式涨价 300 元起，影响小米 17 系列、REDMI K90、Turbo 5据多位IT之家小伙伴反馈，小米销售",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/645.htm"
+    },
+    {
+      "id": "3af03df8-2d23-81d4-9964-eb54709a5a74",
+      "title": "真的要退出 Steam 平台？消息称微软 XBOX 拟重新评估 PC 战略",
+      "summary": "IT之家 8 月 2 日消息，在菲尔 · 斯宾塞主导一系列收购游戏工作室后，微软 XBOX 正面临一段艰难时期。由于市场环境持续恶化，XBOX 已经历多次裁员、砍工作室等调整。为了在当前市场环境继续生存，XBOX 必须改变自身。科技媒体 Windows Central 主编杰兹 · 科登（Jez Corden）昨日在自家博客节目爆料：“我确实知道微软 XBOX 正在调整 PC 市场计划。但目前不知道这些调整是否涉及 Steam，据我了解，这些计划似乎给他们一个窗口，让他们有机会退出 Steam。如果未来某个时间微软离开 Steam，我不会感到震惊。”考虑到 XBOX 一直都会在 Steam 和",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/644.htm"
+    },
+    {
+      "id": "3af03df8-2d23-8175-9e44-cef26111e562",
+      "title": "华为智选车产品总监彭磊谈享界 G9 设计思考，新车拥有三个物理按键操作区",
+      "summary": "IT之家 8 月 2 日消息，华为智选车产品总监（享界系列）彭磊发文谈及了鸿蒙智行享界 G9 的产品设计过程的思考。他表示，新车首先初衷是开发一款兼顾城市极致驾驶，又拓展户外驾驶能力边界，还得有智能驾趣的科技豪华 SUV。据彭磊介绍，享界 G9 围绕以上的初衷，其中一个考虑点是要求驾驶员可以实现实用又有趣的功能“盲操”，给智能汽车增加“机械按键”，不跟风千篇一律的“大屏控车”，让设计服务体验场景，所以设计了“巴黎饰钉机械按键”。并围绕底盘、智舱与户外的场景，分别设计了三个物理按键操作区：底盘驾控、座舱驾趣与户外悦享。关于新车是否只有一个后桥锁，彭磊回复称：“机械加电子，就三把锁了。但是，户外更",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/643.htm"
+    },
+    {
+      "id": "3af03df8-2d23-81f7-a154-c21f06d4175d",
+      "title": "珍稀图书遭粉碎用于 AI 训练引众怒，图书数据库 ISBNdb 下架 AI 相关测试页面",
+      "summary": "IT之家 8 月 2 日消息，本周，一则关于大量珍贵图书被集中粉碎、仅为训练大语言模型（LLM）提供数据的消息，引发了读书爱好者和普通网友的广泛关注。消息称，一些图书供应商近期收到了数量异常庞大的图书订单。业内人士猜测，AI 公司希望获得质量更高、更干净的训练数据，同时尽可能规避版权风险。而这场争议的焦点，则指向了图书数据库网站 ISBNdb。外界认为，该网站不仅鼓励这种做法，甚至还为 AI 公司与图书供应商之间牵线搭桥。随着舆论迅速发酵，ISBNdb 开始试图与这场争议划清界限，并删除了自己此前发布的相关内容。ISBNdb 在最新声明中表示：“我们已经注意到近期关于网站上一则营销落地页的报道",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/642.htm"
+    },
+    {
+      "id": "3af03df8-2d23-81c2-bd11-d5964c090506",
+      "title": "谷歌 Pixel 11 全系配置、售价曝光：含标准版、Pro、Pro XL 及 Pro Fold 折叠机型",
+      "summary": "IT之家 8 月 2 日消息，Android Headlines 已经提前拿到了谷歌 Pixel 11 全系四款新机的完整规格信息，同时还获得了美国和欧洲市场的售价。此次曝光的机型包括 Google Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold。由于机型较多，下面分别介绍每款产品的配置和价格。Google Pixel 11：6.3 英寸屏幕，起售价 899 美元作为系列中的标准版，Pixel 11 将配备一块 6.3 英寸 Actua OLED 显示屏，支持 60Hz 至 120Hz 自适应刷新率，峰值亮度可达 3000 尼",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/641.htm"
+    },
+    {
+      "id": "3af03df8-2d23-81a0-9c74-d747c554a1fa",
+      "title": "全球首个全光子时间晶体（PTC）制备技术诞生，有望催生超高速计算机、自适应通信以及全新激光器",
+      "summary": "IT之家 8 月 2 日消息，法国巴黎综合理工学院、法兰西公学院和亥姆霍兹德累斯顿-罗森多夫研究中心的科学家们最近取得新突破，在全球范围内首次制备出全光子时间晶体（PTC），能够跟随时间快速且反复地改变其光学特性。IT之家了解到，这项成果已于上个月（7 月 29 日）发表于《自然》期刊。该研究利用了 HZDR 和 TELBE 超辐射太赫兹源，将系统驱动至太赫兹（THz）光与物质相互作用状态。为超高速计算机、自适应通信系统和全新一代太赫兹激光器铺平道路。本次研究中的光子晶体是一种具有周期性光学结构的纳米结构材料，可控制光子的传播方式。科学家们通过调整不同材料的折射率和结构形状，如同半导体控制电子",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/640.htm"
+    },
+    {
+      "id": "3af03df8-2d23-81e7-b3bf-e333c57c4055",
+      "title": "Statcounter：Linux 在北美桌面市场份额首次突破 10%",
+      "summary": "IT之家 8 月 2 日消息，根据 Statcounter 最新发布的 2026 年 7 月统计数据，Linux 在北美桌面操作系统市场达成了一个重要里程碑，其份额已达到 10.65%。这是 Linux 首次在 Statcounter 北美桌面操作系统统计中突破两位数，占比正式超过 10%。作为对比，Statcounter 的数据显示，2026 年 6 月 Linux 在北美桌面市场的份额仅为 5.52%，也就是说，仅一个月时间，占比几乎翻了一番。当然，Windows 依然是北美占据主导地位的桌面操作系统，而苹果的 OS X 和 macOS 仍保持着相当可观的市场份额。不过，这一显著增长还需要",
+      "source": "IT之家",
+      "publishTime": "2026-08-02",
+      "link": "https://www.ithome.com/0/984/639.htm"
+    },
     {
       "id": "3af03df8-2d23-8102-8df0-eeb920ab3c4d",
       "title": "Pixel 11 specs and price leak with no surprises",
@@ -312,94 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-01",
       "link": "https://www.ithome.com/0/984/622.htm"
-    },
-    {
-      "id": "3af03df8-2d23-81bd-a1c2-edd969f99204",
-      "title": "环球、索尼、华纳等多家唱片公司提议将低质 AI 音乐从排行榜中剔除",
-      "summary": "IT之家 8 月 1 日消息，据 The Verge 报道，环球音乐集团、索尼音乐、华纳音乐集团等多家唱片公司提议将低质量的 AI 音乐从排行榜中剔除。唱片公司代表在一份联合声明中公开指出，大量充斥流媒体平台的 AI 生成音乐并非出自艺人之手，而是利用未经艺人许可、以艺人作品为基础训练的工具制作而成。报道称这项新提议的严苛程度，远超此前由美国唱片业协会、国际唱片业协会等机构提出的标识提案。先前的提案旨在为 AI 生成及 AI 辅助音乐设立一套标准化的标识系统。唱片公司的这项新提议不仅要求对歌曲进行清晰标识，更明确指出：除非歌曲满足“实质上由人类创作”等特定标准，否则将被禁止进入国际排行榜。如果",
-      "source": "IT之家",
-      "publishTime": "2026-08-01",
-      "link": "https://www.ithome.com/0/984/621.htm"
-    },
-    {
-      "id": "3af03df8-2d23-8173-b3cc-c921347e8d37",
-      "title": "马斯克刚刚关注了 DeepSeek 的 X 账号",
-      "summary": "IT之家 8 月 1 日消息，关注科技公司 CEO 和高管动态的账号 Big Tech Alert 今早发布提醒消息，埃隆 · 马斯克刚刚关注了 DeepSeek 的 X 账号。DeepSeek 昨日（7 月 31 日）通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测，凭借超高性价比再次引爆 AI 圈。IT之家注意到，DeepSeek 宣布 DeepSeek-V4-Flash 正式版的 X 平台消息已获得超 2.5 万个点赞、超 5000 条转发。值得一提的是，马斯克当地时间 7 月 23 日在接受英国《经济学人》专访时表示，中国在机器人和 AI ",
-      "source": "IT之家",
-      "publishTime": "2026-08-01",
-      "link": "https://www.ithome.com/0/984/620.htm"
-    },
-    {
-      "id": "3af03df8-2d23-81ca-b1fe-c18c44d2e510",
-      "title": "My young patients fly into surgery dressed as superheroes. Surgery became a lot less scary for them.",
-      "summary": "Pediatric ENT Dr. Leandro Brandão Guimarães says letting children wear superhero costumes into surgery helps ease fear and makes the experience less traumatic.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-01",
-      "link": "https://www.businessinsider.com/superhero-costumes-help-kids-before-surgery-2026-8"
-    },
-    {
-      "id": "3af03df8-2d23-8124-b48a-f9ea51b95d4b",
-      "title": "The AI apps winning over corporate America",
-      "summary": "Anthropic, OpenAI, and Cursor have the fastest-growing AI apps in the enterprise, but Microsoft and Google remain dominant.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-01",
-      "link": "https://www.businessinsider.com/fastest-growing-ai-applications-for-work-2026-8"
-    },
-    {
-      "id": "3af03df8-2d23-8113-8906-fb2fc12492fb",
-      "title": "The Mermaid Mask is a perfect vacation murder mystery",
-      "summary": "The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of a submarine is found dead in a locked room, his body next to a mysterious cauldron with blood trickling",
-      "source": "The Verge",
-      "publishTime": "2026-08-01",
-      "link": "https://www.theverge.com/games/971660/the-mermaid-mask-review"
-    },
-    {
-      "id": "3af03df8-2d23-8126-b658-d8b81346ab01",
-      "title": "The best and worst US states to live in",
-      "summary": "US News & World Report ranked all 50 states on livability and came up with a list of the best states to live in. See who came out on top.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-01",
-      "link": "https://www.businessinsider.com/best-us-states-to-live-in-ranked-2026"
-    },
-    {
-      "id": "3af03df8-2d23-8145-be28-dcbc8269c37b",
-      "title": "中微公司董事长尹志尧：到 2035 年在规模、产品竞争力上成为全球第一梯队的半导体设备公司",
-      "summary": "IT之家 8 月 1 日消息，据财联社今日报道，科创板企业中微公司今日在上海临港举行总部大楼落成暨 22 周年庆典，公司在临港的研发加生产格局正式形成。中微公司董事长尹志尧现场透露，公司已在上海临港、金桥，南昌及在建的成都、广州布局五大研发生产基地，当前整体建筑面积达 60 万平方米，预计未来 5 年左右增至 90 万平方米，届时整体生产能力将超过 700 亿元。尹志尧表示，要在未来五年内至少覆盖 60% 的半导体高端设备，成为全球覆盖率最高的半导体设备公司，到 2035 年在规模、产品竞争力上成为全球第一梯队的半导体设备公司。华虹宏力董事长兼总裁白鹏在中微公司成立 22 周年庆典致辞表示，长",
-      "source": "IT之家",
-      "publishTime": "2026-08-01",
-      "link": "https://www.ithome.com/0/984/618.htm"
-    },
-    {
-      "id": "3af03df8-2d23-8184-b958-d98960afc085",
-      "title": "北汽新能源（极狐、享界）7 月终端交付 25074 辆，同比增长 121.27%",
-      "summary": "IT之家 8 月 1 日消息，北汽新能源今日宣布 2026 年 7 月终端交付 25074 辆，同比增长 121.27%。北汽新能源 1-7 月终端交付 126675 辆，同比增长 82.55%。此外，北汽新能源海外 7 月销量破千。IT之家注：北京新能源汽车股份有限公司（简称“北汽新能源”）成立于 2009 年，是我国首家独立运营、首个获得新能源汽车生产资质、首家进行混合所有制改革、首批试点国有企业员工持股改革、首个上市 A 股市场的新能源汽车企业。目前，北汽新能源正全力打造“极狐”和“享界”两大整车品牌。极狐定位中高端新能源汽车；享界是北汽与华为联合打造的全新智能新能源汽车豪华旗舰品牌。",
-      "source": "IT之家",
-      "publishTime": "2026-08-01",
-      "link": "https://www.ithome.com/0/984/617.htm"
-    },
-    {
-      "id": "3af03df8-2d23-8189-a48e-c6dcb7e55346",
-      "title": "新中国首条连接江海大型运河，宁德时代计划在平陆运河沿线建设风光电站",
-      "summary": "IT之家 8 月 1 日消息，今日，宁德时代宣布与平陆运河集团签署战略合作协议。平陆运河全长 134.2 公里，是新中国成立以来首条连接江海的大型运河。它的建成，为西南地区开辟了一条运距最短、最经济的出海通道，使货物入海航程直接缩短了 560 公里，节约 7 到 15 天的航运时间。9 月正式投运后，平陆运河将全面推行电动船舶通航管理。首批试运营的电船将搭载宁德时代船用动力电池系统。此外，宁德时代还将与平陆运河集团共同运营“电池银行”租电服务，以切实降低船东的持船与运营成本。除了推进船舶的电动化替代，双方计划在运河沿线建设风光电站、储能电站与微电网，为园区、港航与充换电设施供电；同时，双方将共",
-      "source": "IT之家",
-      "publishTime": "2026-08-01",
-      "link": "https://www.ithome.com/0/984/616.htm"
-    },
-    {
-      "id": "3af03df8-2d23-8166-9bd0-c72ff448bc88",
-      "title": "I've been to all 50 states. If I had just one day in Florida, here's how I'd spend it.",
-      "summary": "If I only had one day to spend in Florida, I'd watch the sunrise in Miami, visit Everglades National Park, and drive the Overseas Highway to Key West.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-01",
-      "link": "https://www.businessinsider.com/florida-things-to-do-day-trip-frequent-traveler-2026-8"
-    },
-    {
-      "id": "3af03df8-2d23-81c3-9b5a-d891a2dc569a",
-      "title": "The OG reading app just got a big update",
-      "summary": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about microwave sounds and Meta glasses and Alex vs. Al",
-      "source": "The Verge",
-      "publishTime": "2026-08-01",
-      "link": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer"
     }
   ],
   "macroEvents": [
