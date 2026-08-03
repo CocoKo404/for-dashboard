@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-08-04 04:09",
+  "updatedAt": "2026-08-04 05:38",
   "news": [
+    {
+      "id": "3b103df8-2d23-811b-889b-c7bad59b4161",
+      "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+      "summary": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-04",
+      "link": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html"
+    },
+    {
+      "id": "3b103df8-2d23-81c3-a4b5-cadef078215d",
+      "title": "Snap's stock jumps 10% on earnings beat and strong sales forecast",
+      "summary": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-04",
+      "link": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html"
+    },
+    {
+      "id": "3b103df8-2d23-812e-bd36-fded42294444",
+      "title": "The 15 movies with the largest opening weekends of all time",
+      "summary": "\"Spider-Man: Brand New Day\" officially has the largest domestic opening weekend of all time. See what other movies made the top 15.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-04",
+      "link": "https://www.businessinsider.com/movies-with-largest-opening-weekend-box-office"
+    },
+    {
+      "id": "3b103df8-2d23-8152-92cf-f8c589a55557",
+      "title": "Trump's silly Reflecting Pool story masks something serious",
+      "summary": "We are very used to Donald Trump saying things that aren't true. This is something different.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-04",
+      "link": "https://www.businessinsider.com/trump-pool-story-matters-fiction-pirro-hearn-2026-8"
+    },
+    {
+      "id": "3b103df8-2d23-81c9-ad9f-f2eda1d9baf1",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-04",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+    },
+    {
+      "id": "3b103df8-2d23-8130-bd46-f70705efe9f9",
+      "title": "The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases",
+      "summary": "The risk of more debris hitting the moon is on the rise as the space race heats up.",
+      "source": "Wired",
+      "publishTime": "2026-08-04",
+      "link": "https://www.wired.com/story/spacex-falcon-moon-crash-warning-for-lunar-bases/"
+    },
+    {
+      "id": "3b103df8-2d23-8182-a3c2-efddb05fef9f",
+      "title": "I tried a photobooth in NYC that matches you with a mystery soulmate — but there's a big catch",
+      "summary": "The \"Missed Connections Booth\" opened in July and pairs people with a compatible single. You pay $10 and get a match.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-04",
+      "link": "https://www.businessinsider.com/missed-connections-photobooth-nyc-matchbox-dating-compatable-singles-irl-social-2026-8"
+    },
+    {
+      "id": "3b103df8-2d23-812a-99cc-d98f6abf9992",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking ",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-04",
+      "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/"
+    },
+    {
+      "id": "3b103df8-2d23-81e1-b662-dc4d70697bf5",
+      "title": "A preventive neurologist shares 2 overlooked dementia risk factors",
+      "summary": "A preventive neurologist said hearing and vision loss are associated with a higher risk of dementia and cognitive decline.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-04",
+      "link": "https://www.businessinsider.com/dementia-risks-people-always-miss-preventive-neurologist-2026-7"
+    },
+    {
+      "id": "3b103df8-2d23-81e5-83fa-fae7707e778c",
+      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-04",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
+    },
     {
       "id": "3b103df8-2d23-81dd-b786-ea5815e1a0db",
       "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
@@ -320,86 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-03",
       "link": "https://www.ithome.com/0/985/245.htm"
-    },
-    {
-      "id": "3b103df8-2d23-8129-9416-ec91485d4d5f",
-      "title": "全面关停核电项目四十年后，意大利计划重启核电站",
-      "summary": "IT之家 8 月 3 日消息，意大利曾是欧洲发展核电的先驱，但 1986 年切尔诺贝利核事故后，意大利于 1987 年经过公投，决定全面关停核电项目。据央视新闻“总台环球资讯广播”今日报道，这一局面有望迎来改变。意大利议会预计将于近期审议政府提交的法案，为新一代核能技术搭建法律框架。报道提到，意大利电力进口依赖度高、用电成本居高不下，能源自主需求持续攀升。今年以来，梅洛尼政府正式推动核电立法，计划将核电重新纳入国家能源供给体系。意大利环境与能源安全部长吉尔贝托 · 皮凯托 · 弗拉廷公布了计划中的项目建设与投运时间：我们将沿用核裂变技术，采用先进第三代核电机组。这类设备的适配性、安全性更高，模",
-      "source": "IT之家",
-      "publishTime": "2026-08-03",
-      "link": "https://www.ithome.com/0/985/246.htm"
-    },
-    {
-      "id": "3b103df8-2d23-8174-ba0f-c02a23ca6090",
-      "title": "Bluesky’s new CEO wants a big tent, not a bubble",
-      "summary": "Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO. This is one of my favorite kinds of interviews to do on Decoder, because a couple years ago, we had Bluesky’s prior CEO, Jay Graber, on […]",
-      "source": "The Verge",
-      "publishTime": "2026-08-03",
-      "link": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere"
-    },
-    {
-      "id": "3b103df8-2d23-819f-9dcf-c0ec52e74753",
-      "title": "小米米家智能茶吧机台面式开售：3 秒即热出水，售 599 元",
-      "summary": "IT之家 8 月 3 日消息，小米米家智能茶吧机台面式将于 8 月 4 日 0 点开售，支持分区出水、精准调温、智能互联、3 秒即热出水等，价格为 599 元。IT之家从官方介绍获悉，这款新品采用双区双出水设计，左侧为即热出水口，右侧为煮茶出水口，双水路物理隔绝，互不干扰。采用精瓷即热技术，无需预热，水流经陶瓷管路瞬间升温，3 秒速热出水，不存千滚水。5.5 升大水箱，满足约三人一日饮水需求。新品预设 5 挡温度、4 种杯量，45~95°C 每 1°C 可调。支持温度与杯量自动记忆，还能自定义设置。90°C 热水直注，边注边煮同步加热，约 15 秒快速沸腾。预设多种经典煮茶模式，连接米家 Ap",
-      "source": "IT之家",
-      "publishTime": "2026-08-03",
-      "link": "https://www.ithome.com/0/985/244.htm"
-    },
-    {
-      "id": "3b103df8-2d23-81e5-98e3-d278b2727d3b",
-      "title": "小米米家智能茶吧机 Pro 立式开售：即热、煮茶、消毒一体，1299 元",
-      "summary": "IT之家 8 月 3 日消息，小米米家智能茶吧机 Pro 立式将于 8 月 4 日开售，主打即热、煮茶、消毒一机多用，售价 1299 元。IT之家从官方介绍获悉，这款产品拥有分区出水技术，内置 5.5 升大水箱，也可外接桶装水，顶部带有 2 个出水区，左边的可以接热水，右边的可以直接煮茶，双水路物理隔绝，互不干扰。采用精瓷即热技术，可在 3 秒内速热出水，并在出水的同时同步加热。同时，这款产品带有多种煮茶模式，满足不同人群需要，茶壶内带有喷淋式茶漏，可充分激发茶香、深层萃取茶味精华。底部消毒柜支持 UVC 紫外线杀菌 + 热风烘干，杀菌率≥99.99%。此外，这款产品正面带有 2.8 英寸液晶",
-      "source": "IT之家",
-      "publishTime": "2026-08-03",
-      "link": "https://www.ithome.com/0/985/243.htm"
-    },
-    {
-      "id": "3b103df8-2d23-8193-a574-cea01ddf34ab",
-      "title": "三星 Galaxy F70 Pro 手机海外发布：骁龙 6 Gen 3 芯片、6000mAh 电池，23,999 卢比起",
-      "summary": "IT之家 8 月 3 日消息，三星现已在印度推出 Galaxy F70 Pro 手机，新品定位中端，配备 6000mAh 电池，拥有后置三摄，提供 6 年系统更新。据介绍，这款手机采用挖孔屏设计，配备 6.7 英寸 AMOLED 屏幕，分辨率为 1080P+，支持 120Hz 高刷，采用侧置指纹识别设计。规格方面，这款手机搭载骁龙 6 Gen 3 芯片，拥有 4 个 A78 性能核、4 个 A55 能效核，拥有 5000 万像素光学防抖后置主摄、500 万像素副摄像头以及 200 万像素辅助镜头，前置摄像头则是 1200 万像素。同时，这款手机配备 6000mAh 电池，支持 45W USB-",
-      "source": "IT之家",
-      "publishTime": "2026-08-03",
-      "link": "https://www.ithome.com/0/985/242.htm"
-    },
-    {
-      "id": "3b103df8-2d23-8106-8bad-e9733b094b9c",
-      "title": "Palworld’s expanding to mobile with a new MMORPG",
-      "summary": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, freedom, and scale of the original PC surviv",
-      "source": "The Verge",
-      "publishTime": "2026-08-03",
-      "link": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo"
-    },
-    {
-      "id": "3b103df8-2d23-8183-b92d-e6bc9ea5309f",
-      "title": "U.S.-Iran talks, OpenAI's Hugging Face hack, Best Buy's new CEO and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-03",
-      "link": "https://www.cnbc.com/2026/08/03/5-things-to-know-before-the-stock-market-opens.html"
-    },
-    {
-      "id": "3b103df8-2d23-8151-a10b-d00cdb1f80d2",
-      "title": "2026 暑期档票房冲破 75 亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》分列前三",
-      "summary": "IT之家 8 月 3 日消息，据猫眼专业版数据，截至 8 月 3 日 18 时，2026 年暑期档（6 月 1 日-8 月 31 日）总票房超 75 亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》《给阿嬷的情书》《小黄人与大怪兽》分列暑期档票房榜前五位。值得一提的是，暑期档有近 120 部中外影片陆续上映，包含历史、喜剧、动作、动画、科幻等多种类型。其中，漫威《蜘蛛侠：崭新之日》已于 7 月 29 日在中国内地率先上映，国内首周开画票房劲收 8.24 亿，创近 5 年最佳真人进口影片开画成绩，成为近 7 年唯一连续五天单日票房破亿真人进口影片。另外，2026 年度电影总票房（含预售）突破 23",
-      "source": "IT之家",
-      "publishTime": "2026-08-03",
-      "link": "https://www.ithome.com/0/985/241.htm"
-    },
-    {
-      "id": "3b103df8-2d23-818c-baae-f2f6833e04b8",
-      "title": "苹果收购材料科学公司 PlasmaSolve，加强镀膜等领域的技术储备",
-      "summary": "IT之家 8 月 3 日消息，据科技媒体 MacRumors 今天报道，欧盟委员会公告显示，苹果已经收购材料科学公司 PlasmaSolve，并聘用该公司的部分员工。IT之家附公告内容如下：苹果将通过旗下子公司收购 PlasmaSolve 的全部已发行股本，并向部分 PlasmaSolve 员工提供就业机会。IT之家了解到，PlasmaSolve 是一家位于捷克的材料科学企业，成立于 2016 年。该公司主要开发模拟软件，帮助各大公司处理等离子体相关制造流程。同时，该公司的核心产品是 MatSight 软件，可帮助制造商模拟各种金属气相沉积工艺效果。苹果已经将金属气相沉积技术应用于多款 iPh",
-      "source": "IT之家",
-      "publishTime": "2026-08-03",
-      "link": "https://www.ithome.com/0/985/240.htm"
-    },
-    {
-      "id": "3b103df8-2d23-819f-b6ba-ee63908f8d1b",
-      "title": "任天堂宣布明晚举行 Switch 2 游戏《火焰纹章：万缕千丝》直面会，9 月 17 日发售",
-      "summary": "IT之家 8 月 3 日消息，任天堂今晚宣布，将在北京时间 8 月 4 日晚 10 点举行《火焰纹章：万缕千丝》直面会，届时将带来关于这款游戏的详细情报，本次直播时长约 20 分钟。《火焰纹章》系列是由 Intelligent Systems 开发、任天堂发行的一系列战略角色扮演游戏。系列首作《暗黑龙与光之剑》于 1990 年发行，以红白机为游玩平台。据IT之家此前报道，任天堂此前已宣布《火焰纹章：万缕千丝》游戏将在 9 月 17 日发售，登陆 Switch 2 平台。故事的背景是一座被观众的热情所包围的巨大斗技场。一位自称是「神威法王」的男性宣示「鞑古席翁大剑斗祭」就此开幕，各方人物的力量与",
-      "source": "IT之家",
-      "publishTime": "2026-08-03",
-      "link": "https://www.ithome.com/0/985/239.htm"
     }
   ],
   "macroEvents": [
