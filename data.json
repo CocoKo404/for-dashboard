@@ -1,6 +1,278 @@
 {
-  "updatedAt": "2026-08-05 08:52",
+  "updatedAt": "2026-08-05 12:40",
   "news": [
+    {
+      "id": "3b303df8-2d23-811e-8049-d69ec9ec5c54",
+      "title": "NVM Express 发布 11 项规范集更新，NVMe 基本规范来到 2.4 版本",
+      "summary": "IT之家 8 月 5 日消息，非营利组织 NVM Express 当地时间 4 日在 FMS 2026 上发布全部 11 项年度规范集更新。NVMe 基本规范来到 2.4 版本，一系列命令集规范、传输规范、管理接口规范、启动规范均得到更新。NVM Express 总裁 Amber Huffman 表示：最新的 NVMe 规范引入了基础性技术，既能在后量子时代保障安全性，又能简化设备管理并提升可持续性，从而使 NVMe 存储在企业、云、AI 和客户端环境中具备面向未来的适应性。随着安全要求和运营效率需求的不断演变，NVM Express 将继续致力于推出能够提升数据保护和存储效率的创新技术。IT",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/790.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8175-bcc0-df977b2735ac",
+      "title": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
+      "summary": "Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-05",
+      "link": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html"
+    },
+    {
+      "id": "3b303df8-2d23-81f5-9aab-fffd59fa10d6",
+      "title": "Cloudflare Wallet 推出：专为 AI 智能体设计的可编程钱包",
+      "summary": "IT之家 8 月 5 日消息，Cloudflare 昨日（8 月 4 日）发布公告，宣布推出 Cloudflare Wallet 功能，针对 AI 智能体部署数字信用卡、身份证明（ID）以及消费上限机制。博文指出当前 AI 智能体如果想要试用某个 API，必须先访问专为人类设计的登录页面，等待用户添加支付方式，生成 API 密钥，然后才能弄清楚如何调用服务。在实际场景操作中，AI 智能体会遇到各种障碍，最终整个流程会回退到人工操作，从而限制了智能体的服务数量，因此 Cloudflare 推出了 Wallet 功能，让人类将资金支配权委托给 AI 智能体，让其能够以无头（headlessly）方",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/789.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8117-afcd-d6828281eb1c",
+      "title": "丰田加大混动布局，明年量产下一代混合动力电池",
+      "summary": "IT之家 8 月 5 日消息，丰田即将采取两项重大举措，这将有望在未来几年为公司带来巨大推动力。丰田在第一季度财务报告中宣布，今年其混合动力车型销量将创历史新高。而这只是丰田新一轮混合动力攻势的开始，现代、起亚和本田等竞争对手无疑将感受到越来越大的压力。据IT之家了解，这场攻势的核心包括新一代电池技术，这些电池将帮助丰田销售比以往更多的混合动力车型，甚至超过公司预计今年达到的 500 万辆销量目标。丰田是最早推出现代混合动力汽车的车企之一，该公司预计，今年将首次实现全球混合动力车型销量达到 500 万辆，这将占公司全球销量的近 45%。在从 5 月开始的新财年中，丰田预计将销售接近 600 万",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/788.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8158-8ac7-d640a5a87d28",
+      "title": "三星电子公布 CXL 3.2 内存模组 MD310，256GB 容量",
+      "summary": "IT之家 8 月 5 日消息，作为三星电子 FMS 2026 峰会活动的一部分，该企业在官网上公布了其新一代可扩展内存解决方案 CMM-D MD310。MD310 是一款采用 PCIe 6.0 界面和 CXL 3.2 协议的 DRAM 基 CXL 内存模组。其采用 EDSFF E3.S 2T 外形规格，基于 DDR5，容量 256GB，速率可达 7.2Gbps。三星电子表示，该内存模组可为系统注入额外 72GB/s 内存带宽， 用于加速人工智能、数据分析等数据密集型工作负载。其开放的 PCIe / CXL 架构使得多个系统能够动态共享和分配池化内存，提升 DRAM 资源利用率，这在内存供应受限",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/786.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81fd-a1e3-cb071cafac1b",
+      "title": "我国大国重器刚建成半个月取得首个成果，成功产生并鉴别稀有原子核",
+      "summary": "IT之家 8 月 5 日消息，据央视新闻今日报道，中国科学院近代物理研究所科研团队与合作者近日依托最新建成的大科学装置 —— 强流重离子加速器装置（HIAF），成功产生并鉴别了稀有原子核：铪（hā）-153。这是该大装置调试期间取得的首个物理成果，验证了我国新一代强流重离子研究装置已具备探索未知核素、拓展核素版图的能力。相关成果近日在学术期刊《科学通报》发表。原子核由质子和中子组成，质子和中子不同数量的组合形成了丰富多彩的核素世界。探索未知核素、研究原子核存在的边界是核物理领域的重要前沿。铪-153 位于缺中子重核区域，是研究原子核结构演化和稳定极限的重要对象。发现并精确测量该核素，有助于检验",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/785.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8186-b064-ca46afec8c60",
+      "title": "比亚迪方程豹品牌 3 周年，五十万台销量里程碑达成",
+      "summary": "IT之家 8 月 5 日消息，比亚迪方程豹汽车官方微博今日发文祝贺品牌诞生三周年，同时官方还宣布达成了五十万台销量里程碑。据IT之家此前报道，在 2023 年 7 月，比亚迪旗下主打“个性化”的全新子品牌 —— 方程豹汽车正式发布品牌 LOGO。同年 8 月，方程豹首款车型豹 5 正式登场，该车定位超级混动硬派 SUV，采用 DMO 超级混动越野平台。值得一提的是，本月初，比亚迪宣布 7 月销售 419,211 辆汽车，海外销量 179,841 辆同比增长 124.3% 再创历史新高。其中，方程豹 7 月销量 41,213 辆，同比增长 190.6%，环比增长 15.7%。另外，在月初公布的数",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/784.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81ee-bf6a-c3487dabaef8",
+      "title": "AMD 高管：公司相较英伟达的一个关键优势是更加开放",
+      "summary": "IT之家 8 月 5 日消息，AMD 表示，在与英伟达（Nvidia）的 AI 芯片竞争中，公司拥有一个重要优势：更加开放。AMD 长期以来一直通过开源 ROCm 软件来推广这一战略。ROCm 用于为人工智能芯片进行编程，由于采用开源模式，任何人都可以免费使用、下载或修改。在周二举行的财报电话会议上，AMD CEO 苏姿丰表示，ROCm 正处于一个“转折点”，过去一年中，该项目获得的开源社区贡献数量增长了 10 倍。在财报公布前的 7 月，AMD 两名高管接受了 Business Insider 采访，讨论了公司为何认为开放部分核心软件和硬件产品能够帮助其超越英伟达和高通等竞争对手。尤其是在 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/782.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81cd-8185-f01307edd810",
+      "title": "Neo Semiconductor 公布 2T SRAM，宣称可实现 5 倍片上缓存容量",
+      "summary": "IT之家 8 月 5 日消息，3D 存储半导体 IP 企业 Neo Semiconductor 在 FMS 2026 上公布了其双晶体管 (2T) SRAM 设计 X-SRAM，宣称可实现现有方案 5 倍的片上缓存容量。IT之家了解到，目前的商业化主流 SRAM 由 6 个晶体管构成，这限制了片上缓存的扩展，而大容量高速 SRAM 缓存非常适合推理解码等人工智能工作负载。Neo Semiconductor 称其可将片上 SRAM 容量提升到 GB 级别。Neo Semiconductor 展示了 4 种不同的 X-SRAM 单元结构：Type B 方案与现有 GAA Nanosheet 尖端逻",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/783.htm"
+    },
+    {
+      "id": "3b303df8-2d23-818f-8aed-fedc96847f58",
+      "title": "消息称小米第二代 AI 眼镜延迟到 Q4 或明年发布，相关负责人否认",
+      "summary": "IT之家 8 月 5 日消息，据 XR Vision 昨日援引知情人士消息报道，小米 AI 眼镜第二代已完成研发，但小米高管卢伟冰却亲自按下了发布的暂停键。报道称，卢伟冰按下暂停键的其中一个原因是对产品外观设计不太满意，并要求重新调整设计。根据当前节奏，小米 AI 眼镜二代或延期到 Q4，甚至明年才会发布。报道还称，对于以上知情人士披露的信息，小米相关负责人进行了否认，并认为信息失实，属于造谣。对于真实情况，小米相关负责人也拒绝披露。IT之家此前报道，小米首款 AI 眼镜于去年 6 月发布，定价 1999 元起。该产品重量 40g，可选三种镜框，支持线下和线上配镜。该眼镜支持第一人称相机，搭载",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/781.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81e8-a60c-dfdd7bf27e89",
+      "title": "满足英伟达等公司 AI 芯片需求，消息称台积电扩大 CoW 封装外包规模",
+      "summary": "IT之家 8 月 5 日消息，科技媒体 biggo 昨日（8 月 4 日）发布博文，报道称台积电为了缓解 CoWoS 封装产能压力，计划把部分封装步骤外包给日月光等供应商，从而提高 AI 芯片产能。IT之家注：CoWoS 全称为 Chip-on-Wafer-on-Substrate，是台积电的一种先进封装技术，将处理器与高带宽内存整合在同一个中间层上，再连接到基板。该技术能有效提升 AI 芯片的数据传输带宽与运算效率，是当前制造高性能 AI 加速器的关键环节。消息称台积电为了缓解 AI 芯片制造瓶颈，计划扩大 CoWoS 封装工艺中的 CoW（Chip-on-Wafer，芯片封装）外包规模，委",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/780.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8150-9a50-d85a0d044d01",
+      "title": "GitHub 被盗内部源代码现身暗网，标价 6.5 万美元售卖",
+      "summary": "IT之家 8 月 5 日消息，据外媒 Cyber Kendra 报道，今年 5 月从 GitHub 被盗的内部源代码再次出现在暗网地下市场，销售者定价为 6.5 万美元（IT之家注：现汇率约合 44 万元人民币），同时公开提供了部分样本，试图证明数据真实性。外媒对这些样本进行了初步检查，其中主要包括多个以 GitHub 内部项目命名的压缩文件、GitHub 主 Rails 应用程序的目录列表（即运行 GitHub 服务本身的核心代码库）、多个内部安全团队和工具团队使用的仓库，以及一份包含约 3,800 个仓库名称的清单。这一数量与 GitHub 在今年 5 月公布的受影响规模较为接近。此外，样",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/779.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81f5-8e16-eb8911f4cc36",
+      "title": "小米汽车：澎程全系在尾门更高位置额外增加了一个应急机械拉手，可为三排乘客逃生救援争取更多时间",
+      "summary": "IT之家 8 月 5 日消息，小米汽车今日凌晨再次更新答网友问（第 268 集），针对澎程的低速慢行灯是什么功能、澎程的尾门配备双应急机械拉手基于什么考虑、澎程 N90 Max 整车 12 个安全气囊分别起到什么作用等问题进行了解答。IT之家附本集小米汽车答网友问重点内容如下：低速慢行灯是什么功能，怎么使用？小米澎程系列全系标配低速慢行灯，位于后视镜下方，单侧照射面积覆盖车侧 12.88㎡。在近光灯或远光灯打开的前提下，以下场景慢行灯会自动点亮，照亮车身两侧路面，提升夜间行泊安全：解锁车辆时挂入倒挡时窄路、倒车等情况下，打开全景影像时使用泊车辅助时当车辆行驶速度大于 10km/h 时，慢行灯会",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/777.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81c3-a0c3-de7b1ac80f8d",
+      "title": "新款华为 MateBook Fold 今日发布",
+      "summary": "IT之家 8 月 5 日消息，新款华为 MateBook Fold 今日将正式发布，这款全新鸿蒙折叠笔记本电脑 18 英寸屏幕，展开时单面最薄 7.3mm，拥有三款全新配色：天际白、幻影黑、流光金，采用一体式支架设计，并首次支持手写笔。屏幕方面，新款华为 MateBook Fold 非凡大师是行业首款采用自研专利双层 OLED+LTPO 技术的笔记本电脑，支持 3.3K 高分辨率、视网膜级别 PPI 229、1600nits 峰值亮度、LTPO 自适应刷新率、92% 的超高屏占比与 2000000:1 的超高对比度。同时支持 HDR Vivid，还有 AR 镀膜技术有效减少屏幕反光，反射率低至",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/776.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81c2-9c55-cd9a3a730486",
+      "title": "SpaceX says it’s coming for AT&T, Verizon, and T-Mobile customers",
+      "summary": "SpaceX President Gwynn Shotwell said the company's next-gen Starlink Mobile satellites will launch 2027, improving service capacity.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-05",
+      "link": "https://www.businessinsider.com/spacex-starlink-mobile-satellite-tmobile-verizon-att-competition-q2-earnings-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-81db-a622-f04e11d5c0a8",
+      "title": "特斯拉确认不会恢复 FSD 用户自定义最高速度功能，引发车主不满",
+      "summary": "IT之家 8 月 5 日消息，特斯拉 AI 负责人 Ashok Elluswamy 再次强调了公司在 FSD 速度设置方面的策略，但这一做法显然让不少车主感到困惑。据IT之家了解，在早期版本的 FSD 中，车主可以自行设置车辆在使用这套半自动驾驶辅助系统时的最高行驶速度。这种方式为驾驶者提供了更多个性化空间，让他们能够在体验 FSD 强大能力的同时，根据自己的驾驶偏好进行调整。速度设置的重要性显而易见，不仅关系到车辆乘员是否能够在舒适、安全的速度下行驶，同时也可能影响车辆是否会因为超速而遭到执法部门处罚。去年 FSD v14 发布后，特斯拉取消了最高速度设置功能，转而采用五种“速度模式”（Sp",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/775.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81be-a48d-eb2388d3dabf",
+      "title": "QQ 鸿蒙版 App 获 9.2.53 邀测升级，新增支持匿问我答等功能",
+      "summary": "IT之家 8 月 5 日消息，QQ 鸿蒙版 App 昨晚在华为应用市场（App Gallery）开启 9.2.53 (3310) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/8/4-2026/8/31。IT之家附 QQ 鸿蒙版 App 本次测试版本新特性如下：1、个人资料编辑优化。2、新增支持精选照片。3、新增支持匿问我答。4、新增支持个性标签。5、新增手机联系人加好友。6、视频支持静音播放。另外，QQ 鸿蒙版 App 还更新了个人主页新增点赞互动通知入口、QQ 全城助力功能插件、群聊输入框支持显示禁言状态、照片 / 文件等内容通过系统分享途径分享到 QQ、支持点击",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/774.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8122-aaeb-f30c6331276f",
+      "title": "Marvell 公布 PCIe Gen6 固态硬盘主控 Bravera SC6：前代双倍性能",
+      "summary": "IT之家 8 月 5 日消息，Marvell（美满）在正在进行的 FMS 2026 上公布了其面向服务器人工智能存储的 Bravera SC6 (MV-SF1410) PCIe Gen6 固态硬盘控制器芯片。这一主控预计 2026Q4 出样。Marvell 表示 Bravera SC6 提升了 AI 推理的存储性能，使更多 KV Cache 从 HBM 迁移到 SSD，从而提高基础架构效率。Bravera SC6 符合 NVMe 2.2 规范，性能是上代 SC5 的 2 倍。该芯片基于 2 个 6 核 Arm Cortex-R82 集群、3 个 Arm Cortex-M7 专用内核、1 个 A",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/772.htm"
+    },
+    {
+      "id": "3b303df8-2d23-819f-820d-ccbb9cb4a1f3",
+      "title": "三星新版 SmartThings 智能家居应用曝光：支持根据时间切换背景主题、新增功能操作推荐卡片",
+      "summary": "IT之家 8 月 5 日消息，外媒 SamMobile 在拆解三星 SmartThings 测试版应用时发现，三星计划为系列应用引入重大 UI 改进，支持根据系统时间自动调整视觉效果。具体来看，新版应用中每天不同时间段（例如早晨、白天、傍晚、夜间）都会采用不同的背景主题，背景还可能根据用户所在位置发生变化。同时应用将内置 9 款动态壁纸供用户选择，用户亦可将背景修改为自己喜欢的图片。三星还计划为 SmartThings 首页顶部新增“SmartThings Now”卡片，该卡片的主要作用是帮助用户发现尚未使用过的 SmartThings 功能，并主动推荐相关智能家居操作，提高应用功能的使用率。",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/773.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8184-9509-ec660f2b59a5",
+      "title": "三星公告：部分 Galaxy S26 Ultra 手机局部泛红非硬件故障，可软件修复",
+      "summary": "IT之家 8 月 5 日消息，科技媒体 SamMobile 昨日（8 月 4 日）发布博文，报道称三星在官方社区发布公告，明确 Galaxy S26 Ultra 手机的局部泛红并非硬件问题。三星通过韩国版 Samsung Members 应用程序发布官方声明，确认部分 Galaxy S26 Ultra 屏幕中央矩形区域出现红色色调的现象源于软件问题，可通过软件校准修复。IT之家翻译公告全文内容如下：【通知】Galaxy S26 Ultra 屏幕校准服务支持信息你好：我们调查发现部分 Galaxy S26 Ultra 产品屏幕中心出现泛红现象，对于给用户带来的不便，我们深表歉意。此问题可通过软件",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/771.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8174-9865-fefa82a26748",
+      "title": "AMD executives say the chip company has a key advantage over Nvidia: being more open",
+      "summary": "AMD executives said the company's open-source software is a key advantage in its competition against Nvidia, enhancing AI chip development.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-05",
+      "link": "https://www.businessinsider.com/amd-q2-2026-earnings-open-source-key-advantage-nvidia-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-81c3-a966-fbbf041349fa",
+      "title": "过去 1 年用户流失约 22%：美国 GEO 卫星服务商 Hughes 申请破产",
+      "summary": "IT之家 8 月 5 日消息，科技媒体 SpaceNews 昨日（8 月 4 日）发布博文，报道称美国 GEO 卫星宽带服务商 Hughes 因无力偿还约 15 亿美元（IT之家注：现汇率约合 101.44 亿元人民币）债务，于 8 月 3 日周一申请破产。IT之家援引博文介绍，Hughes 公司在提交的申请中，指出重要破产原因之一，就是卫星宽带系统从地球静止轨道（Geostationary Orbit，GEO）转向近地轨道（Low-Earth Orbit，LEO），并特别提及了亚马逊和 SpaceX 两家公司带来的冲击影响。图源：Hughes受此影响，过去一年 HughesNet 用户下降约",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/769.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81c3-926e-ef811952902d",
+      "title": "派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等",
+      "summary": "索尼发布 FE 100-400mm F5.6-8 OSS 全画幅超远摄变焦镜头，国内航线燃油附加费下调等。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-08-05",
+      "link": "https://sspai.com/post/113087"
+    },
+    {
+      "id": "3b303df8-2d23-81a7-9d40-fd35510f17ec",
+      "title": "徕卡透露公司现阶段最畅销相机为 Q3，而非 M 系列产品",
+      "summary": "IT之家 8 月 5 日消息，徕卡市场负责人 Andrea Pacella 在接受 Digital Camera World 采访时，透露徕卡现阶段销量最好的相机是 Q3，而非徕卡 M、SL 系列。Andrea Pacella 表示，徕卡 Q 系列相机销量表现甚至超过了公司自身预期，事实上，公司并没有想到一款售价超过 6,000 欧元（IT之家注：现汇率约合 46,724 元人民币）的固定镜头全画幅便携相机，会在智能手机摄影不断冲击传统卡片相机市场的背景下取得如此成功。徕卡认为，徕卡 Q 系列成功的重要原因之一是其标准版搭载的 28mm 焦距 Summilux 镜头，由于大量智能手机默认采用接",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/767.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81dd-ab1c-ddb1f05532d8",
+      "title": "苏姿丰预估 2027 年 AMD 数据中心业务营收翻倍",
+      "summary": "IT之家 8 月 5 日消息，在 2026 财年（2026 财年 2025 年 12 月 28 日～2026 年 12 月 26 日）第二财季（2026 年 3 月 29 日～2026 年 6 月 27 日）电话会议上，AMD 首席执行官苏姿丰（Lisa Su）预估数据中心销售将在 2027 年翻倍。凭借 EPYC 处理器和 Instinct 加速器的强劲表现，AMD 第二季度营收 115 亿美元创新高，同比增长 50%；归母净利润为 22.97 亿美元（现汇率约合 155.41 亿元人民币），同比增长 163%。AMD 数据中心业务在第 2 季度迎来了质的飞跃。财报显示，该板块营收 67 亿",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/766.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8130-b32b-c3e693c4d99c",
+      "title": "日产推出电动露营车 Interstar-e Relax：续航 408 英里，可容 4 人居住",
+      "summary": "IT之家 8 月 5 日消息，日产与德国露营车公司 Eifelland 合作，推出了一款基于日产 Interstar-e 电动厢式车打造的露营版本，可供 4 人居住。从外观来看，该车依然像一辆普通的日产厢式车，但进入车内后却完全不同。凭借 87 千瓦时的电池组，这款车拥有足够的续航能力，能够满足露营使用需求，同时还能为车内各种设备提供电力，无需依赖外部电源。这款车型名为日产 Interstar-e Relax，看起来正如其名字一样，能够让乘客真正放松下来。首先来看电池。Interstar-e Relax 搭载的 87 kWh 电池组可提供 WLTP 标准下 408 英里（约 657 公里）的续",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/765.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81a9-86a9-c5412d8f812b",
+      "title": "台电推出 2026 款 P30T 平板：搭 10.1 英寸 800P 面板，展锐 T7250 + 3G + 128G 售 599 元",
+      "summary": "IT之家 8 月 5 日消息，台电现已在京东上架 2026 款 P30T 平板，该机定位入门市场，采用紫光展锐 T7250 + 3GB RAM + 128GB 存储空间，定价为 599 元。京东台电 2026 P30T 平板电脑 599 元直达链接该机使用金属机身，重量 440g，厚度 7.8mm，正面配备一块 10.1 英寸 1280x800 分辨率 120Hz IPS LCD 面板（亮度 300 尼特），背面配备 5Mp 主摄。该机搭载紫光展锐 T7250 处理器，匹配 3GB RAM 和 128GB 存储空间，内置 6000mAh 电池，同时提供 3.5mm 耳机孔、支持 MicroSD",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/764.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81c2-abd3-d0d3b39ca968",
+      "title": "提前 1 年：马斯克称 SpaceX 年收入有望 2030 年突破 1 万亿美元",
+      "summary": "IT之家 8 月 5 日消息，在 SpaceX 首次季度财报电话会议上，埃隆 · 马斯克（Elon Musk）预测 SpaceX 将提前到 2030 年实现年收入超 1 万亿美元（IT之家注：现汇率约合 6.77 万亿元人民币）目标。马斯克此前预估 SpaceX 公司将会在 2031 年实现年收入超 1 万亿美元（现汇率约合 6.77 万亿元人民币），而在最新财报电话会议上，马斯克表示这个目标有望提前到 2030 年实现，而且不排除提前到 2029 年的可能。延伸阅读这是 SpaceX 自 2026 年 6 月 12 日在纳斯达克上市以来发布的首份季度财报。SpaceX 以每股 135 美元（",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/762.htm"
+    },
+    {
+      "id": "3b303df8-2d23-811f-b3b2-eb8266cf2b56",
+      "title": "发售不到六个月，黑客破解《红色沙漠》Denuvo 加密保护",
+      "summary": "IT之家 8 月 5 日消息，黑客 voices38 宣布成功破解了《红色沙漠》的 Denuvo 加密保护，距离这款开放世界大作发售还不到六个月。IT之家注意到，此前已有团队通过“虚拟机管理程序”方法实现过绕过，不过这种方法需要关闭 Windows 的部分安全设置，从而带来一定风险。因此，玩家一直有人呼吁移除《红色沙漠》中的 DRM 保护。voices38 的这次破解采用的是更传统的离线方式，破解版本为 1.14.00，而游戏当前最新版本已是 1.16.02，这意味着破解工作至少准备了一周以上。voices38 还准备继续破解其他采用该保护方案的 AAA 游戏。尽管如此，这名黑客近期取得胜利的",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/761.htm"
+    },
+    {
+      "id": "3b303df8-2d23-818c-8073-eda00edc2e8b",
+      "title": "文石 Leaf5+ 电纸书“野风蓝”配色发售：7 英寸 Carta 1300 黑白墨水屏，1899 元",
+      "summary": "IT之家 8 月 5 日消息，文石 Leaf5+ 墨水屏电纸书新增的“野风蓝”配色目前已在京东发售，零售价 1,899 元，部分地区国补后低至 1,709 元。京东 BOOX 文石 Leaf5+ 野风蓝 1899 元直达链接Leaf5+ 整体厚度 4mm，重量 192g，正面配备一块 7 英寸 300 PPI Carta 1,300 黑白墨水屏面板（支持手写笔），外覆蚀刻钢化玻璃，配有实体翻页按钮。同时其采用了全新云光屏导光板，号称均匀性达 90%。色温范围覆盖 3000K-5500K。其他方面，该机搭载“高通八核处理器”，匹配 4GB LPDDR4X RAM 和 64GB 存储空间，搭载 2",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/760.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81c3-bad9-e96157d69002",
+      "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+      "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+      "source": "BBC Tech",
+      "publishTime": "2026-08-05",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3b303df8-2d23-812c-8d7f-e5842eed8cbd",
+      "title": "马斯克称 SpaceX 星舰第 14 次试飞将尝试回收高约 52 米的上面级",
+      "summary": "IT之家 8 月 5 日消息，科技媒体 Space 今天（8 月 5 日）发布博文，报道称在 SpaceX 首次季度财报电话会议上，埃隆 · 马斯克（Elon Musk）预告将于 8 月底执行星舰（Starship）第 14 次试飞，并尝试用塔架回收上面级（Upper Stage）。在财报电话会议上，马斯克表示：“我们今年将尝试回收星舰 V3 的第一级和第二级，可能在下一次飞行中实现”。该媒体还报道指出马斯克计划 8 月底前执行星舰第 14 次试飞，首次向轨道部署有效载荷，并尝试用塔架回收上面级。IT之家注：第一级（芯一级）：位于火箭最底部，承担起飞和初始加速任务。它需要提供巨大的推力来克服地",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/758.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81be-bbe2-ea27f024afe4",
+      "title": "谷歌 Pixel 11 手机官方营销素材流出：相机模组更纤薄、30 小时续航",
+      "summary": "IT之家 8 月 5 日消息，随着 8 月 13 日“Made by Google”发布会日益临近，关于谷歌新品的爆料也越来越密集。就在今天早些时候，Pixel Watch 5 的详细配置刚刚遭到曝光，随后又有一批涉及 Pixel 11 和 Pixel 11 Pro Fold 的新爆料流出。知名爆料人 evleaks 近期已经连续曝光了多项与谷歌新品相关的信息，而最新流出的内容似乎仍未结束。这一次曝光的是两款新机的宣传图片，看起来均为官方营销素材。第一组图片展示的是 Pixel 11，并透露了几项新的产品信息。宣传内容显示，谷歌强调 Pixel 11 采用了谷歌迄今最纤薄的横向相机模组（Cam",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/759.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81f9-9eaa-c8c5ab4bad81",
+      "title": "消息称内存涨价潮促使路由器制造商更新换代，加速推进 Wi-Fi 8 普及过程",
+      "summary": "IT之家 8 月 5 日消息，分析机构 Dell'Oro Group 表示，未来无线网络行业可能会更快转向 Wi-Fi 8，以绕过无线路由器内部元件成本不断上涨的问题（例如 DDR4 内存价格上涨带来的影响），这些供应链压力可能反而推动厂商更快采用 Wi-Fi 8 方案。虽然 Wi-Fi 8 目前尚未成为主流技术，市场仍主要由 Wi-Fi 7 设备占据，但 Dell'Oro Group 认为，随着时间进入 2027 年，Wi-Fi 8 的普及速度可能会明显加快。虽然无线路由器通常并不需要大量内存，但由于厂商需要批量采购大量组件进行生产，因此即使是容量较小的内存，也可能因为供应链压力导致制造成本",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/985/757.htm"
+    },
     {
       "id": "3b203df8-2d23-813d-b8ce-d346f4cb7c23",
       "title": "消息称微软 Win11 系统 XBOX 360 游戏模拟器将整合在 XBOX App 中，预计明后年上线",
@@ -128,278 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-05",
       "link": "https://www.ithome.com/0/985/744.htm"
-    },
-    {
-      "id": "3b203df8-2d23-814d-826f-f1f57f3b6611",
-      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-      "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
-      "source": "Wired",
-      "publishTime": "2026-08-05",
-      "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/"
-    },
-    {
-      "id": "3b203df8-2d23-8129-a05d-fe6de622db9f",
-      "title": "微软警告：有黑客组织在全球范围内攻击酒店公共 Wi-Fi，架设钓鱼界面试图窃取用户凭据",
-      "summary": "IT之家 8 月 5 日消息，微软近日发布安全警告称，黑客组织 Midnight Blizzard（APT29）旗下 Storm-2,945 正在全球范围内攻击酒店和会议场所的 Wi-Fi 网络，试图窃取旅客凭据并向其设备投放恶意木马。据微软分析，相应活动至少从 2026 年 5 月开始持续至今，此次攻击主要针对带有认证（Captive Portal）的酒店网络，此类网络通常要求用户连接 Wi-Fi 后，通过网页登录账号或接受使用条款，才能访问互联网。微软表示，黑客会攻击相应酒店的网络基础设施，篡改 DNS 和 HTTP 流量，将连接到受影响网络的设备重定向至黑客自行假设的钓鱼认证页面。除此之",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/742.htm"
-    },
-    {
-      "id": "3b203df8-2d23-8119-8f28-fb24e18b8d9d",
-      "title": "消息称苹果 iPhone 20 周年或迎设计革新：四曲面屏与更大尺寸",
-      "summary": "IT之家 8 月 5 日消息，明年将迎来 iPhone 发布 20 周年，而多方传闻显示，苹果正准备为 iPhone Pro 系列带来一次激进的设计革新。最新曝光的信息还透露，新一代机型的屏幕尺寸也有望进一步增大。2017 年，在 iPhone 发布 10 周年之际，苹果推出了具有里程碑意义的 iPhone X。如今，多方消息称，苹果计划在明年 iPhone 诞生 20 周年时，再次推出一款具有突破性设计的新机。据悉，下一代 iPhone Pro 系列将采用几乎无边框的四曲面显示屏，屏幕将向机身四周延伸，带来更具一体感的视觉效果。此外，灵动岛（Dynamic Island）的开孔尺寸还有望进一",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/743.htm"
-    },
-    {
-      "id": "3b203df8-2d23-815f-8365-da88d0e6b95a",
-      "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
-      "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
-      "source": "BBC Tech",
-      "publishTime": "2026-08-05",
-      "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3b203df8-2d23-81c5-a2b1-e011d1de6b62",
-      "title": "马斯克旗下 SpaceX 宣布携手英伟达开发 Starmind AI1 算力卫星，目标上天 100 万颗",
-      "summary": "IT之家 8 月 5 日消息，埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司今天（8 月 5 日）宣布携手英伟达公司，探索在地球之外部署 AI 算力，共同开发名为 Starmind AI1 的算力卫星。根据 SpaceX 公布的宏伟蓝图，该公司设想构建一个轨道网络，最终规模可达 100 万颗卫星，从而在太空打造一个分布式人工智能超级计算机。该项目如果能落地，将大幅扩展地球数据中心以外的计算能力，并依靠激光链路以极高的速度在卫星间传输数据。马斯克在 SpaceX 的 2026 年第 2 季度财报电话会议上表示：我们认为 Vera Rubin 架构是最好的架构。我们认为它是目前最好",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/741.htm"
-    },
-    {
-      "id": "3b203df8-2d23-818a-96e4-e4868035903c",
-      "title": "美国艺电 EA 正式完成 550 亿美元收购交易，沙特成最大股东",
-      "summary": "IT之家 8 月 5 日消息，美国艺电（EA）宣布已正式完成收购交易，这意味着沙特阿拉伯如今已成为该公司的最大股东。EA 于 2025 年 9 月确认，将接受一个私人投资者财团的收购，其中包括沙特阿拉伯主权财富基金 —— 沙特公共投资基金（PIF）。这笔交易对 EA 的估值约为 550 亿美元（IT之家注：现汇率约合 3,721.22 亿元人民币）。如今，EA 宣布交易已经完成，公司在上市 36 年后重新转为非上市企业，并由“沙特公共投资基金（PIF）、银湖资本（Silver Lake）以及 Affinity Partners 组成的投资者财团”全资持有。沙特公共投资基金（PIF）是沙特阿拉伯",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/740.htm"
-    },
-    {
-      "id": "3b203df8-2d23-81de-9f95-e7e8bef21a8a",
-      "title": "通用汽车正开发自研车载 AI 智能助手，有望整合汽车实时遥测数据",
-      "summary": "IT之家 8 月 5 日消息，据 CNBC 报道，通用汽车（General Motors，GM）负责语音、人工智能和机器学习产品管理的主管 Anna Santos 透露，公司正在开发一款全新的车载 AI 智能助手，并透露其能力将超过近期已经引入通用旗下车型的 Gemini AI。Anna Santos 表示，公司正与一家未公开名称的 AI 模型供应商合作开发相应技术，新版车载 AI 助手将结合“对话式 AI、通用汽车车辆知识以及 OnStar 智能服务”，能够“比 Gemini 更了解车辆状态、驾驶环境以及用户需求”，实现全车深度整合。作为参考，现阶段 Gemini 可以帮助用户调整空调、控制",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/739.htm"
-    },
-    {
-      "id": "3b203df8-2d23-8101-90e2-ea124f0aa429",
-      "title": "马斯克旗下 SpaceX 公布首份财报：2026Q2 营收 78 亿美元，同比增 92%；净亏损收窄至 5.41 亿美元",
-      "summary": "IT之家 8 月 5 日消息，马斯克旗下 SpaceX 公司昨日（8 月 4 日）公布其上市（6 月 12 日在纳斯达克交易所正式挂牌上市）后的首份财报数据。在 2026 年第 2 季度（截至 6 月 30 日）的最新财报中，SpaceX 公司营收为 78 亿美元（IT之家注：现汇率约合 527.74 亿元人民币），相比较去年同期（41 亿美元（现汇率约合 277.4 亿元人民币））增长 92%；而净亏损则从 10 亿美元（现汇率约合 67.66 亿元人民币）收窄至 5.41 亿美元（现汇率约合 36.6 亿元人民币）。根据财报数据，SpaceX 公司 3 大业务板块营收如下：太空类收入为 9",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/738.htm"
-    },
-    {
-      "id": "3b203df8-2d23-81e5-9b98-ea12c5793fc6",
-      "title": "苹果推送 AirPods 新测试版固件 9A5336b，支持 iOS 27 新功能",
-      "summary": "IT之家 8 月 5 日消息，苹果今天发布了面向 AirPods Pro 2、AirPods Pro 3、AirPods 4 和 AirPods Max 2 的第四个测试版固件，供开发者进行测试，版本号为 9A5336b。在 iOS 27、iPadOS 27 和 macOS Golden Gate 中，苹果为 AirPods 新增了多项功能，包括全新的 AirPods 设置界面、自适应模式（Adaptive Mode）调节滑块以及自定义 EQ（均衡器）支持，因此此次测试版固件也加入了对这些新功能的支持。此外，AirPods 还兼容新版 Siri AI。据IT之家了解，当 AirPods 连接运",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/737.htm"
-    },
-    {
-      "id": "3b203df8-2d23-8160-acc0-fa974a365fbe",
-      "title": "消息称苹果在美国向零售店员工开放抽签，招募 9 月 iPhone 发布会现场秩序维护人员",
-      "summary": "IT之家 8 月 5 日消息，据彭博社报道，苹果近日面向美国零售店员工开放了一项内部抽签活动，招募员工参与今年 9 月举行的 iPhone 发布会现场支持工作。这也将成为即将接任苹果 CEO 的约翰 · 特努斯（John Ternus）领导下的首次大型产品发布会。彭博社表示，目前其已查看到一份内部备忘录，显示苹果内部将此次计划称为“Event Support Experience Program”（活动支持体验计划），入选员工将负责现场秩序维护，包括组织排队、宾客签到以及协助安保团队等工作。备忘录中同时提到今年 9 月 iPhone 发布会将于上旬举行，但目前尚未公布具体日期。根据内部要求，曾",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/734.htm"
-    },
-    {
-      "id": "3b203df8-2d23-8158-a430-ee37352dd6e3",
-      "title": "Telegram CEO 杜罗夫：勒索分子设局，操纵苹果下架 Telegram",
-      "summary": "IT之家 8 月 5 日消息，Telegram 首席执行官帕维尔 · 杜罗夫（Pavel Durov）今日表示，导致 Telegram 一度被苹果 App Store 下架的原因，是一名“下架勒索者”（takedown extortionist）故意植入经过 AI 修改的儿童性虐待材料（CSAM），试图借此迫使苹果下架该应用。IT之家注意到，当地时间周一晚间，苹果在发现 Telegram 平台存在儿童性虐待材料后，将该应用从 App Store 下架约 40 分钟。随后，在 Telegram 删除相关内容后，苹果恢复了该应用的上架。杜罗夫表示，这名攻击者属于所谓的“下架勒索者”，即通过威胁举报",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/735.htm"
-    },
-    {
-      "id": "3b203df8-2d23-8134-bf00-efcb5781bf5e",
-      "title": "Cyclospora in salad: The diarrhea parasite outbreak has now sickened over 10,000 nationwide — see the hotspots",
-      "summary": "The CDC says the number of confirmed cyclosporiasis cases has topped 10,000. A US map shows the Midwest remains the hotspot for the diarrhea parasite.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/cyclosporiasis-outbreak-map-diarrhea-parasite-what-states-2026-7"
-    },
-    {
-      "id": "3b203df8-2d23-8151-800c-f82904ebd77e",
-      "title": "EA 为《战地 6》推出 1.4.1.5 更新：修复英伟达 RTX50 系显卡在游戏“大面积水域地图”中崩溃问题",
-      "summary": "IT之家 8 月 5 日消息，EA 现已为《战地 6》（Battlefield 6）推出 1.4.1.5 更新，修复了英伟达 RTX50 系显卡崩溃问题。IT之家注意到，在《战地 6》引入第四赛季更新后，就有玩家陆续报告在游戏“大面积水域地图”中出现显卡崩溃情况，问题多发于英伟达 RTX50 系显卡间，后续《战地》开发团队临时要求用户降级至英伟达 596.49 驱动版本。由于回滚驱动能够暂时解决问题，当时不少玩家认为问题可能源自英伟达显卡驱动本身。不过，从此次更新来看，实际情况并非如此，而是 EA 游戏端的问题，而这也解释了为什么自《战地 6》第四赛季推出以来，英伟达一直没有着手修复相应问题。",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/733.htm"
-    },
-    {
-      "id": "3b203df8-2d23-81ce-81ae-f185703b8c73",
-      "title": "See the $6 million Lockheed-funded helipad the White House is getting to protect its lawn from Marine One",
-      "summary": "President Donald Trump said the granite helipad will prevent the new fleet of Sikorsky Marine One helicopters from damaging the South Lawn.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/lockheed-funded-white-house-helipad-protects-lawn-marine-one-2026-7"
-    },
-    {
-      "id": "3b203df8-2d23-812e-8316-db532b7e04eb",
-      "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
-      "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/"
-    },
-    {
-      "id": "3b203df8-2d23-8166-8a95-f6f2b24cd5e7",
-      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-      "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/"
-    },
-    {
-      "id": "3b203df8-2d23-81a4-a19c-edc237ecedb9",
-      "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
-      "summary": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-05",
-      "link": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html"
-    },
-    {
-      "id": "3b203df8-2d23-8132-a496-c6fb6f1ae943",
-      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-      "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "3b203df8-2d23-814f-89cb-ca3e26761f7b",
-      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-      "source": "Wired",
-      "publishTime": "2026-08-05",
-      "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/"
-    },
-    {
-      "id": "3b203df8-2d23-816c-b107-fa147330e31a",
-      "title": "Now you can securely link multiple phones to one Signal account",
-      "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also ",
-      "source": "The Verge",
-      "publishTime": "2026-08-05",
-      "link": "https://www.theverge.com/tech/975407/signal-linked-devices-sync"
-    },
-    {
-      "id": "3b203df8-2d23-8199-82e2-e1aebb2b0d97",
-      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-      "summary": "Elon Musk's company has struggled to maintain investor enthusiasm that greeted its stock market debut.",
-      "source": "BBC Tech",
-      "publishTime": "2026-08-05",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3b203df8-2d23-8134-91ad-d2bf645d9668",
-      "title": "Pinterest shares fall on lukewarm sales guidance",
-      "summary": "Pinterest reported better-than-expected earnings and revenue for the second quarter, though its forecast was online in line with estimates.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-05",
-      "link": "https://www.cnbc.com/2026/08/04/pinterest-pins-q2-earnings-report-2026.html"
-    },
-    {
-      "id": "3b203df8-2d23-8147-aa21-cd6e3fee5ac2",
-      "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down",
-      "summary": "AMD's Data Center unit is driving the company's growth, up 107% over last year.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-05",
-      "link": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html"
-    },
-    {
-      "id": "3b203df8-2d23-8103-856f-d4049eec49b7",
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
-    },
-    {
-      "id": "3b203df8-2d23-81b7-9520-d452930a7096",
-      "title": "AMD&#8217;s datacenter business is booming while gaming takes a backseat",
-      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the same time, AMD's gami",
-      "source": "The Verge",
-      "publishTime": "2026-08-05",
-      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen"
-    },
-    {
-      "id": "3b203df8-2d23-81eb-b69e-d4288c9901a8",
-      "title": "SpaceX has more neocloud revenue",
-      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source ",
-      "source": "The Verge",
-      "publishTime": "2026-08-05",
-      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud"
-    },
-    {
-      "id": "3b203df8-2d23-81b1-a12d-dc6c5aa4e4f0",
-      "title": "OpenAI reaches $3.2 million settlement with DOJ over claims it discriminated against US workers",
-      "summary": "OpenAI disputes the Justice Department's view, but said it wanted to move forward with a program to support employees \"requiring immigration support.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/openai-doj-settlement-hiring-us-workers-perm-program-visas-2026-8"
-    },
-    {
-      "id": "3b203df8-2d23-8154-afd7-c6b25ccdf47d",
-      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/"
-    },
-    {
-      "id": "3b203df8-2d23-815e-98e8-c4720336fe4d",
-      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
-      "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/"
-    },
-    {
-      "id": "3b203df8-2d23-81ec-b336-d8386941fc4d",
-      "title": "Lime is doubling down on cities where it already operates. It's about creating more loyal riders, its CEO says",
-      "summary": "Lime CEO Wayne Ting focuses on adding scooters and bicycles in US cities to enhance reliability and rider engagement after company's IPO.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/lime-boosts-scooter-availability-existing-cities-ai-resiliant-2026-8"
-    },
-    {
-      "id": "3b203df8-2d23-8198-a8f9-e7d0eb8ae9f4",
-      "title": "AMD 2026 财年第二财季归母净利润 22.97 亿美元，同比增长 163%",
-      "summary": "IT之家 8 月 5 日消息，AMD今日发布 2026 财年（2026 财年 2025 年 12 月 28 日～2026 年 12 月 26 日）第二财季（2026 年 3 月 29 日～2026 年 6 月 27 日）报告： 营业总收入：115.36 亿美元（IT之家注：现汇率约合 780.51 亿元人民币），同比增长 50% 毛利润：62.03 亿美元（现汇率约合 419.69 亿元人民币），同比增长 103% 毛利率：54% 归母净利润：22.97 亿美元（现汇率约合 155.41 亿元人民币），同比增长 163% 经营现金流：23.66 亿美元（现汇率约合 160.08 亿元人民币），",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/732.htm"
-    },
-    {
-      "id": "3b203df8-2d23-8125-8012-c08a4d159dcb",
-      "title": "EA is now a private company",
-      "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully",
-      "source": "The Verge",
-      "publishTime": "2026-08-05",
-      "link": "https://www.theverge.com/games/974736/ea-private-company-deal-closed"
-    },
-    {
-      "id": "3b203df8-2d23-8158-9c25-fa0337efc7f9",
-      "title": "Lucid 2026 财年半年报归母亏损 23.94 亿美元，同比亏损扩大 62.79%",
-      "summary": "IT之家 8 月 5 日消息，Lucid今日发布 2026 财年（2026年 1月 1日～2026年 6月 30日）半年报（2026年 1月 1日～2026年 6月 30日）及第二财季（2026年 4月 1日～2026年 6月 30日）报告： 2026 财年半年报 营业总收入：6.88 亿美元（IT之家注：现汇率约合 46.54 亿元人民币），同比下降 100% 归母净利润：-23.94 亿美元（现汇率约合 -161.95 亿元人民币），同比亏损扩大 62.79% 经营现金流：-24.08 亿美元（现汇率约合 -162.91 亿元人民币），同比亏损扩大 91.28% 自由现金流：-29.15 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/985/731.htm"
-    },
-    {
-      "id": "3b203df8-2d23-818e-8ae2-e5328a1b1fd5",
-      "title": "David Ellison's Paramount would owe more than $1 billion to WBD shareholders based on the March trial date a judge set",
-      "summary": "Paramount Skydance's financial backers may soon owe billions of dollars to WBD shareholders after a judge ruled that its trial will start next March.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/david-ellison-paramount-ticking-fee-wbd-shareholders-march-trial-date-2026-8"
     }
   ],
   "macroEvents": [
