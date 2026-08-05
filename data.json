@@ -1,6 +1,310 @@
 {
-  "updatedAt": "2026-08-05 23:36",
+  "updatedAt": "2026-08-06 02:01",
   "news": [
+    {
+      "id": "3b303df8-2d23-8163-92a1-db49162a521e",
+      "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+      "summary": "Google's AI divisions are getting reshuffled, the search giant announced on Wednesday.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-06",
+      "link": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html"
+    },
+    {
+      "id": "3b303df8-2d23-81f8-9c98-e6ed4b13e02a",
+      "title": "I spent 16 hours on a round-trip Amtrak ride. Here are 7 mistakes I won't make again.",
+      "summary": "On a round-trip Amtrak ride from New York City to Rochester, I regretted sitting in business class and arriving too early.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-06",
+      "link": "https://www.businessinsider.com/amtrak-travel-mistakes-new-york-train-trip-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-81bd-9be1-d1ff768d94c7",
+      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
+      "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/"
+    },
+    {
+      "id": "3b303df8-2d23-81e3-974c-ebbed62e2616",
+      "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+      "summary": "Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for $599 (usually $699 new), and the upgraded version with 512GB of storage a",
+      "source": "The Verge",
+      "publishTime": "2026-08-06",
+      "link": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale"
+    },
+    {
+      "id": "3b303df8-2d23-818d-b6b7-e2140ca94029",
+      "title": "Nominations for Business Insider's Rising Stars of Wall Street list are now open",
+      "summary": "Nominations are now open for Business Insider's 2026 Rising Stars of Wall Street list. Tell us about young finance hotshots we should know.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-06",
+      "link": "https://www.businessinsider.com/rising-stars-of-wall-street-nominations-2026"
+    },
+    {
+      "id": "3b303df8-2d23-8115-be06-c5c8412a10cd",
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects ",
+      "source": "The Verge",
+      "publishTime": "2026-08-06",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo"
+    },
+    {
+      "id": "3b303df8-2d23-812a-bf9c-c2b68a18adcb",
+      "title": "PSA: Apple’s Private Relay can leak your real IP address",
+      "summary": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/"
+    },
+    {
+      "id": "3b303df8-2d23-8160-b2f9-e2b484b6eba2",
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomo",
+      "source": "The Verge",
+      "publishTime": "2026-08-06",
+      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup"
+    },
+    {
+      "id": "3b303df8-2d23-819c-bd91-c935f4b6fedc",
+      "title": "Amazon's Zoox to launch paid robotaxi service in Las Vegas on Aug. 10",
+      "summary": "It's the company's first commercial market after Zoox started offering free rides to the public in parts of Las Vegas and San Francisco less than a year ago.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-06",
+      "link": "https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html"
+    },
+    {
+      "id": "3b303df8-2d23-8199-ab5c-e955ae87f1b0",
+      "title": "McDonald's is rethinking its value menu. We want your take.",
+      "summary": "McDonald highlighted challenges with its value menu, impacting sales and prompting reassessment. We want your take on the fast food chain.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-06",
+      "link": "https://www.businessinsider.com/mcdonalds-rethinks-value-menu-amid-sales-growth-slowdown-survey-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-8127-96c3-d4f8d63927d3",
+      "title": "The 40 richest families in America, ranked",
+      "summary": "The richest families in America have reached billion-dollar fortunes in different ways — from publishing and cosmetics to retail and hotels.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-06",
+      "link": "https://www.businessinsider.com/richest-families-in-america-ranked"
+    },
+    {
+      "id": "3b303df8-2d23-817d-b489-d7a334d6b5e2",
+      "title": "SpaceX is barely Space and mostly X",
+      "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to S",
+      "source": "The Verge",
+      "publishTime": "2026-08-06",
+      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space"
+    },
+    {
+      "id": "3b303df8-2d23-81ee-8329-cd84f294dc6a",
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+      "source": "Wired",
+      "publishTime": "2026-08-06",
+      "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
+    },
+    {
+      "id": "3b303df8-2d23-81f6-b2db-fe369dc5a394",
+      "title": "I'm a dietitian who loves Aldi. I rely on these 11 staples to feed my family of 4 on a budget.",
+      "summary": "As a dietitian shopping at Aldi, I buy nutrient-packed, affordable foods like frozen berries, canned fish, and Greek yogurt for my family of four.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-06",
+      "link": "https://www.businessinsider.com/best-aldi-groceries-save-money-dietitian-recommendations-family-list-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-811f-8f54-f9fad5ff0d0b",
+      "title": "Google shakes up AI leadership. Demis Hassabis steps down as CEO of DeepMind, and Jeff Dean leaves.",
+      "summary": "Some of Google's top AI leaders are leaving their roles, with DeepMind CEO Demis Hassabis taking another role at Alphabet and Jeff Dean leaving.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-06",
+      "link": "https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-81d0-96b9-f7aad3f747c3",
+      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+      "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
+      "source": "Wired",
+      "publishTime": "2026-08-06",
+      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/"
+    },
+    {
+      "id": "3b303df8-2d23-8194-940f-fca32152bd7e",
+      "title": "Reddit is introducing a new moderator: AI",
+      "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The compan",
+      "source": "The Verge",
+      "publishTime": "2026-08-06",
+      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform"
+    },
+    {
+      "id": "3b303df8-2d23-8144-8318-e80bffb897a4",
+      "title": "RTX 5090 显卡涨价后华硕拒按原价发货：英伟达官方商城直接砍单，重购需多花 553 美元",
+      "summary": "IT之家 8 月 5 日消息，Reddit 一名用户发帖称，他 7 月 31 日在英伟达官方商城购买了一张华硕 ROG 夜神 Astral GeForce RTX 5090 BTF 显卡，但付款后因价格调整而被取消订单，再打开的时候发现价格已经上涨 553 美元（现汇率约合 3,740 元人民币）。用户 @IndependentOk1031 在 Reddit 华硕社区分享的信息显示，其下单时该显卡价格为 4,429 美元（现汇率约合 29,953 元人民币），实际含税价格 4,607 美元（现汇率约合 31,157 元人民币）。订单提交后，华硕立马调整了该型号的售价，随后 NVIDIA 客服确",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/986/259.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8146-8387-dc377486a2e2",
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-05",
+      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+    },
+    {
+      "id": "3b303df8-2d23-8176-9799-c98aafecd7b7",
+      "title": "I've been a Costco member for 15 years. Here are 7 items I always buy for my household of 2.",
+      "summary": "As a longtime Costco member, I think the Kirkland Signature Greek yogurt and stir-fry vegetable blend are some of the best things to buy for two people.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-05",
+      "link": "https://www.businessinsider.com/costco-best-things-to-buy-for-two-people-longtime-shopper-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-8161-a358-ce588a2607a6",
+      "title": "SpaceX gives Nvidia a much-needed boost. Plus, Cramer on an 'undervalued' stock",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-05",
+      "link": "https://www.cnbc.com/2026/08/05/spacex-gives-nvidia-a-much-needed-boost-cramers-undervalued-stock-.html"
+    },
+    {
+      "id": "3b303df8-2d23-8106-a21f-fb9f4e10f141",
+      "title": "Hark previews its browser use agent for completing tasks",
+      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-05",
+      "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
+    },
+    {
+      "id": "3b303df8-2d23-818a-a8e0-db17d6d08697",
+      "title": "上行 500Mbps、下行 3Gbps：上海电信 5G-A 场景包试点落地",
+      "summary": "IT之家 8 月 5 日消息，8 月 2 日，时代少年团“加冠礼”巡演上海收官站登陆上海体育场。上海电信宣布启动 5G-A 大上行场景包 500Mbps 试点（下行速率 3Gbps）。用户可通过上海电信小程序、公众号等线上渠道预约体验该场景套餐。上海电信表示，依托 5G-A 三载波协同组网方案，场馆网络容量大幅升级，用户订购专属场景日包后，上行峰值可达 500Mbps，手机状态栏还会亮出“中国电信演唱会 VIP”专属标识。即便全场 6 万人同时拍照、发视频、打视频电话，也能流畅分享高光时刻。IT之家此前报道，上海电信在今年 3 月与华为在巴塞罗那世界移动通信大会期间启动 5G-A×AI 大上行",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/986/258.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8181-bde1-fafd5322d990",
+      "title": "Kids Online Safety Act social media safety bill advances in Senate",
+      "summary": "The Kids Online Safety Act, a measure aimed at protecting children on social media, advanced to the Senate floor after it stalled in the last Congress.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-05",
+      "link": "https://www.cnbc.com/2026/08/05/kosa-privacy-social-media-senate.html"
+    },
+    {
+      "id": "3b303df8-2d23-8167-9797-d15bb47b3dcd",
+      "title": "After sailing on over 55 cruises, there are 6 things I never waste my money on when I'm at sea",
+      "summary": "As a frequent cruiser, you won't find me paying extra for things like unlimited drink packages, spa services, and laundry, which are a waste of money.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-05",
+      "link": "https://www.businessinsider.com/cruises-what-not-pay-extra-for-waste-money-frequent-traveler-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-8144-858d-f575a0771fe4",
+      "title": "A complete timeline of Tom Holland and Zendaya's 10-year relationship",
+      "summary": "Tom Holland and Zendaya, who play Peter and MJ in the Marvel Cinematic Universe, denied romance rumors for years. Now, they're married.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-05",
+      "link": "https://www.businessinsider.com/tom-holland-zendaya-relationship-timeline-photos"
+    },
+    {
+      "id": "3b303df8-2d23-81b2-906d-e047e5a4031c",
+      "title": "微软《战争机器：事变日》Beta 测试前临时追加 PvP 模式，推荐配置 i5-11600K + RTX 4060",
+      "summary": "IT之家 8 月 5 日消息，微软 Xbox《战争机器：事变日》公开 Beta 测试将于 8 月 6 日开启，The Coalition 工作室在最后时刻调整了首周测试的内容，新加入了 4v4 的 PvP 对战模式。此次 Beta 测试的第一个周末为抢先体验阶段，面向已预购游戏（Xbox Series X|S 或 Steam）的玩家以及 Game Pass Ultimate 和 PC Game Pass 订阅用户开放。该阶段原定仅包含全新的 12 人 PvE 模式“持久战围攻”（Horde Siege），但 The Coalition 在收到玩家反馈后决定将 4v4 竞技对战（Versus）模",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/986/257.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81f5-99fc-fb9141b8cac2",
+      "title": "MAGA Is In Turmoil Over Tucker Carlson’s Possible 2028 Presidential Bid",
+      "summary": "Joe Kent says that he and other anti–Donald Trump MAGA figures have formed a new movement. They want Tucker Carlson to run for the presidency in 2028.",
+      "source": "Wired",
+      "publishTime": "2026-08-05",
+      "link": "https://www.wired.com/story/maga-is-in-turmoil-over-tucker-carlsons-possible-2028-presidential-bid/"
+    },
+    {
+      "id": "3b303df8-2d23-81fe-a5ae-c8cc77337373",
+      "title": "阿里巴巴 2026 云栖大会定档 9 月 22 日至 24 日在杭州举行",
+      "summary": "IT之家 8 月 5 日消息，阿里官方今日宣布，2026 云栖大会将于 9 月 22 日至 24 日在杭州举行。本届大会主题为“智以致用”（Intelligence Goes Beyond），将以 Agentic AI 为核心，串联芯片、云基础设施、模型能力与模型服务、Agentic 应用的完整技术链路。此次大会将设置三大主论坛。其中，“云栖主论坛”将聚焦重磅技术发布与产业标杆实践；“技术主论坛”展示全栈技术体系；“‘为了无法计算的价值’主论坛”则探讨 AI 的社会价值与绿色共生。届时将有超过 2000 位全球领袖和行业专家参与分享。据介绍，本届云栖大会的展览规模进一步扩大，展区面积超过 5 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/986/256.htm"
+    },
+    {
+      "id": "3b303df8-2d23-810a-97fc-f3cc8692250e",
+      "title": "消息称沃尔沃将推出纯电紧凑 SUV 新车 EX50：比 EX40 更大、更有科技感、更便宜",
+      "summary": "IT之家 8 月 5 日消息，外媒 Automotive News 当地时间 3 日报道称，沃尔沃正准备在美国推出全新紧凑型纯电 SUV EX50。新车的车身长度和高度都将超过 EX40，价格却会进一步下探，接替 EX40 成为沃尔沃最便宜的纯电车型。消息称 EX50 计划于 2027 年秋季进入美国市场，起售价预计接近 5 万美元（IT之家注：现汇率约合 33.8 万元人民币），明显低于 EX40 约 5.5 万美元（现汇率约合 37.2 万元人民币）的价格。沃尔沃 EX40EX50 将进入特斯拉 Model Y、现代 IONIQ 5 和福特电马所在的主流紧凑型纯电 SUV 市场，上市时间要",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/986/255.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81c8-9b04-ded30a62815b",
+      "title": "KTC 推出 27 英寸 2K 220Hz 棱镜 Q27 显示器，887 元",
+      "summary": "IT之家 8 月 5 日消息，KTC 新推出了一款 27 英寸的 2K 220Hz 电竞显示器，名为棱镜 Q27，京东显示为 887 元，叠加国补后 798.3 元。京东 KTC 27 英寸 2K 220Hz 高刷 FastIPS 液晶屏 HDR400 硬件低蓝光三角洲电竞游戏电脑显示器棱镜 Q27798.3 元直达链接这款显示器采用 27 英寸 Fast IPS 面板，拥有 2560×1440 2K 分辨率、原生 200Hz 刷新率，支持 OC 超频解锁 220Hz 模式；同时支持 DAC 动态模式，拥有 0.5ms 极速响应时间。色彩方面，这款显示器每台出厂前经过专业级色彩校准，覆盖 99",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/986/254.htm"
+    },
+    {
+      "id": "3b303df8-2d23-81e7-bf6d-eae5ad01fa1d",
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems.",
+      "source": "The Verge",
+      "publishTime": "2026-08-05",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking"
+    },
+    {
+      "id": "3b303df8-2d23-8199-bb57-d2c84394b26b",
+      "title": "NearLink E2.0：华为 nova 16 SE 手机确认支持星闪音频功能",
+      "summary": "IT之家 8 月 5 日消息，在今天下午的尊界时代旗舰 MPV 及华为全场景新品发布会上，华为 nova16 SE 手机正式发布，搭载麒麟 8020 芯片 + 8500mAh 电池，定价 2499 元起，将于 8 月 12 日正式开售。128GB：售价 2499 元256GB：售价 2699 元512GB：售价 3199 元IT之家从华为官网获悉，该机虽然尾缀是 SE，但依旧支持星闪 NearLink E2.0 规格，这意味着该机能够实现星闪音频功能。根据华为官方描述，星闪音频物理层传输速率可达 16Mbps，带宽能力超传统技术，充足的通道容量能够承载 48kHz/24bit Hi-Fi 音频",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/986/253.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8119-bdc1-db19a45ec378",
+      "title": "Hedge fund manager Gavin Baker says investors have been too quick to judge Big Tech's AI spending",
+      "summary": "Gavin Baker, managing partner of Atreides Management, says Big Tech's huge AI infrastructure spending is beginning to pay off.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-05",
+      "link": "https://www.businessinsider.com/gavin-baker-big-tech-ai-capex-spending-investing-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-810a-bb4e-e99bc96273ba",
+      "title": "Uber keeps AI spending stable using cheaper models and employees tracking cost, CFO says",
+      "summary": "Uber uses AI for small operational changes, keeping AI spending stable while enhancing app features and efficiency, CEO Dara Khosrowshahi reports.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-05",
+      "link": "https://www.businessinsider.com/uber-ai-cost-stable-cheaper-models-operational-efficiency-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-8117-b807-f6993bcb8874",
+      "title": "Cloudflare 宣布推出开源“Cloudflare OS”：面向 AI 智能体和企业工作的开放平台",
+      "summary": "IT之家 8 月 5 日消息，Cloudflare 今日宣布开源名为“Cloudflare OS”的 AI 平台项目，定位为面向智能体（Agents）、应用程序以及企业工作流程的开放平台。不过，该项目并不是传统意义上的操作系统，而是一套用于组织内部 AI 协作和任务执行的基础平台。Cloudflare 表示，Cloudflare OS 目前已经在公司内部使用。该平台从浏览器中的对话交互开始，与常见 AI 工具类似，但不同之处在于，每次对话都会基于企业自行整理的知识、技能和工作环境展开。根据 Cloudflare 介绍，用户可以为工作空间设定目标，平台能够调用组织已有的数据、工具以及知识资源完成",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/986/252.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8112-ac44-f9768d57c760",
+      "title": "试试 65°C 热风吹过的被窝：友望除螨仪 649 → 136 元新低，约 15500Pa 大吸力",
+      "summary": "需 88VIP友望 CM2307 小香风尊享版双杯除螨仪定价 649 元，今日叠加国补 + 淘金币补贴后，仅需 385 元。部分小伙伴会自动弹出 62 元立减（系统判定），叠加淘金币后仅需 315 元。联系客服返 179 元（需咨询客服确认后再下单），折合仅需 136 元即可入手。点击下方卡片 → 下滑到宝贝详情页 → 点击“淘金币大额抵扣”横幅 → 下单即可：天猫 UWANT 友望除螨仪 CM2307 尊享版淘金币抵扣后 315 元起直达链接小米有品升级版新款秒杀价 499 元（点此查看），新款比本次大促的老款吸力增大了一下，而老款仅需 189 元，真真划算。真空吸力：15500Pa（尊享版",
+      "source": "IT之家",
+      "publishTime": "2026-08-05",
+      "link": "https://www.ithome.com/0/986/251.htm"
+    },
+    {
+      "id": "3b303df8-2d23-8158-9834-eaddf53d9bdc",
+      "title": "Zoox to start charging for robotaxi rides in Las Vegas",
+      "summary": "This marks the official launch of Zoox's commercial operations.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-05",
+      "link": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/"
+    },
     {
       "id": "3b303df8-2d23-81a7-9760-c559ccb46cfa",
       "title": "Zoox to start charging for robotaxi rides in Las Vegas",
@@ -96,310 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-08-05",
       "link": "https://www.businessinsider.com/disney-exploring-free-streaming-confirmed-ceo-josh-damaro-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-8154-a0dc-ebcbdc70d7ca",
-      "title": "理想 i6 第 17 万辆量产车下线",
-      "summary": "IT之家 8 月 5 日消息，理想汽车员工周若愚今日宣布，理想 i6 第 17 万辆量产车下线。周若愚表示，7 月中下旬，受前大灯供应短暂波动影响，理想 i6 产量较原计划减少约 4000 辆，不过产能慢慢又回来了。IT之家注意到，理想 i6 第 16 万台量产车于 7 月 21 日下线，到 17 万台量产车下线用时半个月。理想 i6 纯电 SUV 于 2025 年 9 月 26 日发布，官方指导价 24.98 万元起。理想 i6 长宽高分别为 4950/1935mm/1655mm，轴距为 3000mm。理想 i6 搭载全新 5C 磷酸铁锂电池，支持 5C 超级充电、超级放电，最大峰值功率 ＞",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/243.htm"
-    },
-    {
-      "id": "3b303df8-2d23-81aa-938d-d67ac539e2a6",
-      "title": "I pitched Tinder the job I wanted to do — and ended up getting hired full-time",
-      "summary": "Ryan Stewart said he made an effort throughout his internship to work with different teams and fill the gaps he saw.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/tinder-intern-pitched-job-hired-fulltime-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-812a-bf22-c943878cf4c5",
-      "title": "They went to Epstein Island. Now they're being sued.",
-      "summary": "Videos across YouTube have popped up showing influencers and conspiracy theorists sneaking onto the island once owned by sex offender Jeffrey Epstein.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/what-happens-if-you-go-to-epstein-island-now-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-81d4-b72c-e6c12dccfae7",
-      "title": "I live in a 97-square-foot micro-apartment in Paris. Tiny living comes with pros and cons that I didn't expect.",
-      "summary": "There are surprising benefits and downsides to living in a small micro-apartment. I like the coziness and low rent, but I wish I could host guests.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/live-in-micro-apartment-tiny-living-benefits-downsides-surprises-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-818b-908d-f83957a30aa4",
-      "title": "8 working parents share how they use AI to give them more time with their kids",
-      "summary": "Working parents say AI platforms like ChatGPT and Claude help them manage schedules, freeing them up to spend more time with their kids.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/working-parents-use-ai-chatgpt-claude-family-kids-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-81de-bc46-df3e43741531",
-      "title": "Sunbird relaunched its iMessage app for Android users after three years away",
-      "summary": "Sunbird Messaging is back on the Google Play Store, offering Android users blue bubble privileges in iMessage complete with reactions and high quality videos for $2.99 a month. Apple and Google have made cross platform messaging better in recent years with support for RCS, but Android users can stil",
-      "source": "The Verge",
-      "publishTime": "2026-08-05",
-      "link": "https://www.theverge.com/tech/975563/imessage-android-sunbird"
-    },
-    {
-      "id": "3b303df8-2d23-8157-9010-cb6b71654b3d",
-      "title": "Anthropic is hiring an AI chip design team",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
-    },
-    {
-      "id": "3b303df8-2d23-8108-97fa-dc6e195f945d",
-      "title": "Ring upgraded its peephole doorbell camera to 2K",
-      "summary": "Ring has debuted a new version of its smart doorbell camera that's designed to be easily installed as a replacement for a door's peephole without drilling or running wires. The Peephole Cam 2K is a replacement for the brand's Door View Cam that first debuted in 2019 and, alongside a sleeker design, ",
-      "source": "The Verge",
-      "publishTime": "2026-08-05",
-      "link": "https://www.theverge.com/tech/975538/amazon-ring-peephole-cam-2k-smart-doorbell-preorder-easy-install"
-    },
-    {
-      "id": "3b303df8-2d23-813c-9152-ec484438feac",
-      "title": "Traveling this summer? Don’t go without these essential gadgets",
-      "summary": "There's a chance that you've already taken your big summer trip. If not, August and early autumn are wonderful times to travel. No matter when or where you go, there are some products that can make the boring parts of your trip more fun, and the fun parts of your trip even better. We picked […]",
-      "source": "The Verge",
-      "publishTime": "2026-08-05",
-      "link": "https://www.theverge.com/gadgets/974436/summer-travel-tech-gadget-gift-guide"
-    },
-    {
-      "id": "3b303df8-2d23-8193-b6fd-d64217b96cb4",
-      "title": "SpaceX 价值 1010 亿美元限售股解禁在即，股价或面临新一轮冲击",
-      "summary": "IT之家 8 月 5 日消息，据彭博社 5 日（今天）报道，马斯克旗下火箭、卫星和 AI 公司 SpaceX 股价跌破发行价后，仍未离场的投资者即将面临新一轮考验。价值 1,010 亿美元（IT之家注：现汇率约合 6,830.56 亿元人民币）的限售股将于当地时间周四解禁，庞大的新增供应可能再次冲击股价。上市公司在 IPO 后解除内部人士股份限售并不罕见，但 SpaceX 的安排没有先例可循。公司把限售股分成九个阶段释放，希望减轻大量股票集中进入市场的冲击，然而首轮解禁规模依然惊人，就连投资多年的老股东也不敢预测市场反应。2018 年便开始投资 SpaceX 的柏基投资私营企业团队主管彼得 ·",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/241.htm"
-    },
-    {
-      "id": "3b303df8-2d23-81c4-b5f4-d3ced290ebfc",
-      "title": "Disney CEO Josh D'Amaro outlines his vision for Disney+ and AI in a new staff memo after a strong quarter",
-      "summary": "Disney CEO Josh D'Amaro said the company's strong quarter \"reflects the strength of our businesses\" and \"the extraordinary work you do every day.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/disney-ceo-josh-damaro-read-the-memo-employees-strong-quarter-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-81f5-bed5-fb9568c0d6bd",
-      "title": "Ukraine says Western interceptor supply has dropped threefold this year, leaving it unable to stop Russian missiles",
-      "summary": "Ukraine didn't stop any of the Russian missiles launched in the latest attack, an increasingly common outcome for Kyiv.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/ukraine-western-missile-interceptor-supply-dropped-threefold-this-year-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-81ba-aa88-fb7888201296",
-      "title": "Disney says it&#8217;s &#8216;exploring&#8217; adding a free tier to Disney Plus",
-      "summary": "Disney is looking into launching a free streaming option. When asked about Disney's plans for free, ad-supported streaming during an earnings call on Wednesday, Disney CEO Josh D'Amaro confirmed the company is \"exploring a free product for consumers.\" D'Amaro added that a free tier will help drive g",
-      "source": "The Verge",
-      "publishTime": "2026-08-05",
-      "link": "https://www.theverge.com/streaming/975543/disney-plus-free-tier-q3-2026-earnings"
-    },
-    {
-      "id": "3b303df8-2d23-810a-91e6-dbe5f439ea35",
-      "title": "中国联通：智算规模达 45EFLOPS，今年算力相关投资将超 175 亿元",
-      "summary": "IT之家 8 月 5 日消息，中国联通今日宣布，截至目前，中国联通标准机架规模超过 110 万架，建成 7 个百兆瓦级 AIDC 园区，智算规模达到 45EFLOPS（IT之家注：1EFLOPS 表示每秒可执行一百亿亿次（10^18）浮点运算）。中国联通表示，明确 2026 年全年资本开支 500 亿元，其中算力相关投资超 175 亿元，占总投资 35%。据介绍，中国联通围绕“东数西算”战略部署的京津冀、长三角、粤港澳大湾区、成渝、内蒙古、贵州、甘肃、宁夏等八大国家算力枢纽节点，完成了资源布局的全覆盖，深度参与国家规划的 10 个数据中心集群建设。在算力平台层面，中国联通打造了以“联通云 AI",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/235.htm"
-    },
-    {
-      "id": "3b303df8-2d23-81ca-b94d-f61c5d70f290",
-      "title": "Elon Musk's 5 most noteworthy comments during SpaceX's first earnings call",
-      "summary": "Elon Musk said that SpaceX engineers building data centers was like the New York Yankees playing a Little League team.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/elon-musk-spacex-earnings-call-ai-data-centers-starlink-revenue-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-81a2-a1a6-ef9cd34c1262",
-      "title": "CrowdStrike 推出国际 AI 安全挑战赛：“策反”智能体，总奖金 10 万美元",
-      "summary": "IT之家 8 月 5 日消息，网络安全公司 CrowdStrike 今天（5 日）宣布携手亚马逊云科技（AWS），推出总奖金 10 万美元（IT之家注：现汇率约合 67.6 万元人民币）的国际 AI 安全挑战赛《AI Unlocked：Agents of Chaos》。玩家将在这场线上游戏中运用提示词注入等技术，设法控制被虚构敌手武器化的 AI 智能体，并在攻击发生前阻止其行动。通过亲自应对各种任务，玩家将了解企业环境中的智能体可能如何遭到利用，以及应当如何保护智能体安全。CrowdStrike 首席营销官珍妮弗 · 约翰逊表示：“提示词注入、智能体劫持和失控 AI 行为已经成为现实威胁。智能",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/234.htm"
-    },
-    {
-      "id": "3b303df8-2d23-81b1-8aab-d6b1d27e5ee8",
-      "title": "消息称阶跃星辰内部确立大模型与智能体终端两条战略线，手机业务独立运营、将进入海外市场",
-      "summary": "IT之家 8 月 5 日消息，据虎嗅消息，阶跃星辰内部正在按照两条战略线推进：一条仍以大模型为核心，另一条则以智能体终端为核心，目前手机只是初步探索。其中，以大模型为核心的业务仍以上海阶跃星辰智能科技股份有限公司这一原有主体运营；手机业务则被放入一家新公司独立运营。据悉，阶跃正在搭建海外商业化团队，计划向海外销售大模型 API，其中将以语音模型为主。按照目前的规划，阶跃的大模型和手机都将进入海外市场：模型为手机提供差异化能力，手机则成为模型直接触达用户的产品载体，两条业务线相互促进。据IT之家此前报道，7 月 13 日，阶跃星辰发布终端品牌 STEPX，旗下首款智能体手机 STEPX Neo ",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/233.htm"
-    },
-    {
-      "id": "3b303df8-2d23-815f-b736-cbac56154912",
-      "title": "《怪物猎人：荒野》任天堂 Switch 2 版被曝支持动态分辨率：底座模式 1440p，掌机模式 864p",
-      "summary": "IT之家 8 月 5 日消息，Reddit 社区 Monster Hunter Leaks 上今日有用户发现，卡普空《怪物猎人：荒野》Nintendo Switch 2 版本可能支持最高 1440p 动态分辨率以及 40 FPS 的帧率表现，或将成为测试 Switch 2 硬件性能的重要作品。此前，卡普空已经通过《街头霸王 6》Switch 2 版展示了其优化能力，表明其 3A 游戏在性能受限的便携式硬件上仍能够实现较好的运行效果，而《怪物猎人：荒野》和《龙之信条 2》这类基于 RE Engine 打造的开放世界游戏，则被认为是对 Switch 2 性能优化能力的又一次挑战。《怪物猎人：荒野》",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/232.htm"
-    },
-    {
-      "id": "3b303df8-2d23-81f9-8541-c84c2b8a8bc9",
-      "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-      "summary": "As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/"
-    },
-    {
-      "id": "3b303df8-2d23-8148-8dd5-e36330627cc0",
-      "title": "Meet 4 of the people who made it to the top of McKinsey this year",
-      "summary": "Four newly minted senior partners at McKinsey sat down with Business Insider to talk about how AI is changing partnership and their best career tips.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/mckinsey-senior-partners-career-tips-consulting-ai-advice-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-8162-9d26-ee8897fb80df",
-      "title": "长城 H10 方盒子 SUV 上市，限时换新价 20.18 万-22.38 万元",
-      "summary": "IT之家 8 月 5 日消息，长城归元平台首款方盒子 SUV 车型 —— 长城 H10 今天（5 日）晚间正式上市，新车采用了“方鼎美学”设计语言，搭载 Coffee Pilot 3 高阶智驾辅助系统，提供五座、六座两种版本共 4 种不同配置，建议零售价 20.98 万-23.18 万元，限时换新价 20.18 万-22.38 万元。Hi4 Max 五座版：建议零售价 20.98 万元，限时换新价 20.18 万元起Hi4 Pro 六座版：建议零售价 21.18 万元，限时换新价 20.38 万元起Hi4 Max 六座版：建议零售价 22.18 万元，限时换新价 21.38 万元起Hi4 Ul",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/230.htm"
-    },
-    {
-      "id": "3b303df8-2d23-817b-822d-dacb75a598e2",
-      "title": "Instagram boss Adam Mosseri is 'pro' wearing shorts in the office: 'When it hits, it hits'",
-      "summary": "Rising temperatures and virtual work have pushed some office workers to wear shorts. Instagram head Adam Mosseri is in favor of them.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/shorts-in-office-work-instagram-adam-mosseri-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-8108-98d2-c3c669bdce35",
-      "title": "向员工发放奖金后，三星、SK 海力士承诺提高股东回报",
-      "summary": "IT之家 8 月 5 日消息，据路透社报道，三星电子在给该媒体的声明中表示，正在探索以“可持续的方式”提升股东回报，并补充称预计将“很快”公布具体细节。声明中提到：“虽然我们仍将重点放在维持稳健的资产负债表上，以应对行业周期性风险、并为业务增长注入资金，但我们也在积极探索如何以可持续的方式提升股东回报。”与此同时，SK 海力士在一份声明中同样表示，正计划在年底前拿出具体的股东回报计划，并有望“显著增加股东回报”。SK 海力士指出：“得益于创纪录的现金流创造能力，公司相信可以在维持投资与财务稳健性的同时，大幅提升股东回报。”该公司还补充道，目前正在“评估追加股东回报的多种方案”。IT之家注意到，",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/229.htm"
-    },
-    {
-      "id": "3b303df8-2d23-8196-ae6b-f5881312350c",
-      "title": "I moved from California to Italy. I started walking over 10,000 steps without even trying.",
-      "summary": "After moving to Florence, I realized walking didn't have to be something I constantly tracked or optimized to be healthy.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/stopped-counting-steps-moving-to-italy-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-81ae-a88b-c5e10014625c",
-      "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
-      "summary": "A deal between will allow some creators to use clips from Disney films and TV shows in their videos.",
-      "source": "BBC Tech",
-      "publishTime": "2026-08-05",
-      "link": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3b303df8-2d23-81f4-a842-ef6b809ecd59",
-      "title": "Warren presses Lutnick over UAE access to sensitive U.S. tech after Trump crypto investment",
-      "summary": "Sen. Elizabeth Warren asked Howard Lutnick to explain eased UAE export controls after UAE-linked entities invested in the Trump family’s crypto venture.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-05",
-      "link": "https://www.cnbc.com/2026/08/05/warren-lutnick-uae-export-controls-trump-crypto.html"
-    },
-    {
-      "id": "3b303df8-2d23-814e-a1a7-edbef6b02dcd",
-      "title": "Anthropic 首次确认自研 AI 芯片：专为 Claude 定制，公司正在组建团队",
-      "summary": "IT之家 8 月 5 日消息，Anthropic 发言人对 Business Insider 确认，公司正在组建内部芯片团队，计划为旗下 Claude 模型开发定制化芯片，以应对不断增长的 AI 算力需求。这是该公司首次公开确认自研芯片计划。该发言人表示，Anthropic 计划通过硬件与模型协同设计的方式，让 Claude 能够以更高速度和更高效率运行，并满足客户规模化使用需求。不过，Anthropic 不会完全依赖自研芯片，公司未来将采用“多芯片策略”，继续使用来自 AWS、谷歌、英伟达和 AMD 的硬件。此前，路透社曾报道称 Anthropic 正在探索自主设计 AI 芯片的可能性。《T",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/228.htm"
-    },
-    {
-      "id": "3b303df8-2d23-8181-91ce-c8b016b31cac",
-      "title": "华为鸿蒙 6“超透”控制 / 通知中心背板彩蛋在 HarmonyOS 7 花粉 Beta 版得以保留",
-      "summary": "IT之家 8 月 5 日消息，在去年 11 月 26 日的华为全场景新品线上发布会上，华为常务董事、产品投资委员会主任、终端 BG 董事长余承东宣布，Mate 80 系列手机首发搭载鸿蒙 HarmonyOS 6 系统，并带来全新沉浸光感效果。随着版本的更新，沉浸光感视效在 HarmonyOS 正式版系统已来到 2.0 阶段。华为也埋下了一个彩蛋 —— 当一只手下拉通知中心，然后慢慢上滑关闭通知中心，在通知中心即将消失的时候，保持手势不变，用另一只手左滑切换至控制中心，此时会触发控制中心 / 通知中心背板“超透”显示效果。据用户反馈，该彩蛋已延续至 HarmonyOS 7 花粉 Beta 版系统",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/227.htm"
-    },
-    {
-      "id": "3b303df8-2d23-81b3-a63c-cdb901d7eb9d",
-      "title": "Netflix 旗下 FIFA 官方世界杯游戏开发商裁掉 85% 员工，消息称“全员解散”",
-      "summary": "IT之家 8 月 5 日消息，据外媒 VGC 今天（5 日）晚间报道，负责开发 Netflix 足球游戏《FIFA 世界杯：首发版》的 Refactor Games 被曝遭遇大规模裁员，绝大多数员工已经离职，工作室甚至可能全员解散。晚些时候，Refactor Games 创始人内森 · 伯巴透露，工作室已经裁掉 85% 的员工。据IT之家了解，Refactor Games 开发的《FIFA 世界杯：首发版》于 6 月 11 日上线。游戏仅面向 Netflix 订阅用户提供，玩家可以直接在电视上串流游玩，并把手机当作控制器。然而，《FIFA 世界杯：首发版》上线后口碑惨淡，还被质疑为了赶上现实中",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/226.htm"
-    },
-    {
-      "id": "3b303df8-2d23-8112-9c65-f1a47dd01009",
-      "title": "超 10 万个样本验证：深圳先进院提出非接触激光超声技术，实现锂电池 SoC / SoH 实时监测",
-      "summary": "IT之家 8 月 5 日消息，中国科学院深圳先进技术研究院今日宣布，旗下智能仿生研究中心郭师峰团队与清华大学深圳国际研究生院周光敏团队合作。相关研究成果已于 7 月 29 日发表在《Science Advances》上。该研究面向高倍率工况下锂离子电池的荷电状态（SoC，State of Charge，表示电池当前剩余电量）与健康状态（SoH，State of Health，反映电池经循环后的性能退化程度）的高精度原位监测需求，提出了一种将“非接触激光超声传感”与“Transformer 深度学习”模型相结合的一体化方案。现有电池状态估算方法多依赖电压、电流和内阻等电化学参数，但在高倍率充放电",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/225.htm"
-    },
-    {
-      "id": "3b303df8-2d23-8136-8a94-da3ce24dfc4e",
-      "title": "Anthropic confirms it's building an in-house chip team for Claude",
-      "summary": "The AI startup is hiring engineers to design custom chips for its Claude AI model, according to a job listing and a company statement.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/anthropic-in-house-silicon-chip-team-claude-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-8119-8d10-cf23e44cbd7d",
-      "title": "深蓝 S05 获推 DEEPAL OS 3.2：新增车头泊入、垂直车位泊出等功能",
-      "summary": "IT之家 8 月 5 日消息，深蓝汽车今日宣布，DEEPAL OS 3.2 已向深蓝 S05 全面推送，带来五大板块超 20 项功能新增优化。IT之家汇总本次更新主要内容：深蓝智能驾驶辅助系统 DEEPAL AD Pro新增车头泊入新增垂直车位泊出新增泊车常用唤醒词新增泊车辅助状态反馈新增车内自定义车位泊车新增泊车过程中拉开车门暂停泊车功能并进行提示新增低速紧急制动（LAEB）功能优化遥控泊车功能优化辅助驾驶过程中语音提示优化智能驾驶辅助系统安全逻辑语音交互与互联体验新增变更目的地导航指令新增视频 TV 投屏功能新增 Hicar、Carlink 方向盘控制语音入口新增爱奇艺语音控制功能应用与内",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/224.htm"
-    },
-    {
-      "id": "3b303df8-2d23-8126-b8ad-dc823ac854d9",
-      "title": "We're adding to our position in a chipmaker as the AI trade regains its footing",
-      "summary": "The stock is still well below levels it traded at last month after earnings.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-05",
-      "link": "https://www.cnbc.com/2026/08/05/were-adding-to-our-position-in-a-chipmaker-as-the-ai-trade-regains-its-footing.html"
-    },
-    {
-      "id": "3b303df8-2d23-81a1-b72b-e0dd67e9f61f",
-      "title": "影石 Insta360 GO Ultra AI 语音助手官宣延期推出，称团队正全力进行最后打磨与优化",
-      "summary": "IT之家 8 月 5 日消息，今年 7 月底，影石预热 Insta360 GO Ultra 将迎来大更新。从官方海报来看，“语音助手”是本次发布主题。IT之家注意到，影石官方今日在原微博下发布声明，宣布 GO Ultra AI 语音助手将延期推出。为了给每一位使用者带来更稳定、更完整的 AI 语音交互体验，GO Ultra AI 语音助手将延期推出。目前团队正在全力进行最后的打磨与优化，新上线时间一经确认，我们将第一时间通过官方渠道公布。感谢大家的耐心等待与一如既往的支持。作为参考，影石 Insta360 GO Ultra 口袋相机发布于去年 8 月，售价 2,598 元。其采用 53g 小方",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/223.htm"
-    },
-    {
-      "id": "3b303df8-2d23-816f-8f14-d656e5d838d2",
-      "title": "谷歌首款追踪器 Pixel Tag 曝光：对标苹果 AirTag，欧洲售价 34.99 欧元",
-      "summary": "IT之家 8 月 5 日消息，爆料者 @billbil_kun 今日透露，谷歌首款自有品牌的蓝牙追踪器“Google Pixel Tag”将于 8 月 12 日正式发布，欧洲售价为 34.99 欧元（IT之家注：现汇率约合 272.5 元人民币）。该产品将与 Pixel 11 系列手机及 Pixel Watch 5 在同场活动中亮相。科技媒体 9to5Google 曾于 7 月 31 日在一家斯洛文尼亚分销商的产品页面上发现了该产品，并获取了其官方渲染图。根据商品页面信息，Pixel Tag 将支持谷歌的“查找我的设备”（Find My Device）网络，型号为 GA12506，配色名称为“",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/221.htm"
-    },
-    {
-      "id": "3b303df8-2d23-8161-8c11-ce47c0f3cbbc",
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
-    },
-    {
-      "id": "3b303df8-2d23-8114-9d44-f865fa8b2af2",
-      "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
-      "summary": "Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/"
-    },
-    {
-      "id": "3b303df8-2d23-81bf-bddd-c7a51f5b74e2",
-      "title": "What Leopold Aschenbrenner can learn from Warren Buffett after his $45 billion AI fund imploded",
-      "summary": "Warren Buffett's followers say Leopold Aschenbrenner's Situational Awareness got burned because it lacked Buffett's patience and prudence.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/leopold-aschenbrenner-situational-awareness-warren-buffett-ai-hedge-fund-stocks-2026-8"
     }
   ],
   "macroEvents": [
