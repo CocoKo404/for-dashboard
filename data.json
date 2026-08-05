@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-08-06 05:44",
+  "updatedAt": "2026-08-06 07:28",
   "news": [
+    {
+      "id": "3b303df8-2d23-8149-b249-e1558bb86cee",
+      "title": "X product chief Nikita Bier is leaving after one year",
+      "summary": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the job, and just […]",
+      "source": "The Verge",
+      "publishTime": "2026-08-06",
+      "link": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving"
+    },
+    {
+      "id": "3b303df8-2d23-8198-a05e-f1f1aa7e5617",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
+      "source": "BBC Tech",
+      "publishTime": "2026-08-06",
+      "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3b303df8-2d23-8105-9843-fbe523821da5",
+      "title": "Lucid's new CEO says the EV maker launched cars before they were ready and let customers down",
+      "summary": "Lucid's CEO, Silvio Napoli, said the EV maker rushed cars to market. The company said it will hold back its coming mass-market SUV for more testing.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-06",
+      "link": "https://www.businessinsider.com/lucid-ceo-evs-gravity-air-not-ready-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-81b9-97bf-c80d5e8801cd",
+      "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
+      "summary": "SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-06",
+      "link": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html"
+    },
+    {
+      "id": "3b303df8-2d23-81fc-8219-eed14b5afb19",
+      "title": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent",
+      "summary": "Meta launched Muse Code, which aims to be a comparable coding agent that's priced lower than competitors like Anthropic's Claude or OpenAI's Codex.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-06",
+      "link": "https://www.businessinsider.com/meta-muse-coding-agent-race-openai-codex-anthropic-claude-2026-8"
+    },
+    {
+      "id": "3b303df8-2d23-81db-ae2f-f64b247bdb5c",
+      "title": "Nikita Bier steps down as X’s head of product",
+      "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/"
+    },
+    {
+      "id": "3b303df8-2d23-8100-9b29-d9f5be430669",
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/"
+    },
+    {
+      "id": "3b303df8-2d23-8131-9f43-c8aaf420dfd4",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+    },
+    {
+      "id": "3b303df8-2d23-81a1-a985-d96f61ab61c5",
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/"
+    },
+    {
+      "id": "3b303df8-2d23-819d-a526-e54f7b93aff5",
+      "title": "The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting",
+      "summary": "WIRED spoke with an engineer who was interviewed by Edward “Big Balls” Coristine for a government engineering role at the NDS, the White House agency staffed by other DOGE veterans.",
+      "source": "Wired",
+      "publishTime": "2026-08-06",
+      "link": "https://www.wired.com/story/national-design-studio-doge-recruiting/"
+    },
     {
       "id": "3b303df8-2d23-812f-b2f6-c3b901f6a63f",
       "title": "Moove raises $250M to become the backbone of the robotaxi industry",
@@ -8,6 +88,14 @@
       "source": "TechCrunch",
       "publishTime": "2026-08-06",
       "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/"
+    },
+    {
+      "id": "3b303df8-2d23-8119-b037-e1d00c9b5215",
+      "title": "How Lightspeed found its newest hire … via Instagram DM",
+      "summary": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/"
     },
     {
       "id": "3b303df8-2d23-81cb-8e2c-ed51fe7a287b",
@@ -312,94 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-08-06",
       "link": "https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html"
-    },
-    {
-      "id": "3b303df8-2d23-8199-ab5c-e955ae87f1b0",
-      "title": "McDonald's is rethinking its value menu. We want your take.",
-      "summary": "McDonald highlighted challenges with its value menu, impacting sales and prompting reassessment. We want your take on the fast food chain.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/mcdonalds-rethinks-value-menu-amid-sales-growth-slowdown-survey-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-8127-96c3-d4f8d63927d3",
-      "title": "The 40 richest families in America, ranked",
-      "summary": "The richest families in America have reached billion-dollar fortunes in different ways — from publishing and cosmetics to retail and hotels.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/richest-families-in-america-ranked"
-    },
-    {
-      "id": "3b303df8-2d23-817d-b489-d7a334d6b5e2",
-      "title": "SpaceX is barely Space and mostly X",
-      "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to S",
-      "source": "The Verge",
-      "publishTime": "2026-08-06",
-      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space"
-    },
-    {
-      "id": "3b303df8-2d23-81ee-8329-cd84f294dc6a",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
-      "source": "Wired",
-      "publishTime": "2026-08-06",
-      "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
-    },
-    {
-      "id": "3b303df8-2d23-81f6-b2db-fe369dc5a394",
-      "title": "I'm a dietitian who loves Aldi. I rely on these 11 staples to feed my family of 4 on a budget.",
-      "summary": "As a dietitian shopping at Aldi, I buy nutrient-packed, affordable foods like frozen berries, canned fish, and Greek yogurt for my family of four.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/best-aldi-groceries-save-money-dietitian-recommendations-family-list-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-811f-8f54-f9fad5ff0d0b",
-      "title": "Google shakes up AI leadership. Demis Hassabis steps down as CEO of DeepMind, and Jeff Dean leaves.",
-      "summary": "Some of Google's top AI leaders are leaving their roles, with DeepMind CEO Demis Hassabis taking another role at Alphabet and Jeff Dean leaving.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8"
-    },
-    {
-      "id": "3b303df8-2d23-81d0-96b9-f7aad3f747c3",
-      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-      "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
-      "source": "Wired",
-      "publishTime": "2026-08-06",
-      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/"
-    },
-    {
-      "id": "3b303df8-2d23-8194-940f-fca32152bd7e",
-      "title": "Reddit is introducing a new moderator: AI",
-      "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The compan",
-      "source": "The Verge",
-      "publishTime": "2026-08-06",
-      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform"
-    },
-    {
-      "id": "3b303df8-2d23-8144-8318-e80bffb897a4",
-      "title": "RTX 5090 显卡涨价后华硕拒按原价发货：英伟达官方商城直接砍单，重购需多花 553 美元",
-      "summary": "IT之家 8 月 5 日消息，Reddit 一名用户发帖称，他 7 月 31 日在英伟达官方商城购买了一张华硕 ROG 夜神 Astral GeForce RTX 5090 BTF 显卡，但付款后因价格调整而被取消订单，再打开的时候发现价格已经上涨 553 美元（现汇率约合 3,740 元人民币）。用户 @IndependentOk1031 在 Reddit 华硕社区分享的信息显示，其下单时该显卡价格为 4,429 美元（现汇率约合 29,953 元人民币），实际含税价格 4,607 美元（现汇率约合 31,157 元人民币）。订单提交后，华硕立马调整了该型号的售价，随后 NVIDIA 客服确",
-      "source": "IT之家",
-      "publishTime": "2026-08-05",
-      "link": "https://www.ithome.com/0/986/259.htm"
-    },
-    {
-      "id": "3b303df8-2d23-8146-8387-dc377486a2e2",
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-05",
-      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
-    },
-    {
-      "id": "3b303df8-2d23-8176-9799-c98aafecd7b7",
-      "title": "I've been a Costco member for 15 years. Here are 7 items I always buy for my household of 2.",
-      "summary": "As a longtime Costco member, I think the Kirkland Signature Greek yogurt and stir-fry vegetable blend are some of the best things to buy for two people.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-05",
-      "link": "https://www.businessinsider.com/costco-best-things-to-buy-for-two-people-longtime-shopper-2026-8"
     }
   ],
   "macroEvents": [
