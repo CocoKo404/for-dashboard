@@ -1,6 +1,302 @@
 {
-  "updatedAt": "2026-08-06 18:59",
+  "updatedAt": "2026-08-06 21:09",
   "news": [
+    {
+      "id": "3b403df8-2d23-8177-ac07-df54a59bc52b",
+      "title": "Ford’s new electric truck, ‘Fathom’, starts at $28,350",
+      "summary": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/"
+    },
+    {
+      "id": "3b403df8-2d23-813b-91b5-cd4847b11dda",
+      "title": "Dolby Vision 2 will be available first on some 2026 Hisense TVs",
+      "summary": "After being announced last September, Dolby Vision 2 is rolling out to TVs, starting with the 2026 Hisense UX, UR9, UR8, and U7. TCL and Philips will be adding Dolby Vision 2 support to select TVs later this year. Dolby Vision 2 is a new dynamic HDR format with a more powerful image engine and […]",
+      "source": "The Verge",
+      "publishTime": "2026-08-06",
+      "link": "https://www.theverge.com/tech/974126/dolby-vision-2-rolls-out-to-hisense-tvs"
+    },
+    {
+      "id": "3b403df8-2d23-81a0-8978-c421acbfa322",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
+    },
+    {
+      "id": "3b403df8-2d23-815b-8ebf-d751cb54c254",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
+    },
+    {
+      "id": "3b403df8-2d23-81e0-a49a-f87a3715d5c8",
+      "title": "谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了",
+      "summary": "IT之家 8 月 6 日消息，今天（6 日）晚间，谷歌地图副总裁兼总经理米丽娅姆 · 丹尼尔宣布，AI 功能 Ask Maps 迎来新一轮升级，不仅可以按照用户的个性化需求订餐、寻找酒店，还能结合已有行程提供建议。谷歌今天公布的多项新功能，旨在让用户不必离开谷歌地图，便能“比以往更轻松地”完成更多事情。Ask Maps 新增的智能体功能可以替用户执行订餐操作，同时综合考虑饮食要求、当前位置和收藏地点等信息。谷歌举例称，用户下班前可以提出：“帮我点一份辣味海鲜醉面，我回家路上自取。”Ask Maps 会在沿途寻找仍在营业并供应该菜品的餐厅。用户选定餐厅后，菜品会自动加入购物车，只需完成付款即可下",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/729.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8191-b146-cb84be24a960",
+      "title": "大疆 Osmo 360 II 全景相机将于 8 月 7 日开启预约：有望延续现款外形设计、新增 NFC 功能",
+      "summary": "IT之家 8 月 6 日消息，大疆发文，宣布旗下 DJI Osmo 360 II 全景相机将于 8 月 7 日（明天）晚上 8 点开启预约。目前，该机外观图已流出，显示其整体延续初代方正机身设计，镜头模组布局变化不大。值得注意的是，此前 FCC 文件已经出现过 Osmo 360 II，型号 OQ002 的注册信息，电池容量由初代的 1950mAh 提升至 2150mAh，预计续航表现会有所增强。IT之家同时参考国内社交平台流出的物料，Osmo 360 II 还被曝加入 NFC 功能。对于全景相机来说，NFC 有望用于更快捷的设备配对、素材传输或手机联动操作，这也是目前同类产品中较少见的配置。作",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/728.htm"
+    },
+    {
+      "id": "3b403df8-2d23-811e-b7b0-f67bc64a8c57",
+      "title": "可直接调用微距、长焦：微信 iOS 版灰度测试相机多焦段切换功能",
+      "summary": "IT之家 8 月 6 日消息，据多名网友分享，微信 iOS 版正灰度相机多焦段切换功能。用户在聊天界面打开相机进行拍摄，可以直接在拍照页面选用手机的长焦、微距等。从网友反馈的微信新版相机界面来看，在拍摄的时候会出现 0.5x、1x、2x 和 3x 不同的拍摄焦段，同时旁边还有一个花朵样式图标的微距按钮，和系统自带的相机非常像。目前，该功能并非向所有微信账号和设备开放，部分用户尚未收到推送属于正常现象，后续将随着灰度范围的逐步扩大而覆盖更多设备与账号。大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/727.htm"
+    },
+    {
+      "id": "3b403df8-2d23-81aa-b23d-eabd57e0dd41",
+      "title": "Google's AI shake-up, tariff refunds, the interest rate outlook and more in Morning Squawk",
+      "summary": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-06",
+      "link": "https://www.cnbc.com/2026/08/06/5-things-to-know-before-the-stock-market-opens.html"
+    },
+    {
+      "id": "3b403df8-2d23-8134-aec0-d79584de8e9e",
+      "title": "安全公司警告 Open VSX 平台出现 77 款山寨插件，可在暗地窃取受害者设备信息",
+      "summary": "IT之家 8 月 6 日消息，安全公司 Manifold 发文，透露其在 7 月 26 日至 8 月 1 日期间发现 77 款山寨 Open VSX 插件，其中包含完整信息窃取功能，可潜伏在受害者设备上搜集信息。在团队通报后，这些恶意套件已于 8 月 3 日全部从 Open VSX 平台下架。Manifold 表示，此类仿冒插件采用了高度一致的攻击手法，通过复制真实扩展的名称、命名空间（namespace）以及说明文字，伪装成正版扩展，并使用极低版本号（0.0.1）发布。且都会连接至一个新注册域名 mangorbit [.]com，因此预计是同一个黑客批量炮制了此类内容进行上传。Manifol",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/726.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8127-9d1a-c2b8ecc60b46",
+      "title": "7980 元起，新大洲本田 CBF150T 与 2026 款 NS125GU 正式上市",
+      "summary": "IT之家 8 月 6 日消息，新大洲本田今日在福建泉州崇武西沙湾举办新品发布会，并推出了两款新车：经典复古太子车 CBF150T 与 2026 款 NS125GU 平踏板。CBF150T 共提供四个版本，标准版售价 7980 元，护杠版 8280 元，ABS 版 8980 元，特别版 9180 元。该车型脱胎于经典的 CBF125T，此次将发动机从 125cc 升级至 149cc 单缸风冷机。其最大功率为 8.8kW/7500 转，最大扭矩 12.5 牛米 / 5500 转。车辆整备质量 133kg 至 141kg，坐高 719mm，配备 13.2L 大容量油箱，理论续航可超过 600 公里。",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/725.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8152-869a-fc36ec30de76",
+      "title": "华为官宣昇腾 0 Day 支持蚂蚁百灵 Ling-3.0-flash 模型，全新算子编程框架 CANN PyPTO 首秀",
+      "summary": "IT之家 8 月 6 日消息，蚂蚁百灵昨日正式开源新一代原生混合推理模型 Ling-3.0-flash，主打极致智能密度、全链路 Agent 闭环与低成本规模化落地。华为官方今日宣布，昇腾同步完成百灵 Ling-3.0-flash 模型 0 Day 适配，在适配的过程中，还首次引入 CANN PyPTO 算子编程框架，可缩短复杂融合算子交付周期，高效完成算子接入、推理框架性能调优，同步开放完整部署工程。本次适配全面兼容昇腾 A2、A3 系列产品，配套官方标准化部署方案，开发者可通过官方镜像快速拉起推理服务（硬件要求为昇腾 A2 系列产品：8 卡；昇腾 A3 系列产品：4 卡）。CANN PyP",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/724.htm"
+    },
+    {
+      "id": "3b403df8-2d23-812c-a6c8-ffbd55e483ed",
+      "title": "阿里全新一代视频生成模型 Wan3.0 公测：单次生成能 30 秒，号称万物皆可生视频",
+      "summary": "IT之家 8 月 6 日消息，“阿里云”公众号今天（6 日）晚间宣布，全新一代视频生成模型 Wan3.0 开启公测。Wan3.0 在生成时长、万能创作、全能参考与真实感等维度全面升级，单次可生成 30 秒视频，完整表达创作意图；在文本、图片、音频、视频四种基础模态之外，首次支持 doc、xls、ppt、pdf、md 等文档格式输入，号称将让“万物皆可生视频”。Wan3.0 支持单段 30 秒视频生成，带来更大的创作自由度，令连续运镜、一镜到底等复杂镜头语言得以充分表达，从“生成一个镜头”走向“讲述一段完整的故事”。此外，Wan3.0 还支持智能时长功能，可根据提示词自动推荐合适时长；搭配视频延",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/723.htm"
+    },
+    {
+      "id": "3b403df8-2d23-813b-b87c-ef4ed9cb8994",
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
+    },
+    {
+      "id": "3b403df8-2d23-818b-809f-f5fa0984ef3c",
+      "title": "全新深蓝 S05 车型正式上市，限时优惠价 11.59 万元起",
+      "summary": "IT之家 8 月 6 日消息，在今天的发布会中，全新深蓝 S05 正式上市，共推出 5 款车型，售价区间 11.99-15.19 万元，限时优惠价 11.59-14.49 万元。620 智臻激光版：15.19 万元，限时价 14.49 万元620 智臻版：13.99 万元，限时价 13.29 万元520 智臻激光版：14.19 万元，限时价 13.49 万元520 智臻版：12.99 万元，限时价 12.29 万元520 智行版：11.99 万元，限时价 11.59 万元全新深蓝 S05 升级星际飞翼 2.0 设计语言，风阻系数低至 0.25Cd，大灯组内部改为 Y 字形结构，前脸下部灯组及外",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/722.htm"
+    },
+    {
+      "id": "3b403df8-2d23-818f-a258-f7b7cb37bce1",
+      "title": "特朗普科技顾问：部分企业以 AI 为借口实施裁员，这样听起来更好听",
+      "summary": "北京时间 8 月 6 日，据《商业内幕》报道，一位特朗普政府高级官员表示，一些公司正利用 AI 作为裁员的“挡箭牌”。特朗普顾问克拉西奥斯美国总统特朗普的科学与技术顾问迈克尔 · 克拉西奥斯 (Michael Kratsios) 在最近一期《彼得 · 戴曼迪斯的登月计划》播客节目中表示：“我认为，现在很多公司在进行本来就会做的裁员时，喜欢把原因归咎于 AI，因为这样在媒体报道中听起来更好。”主持人彼得 · 戴曼迪斯 (Peter Diamandis) 补充称：“而且，如果他们用更少的人创造了更多的收入，股价就会上涨。”克拉西奥斯也同意这一看法：“正是如此。没错。”克拉西奥斯表示，总体而言，他对",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/720.htm"
+    },
+    {
+      "id": "3b403df8-2d23-81b6-bb59-ed68b2d455c2",
+      "title": "我国第二代 490 牛发动机圆满完成百发卫星飞行任务",
+      "summary": "IT之家 8 月 6 日消息，据航天推进技术研究院今日分享，8 月 5 日，由航天科技集团六院 801 所研制的我国第二代 490 牛发动机完成天链 3 号 01 星变轨任务，迎来第 100 发卫星飞行里程碑。IT之家查询获悉，2012 年 5 月 26 日，第二代 490 牛发动机随中星 2A 卫星成功首飞，实现了我国 490 牛发动机产品的升级换代。目前，第二代 490 牛发动机全谱系已累计完成 113 颗航天器和 152 台产品的变轨任务，相继助力北斗卫星全球组网的精准导航、风云卫星的气象观测、中国空间站的稳定运行、天问二号的探测之旅、高轨卫星互联网的全球覆盖、天链中继卫星的升级换代。航",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/718.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8133-8986-cd3f16fe170f",
+      "title": "大的要来了：R 星《GTA 6》前瞻预告定档北京时间 8 月 28 日首播",
+      "summary": "IT之家 8 月 6 日消息，今天（6 日）晚间，Rockstar Games 通过官网发布公告：《侠盗猎车手 6：分量十足的一瞥》将于美东时间 8 月 27 日下午 3 时（IT之家注：北京时间 28 日凌晨 3 时）率先在 Netflix 播出。根据 R 星官方B站主页介绍，该预告片将于 8 月 28 日北京时间上午 11 时推出。“对 Grand Theft Auto VI 分量十足的一瞥，锐意革新的 Grand Theft Auto 系列迎来下一步演化。带有简体中文字幕。”《GTA 6》定于 11 月 19 日登陆 PlayStation 5 和 Xbox Series X|S，目前已",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/717.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8113-b9b5-e800241b9ecf",
+      "title": "10.6 万元，索尼 FE 600mm F4 GM OSS 定焦 G 大师镜头国行上架",
+      "summary": "IT之家 8 月 6 日消息，索尼现已在京东上架 FE 600mm F4 GM OSS 全画幅 G 大师镜头（SEL600F40GM），将于 9 月 1 日发售，定价为 10.6 万元。该产品重量 3040 克，采用了重心平衡设计，配备了双 XD 线性马达，同时优化了噪音控制，能够轻松抓拍体育赛事中的运动员及自然生态环境下的野生动物。该产品使用 18 组 24 片结构，采用了 1 枚 XA 超级非球面镜片，同时配合 3 枚荧石镜片以降低色差色散，镜头最近对焦距离 4.5 米，IT之家附产品参数：京东索尼 FE 600mm F4 GM OSS 全画幅镜头 10.6 万元直达链接",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/716.htm"
+    },
+    {
+      "id": "3b403df8-2d23-81da-af9d-d2c00095c23f",
+      "title": "索尼 PS5 Pro 推动 PSSR 2.0 普及：Beta 系统更新后自动启用画质增强选项",
+      "summary": "IT之家 8 月 6 日消息，据 ResetERA 论坛用户今日反馈，索尼已开始发送邀请，邀请 PS5/Pro 用户测试新的 PlayStation 5 系统软件更新。此次 Beta 更新最显著的变化是针对 PS5 Pro 的 PSSR 画质增强功能：“增强 PSSR 图像质量”（Enhance PSSR Image Quality）选项现已被设置为默认开启。PSSR（PlayStation 光谱超分辨率）是定义 PS5 Pro 的核心 AI 画质增强技术。初版 PSSR 在某些游戏中表现不尽如人意，而升级后的 PSSR 2.0 则带来了显著的画质提升。根据索尼发送的测试邀请邮件说明，当玩家更",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/715.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8122-b475-e3b42d785560",
+      "title": "全新一代 smart 精灵#1 上市：定位新奢 AI 灵动 SUV，限时 14.99 万 / 16.99 万元",
+      "summary": "IT之家 8 月 6 日消息，号称“豪华智能小车之王”的全新一代 smart 精灵#1 今天（6 日）晚间正式上市，新车定位新奢 AI 灵动 SUV，提供 535Max、535Ultra 两款配置，市场指导价分别为 15.29 万元、17.29 万元，限时权益价分别为 14.99 万元、16.99 万元。新车相较于现款拥有超 200 项升级，号称 63 项同级领先、20 项同级唯一。IT之家汇总该车主要信息如下：全新一代 smart 精灵#1 新增蓝色 / 白金色车漆，整体造型延续现款车型标志性设计语言，车顶加装激光雷达，为高阶辅助驾驶提供硬件支撑；车身前翼子板新增环境感知摄像头，车门把手更换",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/714.htm"
+    },
+    {
+      "id": "3b403df8-2d23-81d7-965e-fa7f519b75aa",
+      "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
+      "summary": "With the first tranche of SpaceX shares held by insiders unlocking, the stock could see downward pressure.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-06",
+      "link": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html"
+    },
+    {
+      "id": "3b403df8-2d23-81ee-a247-fdccded1ce8d",
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-06",
+      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
+    },
+    {
+      "id": "3b403df8-2d23-8162-81cf-d3100b47bda2",
+      "title": "高德地图回应将下线武汉实时公交：放心，等公交神器还在",
+      "summary": "IT之家 8 月 6 日消息，据网友分享，高德地图此前弹窗显示，因武汉公交合作到期，将在 8 月 6 日下线武汉实时公交功能。IT之家注意到，高德地图官方今日发文回应，让武汉的用户放心，称等公交神器还在，未来将继续为武汉用户提供实时公交查询服务。延伸阅读此次风波的起因是，有网友发现高德地图弹窗提示因武汉公交合作到期，计划于 8 月 6 日晚间下线武汉实时公交数据，引发不少市民担忧。部分网友猜测，合作未能延续可能与数据接口相关费用协商未果有关。据IT之家此前报道，高德地图在 2025 年 9 月宣布的公交地铁出行体验升级中，除了最快换乘车厢推荐和线路站点特征提示外，还新增了跨城出行功能 —— 用",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/712.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8150-ba44-c92c0558f486",
+      "title": "兰族推出指握鼠标冥神：雾透外壳，38±2g，活动到手价 849 元",
+      "summary": "IT之家 8 月 6 日消息，LAMZU（兰族）今日正式发售了指握鼠标新品 Orcus（冥神）。这一型号拥有雾透外壳，三维 92×56×35 (mm)，质量 38±2g，活动到手价 849 元。兰族表示这款鼠标采用窄腰低背高模具设计，按键面积较同类产品提升 25%。该型号左右键下方装饰以金属铭牌，全封闭式透明底壳则点缀以立体骷髅艺术浮雕。Orcus 双端选用 Nordic nRF54H20 SoC，支持 8kHz 轮询率。其配备 50000 cpi、880 ips、80G 的原相 PAW NEXT I 传感器，“精调”光学微动按键延迟 0.176ms，表面覆盖防汗防滑纳米涂层。天猫兰族 Orc",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/713.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8199-898a-fdc97415f165",
+      "title": "曝微软将推出《战争机器：事变日》XBOX 限量版手柄，外观“非常漂亮”",
+      "summary": "IT之家 8 月 6 日消息，最新消息称，微软 XBOX 准备配合《战争机器：事变日》上市，推出一款全新的限量版手柄。长期准确泄露软硬件消息的 Dealabs 撰稿人 billbil-kun 今天（6 日）爆料称，自己已经见过手柄实物，外观“非常漂亮”。billbil-kun 透露，手柄名为“Storm King”，设计主题取自《战争机器》的经典标志。“Storm King”预计售价 89.99 美元（IT之家注：现汇率约合 608.5 元人民币），与此前推出的《极限竞速：地平线 6》限量版 XBOX 手柄相同。具体发售日期仍未确定，目前消息称官方公告“预计马上就来”，最迟将在未来两周内公布。",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/710.htm"
+    },
+    {
+      "id": "3b403df8-2d23-81aa-b82e-c56d3c9d297a",
+      "title": "海备思推出 100W 带屏 1A+1C 充电头：整合拓展坞功能、支持 HDMI 2.1 输出，299 元",
+      "summary": "IT之家 8 月 6 日消息，制造商海备思宣布推出一款 100W 带屏充电头，该产品整合了拓展坞功能，其采用 1A+1C 设计，同时带有 1 个 HDMI 2.1 视频输出接口，定价为 299 元。京东海备思 100W 带屏充电头 299 元直达链接该产品尺寸约为 72×72×36mm，可选多种配色，其配备的彩屏支持显示 USB-C/A 接口状态、HMDI 信号信息、整机总输出功率，使用可折叠插脚方便收纳。该产品 USB-C 接口支持 100W PD 3.0 充电，在连接手机 / 平板 / 游戏机后，即可将产品作为拓展坞使用。其 USB-A 接口支持 7.5W 充电，提供标准 USB 3.0 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/709.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8131-97dc-dc588d411073",
+      "title": "初代重启作《命运石之门 Re:Boot》价格公布：Steam 国区 198 元，首发九折 178.2 元",
+      "summary": "IT之家 8 月 6 日消息，科幻视觉小说《命运石之门》完全重制版《命运石之门 RE：BOOT》已于 Steam 开启预购。本作将于 2026 年 8 月 19 日正式发售。价格方面，Steam 国区标准版 198 元，豪华版 298 元。在 8 月 19 日正式发售前预购的玩家可享 10% 的折扣，折后标准版售价 178.20 元，豪华版售价 268.20 元。作为对 2009 年 Xbox 360 原作《STEINS;GATE》的现代化完全重制，本作在视觉与内容上均有大幅升级。角色立绘与主视觉图由原画师 huke 亲自重新绘制，服装与配饰也进行了现代化调整。游戏还采用了 E-mote 动态",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/708.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8153-ba1e-f6aa174cb04e",
+      "title": "至高 100000 淘金币：20:00 速抽淘宝 88 加码大红包，限量 30 万个无门槛可用",
+      "summary": "淘宝超级 88 大红包现已正式开抽，至高 100000 淘金币：点此抽取。点击抽取即可得：每人每天可抽 100 淘金币，中奖率 95% 起，至高 100000 淘金币。20:00 加码：加抽 30 万个 2 元无门槛红包（拼手气），小伙伴们可蹲点抢哦 ~",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/707.htm"
+    },
+    {
+      "id": "3b403df8-2d23-81aa-b425-da7659838b81",
+      "title": "联想拯救者“27Q-2c”27 英寸曲面显示器发售：2K 240Hz VA 面板，1279 元",
+      "summary": "IT之家 8 月 6 日消息，联想旗下拯救者“27Q-2c”27 英寸显示器目前已在京东发售，该机主打 2K 240Hz，定价为 1279 元。京东联想拯救者“27Q-2c”显示器 1279 元直达链接该机配备一块 2560x1440 分辨率 240Hz VA 面板，曲率 1500R，显示器亮度 400 尼特，对比度 3000:1，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% sRGB 和 95% DCI-P3 色域。该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供 2 个 HDMI 2.1、1 个 DP 1.4、1 个 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/705.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8113-a697-e5cb4b1d37ff",
+      "title": "奇瑞纵横 F700“全领域豪华越野皮卡”上市，限时权益价 29.99 万-33.99 万元",
+      "summary": "IT之家 8 月 6 日消息，奇瑞纵横品牌旗下首款“全领域豪华越野皮卡”纵横 F700 今天（6 日）晚间正式上市，共推出三款车型，上市指导价 31.49 万-35.49 万元，限时权益价 29.99 万-33.99 万元。极限玩家（5 座）：上市指导价 31.49 万元，限时权益价 29.99 万元头号玩家（5 座）：上市指导价 34.49 万元，限时权益价 32.99 万元头号玩家（4 座）：上市指导价 35.49 万元，限时权益价 33.99 万元IT之家汇总新车主要信息如下：纵横 F700 定位豪华硬派越野皮卡，尺寸为 5495×2050×1985mm、轴距 3350mm，搭载大容量货",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/704.htm"
+    },
+    {
+      "id": "3b403df8-2d23-81cb-a962-dcf36f576eec",
+      "title": "索尼 115 英寸超旗舰 RGB LED 电视 9 系 Ⅱ 新品上市：149999 元",
+      "summary": "IT之家 8 月 6 日消息，索尼超旗舰 RGB LED 电视 9 系 Ⅱ 新上架了 115 英寸版本（K-115XR90M2），定价为 149999 元，8 月 10 日开售，其余尺寸已于 6 月开售。京东索尼（SONY）顶奢 | 超旗舰 9 系 真彩 RGB 游戏电视 115 英寸 XR 芯片 K-115XR90M2 蜘蛛侠观影 149999 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/703.htm"
+    },
+    {
+      "id": "3b403df8-2d23-812c-9111-cdca9dcb33b1",
+      "title": "天钡 NEX 395 迷你主机将“重新上线”，降级至 64GB 内存",
+      "summary": "IT之家 8 月 6 日消息，天钡 (AOOSTAR) 今日宣布其此前推出的 NEX 395 迷你主机将以 64GB LPDDR5X-8533 内存配置重新上线。IT之家注意到，品牌官方宣称 64GB 内存版 NEX 395 的 1TB SSD 存储配置“全网最低首发活动价”为 12999 元，不过电商平台上 1TB 款式当前标价为 13599 元。NEX 395 基于 AMD 锐龙 AI Max+ 395 处理器，三维 284×159×52 (mm)，重约 2kg。其采用快拆面板结构，配备冰川 5.0 均热板 + 铜鳍片散热系统，还拥有独立 M.2 散热风扇，性能释放可达 140W；集成配备",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/702.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8145-a496-d85301c5dc58",
+      "title": "Steam 客户端 Preview / Beta 通道更新发布：修复 PIN 重置账号登录问题",
+      "summary": "IT之家 8 月 6 日消息，Valve 现已向 Steam 客户端的 Preview / Beta 测试通道推送了新版本更新，本次更新重点修复了 PIN 重置、游戏服务器浏览器等功能问题，并对手柄配置界面进行了优化。通用更新修复了在登录不同账号时请求 PIN 重置后，重启时错误登录到错误账号的问题Steam 输入在配置界面中更清晰地区分与其他设备共享或特定设备独有的手柄配置，新增选项可拆分 Steam Controller 配置，使其不再与 Steam Deck 共享桌面模式修复了游戏服务器浏览器过滤掉同一公网 IP 托管的多个服务器的问题本次更新目前仅面向参与 Preview / Beta",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/341.htm"
+    },
+    {
+      "id": "3b403df8-2d23-81b1-a324-e7e86c472e44",
+      "title": "宇树科技公告发行价格为 150.8 元 / 股：市盈率 219.23 倍高于行业平均，对应总市值超 600 亿元",
+      "summary": "IT之家 8 月 6 日消息，宇树科技今日发布公告称，公司首次公开发行股票并在科创板上市，发行价格为 150.80 元 / 股。本次发行数量为 4044.6434 万股，占发行后总股本 10%。在剔除无效报价以及拟申购总量中最高报价后，发行人和保荐人（主承销商）根据初步询价结果，综合评估公司合理投资价值、同行业上市公司估值水平、所属行业二级市场估值水平等方面，充分考虑网下投资者有效申购倍数、市场情况、募集资金需求及承销风险等因素，协商确定本次发行价格为 150.80 元 / 股。本次确定的发行价格不高于剔除最高报价部分后网下投资者剩余报价的中位数和加权平均数，以及公募基金、社保基金、养老金、年",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/699.htm"
+    },
+    {
+      "id": "3b403df8-2d23-8191-8cdf-dabe3aaff6b6",
+      "title": "Dynabook Portege X30L-P 笔记本新增“Ultra 7 355 + 32G + 1T”版本，18799 元",
+      "summary": "IT之家 8 月 6 日消息，Dynabook 现已为旗下 Portege X30L-P 笔记本国行版新增 Ultra 7 355 + 32GB RAM + 1TB SSD 规格，定价为 20799 元，首发价 18799 元。该机整体重量 895g，厚度 17.7mm，B 面配备一块 13.3 英寸 1920x1200 分辨率夏普 IGZO 面板（亮度 400 尼特，覆盖 100% sRGB 色域），匹配 2Mp 会议摄像头。该机采用英特尔酷睿 Ultra 7 355 处理器，搭载 32GB LPDDR5x RAM 和 1TB PCIe SSD，I/O 方面其左侧提供 1 个 USB-A 3",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/697.htm"
+    },
+    {
+      "id": "3b403df8-2d23-81c9-8833-c37dc6f6858f",
+      "title": "导航条也能防诈？华为鸿蒙 HarmonyOS 7 系统新增“小艺流光”功能",
+      "summary": "IT之家 8 月 6 日消息，据博主 @Adak封狼居胥 分享，华为鸿蒙 HarmonyOS 系统的导航条也已支持防诈骗功能。鸿蒙 7 新增的‘小艺流光’功能，可以实时监测当前浏览网页的内容风险，一旦检测到异常内容第一时间以彩色流光态提醒，并且能够给出详细的诈骗手段分析和最佳处理建议。据IT之家此前报道，华为在 7 月开启鸿蒙 HarmonyOS 7 花粉 Beta 版招募后，便开启了新版本推送，系统包大小来到了 10GB 左右（部分机型更是冲破 20GB）。博主 @Adak封狼居胥 透露，此次花粉 Beta 版将带来超百项更新。在今年 6 月的华为开发者大会 HDC 2026 上，华为终端 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/696.htm"
+    },
+    {
+      "id": "3b403df8-2d23-811d-a045-c2f664d49878",
+      "title": "卡普空：游戏行业数字化转型不会显著影响我们的销售业绩",
+      "summary": "IT之家 8 月 6 日消息，据外媒 VGC 今天（6 日）傍晚报道，卡普空认为，游戏行业全面转向数字发行，不会明显影响其销售表现。索尼一个月前宣布，自 2028 年 1 月起不再为 PlayStation 主机发行实体光盘游戏，XBOX 也被曝在开发光盘转数字版系统，令外界猜测下一代 Project Helix 主机可能彻底放弃实体游戏。玩家和零售商担心，实体游戏逐渐消失将改变游戏媒介的未来。部分发行商更关心数字化会不会影响收入，而卡普空显然并不担忧。在最新财报发布后的问答环节中，有人向卡普空提问：“从中长期来看，实体游戏市场持续萎缩将带来什么影响？”卡普空回应称：“目前约 90% 的游戏销",
+      "source": "IT之家",
+      "publishTime": "2026-08-06",
+      "link": "https://www.ithome.com/0/986/695.htm"
+    },
     {
       "id": "3b403df8-2d23-81e9-88b4-fe93584acbfc",
       "title": "通用汽车回应雪佛兰品牌将停止在华销售：不会停产",
@@ -104,302 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-08-06",
       "link": "https://www.businessinsider.com/jeff-dean-leaves-google-employees-react-fond-memes-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-8156-9671-d3fd7d444f09",
-      "title": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
-      "summary": "Hadrian is one of a number of defense tech startups raising large sums and benefiting from President Trump's plans to upgrade the U.S. military.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-06",
-      "link": "https://www.cnbc.com/2026/08/06/hadrian-defense-tech-ai-manufacturing.html"
-    },
-    {
-      "id": "3b403df8-2d23-81d8-ba90-c99d501185b6",
-      "title": "Why tech leaders are writing code again",
-      "summary": "Some tech leaders are returning to coding, balancing management with time doing hands-on software development.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/tech-leaders-ceo-cto-coding-again-ai-software-development-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-81cb-883b-c7c3bbd59739",
-      "title": "铭瑄正式推出“偶像瑷珈”主题主板 MS-iCraft B850M CROSS，标价 1299 元",
-      "summary": "IT之家 8 月 6 日消息，铭瑄 (Maxsun) 本周正式推出了其“偶像瑷珈”主题 AMD B850 芯片组主板 MS-iCraft B850M CROSS。该型号将于 8 月 9 日 20:00 开售，当前标价 1299 元。这一型号以白色为底色并点缀以粉蓝，散热装甲与显卡瞬拆结构线条圆润柔和，背部则有 Q 版瑷珈 + 梦幻流星丝印；随附瑷珈立牌、Q 版贴纸。MS-iCraft B850M CROSS 主板搭载 10+2+1 相供电，其中核心供电应用 110A SPS DrMPS，搭配 2×8Pin EPS CPU 供电接口。内存：4× DDR5 UDIMM (2DPC/2SCP)，支持",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/652.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8105-adb3-e47268dddc62",
-      "title": "A former T-Mobile exec shares his strategy for working with difficult colleagues",
-      "summary": "T-mobile's Mike Katz has worked in over a dozen roles at the company. Here's how he suggests dealing with a challenging colleague.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/former-tmobile-exec-tips-dealing-with-difficult-coworkers-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-81f9-81c2-f91a1aabf421",
-      "title": "英伟达宣布参加 QuakeCon 2026：现场开放 RTX 5090 原价售卖活动，限量供应公版显卡",
-      "summary": "IT之家 8 月 6 日消息，英伟达宣布，将在 2026 年 8 月 6 日至 9 日举办的 QuakeCon 2026（雷神之锤嘉年华）期间推出多项 GeForce 线下活动，其中包括限量原价销售的 RTX 50 系列公版显卡。本届 QuakeCon 正值创办 30 周年，英伟达将在 GeForce 展位推出名为“Verified Priority Access IRL”的线下购买活动。到场玩家可参与活动，并有机会以官方建议零售价购买 RTX 5090、RTX 5080 以及 RTX 5070 Founders Edition 显卡，产品供应数量有限，售完即止。除了提供购买机会外，英伟达还将",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/644.htm"
-    },
-    {
-      "id": "3b403df8-2d23-81ba-a723-eabac5b56885",
-      "title": "Elon Musk's Terafab chip factory has rural Texans demanding a say in the AI buildout",
-      "summary": "Residents of a Texas county are asking for more local oversight of AI infrastructure projects after Elon Musk's Terafab project got a tax break.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/elon-musk-terafab-ai-texas-backlash-spacex-regulation-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-81dc-a2da-eaa3482afee8",
-      "title": "美国祖父母热衷将孙辈写进 AI 生成童书，引发父母辈大量反感",
-      "summary": "IT之家 8 月 6 日消息，美国一些祖父母正热衷于把孙辈写进 AI 生成童书，却让孩子父母大为反感，甚至引发家庭矛盾。据《连线》杂志当地时间 7 月 29 日报道，美国各地不少父母陆续收到孩子祖父母送来的 AI 童书。祖父母原本只是想给孙辈准备一份充满个人色彩的礼物，结果往往适得其反。在祖父母看来，用 AI 制作一本由孙辈担任主角的绘本“既新奇又可爱”。孩子父母却未必认同，尤其无法接受把孩子的照片和身份信息交给 AI 平台处理。一名家长在 Reddit 帖子中大发牢骚。尽管自己已经多次明确反对，母亲仍没有停手。“我已经说过无数次，我不支持 AI 生成艺术，也明确划下红线：绝对不能把我们的任何",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/634.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8165-8e1a-d3fac8f66770",
-      "title": "专家辟谣“车市半年发了五六百款新车”，称 2026 年 1-6 月国内全新车型仅约 165 款",
-      "summary": "IT之家 8 月 6 日消息，据第一财经报道，针对上半年上市新车超 500 款的行业热议数据，中国汽车流通协会专家李颜伟今日在社交平台上表示，2026 年 1-6 月国内全新车型仅约 165 款，市面流传 500 至 600 款的说法并不严谨。李颜伟解释，500 多款是车型 + 各类配置、衍生款的合并统计。“比如新上市一款车型，有三个配置，这可以算作是 1 款车型，3 个款型；如果上半年这 165 款车型，加上不同配置，或许能有 500~600 个款型；但是说成 500-600 款车型就不严谨了。”据IT之家此前报道，有数据显示，今年 1-6 月，国内共计有超 650 款新车上市。而公安部统计",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/624.htm"
-    },
-    {
-      "id": "3b403df8-2d23-81ee-99f2-f7c49fcabfc8",
-      "title": "华硕 12.3 英寸 24:9 便携式触控显示器 ROG Strix XG129C 国行上市，1599 元",
-      "summary": "IT之家 8 月 6 日消息，华硕今年 5 月推出的那款副屏产品 ROG Strix XG129C 现已在京东上市，国行定价为 1599 元。京东华硕 12.3 英寸 ROG XG129C 便携式触控电竞显示器【新品】 IPS 面板 75Hz 24：9 比例直播聊天监控显示器 ROG 便携触控显示器 1599 元直达链接这款产品定位便携式触控显示器，采用了 12.3 英寸 IPS 面板，有着 24:9 特殊比例，相比同尺寸 32:9 显示器提供更大垂直视野。此外，这款产品拥有 1920×720 分辨率、75Hz 刷新率，亮度 300nits，静态对比度 1200:1，覆盖 125% sRGB ",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/616.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8184-a299-da7870a0f02b",
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-      "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup'",
-      "source": "The Verge",
-      "publishTime": "2026-08-06",
-      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request"
-    },
-    {
-      "id": "3b403df8-2d23-8143-8854-d10e6b3a1074",
-      "title": "Best Handheld Fans for a Breeze on Demand (2026)",
-      "summary": "I put handheld, wearable, and misting fans through a sweltering summer to see which ones kept me coolest.",
-      "source": "Wired",
-      "publishTime": "2026-08-06",
-      "link": "https://www.wired.com/story/best-handheld-and-portable-fans/"
-    },
-    {
-      "id": "3b403df8-2d23-81f9-8a8e-f5e3d9827da8",
-      "title": "Khanna to introduce 'Data Center Bill of Rights' as fight over AI power plants heats up",
-      "summary": "Michigan Democratic Senate candidate Abdul El-Sayed, who won a competitive primary Tuesday, has endorsed state and local moratoriums on data centers.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-06",
-      "link": "https://www.cnbc.com/2026/08/06/khanna-to-introduce-data-center-bill-of-rights-in-ai-power-plants-fight.html"
-    },
-    {
-      "id": "3b403df8-2d23-81c5-91e6-cbf927f3edcb",
-      "title": "宏碁非凡 Go 锐龙版笔记本新增 AMD 锐龙 5 6600H + 16G + 512G 版本，4399 元",
-      "summary": "IT之家 8 月 6 日消息，宏碁现已为旗下非凡 Go 锐龙版笔记本新增 AMD 锐龙 5 6600H + 16GB RAM + 512GB SSD 版本，定价为 4399 元。京东 acer 非凡 Go 锐龙版 R5 6600H 版本 4399 元直达链接该机 B 面配备一块 1920x1200 分辨率 IPS 面板，C 面带有小键盘；机身左侧提供 1 个全功能 USB-C、1 个 HDMI、1 个 USB-A 3.2 Gen 1 接口；右侧提供 1 个 Micro SD 卡槽、2 个 USB-A 3.2 Gen 1、1 个 RJ45 网口、1 个 3.5mm 音频接口。该机采用 6 核心 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/596.htm"
-    },
-    {
-      "id": "3b403df8-2d23-811b-9f65-d10665e081d2",
-      "title": "华硕 AM4 主板新品 PRIME B550M-K WIFI 上市，599 元",
-      "summary": "IT之家 8 月 6 日消息，华硕 (ASUS) 现已在电商平台销售近期推出的 AMD Socket AM4 平台主板新品 PRIME B550M-K WIFI。这一型号标价为 599 元。PRIME B550M-K WIFI 这款主板仅在芯片组处覆盖了散热片，也没有预装后置 I/O 挡板。其采用上下桥供电，仅具有 1 组 EPS 8Pin CPU 供电接口；提供 2 条 DDR4 UDIMM 内存插槽，支持 5100MT/s 内存超频。该主板提供 1 条 PCIe Gen4 ×16 插槽、1 条 PCIe Gen3 ×1 插槽；两个 M.2 SSD 盘位除 SATA 模式外分别支持 PCIe",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/595.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8142-97b6-c55565b0da04",
-      "title": "鸿蒙智行尊界 V800 / V680 旗舰 MPV 上市 24 小时大定突破 3500 台",
-      "summary": "IT之家 8 月 6 日消息，在昨天的尊界时代旗舰 MPV 及华为全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布尊界 V800 / V680 两款旗舰 MPV，售价 64.8 万元起。IT之家注意到，博主 @我鸿 今日发文分享，鸿蒙智行尊界 V800 / V680 旗舰 MPV 上市 24 小时，大定订单突破 3500 台。据介绍，尊界 V800 作为国产首款百万级超豪华 MPV，凭借超大尺寸、华为全栈技术及多项行业首创配置，冲击高端商务 MPV 市场，将于 9 月启动交付。鸿蒙智行尊界 V680 上市价相较 V800 更低，同样会在 9 月底启动交",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/594.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8126-b3ae-de8510cd242e",
-      "title": "任天堂数字版游戏占比突破六成，销售额猛增九成至 1327 亿日元",
-      "summary": "IT之家 8 月 6 日消息，围绕游戏行业是否会全面转向数字发行的讨论近来持续升温，索尼、Xbox 和任天堂都被卷入数字化浪潮之中。任天堂最新财报显示，Switch 玩家正越来越多地转向数字版游戏，数字渠道贡献的软件销售额占比已经超过 60%。据外媒 Inside Gaming 今天（6 日）报道，索尼计划从 2028 年起告别实体光盘，Xbox 据称也在探索把实体盘转换为数字版的服务。任天堂一度被视为最有可能长期保留实体游戏的最后几家大厂之一，但数字销售持续攀升意味着，任天堂同样很难逆转行业方向。最新财报显示，任天堂 Switch 2 累计销量已经突破 2300 万台，整个 Switch 生",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/593.htm"
-    },
-    {
-      "id": "3b403df8-2d23-813d-8d0e-ddb7acec657d",
-      "title": "神舟战神 T8 笔记本新增“i7-14700HX + 16G + 1T + RTX5060”版本，8999 元",
-      "summary": "IT之家 8 月 6 日消息，神舟现已为旗下战神 T8 笔记本新增“i7-14700HX + 16GB RAM + 1TB SSD + RTX5060”版本，定价为 8999 元，将于 8 月 11 日发售。该机整体重量 2.45kg，B 面配备一块 16 英寸 2560x1600 分辨率 180Hz 面板（亮度 500 尼特），搭载 24 核心 32 线程英特尔酷睿 i7-14700HX 处理器，匹配 16GB DDR5 RAM 和 1TB PCIe 4.0 SSD，搭载 RTX5060 Laptop 显卡，使用双风扇六铜管散热，内置 53Wh 电池。I/O 方面，这款笔记本配备 1 个 U",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/591.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8142-87ae-fdb6e4fe5745",
-      "title": "境外新能源项目首次接入我国电力市场，老挝输送 6 亿千瓦时水电至粤港澳大湾区",
-      "summary": "IT之家 8 月 6 日消息，今日，老挝水电经中老 500 千伏联网工程输送至中国粤港澳大湾区。本次送电工作预计持续至 10 月底，输送总量约 6 亿千瓦时，相关电量同步参与南方区域电力市场交易。中老 500 千伏联网工程于今年 4 月 20 日正式投运。投运当日，老挝北部清洁能源基地的光伏电能即通过该通道送入云南，实现境外新能源项目首次接入中国电力市场。此次老挝水电送达粤港澳大湾区，进一步拓宽了跨境清洁能源的消纳范围，推动形成“光伏 + 水电”多能互补的跨境清洁能源输送格局。中老 500 千伏联网工程于 2025 年 2 月启动建设，输电线路全长 177.5 公里，连接中国云南与老挝乌多姆塞",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/592.htm"
-    },
-    {
-      "id": "3b403df8-2d23-815b-9f26-c122bc5153d1",
-      "title": "逆版本而行：华为 Mate 80 标准版手机新增“16GB+1TB”版本规格，学生价 6199 元",
-      "summary": "IT之家 8 月 6 日消息，在内存价格疯涨导致手机等终端设备存储规格普遍“缩水”的大背景下，华为“逆版本”而行，推出了 Mate 80 标准版手机的“16GB+1TB”规格，定价 6499 元。不过遗憾的是，Mate 80 标准版目前仅曜石黑推出了“16GB+1TB”版本，其他颜色均无法选购该规格。另外，Mate 80 机型还有 5 项购机权益，使用教育优惠购机可便宜 100 元。另外，该规格也上架了京东平台，学生价 6199 元。京东 HUAWEI Mate 80 16GB+1TB6499 元直达链接据介绍，华为 Mate 80 标准版手机采用玄武架构设计，搭载麒麟 9020 处理器，搭配",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/590.htm"
-    },
-    {
-      "id": "3b403df8-2d23-81e4-ac9a-f0ab1aae74bf",
-      "title": "I'm an 80-year-old widow who sold my home and moved into a retirement community. I'm less stressed and don't feel managed.",
-      "summary": "Rose Marie Obey had lived in the same house with her husband, Lee, for 44 years. When he died in 2025, she knew it was time to downsize.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/80-year-old-sold-house-moved-retirement-community-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-813c-98f6-d16860362a7b",
-      "title": "华硕推出 TUF GAMING B850M WIFI 主板：8+2+1 供电，显卡插槽仅 PCIe Gen4",
-      "summary": "IT之家 8 月 6 日消息，华硕 (ASUS) 近日为其 TUF GAMING 产品线再添一款基于 AMD B850 芯片组的 micro-ATX 外形规格主板产品，即 TUF GAMING B850M WIFI。这一型号配置相对基础：其搭载 8+2+1 相 80A DrMOS 供电，配备 8+4 Pin 的 EPS CPU 供电接口；内存超频支持到 7600+ MT/s；主 PCIe 插槽仅支持 Gen4，位于第二扩展槽位置；无线网卡仅兼容 Wi-Fi 6 规范。TUF GAMING B850M WIFI 的第二条 PCIe 插槽为 Gen4 ×1 规格；三个 M.2 分别为 Gen5 ×",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/588.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8124-bc3d-d035fdb80160",
-      "title": "K 系列命名引发热议：小米胡馨心暗示 REDMI 后续旗舰手机有望命名为 K200 系列",
-      "summary": "IT之家 8 月 6 日消息，小米将于 8 月 11 日发布 REDMI K100 系列手机，虽然新机还未正式登场。但目前已有不少米粉提前展开下一代 K 系列手机命名的讨论，有网友建议将后续机型命名为 K200。对此，REDMI 产品经理胡馨心回应称：“好问题，感觉 K110 有点怪。”IT 之家注意到，有不少手机品牌的产品线在突破数字 100 之后，普遍按照 100 为周期进行迭代，例如荣耀数字系列和 vivo X 系列等，参考胡馨心本次透露，预计 REDMI 下代旗舰机型将被命名为 K200 系列。回顾即将于 8 月 11 日上市的 REDMI K100 系列手机，本次 REDMI K10",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/586.htm"
-    },
-    {
-      "id": "3b403df8-2d23-81cf-9db1-d96e0882d69d",
-      "title": "White House advisor says companies are blaming AI for layoffs because 'it plays better in the press'",
-      "summary": "AI leaders like OpenAI CEO Sam Altman have complained about companies \"AI washing\" their layoffs.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/white-house-advisor-ai-layoffs-washing-michael-kratsios-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-8161-8c50-ef93af75b028",
-      "title": "网信办对 Palo Alto 派拓公司在华销售产品启动网络安全审查",
-      "summary": "IT之家 8 月 6 日消息，为保障关键信息基础设施安全稳定运行，防范网络安全风险隐患，维护国家安全，依据《中华人民共和国国家安全法》《中华人民共和国网络安全法》，网络安全审查办公室按照《网络安全审查办法》，对派拓公司（Palo Alto Networks）在华销售的产品实施网络安全审查。IT之家注：派拓网络是一家总部位于美国加利福尼亚州圣克拉拉市的网络安全公司，是企业防火墙的早期推动者和市场领导者，其核心产品为“次世代防火墙”（Next-Generation Firewall）平台，提供网络活动的可视化能力，可基于应用（App-ID）、用户（User-ID）与内容（Content-ID）进行",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/589.htm"
-    },
-    {
-      "id": "3b403df8-2d23-81a0-b54d-fe76a78c3519",
-      "title": "Internal Amazon documents reveal a major overhaul of one of the world's biggest AI data centers",
-      "summary": "Amazon is redesigning part of its Indiana AI campus into a massive Trainium-powered cluster for its next frontier AI model, internal documents show.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/amazon-agi-pivot-redesigns-ai-data-center-indiana-anthropic-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-8123-8a54-ea278e419f7e",
-      "title": "Nvidia is quietly staffing a new AI safety team as it doubles down on open models",
-      "summary": "Nvidia is staffing a new AI safety team, signaling a bigger investment in secure AI as it doubles down on open-weight models.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/nvidia-staffs-new-ai-safety-team-push-for-open-models-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-81f5-8f8c-c3266a560aef",
-      "title": "A surprising backer of America’s affordable housing push: big banks",
-      "summary": "JPMorgan Chase's $750 billion pledge is among a slew of recent investments by big banks in America's affordable housing supply.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/jpmorgan-750-billion-housing-investment-part-of-a-larger-trend-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-8193-80cf-df680c810c99",
-      "title": "大众、小鹏合作第二款车型，与众 09 公布蓝、紫、白、黑四款车色",
-      "summary": "IT之家 8 月 6 日消息，今天（6 日）上午，@大众安徽 公布了旗下全新纯电轿跑 —— 与众 09 的四款车色：晴海蓝、暮光紫、素月白、耀夜黑。据IT之家了解，该车是大众和小鹏汽车在 24 个月内联合开发的第二款车型，将于下半年上市。该车拥有流畅的溜背线条，搭配舒展修长的车身比例，并将独特的狼头徽标融入车身设计。车长超 5 米，轴距达 3030mm。此外，这款新车搭载大众人本科技“行云智行”和“云栖智舱”等先进技术，包括 VLA 大模型全场景智能辅助驾驶、AI 智能助手、超强算力，智能化水平跻身第一梯队。新车提供单电机后驱版以及双电机四驱版，均采用磷酸铁锂蓄电池，由宁德时代提供电芯，大众汽",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/585.htm"
-    },
-    {
-      "id": "3b403df8-2d23-81e5-aad6-e688c7480f98",
-      "title": "国产消费级 3D 打印机拿下全球 9 成份额，深圳诞生“四小龙”",
-      "summary": "IT之家 8 月 6 日消息，国家统计局数据显示，2026 年上半年，国内 3D 打印设备产量同比增长 48.5%，增速在主要工业产品中排名第一。出口端表现更为突出，上半年我国累计出口 3D 打印机 362 万台，同比增长 90.2%，出口金额达 96.11 亿元，同比增长 109.3%。据财联社今日报道，3D 打印资源库创始人谭文杰表示，按照目前的增速，2026 年全年 3D 打印机出口量有望达到 800 万台。据国泰海通研报数据，全球 3D 打印市场收入预计到 2034 年将达到 1,150 亿美元（IT之家注：现汇率约合 7,776.54 亿元人民币），10 年复合年增长率达 18%。报",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/583.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8102-b17c-c2f930f2e290",
-      "title": "13 代酷睿 + RTX40 系卷土重来：7599 元神舟为战神 Z8 笔记本带回“i5-13420H + 16G + 512G + RTX4060”规格",
-      "summary": "IT之家 8 月 6 日消息，神舟现已在京东为旗下战神 Z8 笔记本带回“i5-13420H + 16GB RAM + 512GB SSD + RTX4060”规格，将于 8 月 11 日发售，定价为 7599 元。该机 B 面配备一块 FHD 165Hz 15.6 英寸面板，C 面采用全尺寸单区 RGB 背光键盘。搭载 8 核心 12 线程英特尔酷睿 i5-13420H 处理器，匹配 16GB DDR5 RAM 和 512GB PCIe 4.0 SSD，使用双风扇七铜管散热。I/O 方面，该机左侧提供了 1 个 USB-A 3.2、1 个 USB-A 2.0、2 个 3.5mm 音频接口；右",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/584.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8104-99d8-f5e70d542e1b",
-      "title": "宏碁 2026 财年上半年归母净利润 28.74 亿新台币，同比增长 79.6%",
-      "summary": "IT之家 8 月 6 日消息，宏碁今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：营业总收入：1577.26 亿新台币（IT之家注：现汇率约合 328.86 亿元人民币），同比增长 23.3%毛利润：177.86 亿新台币（现汇率约合 37.08 亿元人民币），同比增长 34.7%毛利率：11.28%归母净利润：28.74 亿新台币（现汇率约合 5.99 亿元人民币），同比增长 79.6%基本每股收益：0.96 新台币（现汇率约合 0.20 元人民币）资产负债率：67.67%AI 解读本次财报未披露机构一致预期数",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/582.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8191-b5d7-c75d7a3b9fda",
-      "title": "华为乾崑 7 月安全出行报告发布，累计辅助驾驶里程突破 134.1 亿公里",
-      "summary": "IT之家 8 月 6 日消息，华为乾崑智能汽车解决方案官方今日发布了华为乾崑 7 月安全出行报告。据介绍，华为乾崑智驾累计辅助驾驶里程 134.1 亿公里，月度辅助驾驶里程 10.6 亿公里、月度辅助驾驶时长 1670 万小时，辅助驾驶月活用户 94.7%。IT之家查询华为乾崑官网获悉，乾崑智驾累计辅助驾驶里程截至目前已突破 136 亿公里，搭载乾崑智驾车辆累计行驶总里程也已突破 395 亿公里。延伸阅读对比华为乾崑 6 月安全出行报告数据，7 月累计辅助驾驶里程从 123.5 亿公里增至 134.1 亿公里，月度辅助驾驶里程从 8.8 亿公里提升至 10.6 亿公里，辅助驾驶月活用户从 94",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/580.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8126-a94b-c105cc2d6913",
-      "title": "美的 COLMO 云璃白空调挂机 CA3Z 上市：国补价 5999 元",
-      "summary": "IT之家 8 月 6 日消息，美的旗下 COLMO 宣布推出 1.5 匹的云璃白 CA3Z 空调挂机，京东显示为 7057.65 元，叠加国补后首发价 5999 元，明天 20:00 开售。京东 COLMO【新品】云璃白空调 CA3Z 【新品】1.5 匹 AI 语音智控 家用 1.5 匹挂机一级能效全变频健康无风感 净呼吸 2.0 母婴新风 云璃白空调挂机国补 5999 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/581.htm"
-    },
-    {
-      "id": "3b403df8-2d23-81d2-96b7-fc2f4c8d05ac",
-      "title": "They ran tea shops and podcasts. Now they're in the arms trade.",
-      "summary": "Entrepreneurs and tech founders are in a mad gold rush to build the next generation of bombs, missiles, and drones.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-06",
-      "link": "https://www.businessinsider.com/defense-tech-startups-gold-rush-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-81ed-a40f-c0c244d32a90",
-      "title": "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
-      "summary": "Nintendo reported fiscal first-quarter earnings Thursday.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-06",
-      "link": "https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html"
-    },
-    {
-      "id": "3b403df8-2d23-8162-ae56-dffa04e86b4a",
-      "title": "荣耀 MagicOS 11 开启内测招募：覆盖 Magic8、V6、WIN、GT Pro、600 系列等机型",
-      "summary": "IT之家 8 月 6 日消息，今日起，荣耀 MagicOS 11 启动首批内测报名招募。首批内测机型包括：荣耀 Magic V6荣耀 Magic V5荣耀 Magic8 RSR 保时捷设计荣耀 Magic8 Pro荣耀 Magic8 Pro Air荣耀 Magic8荣耀Magic7 RSR 保时捷设计荣耀Magic7 Pro荣耀Magic7荣耀 WIN荣耀 WIN RT荣耀 GT Pro荣耀 600 Pro荣耀 600 超级版荣耀 600 元气版荣耀 MagicPad3 Pro荣耀 MagicPad3 Pro12.3",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/550.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8198-8baa-c64de9c83c29",
-      "title": "百年通信巨头诺基亚收购恩智浦晶圆厂，专攻磷化铟光学半导体",
-      "summary": "IT之家 8 月 6 日消息，诺基亚今年 7 月发布 2026 年第二季度及上半年业绩报告，宣布持续拓展其长期光器件制造计划。位于美国圣何塞的新工厂项目进展顺利，预计将于 2026 年第四季度末开始量产。诺基亚在 2026 年第二季度宣布，将投资宾夕法尼亚州工厂，使其先进测试和封装产能从 2026 年第三季度开始提升 10 倍。这些投资旨在满足 2027 年和 2028 年的预期需求。作为其长期产能规划的一部分，诺基亚已达成最终协议，收购恩智浦位于美国亚利桑那州的钱德勒半导体制造园区。在获得相关监管部门批准后，诺基亚将从 2027 年初开始租赁该园区部分设施的产能，并将其改造为生产用于光学元件",
-      "source": "IT之家",
-      "publishTime": "2026-08-06",
-      "link": "https://www.ithome.com/0/986/551.htm"
     }
   ],
   "macroEvents": [
