@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-08-08 05:09",
+  "updatedAt": "2026-08-08 06:05",
   "news": [
+    {
+      "id": "3b503df8-2d23-81d3-a360-d75eed4ab018",
+      "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+      "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-08",
+      "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/"
+    },
+    {
+      "id": "3b503df8-2d23-81fb-af00-c1eafa1988df",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-08",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/"
+    },
+    {
+      "id": "3b503df8-2d23-816e-a29d-c5c63a0f24e7",
+      "title": "The transfer of millions of student-loan accounts to the Treasury is taking a key step forward",
+      "summary": "The Treasury announced new steps to take over the management of defaulted student loans, including a partnership with new collection vendors.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-08",
+      "link": "https://www.businessinsider.com/student-loan-accounts-transfer-to-treasury-step-forward-defaulted-borrowers-2026-8"
+    },
+    {
+      "id": "3b503df8-2d23-81d6-91ba-de168b1c138c",
+      "title": "Starbucks is ending GLP-1 coverage for weight loss as employer costs climb",
+      "summary": "Starbucks will stop covering the GLP-1 drugs for weight loss, adding to a broader employer retreat from an increasingly costly benefit.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-08",
+      "link": "https://www.businessinsider.com/starbucks-cuts-glp-1-coverage-weight-loss-costs-climb-2026-8"
+    },
+    {
+      "id": "3b503df8-2d23-819f-a27d-d1161ee28c4a",
+      "title": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off",
+      "summary": "Meta CTO Andrew Bosworth tells employees he'd rather see AI productivity gains spent building more products than taking more time off.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-08",
+      "link": "https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8"
+    },
+    {
+      "id": "3b503df8-2d23-81d7-869e-e6e259301ec9",
+      "title": "I made Ina Garten's easy weeknight Bolognese pasta. The delicious dish was ready in 30 minutes.",
+      "summary": "Ina Garten's Bolognese pasta is perfect for busy weeknights. The easy, delicious dish takes only 30 minutes to make and is packed with flavor.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-08",
+      "link": "https://www.businessinsider.com/ina-garten-weeknight-bolognese-pasta-recipe"
+    },
+    {
+      "id": "3b503df8-2d23-8129-b8e2-c538baa1c969",
+      "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+      "summary": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-08",
+      "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html"
+    },
     {
       "id": "3b503df8-2d23-816b-a648-f67db9f58ebc",
       "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
@@ -344,62 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-08-07",
       "link": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review"
-    },
-    {
-      "id": "3b503df8-2d23-8133-a8db-fe906aaceab0",
-      "title": "三星确认 Galaxy S23 系列最后一次系统大版本更新为 One UI 9.0",
-      "summary": "IT之家 8 月 7 日消息，据爆料人 Tarun Vats 分享的截图，三星客服确认 Galaxy S23 系列手机后续将获得 One UI 9.0 更新，但这也将成为该系列设备最后一次 Android 系统大版本升级。三星于 2023 年推出 Galaxy S23 系列，包括 Galaxy S23、Galaxy S23+、Galaxy S23 Ultra 以及 Galaxy S23 FE 等机型。这些设备出厂搭载基于 Android 13 的 One UI 5.1 系统。截至目前，Galaxy S23 系列已经完成 3 次系统升级，目前运行基于 Android 16 QPR2 的 One ",
-      "source": "IT之家",
-      "publishTime": "2026-08-07",
-      "link": "https://www.ithome.com/0/987/213.htm"
-    },
-    {
-      "id": "3b503df8-2d23-8119-aeb6-de4c0e354fc1",
-      "title": "Linux KVM 曝出虚拟机逃逸漏洞，嵌套虚拟化功能成攻击突破口",
-      "summary": "IT之家 8 月 7 日消息，开发者 Hyunwoo Kim 近日在 GitHub 平台报告一起 Linux KVM 虚拟机逃逸漏洞，黑客可利用其实现 KVM 虚拟机逃逸和宿主机内核代码执行。据悉，此漏洞被命名为 Zapscape，编号为 CVE-2026-64561。该漏洞潜伏在 KVM/x86 Shadow MMU 模拟机制的释放后重用（IT之家注：UAF）中，具体位于 Shadow Pages 执行的递归 zap 路径中。攻击者只需要使用客户机操作就能触发该漏洞，使宿主机内核的 Shadow Page 遭到破坏。影响公有云平台，以及开启嵌套虚拟化的环境。同时，攻击者可利用公有云的虚拟机实",
-      "source": "IT之家",
-      "publishTime": "2026-08-07",
-      "link": "https://www.ithome.com/0/987/212.htm"
-    },
-    {
-      "id": "3b503df8-2d23-81e7-bd6c-f2cef871c200",
-      "title": "荣耀 MagicOS 10 系统 8 月版本第二批机型开推，覆盖 Magic7、WIN 等系列",
-      "summary": "IT之家 8 月 7 日消息，荣耀 MagicOS 官方微博今日宣布，MagicOS 10 系统 8 月版本推送第二批机型：荣耀 Magic7 系列、荣耀 Magic V5、荣耀 500 系列、荣耀 WIN、荣耀 WIN RT、荣耀 GT ProIT之家整理 MagicOS 10 系统的 8 月版本更新内容如下（升级路径：设置 > 系统和更新 > 软件更新 > 右上角三个点 > 升级尝鲜）：夏日主题：新增“悠悠碧波”主题YOYO 记忆：YOYO 记忆支持长视频解析 (抖音、B站、小红书、快手及本地视频）远程协助新增更多机型：一键连接亲友设备，解决用机难题荣耀笔记：新增 AI 语义搜索；优化首页",
-      "source": "IT之家",
-      "publishTime": "2026-08-07",
-      "link": "https://www.ithome.com/0/987/208.htm"
-    },
-    {
-      "id": "3b503df8-2d23-8140-92b9-f21aab37a4b3",
-      "title": "EA《麦登橄榄球 27》登陆 Apple Arcade，支持苹果 iPhone、iPad、Mac 及 Apple TV",
-      "summary": "IT之家 8 月 7 日消息，《麦登橄榄球 27》（Madden NFL 27）是由 EA Sports 斥资打造的年度美式橄榄球大作，将于 2026 年 8 月 13 日正式发售，登陆 PS5、XSX|S、PC 及任天堂 Switch 2，即日开启 7 天抢先体验及 10 小时的免费试玩。在那之前，《Madden NFL 27 Arcade Edition》已于当地时间 8 月 6 日率先登陆 Apple Arcade 平台，成为该订阅服务的（暂时）独占游戏，无内购、无广告。《Madden NFL 27 Arcade Edition》支持玩家选择当前 NFL 球队，并带领球队完成完整赛季。游",
-      "source": "IT之家",
-      "publishTime": "2026-08-07",
-      "link": "https://www.ithome.com/0/987/206.htm"
-    },
-    {
-      "id": "3b503df8-2d23-8157-b791-e34304f5edbb",
-      "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-      "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-07",
-      "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "3b503df8-2d23-81c0-8ba3-d2ca0aee0abf",
-      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-      "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-07",
-      "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/"
-    },
-    {
-      "id": "3b503df8-2d23-81a0-8304-dd2a42732c62",
-      "title": "华为鸿蒙 HarmonyOS SDK 游戏新特性公开，含 AI 超分、控显分离、硬件光追等",
-      "summary": "IT之家 8 月 7 日消息，ChinaJoy2026 已顺利落下帷幕，华为 HarmonyOS 开发者官方微博今日分享了 HarmonyOS SDK 的游戏新特性，包括 AI 超分、控显分离、硬件光追等。据IT之家此前报道，在今年 6 月，华为手机官方宣布，HarmonyOS SDK 26 正式发布，在易用、空间化、智能化全面升级，其中就带来了游戏秒启秒开功能。而据多名用户分享，升级了华为鸿蒙 HarmonyOS 7 开发者 / 花粉 Beta 版系统的平板 / 手机，已实装游戏秒启秒开特性，并支持《原神》《洛克王国》等游戏极速启动。关于华为鸿蒙 HarmonyOS 7 的新特性，IT之家仍",
-      "source": "IT之家",
-      "publishTime": "2026-08-07",
-      "link": "https://www.ithome.com/0/987/205.htm"
     }
   ],
   "macroEvents": [
