@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-08-08 07:04",
+  "updatedAt": "2026-08-08 07:57",
   "news": [
+    {
+      "id": "3b503df8-2d23-8106-812a-fc080335d422",
+      "title": "新 AI 预估全球冰川蕴藏约 15 万立方千米的冰，融化可抬升海平面 32.3 厘米",
+      "summary": "IT之家 8 月 8 日消息，科技媒体 phys 今天（8 月 8 日）发布博文，报道称科学家通过构建 AI 模型 IceBoost v2.0，估算出全球冰川约含 15 万立方千米的冰，若全部融化、在不计南极和格陵兰的情况下，会抬升全球平均海平面 32.3 厘米。该项目由威尼斯大学牵头，意大利国家研究委员会极地科学研究所参与合作，训练构建了名为 IceBoost v2.0 的模型，从而系统性估算全球冰川的冰量。该模型由威尼斯大学、并隶属 CNR-ISP 的物理学家兼研究员 Niccolò Maffezzoli 带领开发，用超过 700 万条来自全球冰川的冰厚测量数据训练，再结合地形坡度、曲率、",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/225.htm"
+    },
+    {
+      "id": "3b503df8-2d23-817e-b1e4-e97a91aac52f",
+      "title": "微软承诺 Win11 开箱体验更快、更高效，但账户登录仍未松绑",
+      "summary": "IT之家 8 月 8 日消息，科技媒体 Windows Latest 今天（8 月 8 日）发布博文，报道称微软已经承诺在 2026 年年底前，优化 Windows 11 系统的开箱体验（OOBE），为用户带来更快、更高效的使用体验。IT之家注：OOBE 是指用户首次启动新 Windows 电脑或重装 Windows 系统后出现的设置过程。OOBE 是一个欢迎界面，引导用户选择语言、连接 Wi-Fi、设置隐私和 PIN 码等，从而加速用户上手。该媒体指出，对于 Windows 11 用户而言，OOBE 体验此前存在 3 个问题：更新：OOBE 会强制用户先下载并安装待处理的更新，整个过程需要 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/222.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8197-961f-ea211824897e",
+      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+      "summary": "IT之家 8 月 8 日消息，OpenAI 表示，内部与专家评估显示，即将发布的模型 Astra 在智能体编程和网络安全领域取得重大突破。根据其《准备框架》（Preparedness Framework），Astra 已被列为 OpenAI 旗下首个在网络安全领域达到“关键”（Critical）风险级别的模型。IT之家注：根据该框架，AI 模型满足以下任一条件即触及“关键”门槛：无干预挖掘零日漏洞：无需人类干预，即可在多个经过安全加固的真实关键系统中，识别并开发出涵盖各严重等级的有效零日漏洞利用程序。自主发起端到端攻击：仅需提供高层级战略目标，即可针对加固目标自主构想并实施全新的端到端网络攻击",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/221.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8122-965c-c0f383242d62",
+      "title": "一汽-大众速腾 L HEV 新车申报：油电混动版本，轴距 2.7 米",
+      "summary": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，一汽-大众速腾 L HEV 完成申报。IT之家注意到，本次申报共有两个配置版本，两款车型均为汽油 / 电混合动力，且不允许外接充电，储能装置种类为镍钴锰三元锂蓄电池，由南京市欣旺达新能源有限公司提供单体与总成。动力方面，发动机型号为 FAV，排量 1498 ml，发动机功率 81 kW，最大净功率 81 kW；驱动电机额定功率 60 kW / 峰值功率 110 kW，最高车速 163 km/h，配备汽车事件数据记录系统 (EDR)，可选装车载视频行驶记录系统 (DVR)、ETC 车载装置。两款车",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/220.htm"
+    },
+    {
+      "id": "3b503df8-2d23-81d2-962e-f7e5e98ea683",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-08",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+    },
+    {
+      "id": "3b503df8-2d23-8195-9081-cbce64c74a95",
+      "title": "YouTube star Hank Green sets new AI policy for himself — and urges other content creators to do the same",
+      "summary": "Hank Green, a YouTube star, announced a new personal AI policy after apologizing for relying too heavily on the tech.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-08",
+      "link": "https://www.businessinsider.com/hank-green-youtube-star-sets-personal-ai-policy-after-backlash-2026-8"
+    },
     {
       "id": "3b503df8-2d23-8135-a021-c40364b0e810",
       "title": "The gaming site sponsored by Walmart lays off its editorial staff",
@@ -352,54 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-07",
       "link": "https://www.ithome.com/0/987/217.htm"
-    },
-    {
-      "id": "3b503df8-2d23-81a5-bf71-ef37cdc42908",
-      "title": "Anthropic 为自研 AI 芯片开出高薪，模型训练岗位薪资高于实际造芯工程师",
-      "summary": "IT之家 8 月 7 日消息，据 Wccftech 今日报道，Anthropic 目前正在扩大内部芯片设计团队，并计划开发自研 ASIC 芯片。与此同时，公司不同芯片相关岗位之间出现了明显的薪资差异：负责训练 AI 模型进行芯片设计的研究工程师岗位，年薪最高可达 85 万美元（IT之家注：现汇率约合 574.9 万元人民币），而实际负责设计 Anthropic 首款 ASIC 芯片的工程师岗位，薪资范围约为 32 万至 48.5 万美元（现汇率约合 216.4 万至 328 万元人民币）。Wccftech 称其为“薪酬倒挂”。Anthropic 发布的招聘信息显示，负责“Chip Design",
-      "source": "IT之家",
-      "publishTime": "2026-08-07",
-      "link": "https://www.ithome.com/0/987/218.htm"
-    },
-    {
-      "id": "3b503df8-2d23-814c-9eaf-ebdeffb13a60",
-      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-      "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-07",
-      "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/"
-    },
-    {
-      "id": "3b503df8-2d23-819a-92b8-fb8e6690fd86",
-      "title": "Take-Two CEO 称《GTA6》定价“超划算”，因为原本可以定得更高",
-      "summary": "IT之家 8 月 7 日消息，在今日举行的 2027 财年第一财季财报电话会议上，Take-Two 首席执行官 Strauss Zelnick 谈到了《侠盗猎车手 VI》相关内容，他表示 79.99 美元（IT之家注：现汇率约合 541 元人民币）的售价对玩家而言“简直是捡了个大便宜”。Zelnick 表示：“我们说过很多次了，我们的目标是向消费者提供远超收费的价值。说《GTA6》在游戏体验方面会物超所值已经算是保守的说法，因为 Rockstar Games 一向以超出预期而闻名。”他进一步指出，以《GTA6》的热度而言，Take-Two 本可以将价格定得更高，但公司并未这么做，因为“我们关注",
-      "source": "IT之家",
-      "publishTime": "2026-08-07",
-      "link": "https://www.ithome.com/0/987/216.htm"
-    },
-    {
-      "id": "3b503df8-2d23-8163-a56b-d9d4f38e255d",
-      "title": "消息称富士 X-T6 无反相机延期发布，新时间暂不明确",
-      "summary": "IT之家 8 月 7 日消息，据消息源 FujiRumors 今日发文，原定于 9 月初举行的富士 X-T6 X Summit 发布会已经取消，新日期暂时还没有风声。▲ 现款富士 X-T5 相机IT之家在此援引 FujiRumors，富士以往有过调整新品发布时间的情形。2023 年，富士曾宣布 X Summit 发布会 4 月举办。到了 3 月有消息称，这场活动实际上已经取消。当时有很多人怀疑这是假新闻，因为富士没有发布任何声明。随着 4 月临近，富士才最终确认这场发布会已经取消。据悉，富士推迟发布相机新品有多种原因，有时候公司会进行硬件调整。例如富士曾计划推出一款“终极 X-T 系列相机”，",
-      "source": "IT之家",
-      "publishTime": "2026-08-07",
-      "link": "https://www.ithome.com/0/987/215.htm"
-    },
-    {
-      "id": "3b503df8-2d23-817b-8da5-cbbcfc0a57a0",
-      "title": "Whatnot valued at $20 billion as live shopping continues to boom",
-      "summary": "Whatnot, the live commerce platform, has increased its valuation to $20 billion as the popularity of live shopping continues to grow.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-07",
-      "link": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html"
-    },
-    {
-      "id": "3b503df8-2d23-819f-be65-deb5e25cf62c",
-      "title": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
-      "summary": "The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software.",
-      "source": "Wired",
-      "publishTime": "2026-08-07",
-      "link": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/"
     }
   ],
   "macroEvents": [
