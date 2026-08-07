@@ -1,6 +1,270 @@
 {
-  "updatedAt": "2026-08-07 08:22",
+  "updatedAt": "2026-08-07 11:26",
   "news": [
+    {
+      "id": "3b503df8-2d23-8139-b052-f108c8bbf0d1",
+      "title": "ThinkBook Aeroblade 曝光，有望成联想最薄的 ThinkBook 笔记本电脑",
+      "summary": "IT之家 8 月 7 日消息，科技媒体 Windows Latest 今天（8 月 7 日）发布博文，分享了一组宣传图，展示了尚未发布的 ThinkBook Aeroblade，上市后有望成为联想最薄的 ThinkBook 笔记本。名称方面，该媒体指出在宣传图片中出现了“Aeroblade”这个关键词，而在联想现有产品线中，此前并未出现 Aeroblade 相关名称，预估会是内部代码或者全新产品系列。产品定位方面，该媒体认为该笔记本定位低于高端 ThinkPad 系列，主要面向希望获得类似 ThinkPad 设计、但预算低于 ThinkPad 的中小企业用户。外观方面，Aeroblade 延续",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/837.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8161-a56e-f4a4d2af6e30",
+      "title": "微软承认向部分 Win11 设备强推 OneDrive Photos，否认拿用户人脸训练 AI",
+      "summary": "IT之家 8 月 7 日消息，微软今天（8 月 7 日）通过科技媒体 Windows Latest，针对在 Windows 11 系统上推送 OneDrive Photos 应用事件做出回应。在推送范围方面，微软承认在部分 Windows 11 电脑上强制安装 OneDrive Photos 应用，但明确并未向纳入 Intune 管理范围的企业设备推送该应用程序。此外针对该应用中的 People 功能（整合包含某个人物的相关照片），微软回应表示，在 OneDrive Photos 应用中该功能默认处于禁用状态，且不会使用用户的照片信息来训练 AI。IT之家翻译微软声明部分内容如下：微软始终以负",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/835.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8121-84f4-f76ce3082aa3",
+      "title": "光伏硅料八巨头签署反内卷倡议书：不得低于成本价销售",
+      "summary": "IT之家 8 月 7 日消息，据上海证券报从签约企业处获悉，8 月 6 日晚，在 7 月 31 日市场监管总局对光伏行业开展价格合规指导后仅一周，国内八大多晶硅企业在上海共同签署反内卷《倡议书》。八家企业合计占据国内多晶硅有效产能超过 90%，包括四家上市公司通威股份、协鑫科技、大全能源、新特能源，以及亚洲硅业（青海）股份有限公司、新疆东方希望新能源有限公司、青海丽豪清能股份有限公司、新疆戈恩斯能源科技有限公司。企业共同承诺：所有光伏产品销售价格（含招投标报价）均不得低于依据团体标准《光伏行业成本核算模型通则》核算的对应成本。低于完全成本价销售的必须立即制止和纠正，并自觉接受各级市场监督管理部",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/836.htm"
+    },
+    {
+      "id": "3b503df8-2d23-812f-9070-f8a5595da26a",
+      "title": "Q2 净利润暴涨 256 倍，华邦电子透露客户已抢订 2030 年存储产能",
+      "summary": "IT之家 8 月 7 日消息，华邦电子股份有限公司 8 月 6 日公布 2026 年第二季度营运数据，合并营收为 598.43 亿元新台币（IT之家注：现汇率约合 125.37 亿元人民币），较去年同期增加 184.7%，营业毛利率为 66.2%。华邦电子第二季度归属母公司税后净利为 243.17 亿元新台币（现汇率约合 50.94 亿元人民币），同比暴增 25629%，每股盈余为 5.4 元新台币。其中定制存储产品线占 2026 年第二季度营收比重为 53%，主要受惠于 AI 需求强劲，混合平均售价环比增长约 100%，反映纯平均售价上升及产品组合优化，其中 20nm 产品营收贡献稳步提升；",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/834.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8110-bec6-f2e442dba96f",
+      "title": "消息称阿里计划向下一代千问 Qwen 开源模型大型商用用户收取营收分成",
+      "summary": "IT之家 8 月 7 日消息，据路透社消息，两位知情人士透露，阿里巴巴计划向其下一代通义千问开源模型的大型商用用户收取费用，要求从收益中抽取一定比例的分成。与月之暗面此前发布的 Kimi K3 模型类似，阿里巴巴的 Qwen3.8-Max 模型是一款开源开放权重模型，开发者可下载模型底层训练参数，自主运行或二次适配该模型。人们通常认为开源即免费，但月之暗面旗下 Kimi K3 的许可条款中包含一项特别规定：任何将该模型作为服务对外销售且年销售额超过 2,000 万美元（IT之家注：现汇率约合 1.35 亿元人民币）的实体，都必须与月之暗面达成商业协议。其中一位知情人士称，月之暗面要求的收益分成",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/830.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8175-abc1-c310d2e3f207",
+      "title": "惠普可拆式电脑 OmniPad 12 在印上市：六核版高通骁龙 6 Gen 3，48999 卢比起",
+      "summary": "IT之家 8 月 7 日消息，HP（惠普）现已在印度市场发售“可拆式电脑”（二合一平板电脑）OmniPad 12。这一型号基于高通 SM6475Q 处理器，也就是 6 核 CPU 版本的骁龙 6 Gen 3，运行 Android 16 操作系统。OmniPad 12 搭载一块 12.0\" 2000×1200 90Hz 400nits 的 100% sRGB 色域低蓝光多点触控屏幕，集成 8GB LPDDR5-6400 内存，可选 128GB / 256GB UFS 存储，配备 microSD 卡槽。其支持 Wi-Fi 6E 和蓝牙 5.2 无线连接；提供 USB-C 10Gbps 和 3.5m",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/815.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8116-9f04-e5f940b3a01f",
+      "title": "GPT-5 上线 1 周年之际：OpenAI 面向 AI 智能体推出 Agent Plugins 规范",
+      "summary": "IT之家 8 月 7 日消息，在 GPT-5 系列模型推出 1 周年（2025 年 8 月 7 日上线）之际，OpenAI 公司今天（8 月 7 日）宣布推出 Agent Plugins，是面向 AI 智能体的插件打包标准。OpenAI 在官方公告中指出，Agent Plugins 是一个开放、厂商中立的标准，用于将可复用组件打包为可移植插件，从而扩展 AI agents 智能体能力。官方目前已上线 1.0.0 版本规范，定义覆盖 Agent Skills 和 MCP Servers 等共享格式，兼容客户端可按同一规则发现并加载这些组件。OpenAI 表示目前不同 AI 智能体客户端已形成各自",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/816.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8101-85ab-d43d1de54586",
+      "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+      "summary": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-07",
+      "link": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html"
+    },
+    {
+      "id": "3b503df8-2d23-817c-9a36-d9ee7edf0160",
+      "title": "Judge orders Meta to pay over $900 million for failing to protect kids on social media",
+      "summary": "A New Mexico judge ordered Meta to pay a total of $942 million for failing to protect children on its platforms.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-07",
+      "link": "https://www.businessinsider.com/meta-942-million-child-harm-new-mexico-judge-2026-8"
+    },
+    {
+      "id": "3b503df8-2d23-81ef-bd9b-e0984334212f",
+      "title": "小鹏汽车：G9L 路测覆盖全球 26 个国家及地区，累计测试里程超 674 万公里",
+      "summary": "IT之家 8 月 7 日消息，小鹏汽车今日宣布，小鹏 G9L 在 3 年前立项，路测跨越 26 个国家及地区，在全球复杂路况与极端环境中反复验证，累计测试里程超过 674 万公里。小鹏 G9L 定位“全球大五座科技旗舰 SUV”，预计将于近期上市。小鹏汽车此前已陆续公布新车极夜黑、普罗旺斯紫、托斯卡纳绿、珠峰白、峡湾灰等多款配色。IT之家从工信部申报信息获悉，新车长 5120 mm、宽 1999 mm、高 1782 / 1788 / 1795 mm，轴距达到 3100 mm；采用双电机布局，前电机额定功率 50 kW、峰值功率 160 kW，后电机额定功率 110 kW、峰值功率 270 kW",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/810.htm"
+    },
+    {
+      "id": "3b503df8-2d23-81ac-9986-eeb602739485",
+      "title": "AI 设计病毒问世：首次设计完整基因组，16 种新型噬菌体可杀死大肠杆菌",
+      "summary": "IT之家 8 月 7 日消息，英国 BBC 今天（8 月 7 日）发布博文，报道称美国斯坦福大学研究人员使用 AI 技术，在实验室环境下设计出可复现、具备完整功能的全新病毒。研究人员表示，这是 AI 首次成功设计完整基因组，此次产出的 16 种新型病毒用于感染细菌，不会对人类构成威胁。在接受 BBC 采访时，斯坦福大学助理教授布莱恩 · 希（Brian Hie）表示，AI 此前已用于设计新型抗生素，不过从技术上衡量，从零开始设计可存活病毒难度更高。科研团队表示工作方式类似于 ChatGPT 等大语言模型，只不过大语言模型预测文本序列，而团队开发使用的 Evo1 和 Evo2 模型用于预测“生命",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/809.htm"
+    },
+    {
+      "id": "3b503df8-2d23-814d-8ec4-e18b102d2eb8",
+      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+      "source": "Wired",
+      "publishTime": "2026-08-07",
+      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
+    },
+    {
+      "id": "3b503df8-2d23-81c8-a582-e093a5d2968a",
+      "title": "零刻推出 EQ mini 迷你主机：酷睿 3 304，单万兆网口 + 双雷电 4",
+      "summary": "IT之家 8 月 7 日消息，零刻 (Beelink) 近日在海外市场率先推出搭载英特尔酷睿 3 304 这款 1+0+4 核 \"Wildcat Lake\" 处理器的 EQ mini 迷你主机。这一型号三维 112×112×37 (mm)，采用内置电源设计，板载集成 12GB LPDDR5-5600 内存和 512GB UFS 3.1 存储，预留双 M.2 2280 PCIe SSD 盘位（一个 Gen4 ×2、一个 Gen4 ×2），无线网卡则是支持 Wi-Fi 6 和蓝牙 5.2 的联发科 Filogic 330 (MT7922)。外部 I/O 方面，EQ mini 正面提供 1 个 US",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/808.htm"
+    },
+    {
+      "id": "3b503df8-2d23-81da-9afb-fee1eac82ff2",
+      "title": "马斯克新纪录片 10 月上映，本人却吐槽抹黑之作、4 小时要把人无聊死",
+      "summary": "IT之家 8 月 7 日消息，一部关于埃隆 · 马斯克的新纪录片定于 10 月 16 日在美国影院上映。奥斯卡获奖导演亚历克斯 · 吉布尼的近 4 小时电影《MUSK》将于 9 月在威尼斯电影节全球首映，随后在 2026 年多伦多国际电影节放映，并将在 HBO 首播。对此，马斯克本人在 X 平台批评这部电影是“抹黑之作”，并吐槽：“吉布尼只会干这个。另外，4 小时！！是想把人活活闷死吗？”IT之家查询获悉，亚历克斯 · 吉布尼是一位美国纪录片导演和制片人，他以《安然：房间里最聪明的人》《开往暗处的的士》等影片而闻名。他还拍过一部有关苹果创始人乔布斯的纪录片《史蒂夫 · 乔布斯：机器人生》。而马",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/807.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8149-b31f-f41b4f7fcb39",
+      "title": "雄商高铁河北段开始按图行车试验，设计时速 350 公里",
+      "summary": "IT之家 8 月 7 日消息，据央视新闻报道，记者从国铁北京局了解到，今天（7 日），雄安新区至商丘高速铁路河北段开始按图行车试验，标志着进入开通运营倒计时。按图行车试验就是按照列车运行图，组织列车在正常运营条件下的非载客运行，满足开通运营各项标准和要求。雄商高铁北起京雄城际铁路雄安站，终至商合杭高铁商丘站，正线全长 552 公里，设计时速 350 公里，建成通车后将进一步完善京津冀轨道交通网。其中，雄商高铁河北段自 2022 年 9 月开工建设。IT之家查询获悉，作为我国“八纵八横”高铁网京港高铁的重要组成部分，雄商高铁向南串联商丘至合肥高铁、合肥至安庆至九江高铁，衔接在建的南昌至九江高铁，",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/806.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8115-8fa6-cd99f8c1d405",
+      "title": "小米公布 REDMI K100 Pro Max 影像规格：2 亿主摄、5X 潜望长焦",
+      "summary": "IT之家 8 月 7 日消息，小米 REDMI K100 Pro Max 将于 8 月 11 日 19:00 发布，官方今日公布这款新机的影像规格：2 亿像素主摄：原图尺寸高达 16384 × 122885X 潜望长焦：最高支持 100X 超级变焦50MP 超广角：17mm 等效焦距小米 REDMI K100 Pro Max 的“赤霞珠红”“流金白”配色已经公开，新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。首发 M11 新型 OLED 发光材料，搭配超级像素全 RGB 无损排列，号称“对比 2K 更清晰，对比 1.5K 更低",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/805.htm"
+    },
+    {
+      "id": "3b503df8-2d23-811c-9744-d5fea0cc8ed1",
+      "title": "长城 H10 方盒子 SUV 上市 24 小时大定突破 31826 台，限时换新价 20.18 万元起",
+      "summary": "IT之家 8 月 7 日消息，长城哈弗 SUV 官方宣布，长城 H10 上市 24 小时，大定突破 31,826 台。据IT之家此前报道，长城 H10 于 8 月 5 日晚正式上市，提供五座、六座两种版本共 4 种不同配置，建议零售价 20.98 万-23.18 万元，限时换新价 20.18 万-22.38 万元：Hi4 Max 五座版：建议零售价 20.98 万元，限时换新价 20.18 万元起Hi4 Pro 六座版：建议零售价 21.18 万元，限时换新价 20.38 万元起Hi4 Max 六座版：建议零售价 22.18 万元，限时换新价 21.38 万元起Hi4 Ultra 六座版：建议",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/802.htm"
+    },
+    {
+      "id": "3b503df8-2d23-812a-a047-fec3ee06afa8",
+      "title": "三星 Galaxy S26 FE 手机渲染图曝光：紫黑绿三色亮相",
+      "summary": "IT之家 8 月 7 日消息，科技媒体 Android Headline 昨日（8 月 6 日）发布博文，分享了一组渲染图，展示了三星 Galaxy S26 FE 手机，共有紫色、黑色和绿色三种颜色。IT之家此前报道，该机内部代号为“r14”，延续了 Galaxy S24 FE（r12）和 Galaxy S25 FE（r13）的命名逻辑。相机方面，Galaxy S26 FE 主摄采用了 50MP 的三星 ISOCELL S5KGN3 传感器，尺寸 1/1.57 英寸，单位像素 1µm，支持 f/1.8 光圈、24mm 等效焦距、双像素 PDAF 和 OIS 光学防抖；长焦镜头则采用了 8MP ",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/803.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8125-99f7-f9fb9dd22a33",
+      "title": "DeepSeek 参与宇树科技上市配售，金额约 1.41 亿元",
+      "summary": "IT之家 8 月 7 日消息，宇树科技 8 月 6 日晚发布公告称，公司首次公开发行股票并在科创板上市，发行价格为 150.80 元 / 股。本次发行数量为 4044.6434 万股，占发行后总股本 10%。根据发行公告中给出的最终战略配售数量结果，DeepSeek 开发商杭州深度求索人工智能基础技术研究有限公司出现在战略配售名单中，获配股数为 93.339 万股，金额约 1.41 亿元。宇树科技在公告中表示，在遴选大型企业或其下属企业作为战略配售投资者时，重点考量其与发行人业务发展的协同效应，若引入大模型相关龙头企业，可聚焦 AI 大模型与具身智能相关技术研发与产品开发，旨在整合双方技术优势",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/801.htm"
+    },
+    {
+      "id": "3b503df8-2d23-81ed-b4cd-df74f8289423",
+      "title": "蔚来换电突破 1.2 亿次，第 4000 座换电站暨首批第五代换电站今日投入运营",
+      "summary": "IT之家 8 月 7 日消息，蔚来官方今日宣布，2026 年 8 月 7 日 08:09:16，蔚来换电突破 1.2 亿次。此外，蔚来第 4,000 座换电站暨首批第五代换电站即将于今天正式投入运营。蔚来换电网络由此将同时服务蔚来、乐道、firefly 萤火虫三品牌用户。蔚来官方表示，用户换电电量累计 63.5 亿 kWh，相当于 317 万家庭日常一年的用电量；较充电为用户省下 9,991 万小时，平均每位用户省出 83 个小时；较加油为用户省下 312 亿元，平均每位用户少花 2.6 万元。IT之家获悉，目前已有 9,166 座蔚来充换电站，其中包含 1,049 座高速换电站；88 条加电",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/800.htm"
+    },
+    {
+      "id": "3b503df8-2d23-811e-b9d3-d77e263cda86",
+      "title": "庆祝系列发行 25 周年，育碧推出《幽灵行动：最后的仪式》游戏更新",
+      "summary": "IT之家 8 月 7 日消息，育碧（Ubisoft）为庆祝《汤姆 · 克兰西的幽灵行动》游戏发行 25 周年，宣布免费推出《最后的仪式》（Last Rites）更新。本次更新由 Ubisoft Bordeaux 工作室开发，背景设定在更黑暗、更压抑的玻利维亚版本中。在《最后的仪式》更新中，玩家扮演的幽灵特工将进入由 Los Penitentes（忏悔者）控制的地区。该组织被描述为一个由信仰、牺牲和残酷正义维系的狂热邪教。玩家需要追踪邪教领袖 La Llorona（哭泣女），并穿越危险沼泽和密林。IT之家附上本次更新官方介绍如下：#幽灵行动荒野#全新免费更新“最后的仪式”现已上线！目标代号：“拉",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/799.htm"
+    },
+    {
+      "id": "3b503df8-2d23-81a6-aefe-f7e989b8c352",
+      "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
+      "summary": "Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-08-07",
+      "link": "https://sspai.com/post/113162"
+    },
+    {
+      "id": "3b503df8-2d23-81f2-9f2d-c6643b4ad0b8",
+      "title": "微信安卓版 8.0.77 最新官方内测版下载发布",
+      "summary": "IT之家 8 月 7 日消息，微信安卓平台迎来了 8.0.77 测试版更新，本次更新安装包文件详细信息如下： 微信安卓内测版 8.0.77 (ARM64) 安装包 文件大小 265.02 MB 更新时间 2026-08-07 07:33 MD5 0a448d9be39c8d760096e1ff54c82a4f 目标 API 34 最低支持 24 (Android 7.0) 官方更新日志为：优化了一些已知问题. 大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/798.htm"
+    },
+    {
+      "id": "3b503df8-2d23-819f-b7c3-f1b253f6ec75",
+      "title": "MeLE 推出英特尔 N150 无风扇迷你主机 Quieter HD，支持 2.5\" SATA 硬盘",
+      "summary": "IT之家 8 月 7 日消息，深圳企业迈乐技术 (MeLE) 近日推出了基于英特尔 N150 四核 \"Twin Lake\" 处理器的 Quieter HD 无风扇被动散热迷你主机。与其它类似产品不同的是，Quieter HD 内置一个 2.5\" 9.5mm SATA 盘位。MeLE Quieter HD 三维 150 × 105.4 × 39.6 (mm)，体积 0.6L；内置 Wi-Fi 5 & BT 5.1 无线网卡。外部 I/O 方面，这款机型提供 3 个 USB-A 10Gbps、2 个 USB-A 480Mbps、2 个 HDMI 2.0、1 个 DisplayPort 1.4、1 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/797.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8124-ad5f-cb3f51455fa3",
+      "title": "消息称某厂工程机采用左上角方形 Deco、非对称四筒排列，预计为小米 18",
+      "summary": "IT之家 8 月 7 日消息，博主 @数码闲聊站 昨日爆料，某厂母系中杯还是左上角方形 Deco，工程机非对称四筒排列，正面是 Lipo 极窄四等边。集合该博主此前的爆料习惯，该机预计为小米 18 标准版。作为对比，去年发布的小米 17 标准版手机便采用了左上角方形 Deco 设计，不过镜头为对称排列。小米 17 标准版为经典直屏设计，采用 19.6:9 全新比例、超大 R 角设计，机身为同色玻璃镜组，搭配四微曲包裹式中框。▲ 小米 17 标准版今年 6 月，该博主曾爆料某厂“母系中杯”没有大杯同款显示新技术，但有同款超清显示、同款极窄四等边、同款 2nm 旗舰芯、更大电池、百瓦闪充 + 无线",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/796.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8190-9818-d0ca2c2ccdaa",
+      "title": "因 Facebook、Instagram 损害青少年权益，Meta 被判支付 5.67 亿美元",
+      "summary": "IT之家 8 月 7 日消息，据路透社报道，当地时间 8 月 6 日，美国新墨西哥州圣菲地区法院认定 Meta 应对损害儿童心理健康负责，责令该公司支付 5.67 亿美元（IT之家注：现汇率约合 38.35 亿元人民币），并改变其平台在该州面向青少年用户的功能机制。法官布莱恩 · 比德沙伊德（Bryan Biedscheid）下达了一项为期五年、总额 5.67 亿美元的裁定，强制要求 Meta 实施一系列青少年安全措施，其中 4.2 亿美元（现汇率约合 28.41 亿元人民币）将用于青少年治疗服务。这些措施包括：对青少年每月使用 Facebook 和 Instagram 的时长进行限制、约束应",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/795.htm"
+    },
+    {
+      "id": "3b503df8-2d23-81b2-95cd-e6fb08a50537",
+      "title": "AMD RDNA 4m 再补一块拼图，Mesa 26.3 已合并 GFX1171",
+      "summary": "IT之家 8 月 7 日消息，科技媒体 phoronix 昨日（8 月 6 日）发布博文，报道称 Mesa 26.3 已合并 AMD 的 GFX1171，并同步支持 RADV Vulkan 和 RadeonSI OpenGL 驱动。Mesa 是一个开源的 3D 计算机图形库，最开始是 OpenGL 规范的开源实现，现在广泛用于 Linux 和其他操作系统中，为显卡提供硬件加速和软件渲染支持。IT之家曾于 3 月报道，在 AMD 开源图形栈的 LLVM 更新代码中，发现了 GFX1171 和 GFX1172 两个全新的图形目标代码。这两个新目标均被官方标记为 RDNA 4m 架构，并与此前已曝光",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/793.htm"
+    },
+    {
+      "id": "3b503df8-2d23-813e-b5a1-e673577fdf2f",
+      "title": "AMD 宣布计划收购 Taalas 公司，补强 AI 推理芯片路线图",
+      "summary": "IT之家 8 月 7 日消息，AMD 今天（8 月 7 日）发布公告，宣布计划收购 Taalas 芯片初创公司。Taalas 面向 AI 推理设计加速器，针对单一 AI 模型定制芯片，主要牺牲通用性，换取更低成本和更高输出速度。在技术方面，Taalas 公司目前展示的 AI 推理芯片基于 Meta 公司的 Llama 3.1 模型，采用台积电成熟（较旧）工艺打造，并在芯片本体上使用高速 SRAM。这种方案的优势在于推理速度更快，特定型号的输出速度比传统 GPU 快数千倍，且时成本更低，但是该芯片绑定某个 AI 模型，没有办法后续升级。Taalas 首席执行官 Ljubisa Bajic 在公司",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/791.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8163-b792-cfdf32a4cabf",
+      "title": "掌阅推出 iReader Air 3 Pro 电纸书：8.2 英寸 Carta 1300 墨水屏、无前光设计，2699 元",
+      "summary": "IT之家 8 月 7 日消息，掌阅 iReader 昨晚发布了 Air 3 Pro 电纸书阅读器，新品现已开售，售价 2699 元。屏幕方面，新品搭载 8.2 英寸 Carta 1300 墨水屏，采用无前光设计；相比前代对比度提升 20%，反应速度提升 27%；分辨率 1920*1440、293 PPI；具备 256 灰阶 3.0 技术，黑白灰过渡更顺滑。iReader Air 3 Pro 采用一体 CNC 金属中框，机身厚度约 5.4mm，重量约 270g；配备双智能物理按键，支持全自定义，可设置返回上一页、下一页、截图、返回主页等功能，底部增加虚拟返回键和 AI 快捷键。性能方面，这款电纸",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/790.htm"
+    },
+    {
+      "id": "3b503df8-2d23-81e0-a158-de23663f9e80",
+      "title": "GPT-4.5 以来训练的最大模型，曝 OpenAI 最快下周推出 Astra AI 模型",
+      "summary": "IT之家 8 月 7 日消息，消息源 @synthwavedd 昨日（8 月 6 日）在 X 平台发布推文，爆料称 OpenAI 目标下周发布 Astra 模型，内部代号为 mewfour。消息源称该模型是 OpenAI 公司全新预训练模型，也是 OpenAI 自 GPT-4.5 以来训练的最大模型。IT之家曾于 8 月 1 日报道，Astra 的一个内部版本已经解出 10 个重要开放数学问题，若按 Sol API 的费率计算，寻找这些问题解决方案所需消耗的总词元 (tokens) 成本约为 2,000 美元（IT之家注：现汇率约合 13,524 元人民币）。在能力方面，Bleeping Co",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/789.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8174-a17d-dc47d10eec55",
+      "title": "法国 8 月 11 日起禁止“未经同意的电话营销”，单次最高罚款 37.5 万欧元",
+      "summary": "IT之家 8 月 7 日消息，据 PBS 报道，法国将于 8 月 11 日正式实施一项新法律，全面禁止未经允许的电话营销呼叫。该法律旨在保护消费者免受电话推销骚扰，并防止弱势群体遭遇商业欺诈。此前，若不希望接到推销电话，法国消费者须将自己的号码登记在一个政府主导的服务平台上。但消费者团体指出，不少呼叫中心根本无视该名单。据官方估算，约四分之三的法国民众每周至少接到一次未经请求的推销电话，许多人受到的骚扰甚至更为频繁。法国竞争、消费与反欺诈总局办公室主任爱丽丝 · 维尔科特（Alice Vilcot）表示：“如今，企业未经消费者事先明确同意，一律不得主动联系消费者，且消费者可随时撤回该同意。”处",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/787.htm"
+    },
+    {
+      "id": "3b503df8-2d23-81a3-ac96-dff19180c2e2",
+      "title": "机械师 F1 双 8K 黑色游戏手柄上架：首创插拔微动，8 月 13 日首发",
+      "summary": "IT之家 8 月 7 日消息，机械师 F1 双 8K 无线游戏手柄上架预约，详情页各种参数公布，8 月 13 日首发。据介绍，该产品支持有线无线 2.4G 双 8KHz，按键有线全链路延时 0.377ms，摇杆 0.825ms。定制控银第四代 JS13Pro+TMR 摇杆，更线性的输出，更丝滑的手感。自研 MixDriver 驱动，摇杆可死区、轮询率、精度等多选项自定义设置。免工具即插式微动，十字键 +ABXY 键微动随心换，标配定制特挑的光学微动。且支持更换凯华、环诺、欧姆龙等标准三脚微动。机械师首创三档可调微动系统，将性能提升至竞技水准。新品搭载 6 个可编程宏键，背面宏键为锌合金，可拔插",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/788.htm"
+    },
+    {
+      "id": "3b503df8-2d23-8136-b5bd-c80ba08f43e7",
+      "title": "苹果发布 macOS 26.6.1 Tahoe 更新：修复屏幕共享认证漏洞",
+      "summary": "IT之家 8 月 7 日消息，苹果公司今天（8 月 7 日）发布 macOS 26.6.1 Tahoe、macOS 15.7.9 Sequoia、macOS 14.8.9 Sonoma 更新，重点修复屏幕共享 (Screen Sharing) 认证漏洞。IT之家援引查询公告内容，本次更新的相关版本如下：macOS Sonoma 14.8.9 (23J631)macOS Sequoia 15.7.9 (24G830)macOS Tahoe 26.6.1 (25G76)在推送的更新日志中，上述 3 个版本的内容相同，均为本次更新提供了重要的安全修复，建议所有用户进行更新。在苹果后续更新的日志内容中",
+      "source": "IT之家",
+      "publishTime": "2026-08-07",
+      "link": "https://www.ithome.com/0/986/786.htm"
+    },
     {
       "id": "3b403df8-2d23-81cb-8005-d884bf994701",
       "title": "IT早报 0807：电力部门回应空调 24 小时开更省电；专家辟谣车市半年发了五六百款新车；通用汽车回应雪佛兰将在华停售；DeepSeek 官宣拟大幅上调 API 定价...",
@@ -136,270 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-08-07",
       "link": "https://www.cnbc.com/2026/08/06/jim-cramer-5-investing-themes-stocks-to-buy.html"
-    },
-    {
-      "id": "3b403df8-2d23-8181-9db9-df6c6960c7cc",
-      "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
-      "summary": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-07",
-      "link": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html"
-    },
-    {
-      "id": "3b403df8-2d23-8156-8537-f087004968a8",
-      "title": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
-      "summary": "Airbnb said it's seeing strong demand \"across all regions,\" contributing to the company's better-than-expected forecast.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-07",
-      "link": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html"
-    },
-    {
-      "id": "3b403df8-2d23-8187-ada4-cdff9d2444ea",
-      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-      "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s ",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-07",
-      "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/"
-    },
-    {
-      "id": "3b403df8-2d23-81ab-a2e4-d6f922c82dc2",
-      "title": "Alex Gibney's Elon doc isn't even out but Musk is already calling it a 'hit job'",
-      "summary": "Elon Musk called Alex Gibney's new documentary \"MUSK\" a \"hit piece\" and mocked its 4-hour runtime.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/elon-musk-documentary-alex-gibney-hit-job-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-817c-a078-f2b40438ba2a",
-      "title": "AMD buys chip startup that hardwires AI models into its silicon",
-      "summary": "Taalas' current chip runs a small version of Meta's Llama 3.1, though the company is working on chips for bigger and more advanced models.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-07",
-      "link": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html"
-    },
-    {
-      "id": "3b403df8-2d23-814a-96ed-defc1cf20e7a",
-      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-      "summary": "Security researchers tracked and eavesdropped on a WIRED reporter using vulnerabilities in a pink plastic smartwatch. It’s just one piece of a deeply insecure supply chain of GPS-enabled gadgets.",
-      "source": "Wired",
-      "publishTime": "2026-08-07",
-      "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/"
-    },
-    {
-      "id": "3b403df8-2d23-811a-b9e3-faeffc22e8fb",
-      "title": "Vogue just gave another nod of approval to the tech world",
-      "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-07",
-      "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/"
-    },
-    {
-      "id": "3b403df8-2d23-81d9-ab08-fbb42d7a2260",
-      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-07",
-      "link": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/"
-    },
-    {
-      "id": "3b403df8-2d23-81bf-ab0e-fc0bfd3a44fa",
-      "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
-      "summary": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will feature other celebrities and influencers as well, including Call Her Daddy host Al",
-      "source": "The Verge",
-      "publishTime": "2026-08-07",
-      "link": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah"
-    },
-    {
-      "id": "3b403df8-2d23-815f-b890-da8e86a08833",
-      "title": "Social media star Sydney Towle died at 26. She helped define a new generation of young cancer influencers.",
-      "summary": "Sydney Towle died at 26 from a rare bile duct cancer. For years, millions of people watched her document her experience online.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/sydney-towle-death-young-cancer-social-media-tiktok-instagram-8"
-    },
-    {
-      "id": "3b403df8-2d23-81f5-89d7-d9fc0e1cfcb0",
-      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price ove",
-      "source": "The Verge",
-      "publishTime": "2026-08-07",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
-    },
-    {
-      "id": "3b403df8-2d23-813f-a59f-f8a714c5a90d",
-      "title": "Airbnb stock soars 12% on earnings and revenue beat, strong guidance for third quarter",
-      "summary": "Airbnb said it's seeing strong demand \"across all regions\", contributing to the company's better-than-expected forecast.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-07",
-      "link": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earnings-report.html"
-    },
-    {
-      "id": "3b403df8-2d23-813f-ac4d-e3bbf9cf60a9",
-      "title": "Here's how SpaceX imagines its massive Terafab chip factory will look",
-      "summary": "SpaceX said the initial construction phase of its Terafab semiconductor chip factor will cost $16.8 billion, with future phases costing \"much higher.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/spacex-terafab-chip-factory-images-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-816f-8348-f3ec90cf93fd",
-      "title": "The most iconic seafood shack in every state",
-      "summary": "From clam shacks to roadside spots serving up lobster rolls, here's the most iconic seafood shack in every state.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/most-iconic-famous-seafood-shack-in-every-state"
-    },
-    {
-      "id": "3b403df8-2d23-81f2-bb36-fd6c3df9132a",
-      "title": "海盗船 2026 财年半年报归母净利润 1869.2 万美元，同比扭亏为盈",
-      "summary": "IT之家 8 月 7 日消息，海盗船今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）及第二财季（2026 年 4 月～2026 年 6 月）报告： 2026 财年半年报 营业总收入：6.69 亿美元（IT之家注：现汇率约合 45.23 亿元人民币），同比下降 3.05% 毛利润：2.20 亿美元（现汇率约合 14.90 亿元人民币），同比增长 17.04% 毛利率：32.9%，同比增长 5.6 个百分点 归母净利润：1869.2 万美元（现汇率约合 1.26 亿元人民币），同比扭亏为盈 经营现金流：1.05 亿美元（现",
-      "source": "IT之家",
-      "publishTime": "2026-08-07",
-      "link": "https://www.ithome.com/0/986/773.htm"
-    },
-    {
-      "id": "3b403df8-2d23-8183-9733-e3583f03259d",
-      "title": "Savers Value Village thrift store launches new AI tool to price items",
-      "summary": "Savers Value Village is launching a new AI pricing tool to keep product prices consistent and low, the company told CNBC exclusively.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-07",
-      "link": "https://www.cnbc.com/2026/08/06/savers-value-village-thrift-store-launches-new-ai-tool-to-price-items.html"
-    },
-    {
-      "id": "3b403df8-2d23-818c-b3b7-e3a8fef2e4c4",
-      "title": "The AirPods Pro are $60 off, their best price since late June",
-      "summary": "Best Buy kicked off a sale on Apple products with discounts on its latest smartwatches to phones. Another deal that caught our eye is on the latest AirPods Pro, Apple’s flagship wireless earbuds, which are down to $189.99 ($60 off), with retailers like Amazon and Walmart matching the price. That’s t",
-      "source": "The Verge",
-      "publishTime": "2026-08-07",
-      "link": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale"
-    },
-    {
-      "id": "3b403df8-2d23-81ba-a30d-d1ac71eae985",
-      "title": "Why Normal People Aren’t Using AI Agents",
-      "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-      "source": "Wired",
-      "publishTime": "2026-08-07",
-      "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/"
-    },
-    {
-      "id": "3b403df8-2d23-81ff-b3c1-e5eeb47b6c96",
-      "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-      "summary": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-07",
-      "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/"
-    },
-    {
-      "id": "3b403df8-2d23-8135-a885-dcf18e2004be",
-      "title": "Flock Highlighted Police Departments Using Its Tech. Now 4 Face Allegations of Misuse",
-      "summary": "Flock posted videos on its YouTube channel highlighting at least four police departments whose officers have faced allegations of misusing the company’s tech.",
-      "source": "Wired",
-      "publishTime": "2026-08-07",
-      "link": "https://www.wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse/"
-    },
-    {
-      "id": "3b403df8-2d23-8105-9bba-cd3a18c74702",
-      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-      "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-      "source": "Wired",
-      "publishTime": "2026-08-07",
-      "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/"
-    },
-    {
-      "id": "3b403df8-2d23-81ef-988a-ec6974a41900",
-      "title": "PMI's head of comms explains why AI has made corporate websites more important than ever",
-      "summary": "Moira Gilchrist, chief communications officer at PMI, talks about why she is focusing on strategic owned content in the era of AI",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/pmi-moira-gilchrist-cmo-insider-august-2026"
-    },
-    {
-      "id": "3b403df8-2d23-81dc-81c7-cf9e06b24d8b",
-      "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
-      "summary": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-07",
-      "link": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/"
-    },
-    {
-      "id": "3b403df8-2d23-8120-98cb-cee6aa00a49b",
-      "title": "DOGE's 'Wall of Receipts' doesn't add up, government auditors say",
-      "summary": "The Government Accountability Office said some of the savings DOGE claims on its \"Wall of Receipts\" are either incorrect or don't have evidence.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/doge-savings-wall-of-receipts-government-audit-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-8187-9537-c650568e2b9a",
-      "title": "I lost my executive job while pregnant. I built a multimillion-dollar business instead.",
-      "summary": "Kelly Ehlers says losing her executive job while pregnant led her to build a social media agency that now generates millions in annual revenue.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/fired-pregnant-started-social-media-agency-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-81b6-9929-fb08acac4389",
-      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
-      "summary": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-07",
-      "link": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/"
-    },
-    {
-      "id": "3b403df8-2d23-8130-96de-f752c184d061",
-      "title": "My dad's Greek stuffed tomatoes are perfect for a healthy summer dinner",
-      "summary": "Yemista is a classic Greek dish that features tomatoes stuffed with rice and ground beef. It's easy, healthy, and perfect for a summer dinner.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/yemista-recipe-greek-stuffed-tomatoes"
-    },
-    {
-      "id": "3b403df8-2d23-8145-bf78-cc13631dcc4a",
-      "title": "Mark Ruffalo says his Kia is 'hands down a better car' than a Tesla: 'Feels luxury'",
-      "summary": "The actor and longtime environmental activist criticized Tesla's build quality while praising Kia's EV.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/mark-ruffalo-kia-ev-tesla-2026-8"
-    },
-    {
-      "id": "3b403df8-2d23-819d-b74c-cfaece060869",
-      "title": "The Zelda movie’s Ganondorf casting hints at more movies",
-      "summary": "Deadline reported Thursday that the upcoming The Legend of Zelda movie will feature Australian actor Uli Latukefu as the villain Ganondorf, and the publication notes that \"We hear Latukefu inked a multi-picture deal.\" Nintendo or Sony haven't formally confirmed that there's more than one movie in th",
-      "source": "The Verge",
-      "publishTime": "2026-08-07",
-      "link": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal"
-    },
-    {
-      "id": "3b403df8-2d23-81bd-9699-c7be256390ee",
-      "title": "Sadie Sink has become one of young Hollywood's best-dressed stars. Here's a look at her style through the years.",
-      "summary": "Sadie Sink is known for playing characters in franchises like \"Spider-Man.\" In real life, she has a simple, chic, and sometimes glamorous style.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/sadie-sink-style-evolution-best-outfits"
-    },
-    {
-      "id": "3b403df8-2d23-81cc-8f8f-d84882259b28",
-      "title": "Here's what Hiroshima looks like today, 81 years after the atomic bomb",
-      "summary": "On August 6, 1945 — 81 years ago — the US bomber Enola Gay dropped the first atomic bomb ever used in military combat on the city of Hiroshima, Japan.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/what-hiroshima-looks-like-today-photos"
-    },
-    {
-      "id": "3b403df8-2d23-8196-90f3-ca6e709286b6",
-      "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
-      "summary": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-07",
-      "link": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/"
-    },
-    {
-      "id": "3b403df8-2d23-815c-9664-c73ce4c85c68",
-      "title": "OpenAI says Apple's trade-secrets lawsuit is really about losing the AI talent war",
-      "summary": "OpenAI said Apple's lawsuit accusing it of stealing trade secrets was an attempt to make up for its \"shortcomings in the market for talent.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-08-07",
-      "link": "https://www.businessinsider.com/openai-apple-lawsuit-trade-secrets-ai-talent-war-2026-8"
     }
   ],
   "macroEvents": [
