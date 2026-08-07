@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-08 06:05",
+  "updatedAt": "2026-08-08 07:04",
   "news": [
+    {
+      "id": "3b503df8-2d23-8135-a021-c40364b0e810",
+      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a",
+      "source": "The Verge",
+      "publishTime": "2026-08-08",
+      "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs"
+    },
+    {
+      "id": "3b503df8-2d23-81d6-be4b-fabd67237db1",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-08",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+    },
     {
       "id": "3b503df8-2d23-81d3-a360-d75eed4ab018",
       "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
@@ -384,22 +400,6 @@
       "source": "Wired",
       "publishTime": "2026-08-07",
       "link": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/"
-    },
-    {
-      "id": "3b503df8-2d23-8152-bfff-f1af4197b7d2",
-      "title": "消息称苹果正测试 iOS 26.6.1 系统，或修复安全漏洞",
-      "summary": "IT之家 8 月 7 日消息，据科技媒体 MacRumors 今天报道，苹果软件工程师正在测试 iOS 26.6.1 操作系统。如果苹果决定在未来几天内推出更新，那么 iOS 26.6.1 应该会带有错误修复或安全修复。据IT之家报道，苹果已在今日推出 macOS 26.6.1 Tahoe 系统更新。本次更新重点修复屏幕共享认证漏洞，追踪编号为 CVE-2026-65400，报告者为 Alfredo Pesoli（@__rev），披露渠道为 Bynario Atlas（bynar.io）。在漏洞相关介绍中，苹果公司的相关描述如下：远程攻击者可能不需要借助有效凭据，即可认证到屏幕共享。苹果称，该",
-      "source": "IT之家",
-      "publishTime": "2026-08-07",
-      "link": "https://www.ithome.com/0/987/214.htm"
-    },
-    {
-      "id": "3b503df8-2d23-81eb-9a9c-e843d9e2edb9",
-      "title": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
-      "summary": "What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the Z Fold 8 is squat and wide, the Fold 8 Ultra retains the thin outer screen and square inner panel of the […]",
-      "source": "The Verge",
-      "publishTime": "2026-08-07",
-      "link": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review"
     }
   ],
   "macroEvents": [
