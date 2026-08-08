@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-09 03:07",
+  "updatedAt": "2026-08-09 03:52",
   "news": [
+    {
+      "id": "3b603df8-2d23-81f7-9bb6-fafa3a5ef286",
+      "title": "We skipped the expensive birthday venue. Our muddy backyard was better for 90 kids.",
+      "summary": "I skipped the expensive birthday venue and invited all of my son's friends to our home. It turned into our favorite party yet.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-09",
+      "link": "https://www.businessinsider.com/hosted-90-kids-birthday-party-at-home-2026-8"
+    },
+    {
+      "id": "3b603df8-2d23-81ce-bed3-e9237c38a02d",
+      "title": "Warren Buffett is out, and Berkshire Hathaway is spending again",
+      "summary": "Berkshire Hathaway's famously large pile of cash shrank by about $30 billion last quarter after Greg Abel took over from Warren Buffett as CEO.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-09",
+      "link": "https://www.businessinsider.com/berkshire-hathaway-warren-buffett-greg-abel-spending-cash-pile-2026-8"
+    },
+    {
+      "id": "3b603df8-2d23-8134-be07-cd5d68820c5c",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment",
+      "source": "The Verge",
+      "publishTime": "2026-08-09",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant"
+    },
     {
       "id": "3b603df8-2d23-81e1-89e6-ee3ffc4b5a24",
       "title": "I spent $300 outsourcing a parenting rite of passage. I'd do it again.",
@@ -376,30 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-08",
       "link": "https://www.ithome.com/0/987/424.htm"
-    },
-    {
-      "id": "3b603df8-2d23-81f8-bd8b-d5903474616b",
-      "title": "双倍遗传：我国科学家破解甘蔗“母本恢复”百年育种谜题",
-      "summary": "IT之家 8 月 8 日消息，据新华社，福建农林大学海峡联合研究院基因组学研究中心、国家甘蔗工程技术研究中心明瑞光教授团队 8 月 5 日在《自然》发表了其最新研究成果。该研究首次从基因组、染色体与 DNA 分子多维层面，破解了困扰国际甘蔗育种界百余年的“母本恢复”细胞遗传学核心难题。当前广泛种植的现代甘蔗品种，大多源自高糖、高生物量的热带种甘蔗（母本）与抗逆性强、适应性广的野生割手密（父本）的种间杂交。这一育种体系成功的关键，在于一种被称为“母本恢复”的特殊遗传现象：母本产生的生殖细胞染色体数目未按常规减半，而是以加倍形式（2n）传给后代，父本则提供正常减数分裂形成的半套染色体（n），使得后",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/423.htm"
-    },
-    {
-      "id": "3b603df8-2d23-81d5-873c-daad7dcc18de",
-      "title": "摩托罗拉 Moto Pad 70 平板海外发布：天玑 6400 芯片，支持 5G 移动数据网络",
-      "summary": "IT之家 8 月 8 日消息，摩托罗拉现已在印度市场推出 Moto Pad 70 平板电脑，新品配备 12.1 英寸 2.5K 屏幕，拥有联发科天玑 6400 芯片，支持 5G 移动数据网络，起售价 33,999 印度卢比（IT之家注：现汇率约合 2,413 元人民币）。据介绍，这款平板搭载一块 12.1 英寸 LCD 屏幕，分辨率为 2560*1600，支持 90Hz 高刷，最高亮度可达 800nits，覆盖 96% DCI-P3 色域。同时，这款平板配备联发科天玑 6400 芯片，提供 8GB LPDDR4X 内存、128GB/256GB UFS 2.2 存储，用户可通过 microSD ",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/422.htm"
-    },
-    {
-      "id": "3b603df8-2d23-8118-a782-d9bddf529fa9",
-      "title": "开发者将 36 年前的 Word 1.1a 移植到到 Win11，实现原生运行",
-      "summary": "IT之家 8 月 8 日消息，据科技媒体 neowin 今天报道，开发者 Justin Marshall 最近将微软 1990 年推出的 Word for Windows 1.1a 移植到 Win11 系统，实现 x64 原生运行。IT之家从原报道了解到，Word for Windows 1.1a 推出于 1990 年，距今已有 36 年。Word 1.1a 是 Word 1.0 的第二个版本更新，微软已经在 2014 年将其开源。同时，本次移植的 Word 1.1a 并非模拟器运行，也不是高仿版本，而是真的可以在 Win11 PC 运行的软件。用户打开这款软件后，立刻可以感到一股 20 世纪",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/420.htm"
     }
   ],
   "macroEvents": [
