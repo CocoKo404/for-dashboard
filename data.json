@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-08-08 18:59",
+  "updatedAt": "2026-08-08 19:52",
   "news": [
+    {
+      "id": "3b603df8-2d23-81f8-bd8b-d5903474616b",
+      "title": "双倍遗传：我国科学家破解甘蔗“母本恢复”百年育种谜题",
+      "summary": "IT之家 8 月 8 日消息，据新华社，福建农林大学海峡联合研究院基因组学研究中心、国家甘蔗工程技术研究中心明瑞光教授团队 8 月 5 日在《自然》发表了其最新研究成果。该研究首次从基因组、染色体与 DNA 分子多维层面，破解了困扰国际甘蔗育种界百余年的“母本恢复”细胞遗传学核心难题。当前广泛种植的现代甘蔗品种，大多源自高糖、高生物量的热带种甘蔗（母本）与抗逆性强、适应性广的野生割手密（父本）的种间杂交。这一育种体系成功的关键，在于一种被称为“母本恢复”的特殊遗传现象：母本产生的生殖细胞染色体数目未按常规减半，而是以加倍形式（2n）传给后代，父本则提供正常减数分裂形成的半套染色体（n），使得后",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/423.htm"
+    },
+    {
+      "id": "3b603df8-2d23-81d5-873c-daad7dcc18de",
+      "title": "摩托罗拉 Moto Pad 70 平板海外发布：天玑 6400 芯片，支持 5G 移动数据网络",
+      "summary": "IT之家 8 月 8 日消息，摩托罗拉现已在印度市场推出 Moto Pad 70 平板电脑，新品配备 12.1 英寸 2.5K 屏幕，拥有联发科天玑 6400 芯片，支持 5G 移动数据网络，起售价 33,999 印度卢比（IT之家注：现汇率约合 2,413 元人民币）。据介绍，这款平板搭载一块 12.1 英寸 LCD 屏幕，分辨率为 2560*1600，支持 90Hz 高刷，最高亮度可达 800nits，覆盖 96% DCI-P3 色域。同时，这款平板配备联发科天玑 6400 芯片，提供 8GB LPDDR4X 内存、128GB/256GB UFS 2.2 存储，用户可通过 microSD ",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/422.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8118-a782-d9bddf529fa9",
+      "title": "开发者将 36 年前的 Word 1.1a 移植到到 Win11，实现原生运行",
+      "summary": "IT之家 8 月 8 日消息，据科技媒体 neowin 今天报道，开发者 Justin Marshall 最近将微软 1990 年推出的 Word for Windows 1.1a 移植到 Win11 系统，实现 x64 原生运行。IT之家从原报道了解到，Word for Windows 1.1a 推出于 1990 年，距今已有 36 年。Word 1.1a 是 Word 1.0 的第二个版本更新，微软已经在 2014 年将其开源。同时，本次移植的 Word 1.1a 并非模拟器运行，也不是高仿版本，而是真的可以在 Win11 PC 运行的软件。用户打开这款软件后，立刻可以感到一股 20 世纪",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/420.htm"
+    },
+    {
+      "id": "3b603df8-2d23-815a-b6ec-e0341f657d06",
+      "title": "Best Gaming Laptops (2026): Razer, Asus, Dell, and More",
+      "summary": "You don’t want any old gaming laptop. Here’s my take on which to get, based on hundreds of hours of testing.",
+      "source": "Wired",
+      "publishTime": "2026-08-08",
+      "link": "https://www.wired.com/story/best-gaming-laptops/"
+    },
+    {
+      "id": "3b603df8-2d23-814e-8996-fcbeecb490fd",
+      "title": "阿维塔王辉：华为乾崑智驾里程突破 137 亿公里，位居全国第一",
+      "summary": "IT之家 8 月 8 日消息，在今天的阿维塔 07L 上市发布会上，阿维塔科技董事长王辉登台发表主题演讲。据他介绍，华为乾崑智驾里程突破 137 亿公里，位居全国第一。另外，阿维塔 07L 搭载了华为乾崑新一代 896 线双光路图像级激光雷达，且上市即预装华为乾崑智驾 ADS 5。据IT之家此前报道，华为乾崑智能汽车解决方案官方在 8 月 6 日发布了华为乾崑 7 月安全出行报告。当时，华为乾崑智驾累计辅助驾驶里程就来到了 134.1 亿公里，月度辅助驾驶里程 10.6 亿公里、月度辅助驾驶时长 1670 万小时，辅助驾驶月活用户 94.7%。",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/419.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8191-af9e-d6ce32c6567e",
+      "title": "Linux 7.3 推进 Apple Silicon 兼容：初步合并 M3 Pro / Max / Ultra 设备树支持",
+      "summary": "IT之家 8 月 8 日消息，Linux 内核开发者正在为苹果 M3 系列高端芯片提供初步支持，预计将在未来的 Linux 7.3 版本合并窗口中加入 M3 Pro、M3 Max 以及 M3 Ultra 芯片的设备树支持，使主线 Linux 内核能够在这些 Apple Silicon 平台上启动。此前，Linux 7.2 内核已加入了苹果 M3 基础版的设备树支持，但由于大量硬件功能尚未完成支持和上游合并，目前这一支持仍不适合普通用户日常使用。此次针对 M3 Pro、M3 Max 和 M3 Ultra 的更新主要包含基础设备树文件，使其达到与基础版 M3 类似的初始支持水平。虽然目前仍缺少许多",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/418.htm"
+    },
+    {
+      "id": "3b603df8-2d23-81f2-81e6-c46ce932ed7c",
+      "title": "NASA 曾为国际空间站笔记本统一充电接口，减少航天任务复杂度",
+      "summary": "IT之家 8 月 8 日消息，NASA 工程师乔治 · 劳什（George Roush）8 月 2 日披露了一项 NASA 在早期针对国际空间站（ISS）笔记本电脑的改装细节。为确保所有送往空间站的笔记本电脑使用统一的电源接口，NASA 将设备原有的调制解调器端口移除，替换为统一的“炮型插头”（cannon plug）。国际空间站以直流电（DC）系统供电，这也导致标准交流充电器无法直接使用。统一接口后，宇航员无需携带多种充电器，可直接接入舱内的直流电源插座，此举有效减轻了航天重量并减少了故障。据劳什介绍，这些改装由洛克希德 · 马丁公司（Lockheed Martin）承包执行，改装对象包括 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/416.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8199-b85f-e175a14ce71e",
+      "title": "华为 5G 海外回归：科威特花粉在发布会现场展示自己十年藏品，含华为首款 5G 手机",
+      "summary": "IT之家 8 月 8 日消息，据华为终端 BG CEO 何刚分享，在科威特华为 Pura 90s 发布会现场，十年华为老用户 Ahmed 展示了他个人收藏的 23 台华为设备。从视频画面可以看到，这名来自科威特的华为用户的收藏覆盖了直板手机、折叠屏手机、平板等设备。而他的藏品中就还有华为第一款 5G 手机 —— Mate 20X (5G)。据IT之家此前报道，今年 7 月，华为面向国际市场发布了 Pura 90s 系列手机，包括 Pro 和 Pro Max 两款机型。值得一提的是，此次发布的新机支持了 5G 通信。这也是时隔多年，5G 在华为手机的国际版上回归。作为参考，华为早在 2019 年",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/417.htm"
+    },
+    {
+      "id": "3b603df8-2d23-819e-8fd0-f677e3acb794",
+      "title": "SE 确认《最终幻想 7：启示录》将亮相科隆游戏展，导演滨口直树将亲自参与",
+      "summary": "IT之家 8 月 8 日消息，Square Enix 现已确认，《最终幻想 7：启示录》将亮相科隆游戏展开幕之夜直播活动。据悉，今年的科隆游戏展开幕之夜活动由杰夫 · 基格利主持，并在美东时间 8 月 25 日下午 2 点举行（北京时间 8 月 26 日凌晨 2 点）。SE 同时确认，本作导演滨口直树将参与开幕之夜活动，有望带来现场访谈等消息。IT之家注意到，《最终幻想 7：启示录》计划于 2027 年推出，登陆 PS5、Xbox Series X|S、Switch 2 和 PC 平台，成为《最终幻想 7》重制三部曲首部不再限时独占主机的作品。",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/415.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8147-9922-e6565c16cba0",
+      "title": "Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited",
+      "summary": "Xteink’s new X4 Pro e-reader is its best yet, but the lack of an ebook store can be limiting.",
+      "source": "Wired",
+      "publishTime": "2026-08-08",
+      "link": "https://www.wired.com/review/xteink-x4-pro-e-reader/"
+    },
+    {
+      "id": "3b603df8-2d23-81c8-bd1c-d328a7640342",
+      "title": "长城魏牌 V8X 大五座旗舰 SUV 定档 8 月 14 日发布：零百最快 4.5 秒、综合续航 1659km",
+      "summary": "IT之家 8 月 8 日消息，长城汽车董事长魏建军今日发布视频，宣布魏牌 V8X 大五座旗舰 SUV 定档 8 月 14 日（预计准确时间为 8 月 14 日 19:30）发布。据IT之家此前报道，这款新车已于今年 7 月正式开启预订，定位归元 S 平台的智慧驾控五座旗舰车型。IT之家汇总新车主要信息：该车外观主打“东方美学”，长宽高分别为 5125/2025/1821mm，轴距 3050mm，舱内有效面积 5.9 平方米，后备厢容积可达 864L，二排放倒后可扩展至 2225L。同时，全车配有 9 处隔音玻璃，车门采用三重环视立体密封结构，全车还具备 104 处空气动力学主动导流设计。新车搭",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/411.htm"
+    },
+    {
+      "id": "3b603df8-2d23-81bd-81bc-f569a71464ee",
+      "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
+      "summary": "Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email opens a missile-parts supplier’s inbox, and a ransomware boss gets 16 years.",
+      "source": "Wired",
+      "publishTime": "2026-08-08",
+      "link": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/"
+    },
+    {
+      "id": "3b603df8-2d23-81e1-b9bd-d3ff85c3a48e",
+      "title": "联想 ThinkBook Plus G7 Auto Twist 翻转本海外发布，配备电动转轴",
+      "summary": "IT之家 8 月 8 日消息，联想现已在海外市场推出 ThinkBook Plus G7 Auto Twist 翻转本，新机最大的亮点便是拥有电动转轴，可以自动旋转屏幕。IT之家注意到，这款笔记本可选英特尔酷睿 Ultra 5 325、Ultra X7 358H 处理器，最高支持 32GB 内存。机身内拥有一个 M.2 2280 SSD 插槽，但出厂预装的固态却是 2242 尺寸。同时，这款笔记本配备 75Wh 电池，续航最高可达 21 小时。拥有 14 英寸 OLED 面板，分辨率为 2880*1800，覆盖 100% DCI-P3 色域，支持 30-120Hz 可变刷新率，HDR 模式下峰",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/401.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8171-822d-dd4151fe5eee",
+      "title": "蔚来 ES9 历时 73 天达成第 2 万台新车交付里程碑，创 50 万级高端纯电车型最快纪录",
+      "summary": "IT之家 8 月 8 日消息，蔚来官方今日宣布，自 2026 年 5 月 28 日开启交付以来，蔚来 ES9 历时 73 天达成第 20,000 台新车交付里程碑，刷新中国乘用车市场 50 万级高端纯电车型的交付纪录。据IT之家此前报道，蔚来 ES9 旗舰 SUV 于 5 月 27 日上市，整车购买价格为 49.8 万-62.8 万起，租电方案价格为 39 万-52 万元起：行政豪华版：整车购买 49.8 万元起、电池租用方式购买 39 万元起；行政签名版：整车购买 55.8 万元起、电池租用方式购买 45 万元起；地平线特别版：整车购买预售价 62.8 万元起、电池租用方式购买预售价 52 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/398.htm"
+    },
+    {
+      "id": "3b603df8-2d23-812a-a470-dee35d7ae637",
+      "title": "My grandmother is dividing her assets while she's still alive. She hopes it will help our family avoid divisiveness later.",
+      "summary": "My grandmother is dividing her assets while she's still alive. I had mixed feelings about it at first, but I'm glad she started the conversation.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-08",
+      "link": "https://www.businessinsider.com/grandmother-dividing-her-assets-now-help-family-avoid-fighting-2026-8"
+    },
     {
       "id": "3b603df8-2d23-81c5-b9e6-d2de835f8ae6",
       "title": "第 82 届金球奖动画电影《猫猫的奇幻漂流》内地重映宣布暂缓，另择档期",
@@ -280,126 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-08",
       "link": "https://www.ithome.com/0/987/367.htm"
-    },
-    {
-      "id": "3b603df8-2d23-8115-a57a-fdc71fdb2fc2",
-      "title": "联想拯救者 34 英寸 2K 240Hz 曲面带鱼屏显示器 34W-2c 上市，1799 元",
-      "summary": "IT之家 8 月 8 日消息，联想本周新上架了一款拯救者 34W-2c 曲面带鱼屏显示器，定价为 1799 元。京东联想（Lenovo）拯救者 34 英寸曲面带鱼屏显示器 LEGION 34W-2CWQHD240Hz 1500R 曲率 电竞办公游戏超清显示屏 1799 元直达链接这款显示器采用了 34 英寸 VA 面板，拥有 1500R 曲率、21:9 超宽比、WQHD（3440×1440）分辨率（像素密度 110ppi）、4000:1 对比度、400nits 亮度（典型值），支持 DisplayHDR 400，响应时间 1ms GTG（0.5ms MPRT），还兼容 AMD FreeSync",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/368.htm"
-    },
-    {
-      "id": "3b603df8-2d23-8152-ae33-f947927cb886",
-      "title": "苹果 Mac 简体中文支持文档更新，“Apple 智能”阿里千问扩展现身了",
-      "summary": "IT之家 8 月 8 日消息，一篇名为《在 Mac 上配合 Apple 智能使用千问》的支持文档近日现身苹果官网 Mac 简体中文使用手册，其中明确提到 Apple 智能可配合阿里巴巴千问模型工作。据苹果官网所述，千问扩展适用于 macOS 26.6 或更高版本，用户需位于中国大陆且 Apple 账户国家或地区需为中国大陆，Mac 机型也得是中国大陆版本。同时，用户可前往 macOS 的“系统设置”App，然后选择“Apple 智能与 Siri”菜单的“扩展”设置千问。用户需要登录千问账户才能使用千问扩展，如果没有千问账户的话可以注册一个，或使用 Apple 登录。千问扩展支持写作工具、Sir",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/366.htm"
-    },
-    {
-      "id": "3b603df8-2d23-8111-9cb9-cc23e780b287",
-      "title": "联想推出拯救者 32Q-2c 曲面显示器：31.5 英寸 2K 240Hz，1749 元",
-      "summary": "IT之家 8 月 8 日消息，联想本周新上架了一款拯救者系列的 31.5 英寸曲面显示器，型号为 32Q-2c，定价 1749 元。京东联想（Lenovo）拯救者曲面电竞显示器 LEGION 32Q-2c 31.5 英寸 VA 面板 240Hz 高刷 2K 1500R 黄金曲率 1749 元直达链接这款显示器采用了 31.5 英寸 2560*1440 分辨率的 VA 面板，拥有 1500R 黄金曲率，具备原生 240Hz 高刷新率、1ms GTG 响应时间，配备 2×HDMI 2.1 + DP 1.4 接口，支持 AMD FreeSync Premium 和 VESA AdaptiveSync",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/365.htm"
-    },
-    {
-      "id": "3b603df8-2d23-814f-bc85-eadc2509f3d5",
-      "title": "国产喜剧动画《八仙！》总票房突破 13.6576 亿，进入 2026 年度票房榜前五",
-      "summary": "IT之家 8 月 8 日消息，据灯塔专业版，影片《八仙！》总票房（含预售）突破 13.6576 亿，进入 2026 年度票房榜前五。值得一提的是，该片总票房已于 8 月 2 日破 10.77 亿，登顶 2026 年动画片票房榜。《八仙！》影片以传统八仙故事为灵感，讲述在蓬莱仙境内，八个凡人为闯入只有神仙可以通行的藏宝阁，假扮神仙瞒天过海，面对阁中“十辈子花不完”的泼天富贵，众人一拍即合，“草台班子”就地成立，一起踏上寻宝求财路。这部国产喜剧动画电影豆瓣评分为 8.2 分。其中，5 星评分占比 35.3%，4 星占比 43.9%，仅有 0.8% 的 1 星评分。IT 之家小伙伴记得用最会买购买电",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/364.htm"
-    },
-    {
-      "id": "3b603df8-2d23-81f9-92fe-dc994698c676",
-      "title": "Robotaxis are scaling now, fixing problems later",
-      "summary": "Robotaxi companies are scaling their operations as they continue to run into driving scenarios that could trip up the AI driver.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/waymo-tesla-zoox-robotaxi-expansion-service-reliability-problems-autonomous-vehicles-2026-8"
-    },
-    {
-      "id": "3b603df8-2d23-81bc-860e-cdf230b07a45",
-      "title": "Create less AI slop and have more fun: 4 McKinsey partners told us what they want from junior consultants",
-      "summary": "Junior consultants should go out with their colleagues more instead of getting an early night, one senior McKinsey partner told Business Insider.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/mckinsey-partners-advice-for-junior-consultants-ai-slop-socialize-2026-8"
-    },
-    {
-      "id": "3b603df8-2d23-81d0-92f0-f7b068b12f01",
-      "title": "鸿蒙智行享界 G9 汽车炮弹坑测试视频被质疑 AI 生成，现场多角度实拍视频流出",
-      "summary": "IT之家 8 月 8 日消息，鸿蒙智行享界汽车在 8 月 5 日发布享界 G9 的炮弹坑通过性挑战视频，介绍了新车首发的华为智擎自适应差速锁电驱，支持实时感应、自动上锁，扭矩毫秒级自适应分配等功能。然而该视频发布后，评论区有网友质疑视频为 AI 生成。IT之家注意到，在网友提出质疑后，现场实拍视频陆续流出，包含不同角度的拍摄画面。另外，汽车博主 @韩路 也解释了视频中享界 G9“过泥水坑车身没脏”的原因：因为视频里偏稀的泥水，流动性很强，车又是新车，漆面比较光滑就有疏水效果，所以泥水基本不会停留在漆面，车身干净符合这泥水流动特性。当然了，也不是一点没痕迹，车身泥水干了后，会有轻微黄色泥水痕迹，",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/352.htm"
-    },
-    {
-      "id": "3b603df8-2d23-81f9-9aaa-eea36390a0df",
-      "title": "3.2 万元索尼 FX5 电影摄影机首批交付：支持 Open Gate 录制功能，8.5 级防抖 + 240 高帧",
-      "summary": "IT之家 8 月 8 日消息，索尼官方昨日宣布，旗下新推出的全画幅电影摄影机 FX5 已开启首批订单交付，单机身定价 32000 元（京东要等到 8 月 15 日开放售卖）。索尼表示 FX5 订单数量超出预期，下单较晚的客户可能要 9 月甚至 10 月才能交付。京东索尼【重磅新品】FX5 电影摄影机 32000 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持 8.5 折政府补贴，单品",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/338.htm"
-    },
-    {
-      "id": "3b603df8-2d23-812c-b6da-c62e787d1086",
-      "title": "育碧《幽灵行动：荒野》游戏更新，PS5 版终于支持 4K 60FPS",
-      "summary": "IT之家 8 月 8 日消息，据外媒 Push Square 昨天报道，育碧旗下游戏《幽灵行动：荒野》现已迎来重大更新，PS5 版现可实现 4K 60FPS 运行，并支持 DualSense 手柄专有优化、SSD 加载优化。据报道，本次更新虽然能够让游戏支持 4K 60FPS，但本作仍然没有部分原生 PS5 特性。目前来看，本次更新更像是 PS4 版增强补丁，而不是完整的原生 PS5 升级。同时，本次更新还带来了全新任务“Last Rites（IT之家注：最后仪式）”。该任务设定在 2017 年原作玻利维亚背景基础上，打造“更加黑暗、更具压迫感”的环境。此外，本作目前已在 PS Store 开",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/337.htm"
-    },
-    {
-      "id": "3b603df8-2d23-819a-9e8b-d454e9c1f75f",
-      "title": "雷军重申：小米澎程系列汽车在 3 年半前立项，2 年前开始路测",
-      "summary": "IT之家 8 月 8 日消息，小米创办人、董事长兼 CEO 雷军今日发文重申，小米澎程系列汽车在 3 年半前立项，2 年前开始路测。另外，系列新车会在 9 月份正式上市。据IT之家此前报道，在 7 月 30 日晚的小米澎程技术发布会上，小米 SKYNOMAD 澎程系列新车终于迎来首秀。在本场发布会中，澎程系列两款全新车型 —— 大七座旗舰增程 SUV N90 Max 与大五座四驱增程 SUV N70 Max 同步亮相，并公布了预售价格。另外，根据小米官方此前预热，2024 年 10 月 12 日，小米澎程第一台测试车就已经正式上路。截至 6 月 30 日，累计道路测试 626 天，历经两冬两夏",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/336.htm"
-    },
-    {
-      "id": "3b603df8-2d23-81bb-8c8e-dfa0fb0e378c",
-      "title": "31.5 英寸 4K 显示器 KTC H32U6 上市：国补价 1199 元",
-      "summary": "IT之家 8 月 8 日消息，KTC 新推出了一款 31.5 英寸的 4K 显示器，型号为 H32U6 ，京东售价 1332 元，叠加国补后 1199 元，券后 1176.3 元。京东 KTC 31.5 英寸 4K 显示器高清 广色域微边框 办公设计 低蓝光台式电脑大屏幕 PS4 升降旋转显示屏 H32U6 券后 1176.3 元领 25 元券这款显示器采用 31.5 英寸 VA 面板，拥有 3840×2160 分辨率、60Hz 刷新率、99% sRGB 色域、 93% DCI-P3 色域，出厂校色，采用 DC 调光技术，内置低蓝光模式。外观方面，这款显示器采用太空白格调机身，配备人体工学支架",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/335.htm"
-    },
-    {
-      "id": "3b603df8-2d23-812a-a810-c7699a7a359f",
-      "title": "OpenAI 下一代 AI 模型 Astra 数学成果遭抄袭指控",
-      "summary": "IT之家 8 月 8 日消息，科技媒体 scientificamerican 于 8 月 6 日发布博文，报道称多名数学家指控 OpenAI 存在学术不端行为，称其 AI 模型 Astra 的数学成果未对已有研究成果给予应有的署名致谢。OpenAI 于 7 月 31 日发布 249 页 PDF 文件，详细介绍了其下一代重大模型 Astra（内部版本）在高维球填充、量子博弈论、群论和极值组合学等多个领域取得了重大进展。若按 Sol API 的费率计算，寻找这些问题解决方案所需消耗的总词元 (tokens) 成本约为 2,000 美元（IT之家注：现汇率约合 13,519 元人民币）。不过在论文发",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/334.htm"
-    },
-    {
-      "id": "3b603df8-2d23-81bc-9809-e00d4f6d6ce2",
-      "title": "华为在印度推出 MatePad SE 11、MatePad 11.5 平板，麒麟 710A/T82B 芯片",
-      "summary": "IT之家 8 月 8 日消息，华为现已在印度市场推出 MatePad SE 11 和 MatePad 11.5 平板，两款产品均主攻入门级市场。IT之家附两款新品详情如下：MatePad SE 11：这款平板配备 11 英寸 TFT LCD 屏幕，分辨率为 1920*1200，最高亮度可达 400nits。该产品搭载麒麟 710A 芯片，拥有 8GB 内存和 128GB 存储空间，内置 7700mAh 电池，支持 22.5W 有线快速充电。同时，该产品拥有 800 万像素后置镜头、500 万像素前置镜头。采用一体化金属机身，厚度为 6.9mm，重量为 475g，拥有四扬声器系统，支持华为 Hi",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/332.htm"
-    },
-    {
-      "id": "3b603df8-2d23-8150-8f61-fb4d7c15d301",
-      "title": "小米米家无线洗地机 5 Pro 泡沫版开售：26000Pa 吸力 + 广域泡沫覆盖",
-      "summary": "IT之家 8 月 8 日消息，小米官方今日宣布旗下米家无线洗地机 5 Pro 泡沫版正式开售，首发价 2199 元，叠加国补后 1798.51 元，再叠加以旧换新可以做到 1756 元。京东小米米家洗地机 5Pro 泡沫版 2199 元点此访问2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。欢迎下载最会买 App - 好货好价，高额返利，1 毛钱",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/331.htm"
-    },
-    {
-      "id": "3b603df8-2d23-810a-84e7-fe12b9f7c6fe",
-      "title": "约 213.5 亿公里远程刷机成功，“旅行者 2 号”探测器 3 台仪器延寿至少 1 年",
-      "summary": "IT之家 8 月 8 日消息，美国宇航局喷气推进实验室于 8 月 4 日发布博文，报道称已成功实施名为“大爆炸”（Big Bang）的行动，让这艘已有 49 年（1977 年 8 月 20 日发射）历史的探测器上仅剩的三台科学仪器再运行至少一年。动力方面，“旅行者 2 号”主要依赖放射性同位素热电发电机，将衰变钚产生的热量转化为电能。由于钚的供应不断减少，该探测器每年都会损失约 4 瓦的功率，目前输出功率约为 1977 年的 57% 左右。“旅行者 2 号”共配备了 10 台仪器，自 2024 年以来，电力供应日益紧张，为了节省电量、延长运行时间，仅保留了三轴磁通门磁强计（MAG）、等离子体波",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/330.htm"
     }
   ],
   "macroEvents": [
