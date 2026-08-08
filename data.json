@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-08-08 10:27",
+  "updatedAt": "2026-08-08 11:50",
   "news": [
+    {
+      "id": "3b603df8-2d23-81e9-81fa-dd46bbc9e47f",
+      "title": "广汽传祺 E8 HEV+ 新车申报：7 座布局 MPV，轴距 3 米",
+      "summary": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，广汽传祺 E8 HEV+ 完成申报。本次申报的车型为汽油 / 电混合动力多用途乘用车，不支持外接充电，车身采用承载式底盘结构。车身尺寸方面，新车长宽高分别为 5000 mm / 1900 mm / 1786 mm，轴距为 3000 mm，前轮距 1621 mm，后轮距 1636 mm，前悬 915 mm，后悬 1085 mm，接近角 14 度，离去角 18 度，额定载客（含驾驶员）为 7 座。动力方面，新车搭载型号为 4A15J4 的发动机，由广州祺盛动力总成有限公司生产，排量 1498 ml，",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/263.htm"
+    },
+    {
+      "id": "3b603df8-2d23-81b8-b328-fbbe61df281f",
+      "title": "内存占用约 35MB：网友 AI 自制开源工具，避免华硕 RTX 5080 和 5090 显卡烧熔",
+      "summary": "IT之家 8 月 8 日消息，科技媒体 NeoWin 昨日（8 月 7 日）发布博文，报道称网友在 AI 编程辅助下，针对华硕的 ROG Astral RTX 5090/5080 显卡，推出了一款开源工具，避免显卡出现过热烧熔情况。该开源工具名为 12VHPWR Guard，目前仅适用于华硕 ROG Astral RTX 5080 和 RTX 5090 显卡（主要原因是上述两张显卡配有传感器，可以监测 6 个供电针脚的电流）。该工具通过显卡的 I2C 总线，借助 NVAPI 直接连接 ITE IT8915FN 传感器芯片，也可把 HWiNFO 作为备用后端。作者称，这一路径是只读，不会向总线写",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/262.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8187-a386-c8849ac68b0b",
+      "title": "极氪 8X 新增曜夜套件：前格栅、车窗饰条等超 20 处熏黑处理，限时售价 5000 元",
+      "summary": "IT之家 8 月 8 日消息，极氪官方今日表示，极氪 8X 正式上新曜夜套件，包括前格栅、车窗饰条、行李架、后扩散器等超 20 处熏黑处理，曜夜套件原价 12,000 元，限时售价 5,000 元。Max、Ultra 及 Ultra+ 三个版本全车色可选。此外，原来仅供极夜黑可选的曜夜套装，现也开放全车色可选。Max、Ultra 选装限时售价 20,000 元；Ultra+ 选装限时售价 10,000 元。据IT之家此前报道，极氪 8X 于 4 月 17 日发布，官方指导价 35.68 万元起，叠加首发权益 32.98 万元起：极氪 8X Max 版本 35.68 万元，叠加首发权益 32.9",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/261.htm"
+    },
+    {
+      "id": "3b603df8-2d23-818f-aec0-ea655124bd36",
+      "title": "发布 326 天，苹果 iOS 26 在 iPhone 11/iPad 9 等机型上迎来首次越狱",
+      "summary": "IT之家 8 月 8 日消息，科技媒体 MacRumors 今天（8 月 8 日）发布博文，在 iOS 26 系统正式发布 326 天（2025 年 9 月 15 日发布）后，终于迎来了首次越狱，不过仅限于搭载 A12/A13 芯片机型。开发者 Lars Fröder（又名 opa334）今天发布了 Dopamine 3.0，该版本新增支持多个固件版本，包括搭载 A12 或 A13 芯片的设备上的 iOS 26.0 和 iOS 26.0.1。搭载 A12 Bionic 芯片的机型iPhone 系列：iPhone XS、iPhone XS Max、iPhone XR（2018 年发布）iPad ",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/260.htm"
+    },
+    {
+      "id": "3b603df8-2d23-81fc-9da7-fe02a8deb550",
+      "title": "华为鸿蒙电脑 HarmonyOS 7 花粉 Beta 版开启推送",
+      "summary": "IT之家 8 月 8 日消息，今日，华为鸿蒙电脑 HarmonyOS 7 花粉 Beta 版开启推送，版本号为 7.0.0.102 SP5，安装包体积为 15.46 GB。据官方介绍，新版本为用户带来更精致的沉浸光感视效、更好用的小艺慧记，同时还在图库、备忘录、邮件等常用应用的使用方面新增诸多便捷、好用的新功能。IT之家附主要内容如下：沉浸光感新增全新视效，覆盖更多场景，例如鼠标悬浮 Dock 栏图标时新增空间感光效；将桌面图标拖入大文件夹时新增光感吸附动效；在控制中心滑动音量条、亮度条，或在桌面删除卡片时新增粒子动效。视觉效果支持档位调节，您可根据个人喜好进行设置 (设置> 桌面和个性化 >",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/259.htm"
+    },
+    {
+      "id": "3b603df8-2d23-818d-8737-f8b13a98c125",
+      "title": "凯越 800X 硬汉摩托车上市：799cc 双缸水冷发动机、整备质量 194kg，4.28 万元",
+      "summary": "IT之家 8 月 8 日消息，凯越机车今日宣布，800X 硬汉摩托车上市，售价 42,800 元。800X 硬汉有铁血黑和荣光白两种颜色可选，整备质量 194kg，座高 875mm、离地间隙 265mm、轴距 1540mm、转向角 35°；整车配件布局重新优化，重心下沉且聚拢，大幅削弱行驶颠簸与侧晃。新车搭载预载 / 阻尼可调 KYB 减震（前减震行程 240mm、后减震行程 230mm），采用钻石双翼梁一体式车架；搭载 799cc 双缸水冷发动机，最大功率 71kW/9000rpm、最大扭矩 80Nm/7500rpm，极速 210km/h。这款摩托车搭载全新调校电子油门，支持雨天、舒适、运动",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/257.htm"
+    },
+    {
+      "id": "3b603df8-2d23-810d-a94d-c0974c87a647",
+      "title": "Claude Code v2.1.224 现支持 AI 跨会话消息传递",
+      "summary": "IT之家 8 月 8 日消息，Anthropic 旗下官方账号 @ClaudeDevs 今天（8 月 8 日）在 X 平台发布推文，宣布从 Claude Code v2.1.224 开始，会话之间可以互相发送消息。根据官方介绍，自该版本 Claude Code 开始，不同的会话可以互相发送消息，更新和其他相关信息，方便用户在多个会话中协同项目的各个部分。IT之家翻译官方文档介绍如下：跨会话消息传递功能支持 Claude 将消息从一个 Claude Code 会话传递到另一个会话。当一个会话中的更改破坏了另一个会话正在构建的内容后，Claude 可以在用户注意到之前发出警告。当一个会话解决了另一",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/256.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8129-b01a-fc75008a31b7",
+      "title": "广汽传祺越 7 方盒子 SUV 内饰官图公布：一键纯平大床，1.1 米全景贯穿屏",
+      "summary": "IT之家 8 月 8 日消息，8 月 7 日，广汽传祺越 7 启动先享计划，并宣布 9 月初开启预售。官方现已公布新车内饰及部分配置信息。IT之家从官方介绍获悉，传祺越 7 同级首创一键电动能伸懒腰的 1.9 米纯平大床，成床后容积 1860L；配备二排 170mm 超长电动滑轨，带来最大 1015mm 二排腿部空间。该车还搭载星河智舱，号称“最高等级 L3 智能座舱”，全球越野首搭 1.1 米全景贯穿式星际屏 + 星环视界 +15.6 英寸 2.5K 中控屏；行业首搭高通 8838 旗舰芯片，3nm 工艺，综合算力 300+K，NPU 算力 64TOPS，性能较 8295 提升 30.4%；",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/255.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8116-bc6f-fbaf6b63196a",
+      "title": "212 越野车 X03 新车申报：柴油动力硬派越野车型，可选拖挂",
+      "summary": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，北京汽车制造厂二一二牌 212 X03 完成申报。这款车型为越野乘用车，采用柴油燃料，车身外形尺寸长 5095 mm、宽 2038 mm、高 1945 mm，轴距为 2950 mm，整备质量 2570 kg，总质量 3070 kg，额定载客（含驾驶员）座位数为 5 座。动力方面，该车搭载东风轻型发动机有限公司生产的 DDi23-500B 发动机，排量为 2298 ml，功率 140 kW，发动机净功率 138 kW，最高车速可达 170 km/h，排放符合国 Ⅵ 标准。IT之家获悉，该车接近角 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/254.htm"
+    },
+    {
+      "id": "3b603df8-2d23-819d-94a0-f61837e6d177",
+      "title": "降幅 10~15%：苹果美国扩充官翻 Mac、Apple Watch、Apple TV 4K 等产品",
+      "summary": "IT之家 8 月 8 日消息，消息源 9to5Mac 昨日（8 月 7 日）发布博文，报道称苹果美国官网扩充翻新产品阵容，新增多款 Mac、Apple TV 4K、Studio Display XDR 显示器，以及部分 Apple Watch 和 iPhone 机型，降幅 10.01~ 15%。苹果称，翻新商品经过严格翻新流程，购买后仍享有 1 年有限保修、14 天退货政策，且可加购 AppleCare；但不支持刻字和礼品包装。Mac 方面，苹果美国官网本次上架 14 英寸 M5 MacBook Pro 512GB 版本，售价 1,439 美元，官方全新售价为 1,599 美元，节省 160 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/253.htm"
+    },
+    {
+      "id": "3b603df8-2d23-814b-b053-e04bd07c77f2",
+      "title": "微软宣布 Edge 浏览器将逐步取消 Manifest V2 扩展程序支持，影响广告拦截工具 uBlock Origin 等",
+      "summary": "IT之家 8 月 8 日消息，当地时间 8 月 7 日，微软宣布，自 2026 年 8 月起，Edge 浏览器将启动面向普通消费者的过渡计划，逐步停止对 MV2 扩展的支持并全面转向 MV3。目标是在 2026 年底前完成面向普通用户的过渡，并于 2027 年初正式面向企业客户弃用 MV2。微软表示，Edge 浏览器的 Manifest Version 2（MV2）扩展程序正加速向 MV3 迁移，整个扩展生态已取得实质性进展。目前 Edge 扩展商店中 95% 的头部 MV2 扩展均已完成升级。仍拥有实质用户量的 MV2 扩展仅剩 58 个，其中只有 3 个尚未推出公开的 MV3 替代版本。自",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/251.htm"
+    },
+    {
+      "id": "3b603df8-2d23-81c5-bb14-f957e7a0ccad",
+      "title": "苹果庆祝“全国健身日”邀请 Apple Watch 用户今日挑战：健身 20+ 分钟解锁限量奖章",
+      "summary": "IT之家 8 月 8 日消息，苹果公司为庆祝中国“全国健身日”，邀请 Apple Watch 用户参与今天（8 月 8 日）的健身活动挑战，记录至少 20 分钟的锻炼，即可获得限量版奖章。用户可以使用 Apple Watch 自带的「体能训练」App，或任何能够将运动数据记录至「健康」App 的第三方应用。完成挑战后，用户将获得：健身 App 中的专属虚拟奖章iOS 系统中的 4 款动态贴纸奖励IT之家查询公开资料，为纪念 2008 年北京奥运会成功举办，经国务院批准，从 2009 年起将每年的 8 月 8 日正式设为“全民健身日”，今天（2026 年 8 月 8 日）正值我国第 18 个全民",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/250.htm"
+    },
+    {
+      "id": "3b603df8-2d23-81b2-a7ca-fc5e01c5de20",
+      "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
+      "summary": "IT之家 8 月 8 日消息，Anthropic 今天（8 月 8 日）发布公告，宣布将于 8 月 14 日开始，针对 Pro、Max 和 Team 订阅用户，调整 Claude Code 的默认权限模式为自动模式（Auto Mode）。IT之家援引博文介绍，自动模式是指 Claude Code 使用独立的 AI 分类器（classifier），实时评估每次工具调用和 Shell 命令，放行安全操作，自动拦截破坏性、不可逆或越权行为。在覆盖范围方面，Claude Enterprise、Claude API、Claude Platform on AWS、Amazon Bedrock、Google",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/249.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8131-bd87-fd7c3eb27615",
+      "title": "狼蛛推出 BG 联名款 BOX63 磁轴键盘，899-999 元",
+      "summary": "IT之家 8 月 8 日消息，狼蛛推出 BG 联名款 BOX63 磁轴键盘，将于 8 月 14 日 20:00 开售，售价 899 元起：标准版（下灯位、星耀磁轴）：899 元旗舰版（双灯位、黑曜磁轴）：999 元这款键盘采用全铝 CNC 精雕工艺，采用四层双面铺铜 PCB、碳纤维定位板；有深空灰、月光银、普罗旺斯紫、云上舞白四种配色可选。这款键盘采用硅胶豆软 Gasket 架构，支持 8K 回报率，RT 精度可调 0.001mm，标准版延迟 0.08ms、旗舰版延迟 0.06ms；屏幕搭载 102 颗 ARGB 灯珠，支持自定义图案与最高 15 帧动画。这款键盘旗舰版搭载星闪跃动“银河 60",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/248.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8178-9143-ecd27c054f13",
+      "title": "千问闪购首次上车，极狐阿尔法 T7 支持“一句话点奶茶”",
+      "summary": "IT之家 8 月 8 日消息，极狐汽车 8 月 7 日宣布千问闪购首次上车，极狐阿尔法 T7 支持“一句话点奶茶”。根据官方此前预热，极狐阿尔法 T7 搭载 17.3 英寸同级最大 3K 中控屏 + 1.1m 同级唯一超宽全景 PHUD。除了与千问达成合作外，新车还有华为乾崑、宁德时代、麦格纳三重加持，将于 8 月 26 日开启预售。外观方面，该车搭载极狐首款 1700mm 一体式贯通大灯，支持远近光智能切换、全天候自适应调光、转向辅助精准指引等功能，车尾则配备星环贯穿一体成型尾灯。据IT之家此前报道，该车曾在 6 月现身工信部申报目录，可选纯电动或增程动力，尺寸为 5020×1996×168",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/247.htm"
+    },
+    {
+      "id": "3b603df8-2d23-81c0-b1ed-f79c18f662b7",
+      "title": "18 核 / 20 核英伟达 RTX Spark 笔记本跑分曝光：64GB 统一内存",
+      "summary": "IT之家 8 月 8 日消息，科技媒体 Wccftech 昨日（8 月 7 日）发布博文，报道称在 GeekBench 7.0.0 跑分库中，发现了两款搭载英伟达 RTX Spark 处理器的笔记本电脑。IT之家援引博文介绍，本次现身跑分库的 2 款设备均配备 64GB 的统一内存：型号为“OEMQAJ 766_MIS Product Name DV”的设备搭载 20 核 CPU型号为“OEMQAJ OEMQAJ Product”的设备搭载 18 核 CPU在跑分方面，20 核 CPU 版本 RTX Spark 单核成绩为 2,570 分，多核 23,126 分；18 核版本单核 2,541 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/245.htm"
+    },
+    {
+      "id": "3b603df8-2d23-8174-b85b-e55048eb78ff",
+      "title": "五菱代步车全球销量突破 300 万辆，MINIEV 卖出 195 万辆",
+      "summary": "IT之家 8 月 8 日消息，8 月 7 日，在宏光 MINIEV 上市六周年之际，五菱宣布旗下代步车全球销量正式突破 300 万辆。据官方透露，从 2017 年 E100 诞生至今，五菱代步车累计销量突破 300 万辆。其中，宏光 MINIEV 蝉联 72 个月全球微型新能源销冠，六年累计销量突破 195 万辆；缤果家族卖出超 75 万辆。IT之家查询获悉，上汽通用五菱 7 月全球销量 120050 辆，同比增长 3.56%，其中新能源销量 72695 辆，五菱银标 7 月销量 42535 辆。五菱缤果 Pro 纯电小车于今年 5 月上市，上市指导价为 5.68 万至 7.08 万元，续航 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-08",
+      "link": "https://www.ithome.com/0/987/244.htm"
+    },
     {
       "id": "3b603df8-2d23-81be-8bc3-dbd010b18934",
       "title": "长安启源 Q06 个性改装版官宣即将上线：升级越野轮毂轮胎、定制宽体轮眉",
@@ -264,142 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-08-08",
       "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html"
-    },
-    {
-      "id": "3b503df8-2d23-816b-a648-f67db9f58ebc",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI de",
-      "source": "The Verge",
-      "publishTime": "2026-08-08",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo"
-    },
-    {
-      "id": "3b503df8-2d23-8174-8bca-eb7794d9117e",
-      "title": "A facelift in the US would have cost me $45,000. I went to Turkey instead.",
-      "summary": "Heather Emerson looked in the mirror and pulled up her skin, wondering how a facelift would look. She had surgery at 41, saying it was the right age.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/facelift-turkey-vs-us-cost-2026-8"
-    },
-    {
-      "id": "3b503df8-2d23-8144-ba9f-ef4c295d02b1",
-      "title": "One of the job market's biggest engines is stalling",
-      "summary": "Inflation could be prompting some Americans to cut back on discretionary spending, leading employers to slow hiring.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/leisure-hospitality-job-market-rising-prices-inflation-2026-8"
-    },
-    {
-      "id": "3b503df8-2d23-81fa-8b29-f29fa207db43",
-      "title": "New York homeowners are suing Mamdani over the city's pied-a-terre tax letter 'confusion'",
-      "summary": "3 NYC homeowners said their primary residences were included in a list of property records tied to the rollout of the new tax.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/nyc-homeowners-are-suing-mamdani-over-pied-a-terre-tax-2026-8"
-    },
-    {
-      "id": "3b503df8-2d23-811d-bca1-f7299580cdc5",
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers",
-      "source": "The Verge",
-      "publishTime": "2026-08-08",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel"
-    },
-    {
-      "id": "3b503df8-2d23-8165-9a15-d64a31dcd219",
-      "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
-      "summary": "Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.",
-      "source": "Wired",
-      "publishTime": "2026-08-08",
-      "link": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/"
-    },
-    {
-      "id": "3b503df8-2d23-817e-9324-e5313869a992",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have al",
-      "source": "The Verge",
-      "publishTime": "2026-08-08",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities"
-    },
-    {
-      "id": "3b503df8-2d23-818d-b632-c7d1c7b4c772",
-      "title": "The 15 best Mediterranean restaurants in the US, according to Yelp",
-      "summary": "From creamy hummus to inventive shawarma bowls, Mediterranean cuisine continues to grow in popularity across the country.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/best-mediterranean-restaurants-in-the-us-yelp-2026-8"
-    },
-    {
-      "id": "3b503df8-2d23-8197-b8ea-ca81aa585d92",
-      "title": "The unwind of Situational Awareness isn't the only reason the AI trade is back",
-      "summary": "The hedge fund's forced selling was a clearing event, but earnings are sustaining the AI trade",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-08",
-      "link": "https://www.cnbc.com/2026/08/07/the-situational-awareness-unwind-is-only-one-reason-the-ai-trade-is-back.html"
-    },
-    {
-      "id": "3b503df8-2d23-8194-8035-fbf23a0f0717",
-      "title": "Ellie Kemper: I'm giving my kids a less scheduled summer. It's made me a better parent.",
-      "summary": "Ellie Kemper says the best summer activities are the ones that spark her children's imaginations without requiring constant parental involvement.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/ellie-kemper-parenting-unstructured-play-2026-8"
-    },
-    {
-      "id": "3b503df8-2d23-819b-9f1b-d5c8cdce8513",
-      "title": "The only instant cameras worth your money",
-      "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera models from popular ",
-      "source": "The Verge",
-      "publishTime": "2026-08-08",
-      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak"
-    },
-    {
-      "id": "3b503df8-2d23-81cd-bca5-f90c4b6e13bf",
-      "title": "Live Q&A: How a 23-year-old with no experience built a global toy company",
-      "summary": "Business Insider's Sarah E. Needleman interviews the cofounder of Spin Master, the toy company behind PAW Patrol.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/spin-master-ronnen-harary-says-success-result-of-youth-2026-8"
-    },
-    {
-      "id": "3b503df8-2d23-8146-9377-c0d3aabd73f0",
-      "title": "Disney Plus tries a new AI-powered search",
-      "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But ",
-      "source": "The Verge",
-      "publishTime": "2026-08-08",
-      "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search"
-    },
-    {
-      "id": "3b503df8-2d23-8167-937c-d28f69186c78",
-      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-      "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that s",
-      "source": "The Verge",
-      "publishTime": "2026-08-08",
-      "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3"
-    },
-    {
-      "id": "3b503df8-2d23-81de-bd42-c3bce0b3d2cf",
-      "title": "The most beautiful college campus in every US state",
-      "summary": "Colleges across the US feature diverse architectural styles, from Gothic to Greek Revival. These are the most beautiful campuses across all 50 states.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/most-beautiful-college-campus-in-every-state"
-    },
-    {
-      "id": "3b503df8-2d23-81b1-a7d4-eda41ccc778b",
-      "title": "Watch the OpenAI Hugging Face presentation that people are calling a 'holy %{*#^' moment in AI",
-      "summary": "OpenAI revealed that, ahead of the Hugging Face breach, agents repeatedly created their own message boards to communicate with one another.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/openai-hugging-face-presentation-black-hat-message-boards-2026-8"
-    },
-    {
-      "id": "3b503df8-2d23-815a-a61f-c2b646b8ba82",
-      "title": "For the past 5 years, my husband and I have spent months at a time living with his mom. It's been going surprisingly well.",
-      "summary": "For a few months a year, my husband and I live with his retired mom for months at a time in her house. Living with my mom-in-law has benefits.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-08",
-      "link": "https://www.businessinsider.com/live-with-husband-mom-in-law-months-every-year-benefits-2026-8"
     }
   ],
   "macroEvents": [
