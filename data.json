@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-08-09 05:55",
+  "updatedAt": "2026-08-09 06:56",
   "news": [
+    {
+      "id": "3b603df8-2d23-8114-881e-e65b1f9c0d7f",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-09",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
+    },
     {
       "id": "3b603df8-2d23-81ed-a81f-fe84f89b38ae",
       "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
@@ -392,14 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-08-08",
       "link": "https://www.businessinsider.com/moved-in-parents-dads-diagnosis-confirmed-decision-2026-8"
-    },
-    {
-      "id": "3b603df8-2d23-81d9-b521-e215b278b3ba",
-      "title": "最慢 x86 指令“耻辱榜”：fxrstor64 单次执行 62 秒创纪录，相当于 1980 亿个 CPU 周期",
-      "summary": "IT之家 8 月 8 日消息，硬件研究人员 Christopher Domas 昨天在 GitHub 上发起了一项名为“CPU Deoptimization（反优化）”的实验项目。与传统 CPU 优化方向不同，该项目目标不是让指令运行更快，而是寻找执行延迟最高的单条机器指令。目前该项目公布的 x86 架构最慢指令记录为 fxrstor64，执行一次耗时约 62 秒，相当于 1980 亿个 CPU 周期。在软件和硬件优化领域，指令延迟分析通常用于研究低级指令执行时间，以改进处理器架构或优化应用程序性能。而 Domas 创建的“CPU 反优化排行榜”则反其道而行之，通过构造特殊运行环境，寻找能够让",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/425.htm"
     }
   ],
   "macroEvents": [
