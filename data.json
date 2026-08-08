@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-09 01:01",
+  "updatedAt": "2026-08-09 01:56",
   "news": [
+    {
+      "id": "3b603df8-2d23-81e1-89e6-ee3ffc4b5a24",
+      "title": "I spent $300 outsourcing a parenting rite of passage. I'd do it again.",
+      "summary": "After repeatedly failing to teach my kids to ride bikes, I paid an instructor $300 to do it. They were riding independently within 45 minutes.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-09",
+      "link": "https://www.businessinsider.com/paid-bike-instructor-teach-kids-ride-2026-8"
+    },
+    {
+      "id": "3b603df8-2d23-81e3-be85-f03fe30375b9",
+      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+      "summary": "X is winding down its existing Revenue Sharing program.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-09",
+      "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/"
+    },
     {
       "id": "3b603df8-2d23-81a3-b907-d99898c00fb9",
       "title": "We moved our 350-square-foot tiny home from the mountains of California to a city in the Pacific Northwest",
@@ -16,6 +32,14 @@
       "source": "TechCrunch",
       "publishTime": "2026-08-09",
       "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/"
+    },
+    {
+      "id": "3b603df8-2d23-8176-b5dc-d9cf67fd124d",
+      "title": "Buc-ee’s dodges John Oliver to sue another small business",
+      "summary": "Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, John Oliver literally begged the company to sue him for selling merch featuring his squirrel mascot, Mr. N",
+      "source": "The Verge",
+      "publishTime": "2026-08-08",
+      "link": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart"
     },
     {
       "id": "3b603df8-2d23-818a-9d9b-c6c2caa8d7c2",
@@ -376,30 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-08",
       "link": "https://www.ithome.com/0/987/420.htm"
-    },
-    {
-      "id": "3b603df8-2d23-815a-b6ec-e0341f657d06",
-      "title": "Best Gaming Laptops (2026): Razer, Asus, Dell, and More",
-      "summary": "You don’t want any old gaming laptop. Here’s my take on which to get, based on hundreds of hours of testing.",
-      "source": "Wired",
-      "publishTime": "2026-08-08",
-      "link": "https://www.wired.com/story/best-gaming-laptops/"
-    },
-    {
-      "id": "3b603df8-2d23-814e-8996-fcbeecb490fd",
-      "title": "阿维塔王辉：华为乾崑智驾里程突破 137 亿公里，位居全国第一",
-      "summary": "IT之家 8 月 8 日消息，在今天的阿维塔 07L 上市发布会上，阿维塔科技董事长王辉登台发表主题演讲。据他介绍，华为乾崑智驾里程突破 137 亿公里，位居全国第一。另外，阿维塔 07L 搭载了华为乾崑新一代 896 线双光路图像级激光雷达，且上市即预装华为乾崑智驾 ADS 5。据IT之家此前报道，华为乾崑智能汽车解决方案官方在 8 月 6 日发布了华为乾崑 7 月安全出行报告。当时，华为乾崑智驾累计辅助驾驶里程就来到了 134.1 亿公里，月度辅助驾驶里程 10.6 亿公里、月度辅助驾驶时长 1670 万小时，辅助驾驶月活用户 94.7%。",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/419.htm"
-    },
-    {
-      "id": "3b603df8-2d23-8191-af9e-d6ce32c6567e",
-      "title": "Linux 7.3 推进 Apple Silicon 兼容：初步合并 M3 Pro / Max / Ultra 设备树支持",
-      "summary": "IT之家 8 月 8 日消息，Linux 内核开发者正在为苹果 M3 系列高端芯片提供初步支持，预计将在未来的 Linux 7.3 版本合并窗口中加入 M3 Pro、M3 Max 以及 M3 Ultra 芯片的设备树支持，使主线 Linux 内核能够在这些 Apple Silicon 平台上启动。此前，Linux 7.2 内核已加入了苹果 M3 基础版的设备树支持，但由于大量硬件功能尚未完成支持和上游合并，目前这一支持仍不适合普通用户日常使用。此次针对 M3 Pro、M3 Max 和 M3 Ultra 的更新主要包含基础设备树文件，使其达到与基础版 M3 类似的初始支持水平。虽然目前仍缺少许多",
-      "source": "IT之家",
-      "publishTime": "2026-08-08",
-      "link": "https://www.ithome.com/0/987/418.htm"
     }
   ],
   "macroEvents": [
