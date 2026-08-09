@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-09 21:29",
+  "updatedAt": "2026-08-09 22:08",
   "news": [
+    {
+      "id": "3b703df8-2d23-819e-a760-ca793193e1e3",
+      "title": "美国西南研究院展示新型氢能发动机：面向中型卡车，号称媲美柴油发动机",
+      "summary": "IT之家 8 月 9 日消息，据科技媒体 Interesting Engineering 今天报道，美国西南研究院（SwRI）的科学家们成功研发出点火式氢能发动机，适用于中型商用卡车，号称能够提供媲美柴油发动机的性能。IT之家从原报道获悉，这款发动机并不是传统的燃料电池发动机，而是通过气缸内部点火的方式燃烧氢气，并经过活塞产生机械动力。科学家 Qilong Lu 对此表示：“我们从单缸发动机开始，重点优化燃烧过程和喷射策略。随后开发完整的多缸发动机，并解决早燃问题、燃烧稳定性。”同时，团队还使用涡轮增压器向发动机注入更多空气，使这款氢内燃机获得类似柴油发动机的扭矩表现，满足卡车所需的低转速扭矩",
+      "source": "IT之家",
+      "publishTime": "2026-08-09",
+      "link": "https://www.ithome.com/0/987/624.htm"
+    },
+    {
+      "id": "3b703df8-2d23-818e-bc52-f69e1231c1ce",
+      "title": "标致将在欧洲“下饺子”，2030 年前推出 7 款新车",
+      "summary": "IT之家 8 月 9 日消息，据外媒 Auto Express 当地时间 6 日报道，标致准备在欧洲展开新一轮产品攻势。按照集团最新的 FaSTLAne 战略，标致将在 2030 年前推出 7 款新车，并率先应用多项 Stellantis 关键技术。标致 CEO 阿兰 · 法韦表示，新一轮换代将从 208 和 2008 开始，随后覆盖 308、308 SW 和 408 所在的紧凑型车市场。最先登场的是全新纯电版 208 和 2008，现有燃油及混动车型也会迎来更新。接下来轮到 C 级车市场，3 款新车将取代 308 两厢车、308 SW 旅行车和 408。全新 208 明年上市时将首发 STL",
+      "source": "IT之家",
+      "publishTime": "2026-08-09",
+      "link": "https://www.ithome.com/0/987/616.htm"
+    },
+    {
+      "id": "3b703df8-2d23-81f0-9b18-d9083942cf7c",
+      "title": "甲骨文 OpenJDK 项目新规：不允许提交 AI 生成代码",
+      "summary": "IT之家 8 月 9 日消息，甲骨文（IT之家注：Oracle）现已通知 OpenJDK 开发者，要求项目组不能再提交 AI 生成的代码。甲骨文对此表示：“OpenJDK 社区贡献内容不得包含由大语言模型、扩散模型或深度学习系统生成的内容。此处的‘内容’包括但不限于代码、文本、PR、电子邮件沟通、维基和 Bug 报告。”甲骨文解释称，本次新规出台主要是考虑到知识产权风险，以及网络安全风险、代码审查工作量方面的担忧。开发者仍可私下使用 AI 工具审查、调试代码，以及进行 OpenJDK 项目相关的研究，只不过一切 AI 生成内容不得提交至仓库。",
+      "source": "IT之家",
+      "publishTime": "2026-08-09",
+      "link": "https://www.ithome.com/0/987/615.htm"
+    },
+    {
+      "id": "3b703df8-2d23-811f-bb93-c5d02bbb50ec",
+      "title": "曾经的全球第一社交平台 MySpace 宣布再次重启",
+      "summary": "IT之家 8 月 9 日消息，据科技媒体 CNBC 今天报道，21 世纪初风靡一时的社交媒体 MySpace 计划再度重启，但前景并不明朗。据报道，MySpace 现任拥有者 Tim Vanderhook 和 Chris Vanderhook 最近表示：“我们仍拥有 MySpace，目前正在等待合适的时机重新推出。如果这一次仍然失败，我们会再次尝试。”MySpace 创立于 2003 年，该平台拥有独特的界面设计、可自定义的个人主页。2008 年，Myspace 曾成为全球最受欢迎的社交网站之一，每月访问用户数达 1.15 亿。但在这之后，这款社交媒体平台被 Facebook 迅速超越，逐渐成",
+      "source": "IT之家",
+      "publishTime": "2026-08-09",
+      "link": "https://www.ithome.com/0/987/613.htm"
+    },
+    {
+      "id": "3b703df8-2d23-8169-9d8d-db3b0970c959",
+      "title": "Dropbox is a PC builder’s best friend",
+      "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot […]",
+      "source": "The Verge",
+      "publishTime": "2026-08-09",
+      "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup"
+    },
+    {
+      "id": "3b703df8-2d23-8177-b2dc-cb00215e16b7",
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-09",
+      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/"
+    },
+    {
+      "id": "3b703df8-2d23-81d0-abeb-e8739e01be93",
+      "title": "I've been a flight attendant for years. Here are the 5 mistakes I always see travelers make.",
+      "summary": "As a flight attendant, I see passengers make common travel mistakes, from not choosing their seats to getting to the airport at the wrong time.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-09",
+      "link": "https://www.businessinsider.com/things-never-do-airports-flight-attendant-travel-mistakes-2026-8"
+    },
+    {
+      "id": "3b703df8-2d23-81f5-a575-f884d8c0ec23",
+      "title": "未来汽车“地理围栏”可帮你告别超速罚单，阿姆斯特丹大学教授称技术已成熟",
+      "summary": "IT之家 8 月 9 日消息，未来，超速罚单或许会逐渐成为历史，但背后原因可能并不值得司机高兴：因为汽车本身将不允许你超速。据外媒 Carscoops 今天（9 日）报道，阿姆斯特丹大学城市交通未来学讲席教授马尔科 · 特 · 布勒梅尔斯特鲁特认为，地理围栏最终可能直接限制汽车在城市道路上的最高车速，而 GPS、摄像头、电子节气门和 OTA 更新等关键技术，其实已经出现在大量新车上。图源：Pixabay从技术角度看，强制限速已经不存在太高的门槛。GPS 可以判断车辆所在位置，摄像头能够识别道路限速，电子节气门可以控制动力输出，OTA 更新则允许制造商持续调整软件。真正难解决的问题，是驾驶者愿不",
+      "source": "IT之家",
+      "publishTime": "2026-08-09",
+      "link": "https://www.ithome.com/0/987/612.htm"
+    },
     {
       "id": "3b703df8-2d23-81ba-89fe-d74a5da4fc98",
       "title": "115 网盘：API 开放平台系统维护，基础功能和官方端均不受影响",
@@ -336,70 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-09",
       "link": "https://www.ithome.com/0/987/582.htm"
-    },
-    {
-      "id": "3b703df8-2d23-81ef-9509-e5eb6a096311",
-      "title": "洛图科技：2026 年上半年中国电子纸平板全渠道销量 64.6 万台，同比下降 22.1%",
-      "summary": "IT之家 8 月 9 日消息，洛图科技（RUNTO）发布的《中国电子纸平板零售市场月度追踪》报告显示，2026 年上半年，中国电子纸平板市场的全渠道销量为 64.6 万台，同比下降 22.1%。IT之家注意到，线上平台是中国电子纸平板市场最主要的销售渠道。2026 年上半年，线上市场的销量达 53.6 万台，占全渠道销量的 83.0%，比 2025 年同期扩大了 0.2 个百分点。线下渠道的销量占比为 17.0%。根据应用场景的不同，电子纸平板分为阅读器、办公本、学习本三大类，2026 年上半年数据显示：阅读器在线上全渠道的销量为 38.0 万台，同比增长 22.3%办公本在线上全渠道的销量为",
-      "source": "IT之家",
-      "publishTime": "2026-08-09",
-      "link": "https://www.ithome.com/0/987/580.htm"
-    },
-    {
-      "id": "3b703df8-2d23-8147-a01a-fcec2296d79b",
-      "title": "苹果客服回应删除接入千问手册：目前并没有收到新项目发布通知",
-      "summary": "IT之家 8 月 9 日消息，据新浪科技今日消息，针对删除《在 Mac 上配合 Apple 智能使用千问》使用文档一事，苹果客服对此回应称：“我们有功能或新项目发布时，都会提前收到通知，目前并没有收到相关通知，中国大陆还没推出‘Apple 智能使用千问’相关功能。”据IT之家此前报道，一篇名为《在 Mac 上配合 Apple 智能使用千问》的支持文档昨日现身苹果官网 Mac 简体中文使用手册，其中明确提到 Apple 智能可配合阿里巴巴千问模型工作。然而，这份简体中文操作手册已于今日在苹果官网删除，原网页链接无法正常访问。据苹果官网此前描述，千问扩展适用于 macOS 26.6 或更高版本，用",
-      "source": "IT之家",
-      "publishTime": "2026-08-09",
-      "link": "https://www.ithome.com/0/987/579.htm"
-    },
-    {
-      "id": "3b703df8-2d23-8183-922d-d8ace98b77ae",
-      "title": "Dietitians agree — cut back on 1 thing for better gut health, energy, and lower risk of cancer",
-      "summary": "Dietitians say one type of ultra-processed food may be especially bad for risk of cancer and heart disease. More than half of us indulge in it daily.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-09",
-      "link": "https://www.businessinsider.com/1-thing-dietitians-agree-you-should-cut-better-health-2026-8"
-    },
-    {
-      "id": "3b703df8-2d23-81db-a733-c9e4676324db",
-      "title": "携程：针对受台风“白海豚”影响相关地区酒店订单，启动兜底保障措施",
-      "summary": "IT之家 8 月 9 日消息，中央气象台 8 月 9 日（今天）10 时发布台风红色预警：今年第 13 号台风“白海豚”（强台风级）将于 9 日傍晚至 10 日凌晨在浙江舟山到福建福鼎一带沿海登陆（13 至 14 级，强台风级或台风级）。受台风“白海豚”影响，在线旅游平台携程旅行启动应急保障：交通方面，携程旅行已收到国航、东航、南航、厦航等多家航空公司涉及浙江省进出港或经停航班，起飞日期在 2026 年 8 月 9 日 —2026 年 8 月 10 日的机票免费退改政策。IT之家从“携程黑板报”获悉，酒店方面，针对受台风影响的相关地区，携程已开启兜底保障措施，符合以下条件的用户可免费取消酒店：",
-      "source": "IT之家",
-      "publishTime": "2026-08-09",
-      "link": "https://www.ithome.com/0/987/578.htm"
-    },
-    {
-      "id": "3b703df8-2d23-810c-93a5-fb10d87b9b98",
-      "title": "I'm the founder of a private jet company. I eat dinner when the locals do and end most days in my at-home bowling alley.",
-      "summary": "Thomas Flohr is the founder of VistaJet, a private aviation service. He's based in Switzerland but travels often between their 25 offices worldwide.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-09",
-      "link": "https://www.businessinsider.com/vistajet-founder-thomas-flohr-shares-daily-routine-st-moritz-2026-8"
-    },
-    {
-      "id": "3b703df8-2d23-81d6-b7ae-dcee54365ba0",
-      "title": "美国“机器狗”保安陆续上岗，相比真人每年可节省 8 万-13 万美元",
-      "summary": "IT之家 8 月 9 日消息，在美国，机器狗已经开始替人巡逻数据中心、看守高价值农作物，甚至进入体育场馆执行安保任务。虽然机器狗本身并不便宜，但全天候使用的成本已经开始低于真人保安。《商业内幕》当地时间 1 日报道称，如果用机器狗承担一个 24 小时不间断值守岗位，每年可比雇用真人保安节省 8 万至 13 万美元（IT之家注：现汇率约合 54.1 万至 87.9 万元人民币）。对于全美约 130 万名保安而言，成本优势意味着潜在的就业压力。保安长期以来都是门槛较低的重要就业岗位，为学历不高的劳动者提供收入来源，也常被物业所有者用来降低保险成本。加州大学伯克利分校劳工中心数据显示，约 60.8%",
-      "source": "IT之家",
-      "publishTime": "2026-08-09",
-      "link": "https://www.ithome.com/0/987/574.htm"
-    },
-    {
-      "id": "3b703df8-2d23-8140-9d0d-d16b5d6eade9",
-      "title": "I build AI data centers. I want them to disappear from view.",
-      "summary": "Nvidia engineer Sean James makes the case that AI data centers \"need to fade into the background\" so they're visibly \"unremarkable.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-08-09",
-      "link": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8"
-    },
-    {
-      "id": "3b703df8-2d23-81d7-aa67-db60b835438b",
-      "title": "Why billion-dollar robotics startups are obsessed with folding laundry",
-      "summary": "Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-09",
-      "link": "https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8"
     }
   ],
   "macroEvents": [
