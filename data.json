@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-11 04:09",
+  "updatedAt": "2026-08-11 05:10",
   "news": [
+    {
+      "id": "3b803df8-2d23-81ce-a9dc-c7a9d59f0536",
+      "title": "Seaports are dabbling in AI, but complex supply chain operations make adoption a challenge",
+      "summary": "The Port of New Orleans partners with UTC Transoceanic and New Orleans Public Belt Railroad to use AI for logistics in handling oversize cargo.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/seaport-ai-adoption-challenges-port-of-new-orleans-2026-8"
+    },
+    {
+      "id": "3b803df8-2d23-81c9-9667-fc027f15823e",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-11",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
+    },
+    {
+      "id": "3b803df8-2d23-81ae-8159-f3339c915cdc",
+      "title": "What smart people are saying about Meta's open-weight model Muse Glimmer and Mark Zuckerberg's AI manifesto",
+      "summary": "Even the White House took notice of Meta CEO Mark Zuckerberg's AI manifesto. Others focused on the release of Meta's open-weight model.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/meta-muse-glimmer-open-weight-zuckerberg-ai-views-reactions-2026-8"
+    },
+    {
+      "id": "3b803df8-2d23-8145-b15f-d5f382b0e7ef",
+      "title": "Mamdani backs new protections for workers delivering packages for companies like Amazon",
+      "summary": "Mayor Zohran Mamdani supports The Delivery Worker Protection Act, a proposal that would increase NYC regulatory power over companies like Amazon.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/mamdani-backs-protections-for-workers-delivering-amazon-packages-in-nyc-2026-8"
+    },
     {
       "id": "3b803df8-2d23-81a9-a5a5-e0c0e023e68d",
       "title": "Bluesky now lets you hide reposts from that annoying person you follow",
@@ -368,38 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-08-10",
       "link": "https://www.businessinsider.com/mark-zuckerberg-vision-ai-future-takeaways-meta-personal-agents-2026-8"
-    },
-    {
-      "id": "3b803df8-2d23-818b-8a59-ead35a36f006",
-      "title": "消息称智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片",
-      "summary": "IT之家 8 月 10 日消息，晚点 LatePost 今天（10 日）晚间发布消息称，智谱 MaaS 开放平台注册用户（即 API 用户）已经达到近 700 万，相比 7 月初增长约 200 万，其中包括 2.3 万家企业客户，对标 Codex 的开发者产品 ZCode 上线 1 个月用户突破百万。今年以来，智谱 ARR 增长 15 倍。同时，在 Kimi 和阿里新模型发布后，智谱 ARR 增速未受影响。有投资人透露，目前智谱 ARR 来到 20 亿美元（IT之家注：现汇率约合 135.05 亿元人民币），但智谱官方已经否认，接近公司的人表示，实际数字应该更高。若按 20 亿美元口径计算，注",
-      "source": "IT之家",
-      "publishTime": "2026-08-10",
-      "link": "https://www.ithome.com/0/988/048.htm"
-    },
-    {
-      "id": "3b803df8-2d23-815e-b6ab-ff27deb474ab",
-      "title": "JBL 推出 PULSE 6 便携蓝牙音箱：IP68、一体化提手设计、炫彩灯效，2499 元",
-      "summary": "IT之家 8 月 10 日消息，JBL 现已推出 PULSE 6 便携蓝牙音箱，将于 8 月 21 日 0:00 开启预售，8 月 31 日 10:00 正式开售，到手价 2499 元。这款音箱搭载一体化提手，支持三维炫彩灯效，可通过 JBL One App 进行个性化定制；净重 1.49kg，尺寸为 131.7×264.1×106.4mm；这款音箱满电续航 12 小时，支持 15W 功率充电；支持 IP68 防尘防水。这款音箱搭载独立同轴高低音扬声器，搭配升级低音增强单元，可实现 40W RMS 外放功率（30W 低音 + 10W 高音）；采用蓝牙 6.0，支持 AAC、LC3 等；内置 D",
-      "source": "IT之家",
-      "publishTime": "2026-08-10",
-      "link": "https://www.ithome.com/0/988/047.htm"
-    },
-    {
-      "id": "3b803df8-2d23-815f-b7f7-d768a447dd61",
-      "title": "I never expected my mom to die at 61. I'm grateful we had the hard conversations first.",
-      "summary": "Jermaine Ee says talking openly with his mother before her unexpected death gave his family clarity, comfort, and memories they'll always treasure.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-10",
-      "link": "https://www.businessinsider.com/asking-mom-about-finances-changed-everything-2026-8"
-    },
-    {
-      "id": "3b803df8-2d23-8151-bd5f-d8c0929b1e63",
-      "title": "曝谷歌测试新版主页：能创建图片、解读文件，唯独少了搜索按钮",
-      "summary": "IT之家 8 月 10 日消息，据外媒 Search Engine Watch 今天（10 日）报道，谷歌仍在想办法把更多用户引向 AI 功能。本周，谷歌开始测试新版搜索主页，部分用户发现，沿用多年的“Google 搜索”按钮却消失了，取而代之的是三个 AI 功能快捷入口。IT之家获悉，新版页面提供“创建图片”“询问文件”和“头脑风暴”三个新按钮，把 AI 功能直接摆到了搜索主页最显眼的位置。▲ 图源 Search Engine Watch，下同部分用户在未登录账号访问谷歌主页时已经看到新版设计。点击“创建图片”后，谷歌会提供若干生成建议，并通过 Nano Banana 生成图片；“询问文件”",
-      "source": "IT之家",
-      "publishTime": "2026-08-10",
-      "link": "https://www.ithome.com/0/988/046.htm"
     }
   ],
   "macroEvents": [
