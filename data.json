@@ -1,6 +1,302 @@
 {
-  "updatedAt": "2026-08-11 17:29",
+  "updatedAt": "2026-08-11 18:26",
   "news": [
+    {
+      "id": "3b903df8-2d23-81d4-a645-fb4e52d9c3b8",
+      "title": "AI Is Dead. Organoids Are Alive",
+      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+      "source": "Wired",
+      "publishTime": "2026-08-11",
+      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/"
+    },
+    {
+      "id": "3b903df8-2d23-81b7-ae98-de595a84a172",
+      "title": "Seedless Blackberries and Cherries That Grow on Bushes Vie to Be the Future of Food",
+      "summary": "Startups and Big Ag are using Crispr gene editing to create crops that taste better and grow on a hotter planet. But will they find a market?",
+      "source": "Wired",
+      "publishTime": "2026-08-11",
+      "link": "https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/"
+    },
+    {
+      "id": "3b903df8-2d23-81d6-a335-e04621e6124a",
+      "title": "I moved from the US to Australia 6 years ago. I love my life abroad, but still feel guilty every day.",
+      "summary": "Expat guilt doesn't go away. You just get better at coping with it.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/expat-guilt-how-to-cope-love-life-abroad-feel-guilty-2026-8"
+    },
+    {
+      "id": "3b903df8-2d23-81e0-8883-c1dd17fc43dc",
+      "title": "Cursor’s head of talent says companies get one crucial thing wrong with work trials",
+      "summary": "Cursor's head of talent, Adam Ward, said work trials, while expensive, offer technical signals and show how candidates collaborate and fit.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/cursor-work-trials-tips-candidate-hiring-head-talent-2026-8"
+    },
+    {
+      "id": "3b903df8-2d23-8116-b166-e89f6f1d925e",
+      "title": "OpenSSH 10.5 发布，修复多项安全漏洞",
+      "summary": "IT之家 8 月 11 日消息，据科技媒体 Linuxiac 今天报道，开源 SSH 协议实现 OpenSSH 10.5 现已正式发布，主要修复多项安全问题。IT之家从原报道获悉，本次更新修复一项与 ssh-agent 锁定机制，以及用于识别转发代理的 session-bind@openssh.com 扩展相关交互问题。此前代理处于锁定时，这类绑定请求会被拒绝，导致一些本应在本地执行的操作，被转发代理传到远程环境完成。服务器端方面，OpenSSH 10.5 本次修复了 authorized_keys 文件的 restrict 关键字行为，并加入新命令“ssh -Z user@host”，可用于",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/428.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8105-a19e-d9c5dd25f299",
+      "title": "消息称字节继 Seed、Flow 后又成立新的一级部门，着眼 AI 数据与安全",
+      "summary": "IT之家 8 月 11 日消息，36 氪“智能涌现”今天（11 日）援引多个信源消息称，字节跳动近期成立了一个新的一级部门 ——AI 数据与安全，与 Seed、Flow、抖音等部门平行，负责人为王赢磊（Adam Wang）。这是继 2023 年底成立 Seed 和 Flow 两个 AI 一级部门后，字节围绕 AI 业务成立的又一个一级部门。负责人王赢磊此前为 TikTok 平台责任负责人和 TikTok 直播负责人，根据接近字节的人士透露，王赢磊负责的直播业务曾是 TikTok 最主要的营收来源之一，在字节内部有过“赫赫战功”。该部门的前身之一，是 TikTok 创始团队成员傅越（花名 Yuy",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/429.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8137-ad69-eb3285df713f",
+      "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
+      "summary": "Don’t fly to Turkey just yet. Our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
+      "source": "Wired",
+      "publishTime": "2026-08-11",
+      "link": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/"
+    },
+    {
+      "id": "3b903df8-2d23-818f-abc2-f558ad32dad3",
+      "title": "越南 VinSpace 与 SpaceX 签署合同，2027 年发射首批人造卫星",
+      "summary": "IT之家 8 月 11 日消息，越南综合性商业集团 Vingroup 旗下航空航天企业 VinSpace 当地时间今日宣布与 SpaceX 签署一份合同：VinSpace 的首批人造卫星将在明年作为“拼车”负载由 SpaceX 货运火箭发射升空。VinSpace 将负责其卫星的研究、开发、制造、运行。这些卫星将进行企业内部研发技术的在轨测试，增强公司的卫星工程能力，为未来的商业航天应用铺平道路。VinSpace 首席执行官 Thu Vu 表示：可靠进入太空是将卫星创新转化为实际运行任务的基础。与 SpaceX 签订这份合同是 VinSpace 长期战略中的一个重要里程碑，有助于构建越南的太空生",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/424.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8105-807c-c8c5e6ea0f3c",
+      "title": "iQOO Neo11 至尊版手机现身中国电信终端产品库：天玑 9500 定制处理器，8 月 18 日发布",
+      "summary": "IT之家 8 月 11 日消息，型号为 V2573A 的 iQOO Neo11 至尊版手机已现身中国电信终端产品库，拥有 8GB+256GB、12GB+256GB、12GB+512GB、16G+256G、16G+512G 五种规格版本，产品零售价格尚未公布。相关页面显示，iQOO Neo11 至尊版手机配备 6.83 英寸居中单挖孔屏（从窄边框的设计来看，预计是 OLED 屏幕），采用直角边框设计，机身底部有卡槽 / 充电接口 / 扬声器开孔。该机还提供乘风、疾影黑、驰光白三种配色可选。该机前置 1600 万像素镜头、后置 5000 万像素 + 800 万像素镜头组合，AP 型号为 MT699",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/421.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8170-a3ff-cc101a95ea72",
+      "title": "商汤日日新 SenseNova 6.8 Flash Lite 预览版上线：主打轻量敏捷，剑指“委派智能”",
+      "summary": "IT之家 8 月 11 日消息，商汤科技今天（11 日）宣布，今天，商汤日日新全新多模态智能体模型 SenseNova 6.8 Flash Lite Preview 预览版正式上线 SenseNova Token Plan。该模型主打轻量敏捷，具备自主规划、持续执行、多 Agent 协作、动态纠偏能力，可实现完整端到端结果交付，向着委派智能（Delegated Intelligence）方向演进：用户只需给出目标，AI 自主走完全流程，人专注结果验收。据IT之家了解，正式版 6.8 Flash Lite 模型以及性能进一步提升的 6.8 Flash 模型，也将于近期发布。根据介绍，围绕长程复杂",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/416.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8136-95ce-fb7ed27db412",
+      "title": "Alinea Analytics：《蜘蛛侠：崭新之日》电影上映带动《漫威蜘蛛侠 2》游戏销量大涨",
+      "summary": "IT之家 8 月 11 日消息，据游戏媒体 EuroGamer 今天报道，好莱坞大片《蜘蛛侠：崭新之日》上映后，推出多年的游戏《漫威蜘蛛侠 2》迎来一波新玩家。据 Alinea Analytics 分析师 Rhys Elliott 估算，自《蜘蛛侠：崭新之日》7 月 30 日上映以来，《漫威蜘蛛侠 2》游戏已经售出约 31.6 万份（涵盖 PC、PS5），为索尼和失眠组带来 1,100 万美元（IT之家注：现汇率约合 7,430.9 万元人民币）额外收入。同时，《漫威蜘蛛侠 2》的销量增幅十分明显，本作近期的日活用户甚至突破了 100 万。Elliott 认为，本轮用户增长主要受电影宣发效应、",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/407.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81a9-ac95-f9d83c1628b9",
+      "title": "I run a global consulting firm. Here's how I hack my productivity and wind down after work.",
+      "summary": "David Hatcher is the managing partner of Baringa, a global consulting firm. He shared his daily routine and some of his best productivity hacks.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/david-hatcher-baringa-managing-partner-daily-routine-2026-7"
+    },
+    {
+      "id": "3b903df8-2d23-81ef-aaa0-c61d40556b1c",
+      "title": "DeepSeek 梁文锋财富一年暴涨 3850%，增速登顶全球亿万富豪榜",
+      "summary": "IT之家 8 月 11 日消息，金融研究公司 bestbrokers 近期根据福布斯实时亿万富翁排行榜进行了统计，在 2025 年 7 月 27 日至 2026 年 7 月 27 日间，DeepSeek 创始人梁文锋净资产从 2025 年的 10 亿美元（IT之家注：现汇率约合 67.55 亿元人民币）飙升至 2026 年的 395 亿美元（现汇率约合 2,668.37 亿元人民币），一年内增长达到惊人的 3,850%，增速登顶全球亿万富豪榜。报告显示，目前全球共有 3,356 位亿万富翁，美国以显著优势领先，拥有 990 位亿万富翁，占全球总数的 29.5%，美国亿万富翁的总财富高达 8.4",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/396.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8116-b7fe-f47efdea599f",
+      "title": "I left Amazon, came back, and was laid off. My old job-search strategies no longer worked — here's what did.",
+      "summary": "A former Amazon engineer left the company, returned, and was laid off. He said his latest job search was tougher than expected.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/amazon-engineer-layoffs-job-search-lessons-big-tech-deloitte-office-2026-8"
+    },
+    {
+      "id": "3b903df8-2d23-8147-b74f-e275662427a3",
+      "title": "腾讯音乐娱乐集团 2026 年 Q2 营收 89.3 亿元同比增长 5.8%：会员收入 47.9 亿元，收购喜马拉雅后首份季报出炉",
+      "summary": "IT之家 8 月 11 日消息，腾讯音乐娱乐集团（TME）今日公布了截至 2026 年 6 月 30 日的第二季度未经审计财务业绩。TME 本季度总营收为 89.3 亿元人民币，同比增长 5.8%。这是腾讯音乐完成对喜马拉雅收购后的首份季度报告。2026 财年半年报营业总收入：168.28 亿元毛利润：74.95 亿元毛利率：44.54%归母净利润：45.62 亿元经营现金流：51.96 亿元基本每股收益：1.47 元稀释每股收益：1.46 元2026 财年第二财季营业总收入：89.33 亿元，同比增长 5.8%毛利润：39.49 亿元毛利率：44.2%归母净利润：24.71 亿元扣非净利润：",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/392.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81d5-9f8d-dfec6fcd3b0e",
+      "title": "微星 2026 财年半年报归母净利润 64.16 亿新台币",
+      "summary": "IT之家 8 月 11 日消息，微星今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告： 营业总收入：1061.70 亿新台币（IT之家注：现汇率约合 222.11 亿元人民币） 毛利润：164.09 亿新台币（现汇率约合 34.33 亿元人民币） 归母净利润：64.16 亿新台币（现汇率约合 13.42 亿元人民币） 基本每股收益：7.59 新台币（现汇率约合 1.59 元人民币） 资产负债率：54.86% AI 解读 本次财报未披露机构一致预期，无法对比预期实现情况财报核心数据2026 财年上半年，微星实现营业收",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/381.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8166-91b5-e9b7e1fca64d",
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
+      "source": "Wired",
+      "publishTime": "2026-08-11",
+      "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/"
+    },
+    {
+      "id": "3b903df8-2d23-81cc-b27f-d9332e087d94",
+      "title": "Why Legora's CEO is betting that every software company ends up ditching the seat",
+      "summary": "CEO Max Junestrand told Business Insider why Legora adopted a usage-based pricing model, reflecting AI's impact on software economics.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/legora-ceo-max-junestrand-shift-usage-based-pricing-2026-8"
+    },
+    {
+      "id": "3b903df8-2d23-81e3-89a0-dbb2a9f40331",
+      "title": "谷歌力推的 AI 招聘工具遭自家 DeepMind 团队“打脸”：或不小心误筛简历",
+      "summary": "IT之家 8 月 11 日消息，谷歌向企业客户推销 AI 工具时，主打的一项能力就是快速处理海量求职申请，从中找出最有潜力的候选人。但谷歌自家的部分 AI 研究人员招人时，却不愿把筛选工作完全交给 AI。据彭博社今天（11 日）报道，一份内部文件显示，负责降低先进 AI 风险的 Google DeepMind AGI 安全与对齐团队鼓励应聘者在正常投递之外，再填写一份专门表格，免得申请被谷歌内部 AI 系统自动筛掉。文件称：“我们的申请系统有不小的概率会误筛掉你的简历，或者要过很久才会送到我们手上。填写这份表格，可以确保团队里真正的人看到你的申请。”IT之家获悉，文件还特别注明：“请勿广泛分享",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/380.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81f4-aa03-e9479ef48eb6",
+      "title": "《女神异闻录 4：Revival》制作人透露：本次重制几乎收录了黄金版的所有内容",
+      "summary": "IT之家 8 月 11 日消息，《女神异闻录 4：Revival》制作人和田和久昨日接受外媒 GamerBraves 采访，谈及本作的重构方向、战斗系统和剧情呈现方式。据介绍，《女神异闻录 4：Revival》最大的变化之一，就是升级了完全 3D 环境。玩家将可以旋转右摇杆自由探索城市，而原作采用了固定视角的 2D 背景。原作的部分 2D 风格过场动画，现在变成了即时演算的 CG 动画；而一些过去采用视觉小说形式展开的对话场景，也被重新制作成动画式剧情演出。和田和久表示，虽然本作的 3D 过场动画更加完善，但原作的 2D 动画场景并不会大幅修改。本作的剧情演出更加电影化，例如镜头距离将更近、画",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/379.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81ae-8aa9-cfbec4f66edb",
+      "title": "工业富联 2026 年半年度归母净利润 237.40 亿元，同比增长 95.99%",
+      "summary": "IT之家 8 月 11 日消息，工业富联今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告：营业总收入：5578.61 亿元，同比增长 54.63%归母净利润：237.40 亿元，同比增长 95.99%扣非净利润：229.84 亿元，同比增长 96.99%经营现金流：73.91 亿元，同比增长 425.32%加权平均净资产收益率：13.36%基本每股收益：1.20 元，同比增长 96.72%稀释每股收益：1.20 元，同比增长 96.72% AI 解读本次工业富联 2026 年半年度营收、归母净利润增速均远超市场预期，业绩表现大幅超出市场平均预测。财报亮点营业收入达",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/377.htm"
+    },
+    {
+      "id": "3b903df8-2d23-817a-a002-e409b1e3aa10",
+      "title": "下单显示女司机到场却是男司机？滴滴回应称用户自行选择更近司机，“她计划”小红花标识未同步取消招误解",
+      "summary": "IT之家 8 月 11 日消息，8 月 9 日，有用户发帖称“滴滴她计划打到男司机”。该网友称，车辆到达前一秒的订单页面仍显示为女司机，到达后立马更换为男司机头像，且客服未予承认和赔偿。滴滴官方昨日发布声明：“确认不存在人车不符和隐瞒司机信息，但产品展示存在问题，让用户产生了误解，现如实向大家说明，并就本笔订单给乘客带来的困惑和不安致歉。”滴滴在说明中披露了订单改派的时间线：8 月 9 日 15 时 24 分 03 秒，乘客在滴滴 App 发起“她计划”订单；15 时 24 分 07 秒，平台女司机徐师傅接单，接驾距离 1.94 公里；15 时 24 分 25 秒，乘客点击“边等边找更快司机”",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/376.htm"
+    },
+    {
+      "id": "3b903df8-2d23-816a-9ad9-de2e86c392c1",
+      "title": "荣耀 Robot Phone 超前品鉴会明日起在南京、深圳、成都、太原、福州、昆明六城举办",
+      "summary": "IT之家 8 月 11 日消息，荣耀官方今天宣布，Robot Phone 超前品鉴将从明天起在南京、深圳、成都、太原、福州、昆明六城举办。据官方介绍，本次活动提供真机上手体验环节，用户可现场体验这款配备云台相机的手机产品。同时产品专家还将现场分享使用技巧，用户可以现场将使用体验反馈给产品经理。IT之家附本次活动具体举行时间地点如下：时间地点8 月 12 日 19:00荣耀直营店（南京软件谷店）8 月 15 日 15:00荣耀旗舰店（深圳湾万象城店）荣耀旗舰店（成都宽窄巷子店）荣耀直营店（太原钟楼街店）荣耀直营店（福州东二环泰禾广场店）8 月 16 日 11:00荣耀直营店（昆明万象城店）荣耀 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/375.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8140-84d2-feff497139b2",
+      "title": "阅文集团 2026 财年半年报归母净利润 1.35 亿元，同比下降 84.1%",
+      "summary": "IT之家 8 月 11 日消息，阅文集团今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：营业总收入：35.31 亿元，同比增长 10.7%毛利润：17.92 亿元，同比增长 11.1%毛利率：50.7%归母净利润：1.35 亿元，同比下降 84.1%基本每股收益：0.13 元，同比下降 84.52%稀释每股收益：0.13 元，同比下降 84.34%资产负债率：18% AI 解读本次财报营收同比增长符合市场预期，但归母净利润受一次性税务事项影响大幅下滑，低于市场一致预期。财报核心亮点整体营收保持稳健增长，上半年实现",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/374.htm"
+    },
+    {
+      "id": "3b903df8-2d23-814e-b423-d65bbf831525",
+      "title": "前行者带来 S9V2 Ultimate 中大手鼠标：3955 + 54L15，磁吸无线座充",
+      "summary": "IT之家 8 月 11 日消息，前行者 (EWEADN) 即将于今晚 20:00 发售中大手鼠标新品 S9V2 Ultimate。这一型号搭载原相 PAW3955EX 光学传感器和 Nordic nRF54L15 主控，支持 RGB 磁吸固定无线充电底座。S9V2 Ultimate 模具对称，三维 127×64×40.5 (mm)，左右双侧收腰，适合趴握、抓握、指握姿势。其表面覆盖冰凝肤感涂层，内置龙骨结构，集成 500mAh 电池，配备大面积 PTEF 脚贴，整体质量 59±3g。该鼠标内置 150M 定制光学微动、TTC 1M 防尘金轮编码器，PCB 应用沉金工艺；支持三模连接，其中 US",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/372.htm"
+    },
+    {
+      "id": "3b903df8-2d23-818c-b565-ed1c8469bee0",
+      "title": "上汽大众傅强谈行业生锈案例：汽车防锈技术家家都有，就是想不想给用户做",
+      "summary": "IT之家 8 月 11 日消息，在今日的上汽大众 ID.ERA 5S 发布会上，上汽大众汽车有限公司销售与市场执行副总经理、上海上汽大众汽车销售有限公司总经理傅强谈到了汽车质量问题。傅强表示：“汽车工业发展到今天，防锈其实早就不是什么事儿了。家家都有这个技术，为什么还有这么多生锈的案例呢？说白了就是有这技术，但是想不想给用户做。”傅强表示：“在短期成本和长期口碑之间发生矛盾的时候，我们永远坚定地选择后者。多用点蜡能省几个钱，在防腐上省的每一分钱，将来都要用品牌的声誉来还。”在发布会上，有现场嘉宾进一步透露，个别车型白车身热成型钢的含量已低到了 18%。据IT之家此前报道，上汽大众 ID. ER",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/373.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8134-a24d-c066101d792e",
+      "title": "AI CEOs are in their manifesto era",
+      "summary": "AI CEOs keep publishing lengthy missives. While unlikely to be read beyond techies, the CEOs want to \"own\" the narrative, communications advisers say.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/ai-ceo-manifestos-mark-zuckerberg-dario-amodei-2026-8"
+    },
+    {
+      "id": "3b903df8-2d23-81fa-8fc7-dd71c45f53e0",
+      "title": "上线不足一个月：米哈游 AI 女友桌面陪伴软件《BSide: Olivia Lin》宣布 8 月 31 日停运，8 月 27 日发布离线版",
+      "summary": "IT之家 8 月 11 日消息，米哈游今日发布公告，宣布旗下桌面陪伴软件《BSide: Olivia Lin》将正式停止运营。官方表示，基于产品阶段性规划与后续安排，该作品将结束在线服务，并推出离线版本，让用户在服务器关闭后继续使用部分功能。IT之家此前报道，这款软件于 2026 年 7 月 13 日在 Steam 开启抢先体验。米哈游表示，虽然运营时间较短，但期间收到了用户围绕林离角色的互动内容，包括聆听黑胶、书写信件以及上传旋律等体验。根据公告安排，2026 年 8 月 27 日 15:00，游戏将上线离线版本，同时停止“写信”“上传 MIDI”等依赖在线服务的功能。2026 年 8 月 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/371.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81c6-838b-e5b7256242d6",
+      "title": "消息称联想 Y700 无极小平板搭载 7500mAh 电池，支持 68W 快充",
+      "summary": "IT之家 8 月 11 日消息，据博主 @熊猫很禿然 透露，联想 Y700 无极小平板将搭载 7500mAh 电池，支持 68W 快充。据IT之家今日早些时候报道，联想 AI 平板拯救者 Y700 无极将于 8 月 25 日 19:00 发布。从预热节奏来看，联想拯救者云游戏掌机 C700 届时也有望同场亮相。此前预热信息显示，Y700 无极将搭载高通第五代骁龙 8 至尊领先版移动平台，配备四边等宽的 8.4\" WQXGA 165Hz OLED 屏幕，搭载 LPDDR5T-10667 内存和 UFS 4.1 Pro 存储，支持内置流量卡和可插拔 SIM 卡，拥有三段式 RGB 灯环 50MP ",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/369.htm"
+    },
+    {
+      "id": "3b903df8-2d23-814d-9064-f750612bcb02",
+      "title": "The new Google is destroying small businesses' reputations",
+      "summary": "Google AI Overviews are becoming customers' first impression of small businesses. Inaccurate summaries are damaging their reputations.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/google-ai-overviews-aio-causing-chaos-small-businesses-2026-8"
+    },
+    {
+      "id": "3b903df8-2d23-8199-89e1-feaaa73e9744",
+      "title": "吉利银河 A7 上市一周年，累计销量突破 10 万辆",
+      "summary": "IT之家 8 月 11 日消息，今天（11 日）下午，吉利银河官微宣布，吉利银河 A7 上市一周年，累计销量突破 10 万辆。据IT之家了解，今年 4 月，2026 款吉利银河 A7 EM/ A7 EV 双车正式上市。其中银河 A7 EM 售价 9.78 万-13.18 万元，A7 EV 售价 11.28 万 / 11.98 万元。2026 款吉利银河 A7 EM 定位“电混家轿颠覆者”，拥有 2845mm 越级轴距，宣传可实现 2L 级超低馈电油耗，具备 235km 同级最长纯电续航、2150km 综合续航。A7 EV 则基于 GEA 全球智能新能源架构打造，搭载神盾金砖电池，纯电 CLTC",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/368.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8152-b23d-d61271a07167",
+      "title": "Evercade 推出《毁灭战士》限定版 Nexus 掌机，249 美元",
+      "summary": "IT之家 8 月 11 日消息，Evercade 今天宣布推出《毁灭战士》限定版 Nexus 掌机，该产品全球限量 3000 台，定价 249.99 美元（IT之家注：现汇率约合 1,689 元人民币）。据介绍，这款掌机附带的游戏卡带收录了《毁灭战士》《毁灭战士 2》两款经典作品，并包含《TNT: Evilution》《冥王星实验》《SIGIL》等资料片。同时，这款掌机还附带了本地多人游戏，拥有专属死亡竞赛地图。官方还为掌机版本的游戏加入了修改器、可调节暴力等级设置等独家内容。此外，该掌机还将随机附送硬质收纳包、漫画书、钥匙扣、双面海报、收藏证书等，满足铁杆粉丝的收藏需求。",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/367.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81de-976d-f127cf6ae146",
+      "title": "腾讯《王者荣耀世界》公布后续计划：移动端性能优化，重做新手体验并调整战斗机制",
+      "summary": "IT之家 8 月 11 日消息，《王者荣耀世界》制作组今日发布公告，回应了玩家对于 S2 赛季上线时间及后续内容的关注。官方表示，经过多轮评估后，决定投入一段时间重点优化基础体验，因此 S1 赛季将继续延长，S2 赛季将围绕新手体验、战斗机制和基础内容进行调整。制作组表示，游戏上线前已经规划了赛季节奏，其中 S0 用于玩家准备，S1 展示稷下区域变化与挑战，S2 则计划继续扩展王者大陆内容。上线后，团队持续收集玩家反馈，并针对小地图、虚影、日常玩法、性能等问题进行了优化。官方称，在尝试保持赛季更新节奏的同时推进体验调整后，部分问题解决效果未达到预期。因此团队决定暂缓推进部分内容，集中资源强化长",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/366.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81e6-bae1-e1e559e06adf",
+      "title": "OpenAI 伦理主管 Chloé Bakalar 悄然离职，在岗不到一年",
+      "summary": "IT之家 8 月 11 日消息，英媒《金融时报》在其昨日报道中指出，前 OpenAI 人工智能伦理主管 Chloé Bakalar 已于今年 7 月末从这家明星初创企业离职，这距离她 2025 年 8 月加入该企业还不到一年。OpenAI 发言人表示：“我们感谢 Chloé 的贡献。在 OpenAI，人工智能伦理并非由某个所有者或团队负责，伦理考量已深深融入到模型构建过程中，并由多个研究团队共同参与。”Chloé Bakalar 此前曾在普林斯顿等多家知名学术机构担任教职。而在加入 OpenAI 前，她曾在 Meta 有一段为期六年的科技行业工作经历。其制定并领导了 Meta 的 AI 智能伦",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/365.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81b8-9689-c1239cedfdc6",
+      "title": "乘联分会：7 月乘用车市场呈现五大鲜明特征，纯油车近乎失速",
+      "summary": "IT之家 8 月 11 日消息，乘联分会今天（11 日）发布 2026 年 7 月份全国乘用车市场分析，其中提到，2026 年 7 月乘用车市场呈现五大鲜明特征。一、总量持续承压，结构性分化极致放大，“燃油深度降温、新能源强势领跑”成为市场核心主线，油价波动主导了“油电替代”节奏；二、燃油车全线收缩，其中纯燃油车型近乎失速，混动车型相对抗跌，导致燃油车内部结构持续优化；三、新能源渗透率持续突破新高，供给端新国标合规产品集中迭代上市，行业从价格内卷全面转向价值竞争；四、出口持续发挥托底作用，有效稳住车企批发与产能，缓解国内零售疲软压力；五、行业库存持续良性去化，厂商、渠道库存降幅同步扩大，整体库",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/364.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8163-8264-f68f268c77ab",
+      "title": "iQOO Z11S 手机官宣搭载 iQOO 迄今最大 10000mAh 蓝海电池，宁德新能源联合研发",
+      "summary": "IT之家 8 月 11 日消息，iQOO 官方今日宣布，iQOO Z11S 新机将搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池，采用单电芯设计，由宁德新能源联合研发。iQOO 官方今日还放出了新机电池核心亮点，包括续航长、低温稳定运行、长寿材质、能效优化等。IT之家注意到，该机还将兼容 44W PD / PPS 协议、44W UFCS 协议等，并支持反向充电功能。根据规划，iQOO Z11S 手机将于 8 月 18 日 19:00 发布并开售。",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/363.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81cb-bf16-cf9306288eec",
+      "title": "谷歌官方发布 Pixel 11 Pro 手机预热视频，新机 8 月 13 日发布",
+      "summary": "IT之家 8 月 11 日消息，谷歌官方现已在 YouTube 平台发布 Pixel 11 Pro 手机的预热视频，展示新机的外观设计。结合IT之家此前援引 Android Headlines 消息，谷歌 Pixel 11 Pro 采用 6.3 英寸屏幕，升级为 Super Actua OLED LTPO 面板，支持 1Hz 至 120Hz 自适应刷新率，分辨率提升至 2856×1280，峰值亮度达到 3600 尼特，覆盖 Gorilla Glass Victus 2 玻璃。该机搭载 Tensor G6 处理器和 Titan M3 安全协处理器，提供 12GB、16GB 内存，以及 256GB",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/362.htm"
+    },
     {
       "id": "3b903df8-2d23-81fb-99fa-ea82d5023dc5",
       "title": "英伟达 RTX 4080 魔改 32GB 显存涡轮显卡现身闲鱼",
@@ -104,302 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-11",
       "link": "https://www.ithome.com/0/988/332.htm"
-    },
-    {
-      "id": "3b903df8-2d23-810d-9272-e4572e0f191b",
-      "title": "格力电器今年新招毕业生 6514 人，董明珠再承诺不裁员、称自己靠好产品成为“网红”",
-      "summary": "IT之家 8 月 11 日消息，格力电器 2026 届大学生入职仪式于 8 月 10 日举行，格力电器董事长董明珠亲临现场并发表讲话。2026 年，格力电器在全国 30 多座城市、380 余所高校招聘共计 6,514 人。据蓝鲸新闻报道，董明珠表示，格力多年来持续大规模招收应届毕业生，是源于对自主人才培养路线的坚守。当前市场环境下部分企业出现裁员等情况，但格力始终坚守不裁员承诺，将全方位呵护青年成长。在讲话中董明珠还提及自己被认为是“网红”，她回应到，自己并不是靠社交平台，花钱打造出来的“网红”，而是依靠格力的好产品而成为“网红”，企业的使命也不是只有赚钱，更要有创造美好生活的梦想。据IT之家",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/329.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8160-a30b-f6b5a262cf2e",
-      "title": "增幅 11.78%：苹果 iPhone 18 Pro Max 电池实物曝光，5391 mAh",
-      "summary": "IT之家 8 月 11 日消息，消息源 Yeux1122 昨日（8 月 10 日）在 Naver 博客上发帖，分享了一组实物照片，展示了苹果 iPhone 18 Pro Max 电池细节。根据电池外壳上印刷的监管信息，该电池标称容量为 5391 mAh，符合今年 7 月流出的电池爆料信息，相比较 iPhone 17 Pro Max（4823mAh），电池容量增幅为 11.78%。iPhone 17 Pro MaxiPhone 18 Pro Max增量增幅4823mAh5391mAh568mAh11.78%",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/330.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8179-b2e9-c3ca5605ceae",
-      "title": "主攻代码智能体产品？深度求索注册“Deepseek Harness 团队”公众号",
-      "summary": "IT之家 8 月 11 日消息，北京深度求索人工智能基础技术研究有限公司现已注册微信公众号“Deepseek Harness 团队”，目前暂未有发文。据IT之家今年 5 月援引甲子光年消息，DeepSeek 已在内部组建全新 Harness 团队，主攻代码智能体产品，内部对标 Anthropic 的 Claude Code。DeepSeek 资深研究员陈德里近期也证实了上述传闻。根据介绍，新成立的 Harness 团队将专注该方向的产品研发与技术研究，“简单来说就是对标 Claude Code，做 DeepSeek Code Harness。”DeepSeek 此前还在招聘两个关键岗位：Har",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/327.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8105-b385-d6060c1d49c3",
-      "title": "攻克渐冻症不能只靠同情心、情怀和呼吁，蔡磊称自己留下的是一个已经跑通底层逻辑的试验田",
-      "summary": "IT之家 8 月 11 日消息，据央视新闻报道，蔡磊接受了《面对面》专访，并表达了自己对于自己当前所做工作的看法。蔡磊表示，当年起源于美国的冰桶挑战火遍全球，引起了空前的关注和巨额募资，但热潮退去后，也很快就降温了。因为如果只靠同情心、情怀和呼吁，热度是一定会消散的，这是必然的规律。他称，自己从一开始就没打算走这条路，这几年真正在干的，是用做企业创业的逻辑，搭建一套可持续运转的，攻克渐冻症的底层基础设施体系。蔡磊认为其事业一定后继有人，因为自己留下的，不是一个只能靠同情心维持的摊子，而是一个已经跑通了底层逻辑的试验田。只要这套机制在运转，只要数据在积累，就一定会有下一个天才科学家，或者下一个带",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/323.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81c5-8597-fed3bb7b6e27",
-      "title": "波音 777 宽体客机改装货机生产线落地青岛，计划 9 月投产",
-      "summary": "IT之家 8 月 11 日消息，山东省交通运输厅今日宣布，美国猛犸货机公司（Mammoth Freighters）与山东太古飞机工程有限公司（STAECO）达成战略合作，将在青岛胶东国际机场建设中国首条波音 777 宽体客机改装货机（P2F）生产线。据介绍，首条生产线计划于 2026 年 9 月正式投产，第二条预计于 2027 年初建成投用。公开资料显示，猛犸货机公司成立于 2020 年 12 月，总部位于美国得克萨斯州沃斯堡，是一家专业的宽体客机改货机设计研发企业。2026 年 4 月，该公司研发的 777-200LRMF 客改货方案获得美国联邦航空管理局（FAA）颁发的补充型号合格证（ST",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/319.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8172-aee4-f91a404bda03",
-      "title": "民众反感 AI 数据中心，Meta 掏出 10 亿美元补贴社区",
-      "summary": "IT之家 8 月 11 日消息，上个月，Meta 发起了一场名为“AI 真的很好”的公关宣传活动。当地时间本周一，Meta 宣布公司计划设立一项规模 10 亿美元（IT之家注：现汇率约合 67.55 亿元人民币）的基金，用于支持那些正在建设 AI 数据中心的社区。目前，Meta 并没有公布太多关于这项基金的具体信息。Meta CEO 马克 · 扎克伯格在一份很长的备忘录中只是简单提到了这项计划，同时再次解释为什么“未来属于每一个人”。Meta 没有说明这笔钱将帮助多少个社区或多少人，也没有公布计划在多长时间内花完这笔资金。不过，一位熟悉该计划的人士告诉 Business Insider，Met",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/320.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8102-adc7-e001ff3ef10f",
-      "title": "Abxylute M6 磁吸滑盖手柄现身众筹，可用于各种智能手机",
-      "summary": "IT之家 8 月 11 日消息，Abxylute M6 磁吸滑盖手柄现已出现在海外众筹平台 Kickstarter，这款产品适用于各种智能手机，采用较为新颖的滑盖式设计。据介绍，这款手柄的正面带有磁铁，可以直接将 iPhone 等手机吸上，其他品牌的手机也可以自行粘贴磁吸贴片使用。IT之家注意到，这款手柄采用类似索尼 DualShock 的布局，两枚摇杆位于底部，但按键布局是 Xbox 的 ABXY，十字键则是传统造型。此外，这款手柄还带有直列式扳机键和可拆卸磁吸握把，官方暂未公布发售时间。",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/316.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8152-baf2-d62edf1e5243",
-      "title": "卢伟冰：小米是全球第三家、国内首家能从发光材料层做自研的厂商",
-      "summary": "IT之家 8 月 11 日消息，今天（10 日）下午，小米集团合伙人兼总裁、手机部总裁、小米品牌总经理 @卢伟冰 转发央视新闻有关“REDMI K100 Pro 系列搭载‘超级像素屏’”的微博，并配文：小米是全球第三家、国内首家能从发光材料层做自研的厂商，我们在屏幕技术上的投入是长期的、坚定的。去年我们打造了自研红色主材，今年又突破了绿色主材。这里面最核心，第四代 pTSF 是中国首创的底层显示技术方案，由我们与清华团队一道，历经两年多的时间，将实验室理论转为最终工程量产，REDMI K100 Pro 系列首发，这是属于国产屏幕的跨越时刻。REDMI K100 Pro 系列手机将于今晚正式发布",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/317.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81e9-8a75-f909e3f951bf",
-      "title": "谷歌 Pixel 11 系列 4 款手机渲染图曝光",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 YtechB 昨日（8 月 10 日）发布博文，分享了一组渲染图，展示了谷歌 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold 四款手机。Pixel 11 Pro Fold颜色方面，消息称谷歌 Pixel 11 Pro Fold 会配备曜石黑（Obsidian）和橄榄绿（Olive）两种颜色。外观方面，Pixel 11 Pro Fold 延续了前代 Pixel 10 Pro Fold 的设计语言，主要调整背面的摄像头凸起部分，把 LED 闪光灯放置在摄像头镜头的左侧，让摄像头凸起部分看起",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/302.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8134-a95d-fa19a9c921d0",
-      "title": "阿维塔陈卓：必须守住算力调度、整车解决方案层面独立性，避免沦为硬件整合商",
-      "summary": "IT之家 8 月 11 日消息，据中国证券报今日报道，阿维塔科技总裁陈卓日前接受采访时强调，立足高端赛道竞争，品牌必须守住算力调度、整车解决方案层面的独立性，避免沦为硬件整合商。在陈卓看来，单纯堆砌硬件难以构筑长期竞争壁垒，品牌后续研发将锚定原创设计、细分场景定制、AI 智慧座舱三大主线。他透露，今年四季度品牌将推出全新六座旗舰 SUV，集成长安、华为、宁德时代三方前沿技术，进一步拓宽高端用户覆盖圈层。全球化布局层面，陈卓披露了明确的出海时间表：阿维塔 07 主打欧洲区域市场，07L 则定于今年 12 月登陆欧洲，两款车型研发阶段即同步对标海外五星安全标准。资本市场方面，陈卓证实，公司 IPO",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/296.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81b2-a2bf-d4e5c534e3fd",
-      "title": "岚图邵明峰称华为乾崑智驾在当前阶段处行业 TOP1，是“必选项”",
-      "summary": "IT之家 8 月 11 日消息，针对智能驾驶行业合作热点话题，岚图汽车 CBO、销售公司总经理邵明峰在直播中公开分享自己的看法。在谈及行业顶尖智驾技术的实战能力和综合落地水平时，邵明峰认为，当前市场环境的智能辅助驾驶能力上，华为乾崑智驾是 TOP1，在复杂路况下能够实现零接管的智能辅助驾驶，是一个必选项。据IT之家此前报道，华为乾崑智能汽车解决方案官方在 8 月 6 日发布了华为乾崑 7 月安全出行报告。当时，华为乾崑智驾累计辅助驾驶里程就来到了 134.1 亿公里，月度辅助驾驶里程 10.6 亿公里、月度辅助驾驶时长 1670 万小时，辅助驾驶月活用户 94.7%。",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/294.htm"
-    },
-    {
-      "id": "3b903df8-2d23-816f-b699-eb1a7024abd1",
-      "title": "TikTok 宣布，下月开始要求大部分美国员工每周五天到岗",
-      "summary": "IT之家 8 月 11 日消息，TikTok 将进一步收紧远程办公政策。三名员工向《商业内幕》透露，从 9 月起，大多数美国员工将被要求每周五天到办公室上班。新规将改变部分混合办公员工的工作安排。目前，这类员工每周至少可以居家办公一天。不过，一些团队早已实行每周五天到岗。TikTok Shop 员工就是其中之一，过去一年多一直每天到办公室工作。TikTok 在美国全面恢复到岗办公的计划已经筹备数月。去年 12 月，公司便通知产品、营销和广告销售等团队，为 2026 年全面回到办公室做好准备。据IT之家了解，越来越多的科技和媒体企业要求员工到办公室上班。譬如，TikTok 的竞争对手 Insta",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/289.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8178-be81-e9cdccb5a3ae",
-      "title": "三周一更：微软 MAI-Image-2.6 发布，一举跃升 Arena 文生图模型榜第二位",
-      "summary": "IT之家 8 月 11 日消息，当地时间 8 月 10 日，微软宣布推出新一代自研文生图模型 MAI-Image-2.6。该模型在 Arena 文生图排行榜中位列第二，Elo 评分达到 1336 分，仅次于 OpenAI 的 GPT Image 2（Medium）。相比 2.5 版本，MAI-Image-2.6 整体 Elo 评分提升 79 分，其中文本渲染能力单项提升尤为显著，涨幅达 91 分。模型排名从 MAI-Image-2.5 时期的第十位跃升至第二位，领先 Meta、谷歌和 xAI 等竞品。在 Arena 各细分类别中，MAI-Image-2.6 均实现了全面进步。其中，3D 成像与",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/286.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81d8-989a-e89055cd9d7d",
-      "title": "韩国互联网格局生变：谷歌在韩用户数首超该国互联网巨头 Naver",
-      "summary": "IT之家 8 月 11 日消息，据韩联社今天报道，谷歌在韩国的月活跃用户数首次超过韩国互联网巨头 Naver。这种变化表明，在生成式人工智能（AI）的影响下，韩国搜索引擎和互联网门户的使用形式已经发生变化。据 AI 科技企业 IGAWorks 今日公布的数据，谷歌 App 上月在韩国的月活用户数为 4702.2854 万，在生产力应用中占据首位，高于排名第二的 Naver（4684.5017 万）。这是该机构 2021 年 3 月开始公布统计数据以来，谷歌月活用户首次赶超 Naver。在生产力应用的用户数排名中，谷歌 Chrome 浏览器为 4245.7506 万，排名第三。业内认为，谷歌 A",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/287.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81ae-91ca-cdf41a27efe8",
-      "title": "英国将向汽车行业投入近 1.3 亿英镑，加速零排放技术发展",
-      "summary": "IT之家 8 月 11 日消息，英国政府当地时间昨日宣布将向汽车行业投入近 1.3 亿英镑（IT之家注：现汇率约合 11.85 亿元人民币）。这笔资金半数出自政府、另一半则来自行业内部，用于推动从自动驾驶汽车到经济型电动汽车的尖端新型零排放汽车技术发展。这项投资是英国政府更广泛的 DRIVE35 汽车行业电气化转型计划的一部分。1.3 亿英镑的资金将为 Turntide 、宾利等企业和超 1800 个高价值制造业岗位提供支持，助力确保下一代汽车在英国设计、研发、制造。此举也有利于英国各地区经济的平衡发展。",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/285.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81cc-b506-f8d148d31bf0",
-      "title": "马斯克赞同 Cloudflare 预测：未来 5 年内 AI 流量将超人类互联网用量 1000 倍",
-      "summary": "IT之家 8 月 11 日消息，全球首富埃隆 · 马斯克（Elon Musk）昨日（8 月 10 日）在Ｘ平台发布推文，力挺 Cloudflare 首席财务官托马斯 · 塞弗特（Thomas Seifert）观点，认为 AI 智能体流量将远远超过人类的互联网使用量。塞弗特观点认为在未来 5 年内，智能体 AI 创造的流量，可能超过人类创造流量的 1000 倍。Cloudflare 此前预计机器生成的流量将在 2027 年超过人类流量。但实际上，这一转变在已提前到 2026 年 5 月发生。对此马斯克援引该观点，并评论表示：在可以预见的未来，智能体 AI 所产生的互联网流量，将明显超过人类创造的",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/284.htm"
-    },
-    {
-      "id": "3b903df8-2d23-810d-b47a-ee837242aa58",
-      "title": "英特尔确认以 95 美元股价发行股票，总募资规模增至 200 亿美元",
-      "summary": "IT之家 8 月 11 日消息，Intel（英特尔）在当地时间昨日的早些时候宣布股票发行计划后又在同日晚些时候公布了每股 95 美元（IT之家注：现汇率约合 641.8 元人民币）的股票发行价格，并将发行规模从此前的 150 亿美元增至 200 亿美元（现汇率约合 1,351.07 亿元人民币）。英特尔计划以 95 美元的价格承销公开发行 210,526,315 股普通股。扣除承销折扣、佣金及英特尔应支付的预计发行费用后，这部分发行的净募集资金将约为 197 亿美元（现汇率约合 1,330.81 亿元人民币）。此外，英特尔已授予承销商一项为期 30 天的认购期权，允许其以公开发行价格（扣除承销",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/283.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8144-8789-ea6831d1ede1",
-      "title": "吉利银河 TT 预售发布会定档 8 月 13 日",
-      "summary": "IT之家 8 月 11 日消息，吉利官方今天宣布，银河 TT 汽车海岸线深度品鉴试驾暨预售发布会定档 8 月 13 日。据IT之家了解，吉利银河 TT 汽车全系采用 800V 高压平台，提供单 / 双电机的两驱和四驱，峰值功率分别是 245 和 425 千瓦。另外标配宁德时代的磷酸铁锂电池，CLTC 工况下的续航有 540、640、650 和 725 公里四种。内饰方面，吉利银河 TT 配备了三幅式圆形方向盘，新增有一枚红色运动按键。主驾还配有胶囊型仪表屏和 HUD 抬头显示。值得一提的是，中控空调出风口处配备了一块钟表（图片显示像实体钟表）。同时，该车定位“全新 C 级 AI 纯电轿车”，搭",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/282.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8137-9890-cf2af01eb034",
-      "title": "3.6 Flash 发布不到 1 个月，谷歌 Gemini 3.7 Flash AI 模型踪迹曝光",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 testingcatalog 昨日（8 月 10 日）发布博文，报道称谷歌正酝酿推出 Gemini 3.7 Flash 模型，已出现在谷歌的 Python GenAI SDK GitHub 页面。该媒体指出在 GitHub 页面，谷歌内部曾有人试图在 SDK 中添加 gemini-3.7-flash 模型，并通过 Copybara 工具同步至公开代码仓库，但因模型命名错误而被直接拒绝并关闭。IT之家附上相关截图如下：截至目前，谷歌官方的 API 更改日志和模型目录中仍以 Gemini 3.6 Flash（7 月 21 日发布）为主，由于谷歌的 Flas",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/280.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8132-a3a1-f78243c0a868",
-      "title": "OPPO、vivo 否认联合推出口袋云台相机",
-      "summary": "IT之家 8 月 11 日消息，针对近期网络流传的“OPPO、vivo 敲定战略合作，将联合推出一款口袋云台相机，核心影像技术全部互通共享”一事，OPPO 与 vivo 方面今日向南都湾财社明确否认了该传闻。双方均表示，目前没有达成相关联合研发协议，也没有共同推出该类产品的计划。2026 年以来，手持云台相机赛道已成为消费电子行业最受关注的新增长点之一。根据行业调研机构数据，2025 年全球手持智能相机出货量达到 1600 余万台，同比增幅高达 80% 以上。其中，大疆 Osmo Pocket 3 自 2023 年 10 月上市以来累计销量已突破 1000 万台，仅 2024 年销量就达 50",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/281.htm"
-    },
-    {
-      "id": "3b903df8-2d23-816e-bb96-fc3a2318fd22",
-      "title": "打通手机和电脑，腾讯 WorkBuddy 上线多端同步功能",
-      "summary": "IT之家 8 月 11 日消息，腾讯 WorkBuddy 宣布上线多端同步功能，实现 PC、App、小程序三端的任务、对话记录与产物的实时同步，并支持手机上远程对电脑端任务进行授权与停止。此外，WorkBuddy 多端同步支持“锁屏远程”。本次升级让 WorkBuddy 真正突破设备边界，随时随地在线，跨设备切换不再打断工作流。此前，WorkBuddy 已经为用户提供了移动端遥控的部分能力。本次 App 的发布和小程序的升级，解决了用户无法同步电脑端任务和产物，以及需要进行授权确认和远程停止的场景。原来，用户在电脑端上发起的任务，路上掏出手机看不了进度，特定操作如需人工确认，用户只能干着急。升",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/278.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81bc-9fc3-f6e661694112",
-      "title": "消息称谷歌已搁置发布 Gemini 3.5 Pro AI 模型",
-      "summary": "IT之家 8 月 11 日消息，行业分析机构 Semi Analysis 最新报告称，谷歌内部可能已搁置 Gemini 3.5 Pro 模型，为填补该模型迟迟未发布留下的空档，该公司可能提前宣传 Gemini 4 系列模型。在今年 5 月举办的 2026 年 I/O 开发者大会上，谷歌首席执行官桑达尔 · 皮查伊（Sundar Pichai）曾表示会在 6 月推出 Gemini 3.5 Pro 模型，但该模型至今仍未上线。在 Alphabet 2026 年第二季度财报电话会议上，皮查伊再次重申：“对于我们 [指谷歌] 在前沿领域取得的进展，我感到非常兴奋”，并对“Gemini 模型保持领先地位",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/277.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8156-ad52-f25bd8bacbba",
-      "title": "智谱宣布 ZCode 全面升级，GLM Coding Plan 全员额度回满",
-      "summary": "IT之家 8 月 11 日消息，ZCode 是一款针对智谱 GLM 深度优化的国产 Coding Harness，智谱今日宣布，ZCode 迎来重大升级，Goal、Subagents、Remote Control 与闲时任务四大功能正式上线。作为百万用户里程碑的特别回馈，GLM Coding Plan 全体用户额度已于今天 13:00 统一重置，全员额度全部回满。在智谱内部自研的 Z.ai Code Bench 中，官方使用 GLM-5.2，分别搭配 ZCode、Claude Code 进行测试。结果显示，GLM+ZCode 相较于 GLM+Claude Code，在任务整体通过率上高 2.3",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/276.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8162-baa2-da6d3f71fe77",
-      "title": "三星 SDI 完全控股原与通用汽车合资美国电池企业 Synergy Cells",
-      "summary": "IT之家 8 月 11 日消息，韩国电池制造商三星 SDI (Samsung SDI) 当地时间今日宣布，已收购通用汽车 (General Motors, GM) 在原双方合资企业 Synergy Cells 的全部 49.99% 持股。这意味着三星 SDI 拥有了首座独立运行的北美电池生产基地。Synergy Cells 的在建工厂位于美国印第安纳州 New Carlisle，原本计划主要用于生产车用电池。然而由于电动汽车遭遇市场逆风等一系列变化，Synergy Cells 的发展策略也不得不进行调整。在三星 SDI 完全控股后，Synergy Cells 一旦投产将首先生产用于储能系统的 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/275.htm"
-    },
-    {
-      "id": "3b903df8-2d23-814f-9497-dff98cab20f0",
-      "title": "过去 1 年全球亿万富翁身价报告：马斯克日增 8.75 亿美元居首，DeepSeek 梁文锋飙升 3850% 最快",
-      "summary": "IT之家 8 月 11 日消息，金融研究公司 bestbrokers 于 8 月 4 日发布博文，指出在 2025 年 7 月 27 日至 2026 年 7 月 27 日之间，全球首富埃隆 · 马斯克（Elon Musk）财富增加了约 3,200 亿美元（IT之家注：现汇率约合 2.16 万亿元人民币），平均每天新增财富 8.75 亿美元（现汇率约合 59.11 亿元人民币）。该公司基于福布斯实时亿万富翁排行榜，通过互联网档案馆（Wayback Machine）对比前后 1 年时间的数据，汇总计算这些富豪的财富变化情况。统计数据显示全球共有 3356 位亿万富翁，美国以显著优势领先，拥有 99",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/273.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81a8-819a-e59ce50043d5",
-      "title": "忆联首款消费级 PCIe Gen5 QLC 固态硬盘 AE631 预热：“性能等效 TLC”",
-      "summary": "IT之家 8 月 11 日消息，忆联 (Union Memory) 昨日宣布将推出其首款支持 PCIe Gen5 的消费级 QLC 固态硬盘 AE631。该企业此前已推出过支持 PCIe Gen4 的 QLC cSSD，如 AE531。AE631 采用 M.2 2280 / 2242 外形规格，容量至高 4TB；相较上代 Gen4 QLC 实现 50% 顺序读取提升、60% 顺序写入提升、10+% 4KB 随机读取提升、20+% 4KB 随机写入提升，原生支持 ASPM L1.2、APST、Modern Standby 等一系列节能技术。忆联宣称 AE631 能以 QLC 介质达到 PCIe ",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/272.htm"
-    },
-    {
-      "id": "3b903df8-2d23-816c-af4d-fd88cbaa7f10",
-      "title": "TIOBE 公布 2026 年 8 月编程语言排行榜：MATLAB 近年来首次跌出榜单前 20 名",
-      "summary": "IT之家 8 月 11 日消息，TIOBE 编程社区指数是一个衡量编程语言受欢迎程度的指标，评判的依据来自世界范围内的工程师、课程、供应商及搜索引擎，目前 TIOBE 官网公布了 2026 年 8 月的编程语言排行榜，IT之家整理如下：Python 排行第一：占比 18.53%，同比下降 7.61%C 排行第二：占比 11.10%，同比上升 2.07%C++ 排行第三：占比 8.62%，同比下降 0.56%Java 排行第四：占比 8.25%，同比下降 0.34%C# 排行第五：占比 4.09%，同比下降 1.43%JavaScript 排行第六：占比 2.63%，同比下降 0.52%Visu",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/271.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81dc-aff5-cfa499bea11a",
-      "title": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线",
-      "summary": "随着HarmonyOSNEXT的日渐成熟，越来越多的独立开发者和小团队开始将目光投向这片新的生态。借助日益强大的AI辅助编程工具，写出能跑通的代码、画出漂亮的UI界面，门槛已经变得前所未有地低。但当你 ...查看全文",
-      "source": "少数派",
-      "publishTime": "2026-08-11",
-      "link": "https://sspai.com/post/112887"
-    },
-    {
-      "id": "3b903df8-2d23-81c8-bb01-db96c9f75e19",
-      "title": "大众全球首款城市 NOA 轿车：上汽大众 ID. ERA 5S 预售，11.59 万元 ~14.59 万元",
-      "summary": "IT之家 8 月 11 日消息，上汽大众 ID. ERA 5S 轿车今日开启预售，这是 ID. ERA 家族首款轿车，预售限时权益价 11.59 万元 ~14.59 万元，将于 8 月 21 日 2026 成都车展正式上市。IT之家从发布会获悉，上汽大众 ID. ERA 5S 尺寸为长 4836mm、宽 1880mm、高 1505mm，轴距为 2766mm；可选五款外观颜色（都市金、风尚青、前卫黑、天际灰、摩登白）与两款内饰颜色“浮光”和“掠影”。动力方面，新车搭载 1.5L 插电混动系统，其中发动机最大净功率为 80kW，驱动电机峰值功率为 130kW；CLTC 纯电续航超 160km，标称",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/270.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81d3-aab3-c322d5c772f3",
-      "title": "消息称 OSAT 巨头 Amkor 考量分拆中国大陆业务并出售股份可能",
-      "summary": "IT之家 8 月 11 日消息，彭博社今日表示，全球第二大半导体 OSAT（外包封测）企业 Amkor（安靠）正与顾问合作，对分拆中国大陆业务并出售股份的可能进行初步探索。消息人士表示，这一资产整体价值可能在 10~15 亿美元（IT之家注：现汇率约合 67.55 ~ 101.33 亿元人民币）区间。Amkor 的这一想法目前尚处于早期阶段，企业或会选择保留少数股权。Amkor 尚未做出任何决定。亚洲的投资公司和行业参与者可能对该资产表示兴趣。Amkor 官网公开资料显示，该企业在中国上海设有工厂和客户支持中心。其 2001 年 7 月在中国上海成立半导体封装工厂并于 2004 年 5 月收购",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/267.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8193-8344-c6bd4e8e9a09",
-      "title": "Gartner 预估 2026 年 AI 推理支出首次超越模型训练",
-      "summary": "IT之家 8 月 11 日消息，市场调查机构 Gartner 昨日（8 月 10 日）发布博文，预测 2026 年全球 AI 优化基础设施即服务（AI-optimized IaaS）支出将达到 420 亿美元（IT之家注：现汇率约合 2,837.25 亿元人民币），同比增长 96%。根据博文定义，AI 优化基础设施即服务是针对 AI 训练、推理和模型部署优化的云基础设施服务，通常强调计算资源、数据处理和模型运行效率。用户无需自建完整服务器集群，就能按需调用云端资源。该机构预估 2026 年伴随着智能体 AI 场景加速落地，全球 AI 推理支出 [233 亿美元（现汇率约合 1,574 亿元人民",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/266.htm"
-    },
-    {
-      "id": "3b903df8-2d23-810f-8ea0-dfaf13bac55d",
-      "title": "第 36 份全球气候国际年度报告：2025 年温室气体浓度与海平面双双创历史新高",
-      "summary": "IT之家 8 月 11 日消息，根据美国气象学会（AMS）公布的第 36 份全球气候国际年度报告，2025 年温室气体浓度、全球海平面和海洋热含量均达到历史最高水平。该报告已经过同行评审，汇集了来自 60 个国家和地区 625 位科学家的研究成果，是目前对全球气候指标最为全面的年度评估。在温室气体（主要为二氧化碳、甲烷和一氧化二氮）排放方面，报告指出 2025 年全球大气二氧化碳平均浓度达到 425.6 ppm±0.1，较工业化前（约 278 ppm）水平上升了 53%。化石燃料排放量同样创下纪录，估计每年达 10.3±0.5 petagrams，是 20 世纪 60 年代测量值的三倍以上。全",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/265.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81b0-8fe8-c4d3258ddbec",
-      "title": "799 元起 AYANEO 攻氪 KONKR Pocket Advance 掌机新增“冰透黑限定版”，官方同步预热“全球首款 AI 掌机”Pocket Block",
-      "summary": "IT之家 8 月 11 日消息，AYANEO 宣布旗下攻氪 KONKR Pocket Advance 掌机新增一款“冰透黑配色限定版”，该机采用半透明机身设计，其中 3GB RAM + 32GB 存储空间定价 799 元、4GB RAM + 64GB 存储空间定价 899 元，将于 10 月 15 日开启发货。该机尺寸为 151.3mm × 82.4mm × 22mm，重量约 224g。正面搭载一块 3.5 英寸 960 × 640 分辨率 3:2 LCD 屏，使用联发科 Helio G90T 处理器，主动散热系统通过风扇辅助散热，内置 4000mAh 电池；配备 USB-C 2.0 接口，搭",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/263.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81df-a6f1-da2c01220ede",
-      "title": "AI is changing job interviews by letting candidates interview around the clock",
-      "summary": "Ribbon said its voice-based AI recruiting platform tools have improved accessibility by allowing candidates to interview at flexible times.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-11",
-      "link": "https://www.businessinsider.com/ai-interviews-at-night-ribbon-ceo-2026-8"
-    },
-    {
-      "id": "3b903df8-2d23-815e-82a5-d4a531e390bb",
-      "title": "启境汽车旗下首款 SUV 车型 GX7 首发搭载鸿蒙座舱 6，将于下半年上市",
-      "summary": "IT之家 8 月 11 日消息，启境汽车发文，预热旗下首款 SUV 车型启境 GX7 首批搭载鸿蒙座舱 6，该车将于今年下半年上市，预计主销价格在 30 至 35 万元左右。智慧交互层面，该车搭载了基于鸿蒙座舱 6 MoLA 2.0 架构首发的畅聊智能体，首发全新主题萌宠「小紫貂奇奇」、首批搭载实体智能宠物「哈萌萌」等核心交互功能上车。同时，汽车配备 AI 交互式星环散射体，支持无麦 K 歌、 AI 调音的、实时美化人声功能。同时，该车搭载儿童关怀功能，可通过舱内视觉与传感器实时监测后排，当孩子状态有危险行为（如手伸出车窗外），系统将主动触发危险行为提醒；当监测到孩子进入睡眠状态，座舱温度、音",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/261.htm"
-    },
-    {
-      "id": "3b903df8-2d23-812f-8ab5-f983affd14d1",
-      "title": "20.96°C！今年 7 月全球非极地海洋平均海面温度创历年 7 月新高",
-      "summary": "IT之家 8 月 11 日消息，欧盟气候监测机构哥白尼气候变化服务中心昨日（8 月 10 日）发布简报，称由于太平洋厄尔尼诺现象持续增强影响，全球非极地海洋于 2026 年 7 月刷新人类有记录以来历年 7 月最高温度。数据显示上个月全球非极地海洋的平均海面温度达到 20.96°C，超越了 2023 年创下的 7 月历史纪录 20.89°C。IT之家注：全球非极地海洋是指位于南北纬 66.5 度（极圈）以外的热带、亚热带和温带海域，占据了地球海洋面积的绝大部分，包含太平洋、大西洋和印度洋的中低纬度区域，以及地中海、加勒比海等主要附属海域。2026 年 7 月还与 2024 年 7 月并列成为全",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/262.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8148-a7c0-df0dc62941ea",
-      "title": "Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for August 2026",
-      "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "source": "Wired",
-      "publishTime": "2026-08-11",
-      "link": "https://www.wired.com/story/sony-promo-code/"
     }
   ],
   "macroEvents": [
