@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-08-11 18:26",
+  "updatedAt": "2026-08-11 19:15",
   "news": [
+    {
+      "id": "3b903df8-2d23-81ea-9710-e046605b8fd0",
+      "title": "An Airbus A380 took a 7-hour flight to nowhere after U-turning over central Africa",
+      "summary": "British Airways Flight 54 departed Johannesburg over five hours behind schedule, then U-turned over DR Congo and returned to its origin.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-11",
+      "link": "https://www.businessinsider.com/airbus-a380-british-airways-plane-7-hours-returned-where-started-2026-8"
+    },
+    {
+      "id": "3b903df8-2d23-81c5-99c8-c0a957521c74",
+      "title": "我国科研团队突破量子网络规模化部署难题，实现百用户级 MDI 量子网络验证",
+      "summary": "IT之家 8 月 11 日消息，中国科学技术大学郭光灿院士、韩正甫教授团队与中国科学院西安光学精密机械研究所张文富团队提出并实验验证了一种基于微腔光孤子的集成化测量设备无关（MDI）量子密钥分发网络方案，为高安全量子网络的大规模部署提供了新的技术路径。韩正甫教授介绍称，该研究解决了量子网络规模扩展中的关键问题，即如何让大量用户同时获得高度一致的光子密钥，从而支持更大规模的量子保密通信网络。测量设备无关（MDI）量子网络是一种面向高安全通信的量子密钥分发架构。该方案仅要求发送端设备可信，而不需要对接收端以及量子测量设备提出安全假设，即使测量环节遭受攻击，也不会影响通信安全。研究团队表示，MDI ",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/454.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8193-b852-d776080291a2",
+      "title": "未公开的新模型“立功”，Anthropic 宣布 Claude 攻克黎曼猜想取得重大突破",
+      "summary": "IT之家 8 月 11 日消息，Anthropic 今天（11 日）宣布，尚未公开的研究版 Claude 在攻克黎曼猜想的过程中取得重要进展。在一次持续数天、由模型自主完成的测试中，Claude 把黎曼 ζ 函数临界线上零点比例的长期下界从 41.6% 提高到了 67.2%。Claude 在 Claude Code 中完成研究，两次测试共生成 3,100 万个输出 Token。经历 650 次失败尝试后，模型调集 60 个子级智能体继续推进，累计执行 2,400 条 Shell 命令，并编写数百个 Python 脚本。Anthropic 随后请内部数学家莱文特 · 阿尔波格和拉尔夫 · 弗曼验",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/453.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81e4-833a-dfb8ee1170ac",
+      "title": "Elon Musk, Sam Altman, and the Misreading of Science Fiction",
+      "summary": "Beyond Elon Musk’s interpretation of The Odyssey, Silicon Valley leaders have often misunderstood classic books like Foundation and The Hitchhiker’s Guide to the Galaxy. It’s evident in their tech.",
+      "source": "Wired",
+      "publishTime": "2026-08-11",
+      "link": "https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/"
+    },
+    {
+      "id": "3b903df8-2d23-8165-b259-c6d2314a8c95",
+      "title": "“建议零售价”如今已成空谈：英伟达 RTX 50 系显卡本月涨幅最高达 39%",
+      "summary": "IT之家 8 月 11 日消息，据科技媒体 TechPower Up 今天报道，英伟达 RTX 50 系显卡过去几个月已经历好几番调价，而今年 7 月-8 月的涨价幅度更加明显。据美国最大硬件电商平台新蛋（Newegg）数据，各款 RTX 50 系显卡的平均价格已经出现明显变化。入门级产品 RTX 5050 在 6 月的均价为 300 美元（IT之家注：现汇率约合 2,027 元人民币），到 8 月涨 5% 达 315 美元（现汇率约合 2,128 元人民币）。而 RTX 5060 上月均价 370 美元（现汇率约合 2,499 元人民币），本月涨了 27% 达 470 美元（现汇率约合 3,",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/449.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8178-8f1e-f9bef2f6f637",
+      "title": "腾讯 QQ 发布 macOS 7.0 版本更新",
+      "summary": "IT之家 8 月 11 日消息，腾讯 QQ 今日发布了面向 macOS 平台的 7.0 大版本更新。7.0 版本目前已正式上架苹果 App Store，但 QQ 官网仍未更新。作为一次大版本号更新，腾讯官方在 App Store 的更新日志中并未披露 7.0 版本的具体改动，仅标注“修复了一些已知问题”，与微信更新有着异曲同工之妙。IT之家注意到，腾讯 QQ for Mac 在过去一段时间内陆续加入了多项新功能。录屏体验方面，支持截取 GIF 片段；截图体验升级，长截图支持编辑裁剪。消息提醒能力得到优化，好友通知与群通知可及时知晓。此外，还新增了“戳一戳”互动功能以及“语音输入文字”功能。",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/450.htm"
+    },
+    {
+      "id": "3b903df8-2d23-813c-87d0-f583bcd871c0",
+      "title": "挑战三星显示，消息称京东方争取为苹果 iPad Air 供应 OLED 面板",
+      "summary": "IT之家 8 月 11 日消息，韩媒 The Elec 今天（11 日）傍晚援引业内消息称，京东方正争取进入苹果 iPad Air OLED 面板供应链，希望在三星显示之后成为第二家供应商。目前，京东方已开始为下一代 iPad Air 开发 OLED 面板，研发工作正在拥有第六代 OLED 生产线的京东方重庆 B12 生产基地进行。苹果已经选定三星显示作为 iPad Air OLED 面板的主供应商，预计今年底或明年初启动量产。京东方则希望获得第二供应商资格，目前尚未进入量产认证阶段，预计将先向苹果提交样品接受评估，再进入后续认证流程。苹果预计将在今年底前后决定是否正式采用京东方的面板，初期订",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/448.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8120-b8c3-d6927d2cd65a",
+      "title": "华为智选车产品总监彭磊：享界 G9 标配 ±12 度后轮转向，横向响应更“干净”",
+      "summary": "IT之家 8 月 11 日消息，华为智选车产品总监（享界系列）彭磊今日发文，分享了鸿蒙智行首款科技豪华硬派 SUV —— 享界 G9 的“800V 全主动可断开稳定杆”核心亮点：1. 路面不平：主动稳定杆主动断开左右悬架，解决低速不平路面左右晃动问题；2. 转向侧倾：主动稳定杆主动产生扭矩，“拉住”左右悬架，对车身侧倾产生抑制，解决高速变道 / 转弯减小车身侧倾晃动。据彭磊透露，享界 G9 标配搭载了 ±12 度的后轮转向，在横向响应会更加“干净”。据IT之家此前报道，鸿蒙智行享界 G9 预售价 43.98 万元起，其中 Max+ 仅提供增程版, 新车长宽高分别为 5377/2050/1897",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/447.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8109-8fb4-dbf217d145b6",
+      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+      "summary": "The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-11",
+      "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html"
+    },
+    {
+      "id": "3b903df8-2d23-818a-86ac-dce07a61fdbb",
+      "title": "铭瑄瑷珈主板 MS-iCraft B850M CROSS 发售，1299 元",
+      "summary": "IT之家 8 月 11 日消息，铭瑄 (Maxsun) 主板新品 MS-iCraft B850M CROSS 现已发售，定价 1299 元。这一型号采用“偶像瑷珈”主题设计，散热装甲上方 LED 小屏通电后会呈现 Q 版瑷珈眨眼动画。这一型号以白色为底色并点缀以粉蓝，散热装甲与显卡瞬拆结构线条圆润柔和，背部则有 Q 版瑷珈 + 梦幻流星丝印；随附瑷珈立牌、Q 版贴纸。MS-iCraft B850M CROSS 主板搭载 10+2+1 相供电，其中核心供电应用 110A SPS DrMPS，搭配 2×8Pin EPS CPU 供电接口；此外还配备有快装 Wi-Fi 天线、数显 Debug 诊断灯",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/437.htm"
+    },
     {
       "id": "3b903df8-2d23-81d4-a645-fb4e52d9c3b8",
       "title": "AI Is Dead. Organoids Are Alive",
@@ -18,6 +98,14 @@
       "link": "https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/"
     },
     {
+      "id": "3b903df8-2d23-818b-948d-eff4b6a2e6e7",
+      "title": "长城魏牌 V8X 官宣运动版车型：拂晓灰专属车色 + 曜黑套件，8 月 14 日发布",
+      "summary": "IT之家 8 月 11 日消息，长城魏牌 10 日公布了大五座旗舰 SUV 新车 ——V8X 的运动版车型，新车配有拂晓灰专属车色以及曜黑型格运动套件、灰红撞色座舱，主打豪华质感及运动姿态兼具，将于 8 月 14 日正式发布。具体来看，该车配备了前唇、尾部等运动组件，搭载红色制动卡钳、21 英寸墨玉棱锋轮毂以及马牌 EcoContact 7 轮胎。动力方面，该车配备 2.0T+ 四挡混动变速箱，满电零百加速 4.5 秒，底盘稳定杆相较魏牌 V8X 豪华家庭版加粗 8%，从而抑制车身侧倾，同时还优化了减振器阀系。魏牌 V8X 此前已在 7 月开启预订，定位归元 S 平台的智慧驾控五座旗舰车型。新",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/434.htm"
+    },
+    {
       "id": "3b903df8-2d23-81d6-a335-e04621e6124a",
       "title": "I moved from the US to Australia 6 years ago. I love my life abroad, but still feel guilty every day.",
       "summary": "Expat guilt doesn't go away. You just get better at coping with it.",
@@ -32,6 +120,38 @@
       "source": "Business Insider",
       "publishTime": "2026-08-11",
       "link": "https://www.businessinsider.com/cursor-work-trials-tips-candidate-hiring-head-talent-2026-8"
+    },
+    {
+      "id": "3b903df8-2d23-8109-ba2e-fd269326caaa",
+      "title": "蚂蚁百灵开源 Ling-3.0-tiny 模型，支持英伟达 DGX Spark、苹果 Mac mini 部署",
+      "summary": "IT之家 8 月 11 日消息，蚂蚁百灵今天在 Hugging Face 平台开源 Ling-3.0-tiny 模型，该模型为轻量级混合推理 MoE 架构，总参数 7.9B，每 Token 激活 1.3B 参数。官方提供 BF16、FP8 和 INT4 权重版本，适配不同平台的部署需求。据介绍，Ling-3.0-tiny 主打低成本推理，采用高效混合线性架构，将 KDA（Kimi Delta Attention）和 MLA（Multi-Head Latent Attention，多头潜在注意力）按照 3:1 比例交替堆叠。采用包含 128 个路由专家（routed experts）的稀疏 Mo",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/431.htm"
+    },
+    {
+      "id": "3b903df8-2d23-81e0-b554-f4a45c6b639a",
+      "title": "微星 PRO MAX 341QPXW14G 显示器发售：RGB 条纹子像素 QD-OLED，5999 元",
+      "summary": "IT之家 8 月 11 日消息，微星 (MSI) 现已发售 PRO MAX 341QPXW14G 显示器，定价 5999 元。这一 34\" UWQHD (3440×1440) 144Hz 平面型号基于三星显示 QD-OLED Penta Tandem 面板，采用 RGB 条纹子像素设计，搭载雾面 Dark Armor AGLR 镀膜。PRO MAX 341QPXW14G 获得 VESA DisplayHDR True Black 500 认证，SDR 亮度 300nits、HDR 峰值亮度 1300nits；灰阶 (GtG) 响应时间 0.03ms；色域覆盖 99% DCI-P3 / 97.4",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/432.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8116-9f72-ed71d5717550",
+      "title": "腾讯《王者荣耀》匹配机制再迎优化，“正常信誉”玩家将不会连续匹配到“负面信誉”玩家",
+      "summary": "IT之家 8 月 11 日消息，腾讯《王者荣耀》官方今日发布了对局环境优化专栏节目的第一期视频，针对“玩家连败对局”问题进行了解答，并宣布将推出全新优化方案。腾讯《王者荣耀》官方表示，如果单独把违规玩家匹配到一起，进行匹配池隔离，反而会衍生出很多负面的体验和不良行为。一方面可能会出现卡匹配池的黑产，通过故意违规来操作段位、英雄战力、分路段位分等，进而破坏整个竞技环境。另一方面，隔离池的极端体验，对因网络波动被判罚的玩家、非恶意违规玩家、新手玩家等都非常不友好。游戏官方表示，排位赛匹配算法新增“负面信誉”维度，“正常信誉”的玩家将不会连续匹配到“负面信誉”的玩家。据IT之家此前报道，去年 11 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/433.htm"
+    },
+    {
+      "id": "3b903df8-2d23-810b-a831-df0b297ec191",
+      "title": "索尼与台积电成立先进图像传感器合资公司，2029 年量产",
+      "summary": "IT之家 8 月 11 日消息，今日，索尼半导体解决方案公司与台积电宣布签署最终合作协议，将在日本熊本县合志市成立合资公司 Advanced Vision Semiconductor Manufacturing Corporation。该合资公司将采用先进制程技术，负责智能手机图像传感器量产所需的研发与制造活动，预计 2029 年开始量产。根据协议，索尼将作为合资公司的单一控股股东，并计划将其作为索尼集团旗下合并子公司运营，合资公司代表董事将由索尼指派。索尼计划通过现金投入及资产转移方式向合资公司投入约 4,650 亿日元（IT之家注：现汇率约合 197.61 亿元人民币），台积电计划现金投入",
+      "source": "IT之家",
+      "publishTime": "2026-08-11",
+      "link": "https://www.ithome.com/0/988/430.htm"
     },
     {
       "id": "3b903df8-2d23-8116-b166-e89f6f1d925e",
@@ -128,6 +248,14 @@
       "source": "IT之家",
       "publishTime": "2026-08-11",
       "link": "https://www.ithome.com/0/988/381.htm"
+    },
+    {
+      "id": "3b903df8-2d23-8199-ad5f-e84c25a1e8e8",
+      "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "source": "少数派",
+      "publishTime": "2026-08-11",
+      "link": "https://sspai.com/post/113304"
     },
     {
       "id": "3b903df8-2d23-8166-91b5-e9b7e1fca64d",
@@ -272,134 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-11",
       "link": "https://www.ithome.com/0/988/365.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81b8-9689-c1239cedfdc6",
-      "title": "乘联分会：7 月乘用车市场呈现五大鲜明特征，纯油车近乎失速",
-      "summary": "IT之家 8 月 11 日消息，乘联分会今天（11 日）发布 2026 年 7 月份全国乘用车市场分析，其中提到，2026 年 7 月乘用车市场呈现五大鲜明特征。一、总量持续承压，结构性分化极致放大，“燃油深度降温、新能源强势领跑”成为市场核心主线，油价波动主导了“油电替代”节奏；二、燃油车全线收缩，其中纯燃油车型近乎失速，混动车型相对抗跌，导致燃油车内部结构持续优化；三、新能源渗透率持续突破新高，供给端新国标合规产品集中迭代上市，行业从价格内卷全面转向价值竞争；四、出口持续发挥托底作用，有效稳住车企批发与产能，缓解国内零售疲软压力；五、行业库存持续良性去化，厂商、渠道库存降幅同步扩大，整体库",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/364.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8163-8264-f68f268c77ab",
-      "title": "iQOO Z11S 手机官宣搭载 iQOO 迄今最大 10000mAh 蓝海电池，宁德新能源联合研发",
-      "summary": "IT之家 8 月 11 日消息，iQOO 官方今日宣布，iQOO Z11S 新机将搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池，采用单电芯设计，由宁德新能源联合研发。iQOO 官方今日还放出了新机电池核心亮点，包括续航长、低温稳定运行、长寿材质、能效优化等。IT之家注意到，该机还将兼容 44W PD / PPS 协议、44W UFCS 协议等，并支持反向充电功能。根据规划，iQOO Z11S 手机将于 8 月 18 日 19:00 发布并开售。",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/363.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81cb-bf16-cf9306288eec",
-      "title": "谷歌官方发布 Pixel 11 Pro 手机预热视频，新机 8 月 13 日发布",
-      "summary": "IT之家 8 月 11 日消息，谷歌官方现已在 YouTube 平台发布 Pixel 11 Pro 手机的预热视频，展示新机的外观设计。结合IT之家此前援引 Android Headlines 消息，谷歌 Pixel 11 Pro 采用 6.3 英寸屏幕，升级为 Super Actua OLED LTPO 面板，支持 1Hz 至 120Hz 自适应刷新率，分辨率提升至 2856×1280，峰值亮度达到 3600 尼特，覆盖 Gorilla Glass Victus 2 玻璃。该机搭载 Tensor G6 处理器和 Titan M3 安全协处理器，提供 12GB、16GB 内存，以及 256GB",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/362.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81fb-99fa-ea82d5023dc5",
-      "title": "英伟达 RTX 4080 魔改 32GB 显存涡轮显卡现身闲鱼",
-      "summary": "IT之家 8 月 11 日消息，改装版英伟达 GeForce RTX 40 系列显卡市场再迎新品。多个 RTX 4080 涡轮显卡（显存从 16GB 升级到 32GB GDDR6X）出现在闲鱼平台，售价普遍超过 1 万元。RTX 4080 原本配备 16GB GDDR6X 显存，位宽为 256-bit，并拥有 9728 个 CUDA 核心。显存容量翻倍并不会改变 256-bit 位宽，也不会提升显存带宽，只是大显存更适合模型训练使用。外媒 VideoCardz 今日也关注到了这个消息，表示市面上早已出现了配备 48GB 显存的改装版 RTX 4090 和 RTX 4090D 显卡，而去年又出现",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/359.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81d3-8078-cd2ccb349864",
-      "title": "顺丰无人车已在深圳实现昼夜常态化规模化运营",
-      "summary": "IT之家 8 月 11 日消息，据《快递》杂志，顺丰无人车近日已在深圳实现昼夜常态化规模化运营。据介绍，目前顺丰 198 台 L4 级自动驾驶无人车已全面上线，形成 307 条常态化线路及 25 条专属夜间任务序列，同时其日间常态化运营线路达 180 条。在业务高峰期，单日快件处理峰值可达 9 万件。这标志着城市末端物流自动驾驶正从试点测试迈入规模化商用新阶段。不同于常规日间作业模式，顺丰无人车打造了差异化的夜间运营体系。当城市日间车流回落、路网进入低峰时段，无人车夜间运输系统便全速启动。其业务覆盖转运中心、末端网点及收派最后一公里等三大核心场景，承接散货分流、网点接驳、重货运输等全品类物流配",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/360.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8144-98d6-f60196053bbd",
-      "title": "集结全公司之力，消息称三星加快自研人形机器人",
-      "summary": "IT之家 8 月 11 日消息，韩媒 ZDNet Korea 于 5 日报道称，三星电子正集结全公司力量，加快人形机器人研发。制造技术、生产现场数据、软件、资金和半导体实力汇聚后，业界对三星自主研发的人形机器人期待也在不断升高。消息称除了子公司 Rainbow Robotics 之外，三星电子也在独立开发自己的人形机器人，而且研发已经达到相当可观的水平。▲ Rainbow 推出的人形机器人“Hubo”一名机器人行业人士表示：“三星电子自己开发的人形机器人，水平或已超过韩国主要同类产品。三星拥有家电等众多制造基地，本身就具备硬件生产能力，也掌握大量生产数据，再加上雄厚的资金实力，只要方向找准，很",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/358.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8199-9a23-dd78ebe44487",
-      "title": "Keychron 推出 Z5 Ultra 8K 机械键盘：75% 配列 615 元、98% 配列 659 元",
-      "summary": "IT之家 8 月 11 日消息，Keychron（渴创）现已推出 Z5 Ultra 8K 系列键盘。其拥有铝合金机身，搭载机械触点式轴体开关，支持三模连接，75% 配列款 615 元、98% 配列款 659 元。Z5 Ultra 8K 机身经由全方位双层喷漆，背板拥有数控刀纹。其采用 PCB-Gasket 固定结构，内置单键开槽 PCB、PP 定位板和 6 层阻尼填充，预装 Keychron 启明轴，配备 PBT 材质双色注塑工艺键帽。该键盘搭载 ZMK 固件，原生兼容 Windows / macOS，在 USB-C 和 2.4GHz 模式下支持 8kHz 回报率；内置 8000mAh 电池，",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/356.htm"
-    },
-    {
-      "id": "3b903df8-2d23-811d-9353-e431a838100b",
-      "title": "吉利银河战舰 700“AI 全地形硬核 SUV”展车陆续到店，覆盖全国 119 城 150 店",
-      "summary": "IT之家 8 月 11 日消息，吉利银河官方今日宣布，吉利银河战舰 700 全国展车陆续到店，覆盖全国 119 城 150 店。据介绍，吉利银河战舰 700 定位“AI 全地形硬核 SUV”，预计将于年内上市。该车采用硬朗的线条勾勒与方盒子车身造型，前脸采用长条矩形格栅轮廓，搭配贯穿式日间行车灯设计，品牌 Logo 具备点亮功能。车身侧面配备传统样式门把手与哑光黑色车顶行李架，前后凸起的轮眉线条强化了整车的肌肉感。车尾设计趋于简洁，纵向圆角矩形尾灯组与外挂式备胎的组合。IT之家注意到，吉利银河战舰 700 的车身长宽分别为 5085/1999mm，高度有 1895mm、1912mm、1925m",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/357.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8132-acb3-c3120c12f10d",
-      "title": "荣耀 MagicOS 10 系统 9 月版本更新预告发布，含课程表一键导入日历等",
-      "summary": "IT之家 8 月 11 日消息，荣耀官方今日公布了 MagicOS 10 系统的八月更新版本内容。新版本带来了夏日主题、文件管理焕新等特性。IT之家注意到，荣耀官方还在公布了本月的 MagicOS 更新内容后，发布了 9 月版本预告，新特性包括：课程表一键导入日历，支持 YOYO 建议 & 灵动胶囊实时提醒课程；笔记优化，语音速记更便捷、课堂总结更高效、语义搜索更精准。根据规划，荣耀 MagicOS 系统 9 月版本会在 8 月 30 日起陆续推送。",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/354.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8169-b2bd-efc7d99ef86f",
-      "title": "近光灯太亮可能影响对向车辆，特斯拉在美召回超 2 万辆 Model 3 和 Model Y",
-      "summary": "IT之家 8 月 11 日消息，美国国家公路交通安全管理局（NHTSA）当地时间 8 月 10 日公布的召回信息显示，特斯拉因部分车辆近光灯亮度可能超过法规要求，将在美国召回 20349 辆 Model 3 和 Model Y 车型。此次召回涉及 2017 年至 2023 年款 Model 3 以及 2020 年至 2023 年款 Model Y，共计 20349 辆。根据 NHTSA 召回文件，其问题源于车辆近光灯输出亮度在 10U 至 90U 区域的右外上和左外上区域超过了 FMVSS No.108（IT之家注：美国联邦机动车安全标准第 108 号，即“灯具、反射装置及相关设备”标准）所规",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/355.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81c9-be53-eb6e274f7aa6",
-      "title": "不寻求“蛇吞象”了，消息称游戏驿站考虑放弃收购 eBay",
-      "summary": "IT之家 8 月 11 日消息，据彭博社 10 日援引知情人士消息称，游戏驿站 CEO 瑞安 · 科恩正在考虑放弃斥资 560 亿美元（IT之家注：现汇率约合 3,783.01 亿元人民币）收购 eBay，转而寻求合作。消息称科恩正在考虑与 eBay 建立合作关系或成立合资企业，让 eBay 利用游戏驿站在美国约 1,600 家零售门店，帮助双方扩大集换式卡牌和收藏品等高利润业务的市场份额。作为 eBay 最大股东之一，游戏驿站还希望在达成合作后进入 eBay 董事会。自 5 月提出收购以来，游戏驿站股价已经跌去近三分之一，eBay 则上涨约 3.5%。游戏驿站开出的价格为每股 125 美元（",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/353.htm"
-    },
-    {
-      "id": "3b903df8-2d23-812d-b78a-d62f2adda6f4",
-      "title": "三星晶圆代工计划在 1nm 级制程节点实现 High NA EUV 商业应用",
-      "summary": "IT之家 8 月 11 日消息，根据韩媒 ZDNET Korea 当地时间今日的现场采访报道，来自三星电子半导体研究院晶圆代工工艺开发团队的 박창민 (Park Chang Min) 表示，该企业计划在 1nm 级工艺制程节点实现 High NA EUV 设备的商业化应用。박창민在首尔举行的 NGL 2026 学术会议上表示，对于 2nm 的 SF2 和 1.4nm 的 SF1.4 两个近期节点来说，High NA EUV 光刻图案化技术仍不算成熟。而更高的图案化分辨率将在 1nm 级成为刚需，因此三星晶圆代工正以此为目标与合作伙伴联合研发。考虑到三星晶圆代工此前将 2029 年设定为 SF1",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/352.htm"
-    },
-    {
-      "id": "3b903df8-2d23-812e-bb91-dde438d31bbe",
-      "title": "消息称淘宝闪购在上海、杭州内测到家餐饮项目“家宴”",
-      "summary": "IT之家 8 月 11 日消息，据《科创板日报》今日消息，淘宝闪购旗下到家餐饮项目“家宴”已于本月初在上海、杭州启动第二轮灰度测试。据悉，该项目已经与 12 个餐饮品牌展开合作，覆盖超 20 家门店，涵盖解香楼（IT之家注：米其林二星）、甬府（米其林一星）、鲁采（米其林一星）、东琮 · 东湖家宴（西郊宾馆）、好酒好蔡等品牌。此前“家宴”已在成都、深圳进行首轮外部测试。据接近该项目的人士透露，“家宴”主要面向家庭宴请、商务宴请等场景，并非传统外卖的简单升级。与即时配送模式不同，用户需至少提前一天预约下单，由合作餐厅现制菜品，再通过定制包装、恒温配送等方式送达。淘宝闪购方面试图以此探索高端餐饮品牌",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/350.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8167-9a56-e1b95f95807f",
-      "title": "可维修模块化手机 Fairphone 6+ 手机曝光：12GB 内存，3 种配件",
-      "summary": "IT之家 8 月 11 日消息，荷兰科技媒体 nieuwemobiel 昨日（8 月 10 日）发布博文，分享了一组渲染图，展示了可维修模块化手机 Fairphone 6+ 手机。颜色方面，IT之家此前报道，Fairphone 6+ 会有蓝色（Cobalt Blue）、黑色（Horizon Black）以及绿色（Forest Green）三种颜色。Fairphone 6+ 沿用了 Fairphone 6 的外观设计，主要变化是内存从 8GB 提升到 12GB，并新增 Cobalt Blue 蓝色配色。配件方面，Fairphone 6+ 将沿用配件方案，官方将会推出以下 3 种配件：Finger",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/349.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81ea-9dad-d6c548e8b893",
-      "title": "2026 年度电影票房突破 245 亿，《飞驰人生 3》《功夫女足》《给阿嬷的情书》暂列前三",
-      "summary": "IT之家 8 月 11 日消息，据央视财经报道，截至 8 月 11 日，2026 年度电影总票房（含预售）突破 245 亿元，《飞驰人生 3》《功夫女足》《给阿嬷的情书》暂列 2026 年度电影票房榜前三。值得一提的是，2026 暑期档已连续 27 天单日票房过亿。暑期档有近 120 部中外影片陆续上映，包含历史、喜剧、动作、动画、科幻等多种类型。另外，新片《欢迎来龙餐馆》已于今日正式上映，这部“反战 + 美食”题材的影片没有宏大的战争场面，镜头始终在一间中东小餐馆里。截至今日 6 时，该片点映及预售总票房已突破 1.7 亿元。IT 之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/348.htm"
-    },
-    {
-      "id": "3b903df8-2d23-814b-890c-f52711ef751e",
-      "title": "小米米家电动剃须刀理容礼盒、便携电动剃须刀 Pro 开售：349 元",
-      "summary": "IT之家 8 月 11 日消息，小米米家电动剃须刀理容礼盒今日正式开售，提供了“星云紫”定制配色剃须刀、收纳包、浮雕礼盒，官方定价为 349 元，京东领券叠加国补后 266.98 元。京东米家电动剃须刀理容礼盒【七夕礼物】多效理容套件双环三刀头进须面积大剃须效率高送男友生日礼物券后 266.98 元领 0.9 元券2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持 8.5 折政府补贴，单品至高补贴",
-      "source": "IT之家",
-      "publishTime": "2026-08-11",
-      "link": "https://www.ithome.com/0/988/332.htm"
     }
   ],
   "macroEvents": [
