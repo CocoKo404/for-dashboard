@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-08-13 00:26",
+  "updatedAt": "2026-08-13 01:28",
   "news": [
+    {
+      "id": "3ba03df8-2d23-814c-845a-c542dc62bd62",
+      "title": "We're encouraged by Wednesday's benign inflation data and strong neocloud earnings",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-13",
+      "link": "https://www.cnbc.com/2026/08/12/jim-cramer-breaks-down-his-latest-on-nvidias-position-in-the-ai-trade-.html"
+    },
+    {
+      "id": "3ba03df8-2d23-818c-96ab-ca85a33a12e9",
+      "title": "25 colleges where students study the most hours a week",
+      "summary": "College students all over the country are studying hard, but some are putting in more hours — and it's not just Ivy League students.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-13",
+      "link": "https://www.businessinsider.com/colleges-where-students-study-the-most"
+    },
+    {
+      "id": "3ba03df8-2d23-81fa-bb3b-e46bcdbf8b16",
+      "title": "A special high-altitude NASA plane will chase the solar eclipse at 50,000 feet. Take a look.",
+      "summary": "During Wednesday's total solar eclipse, NASA's WB-57 high-altitude aircraft will take high-resolution images for researchers to study.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-13",
+      "link": "https://www.businessinsider.com/solar-eclipse-nasa-plane-research-2026-8"
+    },
+    {
+      "id": "3ba03df8-2d23-8122-8215-d5f3507a6c4c",
+      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+      "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-13",
+      "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/"
+    },
+    {
+      "id": "3ba03df8-2d23-81ad-b391-e0c5a5394688",
+      "title": "Tesla wants to build a $10B solar factory in Texas",
+      "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-13",
+      "link": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/"
+    },
+    {
+      "id": "3ba03df8-2d23-819c-993d-cdb075e6a885",
+      "title": "The dream of serving ads to AI agents has hit a snag",
+      "summary": "Perplexity said ads designed to influence AI bots are \"deceptive,\" in response to a recent experiment from the publisher Time.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-13",
+      "link": "https://www.businessinsider.com/perplexity-thwarts-times-ads-for-ai-bots-experiment-2026-8"
+    },
+    {
+      "id": "3ba03df8-2d23-8189-b99e-dba6db3f64f3",
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "summary": "IT之家 8 月 13 日消息，阿里云“魔搭 ModelScope 社区”公众号昨天（12 日）深夜宣布，阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重。此次是 Qwen-Max 级别的模型首次开源权重：模型总参数为 2.4T，每个 Token 激活 95B 参数，原生支持 262,144 Token 上下文，并可扩展至 1,010,000 Token。Qwen3.8 延续 Qwen3.5 的混合架构，重点提升编程、办公、科研和长周期 Agent 任务的端到端完成能力。官方云端版 Qwen3.8-Max 基于该开放权重模型，并加入更多生产环境能力。官方公布的评测覆盖",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/001.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81df-a632-ebfb1de96df1",
+      "title": "深夜放大招！DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 5",
+      "summary": "IT之家 8 月 13 日消息，据IT之家小伙伴反馈，DeepSeek V4 Pro 正式版今日晚间正式发布，已更新至 API，调用模型名不变。新版本增强了 Agent 能力，支持 Responses API 和 Codex 接入。从官方群放出的评测对比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多项测试中接近 Fable 5 水平，相比之前的预览版能力大幅提升。IT之家附定价如下：百万 tokens 输入（缓存命中）：0.025 元百万 tokens 输入（缓存未命中）：3 元百万 tokens 输出：6 元",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/000.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-813b-818c-e432e80caed3",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-13",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
+    },
+    {
+      "id": "3ba03df8-2d23-8193-8b16-e6e92fdf653f",
+      "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
+      "summary": "Google wasn't first to make a foldable Android phone, but the company's Pixel Fold series is now an established player with unique traits compared to its competitors. For one, it popularized the passport-style design years ago, being more wide than tall - something that Samsung tried for the first t",
+      "source": "The Verge",
+      "publishTime": "2026-08-13",
+      "link": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison"
+    },
+    {
+      "id": "3ba03df8-2d23-81af-8100-ce6bc2264639",
+      "title": "剑指 GPT-5.6 Sol，SpaceXAI 发布 Grok 4.6 模型",
+      "summary": "IT之家 8 月 12 日消息，北京时间今天（12 日）晚间，Grok 4.6 正式发布。新模型在 Grok 4.5 基础上进一步强化长时间运行的智能体任务，以及复杂的交互和视觉工作。按照发布信息，Grok 4.6 能够持续处理包含大量步骤的复杂任务，包括资料研究、信息分析、大型代码库处理，以及将产品构想转化为完整应用或工作成果。基准测试方面，Grok 4.6 在多项智能体编程和知识工作测试中达到前沿水平。在综合 9 项基准测试的 Artificial Analysis Intelligence Index 上，Grok 4.6 与 GPT-5.6 Sol 取得相同成绩。据IT之家了解，Gro",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/999.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8112-90cc-ee448259b6d4",
+      "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
+      "summary": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-12",
+      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/"
+    },
+    {
+      "id": "3ba03df8-2d23-81ca-a141-c710beac1263",
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-q",
+      "source": "The Verge",
+      "publishTime": "2026-08-12",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno"
+    },
+    {
+      "id": "3ba03df8-2d23-81f0-99d3-edf8264bf53e",
+      "title": "I'm an executive Costco member and cookbook author. I swear by these 10 ingredients for simple, delicious meals.",
+      "summary": "As a recipe developer and cookbook author, I use my Costco executive membership to stock up on quality ingredients. These are my favorite finds.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-12",
+      "link": "https://www.businessinsider.com/best-things-to-buy-costco-from-cookbook-author-executive-member-2026-8"
+    },
     {
       "id": "3ba03df8-2d23-81d6-a9a0-cd5af0fc2413",
       "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
@@ -288,118 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-08-12",
       "link": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software"
-    },
-    {
-      "id": "3ba03df8-2d23-81dd-be43-e18b8a053753",
-      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-      "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-12",
-      "link": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html"
-    },
-    {
-      "id": "3ba03df8-2d23-8192-aa4d-c9908403e960",
-      "title": "Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens",
-      "summary": "The Pixel 11 Pro Fold will cost $1,899",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/"
-    },
-    {
-      "id": "3ba03df8-2d23-8117-9175-ee4525828d31",
-      "title": "Google takes on AirTag with the new $29 Pixel Tag",
-      "summary": "Google’s new Pixel Tag taps into its Find Hub network to help users track lost keys, bags, and other items.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/"
-    },
-    {
-      "id": "3ba03df8-2d23-81b2-8649-cfb1435ce602",
-      "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
-      "summary": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/"
-    },
-    {
-      "id": "3ba03df8-2d23-815e-ab19-d131ebd3aedc",
-      "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
-      "summary": "Google Pixel 11 Series starts $100 costlier than the last year, but offers 256GB base storage",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/"
-    },
-    {
-      "id": "3ba03df8-2d23-81c8-8551-c802f85def76",
-      "title": "鸿蒙智行享界品牌首款 MPV，享界 V8 将亮相 2026 成都车展",
-      "summary": "IT之家 8 月 12 日消息，据易车今天（12 日）晚间报道，鸿蒙智行享界 V8 将于成都车展正式亮相。新车为享界品牌首款 MPV，将提供纯电、增程两种动力。据IT之家此前报道，鸿蒙智行享界 V8 已现身第 409 批《道路机动车辆生产企业及产品公告》新产品公示。该车定位纯电动多用途乘用车 / 插电式增程混合动力多用途乘用车，提供 5 种版本可选，均为 7 座布局，车身轴距均为 3250 mm，长宽高根据版本区别在 5335 * 2005 * (1805 / 1825) mm 之间。此外，根据博主 @爱叨叨的Steven 曝光的实车谍照，除了上图的黑、银灰配色外，享界 V8 还将提供“寰宇红",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/982.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8188-a328-e8f8ee3ff6c2",
-      "title": "我国三代核电迎来重大突破，全球首台国产 CAP1000 50Hz 屏蔽电机主泵顺利完工",
-      "summary": "IT之家 8 月 12 日消息，哈电集团今日宣布，全球首台国产 CAP1000 50Hz 屏蔽电机主泵近日顺利完工、整装待发，标志着我国三代核电核心装备自主化、国产化攻坚取得了标志性重大突破。据介绍，作为我国三代核电自主创新、产业链提档升级的重要示范工程，广东廉江核电一期工程规划建设 2 台单机容量 125 万千瓦国产化 CAP1000 三代非能动压水堆机组，依托自主 CAP1000 三代非能动核电技术，并创新采用海水二次循环冷却方案。IT之家注意到，哈电集团为该主泵提供了屏蔽电机，该工程屏蔽电机是哈电集团动装公司继 CAP1000 60Hz、CAP1400 两款屏蔽电机后，全新迭代研制出的新",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/981.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-816e-b8d9-d9eb634ee21c",
-      "title": "我国攻克锂云母提锂多项技术难题：首创熔盐置换焙烧实现工业化，已在江西多个项目应用",
-      "summary": "IT之家 8 月 12 日消息，据科技日报今日报道，由中铝国际长沙有色冶金设计研究院有限公司牵头完成的“锂云母高效提锂技术与装备研发及应用”项目取得重大突破。该项目成功攻克了我国锂云母提锂长期面临的设备腐蚀、回转窑结圈、回收率低等重大技术难题，并已实现大规模工业化生产。锂云母矿成分复杂、锂品位低，且含有氟等多种杂质元素，冶炼难度极高。项目总设计师陈玉萍介绍，团队经过多年攻关，首创了锂云母熔盐置换焙烧技术，从源头解决了设备腐蚀和窑炉结圈这两大顽疾，大幅提升了锂的回收率。除了核心的提锂技术，该项目还实现了一系列工艺创新与突破：综合回收：创新开发了从浸出液中回收钾、铷等有价金属的技术，实现了硫酸盐的",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/980.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8129-a344-e892791b1676",
-      "title": "Jaguar offers a first look inside the all-electric Type 01",
-      "summary": "Jaguar's all-electric Type 01 comes with a very beige interior that divides the four seats with a \"spine\" that spans the length of the cabin. New photos shared by Jaguar show a low-slung driver's seat, alongside a slim dashboard with a smartphone-style display in the center. This vehicle doesn't com",
-      "source": "The Verge",
-      "publishTime": "2026-08-12",
-      "link": "https://www.theverge.com/transportation/978793/jaguar-type-01-interior"
-    },
-    {
-      "id": "3ba03df8-2d23-814b-a7d1-e73f388a1448",
-      "title": "铠侠与闪迪发布第九代 2Tb QLC 3D 闪存，接口速度达 4.8Gb/s 提升 33%",
-      "summary": "IT之家 8 月 12 日消息，铠侠与闪迪今日共同宣布，推出第九代高性能 2Tb QLC 3D 闪存。该技术面向 AI 基础设施及数据密集型应用场景，旨在应对 AI 工作负载带来的存储需求增长。第九代 QLC 技术采用了两家公司的 CMOS 直接键合阵列（CBA）架构，将先进 CMOS 晶圆与成熟的存储单元阵列平台相结合。与前代第八代 2Tb QLC 产品相比，新技术引入了 6 平面架构及多项性能增强设计，实现了更高的写入与读取带宽，同时改善了读写功耗效率。IT之家从官方新闻稿获悉，其 NAND 接口速度达到 4.8Gb/s，较第八代器件提升了 33%。铠侠首席技术官宫岛英史表示，随着 AI ",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/979.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8166-a296-df55bf5cc71a",
-      "title": "Take a look inside Helen Mirren's $13 million Los Angeles mansion, first built for a silent film star 116 years ago",
-      "summary": "Helen Mirren listed her historic Hollywood Hills estate for nearly $13 million. The 6.5-acre property features a pool, guesthouse, and stunning views.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/helen-mirrens-hollywood-hills-estate-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-81c0-9fa8-d71d79119eb1",
-      "title": "iQOO Z11S 手机官宣搭载 144Hz 护眼电竞屏，支持 2000nits 全屏最大亮度",
-      "summary": "IT之家 8 月 12 日消息，iQOO 手机官方今日宣布，iQOO Z11S 手机将搭载 144Hz 护眼电竞屏。据介绍，iQOO Z11S 手机的这块 144Hz 护眼电竞屏支持 2000nits 全屏最大亮度、全亮度类 DC 调光，并获得了瑞士 SGS 认证。IT之家注意到，这款手机还会搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池，采用单电芯设计，由宁德新能源联合研发。根据规划，iQOO Z11S 手机将于 8 月 18 日 19:00 发布并开售。",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/978.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8165-9685-f9a765cac775",
-      "title": "腾讯总裁刘炽平：微信将成为以 AI 为先的生态系统，未来能转化为巨大价值",
-      "summary": "IT之家 8 月 12 日消息，在今天（12 日）晚间的腾讯 2026Q2 财报业绩电话会上，腾讯总裁刘炽平谈及二季度微信 AI“小微”灰测的反馈。刘炽平认为，AI 可以让微信变得更加智能化，能够帮助用户进行交易、探索内容以及管理日常生活。“在 PC 时代，QQ 主要是一个通信和社交工具，到了移动互联网时代，微信又将 QQ 的价值放大了 10 倍以上。而到了 AI 时代，随着时间的推移，微信将成为以 AI 为先的生态系统。用户给出一个指令，系统就自行执行。”刘炽平表示，如果腾讯能够在控制成本的同时提供这种体验，并且满足用户隐私需求、成本效益，就能为微信赋予强大的能力。“未来微信的生态系统将会扩",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/977.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8143-a19e-df3a3b8fe1de",
-      "title": "索尼官宣《绝地潜兵 2》加入 PS+ 二三档会员游戏库，大型更新同步上线",
-      "summary": "IT之家 8 月 12 日消息，索尼今日宣布，《绝地潜兵 2》即日起全球同步加入 PlayStation Plus Extra（二档）与 Premium（三档）游戏目录，包括英、美、日等所有地区。索尼按计划将于今日晚些时候正式公布 2026 年 8 月份 PS Plus Extra 与 Premium 档位的完整入库游戏清单。此次《绝地潜兵 2》提前入库，属于官方提前释出的福利内容。《绝地潜兵 2》是一款由 Arrowhead Game Studios 开发、索尼互动娱乐发行的第三人称合作射击游戏，于 2024 年 2 月 8 日登陆 PS5 和 PC 平台。游戏以“超级地球”为背景，玩家扮演",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/976.htm"
     }
   ],
   "macroEvents": [
