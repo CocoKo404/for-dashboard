@@ -1,6 +1,254 @@
 {
-  "updatedAt": "2026-08-12 11:03",
+  "updatedAt": "2026-08-12 13:13",
   "news": [
+    {
+      "id": "3ba03df8-2d23-8144-b3d7-c724609222ca",
+      "title": "台积电何军：5.5 倍光罩尺寸 CoWoS 良率可达 99%，验证加速走向系统级",
+      "summary": "IT之家 8 月 12 日消息，台积电先进封装技术暨服务副总经理何军昨日在 OCP APAC 峰会上表示，台积电已量产的 5.5 倍光罩尺寸 CoWoS 先进封装技术可在部分产品上达到 99% 的良率。5.5 倍光罩尺寸 CoWoS 这一 2.5D 异构集成方案已在多个 AI 客户产品上得到验证，良率可稳定超过 98%。台积电未来计划在 2029 年推出 15 倍光罩尺寸的超大面积 CoWoS。▲ 何军图源：台积电何军在演讲中提到，先进 SoC 的验证正加速从器件级走向系统级：同一芯片在引入不同系统后部分情况下会出现边缘损伤，而这是器件级分析所未能预知的；另一方面，器件级的应力问题在安装到 P",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/698.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-816b-9a54-ce0d89d54524",
+      "title": "谷歌收紧 Chrome 浏览器通知权限：“干扰”网站每分钟最多推 1000 条",
+      "summary": "IT之家 8 月 12 日消息，谷歌公司昨日（8 月 11 日）发布博文，披露称针对网站滥用推送通知，已在 Chrome 浏览器中部署多层防御体系。在谷歌 Chrome 浏览器中，推送通知主要用于新闻提醒、配送更新或价格变动提醒等场景，开发者可借此实时触达用户。不过谷歌表示越来越多的恶意行为者滥用该机制，向用户发送欺骗性和不受欢迎的通知。“在治理机制方面，谷歌于 2023 年在 Chrome 浏览器中引入 Safety Check，自动撤销用户近期未互动网站的通知权限；在 2024 年针对安卓版 Chrome 浏览器，谷歌增加新选项，让用户一键退订不想接收的网站通知。谷歌表示，该功能在受支持的",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/697.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8132-9fa7-cdb63255a839",
+      "title": "玩家自制水冷版 Steam Machine，CPU 和 GPU 温度最高直降 30℃",
+      "summary": "IT之家 8 月 12 日消息，虽然 Valve 的 Steam Machine 运行温度低、噪音小，但一名改装玩家还是决定进一步升级这款设备的散热系统。他使用桌面级 CNC 机床、出色的逆向工程技术以及不到 200 美元（IT之家注：现汇率约合 1,352 元人民币）的零部件，打造出了一台定制水冷版 Steam Machine。这名改装玩家在 Reddit 上使用的账号是 u/techmagnet，他此前已经发布了多篇液冷 Steam Machine 项目的开发日志。最新一篇内容展示了改装过程以及最终成品。为了完成这套定制水冷系统，他制作了一块定制加工的铜制水冷头，并对 Steam Mach",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/694.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-810d-8a13-f9f37616f441",
+      "title": "国内首个成功运行超 2 万亿参数大模型的超节点，阿里云灵骏真武 M890 超节点实例上线",
+      "summary": "IT之家 8 月 12 日消息，阿里云今日宣布，灵骏真武 M890 超节点实例正式上线，首批在内蒙古乌兰察布地域开售。官方表示，企业级客户无需自建机房，在云上即可开通 64 卡高速互联算力单元，最高可承载十万亿参数级 MoE 大模型推理。灵骏真武 M890 超节点也是国内首个成功运行超 2 万亿参数大模型的超节点形态算力，Kimi K3 和 Qwen3.8-Max 均已通过该实例对外提供服务。灵骏真武 M890 超节点实例支持 FP8/FP4 低精度计算，通过 ICN Switch 1.0 芯片将 Scale-up 互联规模由 16 卡拉升至 64 卡，卡间互联达 800GB/s。在智能驾驶、",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/688.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8132-9865-dfc728ed3959",
+      "title": "原版发布 43 年后，Commodore 发布 Suncom TAC-2 摇杆授权复刻",
+      "summary": "IT之家 8 月 12 日消息，TAC-2 是 Suncom 在 1983 年推出的一款摇杆 + 双按键组合控制器，曾广泛被那个时代的玩家用于游玩电子游戏。不过由于时间的流逝，对于复古玩家而言想要入手品相良好的原版 TAC-2 正愈发困难。而在当地时间 11 日，Commodore 发布授权复刻款 TAC-2 手柄。其几乎是 1:1 忠实复制了原版 TAC-2 的物理设计（包括非微动的直接金属接触机构），仅将原版铜质气门组件调整为同结构钢制阀杆，与任何 9 针控制器端口 100% 兼容。Commodore TAC-2 提供 5 种配色（原版仅有黑 / 白可选），起价 49.99 美元（IT之家",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/686.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8102-9cb0-d82303007b2f",
+      "title": "橄榄绿版谷歌 Pixel Buds Pro 2 耳机宣传图曝光",
+      "summary": "IT之家 8 月 12 日消息，消息源罗兰 · 匡特（Roland Quandt）昨日（8 月 11 日）在 Bluesky 平台发布动态，分享了一组宣传图，展示了橄榄绿（Olive）颜色的谷歌 Pixel Buds Pro 2 耳机。基于曝光的宣传图，橄榄绿版谷歌 Pixel Buds Pro 2 耳机在功能方面没有变化，包括主动降噪 (ANC)、Silent Seal 2.0、兼容 Find Hub 等。IT之家附上相关图片如下：Pixel Buds Pro 2 于 2024 年 9 月发布，官方目前为其推出了以下 5 种颜色：雾灰色（Charcoal / 木炭色）陶瓷米（Porcelai",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/683.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8175-927b-c3fc70bb0587",
+      "title": "世界最大冲击式水电机组在西藏顺利完成转子吊装，进入投产前最后冲刺阶段",
+      "summary": "IT之家 8 月 12 日消息，据央视新闻报道，8 月 11 日，世界最大冲击式水电机组在大唐扎拉水电站顺利完成转子吊装，标志着我国超高水头、大容量冲击式水电装备核心技术跻身世界领先行列，有力助推藏东南清洁能源基地建设。IT之家获悉，大唐扎拉水电站位于西藏自治区昌都市左贡县与林芝市察隅县交界处的玉曲河上，是国家“藏电外送”骨干工程，装机两台 500 兆瓦冲击式机组，为全球同类型单机容量最大设备。作为我国能源领域首台（套）重大技术装备，具有高海拔、高水头、大容量等技术优势。本次吊装的转子是发电机组实现能量转换的“动力心脏”。转子约 840 吨，它的成功安装，标志着项目已进入投产前的最后冲刺阶段。",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/684.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8108-af55-f2b707ac062f",
+      "title": "AMG 座椅金属车标暴晒后烫伤车主，奔驰在美遭集体诉讼",
+      "summary": "IT之家 8 月 12 日消息，据美联社报道，两名加州奔驰 AMG 车主日前对这家豪华汽车制造商提起集体诉讼，指控其车辆座椅上的 AMG 标志会因高温变得异常烫，甚至像烙铁一样在人体皮肤上留下印记并造成灼伤。根据本周早些时候提交至美国加利福尼亚州中区联邦地区法院的诉讼文件，Gabriel Lahijani 和 Karendeep“Karina” Bath 声称，部分奔驰 AMG 车型的前排座椅存在设计缺陷，凸起的金属 AMG 标志“可以合理预期会与乘员的上背部、颈部或肩部发生接触”。原告要求奔驰赔偿他们因此产生的医疗费用，以及能够在庭审中证明的疼痛、身体伤害和精神损害等损失。他们还要求奔驰承担",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/682.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8180-9f6b-ff223ebab62d",
+      "title": "Mate 90 系列 + 韬定律芯片首秀？文旅部透露华为终端 Haco 发布会定档 9 月 23 日",
+      "summary": "IT之家 8 月 12 日消息，据IT之家小伙伴反馈，“华为终端 Haco 发布会助兴演出”出现在文化和旅游部官网的全国涉外营业性演出活动审批系统中，批复时间为 8 月 10 日，演出时间为 9 月 23 日，地点为深圳国际会展中心 20 号馆。从时间和地点来看，此次审批的演出有望是华为 Mate 90 系列旗舰手机的发布会配套演出。博主 @超维界 表示，Haco 是发布会代号，Ha=Huawei（华为）co=Conference（发布会）或者是 Code（内部代号）。博主 @数码闲聊站 今年 7 月发文透露，某厂 9 月会有两场发布会：9 月上旬发三折叠，9 月下旬发你们期待的年度旗舰……根",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/681.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8124-8b04-e4bc01ae69cb",
+      "title": "新增“加固梁”防形变结构，zalman 推出 CNPS BP 风冷",
+      "summary": "IT之家 8 月 12 日消息，zalman（思民）近日在其官网上线了双塔双风扇处理器风冷散热器 CNPS12X BP 和 CNPS15X BP。▲ CNPS12X BP▲ CNPS12X BP这两款散热器末尾的 \"BP\" 指的是其在底部设有连接两侧塔体的“加固梁”结构，可在受到外部冲击时均匀分散载荷，避免热管出现扭曲形变。▲ CNPS15X BP▲ CNPS15X BPCNPS12X BP 塔体与热管保持金属银色，底部为直触结构，搭配 800~1800 RPM 风扇，标称解热能力 260W，高度 153mm；CNPS15X BP 则进行了黑化，配备 RDTH 铜底，风扇最大转速可达 2000",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/680.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81f2-8850-dc70dc099e83",
+      "title": "荣耀手环 11 系列开售：支持专业羽毛球模式，首销优惠价 229 元起",
+      "summary": "IT之家 8 月 12 日消息，荣耀手环 11 系列今日 10:00 全渠道开售，支持专业羽毛球模式等专业运动模式，首销优惠价 229 元起：荣耀手环 11：首销优惠价 229 元荣耀手环 11 Pro：首销优惠价 299 元荣耀手环 11 Pro GPS 版：首销优惠价 349 元荣耀手环 11 Pro GPS 版皮表带：首销优惠价 449 元荣耀手环 11 系列有标准版、Pro 版、Pro GPS 版可选，其中标准版包含海盐白、芋泥紫、鱼子酱三种颜色可选，Pro 版有杏仁白、可可黑、牛油果三种颜色可选，Pro GPS 版在 Pro 版的基础上，增加一款香蜜棕（皮）。荣耀手环 11 采用增强",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/679.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8137-b105-cab6b7e27052",
+      "title": "微软 8 月 Win11 更新扩展“低延迟配置”，启动应用可触发 1~3 秒频率冲刺",
+      "summary": "IT之家 8 月 12 日消息，科技媒体 Windows Latest 今天（8 月 12 日）发布博文，报道称 Windows 11 设备安装 8 月累积更新 KB5121003 后，“低延迟配置”（Low Latency Profile）开始覆盖应用启动场景。IT之家注：“低延迟配置”是 Windows 11 的性能优化方案，其原理是在极短时间内提高 CPU 频率以加快 PC 运行速度，让系统弹窗响应速度最高提升 70%，应用启动速度最高提升 40%。在运行机制方面，“低延迟配置”背后的思路被称为竞速休眠（race to sleep）。传统调度方式会让 CPU 随负载上升逐步提高频率；该机",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/672.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-810a-b8c1-df4bdf123d14",
+      "title": "奕境曾清林谈与华为合作：华为智驾水平依然是行业顶级存在，硬技术绝不是随便一个供应商能平替的",
+      "summary": "IT之家 8 月 12 日消息，东风汽车集团与华为联合打造的奕境汽车品牌总经理曾清林今日发文，讨论和华为的合作。曾清林觉得，每个品牌都需要做差异化，这是非常重要的品牌使命。但对于用户而言，最重要的是拥有体验最好的产品。所以每个品牌根本目标就是如何整合优势资源打造更具优势竞争力的产品。基于以上理念，曾清林发布了以下看法：第一，无论大家怎么拿华为开玩笑，但华为的智驾水平依然是行业顶级存在。比如 896 线激光雷达、ADS5、130 亿公里的智驾数据的积累，这些硬技术，它绝对不是随便一个供应商能平替的。华为在研发端的投入强度、对质量的管控标准、对安全的高要求，在行业都是独树一帜的。第二，再强的软件也",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/654.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81f4-a4b4-e6292d1ea80c",
+      "title": "IBM 收获 2.4 亿美元合同，为 Together AI 提供 HGX B300 算力",
+      "summary": "IT之家 8 月 12 日消息，IBM 美国当地时间 11 日宣布与 AI 原生云平台 Together AI 达成一项多年期 2.4 亿美元（IT之家注：现汇率约合 16.22 亿元人民币）协议。IBM 将在其 IBM Cloud 部署一个 NVIDIA（英伟达）HGX B300 集群，支持 Together AI 的开源模型推理服务。该系统预计将于 2027Q1 投入使用。IBM 表示，此次部署是首个基于 IBM Cloud 并采用 NVIDIA HGX B300 系统与 Spectrum-X 以太网技术构建的专用于推理的大规模集群。Together AI 首席执行官 Vipul Ved ",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/647.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-819a-9ce9-d574a6a516c7",
+      "title": "iOS 27 Beta 5 调整液态玻璃滑块，苹果提升最高透明度档位效果",
+      "summary": "IT之家 8 月 12 日消息，科技媒体 9to5Mac 昨日（8 月 11 日）发布博文，报道称在 iOS 27 Beta 5 更新中，苹果调整液态玻璃（Liquid Glass）滑块，让最高透明度档位比此前更透明。本次 Beta 5 更新的重点之一，在于优化液态玻璃滑块，该滑块位于“设置 ⇾ 外观 ⇾ Liquid Glass”，用于调节 Liquid Glass 的透明度。在“Liquid Glass”页面中，若将滑块调节至更透明档位，液态玻璃效果较之前更为通透，进一步提升透明感。IT之家附上相关对比视频如下：苹果调高了滑块最高透明度档位的透明效果，不过该媒体认为从对比视频来看，整体变化",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/644.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8115-9325-f172121e4441",
+      "title": "Akko 无摇杆街机控制器 FUNBOX 国行上市，499 元",
+      "summary": "IT之家 8 月 12 日消息，Akko（艾酷）现已在国内电商平台发售磁轴多平台游戏控制器 FUNBOX。这一型号采用无摇杆布局，侧面提供多功能铝制旋钮，集成 2.0\" 多功能全彩 LCD 屏幕，售价 499 元。Akko FUNBOX 支持轴体热插拔，原装凯华星磁 Mini 矮磁轴（0.1~2.8mm 行程，触发压力 30±10gf），亦兼容凯华多款矮机械轴。其支持 8kHz 回报率、50kHz 扫描率，Rapid Trigger 精度可达 0.005mm。天猫 Akko FUNBOX HITBOX499 元直达链接",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/642.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8133-87d1-ee6221398cbb",
+      "title": "采埃孚 8 挡混动变速器在中国量产，可控物料国产化率 95%",
+      "summary": "IT之家 8 月 12 日消息，采埃孚今日官宣，采埃孚 8 挡混动变速器在上海采埃孚变速器有限公司正式量产，这标志着采埃孚在新能源转型和混动技术本土化领域取得了关键突破。此次量产的 8 挡混动变速器国产化项目，从立项到产品下线用时 18 个月，从正式启动到下线用时 13 个月，大幅缩短全新混动变速产品落地周期。在供应链本土化建设层面，产品下线阶段整体物料国产化率达到 79%，可控物料国产化率达到 95%。采埃孚表示，目前该变速器已斩获多家客户定点。IT之家从采埃孚公告获悉，该产品可提供 800Nm 的最大输入扭矩，并集成功率 160kW、峰值扭矩 450Nm 的电机。产品在轴向空间上实现极致紧",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/641.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8103-a3ba-ed310ef6838b",
+      "title": "小米推出 Xiaomi 蓝牙音箱磁吸版：重约 95g、能当手机支架，众筹价 132 元",
+      "summary": "IT之家 8 月 12 日消息，小米推出 Xiaomi 蓝牙音箱磁吸版，现已在小米有品（点此前往）开启众筹，建议零售价 199 元，众筹价 132 元。这款音箱重约 95g，底部内置磁吸环，既是磁吸音箱，也是手机支架，适配苹果 MagSafe 生态；内置霍尔磁吸感应，支持吸附自动开机。这款音箱搭载 1.5 英寸 3W 全频喇叭，表面采用细腻编制网布，底部还有 RGB 环形灯带；两台可组成立体声，最高可串联 10 台；支持 IP67 级防尘防水，电池容量 650mAh。IT之家附详细参数如下：",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/637.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8153-b8a2-cb705ad65659",
+      "title": "watchOS 27 将为苹果 Apple Watch 的 Modular 表盘新增 9 种颜色",
+      "summary": "IT之家 8 月 12 日消息，开发者 @aaronp613 昨日（8 月 11 日）在 X 平台发布推文，报道称在 watchOS 27 Beta 5 更新中，苹果公司计划为 Modular 表盘新增 9 种颜色选项。IT之家注：Modular 是适用于苹果 Apple Watch Series 数字系列的表盘，以信息密度高、自定义程度强著称。消息源通过挖掘 watchOS 27 Beta 5 更新代码，发现苹果计划在 2026 年秋季为 Modular 表盘新增以下 9 种颜色：Cool Slate Blue‑Gray 冷板岩蓝灰色Dusty Rose 灰调玫瑰色Flat Sage Gre",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/635.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81ea-b980-d5fbe4a4753e",
+      "title": "封禁 3 年后迎来转折：美国政府设备重新允许使用 TikTok",
+      "summary": "北京时间 8 月 12 日，据彭博社报道，特朗普政府已解除在联邦政府设备上使用 TikTok 的限制，原因是 TikTok 美国业务在重组后不再构成国家安全威胁。白宫管理和预算办公室在周一发布的一份备忘录中，撤销了 2023 年发布的一项指令。该指令因担心 TikTok 存在安全风险，禁止在政府设备上使用这一短视频服务。在此之前，美国司法部上月出具了一份书面意见，结论是 TikTok 已不再符合 2022 年通过的一项法律中定义的“受管制应用”标准，该法律禁止在联邦平台上使用 TikTok。今年 1 月，TikTok 美国业务完成重组，并成立新实体 TikTok USDS Joint Vent",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/634.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81ba-9977-e852f4042961",
+      "title": "大普微展示 EDSFF E2 外形规格固态硬盘：512TB 级超大容量",
+      "summary": "IT之家 8 月 12 日消息，大普微 (DapuStor) 昨日刊文表示，该企业在本月初举行的 FMS 2026 峰会上展出了采用 EDSFF E2 这一新外形规格的 512TB 级超大容量版 PCIe Gen5 QLC NVMe SSD。EDSFF E2 面向超大容量温数据存储，三维 200×76×9.5 (mm)，能提供 64 个或更多的 NAND 闪存焊盘。大普微 R6060 基于自研 PCIe Gen5 控制器 DP800，采用 3D eQLC NAND Flash，支持 NVMe 2.0 与最新 FDP 特性。R6060 此前采用其它外形规格的版本最大容量为 256TB 级（对应 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/624.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81c6-893b-e3f3f443ee24",
+      "title": "长安汽车第四代 CS55PLUS 蓝鲸超擎官图公布，8 月 18 日上市",
+      "summary": "IT之家 8 月 12 日消息，长安汽车今日公布了第四代 CS55PLUS 蓝鲸超擎新车官图，并宣布该车将于 8 月 18 日上市发布。第四代长安 CS55PLUS 蓝鲸超擎采用最新家族设计语言，动力方面搭载蓝鲸超擎混动技术。新车长宽高分别为 4550/1868/1675mm，轴距为 2656mm。内饰方面，第四代长安 CS55PLUS 蓝鲸超擎与燃油版车型保持一致，采用环抱式贯穿座舱，搭载星环智联双联屏。新车副驾配备了女王座椅，支持 8 触点按摩功能。IT之家注：蓝鲸超擎混动技术由 500Bar 超高压直喷混动发动机、高磁通高功率混动电驱、高性能高安全电池以及 Ai 云智控组成的无需充电的深",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/621.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81cf-a6af-e2949cbc316d",
+      "title": "Pearl Abyss 2026 年二季度营业利润同比暴涨 7411%，《红色沙漠》首个 DLC 年内推出",
+      "summary": "IT之家 8 月 12 日消息，凭借《红色沙漠》的成功，Pearl Abyss 已经成为游戏行业最具影响力的开发商之一。这款游戏上市后销量迅猛，不仅取得了亮眼的商业成绩，也为开放世界游戏树立了新的标杆。如今，这些成绩已经开始反映在公司的季度业绩中。Pearl Abyss 公布了 2026 年第二季度财报，创下公司历史最佳季度业绩。报告显示，公司第二季度销售额达到 1,962 亿韩元（IT之家注：现汇率约合 9.36 亿元人民币），营业利润达到 676 亿韩元（现汇率约合 3.23 亿元人民币），均创下二季度业绩历史新高。其中，销售额同比大增 247.7%，营业利润更是同比暴涨 7411%。Pe",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/622.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8104-a571-c68c36c1d6f1",
+      "title": "268 元起、甄子丹加盟，国产 3A 游戏《影之刃零》开启多平台预购",
+      "summary": "IT之家 8 月 12 日消息，国产 3A 游戏大作《影之刃零》今日开启多平台预购，并公开了 11 分钟实机预告，将于 10 月 29 日正式发售。各平台国区统一售价：数字标准版 268 元数字豪华版 328 元《影之刃零》官方表示：甄子丹自 2023 年起担任《影之刃零》监制，并为“暗魔天堡之主：魔渊”进行面捕及动捕。甄家班深度参与了游戏的研发工作，我们深感荣幸，在此表示衷心感谢！Steam 页面显示，《影之刃零》最低配置要求为 GTX 1660 6GB 显卡、16GB 内存，推荐配置为 RTX 3060 Ti 8GB 显卡、16GB 内存。结合IT之家此前报道，《影之刃零》是由北京灵游坊工",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/620.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81ce-8f3f-c4e8b180d907",
+      "title": "动态烟花效果：苹果 iOS 27 电话应用将新增“生日提醒”功能",
+      "summary": "IT之家 8 月 12 日消息，科技媒体 AppleInsider 昨日（8 月 11 日）发布博文，报道称在 iOS 27 Beta 5 更新中，苹果电话（Phone）应用将新增联系人“生日提醒”功能。IT之家援引博文介绍，用户和某位联系人通话过程（拨号和接听）中，Phone 应用会检查本机通讯录中的联系人卡片，如果该卡片记录了对方的生日，且日期正好是当天，iPhone 会在通话界面显示生日提醒横幅。提醒横幅带有动态烟花效果。报道称，横幅会直接提示当天是该联系人的生日，烟花动画也会同步显示在 iPhone 屏幕上。苹果还在横幅中注明信息来源。报道提到，横幅内会显示一行小字：“Birthday",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/619.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-814f-b522-c9e2d0ab9e92",
+      "title": "REDMI K100 Pro Max 上手体验：性能“超大杯”，续航也够猛",
+      "summary": "8 月 11 日晚 19:00，全新一代 REDMI K100 Pro 系列手机新品正式发布，包括 REDMI K100 Pro 和 REDMI K100 Pro Max 两款型号可选。新机搭载第五代骁龙 8 至尊版处理器、6 英寸以上巨屏、9070mAh 金沙江电池等核心配置，主打大屏、长续航和游戏体验。IT之家第一时间拿到机器并进行了体验，本次我们重点来聊聊 REDMI K100 Pro Max 这款“超大杯”的体验究竟如何。一、设计篇REDMI K100 Pro Max 依旧延续了 K 系列家族设计语言，后盖的视觉重心基本集中在镜头 Deco 部分。3 颗相同大小的后摄镜头 + 补光灯呈",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/618.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8180-ad7c-f1f95dd6c181",
+      "title": "【IT之家开箱】REDMI K100 Pro 系列图赏：BOSE 标够抢眼，配色更时尚",
+      "summary": "去年 10 月，REDMI 推出了该品牌第一款 Pro Max 机型：REDMI K90 Pro Max，抢占“超大杯”用户市场。今年的 REDMI K100 Pro 系列将发布周期提到了 8 月份，并且一口气推出了 K100 Pro 和 K100 Pro Max 两款机型。IT之家第一时间拿到了新品，先给大家带来开箱图赏。包装方面，近几代红米采用的都是白色 + 银色的拼接包装，所有文字和 Logo 标志全部使用黑色，增强阅读辨识度，视觉上更加年轻化和时尚。官方这次预计为 REDMI K100 Pro 系列带来 4 种配色，IT之家这次拿到了赤霞珠红配色的 K100 Pro 和流光白配色的 K",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/617.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-816d-8491-e96c895d28d3",
+      "title": "英伟达、思科等 120 家组织提议建立 AI 智能体事故追踪机制",
+      "summary": "IT之家 8 月 12 日消息，据外媒 Axios 今日报道，包括英伟达、思科和 CrowdStrike 在内的 120 多个组织组成的联盟正在提议为 AI 智能体制定一个新的事件报告框架，该框架将要求参与公司披露某些智能体事故，并保存详细的事故记录。随着 AI 智能体在计算机系统中获得越来越大的自主权，业界缺乏报告安全故障和从中吸取教训的标准方法。The Open Secure AI Alliance（开放安全人工智能联盟）正在制定其所谓的“Shared AI Findings Exchange”（共享人工智能发现交流，SAFE）指南，这是一个关于如何报告涉及 AI 智能体网络安全事件的拟议",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/612.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81c3-a1a1-e89b89a1d3bf",
+      "title": "Piston V 游戏迷你主机曝光：圆形触控屏，Win11 和 Bazzite 双启动",
+      "summary": "IT之家 8 月 12 日消息，YouTube 频道 ETA Prime 昨日（8 月 11 日）发布视频，分享了名为 Piston V 游戏迷你主机，采用圆形触控屏，目前尚未确认制造商。外观方面，Piston V 机身正面嵌入了一块圆形触控屏，整机采用直立形态，外观接近数字桌面时钟。该屏幕会显示 Windows 11 和 Bazzite（基于 Linux 的游戏操作系统发行版）2 个启动选项，用户可直接通过触控屏选择操作系统。进入 Bazzite 系统后，圆形屏幕会切换为定制状态显示界面，可显示 CPU、GPU 和内存占用率，也会根据当前运行的游戏显示对应封面。IT之家附上相关图片如下：IT",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/611.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8102-a47f-c1f8c873fd1a",
+      "title": "英伟达推出 30B 开源 AI 模型 Nemotron 3.5 Lightning",
+      "summary": "IT之家 8 月 12 日消息，当地时间 8 月 11 日，英伟达宣布推出 30B 开源 AI 模型 Nemotron 3.5 Lightning，进一步丰富其 Nemotron 3 模型系列。官方表示，Nemotron 3.5 Lightning 是一款拥有 300 亿参数的 MoE 模型，专为大型多智能体系统中的特定任务打造，助力开发更智能、更高效的智能体应用。与同类其他模型相比，该模型可实现高达 4 倍的输出速度提升，从而将智能体任务的整体完成速度加快 30%。Nemotron 3.5 Lightning 可以直接运行在本地 AI 系统上，包括 NVIDIA RTX PC、NVIDIA ",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/609.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-813b-bad1-d1a40ac8d1c6",
+      "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
+      "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-12",
+      "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html"
+    },
     {
       "id": "3ba03df8-2d23-81c7-bb9a-f9c5b40d0288",
       "title": "微软 Win11 26H1 推送 28000.2704 更新：32GB+ 内存 PC 可运行更大规模本地 AI",
@@ -40,6 +288,14 @@
       "source": "IT之家",
       "publishTime": "2026-08-12",
       "link": "https://www.ithome.com/0/988/579.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-811e-abc6-ce002fb2c6e2",
+      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
+      "summary": "雷蛇那伽梵蛇 V3 专业版无线鼠标发布，铭凡推出 Elite Mini M2 Air-304 迷你主机等。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-08-12",
+      "link": "https://sspai.com/post/113343"
     },
     {
       "id": "3ba03df8-2d23-81e3-80d4-e35a50837c96",
@@ -144,262 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-12",
       "link": "https://www.ithome.com/0/988/562.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-81ec-9641-f14e15e031fa",
-      "title": "IT早报 0812：豆包回应推荐酒店抽佣 12%；DeepSeek 梁文锋财富年增 3850%；3699 元起小米 REDMI K100 Pro 系列手机发布；折射手机壳被指用于偷拍涉嫌违法...",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 12 日星期三，今天的重要科技资讯有：1、豆包公关负责人刘星回应“推荐酒店抽取 12% 佣金”：说法不准确，仅在订单成交后支付渠道服务费针对网传“豆包推荐酒店抽取 12% 佣金”的说法，豆包公关负责人刘星当晚在微博回应：“豆包推荐酒店要收费了”这个说法不准确。豆包生活服务业务目前没有付费推广，豆包推荐酒店也不收取广告费，商家不能通过付费影响推荐或排序，仅在订单成交后支付渠道服务费。>> 查看详情2、DeepSeek 梁文锋财富一年暴涨 3850%，增速登顶全球亿万富豪榜DeepSeek 创始人梁文锋的净资产从 2025 年的 10 亿美元",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/561.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-81ce-903c-da48a03dcb80",
-      "title": "谷歌扩建全球网络基础设施，拟建 3 条新海底光缆",
-      "summary": "IT之家 8 月 12 日消息，谷歌昨日（8 月 11 日）发布博文，宣布将在美洲扩建全球网络基础设施，部署阿尔西西奥斯（Alisios）、卡诺亚（Canoa）与奥拉图兹（Olaluz）三套全新海底光缆系统。Alisios 海底光缆将连接多米尼加共和国、巴拿马和智利，该名称源自西班牙语“vientos alisios”，意为信风。Canoa 是一条连接多米尼加共和国和百慕大的新海底光缆系统。“Canoa”来自泰诺语中的独木舟一词，指向加勒比海和北大西洋长期形成的海洋文化。谷歌表示，Canoa 与 Nuvem、Sol 光缆结合后，将为拉丁美洲和加勒比地区通往欧洲、北美提供可靠且具备韧性的直连通道",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/560.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8127-b433-ee15832aea29",
-      "title": "微软 Xbox Elite Series 3 原型手柄谍照泄露，内置微型屏幕",
-      "summary": "IT之家 8 月 12 日消息，Reddit 上一名用户近日晒出了一组看起来非常真实的微软 Xbox 原型手柄照片，而它几乎可以确定就是传闻中的 Xbox Elite Series 3。更令人意外的是，这名用户声称自己是在 OfferUp 上花 200 美元（IT之家注：现汇率约合 1,351 元人民币）买到这款手柄的。今年 5 月，巴西监管机构泄露的图片显示，Xbox Elite Series 3 将在手柄底部边缘加入两个全新的滚轮，还将增加一种新的无线连接模式，可以直接连接 Xbox Cloud Gaming 服务器，同时加入一个新的“配对按钮”，用于在云游戏服务器和游戏主机之间切换。那么",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/559.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8101-aa7c-c07419ce8b76",
-      "title": "三星 Galaxy Tab S12+/S12 Ultra 平板曝光：天玑 9500 芯片",
-      "summary": "IT之家 8 月 12 日消息，科技媒体 SamMobile 昨日（8 月 11 日）发布博文，报道称在蓝牙技术联盟（Bluetooth SIG）官网上，发现三星 Galaxy Tab S12+ 和 Galaxy Tab S12 Ultra 两款平板踪迹。连接方面，认证页面显示三星 Galaxy Tab S12+ 和 Galaxy Tab S12 Ultra 两款平板均会推出 Wi-Fi 网络版和蜂窝网络版本。芯片方面，此前消息称三星两款平板均采用联发科天玑 9500 芯片。外观方面，整体沿用 Galaxy Tab S11 系列设计，预估不会有太大变化。屏幕方面，三星 Galaxy Tab S",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/558.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81f5-a404-e7bd00dd27d0",
-      "title": "超 653 公里 / 小时，JCB Hydromax 创下氢动力车陆地速度新纪录",
-      "summary": "IT之家 8 月 12 日消息，在以 368.347 英里 / 小时（592.797 公里 / 小时）的速度创造纪录数天后，JCB Hydromax 又在美国邦纳维尔盐滩创造了一项新的国际汽联（FIA）世界陆地速度纪录。今天凌晨，这款氢动力车型首次出场便跑出了 400.623 英里 / 小时（644.740 公里 / 小时）的平均速度。随后，赛车掉头驶向相反方向，最终跑出了惊人的 412.135 英里 / 小时（663.267 公里 / 小时）平均速度。两次成绩取平均后，JCB Hydromax 最终以 406.320 英里 / 小时（653.909 公里 / 小时）的平均速度创造了新的世界纪",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/557.htm"
-    },
-    {
-      "id": "3b903df8-2d23-813b-8e64-e82256f00274",
-      "title": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
-      "summary": "IT之家 8 月 12 日消息，OpenAI 高级主管布拉德 · 莱特卡普（Brad Lightcap）今天（8 月 12 日）在 X 平台发布推文，宣布将离职创业。IT之家查询公开资料，莱特卡普此前和 OpenAI 现任首席执行官萨姆 · 奥尔特曼（Sam Altman）在风险投资公司 Y Combinator 共事，于 2018 年加入 OpenAI 公司。莱特卡普于今年 4 月发生人事调动，从 OpenAI 首席运营官职位调任至专注于领导特殊项目。随后奥尔特曼在该推文下方评论，表示感谢莱特卡普对 OpenAI 公司的贡献：布拉德 · 莱特卡普（Brad Lightcap），图源：X 账号",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/556.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81de-b80b-c1f571aed6a5",
-      "title": "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs",
-      "summary": "IT之家 8 月 12 日消息，林俊旸（yáng）今日宣布，他在上海创办了一家新公司 Pragmatik Labs（语用科技），简称 p7k。新公司的研究方向为横跨数字世界和物理世界的下一代智能体（Agent）。公开资料显示，出生于 1993 年的林俊旸，曾是阿里最年轻的 P10 级技术专家，与智谱 AI 创始人唐杰、月之暗面（Kimi）创始人杨植麟、腾讯首席 AI 科学家姚顺雨并称为“基模四杰”。今年 3 月，林俊旸宣布从阿里巴巴离职。林俊旸还透露，高榕创投和红杉中国共同领投本轮融资，腾讯和上海未来产业基金提供支持。据 The Information 今年 6 月报道，Pragmatik L",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/555.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8188-8060-d403b0272e57",
-      "title": "Sonos Ace Ultra 高端耳机曝光：预计 9 月发布，融入 AI 能力",
-      "summary": "IT之家 8 月 12 日消息，两年前，Sonos 从无线音箱领域跨入头戴式耳机市场。如今，这家公司似乎正准备推出一款定位更高端、融入更多 AI 能力的新产品。据彭博社记者 Chris Welch 报道，Sonos 正在开发 Sonos Ace Ultra，这将是 2024 年推出的 Sonos Ace 耳机的高端升级版。当地时间周一曝光的一份美国联邦通信委员会（FCC）文件中出现了这款产品的名称，并显示 Ace Ultra 最多可能提供 5 种配色。相比之下，初代 Sonos Ace 仅提供黑色和白色两种配色。IT之家注意到，Sonos 已计划在 9 月举行新品发布活动，而此次 FCC 文件",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/554.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81e9-9015-ee100784578e",
-      "title": "官宣已 8 年：微软 XBOX 夏尔马试玩《上古卷轴 6》游戏，称叙事宏大、剧情精彩",
-      "summary": "IT之家 8 月 12 日消息，微软 XBOX 首席执行官阿莎 · 夏尔马（Asha Sharma）今天（8 月 12 日）在 X 平台发布推文，表示其试玩了《上古卷轴 6》游戏，评价称游戏叙事宏大，气势磅礴，令人叹为观止，游戏剧情更是精彩绝伦。游戏媒体 gamesradar 今天发布博文，指出本次“现场演示”具备重要意义，很可能是 Bethesda 开发团队（可能包括首席执行官 Todd Howard）向夏尔马以及其他 XBOX 高管展示游戏最新动态，但现阶段不清楚演示版本的开发进度。微软 XBOX 首席创意官马特 · 布蒂（Matt Booty）今年 6 月向粉丝表示，《上古卷轴 6》自官",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/553.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8116-b91a-f8cde5dd4ded",
-      "title": "谷歌有史以来增长最快的产品：Gemini 应用月活跃用户达 10 亿",
-      "summary": "IT之家 8 月 12 日消息，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）宣布，Gemini 应用月活跃用户达到 10 亿，是谷歌有史以来增长最快的产品，也是该公司第 14 款跨越十亿用户大关的产品。据IT之家此前报道，今年 6 月，谷歌宣布 Gemini 应用月活跃用户数超过 9 亿，为该公司当时所拥有的 13 款超 10 亿用户产品提供支持，其中包括 5 款用户量超过 30 亿的产品（谷歌搜索、Gmail 邮箱、Android 系统、Chrome 浏览器、YouTube）。相关阅读：《3.6 Flash 发布不到 1 个月，谷歌 Gemini 3.7 Flash AI ",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/552.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8132-88ea-f56af2c7732a",
-      "title": "苹果 AirPods Pro 3/2 等耳机迎来公测版固件 9A5336b",
-      "summary": "IT之家 8 月 12 日消息，苹果今天发布了 iOS 27 公测版 Beta 3，与此同时，AirPods Pro 3、AirPods Pro 2 等机型也迎来了新的测试版固件。上周，苹果已经向开发者推送了适用于部分 AirPods 机型的新固件。该测试版固件的版本号为 9A5336b，最初仅面向开发者测试版用户开放。今日，同一版本的固件现已开始向公测版用户推送。IT之家注意到，此次获得新测试版固件的 AirPods 机型包括：AirPods Pro 3AirPods Pro 2AirPods 4AirPods Max 2简单来说，只有搭载 H2 芯片的 AirPods 才能支持最新的测试版",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/551.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8162-bdb0-ea2e282f2f0b",
-      "title": "苹果首款折叠 iPhone 名称爆料，公司内部均称其为“Ultra”",
-      "summary": "IT之家 8 月 12 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（8 月 11 日）发布博文，爆料称在苹果公司内部，对于苹果公司即将推出的首款折叠手机，“几乎所有人”都称其为 iPhone Ultra。科技分析师与行业评论员 Max Weinbach 昨日在 X 平台发布推文，不认为苹果首款折叠手机会叫 iPhone Ultra。古尔曼随后转发该条推文，并表示：“苹果内部几乎所有人都称其为 [iPhone]Ultra，让我们拭目以待”。科技媒体 9to5Mac 指出，对于苹果首款折叠手机，最初爆料信息称其为 iPhone Fold，不过近期多条线索表明该机上市后会叫 iP",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/550.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8105-9797-c462e549182f",
-      "title": "消息称苹果考虑竞购高尔夫英国公开赛美国市场转播权",
-      "summary": "IT之家 8 月 12 日消息，据英国《卫报》报道，苹果正在与相关方面洽谈，考虑竞购高尔夫四大男子大满贯赛事之一、英国公开赛（The Open Championship）在美国市场的转播权。Netflix 和亚马逊预计也对这项转播权感兴趣。据IT之家了解，英国公开赛于 1860 年首次在苏格兰举行，是高尔夫四大男子大满贯赛事中历史最悠久的一项，由英国皇家古老高尔夫俱乐部（R&A）负责运营。美国有时会将其称为“英国公开赛”（British Open），以区别于每年举办的另一项大满贯赛事美国公开赛（U.S. Open）。2017 年，NBC 在竞标中击败 ESPN，签下了一份为期 12 年的英国公",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/549.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8118-9332-e69e39b49e39",
-      "title": "苹果请求暂缓 App Store 佣金审理被驳回，法院限 24 小时提交方案",
-      "summary": "IT之家 8 月 12 日消息，Epic Games CEO 蒂姆 · 斯威尼表示，法官 Yvonne Gonzalez Rogers 已驳回苹果暂停 App Store 费用相关诉讼程序的请求。苹果此前希望在美国最高法院审理其藐视法庭裁决期间，暂缓下级法院的相关程序。上个月，苹果向法院提交动议，希望暂停相关诉讼程序。这起诉讼将决定苹果针对 App Store 之外完成的购买交易，可以收取多少佣金，以及是否可以收取佣金。IT之家注意到，这也是 Epic Games 与苹果持续多年的诉讼的一部分。此前，Rogers 法官裁定苹果藐视法庭，因为在法院要求苹果允许开发者引导用户使用其他支付方式后，苹",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/547.htm"
-    },
-    {
-      "id": "3b903df8-2d23-819a-9495-e49351314462",
-      "title": "苹果 2026 返校季活动延长至 9 月 24 日：中国大陆用户买 Mac / iPad 送 AirTags",
-      "summary": "IT之家 8 月 12 日消息，苹果 2026 年返校促销活动于 7 月 16 日开始，原定结束日期为 8 月 27 日，现已延长至 9 月 24 日。IT之家从苹果官网获悉，为教育目的，有资格从 Apple Store 教育商店购买之人包括如下教师、员工、学生及父母（均为“有资格的购买人”）：幼儿园、小学和中学 — 中国大陆的公立或私立幼儿园、小学或中学的任何雇员。高等教育机构 — 中国大陆高校（即指公立或私立大学及专科院校）的教职工，以及在中国大陆高校就读或已被录取的学生。高等教育机构学生的父母 — 代表目前在中国大陆高校就读或已被录取的子女进行购买的父母。限时特惠期间，以教育优惠入手 M",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/548.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81f7-842a-c8010b670ba2",
-      "title": "Claude's watermarking poses the question: Are you willing to proudly own that you write with AI?",
-      "summary": "The rise of AI watermarking makes me wonder: aside from students and creative writers, how much do people care if their AI use is outed?",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/claude-watermarking-ai-writing-unmasking-2026-8"
-    },
-    {
-      "id": "3b903df8-2d23-8166-aa79-ffdeda356b36",
-      "title": "效力超 25 年，消息称苹果 Apple Pay 负责人贝利 10 月退休",
-      "summary": "IT之家 8 月 12 日消息，彭博社昨日（8 月 11 日）报道称，负责 Apple Pay（苹果支付）和 Apple Wallet（苹果钱包）的苹果副总裁詹妮弗 · 贝利（Jennifer Bailey）将于 10 月退休。IT之家援引博文介绍，贝利效力苹果公司超过 25 年，于 2000 年代初期加入苹果公司，2003 年起负责 Apple Online Store 团队，2014 年出任 Apple Pay 副总裁，并推动 Apple Pay 服务 2014 年上线。在彭博社披露的一份内部备忘录中，苹果服务业务负责人埃迪 · 库（Eddy Cue）宣布这项人事变动。Cue 在备忘录中称",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/546.htm"
-    },
-    {
-      "id": "3b903df8-2d23-815c-9d83-f2060029827a",
-      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
-      "summary": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a Brazilian regulator's leaked",
-      "source": "The Verge",
-      "publishTime": "2026-08-12",
-      "link": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen"
-    },
-    {
-      "id": "3b903df8-2d23-8132-9cfe-f1a0c8a6961a",
-      "title": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market",
-      "summary": "CNBC’s Jim Cramer said investors can quickly gauge the market by focusing on three things: bonds, oil and Nvidia.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-12",
-      "link": "https://www.cnbc.com/2026/08/11/cramer-questions-figure-out-market.html"
-    },
-    {
-      "id": "3b903df8-2d23-81ef-9308-dd4cf512eb63",
-      "title": "DoorDash is set to become a Nevada-incorporated company.",
-      "summary": "DoorDash plans to move its incorporation to Nevada, leaving Delaware. Shareholders and cofounders back the strategic legal shift.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/doordash-moves-incorporation-delaware-nevada-2026-8"
-    },
-    {
-      "id": "3b903df8-2d23-816f-aed9-f984687211a6",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
-    },
-    {
-      "id": "3b903df8-2d23-81e1-b6c1-c3b911a0fb77",
-      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/"
-    },
-    {
-      "id": "3b903df8-2d23-81f8-a9db-d6a87d4541a4",
-      "title": "Bumble is losing its Bumble-ness",
-      "summary": "Bumble's new changes make it look quite similar to Tinder. Without its distinctive features, the app may lose its edge.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/bumble-tinder-similarities-losing-edge-2026-8"
-    },
-    {
-      "id": "3b903df8-2d23-81a8-8234-d63f9e2f7eee",
-      "title": "An FCC filing points to new Sonos headphones coming soon",
-      "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with the model number S52A",
-      "source": "The Verge",
-      "publishTime": "2026-08-12",
-      "link": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing"
-    },
-    {
-      "id": "3b903df8-2d23-813e-b2f8-ee8cf0983b50",
-      "title": "Airlines and charter companies are selling front-row seats to the solar eclipse for up to $1,200",
-      "summary": "Some people will get a bird's-eye view of Wednesday's solar eclipse from aboard special flights.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/airlines-private-jets-flying-special-solar-eclipse-flights-2026-8"
-    },
-    {
-      "id": "3b903df8-2d23-8129-ac25-fb1c152782dc",
-      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-      "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-12",
-      "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html"
-    },
-    {
-      "id": "3b903df8-2d23-8183-82e0-e48364d88cc7",
-      "title": "CoreWeave stock pops 12% as revenue doubles on accelerating AI infrastructure demand",
-      "summary": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-12",
-      "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html"
-    },
-    {
-      "id": "3b903df8-2d23-8191-9424-c08cd610cfc9",
-      "title": "Lumentum 2026 财年年报归母亏损 69.35 亿美元，同比由盈转亏",
-      "summary": "IT之家 8 月 12 日消息，Lumentum今日发布 2026 财年（2025 年 7 月 1 日～2026 年 6 月 27 日）年报及第四财季（2026 年 3 月 29 日～2026 年 6 月 27 日）报告： 2026 财年年报 营业总收入：30.14 亿美元（IT之家注：现汇率约合 203.61 亿元人民币），同比增长 83.2% 毛利润：12.56 亿美元（现汇率约合 84.84 亿元人民币），同比增长 173.08% 毛利率：41.7% 归母净利润：-69.35 亿美元（现汇率约合 -468.49 亿元人民币），同比由盈转亏 基本每股收益：-92.96 美元（现汇率约合 -",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/545.htm"
-    },
-    {
-      "id": "3b903df8-2d23-8100-bc56-f2a00712bba3",
-      "title": "Is It Safe to Eat Lettuce Yet?",
-      "summary": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
-      "source": "Wired",
-      "publishTime": "2026-08-12",
-      "link": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/"
-    },
-    {
-      "id": "3b903df8-2d23-815d-8282-e7a23e3f2b0d",
-      "title": "AI 云服务巨头 CoreWeave 2026 财年第二财季营收 25.75 亿美元，同比增长 112.46%",
-      "summary": "IT之家 8 月 12 日消息，AI 云服务巨头 CoreWeave 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）及第二财季（2026 年 4 月～2026 年 6 月）报告：2026 财年半年报营业总收入：46.53 亿美元（IT之家注：现汇率约合 314.33 亿元人民币），同比增长 112.08%毛利润：30.58 亿美元（现汇率约合 206.58 亿元人民币），同比增长 88.88%毛利率：65.73%，同比下降 8.06 个百分点归母净利润：-13.66 亿美元（现汇率约合 -92.28 亿元人民币），同",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/544.htm"
-    },
-    {
-      "id": "3b903df8-2d23-81a7-8fe2-fd7ce588c20b",
-      "title": "Miami is more expensive than New York. It's a bad sign for the city's economy.",
-      "summary": "As Miami's cost of living continues to increase, residents are relocating in a move that may hurt the coastal city's economy.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/miami-more-expensive-than-new-york-city-bad-for-economy-2026-8"
-    },
-    {
-      "id": "3b903df8-2d23-81fe-a7b7-ec6162a399fb",
-      "title": "Oracle has drawn up plans for a new round of layoffs this month, sources say",
-      "summary": "The potential layoffs reduce Oracle's payroll as it racks up billions in debt to fund AI infrastructure.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/oracle-is-planning-another-round-of-job-cuts-this-month-2026-8"
     }
   ],
   "macroEvents": [
