@@ -1,6 +1,350 @@
 {
-  "updatedAt": "2026-08-12 21:54",
+  "updatedAt": "2026-08-12 23:28",
   "news": [
+    {
+      "id": "3ba03df8-2d23-8148-a725-caaf8f3777c9",
+      "title": "Google’s Quick Share adds a tap-to-share mode",
+      "summary": "Google's Quick Share feature is getting a tap-to-share mode for quickly exchanging contacts, photos, videos, and more.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-12",
+      "link": "https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/"
+    },
+    {
+      "id": "3ba03df8-2d23-8192-9ca8-dd9723005b8c",
+      "title": "谷歌首款追踪器 Pixel Tag 发布：UWB 超宽带 + 防尘防水 + 可更换电池",
+      "summary": "IT之家 8 月 12 日消息，北京时间今天（12 日）晚间，谷歌推出旗下首款 Android 物品追踪器 Pixel Tag。Pixel Tag 支持超宽带（UWB）精确查找，具备防尘防水能力，同时采用用户可自行更换的电池。Pixel Tag 仅提供 Fog 一种配色，正面为金属材质，背部则采用聚碳酸酯外壳。机身尺寸为 28×46.1×5.4 毫米，含电池重量 11.8 克，不含电池时为 8.8 克。正面带有谷歌 G 标志，标志下方还设有一个小型扬声器。Pixel Tag 背面的塑料外壳设有电池仓盖，使用可由用户自行更换的 CR2032 纽扣电池。一枚电池可以使用超过一年，之后才需要更换。P",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/988.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8167-b524-ee248394a057",
+      "title": "全球首款机器人手机荣耀 Robot Phone 正式发布，天马宣布独家供屏",
+      "summary": "IT之家 8 月 12 日消息，在今晚的荣耀 Robot Phone 全球新品发布会上，全球首款机器人手机 —— 荣耀 Robot Phone 正式发布，定价 9999 元起。天马微电子宣布，为本款机型独家供应屏幕，深度定制天马天工屏高端 OLED 显示方案。天马表示，这是天工屏首次应用于具备具身交互能力的 AI 终端，适配机器人手机的创作、随行交互等场景。据介绍，荣耀 Robot Phone 手机配备一块 6.31 英寸 1.5K OLED 直屏，屏幕分辨率 2640×1216，支持 P3 影院级广色域与专业色彩校准；峰值亮度可达 6800nits，支持 1‑120Hz LTPO 自适应刷新",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/986.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8111-a6a3-d20e0a10c4af",
+      "title": "Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies",
+      "summary": "The company is also adding blood pressure and insulin resistance trends as proactive monitoring tools in the Google Health app.",
+      "source": "Wired",
+      "publishTime": "2026-08-12",
+      "link": "https://www.wired.com/story/googles-pixel-watch-5-can-now-detect-breathing-emergencies/"
+    },
+    {
+      "id": "3ba03df8-2d23-81a5-869f-fa473231961f",
+      "title": "谷歌 Pixel 11 系列正式发布：全系 256GB 起步 899 美元起，8 月 20 日开售",
+      "summary": "IT之家 8 月 12 日消息，谷歌正式发布了 Pixel 11 系列手机等一系列产品，包括 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 以及 Pixel 11 Pro Fold。该系列即日起开启预购，将于 8 月 20 日正式开售。谷歌 Pixel 11 系列搭载自研 Tensor G6 芯片。相较上一代 Tensor G5，Tensor G6 网页浏览速度提升 25%，应用启动速度提升 15%，并运行最新的 Gemini Nano 模型。谷歌 Pixel 11 系列全系标配 256GB 存储起步。Pixel 11、Pixel 11 Pro 和 Pixel 1",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/985.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81a4-a679-e53167968348",
+      "title": "英特尔 Nova Lake 缓存策略调整：部分型号削减 E 核但仍保留完整 L3 缓存",
+      "summary": "IT之家 8 月 12 日消息，爆料者 Jaykihn 修正了此前关于“Nova Lake 在禁用一个 E 核集群后 L3 缓存也会减少”的说法。最新消息显示，部分 CPU 型号在缩减 E 核数量的同时仍可能保留完整的 L3 缓存。不过，6P+12E+4LP E 的 sku 配置确认会受影响，其 L3 缓存预计为 27MB。他此前提到，部分 Nova Lake 处理器在禁用一个 E 核集群后，L3 缓存也会随之减少。例如 8P+16E+4LP E 配置拥有完整的 36MB 缓存，而次级 8P+12E+4LP E 配置只拥有 33MB 缓存。Jaykihn 最新修正称，8P+12E+4LP E ",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/984.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81ce-87b8-c5004d67883d",
+      "title": "5499 → 3466 元：小米 · 米家巨省电 Pro 大 3 匹空调远低 618，配大双排冷凝器",
+      "summary": "小米旗下“米家空调巨省电 Pro 柔风版立式大 3 匹”现已在京东开售今年 3 月开售，定价为 5499 元。小米空调目前支持官方 10 年包修服务，小伙伴们可任选渠道下单：京东旗舰店今日京东旗舰店直降至 3660 元，晒单后返 100 元，折合仅需 3560 元刚需好价：下单时需选择“以旧换新” → 个护健康 → 普通牙刷：京东小米 米家大 3 匹双排空调巨省电 Pro 十年免费包修以旧换新 3660 元领 9 折券京东自营京东自营现售 4999 元，26 日 20:00 叠加 8.15 折券后，仅需 3466 元，更是好价：先领 8.15 折京东平台券：点此领券京东小米 米家大 3 匹双排",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/983.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8164-a2c2-c2e8d650d10f",
+      "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+      "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
+      "source": "Wired",
+      "publishTime": "2026-08-12",
+      "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/"
+    },
+    {
+      "id": "3ba03df8-2d23-8109-a3f7-c43f8ef2013d",
+      "title": "Google Pixel 11 Series, Pixel Watch 5, Pixel Tag: Specs, Features, Price, Release Date",
+      "summary": "The Pixel 11 smartphone lineup is here, alongside the Pixel Watch 5 and the all-new Pixel Tag.",
+      "source": "Wired",
+      "publishTime": "2026-08-12",
+      "link": "https://www.wired.com/story/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/"
+    },
+    {
+      "id": "3ba03df8-2d23-81c3-87bb-d24804dd26f9",
+      "title": "Anthropic leads the AI race at work. Its priciest model is another story.",
+      "summary": "Although OpenAI trails Anthropic in business adoption, it won a moneymaking battle in July with its most advanced model, GPT-5.6 Sol.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-12",
+      "link": "https://www.businessinsider.com/anthropic-fable-5-openai-gpt-5-6-sol-ramp-2026-8"
+    },
+    {
+      "id": "3ba03df8-2d23-8119-bd3d-fab60eec2fee",
+      "title": "The Pixel Tag is Google’s answer to the AirTag",
+      "summary": "More than two years after launching its own device-tracking network, Google has finally followed up with its own tracker. The Pixel Tag, which goes on sale in November, looks like one of the more capable trackers too: It combines ultra wideband (UWB) with Bluetooth 6.0 Channel Sounding for two disti",
+      "source": "The Verge",
+      "publishTime": "2026-08-12",
+      "link": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news"
+    },
+    {
+      "id": "3ba03df8-2d23-813a-afeb-f53b1c5d0f33",
+      "title": "Android now has a tap-to-share feature",
+      "summary": "Android's AirDrop-like Quick Share feature will now let some devices exchange files and contact information when tapped together. The update is coming to Pixel 6 series phones and newer starting today, according to Google's announcement, and will roll out to Samsung's Galaxy Z Fold 8 Ultra, Fold 8, ",
+      "source": "The Verge",
+      "publishTime": "2026-08-12",
+      "link": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung"
+    },
+    {
+      "id": "3ba03df8-2d23-818f-af2f-d53738bdebd6",
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, ",
+      "source": "The Verge",
+      "publishTime": "2026-08-12",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch"
+    },
+    {
+      "id": "3ba03df8-2d23-8197-8a7d-fa62d610d78d",
+      "title": "Google is making the Pixel cameras better by making them worse",
+      "summary": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free. If the physical limitations of a tiny camera are what you're trying to solve for, you",
+      "source": "The Verge",
+      "publishTime": "2026-08-12",
+      "link": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography"
+    },
+    {
+      "id": "3ba03df8-2d23-814d-8a74-e074ec9d4962",
+      "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+      "summary": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's signature camera bar and bright, colorful backing glass. There are small updates, ",
+      "source": "The Verge",
+      "publishTime": "2026-08-12",
+      "link": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software"
+    },
+    {
+      "id": "3ba03df8-2d23-81dd-be43-e18b8a053753",
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-12",
+      "link": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html"
+    },
+    {
+      "id": "3ba03df8-2d23-8192-aa4d-c9908403e960",
+      "title": "Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens",
+      "summary": "The Pixel 11 Pro Fold will cost $1,899",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-12",
+      "link": "https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/"
+    },
+    {
+      "id": "3ba03df8-2d23-8117-9175-ee4525828d31",
+      "title": "Google takes on AirTag with the new $29 Pixel Tag",
+      "summary": "Google’s new Pixel Tag taps into its Find Hub network to help users track lost keys, bags, and other items.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-12",
+      "link": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/"
+    },
+    {
+      "id": "3ba03df8-2d23-81b2-8649-cfb1435ce602",
+      "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
+      "summary": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-12",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/"
+    },
+    {
+      "id": "3ba03df8-2d23-815e-ab19-d131ebd3aedc",
+      "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
+      "summary": "Google Pixel 11 Series starts $100 costlier than the last year, but offers 256GB base storage",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-12",
+      "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/"
+    },
+    {
+      "id": "3ba03df8-2d23-81c8-8551-c802f85def76",
+      "title": "鸿蒙智行享界品牌首款 MPV，享界 V8 将亮相 2026 成都车展",
+      "summary": "IT之家 8 月 12 日消息，据易车今天（12 日）晚间报道，鸿蒙智行享界 V8 将于成都车展正式亮相。新车为享界品牌首款 MPV，将提供纯电、增程两种动力。据IT之家此前报道，鸿蒙智行享界 V8 已现身第 409 批《道路机动车辆生产企业及产品公告》新产品公示。该车定位纯电动多用途乘用车 / 插电式增程混合动力多用途乘用车，提供 5 种版本可选，均为 7 座布局，车身轴距均为 3250 mm，长宽高根据版本区别在 5335 * 2005 * (1805 / 1825) mm 之间。此外，根据博主 @爱叨叨的Steven 曝光的实车谍照，除了上图的黑、银灰配色外，享界 V8 还将提供“寰宇红",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/982.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8188-a328-e8f8ee3ff6c2",
+      "title": "我国三代核电迎来重大突破，全球首台国产 CAP1000 50Hz 屏蔽电机主泵顺利完工",
+      "summary": "IT之家 8 月 12 日消息，哈电集团今日宣布，全球首台国产 CAP1000 50Hz 屏蔽电机主泵近日顺利完工、整装待发，标志着我国三代核电核心装备自主化、国产化攻坚取得了标志性重大突破。据介绍，作为我国三代核电自主创新、产业链提档升级的重要示范工程，广东廉江核电一期工程规划建设 2 台单机容量 125 万千瓦国产化 CAP1000 三代非能动压水堆机组，依托自主 CAP1000 三代非能动核电技术，并创新采用海水二次循环冷却方案。IT之家注意到，哈电集团为该主泵提供了屏蔽电机，该工程屏蔽电机是哈电集团动装公司继 CAP1000 60Hz、CAP1400 两款屏蔽电机后，全新迭代研制出的新",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/981.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-816e-b8d9-d9eb634ee21c",
+      "title": "我国攻克锂云母提锂多项技术难题：首创熔盐置换焙烧实现工业化，已在江西多个项目应用",
+      "summary": "IT之家 8 月 12 日消息，据科技日报今日报道，由中铝国际长沙有色冶金设计研究院有限公司牵头完成的“锂云母高效提锂技术与装备研发及应用”项目取得重大突破。该项目成功攻克了我国锂云母提锂长期面临的设备腐蚀、回转窑结圈、回收率低等重大技术难题，并已实现大规模工业化生产。锂云母矿成分复杂、锂品位低，且含有氟等多种杂质元素，冶炼难度极高。项目总设计师陈玉萍介绍，团队经过多年攻关，首创了锂云母熔盐置换焙烧技术，从源头解决了设备腐蚀和窑炉结圈这两大顽疾，大幅提升了锂的回收率。除了核心的提锂技术，该项目还实现了一系列工艺创新与突破：综合回收：创新开发了从浸出液中回收钾、铷等有价金属的技术，实现了硫酸盐的",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/980.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8129-a344-e892791b1676",
+      "title": "Jaguar offers a first look inside the all-electric Type 01",
+      "summary": "Jaguar's all-electric Type 01 comes with a very beige interior that divides the four seats with a \"spine\" that spans the length of the cabin. New photos shared by Jaguar show a low-slung driver's seat, alongside a slim dashboard with a smartphone-style display in the center. This vehicle doesn't com",
+      "source": "The Verge",
+      "publishTime": "2026-08-12",
+      "link": "https://www.theverge.com/transportation/978793/jaguar-type-01-interior"
+    },
+    {
+      "id": "3ba03df8-2d23-814b-a7d1-e73f388a1448",
+      "title": "铠侠与闪迪发布第九代 2Tb QLC 3D 闪存，接口速度达 4.8Gb/s 提升 33%",
+      "summary": "IT之家 8 月 12 日消息，铠侠与闪迪今日共同宣布，推出第九代高性能 2Tb QLC 3D 闪存。该技术面向 AI 基础设施及数据密集型应用场景，旨在应对 AI 工作负载带来的存储需求增长。第九代 QLC 技术采用了两家公司的 CMOS 直接键合阵列（CBA）架构，将先进 CMOS 晶圆与成熟的存储单元阵列平台相结合。与前代第八代 2Tb QLC 产品相比，新技术引入了 6 平面架构及多项性能增强设计，实现了更高的写入与读取带宽，同时改善了读写功耗效率。IT之家从官方新闻稿获悉，其 NAND 接口速度达到 4.8Gb/s，较第八代器件提升了 33%。铠侠首席技术官宫岛英史表示，随着 AI ",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/979.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8166-a296-df55bf5cc71a",
+      "title": "Take a look inside Helen Mirren's $13 million Los Angeles mansion, first built for a silent film star 116 years ago",
+      "summary": "Helen Mirren listed her historic Hollywood Hills estate for nearly $13 million. The 6.5-acre property features a pool, guesthouse, and stunning views.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-12",
+      "link": "https://www.businessinsider.com/helen-mirrens-hollywood-hills-estate-2026-8"
+    },
+    {
+      "id": "3ba03df8-2d23-81c0-9fa8-d71d79119eb1",
+      "title": "iQOO Z11S 手机官宣搭载 144Hz 护眼电竞屏，支持 2000nits 全屏最大亮度",
+      "summary": "IT之家 8 月 12 日消息，iQOO 手机官方今日宣布，iQOO Z11S 手机将搭载 144Hz 护眼电竞屏。据介绍，iQOO Z11S 手机的这块 144Hz 护眼电竞屏支持 2000nits 全屏最大亮度、全亮度类 DC 调光，并获得了瑞士 SGS 认证。IT之家注意到，这款手机还会搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池，采用单电芯设计，由宁德新能源联合研发。根据规划，iQOO Z11S 手机将于 8 月 18 日 19:00 发布并开售。",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/978.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8165-9685-f9a765cac775",
+      "title": "腾讯总裁刘炽平：微信将成为以 AI 为先的生态系统，未来能转化为巨大价值",
+      "summary": "IT之家 8 月 12 日消息，在今天（12 日）晚间的腾讯 2026Q2 财报业绩电话会上，腾讯总裁刘炽平谈及二季度微信 AI“小微”灰测的反馈。刘炽平认为，AI 可以让微信变得更加智能化，能够帮助用户进行交易、探索内容以及管理日常生活。“在 PC 时代，QQ 主要是一个通信和社交工具，到了移动互联网时代，微信又将 QQ 的价值放大了 10 倍以上。而到了 AI 时代，随着时间的推移，微信将成为以 AI 为先的生态系统。用户给出一个指令，系统就自行执行。”刘炽平表示，如果腾讯能够在控制成本的同时提供这种体验，并且满足用户隐私需求、成本效益，就能为微信赋予强大的能力。“未来微信的生态系统将会扩",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/977.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8143-a19e-df3a3b8fe1de",
+      "title": "索尼官宣《绝地潜兵 2》加入 PS+ 二三档会员游戏库，大型更新同步上线",
+      "summary": "IT之家 8 月 12 日消息，索尼今日宣布，《绝地潜兵 2》即日起全球同步加入 PlayStation Plus Extra（二档）与 Premium（三档）游戏目录，包括英、美、日等所有地区。索尼按计划将于今日晚些时候正式公布 2026 年 8 月份 PS Plus Extra 与 Premium 档位的完整入库游戏清单。此次《绝地潜兵 2》提前入库，属于官方提前释出的福利内容。《绝地潜兵 2》是一款由 Arrowhead Game Studios 开发、索尼互动娱乐发行的第三人称合作射击游戏，于 2024 年 2 月 8 日登陆 PS5 和 PC 平台。游戏以“超级地球”为背景，玩家扮演",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/976.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81d6-90ad-c56b25bef67a",
+      "title": "马斯克：大概再过四五年，AI 将占到 SpaceX 价值的 99%",
+      "summary": "IT之家 8 月 12 日消息，SpaceX 创始人兼 CEO 埃隆 · 马斯克在公司 8 月 11 日发布于 X 的员工讲话中称：“我们的 AI 收入可能到 9 月，也就是下个月，就会超过 SpaceX 其他所有业务收入的总和，第四季度还会大幅超过其他业务收入。所以，AI 已经成为 SpaceX 未来极其重要的一部分。”今年早些时候，SpaceX 收购了马斯克 2023 年创立的初创公司 xAI。不过，收购 xAI 只是 SpaceX 进军 AI 的开端。马斯克此次放出豪言：“大概再过四五年，AI 会占到 SpaceX 价值的 99%；五年后肯定会达到这个水平。到时候 SpaceX 的价值将",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/975.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81da-9c56-d4b1099c675c",
+      "title": "Brendan Carr is one firing away from an unchecked FCC",
+      "summary": "President Donald Trump already holds a Republican majority in the agency tasked with regulating America's communications systems. But with a new nomination to the Federal Communications Commission, he could move to shut out opposing voices altogether - albeit at a legal risk. The FCC is currently co",
+      "source": "The Verge",
+      "publishTime": "2026-08-12",
+      "link": "https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum"
+    },
+    {
+      "id": "3ba03df8-2d23-8133-9df7-d5255a240cce",
+      "title": "五菱星光 730 官宣今年 1-7 月累销超 4 万台，居自主品牌 MPV 销量第一",
+      "summary": "IT之家 8 月 12 日消息，五菱银标今日宣布，星光 730 大七座 MPV 今年 1-7 月累销超 4 万台，居自主品牌 MPV 销量第一。IT之家注意到，该车于 2025 年 11 月上市，首发共推出四款车型配置：插混 125km 豪华型、纯电 500km 豪华型、燃油 1.5T CVT 精英型、燃油 1.5T 6MT 舒适型，售价为 7.30 万-10.98 万元、置换补贴价 7.10-10.58 万元。该车提供烟霞灰、银霜白、耀石黑、暮山紫车色，车身采用巴斯夫 2K 清漆 + 8 层工艺打造。星光 730 整车长宽高分别为 4910*1850*1770mm，拥有 2910mm 轴距，",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/970.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8175-acc0-f0f946764aff",
+      "title": "腾讯：预计今年底至明年初 GPU 资源将更加充足，从而进一步提升云服务能力",
+      "summary": "IT之家 8 月 12 日消息，腾讯今日发布了 2026 年第二季度财报。腾讯高管在业绩会上表示，腾讯云正持续推进算力布局，预计今年底至明年初 GPU 资源将更加充足，从而进一步提升云服务能力。腾讯表示，公司正关注 GPU 算力、模型即服务（MaaS）等业务机会，将统筹调配算力资源，兼顾内部模型开发与对外出租需求。腾讯高管在业绩会上表示，将持续加大算力投资，算力资源将进一步兼顾内部模型构建、对外出租。公司将提升资本开支规模，对应股票回购的现金流或相应减少。其强调，本轮 AI 原生业务投入以一次性为主，今年底至明年初仍将持续，但未来不会持续维持高投入规模。腾讯 2026 年第二季度财报显示，公司",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/969.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81d0-9ea7-d1a7e449b1f6",
+      "title": "'History is repeating': Michael Burry says it's time to read about Enron",
+      "summary": "Michael Burry of \"The Big Short\" fame recommended \"The Smartest Guys in the Room\" as he sees parallels between Enron's rise and fall and the AI boom.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-12",
+      "link": "https://www.businessinsider.com/michael-burry-big-short-enron-fraud-book-ai-stocks-investing-2026-8"
+    },
+    {
+      "id": "3ba03df8-2d23-8119-81a7-e297a6b9c650",
+      "title": "荣耀宣布出战第二届世界人形机器人运动会，自研机器人曾包揽半马前六",
+      "summary": "IT之家 8 月 12 日消息，在今晚的发布会上，荣耀宣布将参与第二届世界人形机器人运动会。该赛事将于 8 月 22 日至 26 日在北京国家速滑馆“冰丝带”举办。第二届世界人形机器人运动会由北京市人民政府和中央广播电视总台等联合主办。赛事共设 50 个赛项，涵盖 29 项竞技赛和 21 项场景赛。IT之家注意到，竞技赛包括百米自主竞速、人机对抗搏击、乒乓球精密对打、力量举重、多机足球联赛等项目。场景赛则覆盖居家服务、工业制造、应急抢险等多元场景，检验机器人在真实环境下的综合能力。本届赛事还将首次增设拔河项目，考验机器人的运动控制、力觉感知与多机协同能力。在今年 4 月 19 日举行的 202",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/968.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81ac-93ad-dded51fef8fe",
+      "title": "季末就是香：小米 1.5 匹巨省电 N1A1 空调 1158 元官方直降",
+      "summary": "【活动随时可能变更，需以实付尾款为准。】小米・米家空调巨省电 1.5 匹 KFR-35GW / N1A1（APF 5.27 款）日常售价 1688 元，今日京东目前系统显示可用 8.15 折京东券，叠加 15% 国补后，8 月 13 日 20:00 券后实付 1169 元。先领 8.15 折京东平台券：点此领券京东小米 1.5 匹巨省电空调先领 8.15 折券券后预估 1169 元点此查看8.15 折京东平台券图示如下，限时抢哦：小米官方同款现售 1688 元：点此查看。支持整机 10 年免费包修，安装时支持数字抽真空。小米米家空调巨省电 1.5 匹符合国家新一级能效标准，对比新三级能效，全年",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/967.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8101-a68a-eede580e46d8",
+      "title": "富士康对苹果业务营收依赖下降：智能消费电子占比降至 29%，AI 服务器首次突破 50%",
+      "summary": "IT之家 8 月 12 日消息，富士康母公司鸿海精密 2026 年第二季度的业务结构出现明显变化，云与网络产品首次占据公司季度营收的一半以上，达到 51%；包括 iPhone 在内的智能消费电子产品占比则降至 29%。富士康此前长期是苹果最大的 iPhone 代工合作伙伴，而且过去相当大比例的营收来自苹果相关业务。其郑州工厂规模庞大，曾承担全球约 80% 的 iPhone 生产。不过，随着富士康近年来持续扩大 AI 服务器等业务，智能消费电子在整体营收中的占比不断下降。IT之家提醒：这并不意味着 iPhone 相关业务规模下降，而是 AI 服务器等云与网络产品业务增长更快。富士康 2026 年",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/966.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-81ce-82b5-d8a2f266540c",
+      "title": "I made Ree Drummond's simple butternut squash mac and cheese. One surprising ingredient made it especially flavorful.",
+      "summary": "The Pioneer Woman's butternut squash mac and cheese was surprisingly easy to make.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-12",
+      "link": "https://www.businessinsider.com/ree-drummond-easy-butternut-squash-mac-and-cheese-review-photos"
+    },
+    {
+      "id": "3ba03df8-2d23-81bf-b299-e613a2815fdf",
+      "title": "荣耀罗巍：Robot Phone 手机预定超过 40 万台",
+      "summary": "IT之家 8 月 12 日消息，在今晚的荣耀 Robot Phone 全球新品发布会上，全球首款机器人手机 —— 荣耀 Robot Phone 正式发布，定价 9,999 元起。12GB+512GB：9,999 元16GB+1TB：12,999 元京东荣耀 Robot Phone9999 元起直达链接IT之家注意到，荣耀首席影像工程师罗巍透露，Robot Phone 手机预定超过 40 万台。他直言：“再不下手估计买不到了。”IT之家从荣耀发布会了解到，Robot Phone 是荣耀与顶级电影摄影机厂商 ARRI（阿莱）合作的首款落地产品，融合了荣耀的移动影像以及 ARRI 百年底蕴的电影摄影",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/965.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-8198-9cad-cc2e17176501",
+      "title": "Insta360’s next 360-degree action cam puts bigger sensors in a smaller design",
+      "summary": "Insta360 announced the next iteration of its popular 360-degree action cameras that have helped the company expand its offerings. The new X6 introduces a design that's smaller than last year's X5 and X4 Air but with improved video capabilities thanks to an even larger pair of custom 1/1.1-inch squar",
+      "source": "The Verge",
+      "publishTime": "2026-08-12",
+      "link": "https://www.theverge.com/tech/978211/insta360-x6-360-degree-action-camera-8k-price-availability"
+    },
+    {
+      "id": "3ba03df8-2d23-8105-95ea-dfddc8338011",
+      "title": "荣耀 Magic9 系列手机开启预约，今年 9 月正式发布",
+      "summary": "IT之家 8 月 12 日消息，在今晚的荣耀 Robot Phone 全球新品发布会上，全球首款机器人手机 —— 荣耀 Robot Phone 正式发布，定价 9999 元起。IT之家注意到，荣耀终端股份有限公司 CEO 李健宣布，Magic9 系列手机今日开启预约，将在今年 9 月正式发布。值得一提的是，系列新机外观今日首曝。从发布会现场公布的 PPT 可以看到 Magic9 系列手机外观的镜头部分：后置大圆镜头模组，并印有阿莱联名标签 LOGO。",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/963.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-818b-bf40-cbcd6a2520aa",
+      "title": "奇瑞执行副总裁李学用谈“造车慢”：汽车不是快消品，有些时间真的不敢省",
+      "summary": "IT之家 8 月 12 日消息，在今天（12 日）晚间的奇瑞风云 T7 发布会上，奇瑞汽车股份有限公司执行副总裁李学用透露，作为一款全球纯电 SUV，风云 T7 历经两年策划、三年研发，全球车“快不了一点”，需要慢工出细活。而在两天前，李学用在微博上坦言自己听到过并承认不少人吐槽的“奇瑞造车慢”。他表示，这款车走（IT之家注：此次或指从立项到问世）了四年，确实“不合群”。然而，奇瑞有自己心里对于“快”和“慢”的定义，汽车不是快消品，它关系到的是千万家庭的安全，扛的是全球不同路况、气候、习惯的考验。“有些时间，我们真的不敢省。”李学用透露，风云 T7 这四年，花在了三个“不能快”的地方 —— 研",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/964.htm"
+    },
+    {
+      "id": "3ba03df8-2d23-813d-a214-ef93f47dadf7",
+      "title": "抖音集团副总裁李亮：网暴治理最难处理的是披着玩笑、调侃和玩梗外衣，持续指向某个人的伤害",
+      "summary": "IT之家 8 月 12 日消息，抖音在 7 月 28 日举办了“戏谑的边界与伤害”—— 玩梗式网暴案例研讨会，来自法学、心理学、精神医学、新闻传播等领域的多位专家学者齐聚一堂，围绕玩梗式网络暴力的治理边界与平台责任展开深入研讨。IT之家注意到，抖音集团副总裁李亮昨日发文，谈及了网暴处理。他表示，最难处理的是披着玩笑、调侃和玩梗外衣，持续指向某个人的伤害。网暴治理最难处理的，往往不是那些直接辱骂的内容，而是披着玩笑、调侃和玩梗外衣，持续指向某个人的伤害。正常表达不能被轻易贴上网暴标签，但“没有脏字”也不等于没有伤害。公众人物应该接受合理批评，公共事件也需要保留充分讨论空间；与此同时，人身攻击、群",
+      "source": "IT之家",
+      "publishTime": "2026-08-12",
+      "link": "https://www.ithome.com/0/988/962.htm"
+    },
     {
       "id": "3ba03df8-2d23-8181-8ed9-c89d83dc6060",
       "title": "9999 元起，荣耀 Robot Phone 手机正式发布",
@@ -56,350 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-12",
       "link": "https://www.ithome.com/0/988/956.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8160-88cf-d76c9c1f7193",
-      "title": "3999 元影石 X6 正式发布：1/1.1 英寸大底传感器 + AI 三芯架构，支持 8K 50 帧全景视频",
-      "summary": "IT之家 8 月 12 日消息，影石今日正式发布新一代超旗舰全景相机 X6，标准套装 3999 元起，旅拍套装和全能套装分别为 4299 元、4499 元，首批只有黑色可选。京东影石 Insta360【新品】X6 全景运动相机 8K 高清防抖防水手持口袋摄像机 标准套装 极夜黑 3999 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/955.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-81b9-9aba-c60ee65f76a0",
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA c",
-      "source": "The Verge",
-      "publishTime": "2026-08-12",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee"
-    },
-    {
-      "id": "3ba03df8-2d23-8181-947d-ee6f55f9bbfc",
-      "title": "消息称 AMD RX 9000 系列 Q3 全面涨价，RX 9070 XT 销售指导价 6999 元",
-      "summary": "IT之家 8 月 12 日消息，今日有渠道商在博板堂爆料称，AMD 已正式启动针对 Radeon 显卡的全线涨价计划，并向渠道合作伙伴公布了 2026 年第三季度 RX 9000 系列的销售指导价格体系。此次涨价覆盖从入门到高端的全产品线，受显存成本上涨等因素推动，大显存型号涨幅尤为突出，对比首发价格最高接近 50%。其中，RX 9070 XT 的 Q3 销售指导价为 6999 元，对应规范 MSRP 为 5599 元；RX 9070 指导价为 5599 元，MSRP 为 5199 元；RX 9070 GRE 指导价为 4599 元，MSRP 为 3999 元。中端产品线方面，RX 9060 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/952.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-814d-bbd4-e816aeb2dd3d",
-      "title": "大我 Bigme B1051 Ultra 10.3 英寸彩墨屏 AI 办公本开售，6+128GB 版本到手价 3299 元",
-      "summary": "IT之家 8 月 12 日消息，大我 Bigme B1051 Ultra 彩墨屏 AI 办公本今日开售，6+128GB 版本到手价 3299 元。IT之家获悉，这款产品配备 10.3 英寸 300 PPI Kaleido3 彩色墨水屏，支持 36 级冷暖光调节，彩色模式 150 PPI，黑白模式 300 PPI；配备 xRapid 快刷技术，刷新帧率至高 50 FPS；搭载 xClear 自动清残影技术，在普通和极速模式下翻页残影下降 50% 以上。性能方面，这款产品搭载天玑 1080 处理器，主频 2.6GHz，采用 6nm 工艺制程；机身厚度 5.5 mm，内置 6900mAh 容量电池，",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/950.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8125-99ca-ef82328db846",
-      "title": "100 英寸 3864 分区 12999 → 5818 元：小米电视 S Pro Mini LED 2025 京东大降价",
-      "summary": "【活动随时可能变更，需以实付尾款为准。】小米电视 S Pro Mini LED 100 英寸 2024 年 10 月发布，支持 4K UI、超级小爱，定价 12999 元。今日京东自营开启预售，付定金后直降至 8499 元。目前系统显示可用 8.15 折京东券，叠加 15% 国补后，定金 + 尾款实付 5888 元。晒单种草返 70 元（详询客服），折合仅需 5818 元：先领 8.15 折京东平台券：点此领券京东小米电视 S Pro Mini LED2025 100 英寸 3864 分区家电券后 5888 元直达链接京东小米电视 S Pro MiniLED2025 85 英寸 2880 分区",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/951.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-81c4-98d3-ff343bd87b33",
-      "title": "This Coin-Sized Device Can Hack a Boeing 737",
-      "summary": "Security researchers found that in less than 60 seconds, they could open a hatch on a plane’s exterior, plug in a tiny device, and redirect the aircraft’s autopilot or sabotage its flight plan.",
-      "source": "Wired",
-      "publishTime": "2026-08-12",
-      "link": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/"
-    },
-    {
-      "id": "3ba03df8-2d23-81b4-8b6d-c7356363b851",
-      "title": "Nielsen's $2 billion DoubleVerify acquisition is a big play for CMOs",
-      "summary": "Nielsen is looking to broaden its advertiser-direct relationships and push further into helping CMOs plan and allocate their media budgets.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/nielsen-2-billion-doubleverify-acquisition-cmo-play-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-818f-afa1-c0746150f42f",
-      "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
-      "summary": "With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-12",
-      "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html"
-    },
-    {
-      "id": "3ba03df8-2d23-8169-8910-f0bd45db0714",
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace ta",
-      "source": "The Verge",
-      "publishTime": "2026-08-12",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch"
-    },
-    {
-      "id": "3ba03df8-2d23-8199-8a36-cb0251b180ad",
-      "title": "B 社《上古卷轴 4 : 湮灭重制版》登陆任天堂 Switch 2 平台，49.99 美元",
-      "summary": "IT之家 8 月 12 日消息，B 社旗下《上古卷轴 4：湮灭 重制版（The Elder Scrolls IV：Oblivion Remastered）》现已正式登陆任天堂 Switch 2 平台，本作在 eShop 美服（点此访问）定价为 49.99 美元（IT之家注：现汇率约合 337.9 元人民币）。除了数字版外，《上古卷轴 4：湮灭重制版》将为 Nintendo Switch 2 提供实体版，相应卡带内含完整游戏数据，并非仅提供下载码的钥匙卡。官方表示，这次《上古卷轴 4：湮灭重制版》针对 Nintendo Switch 2 做了多项专属优化，游戏引擎升级了画质，重塑了场景模型、植被",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/949.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-818c-88fb-dceb6341d8a5",
-      "title": "VC Jason Calacanis says having Starlink WiFi is more important than price, time, or route when he flies",
-      "summary": "Over 40 airlines have announced deals with Starlink and are racing to install the high-speed WiFi service that is becoming a must-have perk.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/starlink-more-important-than-price-route-or-time-jason-calacanis-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-8171-80ae-c53057a42678",
-      "title": "Inflation data, CoreWeave's revenue surge, election betting and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-12",
-      "link": "https://www.cnbc.com/2026/08/12/5-things-to-know-before-the-market-opens.html"
-    },
-    {
-      "id": "3ba03df8-2d23-8103-a062-c5aa1ac4ea8f",
-      "title": "寒武纪回应“存货超 82 亿”：将持续拓展市场，控制相关风险",
-      "summary": "IT之家 8 月 12 日消息，寒武纪 2026 年半年实现营业收入 59.96 亿元，同比增长 108.13%；归母净利润 23.11 亿元，同比增长 122.61%。寒武纪今日举办 2026 年半年度业绩说明会。针对市场关注的存货问题，寒武纪董事长、总经理陈天石回应称，公司根据客户订单需求及市场预测制定采购计划，将持续拓展市场、推动 AI 应用落地以控制相关风险。截至 2026 年 6 月 30 日，寒武纪存货账面价值达 82.48 亿元，较上年末增长 66.83%，占总资产比例高达 45.32%。存货增长主要系原材料与委托加工物资增加所致。IT之家注意到，其中原材料账面余额 57.49 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/948.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-819b-b985-e4d16610a989",
-      "title": "英伟达 RTX PRO 6000 Blackwell 涨价至 16000 美元，较上市初期上涨 87%",
-      "summary": "IT之家 8 月 12 日消息，受全球显存与内存组件持续短缺影响，英伟达旗下旗舰级专业显卡 RTX PRO 6000 Workstation Edition（配备 96GB GDDR7 显存）官方售价已从 6 月的 13250 美元上调至 16,000 美元（现汇率约合 10.8 万元人民币），两个月内涨幅约 20.8%。RTX PRO 6000 Blackwell 于 2025 年 3 月 18 日正式发布。英伟达当时未公布官方建议零售价，但早期美国零售商列表显示盒装工作站版售价为 8565 美元，批量采购价为 8435 美元，此后预售价一度低至 7673 美元。以 8565 美元的早期上市",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/947.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-81c3-baf0-dbd44812a632",
-      "title": "I spent years building a 'perfect' life and career in Chicago. Then, I left it all behind to move to Portugal.",
-      "summary": "I had built my dream life and career on paper in the US, but wasn't satisfied. I left it behind to try a new career and live abroad in Portugal.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/american-gave-up-perfect-life-move-abroad-portugal-mistakes-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-819b-911b-c1f2b05da602",
-      "title": "荣耀 Robot Phone 手机搭载 Agentic OS 新一代伙伴型多模态智能操作系统，首发全新 YOYO Pro",
-      "summary": "IT之家 8 月 12 日消息，在今晚的荣耀 Robot Phone 全球新品发布会上，荣耀官方宣布，Robot Phone 将搭载 Agentic OS 新一代伙伴型多模态智能操作系统。荣耀 Robot Phone 手机提供星轨银和月影灰两款配色，将首发全新 YOYO Pro 模式，由阿里千问大模型深度加持，支持超长任务执行、跨生态联动等功能。IT之家注意到，该机还采用 9.59mm 轻薄机身 + 248g 全金属一体成型设计，配备 6.31 英寸屏幕。荣耀 Robot Phone 搭载第五代骁龙 8 至尊版芯片，内置 7060mAh 青海湖电池，支持四麦克风阵列拾音。",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/946.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8175-9fe8-cf3b09e1715b",
-      "title": "AI 编程语言 Mojo 推出 1.0 正式版，预计年内开源编译器及相关工具链",
-      "summary": "IT之家 8 月 12 日消息，Modular 现已正式发布 AI 编程语言 Mojo 1.0 版本，新版进一步整理了语法和类型系统，并针对“引用失效”问题加入了部分诊断能力。具体来看，本次 Mojo 1.0 在语言设计方面统一了此前存在多种表达方式的功能（包括变量声明、闭包以及指针类型等），同时新增类似 Python 的 lambda 匿名函数语法，开发者可以直接在代码中创建简短的内联闭包。除此之外，Mojo 1.0 为“引用失效”问题加入了诊断能力。官方举例，例如程序向 List 添加新元素后，原本指向 List 内部数据的引用可能因为内存重新分配而失效。如果代码继续使用该引用，就可能产生",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/945.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-810d-8bfa-de832faf5ed7",
-      "title": "在线旅游公司 Booking CEO：希望每个员工掌握 AI 素养，以应对不时之需",
-      "summary": "IT之家 8 月 12 日消息，据《商业内幕》今天（12 日）报道，在线旅游公司 Booking CEO 格伦 · 福格尔认为，AI 或许能帮助人们更轻松地规划度假行程，但也可能让部分从业者的职业生涯变得更加艰难。福格尔谈到了 AI 可能给劳动者带来的影响。“遗憾的是，我们一直在思考，‘AI 带来的好处会怎样改变我们的员工队伍？’这是有代价的，而且是人的代价。”据IT之家了解，随着 AI 能力不断提升，企业高管正在人类就业问题上选择截然不同的路线。一些企业已经明确把采用 AI 与裁员联系起来，Anthropic CEO 达里奥 · 阿莫迪也曾警告，未来五年内，50% 的入门级白领岗位可能遭到淘",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/944.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8162-95d5-f605a601a4c5",
-      "title": "Patrón thinks its biggest selling point is what's not in its tequila",
-      "summary": "Patrón found a creative workaround to rules that bar it from using the words \"additive free\" in its marketing.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/patron-bets-on-transparency-to-win-premium-tequila-marketing-fight-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-819a-b4be-fcd3274c49d2",
-      "title": "全球首款机器人手机：荣耀 Robot Phone 官宣搭载行业最小全钛云台架构",
-      "summary": "IT之家 8 月 12 日消息，在今晚的荣耀 Robot Phone 全球新品发布会上，全球首款机器人手机 —— 荣耀 Robot Phone 正式亮相。IT之家注意到，荣耀 Robot Phone 开创性地打造钛合金灵巧云台，将 4DoF 机械臂装入方寸机身，拥有行业最小全钛云台架构、行业最轻钛合金云台电机、行业最快钛合金云台电机、行业最强盾构钢翻转电机。荣耀手机官方表示，荣耀 Robot Phone 是一场极其勇敢的尝试，或许不尽完美，却代表着荣耀敢于打破常规，探索 AI 终端未来的决心。",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/943.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-811d-a4cd-f061090df19e",
-      "title": "比亚迪 AI 团队首秀：混合世界模型 HyWorldVLA 获 90.59 分，自研芯片 + 算法闭环成型",
-      "summary": "IT之家 8 月 12 日消息，比亚迪汽车新技术研究院 AI 团队上个月发表了其首篇研究论文，介绍了一种用于自动驾驶的混合世界模型 HyWorldVLA。该模型结合了像素级和潜在空间世界建模，并采用视觉-语言-动作（VLA）架构。该模型在自动驾驶公开基准测试 NAVSIM v1 中取得了 90.59 的 PDMS 评分，刷新了该基准的历史最佳成绩。在指标更全面的 NAVSIM v2 上，HyWorldVLA 同样取得了 89.71 分的领先成绩。IT之家注：PDMS 指标综合考察碰撞安全性、可行驶区域合规性、安全距离、目标完成度和运动舒适性等多维度实际驾驶质量。HyWorldVLA 的核心思路",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/942.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-810d-86df-f544a862e0ea",
-      "title": "How to Select the Office Chair That’s Right For You",
-      "summary": "Not all office chairs are right for all people. I asked an ergonomist how to select the right office chair for your budget, height, and physique.",
-      "source": "Wired",
-      "publishTime": "2026-08-12",
-      "link": "https://www.wired.com/story/how-to-choose-the-right-office-chair/"
-    },
-    {
-      "id": "3ba03df8-2d23-8101-8f63-dc5fc7553638",
-      "title": "路虎揽胜 SV 4.4 V8 四座长轴重奏系列“翡萃版”上市，建议零售价 371.9 万元",
-      "summary": "IT之家 8 月 12 日消息，路虎宣布旗下揽胜 SV 4.4 V8 四座长轴重奏系列“翡萃版”正式上市，全国限量一台，厂家建议零售价 371.9 万元。该车采用 SV BESPOKE 高定专属外观，提供 SV 熠动主题套件，采用 BESPOKE 定制亮面日光铜 / 黑曜石双拼渐变效果车漆，带有 24K 镶金 RANGE ROVER 字标，车身配备定制 23 英寸日光铜镶嵌钻石切割锻造轮圈。内饰方面，新车将采用 SV 奢雅主题浅米色内饰搭配半苯胺真皮座椅，同时提供天然深色鸡翅木纹理饰板并带有金属镶饰。车辆中央岛台还采用亮白陶瓷控制部件。动力方面，该车搭载 4.4T V8 发动机，最大功率 61",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/941.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8119-868b-fa2a568d62cd",
-      "title": "NATO’s plan for a battlefield swarming with drones: Let AI fly, but keep lethal decisions human",
-      "summary": "NATO is incorporating drones and artificial intelligence into a new defensive initiative aimed at fortifying its eastern flank.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/nato-plan-drone-infested-battlefield-ai-flies-humans-decide-strikes-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-81f9-a4d0-fa12e33d5763",
-      "title": "荣耀 Magic9 系列手机外观首曝：大圆镜组、阿莱联名标签 LOGO",
-      "summary": "IT之家 8 月 12 日消息，在今天的荣耀 Robot Phone 全球新品发布会上，荣耀 Magic9 系列手机外观首曝。从发布会现场公布的 PPT 可以看到 Magic9 系列手机外观的镜头部分：后置大圆镜头模组，并印有阿莱联名标签 LOGO。据IT之家此前报道，消息称荣耀 Magic 9 系列新机暂定 9 月底发布，预计 28 日前后，其它家档期也有提前不少。系列新机工程机搭载 8 开头电池，主摄评估 2 亿像素 1/1.28 英寸 CMOS，长焦评估 2 亿像素常规大底潜望，拥有 3D 人脸识别 +3D 超声波指纹、满血无线充、满级防水、大师级对称双扬等外围配置。",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/940.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8137-a2ec-e8758a402950",
-      "title": "吉利银河“AI 全地形硬核 SUV”战舰 700 年内上市，展车本月中旬陆续到店",
-      "summary": "IT之家 8 月 12 日消息，吉利银河宣布旗下“AI 全地形硬核 SUV”战舰 700 将于第四季度（今年）内完成上市，展车预计在本月中旬陆续到店。外观方面，该车采用硬朗的线条勾勒与方盒子车身造型，塑造出鲜明的硬派越野视觉风格。前脸采用长条矩形格栅轮廓，搭配贯穿式日间行车灯设计，品牌 Logo 具备点亮功能。车身侧面配备传统样式门把手与哑光黑色车顶行李架，前后凸起的轮眉线条强化了整车的肌肉感。车尾设计趋于简洁，纵向圆角矩形尾灯组与外挂式备胎的组合。新车内饰配备了大量物理按键，通过旋钮可切换智能、经济、舒适和运动驾驶模式；车顶配有全景天窗，前排座椅则提供头枕音响。在底盘与越野性能方面，银河战舰",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/939.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-818f-90c7-c6dc869dffb7",
-      "title": "奇瑞风云 T7 开启预售：600km 续航，10.99 万-12.99 万元",
-      "summary": "IT之家 8 月 12 日消息，奇瑞风云 T7 今天（12 日）正式开启预售，新车定位全球品质纯电 SUV，搭载犀牛电池，标配续航 600km。IT之家汇总新车主要信息如下：600km 悦享版：10.99 万元600km 舒享版：11.99 万元600km 智享版：12.99 万元外观方面，风云 T7 采用风云新能源最新一代极简电动化设计语言，封闭式车身搭配狭长锐利的分体式 LED 大灯，两侧配备立体导流槽，下包围运动饰板强化整车冲击力。车身尺寸方面，新车长宽高为 4570*1852*1694mm，轴距为 2700mm，定位紧凑型 SUV，后备箱容积为 450L。侧面采用溜背式车顶线条，搭配黑",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/938.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-810e-ac80-d50fa9effb11",
-      "title": "莲花 ELETRE / EMEYA 900 GOLD 车型预售，91.8 万元起",
-      "summary": "IT之家 8 月 12 日消息，莲花汽车宣布旗下 ELETRE 900 GOLD 和 EMEYA 900 GOLD 两款车型正式开启预售，前者预售价为 92.8 万元起，后者预售价为 91.8 万元起。即日起至 2026 年 8 月 31 日前预订的客户，支付 5000 元意向金，可以享受 10000 元内外饰选装权益。两款新车均搭载高性能核心操控装备包，包含内外饰碳纤维拓展包、10 活塞碳陶瓷制动、锻造碳纤维插片轮圈以及 900 GOLD 专属碳纤维徽标与纹理。官方称相应装备包助力 EMEYA 以原厂状态在 F1 雪邦赛道实现了 2 分 20 秒 317 的圈速成绩，刷新了该赛道量产电动车圈",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/937.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-812e-aee8-f4220bd4647f",
-      "title": "Elon Musk tells staff Grok will be trained on all of SpaceX's data: 'It will inherit your thoughts and ideas'",
-      "summary": "SpaceX has become the latest tech giant to target employee data in the race to improve its AI models.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/elon-musk-grok-trained-on-spacex-employee-data-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-8122-b2ce-e9789310b8a8",
-      "title": "2026 暑期档票房破 90 亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》分列前三",
-      "summary": "IT之家 8 月 12 日消息，据猫眼专业版数据，截至 8 月 12 日 18 时，2026 年暑期档（6 月 1 日-8 月 31 日）总票房超 90 亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》分列暑期档票房榜前三位。IT之家附 2026 暑期档票房榜如下：《功夫女足》：227732.68 万《八仙！》：149404.01 万《蜘蛛侠：崭新之日》：133191.30 万《给阿嬷的情书》：58471.58 万《欢迎来龙餐馆》：31871.80 万《小黄人与大怪兽》：30920.08 万《玩具总动员 5》：28580.06 万《四渡》：28357.00 万《火遮眼》：20686.23 万《后",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/935.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-817f-96d1-e30ce5b8c899",
-      "title": "武极幻界 2 代台式机上架：i5-12450H + 16G + 512G 售 2799 元",
-      "summary": "IT之家 8 月 12 日消息，制造商武极现已在京东上架幻界 2 代台式机，该机采用“英特尔酷睿 i5-12450H +16GB RAM + 512GB SSD”规格，定价为 2799 元（标配键鼠套装）。京东武极幻界 2 代台式机 2799 元直达链接该台式机配备 7L 体积机箱，整机尺寸 238×100×288.4mm，正面提供了 4 个 USB-A 2.0 接口、1 个 3.5mm 音频接口。后置 1 个 HDMI、1 个 COM、4 个 USB-A 3.0、1 个 RJ45、2 个 3.5mm 音频接口。该机搭载 8 核心 12 线程英特尔酷睿 i5-12450H 处理器，匹配 16G",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/934.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8123-adb7-d304d4efd419",
-      "title": "Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas",
-      "summary": "Ego’s newest, biggest, self-propelled mower handles larger yards in less time with impressive performance and battery life.",
-      "source": "Wired",
-      "publishTime": "2026-08-12",
-      "link": "https://www.wired.com/review/ego-1300-electric-lawn-mower/"
-    },
-    {
-      "id": "3ba03df8-2d23-81da-8d29-e36d3727f217",
-      "title": "$4 billion Vanta has a new CMO who wants to make security compliance marketing 'a little zingier'",
-      "summary": "Vanta's new CMO, Sarah Scharf, says she wants to build on its brand positioning as a \"trust company.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/vanta-promotes-sarah-scharf-cmo-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-816b-af4c-fa04ac5cc529",
-      "title": "AI’s costly buildout complicates the Fed’s inflation fight",
-      "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center buildout create inflation pressures that complicate the Fed’s job.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-12",
-      "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
-    },
-    {
-      "id": "3ba03df8-2d23-8171-9799-fe3211f3d02b",
-      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
-    },
-    {
-      "id": "3ba03df8-2d23-81fb-9572-cdcff0b48834",
-      "title": "全新一代智己 L6 × Prof. Jimmy Choo 周仰杰高定限量版汽车官图公布",
-      "summary": "IT之家 8 月 12 日消息，《Vogue 服饰与美容》杂志官方微博今日公开了全新一代智己 L6 × Prof. Jimmy Choo 周仰杰高定限量版汽车官图。据IT之家此前报道，今年 8 月 7 日，智己汽车官宣 Prof. Jimmy Choo 周仰杰加盟智己，担任全新一代智己 L6 高定设计大师。公开资料显示，周仰杰出生于马来西亚槟城，祖籍广东梅县，华裔鞋类设计师。他是英国帝国勋章获得者，2003 年获英国女王颁授大英帝国四等爵士勋位，2004 年获马来西亚拿督勋位，2011 年被评为世界杰出华人设计师，2012 年获“影响世界华人盛典”文化艺术领域奖项。根据官方预热，高定限量版新车",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/933.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-819b-9a2e-eca9b5a1d1d9",
-      "title": "中柏推出 2026 款“EZpad M20 HD”10.1 英寸平板：展锐 T606 + 4G + 128G 售 759 元",
-      "summary": "IT之家 8 月 12 日消息，制造商中柏现已在京东上架 2026 款 EZpad M20 HD 平板电脑，该机搭载紫光展锐 T606 处理器，配备 4GB RAM 和 128GB 存储空间，定价为 799 元，首发价 759 元。该机使用全金属机身，厚度 8.18mm，重量 460g，正面配备一块 10.1 英寸 IPS LCD 面板（未标识分辨率），匹配 5Mp 自拍摄像头；平板电脑背部提供 13Mp 主摄。该机搭载紫光展锐 T606 处理器，配备 4GB RAM 和 128GB 存储空间，内置 6000mAh 电池。IT之家附产品参数：京东中柏 2026 款 EZpad M20 HD 1",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/932.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8144-973f-c0c8a872b38b",
-      "title": "Two cities that were pandemic darlings have lost their shine",
-      "summary": "Miami's cost of living has surpassed New York City's, but its post-pandemic fortunes still look stronger than Austin's.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/miami-cost-of-living-new-york-city-austin-housing-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-813d-a588-d4e0e37649d0",
-      "title": "我国汽车出口连续两个月突破 100 万辆，延续强劲增长态势",
-      "summary": "IT之家 8 月 12 日消息，据央视新闻今日报道，中国汽车工业协会数据显示，7 月份我国汽车出口表现亮眼，延续强劲增长态势。今年 7 月份，汽车出口 104.3 万辆，环比增长 0.6%，同比增长 81.3%。其中，新能源汽车出口 55.3 万辆，环比增长 5.7%，同比增长 145.5%。IT之家注意到，自今年 4 月、5 月连续两个月汽车出口超过 90 万辆后，6 月、7 月出口连续两个月突破 100 万辆。不仅如此，新能源汽车出口占比已连续两个月突破百分之五十。值得一提的是，2026 年 1-7 月汽车出口总额 1,108 亿美元（IT之家注：现汇率约合 7,488.55 亿元人民币）",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/921.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-811a-b643-dc45920710df",
-      "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-      "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
-      "source": "Wired",
-      "publishTime": "2026-08-12",
-      "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/"
-    },
-    {
-      "id": "3ba03df8-2d23-81a1-bcfc-cc096cb5dfaa",
-      "title": "国产暗黑类刷宝射击游戏《秘境猎人》开启抢先体验，Steam 首发特惠 54.4 元",
-      "summary": "IT之家 8 月 12 日消息，暗黑类刷宝射击国产游戏《秘境猎人》现已正式登陆 Steam 平台抢先体验，由 Confiction Labs、Agate 开发，Confiction Labs、游民星空发行。IT之家附游戏商品页（https://store.steampowered.com/app/2282790/_/?l=schinese&cc=cn）。本作国区原价 68 元，首发优惠 20%，截止 8 月 25 日特惠价为 54.40 元。同时官方还推出了多款捆绑包，与《失落城堡 2》《冒险家商店》《电商大亨》等作品捆绑购买可再享 10% 折扣。在《秘境猎人》中用重火力碾压炼狱怪潮！叫上兄弟",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/531.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-81bc-8466-f4245c92de98",
-      "title": "小米米家大容量商务双肩包 2 发售：多仓分区结构、23L 容量，499 元",
-      "summary": "IT之家 8 月 12 日消息，小米旗下米家大容量商务双肩包 2 现已在京东发售，定价为 499 元京东小米米家大容量商务双肩包 2499 元直达链接该产品使用高密度三防尼龙面料，具有防油、防水、防污渍特性。采用多仓分区结构，提供 23L 容量，集成数码收纳仓，可收纳 16 英寸笔记本电脑，同时收纳仓专门采用悬空结构，可避免设备触底磕碰。IT之家附产品参数：",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/907.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8167-973f-fc5cdc53c1fe",
-      "title": "三星 OneUI AOD 息屏显示应用获推 8.9.55.2 版本更新，修复特定语言下锁屏时钟显示问题",
-      "summary": "IT之家 8 月 12 日消息，三星现已为旗下 OneUI 的 Always On Display 息屏显示应用推送 8.9.55.2 版本更新，主要修复特定语言下锁屏时钟显示问题。此前，部分 Galaxy 用户在使用某些语言设置时，可能会遇到锁屏时钟显示错误、布局异常或无法正常显示的问题。如今三星已经通过 AOD 更新解决该问题，建议用户在设备收到更新后及时安装。需要注意的是，该更新采用分阶段推送方式，并非所有用户会同时收到，部分设备可能需要等待数天才能获取更新。用户可以打开 Galaxy Store 的更新页面，如果检测到新版 AOD 应用，即可直接下载安装。",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/906.htm"
     }
   ],
   "macroEvents": [
