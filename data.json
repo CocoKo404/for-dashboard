@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-13 06:09",
+  "updatedAt": "2026-08-13 07:08",
   "news": [
+    {
+      "id": "3ba03df8-2d23-817c-bf2d-cd940dbbd334",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-13",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
+    },
+    {
+      "id": "3ba03df8-2d23-8160-ab9e-ed8876a1a77d",
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-13",
+      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/"
+    },
+    {
+      "id": "3ba03df8-2d23-81c4-935c-f4b339f2a33c",
+      "title": "Twitch confirms Amazon is training its AI models on livestreams",
+      "summary": "Twitch said Wednesday users can opt out to prevent Amazon from training its AI models on their content.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-13",
+      "link": "https://www.businessinsider.com/twitch-livestreams-amazon-ai-model-training-opt-out-feature-2026-8"
+    },
+    {
+      "id": "3ba03df8-2d23-816a-90f3-dc95e74144a9",
+      "title": "TikTok Shop is driving more online sales in the US than Target and other major retailers",
+      "summary": "TikTok Shop is gaining market share from major online retailers in the US as it adds new features like an Amazon Prime-style membership program.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-13",
+      "link": "https://www.businessinsider.com/tiktok-shop-us-spend-is-larger-than-target-costco-data-2026-8"
+    },
     {
       "id": "3ba03df8-2d23-8155-adae-ec209e0082ce",
       "title": "Made by Google 2026 live blog: Let’s watch Trevor Noah talk about the Pixel 11",
@@ -368,38 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-08-13",
       "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
-    },
-    {
-      "id": "3ba03df8-2d23-8193-8b16-e6e92fdf653f",
-      "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
-      "summary": "Google wasn't first to make a foldable Android phone, but the company's Pixel Fold series is now an established player with unique traits compared to its competitors. For one, it popularized the passport-style design years ago, being more wide than tall - something that Samsung tried for the first t",
-      "source": "The Verge",
-      "publishTime": "2026-08-13",
-      "link": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison"
-    },
-    {
-      "id": "3ba03df8-2d23-81af-8100-ce6bc2264639",
-      "title": "剑指 GPT-5.6 Sol，SpaceXAI 发布 Grok 4.6 模型",
-      "summary": "IT之家 8 月 12 日消息，北京时间今天（12 日）晚间，Grok 4.6 正式发布。新模型在 Grok 4.5 基础上进一步强化长时间运行的智能体任务，以及复杂的交互和视觉工作。按照发布信息，Grok 4.6 能够持续处理包含大量步骤的复杂任务，包括资料研究、信息分析、大型代码库处理，以及将产品构想转化为完整应用或工作成果。基准测试方面，Grok 4.6 在多项智能体编程和知识工作测试中达到前沿水平。在综合 9 项基准测试的 Artificial Analysis Intelligence Index 上，Grok 4.6 与 GPT-5.6 Sol 取得相同成绩。据IT之家了解，Gro",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/999.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8112-90cc-ee448259b6d4",
-      "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
-      "summary": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/"
-    },
-    {
-      "id": "3ba03df8-2d23-81ca-a141-c710beac1263",
-      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-q",
-      "source": "The Verge",
-      "publishTime": "2026-08-12",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno"
     }
   ],
   "macroEvents": [
