@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-08-13 03:37",
+  "updatedAt": "2026-08-13 05:12",
   "news": [
+    {
+      "id": "3ba03df8-2d23-81e6-8159-ea2fb0b828f6",
+      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and and raised its full-year guidance.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-13",
+      "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html"
+    },
+    {
+      "id": "3ba03df8-2d23-811e-9a84-d74b5f4bfa68",
+      "title": "The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden",
+      "summary": "Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.",
+      "source": "Wired",
+      "publishTime": "2026-08-13",
+      "link": "https://www.wired.com/story/lettuce-grow-20-percent-off-2026/"
+    },
+    {
+      "id": "3ba03df8-2d23-8131-bdac-c33453f79561",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-13",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+    },
+    {
+      "id": "3ba03df8-2d23-81d3-8e0a-df9b674d7a63",
+      "title": "Inside Paramount, employees say they have bigger concerns than a reported plan to ditch California",
+      "summary": "Paramount staffers say they're focused on what the WBD merger might mean for their jobs rather than reports of a potential relocation.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-13",
+      "link": "https://www.businessinsider.com/paramount-skydance-employees-david-ellison-plan-leaving-california-wbd-deal-2026-8"
+    },
+    {
+      "id": "3ba03df8-2d23-81e0-98ac-f5dd1c4309eb",
+      "title": "This 2020 Nvidia chip is still going strong. That matters for the AI boom.",
+      "summary": "CoreWeave recently rented Nvidia A100 GPUs into 2029, suggesting AI chips stay useful and hold their value far longer than critics feared.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-13",
+      "link": "https://www.businessinsider.com/coreweave-deal-challenges-nvidia-ai-chip-obsolescence-fears-2026-8"
+    },
+    {
+      "id": "3ba03df8-2d23-810b-ab2c-cdc5e0721a08",
+      "title": "Jeremy Strong plays Mark Zuckerberg in 'The Social Reckoning,' a follow-up to 2010's 'The Social Network.' Here's everything we know.",
+      "summary": "Aaron Sorkin will tell the story of how Facebook infiltrated our daily lives in \"The Social Reckoning,\" with Jeremy Strong playing Mark Zuckerberg.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-13",
+      "link": "https://www.businessinsider.com/the-social-reckoning-cast-trailer-release-date-facebook-mark-zuckerberg-2026-6"
+    },
+    {
+      "id": "3ba03df8-2d23-8132-8acc-c89a4aa38061",
+      "title": "Russia is turning Kherson into a 'human safari' as its drones hunt civilians. Residents say anyone can be hit at any time.",
+      "summary": "Russia's drone attacks on civilians in Kherson have surged, turning daily life into a deadly \"human safari.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-08-13",
+      "link": "https://www.businessinsider.com/kherson-ukraine-human-safari-russia-drones-civilians-2026-8"
+    },
+    {
+      "id": "3ba03df8-2d23-812e-89ef-d18887f4977f",
+      "title": "The next big indie game publisher is taking some exciting swings",
+      "summary": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. Perhaps the most significant announcement from Kinetic's show is that it's p",
+      "source": "The Verge",
+      "publishTime": "2026-08-13",
+      "link": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition"
+    },
+    {
+      "id": "3ba03df8-2d23-811e-b326-d0aff93e9a6f",
+      "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
+      "summary": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18 won't arrive until the first quarter of next year. The more affordable iPhone 1",
+      "source": "The Verge",
+      "publishTime": "2026-08-13",
+      "link": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed"
+    },
+    {
+      "id": "3ba03df8-2d23-81c6-9f44-f0575499a2ae",
+      "title": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
+      "summary": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.",
+      "source": "Wired",
+      "publishTime": "2026-08-13",
+      "link": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/"
+    },
+    {
+      "id": "3ba03df8-2d23-8103-9439-d8a639164246",
+      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+      "source": "Wired",
+      "publishTime": "2026-08-13",
+      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/"
+    },
     {
       "id": "3ba03df8-2d23-819a-8dfc-f19c5a74b51f",
       "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
@@ -312,94 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-12",
       "link": "https://www.ithome.com/0/988/995.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8106-bfff-e6ef721abe43",
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-      "summary": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/"
-    },
-    {
-      "id": "3ba03df8-2d23-8151-9549-ef040d5acff1",
-      "title": "到 2030 年全国算力用电量将达 8000 亿度，届时 6 万亿度绿电奔涌入网",
-      "summary": "IT之家 8 月 12 日消息，据央视财经今天（12 日）报道，当前，一个万卡集群一天至少吞掉 20 万度电。据测算，到 2030 年全国算力用电量将达到 8000 亿千瓦时。人工智能的未来，不仅是“算”的比拼，更是“电”的竞赛。报道指出，算力在狂奔，绿电在托底。截至 6 月底，我国非化石能源发电装机容量 25.2 亿千瓦，占总装机容量比重的 62.4%，我国新增用电需求几乎全部由绿电满足。东数西算八大枢纽内，大型绿色算力集群绿电使用率持续攀升。内蒙古和林格尔、甘肃庆阳等地新建数据中心的绿电消费占比已超 80%，全国 172 个算力中心通过绿色低碳 4A 认证。IT之家从报道中获悉，如今，东数",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/994.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-81df-9da2-c122939670f4",
-      "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
-      "summary": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/"
-    },
-    {
-      "id": "3ba03df8-2d23-81f9-bdf5-f90437407db2",
-      "title": "Bob Iger and Josh Kushner are buying the Lakers for $12.5 billion",
-      "summary": "In a statement, former Disney CEO Bob Iger and venture capitalist Josh Kushner said they \"were deeply honored\" by the opportunity.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/bob-iger-josh-kushner-to-buy-lakers-nba-team-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-8175-a837-fa6a9217194e",
-      "title": "I spent 11 hours sharing a cabin with 3 strangers on a sleeper train in Europe. 6 surprises made me regret it.",
-      "summary": "I thought booking a bunk in a shared cabin on an overnight train in Europe would be the best way to travel. I was surprised to be wrong.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-12",
-      "link": "https://www.businessinsider.com/shared-cabin-overnight-train-europe-surprises"
-    },
-    {
-      "id": "3ba03df8-2d23-816e-8a40-f474dc1c2587",
-      "title": "谷歌 Pixel 11 相机应用新增创作者套件：内置提词器、人声增强，专为单人自媒体打造",
-      "summary": "IT之家 8 月 12 日消息，据外媒 The Verge 今天（12 日）晚间报道，谷歌在新一代 Pixel 产品中加入多项面向创作者的功能，希望帮助用户比使用其他设备时更快、更高效地完成拍摄、整理、编辑和发布工作。Creator Suite（创作者套件）是 Pixel 11 相机应用新增的一种创作模式，内置提词器、人声增强、外接麦克风音量监测和社交媒体构图参考线等功能。谷歌希望借此吸引有意开始经营内容频道但手头资源有限的用户。Pixel 相机团队负责人艾萨克 · 雷诺兹表示：“我们很希望为那些直接用手机创作的人做些什么，让制作过程更简单，发布更快，减少重拍，让整理内容更方便，同时简化整个工",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/993.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-8148-b058-da6792a397d3",
-      "title": "《侏罗纪世界: 进化 3》游戏扩展包“鳄潮海岸”上线，Steam 国区售价 69 元",
-      "summary": "IT之家 8 月 12 日消息，开发商 Frontier Developments 宣布旗下《侏罗纪世界：进化 3（Jurassic World Evolution 3）》扩展包“鳄潮海岸（Crocodilia Coast）”已经正式发售，登陆 PlayStation 5、Xbox Series X/S、以及 PC 平台。价格方面，该扩展版在 Steam 国区定价为 69 元，游戏本体标准版原价 236 元，首发 6.7 折后到手价价 158.12 元，豪华版 298 元，6.7 折后到手价格 199.66 元，优惠至 8 月 18 日结束。迎接《侏罗纪世界：进化》系列游戏中首个鳄类家族成员 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/992.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-81b2-9349-e286c3154b76",
-      "title": "谷歌 Pixel Buds Pro 2 耳机升级：主动降噪、同声传译功能均获增强",
-      "summary": "IT之家 8 月 12 日消息，今天（12 日）晚间随 Pixel 11 系列一同亮相的 Pixel Buds Pro 2 和 Pixel Buds 2a，将从今年秋季起加入一系列免手操作功能，让日常使用更加灵活。谷歌新款耳机把升级重点从硬件转向了更智能的软件功能。其中最重要的升级是动态 ANC（主动降噪），针对的是耳机使用中一个很常见的问题：佩戴一段时间后，耳机与耳道之间的贴合程度可能发生变化。Pixel Buds Pro 2 能够根据轻微的密封变化调整降噪效果，从而维持更强的噪声抑制能力。谷歌称，Pixel Buds Pro 2 现有 ANC 系统的降噪能力最高已经达到初代 Pixel B",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/991.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-81ef-9417-cc10f5637e88",
-      "title": "Google aims for influencers with the Pixel 11 Creator Suite",
-      "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators record, organize, edit, a",
-      "source": "The Verge",
-      "publishTime": "2026-08-12",
-      "link": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features"
-    },
-    {
-      "id": "3ba03df8-2d23-816e-911b-e5cc2eaba722",
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-12",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
-    },
-    {
-      "id": "3ba03df8-2d23-816d-b9e4-fd21dea2c476",
-      "title": "漫威索尼《蜘蛛侠：崭新之日》上映两周杀入影史票房 TOP10，暂列 2026 年度冠军",
-      "summary": "IT之家 8 月 12 日消息，蜘蛛侠系列电影官方微博今日宣布，由漫威与索尼联合出品的《蜘蛛侠：崭新之日》上映两周强势杀入影史票房 TOP10，并拿下 2026 全球票房冠军。IT之家查询获悉，漫威索尼《蜘蛛侠：崭新之日》全球票房成绩已来到 19.52 亿美元（IT之家注：现汇率约合 131.93 亿元人民币），位列榜单第十位。值得一提的是，索尼影业蜘蛛侠系列电影 11 部大银幕作品跨越 24 年时光，全球票房突破 685 亿人民币。IT 之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
-      "source": "IT之家",
-      "publishTime": "2026-08-12",
-      "link": "https://www.ithome.com/0/988/989.htm"
     }
   ],
   "macroEvents": [
