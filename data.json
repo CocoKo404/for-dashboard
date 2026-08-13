@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-14 00:27",
+  "updatedAt": "2026-08-14 01:28",
   "news": [
+    {
+      "id": "3bb03df8-2d23-8109-b52e-e23542232696",
+      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+      "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-14",
+      "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/"
+    },
+    {
+      "id": "3bb03df8-2d23-810b-9b4b-ee56abe8b051",
+      "title": "I always dreamed of moving in with friends — but at 28, I've only ever lived with my parents",
+      "summary": "I'm approaching 30, and I've only ever lived at home. There are downsides, but I've been able to save money while becoming closer with my parents.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-14",
+      "link": "https://www.businessinsider.com/lived-with-parents-whole-life-benefits-downsides-helped-our-relationship-2026-8"
+    },
+    {
+      "id": "3bb03df8-2d23-8158-a096-de9550e675a2",
+      "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
+      "summary": "Denise Dresser's sudden departure could be a major blow to OpenAI as it pursues a blockbuster IPO.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-14",
+      "link": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html"
+    },
+    {
+      "id": "3bb03df8-2d23-8195-9b4f-dbc3dcf939a0",
+      "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+      "summary": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-l",
+      "source": "The Verge",
+      "publishTime": "2026-08-14",
+      "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant"
+    },
+    {
+      "id": "3bb03df8-2d23-81fe-929f-dc818fb713c9",
+      "title": "Meta adds AI screening to detect WhatsApp scams",
+      "summary": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users",
+      "source": "The Verge",
+      "publishTime": "2026-08-14",
+      "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection"
+    },
+    {
+      "id": "3bb03df8-2d23-8106-9f29-c9be70d32b7f",
+      "title": "Suno is trying to look more like a real music production tool",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's b",
+      "source": "The Verge",
+      "publishTime": "2026-08-14",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects"
+    },
+    {
+      "id": "3bb03df8-2d23-817b-b40e-f062eea18223",
+      "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+      "summary": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to",
+      "source": "The Verge",
+      "publishTime": "2026-08-14",
+      "link": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price"
+    },
+    {
+      "id": "3bb03df8-2d23-8131-adcc-d7d3fbaa3f1d",
+      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-14",
+      "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/"
+    },
+    {
+      "id": "3bb03df8-2d23-81d5-b05a-e633c7af0d8c",
+      "title": "The Painful Truth of Exactly How ICE’s New Shock Gloves Work",
+      "summary": "ICE is spending millions on shock gloves designed to overpower subjects through intense, localized pain.",
+      "source": "Wired",
+      "publishTime": "2026-08-13",
+      "link": "https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/"
+    },
     {
       "id": "3bb03df8-2d23-81db-b098-f07aca5669d9",
       "title": "Instagram introduces a redesigned wordmark",
@@ -328,78 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-08-13",
       "link": "https://www.businessinsider.com/flew-united-old-boeing-777-long-haul-basic-economy-2026-8"
-    },
-    {
-      "id": "3bb03df8-2d23-8185-9615-fb96b1c169a7",
-      "title": "Samsung&#8217;s $1,900 Z Fold 8 is still vulnerable to pocket lint",
-      "summary": "iFixit has provisionally given Samsung's Galaxy Z Fold 8 a repairability score of 4 out of 10, which largely hinged on… well, the hinge. In its teardown of the device, iFixit found that because it carries an IP48 ingress rating - meaning it isn't protected against particles under 1 millimeter - dust",
-      "source": "The Verge",
-      "publishTime": "2026-08-13",
-      "link": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge"
-    },
-    {
-      "id": "3bb03df8-2d23-8159-8d7c-e476ff94324f",
-      "title": "Wearables are getting a taste of much-needed minimalism",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During my summer vacation, I went in on the screenless wearable life. These past two",
-      "source": "The Verge",
-      "publishTime": "2026-08-13",
-      "link": "https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings"
-    },
-    {
-      "id": "3bb03df8-2d23-81a3-8252-c91204e94bac",
-      "title": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
-      "summary": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. For years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much improved with standalone seats instead of a bench in the second row. Parents groused",
-      "source": "The Verge",
-      "publishTime": "2026-08-13",
-      "link": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs"
-    },
-    {
-      "id": "3bb03df8-2d23-81c3-a666-d137ae2e35b3",
-      "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
-      "summary": "Databricks is benefitting off of the agentic AI wave",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-13",
-      "link": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html"
-    },
-    {
-      "id": "3bb03df8-2d23-8196-af3e-d2cdb380ed37",
-      "title": "美国造车新势力 Karma 押注增程，新一代豪华轿跑 Gyesera 即将亮相",
-      "summary": "IT之家 8 月 13 日消息，据外媒 motor1 今天（13 日）报道，美国豪华汽车品牌 Karma 把未来重点押在增程技术上，Gyesera 将率先承担新一代产品转型任务。新车今年 12 月开始进入经销商，起售价 139,995 美元（IT之家注：现汇率约合 94.6 万元人民币），并由此开启 Karma 全新的增程车型阵容。Gyesera 也是 Karma 参加第 75 届圆石滩优雅竞赛和蒙特雷汽车周的主角，同场展出的还有 2028 款 Amaris GT 和纯电 2029 款 Kaveya 超级轿跑。Gyesera 现已开放订购，首批车辆预计今年 12 月抵达美国经销商。Karma ",
-      "source": "IT之家",
-      "publishTime": "2026-08-13",
-      "link": "https://www.ithome.com/0/989/463.htm"
-    },
-    {
-      "id": "3bb03df8-2d23-8153-b374-f89ac3bc6337",
-      "title": "部分 Claude 模型将添加“文本水印”，Anthropic 回应各界关切",
-      "summary": "IT之家 8 月 13 日消息，Anthropic 本周宣布，部分 Claude 模型会直接在输出文本中嵌入一种“难以察觉的水印”。内容被复制粘贴后，水印仍会随文本保留，经过一定程度修改后也可能继续存在，用于帮助判断一段文字究竟由 AI 生成还是由人类撰写。Anthropic 目前尚未公开水印系统的完整技术原理。技术细节的不透明已经引发一些科技从业者担忧。具体来看，版权如何认定、Claude 输出质量是否会受到影响，以及只使用 AI 进行少量辅助的作品会不会因此被误判等问题，备受关注。据《商业内幕》今天（12 日）晚间报道，Anthropic 方面对于各界关心的问题作出了回应。谁能识别水印？科",
-      "source": "IT之家",
-      "publishTime": "2026-08-13",
-      "link": "https://www.ithome.com/0/989/462.htm"
-    },
-    {
-      "id": "3bb03df8-2d23-8145-bf32-f4368413d74a",
-      "title": "消息称苹果首款折叠屏手机 iPhone Ultra 产能有限，首批货源优先供应美国市场",
-      "summary": "IT之家 8 月 13 日消息，外媒 ChannelNews 援引一位匿名零部件供应商消息，称苹果首款折叠屏手机 iPhone Ultra 有限的首批货源可能会优先供应美国市场，随后再陆续进入包括中国在内的其他主要市场。事实上，此前就已经有多份消息称 iPhone Ultra 初期产能可能非常有限。如果供应情况确实如此紧张，那么苹果采取美国市场优先、随后逐步扩大销售范围的策略也并非没有可能。此前消息显示，苹果 iPhone Ultra 配备 7.8 英寸内屏、5.5 英寸外屏，合上时的厚度为 9mm，比 iPhone 17 Pro Max 的 8.75mm 略厚，整机一共配备 4 枚摄像头，其",
-      "source": "IT之家",
-      "publishTime": "2026-08-13",
-      "link": "https://www.ithome.com/0/989/460.htm"
-    },
-    {
-      "id": "3bb03df8-2d23-81c8-ab83-e48a5fd0c2c6",
-      "title": "Creator talent giant DBA is buying a boutique management shop to help influencers build their own businesses",
-      "summary": "Digital Brand Architects is acquiring the talent firm V1sion Ventures as it looks to expand its work in creator entrepreneurship and brand building.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-13",
-      "link": "https://www.businessinsider.com/influencer-firm-dba-is-acquiring-a-creator-founded-management-company-2026-8"
-    },
-    {
-      "id": "3bb03df8-2d23-8140-9e18-ca1cd42c4da0",
-      "title": "vivo 推出 S50t 元气版手机：内存规格降级为 LPDDR5，2999 元起",
-      "summary": "IT之家 8 月 13 日消息，vivo 现已在官网上架 S50t 元气版手机，对比 S50t 主要将 RAM 内存规格从 LPDDR5X 降级为 LPDDR5，其余规格无变化，IT之家整理价格如下：12GB RAM+256GB 存储空间：2999 元12GB RAM +512GB 存储空间：3299 元该机厚度低至 7.49mm，正面配备一块 6.59 英寸 2750x1260 分辨率 120Hz AMOLED 面板，匹配 50Mp 自拍摄像头；手机背面采用 50Mp 主摄 +8Mp 超广角 +50Mp 长焦。该机搭载第三代高通骁龙 8s 处理器，匹配 LPDDR5 RAM 和 UFS3.1",
-      "source": "IT之家",
-      "publishTime": "2026-08-13",
-      "link": "https://www.ithome.com/0/989/459.htm"
     }
   ],
   "macroEvents": [
