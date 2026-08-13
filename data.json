@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-14 06:09",
+  "updatedAt": "2026-08-14 07:10",
   "news": [
+    {
+      "id": "3bb03df8-2d23-8193-b48f-ef50b74b17ed",
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-14",
+      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/"
+    },
+    {
+      "id": "3bb03df8-2d23-8183-8322-d932059d0a63",
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-14",
+      "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/"
+    },
+    {
+      "id": "3bb03df8-2d23-814e-985e-f25d44844ee4",
+      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+      "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+      "source": "BBC Tech",
+      "publishTime": "2026-08-14",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3bb03df8-2d23-8174-81eb-fb8c61307e5f",
+      "title": "Reddit stock jumps on inclusion in S&P 500",
+      "summary": "Reddit shares jumped on the company's inclusion in the S&P 500.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-14",
+      "link": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html"
+    },
+    {
+      "id": "3bb03df8-2d23-8121-a7e8-ff68b0002cd8",
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since ",
+      "source": "The Verge",
+      "publishTime": "2026-08-14",
+      "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier"
+    },
+    {
+      "id": "3bb03df8-2d23-81a5-ae0d-eded8472656e",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-14",
+      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/"
+    },
+    {
+      "id": "3bb03df8-2d23-812d-a872-d9b72f3bbc16",
+      "title": "The fight over Flock and other ALPRs",
+      "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and pe",
+      "source": "The Verge",
+      "publishTime": "2026-08-14",
+      "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy"
+    },
+    {
+      "id": "3bb03df8-2d23-814c-9b6d-e57decf31351",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's",
+      "source": "The Verge",
+      "publishTime": "2026-08-14",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
+    },
     {
       "id": "3bb03df8-2d23-8126-a565-e164b6db90f7",
       "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
@@ -336,70 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-08-14",
       "link": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price"
-    },
-    {
-      "id": "3bb03df8-2d23-8131-adcc-d7d3fbaa3f1d",
-      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-      "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-14",
-      "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/"
-    },
-    {
-      "id": "3bb03df8-2d23-81d5-b05a-e633c7af0d8c",
-      "title": "The Painful Truth of Exactly How ICE’s New Shock Gloves Work",
-      "summary": "ICE is spending millions on shock gloves designed to overpower subjects through intense, localized pain.",
-      "source": "Wired",
-      "publishTime": "2026-08-13",
-      "link": "https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/"
-    },
-    {
-      "id": "3bb03df8-2d23-81db-b098-f07aca5669d9",
-      "title": "Instagram introduces a redesigned wordmark",
-      "summary": "The social media giant says it was time for a sharper and more modern look after a decade.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-13",
-      "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/"
-    },
-    {
-      "id": "3bb03df8-2d23-81a2-820b-c33f287a667a",
-      "title": "英伟达 GeForce NOW 原生 Linux 应用发布：结束 Beta 测试，支持 Ubuntu 24.04 及 Flatpak 安装",
-      "summary": "IT之家 8 月 13 日消息，英伟达于当地时间 8 月 13 日宣布，其云游戏服务 GeForce NOW 的原生 Linux 应用已正式结束测试阶段，面向所有用户发布。该应用于 2026 年 1 月以 Beta 版形式首次登陆 Linux 平台，经过数月的社区反馈与优化，现已推出正式版本。Linux 版 GeForce NOW 客户端将继续支持 Ubuntu 24.04 及更新版本。英伟达同时新增了官方 Flatpak 软件仓库，以简化安装和后续更新流程。用户可通过英伟达的.bin 安装程序或添加 Flatpak 仓库直接安装 com.nvidia.geforcenow 包。性能方面，英伟",
-      "source": "IT之家",
-      "publishTime": "2026-08-13",
-      "link": "https://www.ithome.com/0/989/486.htm"
-    },
-    {
-      "id": "3bb03df8-2d23-812e-bae0-e712d91e9e21",
-      "title": "Jet-powered Shaheds make up as much as two-thirds of some Russian drone attacks, Ukrainian official says",
-      "summary": "Russia's jet-powered drones are more challenging to intercept than their predecessors powered by propellers.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-13",
-      "link": "https://www.businessinsider.com/jet-powered-drones-russian-attacks-2026-8"
-    },
-    {
-      "id": "3bb03df8-2d23-81ff-94ab-e22032896d04",
-      "title": "澳大利亚青少年社媒禁令上路半年间，Meta 清理 75.6 万个疑似未成年账户",
-      "summary": "IT之家 8 月 13 日消息，据路透社报道，当地时间 13 日（今天）Meta 披露，自澳大利亚实施全球首个 16 岁以下青少年社交媒体账户禁令以来，公司已经清理超过 75 万个疑似属于 16 岁以下澳大利亚用户的账户。面对监管机构可能采取进一步措施，Meta 还承诺继续加强执法。Meta 称，从禁令去年 12 月正式生效前夕到今年 6 月，公司累计停用 46.2 万个疑似未成年人的 Instagram 账户和 29.4 万个 Facebook 账户，总数为 75.6 万个。澳大利亚政府担忧社交媒体对儿童和低龄青少年身心健康造成影响，因此推动制定了这项具有里程碑意义的法律。据IT之家了解，禁",
-      "source": "IT之家",
-      "publishTime": "2026-08-13",
-      "link": "https://www.ithome.com/0/989/484.htm"
-    },
-    {
-      "id": "3bb03df8-2d23-814e-af13-ff62d30e4592",
-      "title": "全球最大电池纯电动飞机 Heart Aerospace X1 完成首飞：超 1 兆瓦功率输出 + 超 11 吨起飞重量",
-      "summary": "IT之家 8 月 13 日消息，当地时间 8 月 12 日，瑞典航空航天公司 Heart Aerospace 宣布其 X1 演示机在美国纽约州普拉茨堡国际机场完成首次载人飞行。这架飞机翼展达 106 英尺（IT之家注：约 3,231 厘米），机长 76 英尺（约 2,316 厘米），起飞重量超过 25,000 磅（约 11,340 千克），这也是迄今为止完成飞行的最大电池的电动飞机。此次试飞在美国联邦航空管理局颁发的实验类特殊适航证书（SAC-EC）框架下进行。飞行持续约 27 分钟，最高爬升至离地高度 1,100 英尺（约 335.3 米）。测试内容涵盖滑行、起飞、爬升、机动以及着陆等科目。",
-      "source": "IT之家",
-      "publishTime": "2026-08-13",
-      "link": "https://www.ithome.com/0/989/485.htm"
-    },
-    {
-      "id": "3bb03df8-2d23-8198-9875-ee3be4dd0b27",
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which the",
-      "source": "The Verge",
-      "publishTime": "2026-08-13",
-      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list"
     }
   ],
   "macroEvents": [
