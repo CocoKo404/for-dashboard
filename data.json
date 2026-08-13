@@ -1,6 +1,182 @@
 {
-  "updatedAt": "2026-08-13 08:05",
+  "updatedAt": "2026-08-13 11:06",
   "news": [
+    {
+      "id": "3bb03df8-2d23-81f4-adb1-ddd6f74effb5",
+      "title": "谷歌 AI 重组内幕曝光：布林不满落后 Anthropic，要求全力投入 Gemini 模型",
+      "summary": "IT之家 8 月 13 日消息，据路透社今日报道，两位知情人士透露，谷歌联合创始人谢尔盖 · 布林近几个月来一直敦促其关键 AI 部门员工全力投入 Gemini 模型，因为其母公司 Alphabet 正在寻求缩小与竞争对手的差距。据一位不愿透露姓名的人士称，在 Anthropic 公司全力推进其强大的 Claude Mythos 模型预览版之际，布林在 4 月份的一次全体员工大会上向数百名谷歌员工发表讲话，敦促公司旗下的 Google DeepMind 人工智能实验室加快步伐。去年 11 月，谷歌的 Gemini 模型曾短暂超越竞争对手，但 Anthropic 和 OpenAI 的最新更新再次",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/035.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-8132-873e-ead09986934c",
+      "title": "享界 G9 及鸿蒙智行新品发布会定档 8 月 20 日",
+      "summary": "IT之家 8 月 13 日消息，享界汽车今日宣布，享界 G9 及鸿蒙智行新品发布会定档 8 月 20 日 14:30。据IT之家此前报道，鸿蒙智行享界 G9 预售价 43.98 万元起，其中 Max+ 仅提供增程版，新车长宽高分别为 5377/2050/1897mm，轴距 3160mm。新车全系标配 L3 级架构设计、华为乾崑智驾 ADS 5 高阶版、华为智擎双电机四驱 + 后桥自适应机械差速锁等。享界 G9 Max+五座版预售价 43.98 万起 | 六座版预售价 44.98 万起全系标配 L3 级架构 华为乾崑智驾 ADS 5 高阶版双腔空簧 + 双阀连续可变阻尼减振器 + ±12° 后轮",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/036.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-813b-a439-cb84d5b7f346",
+      "title": "影石 CEO 刘靖康确认在开发两款可换镜头相机，称其中一款造型会颠覆认知",
+      "summary": "IT之家 8 月 13 日消息，影石 Insta360 日本首家直营旗舰店本月在东京浅草正式开业，影石 CEO 刘靖康接受了当地媒体 MyNavi 的采访。针对社交网络上关于影石即将进军可换镜头相机领域的传闻，刘靖康明确表示：“目前正处于研发推进阶段。”此外他还透露，影石正在同时研发两款定位截然不同的机型。其中一款“采用了大家此前未曾设想过的全新形态”，极有可能彻底颠覆传统相机“构图、对焦、按快门”的拍摄模式。刘靖康随后补充：“我们应该能在明年的 CP+（IT之家注：日本国际摄影器材与影像展览会）上向大家展示原型机。”谈及研发可换镜头相机的初衷，他表示：“我们希望通过引入新技术与人工智能，让即",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/034.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-8106-8973-cf6b2999a780",
+      "title": "微软优化 Win11 内存占用，8GB 内存 PC 运行速度更快",
+      "summary": "IT之家 8 月 13 日消息，科技媒体 Windows Central 昨日（8 月 12 日）发布博文，报道称微软公司针对 8GB 以及以下内存的 PC 设备，进一步优化 Windows 11 系统体验。该媒体指出微软在 7 月可选更新 KB5101684 和 8 月累积更新 KB5121003 中，进一步优化 Windows 11 内存占用，减少资源消耗，让用户可以感知到系统运行更快了。IT之家附上相关截图如下：在功能改进方面，微软在本次更新中主要带来以下改进：包括打开跳转列表和最近使用的文件、共享文件、文件夹以及使用任务视图和多桌面场景下，提高了 explorer.exe 的可靠性。此",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/033.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-814d-8517-da83eccc56df",
+      "title": "Twitch 证实亚马逊正利用其直播内容训练 AI 模型，用户强烈不满",
+      "summary": "IT之家 8 月 13 日消息，亚马逊正在使用 Twitch 直播内容训练其 AI 模型，而 Twitch 用户对此并不买账。亚马逊旗下的 Twitch 当地时间周三宣布，用户可以选择退出，从而阻止亚马逊使用自己的内容训练 AI 模型。这一公告也正式确认了一件事：亚马逊确实一直在用 Twitch 内容进行 AI 模型训练。在一场专门解释此次调整的直播中，Twitch 社区负责人 Mary Kish 表示，她预计用户会对此产生强烈反弹。“我们并不指望你们对此感到高兴或兴奋，”她说，“我也不认为任何人会对此作出积极反应。”事实证明，她说对了。IT之家注意到，这场直播的实时聊天区很快被数百条反对 A",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/032.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-816c-abe6-dfe38995f055",
+      "title": "Mistral AI 自家平台开放第三方模型接入：首个为智谱 GLM-5.2",
+      "summary": "IT之家 8 月 13 日消息，Mistral AI 当地时间 11 日宣布，作为其一系列欧洲主权人工智能新举措的一部分，其平台将支持第三方开放模型，首款模型将是智谱 GLM-5.2。Mistral 平台的第三方开放模型将与其第一方模型运行在相同的基础设施、区域控制、服务承诺下，客户可以在不分散其人工智能运行位置的情况下扩展模型选择范围。Mistral AI 同时宣布，用户现在可以选择在美国还是欧洲区域执行 AI 推理负载，这意味着客户能更方便地满足数据跨境合规监管要求；该企业还启动了 Mistral 优先层级公开预览，这一机制可关键任务工作负载提供承诺的服务级别。这家欧洲领先人工智能实验室还",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/031.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-81cb-9cd9-d62c7850626f",
+      "title": "Anthropic 为 Claude 生成 AI 内容添加水印，网友吵翻了",
+      "summary": "IT之家 8 月 13 日消息，Anthropic 最近决定为 Claude 的输出添加水印，也就是在聊天机器人生成的编辑文本中植入不可见代码，以标记相关内容由人工智能生成。据IT之家了解，Anthropic 推出这项新政策，是为了满足欧盟《人工智能法案》（EU AI Act）的《透明度规范》要求。该规范如今要求科技公司对人工智能生成或编辑的内容进行标记，而且这种标记必须能够被计算机系统识别。不过，欧洲监管机构可能对此感到满意，一些 AI 用户却明显不太高兴。在 Reddit 上不难看到用户逐渐积累的不满情绪，不过，网站上的其他用户并不完全认同这些观点。其中一篇比较激烈的帖子来自一名叫 vis",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/030.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-81e2-8893-d231cbb92043",
+      "title": "零跑汽车董事长朱江明谈造车：现阶段已越过最难熬的节点，到了一个感觉有点快乐的阶段",
+      "summary": "IT之家 8 月 13 日消息，据第一财经报道，8 月 11 日，零跑汽车创始人、董事长朱江明在零跑 A05 上市发布会后的沟通会上称，零跑现阶段已越过最难熬的节点，到了一个感觉有点快乐的阶段了。过山车难受的点已经过去，现在在享受这个过程，觉得挺开心的，可以看到很多风景。朱江明表示，零跑正快要到达顶点，有望实现更高的目标。虽然整个行业总销量下降给我们带来了很大的难度，包括材料价格上涨带来的成本压力，但我们还是希望团队能够继续努力，去完成全年的销量目标。据IT之家此前报道，7 月中旬，零跑汽车高级副总裁徐军表示，保证下半年尽可能无限接近销量目标，目前不会调整全年的百万销量目标。零跑汽车高级副总裁",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/028.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-81b8-acd7-d806029ed121",
+      "title": "报道称微软限制 Microsoft 365 和 OneDrive，推动 Win10 用户升级 Win11",
+      "summary": "IT之家 8 月 13 日消息，科技媒体 Windows Latest 昨日（8 月 12 日）发布博文，报道称微软正尝试通过限制 Microsoft 365 和 OneDrive，推动更多 Windows 10 用户升级迁移到 Windows 11 平台。根据官方公告，针对适用于 Windows 10 系统的 Microsoft 365 应用，微软将会持续维护到 2028 年 10 月，不过自 version 2608 版本开始，微软将不会再向其推送新功能 / 新特性。IT之家翻译公告内容如下：适用于 Windows 10 设备的 Microsoft 365 应用在 Version 2608",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/027.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-81ce-bf8a-e0ae4b9613e6",
+      "title": "Departing Google chief scientist Jeff Dean has been in talks for a $10 billion valuation for his new AI startup",
+      "summary": "The legendary Google engineer has been in discussions for a $1 billion funding round in his new AI startup, Discovery Loop.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-13",
+      "link": "https://www.businessinsider.com/former-google-exec-jeff-dean-valuation-for-new-ai-startup-2026-8"
+    },
+    {
+      "id": "3bb03df8-2d23-819e-8e8f-d06877ae31ed",
+      "title": "联想来酷 Air 14 2026 笔记本新增酷睿 3-304/5-320 处理器版本，3999 元起",
+      "summary": "IT之家 8 月 13 日消息，联想来酷 Air 14 2026 笔记本于今年 5 月正式开售，搭载英特尔酷睿 5 315 处理器，建议零售价 4499 元。IT之家注意到，联想现已为这款机型增加了酷睿 3 304 和酷睿 5 320 处理器版本可选，新品将于 8 月 18 日开售，售价 3999 元起：酷睿 3 304、12GB+512GB：3999 元，国补价 3399.15 元酷睿 5 320、12GB+1TB：5199 元，国补价 4419.15 元该机采用一体式全金属机身，厚 12.95mm，重 990g；配备一块 14 英寸 1920×1200 分辨率 60Hz LCD 面板，30",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/026.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-814f-9b19-f958ce18c691",
+      "title": "剑指苹果 MacBook Neo：联想 IdeaPad Vibe 笔记本曝光，7 种颜色",
+      "summary": "IT之家 8 月 13 日消息，科技媒体 Windows Latest 今天（8 月 13 日）发布博文，分享了一组渲染图，展示了联想 IdeaPad Vibe 笔记本，共有 7 种颜色，上市后预估和苹果 MacBook Neo 正面竞争。颜色方面，消息源表示联想计划为 IdeaPad Vibe 笔记本推出以下 7 种颜色，每种配色的顶盖均居中印有“Lenovo”标识，采用同色调处理：腮红粉（blush pink）亮黄色（bright yellow）赤陶橙棕色（terracotta orange-brown）鼠尾草绿（sage green）海军蓝（navy blue）银色（silver）薄荷青",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/025.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-818c-934b-da8b29109aaa",
+      "title": "维基百科信息遭恶意篡改，谷歌搜索误显示 OpenAI CEO 奥尔特曼死讯",
+      "summary": "IT之家 8 月 13 日消息，当地时间周三凌晨，一些 X 和 Reddit 用户发现，在谷歌搜索 OpenAI CEO 萨姆 · 奥尔特曼的名字时，搜索结果显示他于当天去世。几个小时后，谷歌承认该搜索结果存在错误。谷歌在 X 上回应称：“感谢指出这一问题，目前该信息已经不再显示，而且这并非谷歌人为修改的结果。当有人恶意篡改公开信息来源时，可能会影响搜索结果中显示的信息。”一些网友认为，这可能与维基百科遭到恶意篡改有关。维基百科将这种行为定义为“以故意扰乱或恶意的方式编辑页面”。作为一个免费网络百科全书，维基百科主要依靠志愿者编辑和更新页面内容。萨姆 · 奥尔特曼维基百科页面的修订历史显示，编",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/024.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-816c-9278-ff7dcd7e77b4",
+      "title": "IT早报 0813：腾讯半年报净利润 1141.15 亿元同增 10%；9999 元起荣耀 Robot Phone 发布；奕境称华为智驾依然是行业顶级；DeepSeek V4 Pro 正式版更新...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 13 日星期四，今天的重要科技资讯有：1. 腾讯控股 2026 财年半年报归母净利润 1141.15 亿元同比增长 10%，微信月活 14.39 亿同比增长 2%腾讯控股 2026 财年半年报营业总收入 4012.43 亿元、同比增长 10%；营业总收入 4012.43 亿元、同比增长 10%；>> 查看详情2. 9999 元起，荣耀 Robot Phone 手机正式发布该机配备骁龙 8 Elite Gen5 芯片、7060mAh 大电池，首发钛合金云台影像架构与荣耀驭光 H1 自研芯片，还搭载 YOYO Pro 智能模式。>> 查看详情",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/023.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-8162-90f1-f897d199a46e",
+      "title": "苹果 Mac 平台最强效率工具：Raycast 0.71 发布，让 AI 直接“看懂”你的屏幕",
+      "summary": "IT之家 8 月 13 日消息，科技媒体 9to5Mac 昨日（8 月 12 日）发布博文，报道称 Raycast 工具 0.71 版本新增“屏幕感知”（Screen Awareness）功能，可以让用户将当前应用 / 窗口中的上下文信息直接导入 AI 聊天。IT之家注：Raycast 是主要面向 Mac 用户打造的高效快捷启动与任务管理工具，能够通过快捷键呼出命令面板来替代繁琐的鼠标操作，于今年 1 月以测试版推出 Windows 10/Windows 11 版本，在不少用户眼中，它是苹果 Mac 平台最强效率工具。在 Raycast 0.71 版本更新中，官方主要引入“屏幕感知”（Scre",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/022.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-8114-8059-eab1b4457466",
+      "title": "华纳兄弟确认将推出《霍格沃茨之遗 2》",
+      "summary": "IT之家 8 月 13 日消息，《霍格沃茨之遗 2》正在开发中吗？华纳兄弟已经在致股东的信中确认了这款游戏的续作。不过，目前关于游戏名称、发售时间以及具体玩法等信息仍然未知。《霍格沃茨之遗》最初于 2023 年登陆各大主流游戏平台，为忠实的《哈利 · 波特》系列粉丝带来了开放世界 RPG 体验。玩家可以创建属于自己的霍格沃茨学生角色，选择学院、学习魔法，并掌握一种罕见的古代魔法。如今，这款游戏的续作已经提上日程。在讨论品牌未来发展的致股东信中，华纳兄弟强调，游戏业务将成为推动公司增长的重要动力。除了宣布即将推出的《霍格沃茨之遗》续作，公司还特别提到了近期发布的《乐高蝙蝠侠：黑暗骑士之遗》取得的",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/021.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-81f4-83e7-c34e61c8d089",
+      "title": "J.D. Power 美国充电体验调研：Ionna 登顶，特斯拉仅排第四",
+      "summary": "IT之家 8 月 13 日消息，汽车制造商最近纷纷“举白旗”，决定采用由特斯拉推广的北美充电标准（NACS）。除此之外，多家车企还签署协议，获得使用特斯拉庞大超级充电网络的权限。该网络目前在全球拥有超过 8 万个充电桩。特斯拉的充电网络虽然被视为行业标杆，但它并不是体验最好的充电网络。一项最新研究就得出了这样的结论，该研究对美国多个充电网络的用户体验进行了调查。IT之家注意到，这项由 J.D. Power 开展的《美国电动汽车公共充电体验研究》显示，Ionna 提供了最佳的充电体验。Ionna 背后有宝马、通用汽车、本田、现代、起亚、奔驰、Stellantis 和丰田等多家汽车制造商支持，目前",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/020.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-81b2-89dc-f1a9b90e2550",
+      "title": "Apple TV 电视剧《同乐者》第二季已完成剧本创作，最快下月开拍",
+      "summary": "IT之家 8 月 13 日消息，本周作客 Deadline 播客节目 Crew Call 时，主创文斯 · 吉利根（Vince Gilligan）表示已完成《同乐者》（Pluribus）第二季剧本创作，并计划最快下月开拍。吉利根在播客节目中表示：“我迫不及待地想为观众呈现 [同乐者] 第二季，我们刚刚完成了剧本创作，在接下来的 1 个月或者几个月里，我们就要开拍了。我真是太兴奋了！”至于开播日期，吉利根并未正面回应“2027 年年底开播”的爆料消息，只是回避表示会在 21 世纪的某个时候开播。IT之家发稿前查询豆瓣平台，《同乐者》第一季于 2025 年 11 月 7 日在苹果 Apple TV",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/019.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-8160-b25b-d0eeae5417c4",
+      "title": "小米米家净水器 2 沸腾版预售：100℃ 真沸腾水、2000G 温热水流速，政府补贴价 2549 元",
+      "summary": "IT之家 8 月 13 日消息，小米米家净水器 2 沸腾版现已开启预售，将于 8 月 17 日正式开售，原价 3399 元，到手价 2832 元，政府补贴价 2549 元。这款净水器支持提供纯净水、温热水、沸水三种出水，轻触开水键即可出 100℃ 真沸腾水，采用先净化再烧开的方案；达到等效 2000G 温热水流速，温热水流速达 5.4L/min，开水挡流速 2L/min；采用大容量全域锁温舱，一次可提供 1.5L 开水或 4.5L 温热水；支持空胆补水、半胆补水、用后补水三种模式，采用 304 食品接触用不锈钢。这款净水器采用 12 级鲜活净水过滤系统，可高效滤除 145 种污染物，其中大肠杆",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/018.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-8168-af56-f3414caba4c8",
+      "title": "7 月全球电动汽车销量同比增长 9%，欧洲暴涨、北美大跌",
+      "summary": "IT之家 8 月 13 日消息，全球电动汽车销量 7 月同比增长 9%，但不同地区的增长表现却呈现出截然不同的走势。根据 Benchmark Mineral Intelligence 公布的最新数据，全球 7 月共售出约 185 万辆电动汽车，使 2026 年前 7 个月的全球销量达到 1,150 万辆，同比增长 4%。Benchmark 的统计数据包括纯电动汽车（BEV）和插电式混合动力汽车（PHEV）。Benchmark 高级电动汽车分析师 George Whitcombe 表示：“全球电动汽车市场仍然呈现出明显的区域分化。”欧洲和世界其他地区保持强劲增长，而北美市场再次陷入下滑。中国市场",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/016.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-8102-914d-e464647926b6",
+      "title": "代码显示苹果 Wallet 将重构线下 iPhone 17 等换购流程：估价 90 天有效",
+      "summary": "IT之家 8 月 13 日消息，科技媒体 MacRumors 昨日（8 月 12 日）发布博文，报道称基于 iOS 27 Beta 5 更新代码，苹果正在开发一套线下零售以旧换新系统，支持客户将换新报价保存至 Apple Wallet（苹果钱包），有效期长达 90 天。该媒体在 iOS 27 版 Guide 应用代码中，发现零售以旧换新系统的相关引用字符。根据描述，员工可向客户展示二维码，客户使用 iPhone 相机扫描即可保存以旧换新报价。IT之家援引博文介绍，Guide 应用供苹果员工、苹果授权经销商及其他销售组织使用，使用场景为与客户交流或演示产品，该应用还针对数十个地区和语言添加了本地",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/015.htm"
+    },
+    {
+      "id": "3bb03df8-2d23-8116-903c-d59a3c3341e3",
+      "title": "消息称苹果拟向出版商支付最高数亿美元，获取新闻内容以改进 AI 版 Siri",
+      "summary": "IT之家 8 月 13 日消息，据《华尔街日报》报道，苹果正在与多家出版商洽谈新的合作协议，希望使用它们的内容来提供最新的新闻和信息，这是苹果改进 AI 驱动的 Siri 语音助手计划的一部分。据知情人士透露，苹果近几个月已经主动联系了一些出版商。相关人士表示，苹果提出的新协议期限可能为多年，允许公司获取出版商的内容，用于支持 Siri 的 AI 功能。该功能预计将于今年晚些时候正式推出。部分知情人士称，苹果提出了一种灵活的付费方案，即当合作出版商的内容被 Siri 使用时，苹果再向其支付费用。据悉，苹果还讨论过一笔规模可能达到数亿美元的预算，用于向合作出版商支付相关费用。目前，大型 AI 公",
+      "source": "IT之家",
+      "publishTime": "2026-08-13",
+      "link": "https://www.ithome.com/0/989/014.htm"
+    },
     {
       "id": "3ba03df8-2d23-818d-993c-e59a59f7a57c",
       "title": "消息称苹果 iPhone 18 标准版搭载 12GB 内存，且拥有 Pro 机型同款缩小版灵动岛",
@@ -224,182 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-08-13",
       "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html"
-    },
-    {
-      "id": "3ba03df8-2d23-81a0-b564-f67be1745769",
-      "title": "Counterpoint：2026 年二季度美国智能手机销量同比降 5%，低端市场承压",
-      "summary": "IT之家 8 月 13 日消息，Counterpoint 最新报告显示，受内存价格上涨以及其他宏观经济因素影响，消费者需求疲软，2026 年第二季度美国智能手机销量同比下降 5% 。报告指出，本季度消费者面临双重冲击：中东冲突导致汽油等商品价格上涨，影响了消费者对智能手机及其他电子产品的购买力；同时，超大规模企业对 RAM 的需求大幅上升，显著推高了智能手机厂商的内存成本，这对智能手机低端市场影响尤为突出，该领域本身利润微薄，成本上涨让局势更加艰难。美国市场四大原始设备制造商（苹果、三星、摩托罗拉、谷歌）总销量同比下降 4% ，其余市场销量同比暴跌 45% ，更小的厂商难以应对元器件成本上涨。",
-      "source": "IT之家",
-      "publishTime": "2026-08-13",
-      "link": "https://www.ithome.com/0/989/003.htm"
-    },
-    {
-      "id": "3ba03df8-2d23-811e-9a84-d74b5f4bfa68",
-      "title": "The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden",
-      "summary": "Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.",
-      "source": "Wired",
-      "publishTime": "2026-08-13",
-      "link": "https://www.wired.com/story/lettuce-grow-20-percent-off-2026/"
-    },
-    {
-      "id": "3ba03df8-2d23-8131-bdac-c33453f79561",
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-13",
-      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
-    },
-    {
-      "id": "3ba03df8-2d23-81d3-8e0a-df9b674d7a63",
-      "title": "Inside Paramount, employees say they have bigger concerns than a reported plan to ditch California",
-      "summary": "Paramount staffers say they're focused on what the WBD merger might mean for their jobs rather than reports of a potential relocation.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-13",
-      "link": "https://www.businessinsider.com/paramount-skydance-employees-david-ellison-plan-leaving-california-wbd-deal-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-81e0-98ac-f5dd1c4309eb",
-      "title": "This 2020 Nvidia chip is still going strong. That matters for the AI boom.",
-      "summary": "CoreWeave recently rented Nvidia A100 GPUs into 2029, suggesting AI chips stay useful and hold their value far longer than critics feared.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-13",
-      "link": "https://www.businessinsider.com/coreweave-deal-challenges-nvidia-ai-chip-obsolescence-fears-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-810b-ab2c-cdc5e0721a08",
-      "title": "Jeremy Strong plays Mark Zuckerberg in 'The Social Reckoning,' a follow-up to 2010's 'The Social Network.' Here's everything we know.",
-      "summary": "Aaron Sorkin will tell the story of how Facebook infiltrated our daily lives in \"The Social Reckoning,\" with Jeremy Strong playing Mark Zuckerberg.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-13",
-      "link": "https://www.businessinsider.com/the-social-reckoning-cast-trailer-release-date-facebook-mark-zuckerberg-2026-6"
-    },
-    {
-      "id": "3ba03df8-2d23-8132-8acc-c89a4aa38061",
-      "title": "Russia is turning Kherson into a 'human safari' as its drones hunt civilians. Residents say anyone can be hit at any time.",
-      "summary": "Russia's drone attacks on civilians in Kherson have surged, turning daily life into a deadly \"human safari.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-08-13",
-      "link": "https://www.businessinsider.com/kherson-ukraine-human-safari-russia-drones-civilians-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-812e-89ef-d18887f4977f",
-      "title": "The next big indie game publisher is taking some exciting swings",
-      "summary": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. Perhaps the most significant announcement from Kinetic's show is that it's p",
-      "source": "The Verge",
-      "publishTime": "2026-08-13",
-      "link": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition"
-    },
-    {
-      "id": "3ba03df8-2d23-811e-b326-d0aff93e9a6f",
-      "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
-      "summary": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18 won't arrive until the first quarter of next year. The more affordable iPhone 1",
-      "source": "The Verge",
-      "publishTime": "2026-08-13",
-      "link": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed"
-    },
-    {
-      "id": "3ba03df8-2d23-81c6-9f44-f0575499a2ae",
-      "title": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
-      "summary": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.",
-      "source": "Wired",
-      "publishTime": "2026-08-13",
-      "link": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/"
-    },
-    {
-      "id": "3ba03df8-2d23-8103-9439-d8a639164246",
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
-      "source": "Wired",
-      "publishTime": "2026-08-13",
-      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/"
-    },
-    {
-      "id": "3ba03df8-2d23-819a-8dfc-f19c5a74b51f",
-      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
-      "summary": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-13",
-      "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/"
-    },
-    {
-      "id": "3ba03df8-2d23-8185-a63c-c95c152fa2a1",
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-13",
-      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
-    },
-    {
-      "id": "3ba03df8-2d23-818c-bc03-ccd49f322fab",
-      "title": "Here are the biggest companies that have followed Elon Musk out of Delaware",
-      "summary": "Elon Musk urged companies to ditch Delaware last year after a judge voided his $55 billion pay package.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-13",
-      "link": "https://www.businessinsider.com/list-corporations-leaving-delaware-elon-musk-spacex-tesla-dropbox-roblox-2025-7"
-    },
-    {
-      "id": "3ba03df8-2d23-81d2-a0c3-fcacdd21c736",
-      "title": "Lawsuit against Trump alleges early access sale to his Truth Social posts is 'profoundly corrupt'",
-      "summary": "Trump Media's interim CEO has said it has signed more than 10 customers paying up to $100,000 a month for the early access service.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-13",
-      "link": "https://www.businessinsider.com/lawsuit-donald-trump-early-access-truth-social-posts-corrupt-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-81ba-93ac-d01008740149",
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-13",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
-    },
-    {
-      "id": "3ba03df8-2d23-8130-a849-d0c85f38728c",
-      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
-      "summary": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at $899, the Pro and Pro XL are $1,099 and $1,299 respectively, and the Pro Fold starts at $1,899. The wat",
-      "source": "The Verge",
-      "publishTime": "2026-08-13",
-      "link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date"
-    },
-    {
-      "id": "3ba03df8-2d23-8140-bec5-d50ef1367961",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-13",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
-    },
-    {
-      "id": "3ba03df8-2d23-8108-a0ea-edb6adcf54cf",
-      "title": "The hottest thing to do in London today is wait in line for solar eclipse glasses",
-      "summary": "Some Londoners missed the memo that a rare solar eclipse was going to be visible in the UK on Wednesday. They spent the week racing to find the city's remaining eclipse glasses, and lining up in 90 degree heat.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-13",
-      "link": "https://www.businessinsider.com/solar-eclipse-glasses-without-colander-lining-up-london-where-buy-2026-8"
-    },
-    {
-      "id": "3ba03df8-2d23-8126-84b2-f530c90c99b3",
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or s",
-      "source": "The Verge",
-      "publishTime": "2026-08-13",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai"
-    },
-    {
-      "id": "3ba03df8-2d23-8179-8de5-f99437f0def6",
-      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-13",
-      "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/"
-    },
-    {
-      "id": "3ba03df8-2d23-81c1-a9dc-c9c76e421514",
-      "title": "Discord ordered to suspend livestreams in Brazil",
-      "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-      "source": "BBC Tech",
-      "publishTime": "2026-08-13",
-      "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "macroEvents": [
