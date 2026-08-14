@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-08-15 06:48",
+  "updatedAt": "2026-08-15 07:46",
   "news": [
+    {
+      "id": "3bc03df8-2d23-8195-8644-c227a6ce4cd0",
+      "title": "Why tech bosses keep sharing their manifestos about AI",
+      "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
+      "source": "BBC Tech",
+      "publishTime": "2026-08-15",
+      "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3bc03df8-2d23-811d-a311-e2d7cb4d6eef",
+      "title": "小米汽车详解澎程门把手三重安全冗余设计，覆盖车外 / 车内开启、门锁供电三个环节",
+      "summary": "IT之家 8 月 15 日消息，小米汽车官方昨晚发布了答网友问（第 277 集），针对今年成都车展小米汽车有什么看点、澎程 N90 Max 为什么要设计一体式热成型大门环、澎程的门把手有什么安全设计考虑等问题进行了集中解答。IT之家附小米汽车本集答网友问如下：今年成都车展，小米汽车有什么看点？2026 成都车展，暨第二十九届成都国际汽车展览会，展期 8 月 21 日到 8 月 30 日，共 10 天。举办地点在中国西部国际博览城（成都市天府新区福州路东段 88 号）。小米汽车展馆位于：中国西部博览城 10 号馆 · H1004。届时会有小米澎程 N90 Max、N70 Max｜SU7｜YU7｜",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/972.htm"
+    },
+    {
+      "id": "3bc03df8-2d23-8115-bf52-fb1cf184a56c",
+      "title": "国家邮政局：1-7 月快递业务量累计完成 1174.7 亿件，同比增长 4.8%",
+      "summary": "IT之家 8 月 15 日消息，8 月 14 日，国家邮政局公布 2026 年 1-7 月邮政行业运行情况，IT之家整理如下：1-7 月，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成 10799.1 亿元，同比增长 6.1%。其中，快递业务收入累计完成 9017.7 亿元，同比增长 7.4%。1-7 月，邮政行业寄递业务量累计完成 1274.4 亿件，同比增长 4.2%。其中，快递业务量累计完成 1174.7 亿件，同比增长 4.8%。7 月份，邮政行业业务收入完成 1543.0 亿元，同比增长 6.4%。其中，快递业务收入完成 1303.7 亿元，同比增长 8.1%。7 月份，",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/971.htm"
+    },
+    {
+      "id": "3bc03df8-2d23-814a-93d6-f5303c1656f2",
+      "title": "硅光新时代来了？英伟达全面投产 Spectrum-X，全球首款量产 200G/lane CPO 交换机",
+      "summary": "IT之家 8 月 15 日消息，英伟达官方账号 @NVIDIAAIInfra 昨日（8 月 14 日）在 X 平台发布推文，官宣已全面投产 Spectrum-X 以太网光子交换机，成为全球首款量产的 200G/lane 共封装光器件（CPO）以太网交换机系统。IT之家注：G/lane 是高速通信、芯片设计和数据中心领域中衡量单通道（Lane）数据传输速率的核心技术指标，表示每个物理通道每秒能传输多少吉比特（Gb）的数据。应用场景方面，英伟达表示该交换机主要面向大规模 AI 训练与推理集群。随着 AI 工厂扩大，密集部署 GPU 的服务器需要在高带宽下频繁交换数据。传输方面，传统网络通常把独立光",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/970.htm"
+    },
+    {
+      "id": "3bc03df8-2d23-81d2-a7d3-fbafb2cee9b9",
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-15",
+      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/"
+    },
     {
       "id": "3bc03df8-2d23-8154-b52f-d12157164100",
       "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
@@ -218,6 +258,14 @@
       "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones"
     },
     {
+      "id": "3bc03df8-2d23-8113-b8a1-c583b1d8e410",
+      "title": "微软发布 Win11 26H1 RP 28000.2796 预览版：文件管理器适配 KB / MB / GB 单位",
+      "summary": "IT之家 8 月 15 日消息，微软昨天（8 月 14 日）发布博文，邀请 Release Preview 频道的 Windows Insider 项目成员，测试适用于不同版本 Windows 11 的最新预览版更新，具体内容如下：Windows 11 版本 24H2：更新后版本号升至 Build 26100.9267Windows 11 版本 25H2：更新后版本号升至 Build 26200.9267Windows 11 版本 26H1：更新后版本号升至 Build 28000.2796功能方面，IT之家注：面向 Windows 11 26H1 系统更新中，本次更新分两个部分：分阶段逐步推",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/969.htm"
+    },
+    {
       "id": "3bc03df8-2d23-819d-b06a-db29d119a79b",
       "title": "Mark Zuckerberg has an Instagzam",
       "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do th",
@@ -352,54 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-14",
       "link": "https://www.ithome.com/0/989/961.htm"
-    },
-    {
-      "id": "3bc03df8-2d23-81aa-ac38-dcab2bd1348a",
-      "title": "苹果 AirPods Pro 4 耳机最新消息汇总：摄像头与手势识别成焦点",
-      "summary": "IT之家 8 月 14 日消息，据外媒 Appleinsider 今天报道，苹果 AirPods Pro 产品线或将迎来重大升级，其中一个版本可能会搭载红外摄像头并具备 AI 技术。IT之家在此援引 Appleinsider，苹果对音频产品线的更新策略与 iPhone、iPad 等有所不同。初代 AirPods Pro 问世于 2019 年，但第二代改款直到 2022 年才到来。2025 年苹果推出 AirPods Pro 3，这款耳机带来了心率检测功能和更加强大的主动降噪。虽然最初有传言表示，AirPods Pro 4 将带来重大改进并内置摄像头，但根据最近流出的消息，苹果可能会率先推出小幅",
-      "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/955.htm"
-    },
-    {
-      "id": "3bc03df8-2d23-813e-badb-d4cd0be71735",
-      "title": "My husband is LL Cool J. Starting a jewelry business gave me a purpose that's all mine.",
-      "summary": "Simone I. Smith says building a jewelry company with LL Cool J's support helped her create an identity beyond marriage and motherhood.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-14",
-      "link": "https://www.businessinsider.com/simone-smith-ll-cool-j-jewelry-business-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-81ee-845c-ff5003d424f3",
-      "title": "Trump's been railing against the electromagnetic catapults on the Navy's newest carriers for years. Now, he's pushing a return to steam.",
-      "summary": "The president has repeatedly criticized the electromagnetic catapults and weapons elevators on the USS Gerald R. Ford supercarrier.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-14",
-      "link": "https://www.businessinsider.com/trump-pushes-costly-return-steam-future-us-navy-aircraft-carrier-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-810d-bb04-f342aafc723e",
-      "title": "Luigi Mangione pleads guilty to federal stalking charges in striking reversal",
-      "summary": "Luigi Mangione is facing the possibility of life in federal prison for stalking charges related to the killing of UnitedHealthcare CEO Brian Thompson.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-14",
-      "link": "https://www.businessinsider.com/luigi-mangione-guilty-plea-stalking-federal-court-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-8155-a049-d2d6285f117f",
-      "title": "一汽红旗新款 HS5 将于 8 月 21 日成都车展上市：换装灵犀座舱，搭载司南智驾系统",
-      "summary": "IT之家 8 月 14 日消息，一汽红旗官方宣布，新款红旗 HS5 将于 8 月 21 日在第二十九届成都国际汽车展览会（IT之家注：8 月 21 日至 30 日）期间正式上市。新车在外观、内饰及智能驾驶方面进行了全面升级，内饰换装灵犀座舱，并搭载司南智驾系统。外观方面，新款 HS5 依旧保留大尺寸直瀑式格栅。主要变化集中在大灯部分，新车取消现款分体式大灯，改为一体式透镜 LED 灯组，格栅两侧新增 LED 日行灯勾勒轮廓，配合一体式贯穿下包围，有效压低视觉重心。车尾主要针对尾灯与后包围进行调整，整体风格更加简洁。内饰方面，新款 HS5 换装灵犀座舱（采用全球首款车规级 5nm 高通骁龙 82",
-      "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/954.htm"
-    },
-    {
-      "id": "3bc03df8-2d23-81f5-9020-fa13446cedb0",
-      "title": "阿里开源 Qwen3.8-27B 模型，编程、办公场景表现超越 Qwen3.7-Plus",
-      "summary": "IT之家 8 月 14 日消息，今天（14 日）晚间，阿里“千问大模型”公众号宣布，Qwen3.8-27B 模型正式开源，所有开发者、科研机构和企业均可自由下载、部署和使用。IT之家附体验地址：Hugging Face 魔搭社区根据介绍，27B（270 亿参数）是全球 AI 社区呼声最高的模型尺寸，Qwen3.8-27B 是原生多模态稠密（Dense）模型，支持 262K 原生上下文，通过 YaRN 技术可外推至 1M Tokens 上下文。较 Qwen3.6-27B，新模型在编程和办公场景的性能大幅提升，表现甚至超越了 Qwen3.7-Plus；同时，模型还新增了 reasoning_eff",
-      "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/953.htm"
     }
   ],
   "macroEvents": [
