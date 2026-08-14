@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-15 02:24",
+  "updatedAt": "2026-08-15 03:27",
   "news": [
+    {
+      "id": "3bc03df8-2d23-8196-ba81-d4acd71cf77b",
+      "title": "A RAMageddon guide to back-to-school laptop shopping",
+      "summary": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others wildly more expensive. The good news? […]",
+      "source": "The Verge",
+      "publishTime": "2026-08-15",
+      "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school"
+    },
+    {
+      "id": "3bc03df8-2d23-8157-a05b-fb480408fff9",
+      "title": "VCs are investing more money in social media startups this year after a dismal 2025",
+      "summary": "The number of venture capital deals backing social media startup has declined since 2021. The sector is seeing new signs of life, though.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-15",
+      "link": "https://www.businessinsider.com/chart-how-much-money-vcs-investing-new-social-media-startups-2026-8"
+    },
+    {
+      "id": "3bc03df8-2d23-81a9-b707-fe01c43eee8f",
+      "title": "Tech analyst Ben Thompson dismisses the 'clearly absurd' concept embedded in AI watermarking",
+      "summary": "Thompson took particular issue with Anthropic adding a watermark even if Claude was used only for proofreading.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-15",
+      "link": "https://www.businessinsider.com/ben-thompson-ai-watermarking-anthropic-claude-2026-8"
+    },
+    {
+      "id": "3bc03df8-2d23-814d-ba53-ec52631f6a10",
+      "title": "I visited the Obama Presidential Center, the most expensive presidential library in US history. Here are 15 things that surprised me most.",
+      "summary": "The Obama Presidential Center is the most expensive presidential library in US history. Its 19-acre campus houses a museum and other community spaces.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-15",
+      "link": "https://www.businessinsider.com/inside-obama-presidential-center-surprising-things"
+    },
+    {
+      "id": "3bc03df8-2d23-81fb-9c11-c2c800879a34",
+      "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+      "summary": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story about faith and the supernatural. But executives at 20th Centu",
+      "source": "The Verge",
+      "publishTime": "2026-08-15",
+      "link": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu"
+    },
+    {
+      "id": "3bc03df8-2d23-81e2-9e1f-c35ed773409c",
+      "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
+      "summary": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle. This helps explain the storied super car maker's t",
+      "source": "The Verge",
+      "publishTime": "2026-08-15",
+      "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance"
+    },
+    {
+      "id": "3bc03df8-2d23-81c9-a2d8-c649694babf6",
+      "title": "Jeff Bezos buys part of Liverpool Football Club",
+      "summary": "Amazon founder Jeff Bezos now owns a slice of Liverpool Football Club.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-15",
+      "link": "https://www.businessinsider.com/jeff-bezos-sports-owner-liverpool-football-club-stake-eduardo-saverin-2026-8"
+    },
+    {
+      "id": "3bc03df8-2d23-812b-a229-cfc4dcd18e50",
+      "title": "When my family visits my in-laws, my husband and I don't stay with our kids. It's a win for everyone.",
+      "summary": "While visiting my in-laws in Florida, my husband and I don't stay with our kids. We split up and go with his mom, and they go with their cousins.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-15",
+      "link": "https://www.businessinsider.com/dont-stay-with-kids-visiting-in-laws-split-up-travel-2026-8"
+    },
+    {
+      "id": "3bc03df8-2d23-811e-ba3c-c6d5056825ec",
+      "title": "Greek feta prices are getting more expensive because the animals are dying by the hundreds of thousands",
+      "summary": "Greece has culled 488,000 animals to fight sheep pox, squeezing milk supplies, raising prices, and threatening its $1 billion feta industry.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-15",
+      "link": "https://www.businessinsider.com/greece-feta-price-hike-deadly-virus-outbreak-pox-no-vaccination-2026-8"
+    },
     {
       "id": "3bc03df8-2d23-8195-b515-cb455e75af43",
       "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
@@ -328,78 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-14",
       "link": "https://www.ithome.com/0/989/945.htm"
-    },
-    {
-      "id": "3bc03df8-2d23-8179-a624-febe9a5a01d3",
-      "title": "科技行业史上最大收购之一，SpaceX 豪掷 600 亿美元拿下 AI 编程公司 Cursor",
-      "summary": "IT之家 8 月 14 日消息，SpaceX 完成了对 AI 编程初创公司 Cursor 的 600 亿美元（IT之家注：现汇率约合 4,054.22 亿元人民币）收购。对于马斯克而言，这笔交易是追赶 Anthropic 和 OpenAI 的重要一步。监管文件显示，收购于当地时间 8 月 14 日正式生效。SpaceX 两个月前已经宣布与 Cursor 达成收购协议。据彭博社报道，作为科技行业有史以来规模最大的收购之一，SpaceX 希望借助 Cursor 加快开发更先进的 AI 工具，用于简化编程等任务。编程已经成为 AI 领域利润丰厚的重要市场。马斯克旗下 AI 业务目前名为 SpaceX",
-      "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/944.htm"
-    },
-    {
-      "id": "3bc03df8-2d23-8117-9a2f-e7074c7fd1ec",
-      "title": "Josh D’Amaro’s vision for a Disney+ super app is taking shape — but comes with clear risks",
-      "summary": "Disney+ may soon be home to games and merchandise, but some analysts are skeptical that it can supercharge Disney's business.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-14",
-      "link": "https://www.businessinsider.com/disney-plus-superapp-streaming-josh-damaro-games-merchandise-shortform-video-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-81dd-b9a6-c8ffdb491535",
-      "title": "SpaceX's $60 billion acquisition of Cursor just closed — here's 3 ways they're already working together",
-      "summary": "SpaceX closed its $60 billion acquisition of the AI coding startup Cursor on Friday. The companies were already sharing compute and training data.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-14",
-      "link": "https://www.businessinsider.com/spacex-cursor-acquisition-partnership-grok-bot-colossus-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-81cb-91bd-de2bad92f0ad",
-      "title": "脱离微软 Xbox 后，《午夜以南》Steam 发行商已变更为 Compulsion Games",
-      "summary": "IT之家 8 月 14 日消息，独立开发者 Michael Klamerus 发现，加拿大游戏开发商 Compulsion Games 已正式完成与微软 Xbox 部门的分离。其 2025 年发行的动作冒险游戏《午夜以南》在 Steam 平台上的发行商信息已由“Xbox Game Studios”悄然变更为 Compulsion Games。目前，玩家在 Steam 平台购买《午夜以南》的款项将直接进入开发商账户，而不再经由微软。不过，该游戏在 PlayStation 商店和 Xbox 商店中，发行商仍标注为微软 / Xbox。Compulsion Games 是微软 Xbox 部门近期大规模",
-      "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/943.htm"
-    },
-    {
-      "id": "3bc03df8-2d23-81b2-b647-fa76887385ed",
-      "title": "奥迪专利探索新型增程系统：少一台电机也能实现 quattro 四驱",
-      "summary": "IT之家 8 月 14 日消息，据外媒 motor.es 今天（14 日）晚间报道，奥迪提出了一套颇为特殊的增程方案：两台电机加一台内燃机，同时不再额外设置独立发电机。少一台电机意味着零部件和成本都有机会下降，代价则是 quattro 四驱系统的控制难度明显增加。目前该方案还停留在专利阶段，奥迪没有确认任何量产车型、平台或时间表。IT之家注：插混和增程之间最直观的区别，通常在于内燃机是否会直接驱动车轮。内燃机参与驱动车轮，就属于混合动力；内燃机只负责发电，则属于增程。奥迪的新专利却试图模糊这条界线。正常行驶时，电池向主驱动电机供电，由主电机驱动一根车轴。需要 quattro 四轮驱动时，第二台",
-      "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/942.htm"
-    },
-    {
-      "id": "3bc03df8-2d23-8127-a6c7-d6fb94a2d26f",
-      "title": "Evidence of unfair use: AI books squeeze human authors out of the market",
-      "summary": "Anthropic's AI training using millions of used books raised copyright concerns. The market impact of AI-generated content is a key issue.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-14",
-      "link": "https://www.businessinsider.com/ai-books-anthropic-training-human-authors-market-amazon-research-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-8168-9d78-de13f1edbf4d",
-      "title": "新研究显示：上班时间刷负面消息会降低工作专注度",
-      "summary": "IT之家 8 月 14 日消息，据外媒 Phys.org 今天报道，许多人都会在上班时间浏览新闻和社交媒体。研究人员发现，工作时间刷负面消息，付出的代价不只是工作效率下降。得克萨斯农工大学心理与脑科学系助理教授 Ian Hughes 的一项研究发现，人们在工作时间沉迷负面消息时，会不自主地反复思考刚刚看到的消息。随着这些想法持续萦绕，他们投入工作的专注程度随之下降。据悉，该研究针对美国、英国的职场人士展开。科学家们发现，在工作时间进行“末日刷屏”（IT之家注：doomscrolling）的员工，更容易反复思考自己接触到的负面消息，这种反刍思维会导致工作投入度下降。Hughes 对此表示，人们喜",
-      "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/941.htm"
-    },
-    {
-      "id": "3bc03df8-2d23-81d0-ba13-da2fcb8d2717",
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-14",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
-    },
-    {
-      "id": "3bc03df8-2d23-814b-86f6-ef5c66a25607",
-      "title": "法国宪法委员会否决 15 岁以下未成年人社媒禁令",
-      "summary": "IT之家 8 月 14 日消息，据央视新闻，当地时间 8 月 14 日，法国宪法委员会宣布，否决一项禁止 15 岁以下未成年人使用社交媒体的法案，认为相关规定对表达和通信自由构成“不成比例的侵犯”。法国宪法委员会指出，该禁令可能适用于尚未证实会对未成年人健康和安全造成风险的网络服务，同时没有考虑未成年人的年龄、家庭状况和成熟程度，也没有规定家长在符合儿童利益的情况下解除或调整限制的条件。此外，宪法委员会认为，该法案实际上要求包括成年人在内的所有用户证明年龄，但没有对年龄验证方式和范围提供足够的法律保障，可能侵犯隐私权。据IT之家此前报道，法国议会 7 月 21 日最终通过该法案，原计划今年 9",
-      "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/940.htm"
     }
   ],
   "macroEvents": [
