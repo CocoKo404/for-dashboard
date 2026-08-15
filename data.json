@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-08-16 00:49",
+  "updatedAt": "2026-08-16 01:44",
   "news": [
+    {
+      "id": "3bd03df8-2d23-81ac-82db-fc9c9eb25c02",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-16",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    },
     {
       "id": "3bd03df8-2d23-81ae-aca5-e6f98cde1b3d",
       "title": "How to tell if your AI platforms’ accounts have been hacked",
@@ -392,14 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-08-15",
       "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html"
-    },
-    {
-      "id": "3bd03df8-2d23-8114-aa26-c6d69344f6a5",
-      "title": "How long will software-defined cars last? The auto industry doesn't know yet",
-      "summary": "Cars that run on software offer benefits automakers and many customers say older cars cannot compete with. But some analysts worry the vehicles might not last.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-15",
-      "link": "https://www.cnbc.com/2026/08/15/software-defined-vehicles-rivian-tesla.html"
     }
   ],
   "macroEvents": [
