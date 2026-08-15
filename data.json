@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-08-15 09:56",
+  "updatedAt": "2026-08-15 11:11",
   "news": [
     {
-      "id": "3bc03df8-2d23-8195-8644-c227a6ce4cd0",
-      "title": "Why tech bosses keep sharing their manifestos about AI",
-      "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
-      "source": "BBC Tech",
-      "publishTime": "2026-08-15",
-      "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3bc03df8-2d23-811d-a311-e2d7cb4d6eef",
-      "title": "小米汽车详解澎程门把手三重安全冗余设计，覆盖车外 / 车内开启、门锁供电三个环节",
-      "summary": "IT之家 8 月 15 日消息，小米汽车官方昨晚发布了答网友问（第 277 集），针对今年成都车展小米汽车有什么看点、澎程 N90 Max 为什么要设计一体式热成型大门环、澎程的门把手有什么安全设计考虑等问题进行了集中解答。IT之家附小米汽车本集答网友问如下：今年成都车展，小米汽车有什么看点？2026 成都车展，暨第二十九届成都国际汽车展览会，展期 8 月 21 日到 8 月 30 日，共 10 天。举办地点在中国西部国际博览城（成都市天府新区福州路东段 88 号）。小米汽车展馆位于：中国西部博览城 10 号馆 · H1004。届时会有小米澎程 N90 Max、N70 Max｜SU7｜YU7｜",
+      "id": "3bd03df8-2d23-817e-b560-ffd8b9b96fe2",
+      "title": "卡巴斯基披露 CoolClient 后门变种：更隐蔽监视 Win10/Win11 设备活动",
+      "summary": "IT之家 8 月 15 日消息，卡巴斯基昨日（8 月 14 日）发布博文，报道称黑客组织 HoneyMyte（又名 Mustang Panda）升级 CoolClient 后门，加入了内核级 Windows Rootkit，增强恶意组件的隐藏和自我保护能力。IT之家注：CoolClient 后门主要支持键盘记录、剪贴板窃取、凭据收集、文件管理、系统侦察和插件扩展等，于 2022 年被首次披露。卡巴斯基在 2025 年曾发现其新增剪贴板窃取和 HTTP 流量拦截能力。最新样本可以把签名内核驱动注册为 Windows 服务，并通过 IOCTL 请求与驱动通信，隐藏 CoolClient 进程，保护",
       "source": "IT之家",
       "publishTime": "2026-08-15",
-      "link": "https://www.ithome.com/0/989/972.htm"
+      "link": "https://www.ithome.com/0/990/005.htm"
     },
     {
-      "id": "3bc03df8-2d23-8115-bf52-fb1cf184a56c",
-      "title": "国家邮政局：1-7 月快递业务量累计完成 1174.7 亿件，同比增长 4.8%",
-      "summary": "IT之家 8 月 15 日消息，8 月 14 日，国家邮政局公布 2026 年 1-7 月邮政行业运行情况，IT之家整理如下：1-7 月，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成 10799.1 亿元，同比增长 6.1%。其中，快递业务收入累计完成 9017.7 亿元，同比增长 7.4%。1-7 月，邮政行业寄递业务量累计完成 1274.4 亿件，同比增长 4.2%。其中，快递业务量累计完成 1174.7 亿件，同比增长 4.8%。7 月份，邮政行业业务收入完成 1543.0 亿元，同比增长 6.4%。其中，快递业务收入完成 1303.7 亿元，同比增长 8.1%。7 月份，",
+      "id": "3bd03df8-2d23-81e8-a5a3-f22f142a54ad",
+      "title": "卡巴斯基披露 CoolClient 后门变种：更隐蔽监视 Win10/Win11 设备活动",
+      "summary": "IT之家 8 月 15 日消息，卡巴斯基昨日（8 月 14 日）发布博文，报道称黑客组织 HoneyMyte（又名 Mustang Panda）升级 CoolClient 后门，加入了内核级 Windows Rootkit，增强恶意组件的隐藏和自我保护能力。IT之家注：CoolClient 后门主要支持键盘记录、剪贴板窃取、凭据收集、文件管理、系统侦察和插件扩展等，于 2022 年被首次披露。卡巴斯基在 2025 年曾发现其新增剪贴板窃取和 HTTP 流量拦截能力。最新样本可以把签名内核驱动注册为 Windows 服务，并通过 IOCTL 请求与驱动通信，隐藏 CoolClient 进程，保护",
       "source": "IT之家",
       "publishTime": "2026-08-15",
-      "link": "https://www.ithome.com/0/989/971.htm"
+      "link": "https://www.ithome.com/0/990/005.htm"
     },
     {
-      "id": "3bc03df8-2d23-814a-93d6-f5303c1656f2",
-      "title": "硅光新时代来了？英伟达全面投产 Spectrum-X，全球首款量产 200G/lane CPO 交换机",
-      "summary": "IT之家 8 月 15 日消息，英伟达官方账号 @NVIDIAAIInfra 昨日（8 月 14 日）在 X 平台发布推文，官宣已全面投产 Spectrum-X 以太网光子交换机，成为全球首款量产的 200G/lane 共封装光器件（CPO）以太网交换机系统。IT之家注：G/lane 是高速通信、芯片设计和数据中心领域中衡量单通道（Lane）数据传输速率的核心技术指标，表示每个物理通道每秒能传输多少吉比特（Gb）的数据。应用场景方面，英伟达表示该交换机主要面向大规模 AI 训练与推理集群。随着 AI 工厂扩大，密集部署 GPU 的服务器需要在高带宽下频繁交换数据。传输方面，传统网络通常把独立光",
+      "id": "3bd03df8-2d23-8105-b85b-d060fdf531e2",
+      "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill",
+      "summary": "IT之家 8 月 15 日消息，阿里千问开放平台于 8 月 10 日上线，同时支持 App、PC 和 AI 眼镜三端。据官方最新介绍，在眼镜端，千问提供技能平台和行业定制两大模块。在技能平台上，开发者可以调用已开放的眼镜能力，结合特定场景和人群需求创建 Skill。调用“眼镜拍照”插件，为视障群体开发“身边有什么”Skill，让眼镜辅助识别前方台阶、障碍物并进行语音提示，成为随身助手；创建景点导览 Skill，目光看向哪座建筑，眼镜就能跟着介绍建筑相关资料和背后故事；开发菜谱专家 Skill，从备菜到出锅，利用眼镜实时指导每一步操作。此外，开发者还可以通过自然语言描述需求，调用眼镜拍照、语音交",
       "source": "IT之家",
       "publishTime": "2026-08-15",
-      "link": "https://www.ithome.com/0/989/970.htm"
+      "link": "https://www.ithome.com/0/990/003.htm"
     },
     {
-      "id": "3bc03df8-2d23-81d2-a7d3-fbafb2cee9b9",
-      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/"
-    },
-    {
-      "id": "3bc03df8-2d23-8154-b52f-d12157164100",
-      "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
-      "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-15",
-      "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html"
-    },
-    {
-      "id": "3bc03df8-2d23-81c1-af9e-f099eef4f19a",
-      "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
-      "summary": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
-      "source": "Wired",
-      "publishTime": "2026-08-15",
-      "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/"
-    },
-    {
-      "id": "3bc03df8-2d23-81cd-98a1-d076db9dc620",
-      "title": "Lawsuit alleges Sony investigated WPP's media operation and said it ran a 'global crime scheme'",
-      "summary": "A legal filing alleges Sony hired investigators to probe WPP, who said the agency improperly withheld rebates from clients.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/lawsuit-alleges-sony-investigation-into-wpp-rebates-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-81cd-a6df-f532446c75b6",
-      "title": "Anthropic defends and explains its AI watermarking feature",
-      "summary": "Anthropic addresses concerns about its new watermark, which will affect Claude users globally. It said the watermark is to comply with the EU AI Act.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/anthropic-reveals-more-about-ai-watermarking-plans-amid-eu-regulations-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-81f4-939c-ce7abe58a2fd",
-      "title": "Protein or pickled garlic? What's new in ice cream",
-      "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
-      "source": "BBC Tech",
-      "publishTime": "2026-08-15",
-      "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3bc03df8-2d23-8196-9626-d98272c2d6cb",
-      "title": "The Best Movies to Stream This Month (August 2026)",
-      "summary": "Avatar Aang, Heartstopper Forever, and Exit 8 are among the films deserving of your eyeballs this month.",
-      "source": "Wired",
-      "publishTime": "2026-08-15",
-      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/"
-    },
-    {
-      "id": "3bc03df8-2d23-81e5-b6e1-f1025ecf5cd0",
-      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-      "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
-      "source": "Wired",
-      "publishTime": "2026-08-15",
-      "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/"
-    },
-    {
-      "id": "3bc03df8-2d23-8190-8f8f-e5d49f2863ad",
-      "title": "Self-driving trucks are officially testing on California highways",
-      "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/"
-    },
-    {
-      "id": "3bc03df8-2d23-81b8-a769-e8a133367ff1",
-      "title": "I made chef Alex Guarnaschelli's favorite 'accidentally vegan' dish. The recipe is now my go-to for an easy dinner.",
-      "summary": "I don't follow a plant-based diet, but I loved this celebrity chef's affordable and easy-to-make vegan dinner recipe for cauliflower \"steaks.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/best-cheap-vegan-dinner-recipe-easy-chef-alex-guarnaschelli-cauliflower-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-8197-b4d5-e5156ca7dfb2",
-      "title": "EV prices are rising again as automakers pull back on discounts",
-      "summary": "Car companies slashed thousands off their EV prices as consumer interest waned. Now, prices are slowly inching back up.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/ev-prices-rising-automaker-discounts-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-81b5-9a3b-e1962e9934d6",
-      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-      "summary": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/"
-    },
-    {
-      "id": "3bc03df8-2d23-8117-9064-d4ddb30acf13",
-      "title": "X reveals the formula for going viral on its platform",
-      "summary": "X released the source code for its algorithm on Thursday. The details reveal how posts end up on the For You page.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/x-twitter-algorithm-details-open-source-elon-musk-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-8132-92cc-e6bc939058b0",
-      "title": "Samsung has new Galaxy headphones in the works",
-      "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027. That would make the",
-      "source": "The Verge",
-      "publishTime": "2026-08-15",
-      "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones"
-    },
-    {
-      "id": "3bc03df8-2d23-8127-ba3c-da1e07e52813",
-      "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue",
-      "summary": "OpenAI CFO Sarah Friar met with investors following a week of turmoil in the C-suite that included the sudden departure of revenue chief Denise Dresser.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-15",
-      "link": "https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html"
-    },
-    {
-      "id": "3bc03df8-2d23-81e8-b006-d7d357bac116",
-      "title": "What we know about the alleged Iranian hacks on U.S. water utilities",
-      "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/"
-    },
-    {
-      "id": "3bc03df8-2d23-817c-9870-f98e45d5ac60",
-      "title": "Read-it-later app Pocket shut down down — here are the best alternatives",
-      "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/"
-    },
-    {
-      "id": "3bc03df8-2d23-81fe-a57a-cacdab41459c",
-      "title": "Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark",
-      "summary": "One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-8196-ba81-d4acd71cf77b",
-      "title": "A RAMageddon guide to back-to-school laptop shopping",
-      "summary": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others wildly more expensive. The good news? […]",
-      "source": "The Verge",
-      "publishTime": "2026-08-15",
-      "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school"
-    },
-    {
-      "id": "3bc03df8-2d23-8157-a05b-fb480408fff9",
-      "title": "VCs are investing more money in social media startups this year after a dismal 2025",
-      "summary": "The number of venture capital deals backing social media startup has declined since 2021. The sector is seeing new signs of life, though.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/chart-how-much-money-vcs-investing-new-social-media-startups-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-81a9-b707-fe01c43eee8f",
-      "title": "Tech analyst Ben Thompson dismisses the 'clearly absurd' concept embedded in AI watermarking",
-      "summary": "Thompson took particular issue with Anthropic adding a watermark even if Claude was used only for proofreading.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/ben-thompson-ai-watermarking-anthropic-claude-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-814d-ba53-ec52631f6a10",
-      "title": "I visited the Obama Presidential Center, the most expensive presidential library in US history. Here are 15 things that surprised me most.",
-      "summary": "The Obama Presidential Center is the most expensive presidential library in US history. Its 19-acre campus houses a museum and other community spaces.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/inside-obama-presidential-center-surprising-things"
-    },
-    {
-      "id": "3bc03df8-2d23-81fb-9c11-c2c800879a34",
-      "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
-      "summary": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story about faith and the supernatural. But executives at 20th Centu",
-      "source": "The Verge",
-      "publishTime": "2026-08-15",
-      "link": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu"
-    },
-    {
-      "id": "3bc03df8-2d23-81e2-9e1f-c35ed773409c",
-      "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
-      "summary": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle. This helps explain the storied super car maker's t",
-      "source": "The Verge",
-      "publishTime": "2026-08-15",
-      "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance"
-    },
-    {
-      "id": "3bc03df8-2d23-81c9-a2d8-c649694babf6",
-      "title": "Jeff Bezos buys part of Liverpool Football Club",
-      "summary": "Amazon founder Jeff Bezos now owns a slice of Liverpool Football Club.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/jeff-bezos-sports-owner-liverpool-football-club-stake-eduardo-saverin-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-812b-a229-cfc4dcd18e50",
-      "title": "When my family visits my in-laws, my husband and I don't stay with our kids. It's a win for everyone.",
-      "summary": "While visiting my in-laws in Florida, my husband and I don't stay with our kids. We split up and go with his mom, and they go with their cousins.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/dont-stay-with-kids-visiting-in-laws-split-up-travel-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-811e-ba3c-c6d5056825ec",
-      "title": "Greek feta prices are getting more expensive because the animals are dying by the hundreds of thousands",
-      "summary": "Greece has culled 488,000 animals to fight sheep pox, squeezing milk supplies, raising prices, and threatening its $1 billion feta industry.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/greece-feta-price-hike-deadly-virus-outbreak-pox-no-vaccination-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-8195-b515-cb455e75af43",
-      "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
-      "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older digita",
-      "source": "The Verge",
-      "publishTime": "2026-08-15",
-      "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones"
-    },
-    {
-      "id": "3bc03df8-2d23-8113-b8a1-c583b1d8e410",
-      "title": "微软发布 Win11 26H1 RP 28000.2796 预览版：文件管理器适配 KB / MB / GB 单位",
-      "summary": "IT之家 8 月 15 日消息，微软昨天（8 月 14 日）发布博文，邀请 Release Preview 频道的 Windows Insider 项目成员，测试适用于不同版本 Windows 11 的最新预览版更新，具体内容如下：Windows 11 版本 24H2：更新后版本号升至 Build 26100.9267Windows 11 版本 25H2：更新后版本号升至 Build 26200.9267Windows 11 版本 26H1：更新后版本号升至 Build 28000.2796功能方面，IT之家注：面向 Windows 11 26H1 系统更新中，本次更新分两个部分：分阶段逐步推",
+      "id": "3bd03df8-2d23-816d-8a3a-f4c7a29112c6",
+      "title": "小米 3 台迭代新平板更多信息曝光，有望归属 Pad 9 系列",
+      "summary": "IT之家 8 月 15 日消息，据博主 @数码闲聊站 今日分享，小米 3 台迭代新平板更多信息公示：M656BA——11.2 英寸 +45W 快充2612CRPFFC——12.5 英寸 +67W 快充M367FC——13.3 英寸 +120W 快充博主“建议”三台平板命名为小米平板 9、小米平板 9 Pro、小米平板 9 Pro Max，并在 9 月与小米新旗舰一同发布。据IT之家此前报道，该博主曾爆料，小米平板 9/9 Pro 屏幕物理尺寸为 11.16 英寸，大概率是一块标称 11.2 英寸 3.2K LCD 超高刷大屏，电池是 9720mAh，标准版支持 45W 快充，Pro 版支持 6",
       "source": "IT之家",
       "publishTime": "2026-08-15",
-      "link": "https://www.ithome.com/0/989/969.htm"
+      "link": "https://www.ithome.com/0/990/004.htm"
     },
     {
-      "id": "3bc03df8-2d23-819d-b06a-db29d119a79b",
-      "title": "Mark Zuckerberg has an Instagzam",
-      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do th",
-      "source": "The Verge",
-      "publishTime": "2026-08-15",
-      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast"
-    },
-    {
-      "id": "3bc03df8-2d23-8156-8bad-d285d0f52af6",
-      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears",
-      "source": "The Verge",
-      "publishTime": "2026-08-15",
-      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
-    },
-    {
-      "id": "3bc03df8-2d23-81f7-8507-cb3089c46c12",
-      "title": "I'm a New Yorker who went to Canada for the first time. I found 9 things so impressive that I can't wait to go back.",
-      "summary": "I traveled to Niagara Falls, Toronto, Quebec City, and Montreal in Canada, where I tried poutine, rode Via Rail trains, and explored cities.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/new-yorker-visited-ontario-quebec-canada-trip-highlights-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-811b-a8ff-fde79a8879ae",
-      "title": "A golden visa firm says 'plan B' passports are going middle class",
-      "summary": "An investment migration firm told Business Insider professionals and retirees now make up 25% of US consultations as more Americans shop \"plan b\" second passports.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/golden-visa-firm-plan-b-passports-middle-class-professional-retiree-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-8191-abf5-d77c6181f13c",
-      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
-      "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"
-    },
-    {
-      "id": "3bc03df8-2d23-8166-aa32-c9db7a404057",
-      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-      "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-15",
-      "link": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html"
-    },
-    {
-      "id": "3bc03df8-2d23-815a-a9a7-ef2ebaee1181",
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
-    },
-    {
-      "id": "3bc03df8-2d23-81db-b8f7-ee11287e4545",
-      "title": "I spent a year traveling across Ireland. There were 4 popular spots I loved, and 2 that didn't live up to the hype.",
-      "summary": "After spending a year living in and traveling across Ireland, there are some towns I'd revisit and two tourist spots that weren't worth the hype.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/popular-ireland-tourist-spots-to-see-skip-after-living-here-2026-8"
-    },
-    {
-      "id": "3bc03df8-2d23-8118-91db-db3de6b89dc8",
-      "title": "I tried Martha Stewart's hack for making the 'best scrambled eggs in the whole world.' They were deliciously creamy.",
-      "summary": "Martha Stewart believes clarified butter makes \"the best scrambled eggs in the whole world.\" Her technique makes the eggs golden, silky, and creamy.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-14",
-      "link": "https://www.businessinsider.com/martha-stewart-scrambled-eggs-hack"
-    },
-    {
-      "id": "3bc03df8-2d23-8108-a6a6-dd924bc24bfb",
-      "title": "翻新工厂、淘汰“祖宗之法”，福特斥 20 亿美元推进经济型纯电皮卡 Fathom 项目",
-      "summary": "IT之家 8 月 14 日消息，两年前，福特投入 20 亿美元（IT之家注：现汇率约合 135.14 亿元人民币）启动了一场重大转型：关闭肯塔基州路易斯维尔装配厂，淘汰沿用一个多世纪的传统装配线生产体系，并将工厂改造成能够生产新一代平价电动汽车的基地。当地时间 13 日，福特公布了最新进展：改造工程目前符合既定进度，工厂将在 2027 年开始生产 Fathom。Fathom 是一款纯电动中型皮卡，售价将低于 3 万美元（现汇率约合 20.3 万元人民币），也是福特首款采用全新通用平台的电动车型。福特预计 2027 年第一季度开始试制 Fathom 原型车，面向消费者的车辆将在同年晚些时候投产。",
+      "id": "3bd03df8-2d23-8172-90a0-ea37e8f40f74",
+      "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill",
+      "summary": "IT之家 8 月 15 日消息，阿里千问开放平台于 8 月 10 日上线，同时支持 App、PC 和 AI 眼镜三端。据官方最新介绍，在眼镜端，千问提供技能平台和行业定制两大模块。在技能平台上，开发者可以调用已开放的眼镜能力，结合特定场景和人群需求创建 Skill。调用“眼镜拍照”插件，为视障群体开发“身边有什么”Skill，让眼镜辅助识别前方台阶、障碍物并进行语音提示，成为随身助手；创建景点导览 Skill，目光看向哪座建筑，眼镜就能跟着介绍建筑相关资料和背后故事；开发菜谱专家 Skill，从备菜到出锅，利用眼镜实时指导每一步操作。此外，开发者还可以通过自然语言描述需求，调用眼镜拍照、语音交",
       "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/967.htm"
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/990/003.htm"
     },
     {
-      "id": "3bc03df8-2d23-81c1-b1af-e49812890b7b",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyon",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-14",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
-    },
-    {
-      "id": "3bc03df8-2d23-81c3-8954-dc09cb53bd08",
-      "title": "微信鸿蒙版灰度测试朋友圈自选视频封面，且支持查看好友视频封面",
-      "summary": "IT之家 8 月 14 日消息，据多位用户反馈，微信鸿蒙版（8.0.20 版本已出现）近期开启灰度测试，新增了朋友圈视频封面功能。更新后更换朋友圈封面时支持从图库选择视频，同时可查看好友设置的视频封面。当前该功能处于逐步开放阶段，仅部分获得灰度测试资格的用户可用。微信鸿蒙版 8.0.20 系列自 7 月底以来已连续推送多个邀测与尝鲜版本，包括 8.0.20.16、8.0.20.17、8.0.20.41、8.0.20.46 等，官方更新日志均为“修复了一些已知问题”。IT之家这里也提供一份由网友 @伤心萨摩耶 统计的 8.0.20 版本已知灰度测试内容（不绑定版本号）：1.聊天中的笔记查看时右上",
+      "id": "3bd03df8-2d23-8182-9830-c28796a58310",
+      "title": "小米 3 台迭代新平板更多信息曝光，有望归属 Pad 9 系列",
+      "summary": "IT之家 8 月 15 日消息，据博主 @数码闲聊站 今日分享，小米 3 台迭代新平板更多信息公示：M656BA——11.2 英寸 +45W 快充2612CRPFFC——12.5 英寸 +67W 快充M367FC——13.3 英寸 +120W 快充博主“建议”三台平板命名为小米平板 9、小米平板 9 Pro、小米平板 9 Pro Max，并在 9 月与小米新旗舰一同发布。据IT之家此前报道，该博主曾爆料，小米平板 9/9 Pro 屏幕物理尺寸为 11.16 英寸，大概率是一块标称 11.2 英寸 3.2K LCD 超高刷大屏，电池是 9720mAh，标准版支持 45W 快充，Pro 版支持 6",
       "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/966.htm"
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/990/004.htm"
     },
     {
-      "id": "3bc03df8-2d23-81fa-abc0-e208518e16ba",
-      "title": "索尼希望打造原创角色 IP，目标与三丽鸥抗衡",
-      "summary": "IT之家 8 月 14 日消息，据《日经》近日报道，负责管理索尼集团角色 IP 的索尼创意产品公司（Sony Creative Products）希望打造吸引全球的原创角色，并计划在 2030 年实现每年 100 亿日元（IT之家注：现汇率约合 4.24 亿元人民币）销售额。据报道，索尼希望围绕原创角色 IP 开发乙烯类商品、多媒体内容。公司已在内部成立新团队，孵化有潜力成为热门 IP 的角色，还在东京开设了专门的活动空间。在日本，人们难免会和各种吉祥物和角色打交道。各大银行、超市和快餐店，不时会和某个知名萌系角色展开联名。许多企业、城市都有自己的吉祥物，其中最知名的莫过于熊本县的“熊本熊”。",
+      "id": "3bd03df8-2d23-81ab-81f3-e45ab3b0288d",
+      "title": "DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发",
+      "summary": "IT之家 8 月 15 日消息，8 月 14 日，国家超算互联网宣布上线 DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813），以及智能体框架 DeepSeek Harness。官方介绍称，作为全国首个十万卡级超智融合算力资源池，国家超算互联网可为广大科研院所、科创企业、技术开发者提供大模型从训练、微调、评测到部署全生命周期的海量算力支撑。依托自主可控的国家级国产算力底座，平台用户可一站式完成 DeepSeek 系列模型 / 源码下载、私有化部署、分布式推理与智能体二次开发，高效打通顶尖大模型从技术研发到产业落地的关键链路。据悉，DeepSeek-V4-Pro-0",
       "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/964.htm"
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/990/002.htm"
     },
     {
-      "id": "3bc03df8-2d23-818b-a036-fd92e7c8d746",
-      "title": "钞能力？特斯拉出手“买断”瑞典罢工员工，近三年拉锯战告一段落",
-      "summary": "IT之家 8 月 14 日消息，据《商业内幕》今天（14 日）报道，特斯拉与瑞典罢工工人持续近三年的拉锯战终于接近结束。瑞典工会 IF Metall 宣布，将从 8 月 19 日起暂停针对特斯拉的劳工行动，原因是特斯拉已经买断该工会所有参与罢工的员工。这次罢工持续超过 1000 天，马斯克本人也曾公开关注此事，并称罢工“荒唐”。马斯克过去一直对工会持强烈批评态度，特斯拉还曾在 2023 年被指打压美国员工推动工会组织的行动。IF Metall 在宣布暂停劳工行动时，指责特斯拉“有系统地破坏罢工”。工会最初发动罢工，是希望迫使特斯拉同意就工资和工作条件展开谈判。“我们可以得出结论，特斯拉如此强烈",
+      "id": "3bd03df8-2d23-81ef-a25b-e26b8b23f7b1",
+      "title": "DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发",
+      "summary": "IT之家 8 月 15 日消息，8 月 14 日，国家超算互联网宣布上线 DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813），以及智能体框架 DeepSeek Harness。官方介绍称，作为全国首个十万卡级超智融合算力资源池，国家超算互联网可为广大科研院所、科创企业、技术开发者提供大模型从训练、微调、评测到部署全生命周期的海量算力支撑。依托自主可控的国家级国产算力底座，平台用户可一站式完成 DeepSeek 系列模型 / 源码下载、私有化部署、分布式推理与智能体二次开发，高效打通顶尖大模型从技术研发到产业落地的关键链路。据悉，DeepSeek-V4-Pro-0",
       "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/965.htm"
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/990/002.htm"
     },
     {
-      "id": "3bc03df8-2d23-812a-be91-e8bf0c9802e0",
-      "title": "马斯克 X 进一步公开透明推荐机制：让用户查看其帖子是否被限流",
-      "summary": "IT之家 8 月 14 日消息，DogeDesigner 今日发现，马斯克旗下社交平台 X 正在小范围测试一项新的“Under the Hood”功能，允许部分用户查看与自己账号及帖子相关的数据，并查看帖子是否被限流。这项功能针对长期存在的“Shadowban（暗影禁令）”争议，即账号没有被封禁、用户仍可正常发帖，但部分内容可能因为平台的推荐、搜索或其他分发机制而降低曝光度。根据目前公开的测试信息，获得测试资格的用户可以进入 X 应用设置中的“Under the Hood”页面。如果页面出现数据下载按钮，即意味着该账号已经加入测试范围。用户可直接点击下载按钮以下载其账号相关数据，下载的数据以 ",
+      "id": "3bd03df8-2d23-8191-8743-ded57e10072b",
+      "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
+      "summary": "IT之家 8 月 15 日消息，据博主 @闪飞 分享，iQOO 昨日内部发布了一款十周年概念机 —— iQOO X。据称，这部手机由“酷客”们参与共创。据介绍，这款手机搭载了骁龙 8 Elite Gen10 Pro 处理器 + 自研电竞芯片 QX、内置 15000mAh 全固态蓝冰电池、配备真 · 全面屏 LTPO 6.0（支持 2K+240Hz 超高刷新率）、半屏超声波指纹等。IT之家注意到，现场还提供了 iQOO X 概念机的手板（产品研发初期用于验证可行性的实物样件，可分为外观手板、结构手板、功能手板，主要检测产品的外观设计、结构合理性等）。",
       "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/963.htm"
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/990/000.htm"
     },
     {
-      "id": "3bc03df8-2d23-8182-9e01-f6ab4115f223",
-      "title": "小米澎湃 OS 4 将按用户申请顺序分两批逐步放量推送：第一批今天，第二批十天内",
-      "summary": "IT之家 8 月 14 日消息，小米澎湃 OS 官微今天（14 日）晚间发布答网友问，回应了“为什么通过社区申请却还没收到 Beta 版推送”“为什么我的机型不支持柔光玻璃材质”“为什么超级小爱 2.0 现在还没有灵感球和取餐码上岛”等一系列问题。IT之家整理如下：为什么我通过了社区申请，但还没有收到 Beta 版推送？为了给参与 Beta 的用户提供更稳定可靠的使用体验，我们会按照用户提交招募申请的先后顺序，分两批逐步放量推送，同一机型的第一批用户将在 8 月 14 日收到推送，第二批用户将在后续十日内收到推送。在您升级小米澎湃 OS 4 Beta 版前，请确保完成以下操作：当前设备需更新至",
+      "id": "3bd03df8-2d23-81a9-8200-fa6c76f433d6",
+      "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
+      "summary": "IT之家 8 月 15 日消息，据博主 @闪飞 分享，iQOO 昨日内部发布了一款十周年概念机 —— iQOO X。据称，这部手机由“酷客”们参与共创。据介绍，这款手机搭载了骁龙 8 Elite Gen10 Pro 处理器 + 自研电竞芯片 QX、内置 15000mAh 全固态蓝冰电池、配备真 · 全面屏 LTPO 6.0（支持 2K+240Hz 超高刷新率）、半屏超声波指纹等。IT之家注意到，现场还提供了 iQOO X 概念机的手板（产品研发初期用于验证可行性的实物样件，可分为外观手板、结构手板、功能手板，主要检测产品的外观设计、结构合理性等）。",
       "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/962.htm"
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/990/000.htm"
     },
     {
-      "id": "3bc03df8-2d23-8102-9b2e-e355e06adf1d",
-      "title": "高血糖悲报：科学家发现癌细胞可利用“糖盾”逃避免疫攻击，肿瘤微环境是关键因素",
-      "summary": "IT之家 8 月 14 日消息，美国圣福德 · 伯纳姆 · 普雷比斯医学发现研究所（Sanford Burnham Prebys Medical Discovery Institute）及其合作团队发现，肿瘤周围的物理环境和营养条件可能影响癌细胞逃避免疫系统攻击的能力。研究显示，高血糖、肿瘤组织硬度以及癌细胞代谢变化之间存在联系，并可能共同促进癌细胞表面形成更厚的糖分子保护层。相关研究成果已于当地时间 8 月 7 日发表在《Science Advances》上。研究人员发现，癌细胞表面存在一种富含糖类衍生分子的结构，称为糖萼（glycocalyx）。该结构可以形成物理屏障，使免疫细胞更难识别和",
+      "id": "3bd03df8-2d23-81bb-9258-c8c8baade18d",
+      "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+      "summary": "IT之家 8 月 15 日消息，科技媒体 Windows Central 昨日（8 月 14 日）发布博文，报道称微软承认经典版 Outlook 存在故障，会隐藏 Copilot 按钮并移除相关入口，阻止用户访问 Copilot Chat。对此部分用户视其为重大更新，反而拍手叫好。微软承认在 Windows 10、Windows 11 平台上，用户升级经典版 Outlook 至 20026.20182 及更高版本后，导致无法正常使用 Copilot 功能。在问题表现方面，该版本会隐藏功能区右侧的 Copilot 图标，此外还隐藏左侧应用栏和“更多应用”区域中的 Copilot 图标，而且用户无",
       "source": "IT之家",
-      "publishTime": "2026-08-14",
-      "link": "https://www.ithome.com/0/989/961.htm"
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/999.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-816b-9a61-d0f025e8a9bd",
+      "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+      "summary": "IT之家 8 月 15 日消息，科技媒体 Windows Central 昨日（8 月 14 日）发布博文，报道称微软承认经典版 Outlook 存在故障，会隐藏 Copilot 按钮并移除相关入口，阻止用户访问 Copilot Chat。对此部分用户视其为重大更新，反而拍手叫好。微软承认在 Windows 10、Windows 11 平台上，用户升级经典版 Outlook 至 20026.20182 及更高版本后，导致无法正常使用 Copilot 功能。在问题表现方面，该版本会隐藏功能区右侧的 Copilot 图标，此外还隐藏左侧应用栏和“更多应用”区域中的 Copilot 图标，而且用户无",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/999.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81f8-9e0f-c5f924b08f81",
+      "title": "全新长安深蓝 G318 官图公布：华为乾崑 ADS 5 Pro + 鸿蒙座舱 HarmonySpace 5",
+      "summary": "IT之家 8 月 15 日消息，长安汽车旗下全新深蓝 G318 官图昨日公布，新车搭载华为乾崑 ADS 5 Pro + 鸿蒙座舱 HarmonySpace 5，预计将于近期正式上市。外观方面，全新深蓝 G318 延续方盒子 SUV 设计风格，并提供原子灰、焰动黄、星钻黑、晶石绿、星辰白五款车身配色，新车采用机械门把手设计。内饰方面，新车提供曙光橙、摩卡棕、星耀黑三种配色方案，座椅基于人体工程学设计，并加入多项舒适配置。座舱方面，新车搭载鸿蒙座舱 Harmony Space 5，并配备车载大模型能力。该系统支持 10 种方言混说，可实现自然语言交互；同时加入导航 Agent 功能，用户可通过模糊",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/998.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8130-92a8-eb04b33609de",
+      "title": "全新长安深蓝 G318 官图公布：华为乾崑 ADS 5 Pro + 鸿蒙座舱 HarmonySpace 5",
+      "summary": "IT之家 8 月 15 日消息，长安汽车旗下全新深蓝 G318 官图昨日公布，新车搭载华为乾崑 ADS 5 Pro + 鸿蒙座舱 HarmonySpace 5，预计将于近期正式上市。外观方面，全新深蓝 G318 延续方盒子 SUV 设计风格，并提供原子灰、焰动黄、星钻黑、晶石绿、星辰白五款车身配色，新车采用机械门把手设计。内饰方面，新车提供曙光橙、摩卡棕、星耀黑三种配色方案，座椅基于人体工程学设计，并加入多项舒适配置。座舱方面，新车搭载鸿蒙座舱 Harmony Space 5，并配备车载大模型能力。该系统支持 10 种方言混说，可实现自然语言交互；同时加入导航 Agent 功能，用户可通过模糊",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/998.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8183-8d3e-fa8101570da0",
+      "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印",
+      "summary": "IT之家 8 月 15 日消息，谷歌昨日（8 月 14 日）在 X 平台发布推文，预告将会在未来几天为 Gemini 新增 Media Watermark 设置，让用户可关闭图像、视频和音乐作品的可见水印。用户可从 Gemini 左侧栏打开“设置”后，在菜单倒数第 3 项可以找到 Media Watermark。将鼠标悬停在该选项上后，界面会显示“On”和“Off”2 个选项。保持开启时，Gemini 生成的内容仍会保留可见水印；关闭后，将会移除图像、视频和音乐作品中的可见水印。谷歌表示在关闭可见水印后，在 AI 生成的作品中，依然会保留 SynthID 隐形水印（识别 AI 生成内容）与 C",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/997.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81d5-b4f6-ef7433e0ac4c",
+      "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印",
+      "summary": "IT之家 8 月 15 日消息，谷歌昨日（8 月 14 日）在 X 平台发布推文，预告将会在未来几天为 Gemini 新增 Media Watermark 设置，让用户可关闭图像、视频和音乐作品的可见水印。用户可从 Gemini 左侧栏打开“设置”后，在菜单倒数第 3 项可以找到 Media Watermark。将鼠标悬停在该选项上后，界面会显示“On”和“Off”2 个选项。保持开启时，Gemini 生成的内容仍会保留可见水印；关闭后，将会移除图像、视频和音乐作品中的可见水印。谷歌表示在关闭可见水印后，在 AI 生成的作品中，依然会保留 SynthID 隐形水印（识别 AI 生成内容）与 C",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/997.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-814f-bc3d-d8c5356a05ae",
+      "title": "可维修模块化手机 Fairphone 6+ 官宣 8 月 18 日发布：升级 12GB 内存",
+      "summary": "IT之家 8 月 15 日消息，荷兰品牌 @Fairphone 昨日（8 月 14 日）官宣将于欧洲中部时间 8 月 18 日 13 点（北京时间 8 月 18 日 19 点）推出可维修模块化手机 Fairphone 6+。颜色方面，IT之家此前报道，Fairphone 6+ 会有蓝色（Cobalt Blue）、黑色（Horizon Black）以及绿色（Forest Green）三种颜色。Fairphone 6+ 沿用了 Fairphone 6 的外观设计，主要变化是内存从 8GB 提升到 12GB，并新增 Cobalt Blue 蓝色配色。",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/996.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81f2-88b9-c9d584cdd944",
+      "title": "可维修模块化手机 Fairphone 6+ 官宣 8 月 18 日发布：升级 12GB 内存",
+      "summary": "IT之家 8 月 15 日消息，荷兰品牌 @Fairphone 昨日（8 月 14 日）官宣将于欧洲中部时间 8 月 18 日 13 点（北京时间 8 月 18 日 19 点）推出可维修模块化手机 Fairphone 6+。颜色方面，IT之家此前报道，Fairphone 6+ 会有蓝色（Cobalt Blue）、黑色（Horizon Black）以及绿色（Forest Green）三种颜色。Fairphone 6+ 沿用了 Fairphone 6 的外观设计，主要变化是内存从 8GB 提升到 12GB，并新增 Cobalt Blue 蓝色配色。",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/996.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-815e-9b4b-fffc25dd89fd",
+      "title": "EWC 电竞世俱杯回应《和平精英》多名选手食物中毒，原定比赛延期一天",
+      "summary": "IT之家 8 月 15 日消息，正在巴黎举办的 EWC 电竞世俱杯被曝突发状况，和平精英世俱杯多个参赛战队选手出现恶心、呕吐等不适症状。EWC 电竞世俱杯官方微博今日凌晨发布公告回应食物中毒事件，同时原定 8 月 14 日进行的相关比赛也调整至 8 月 15 日举行。IT之家附公告原文如下：我们已关注到，参加巴黎和平精英世俱杯的多支战队中，有选手出现身体不适的情况。目前，保障受影响选手的健康与安全是我们的首要任务。相关选手正在接受妥善照护并获得必要支持。我们也正与有关部门保持密切沟通，以进一步了解具体情况。现阶段，该情况仅涉及和平精英世俱杯的参赛选手，电竞世俱杯其他项目的选手及工作人员暂未报告",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/995.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-818a-8ba9-dbe77d45b24b",
+      "title": "EWC 电竞世俱杯回应《和平精英》多名选手食物中毒，原定比赛延期一天",
+      "summary": "IT之家 8 月 15 日消息，正在巴黎举办的 EWC 电竞世俱杯被曝突发状况，和平精英世俱杯多个参赛战队选手出现恶心、呕吐等不适症状。EWC 电竞世俱杯官方微博今日凌晨发布公告回应食物中毒事件，同时原定 8 月 14 日进行的相关比赛也调整至 8 月 15 日举行。IT之家附公告原文如下：我们已关注到，参加巴黎和平精英世俱杯的多支战队中，有选手出现身体不适的情况。目前，保障受影响选手的健康与安全是我们的首要任务。相关选手正在接受妥善照护并获得必要支持。我们也正与有关部门保持密切沟通，以进一步了解具体情况。现阶段，该情况仅涉及和平精英世俱杯的参赛选手，电竞世俱杯其他项目的选手及工作人员暂未报告",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/995.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81de-ab20-feb802af58c7",
+      "title": "五菱星光 M 官图公布：大七座插混动力 MPV，轴距达 3 米",
+      "summary": "IT之家 8 月 15 日消息，五菱星光 M 车型官图昨日公布，该车采用传统 MPV 造型，轴距为 3000mm，采用七座布局，搭载插电混动系统。IT之家注意到，该车已经现身工信部 8 月发布的第 410 批《道路机动车辆生产企业及产品公告》新产品公示，至此，五菱星光家族凑齐星光 S、星光 M、星光 L。五菱星光 M 定位插电式混合动力多用途乘用车，整体造型采用宽大的 MPV 车身设计，提供 7 座布局，整车尺寸为长 5150 mm 、宽 1920 mm 、高 1820 或 1800 mm，轴距为 3000 mm。动力方面，该车采用 1.5L 插电式混合动力系统，发动机型号为 LBT，由柳州赛",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/994.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-812e-bf8d-fbbe91f2516c",
+      "title": "五菱星光 M 官图公布：大七座插混动力 MPV，轴距达 3 米",
+      "summary": "IT之家 8 月 15 日消息，五菱星光 M 车型官图昨日公布，该车采用传统 MPV 造型，轴距为 3000mm，采用七座布局，搭载插电混动系统。IT之家注意到，该车已经现身工信部 8 月发布的第 410 批《道路机动车辆生产企业及产品公告》新产品公示，至此，五菱星光家族凑齐星光 S、星光 M、星光 L。五菱星光 M 定位插电式混合动力多用途乘用车，整体造型采用宽大的 MPV 车身设计，提供 7 座布局，整车尺寸为长 5150 mm 、宽 1920 mm 、高 1820 或 1800 mm，轴距为 3000 mm。动力方面，该车采用 1.5L 插电式混合动力系统，发动机型号为 LBT，由柳州赛",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/994.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8162-9486-e5417cc7b667",
+      "title": "谷歌 Chrome 浏览器测试新特性：自动隐藏书签栏",
+      "summary": "IT之家 8 月 15 日消息，科技媒体 Windows Report 昨日（8 月 14 日）发布博文，报道称谷歌正在为 Chrome 浏览器测试新特性：如果浏览器判断用户近期没有使用书签栏，便会自动将其隐藏，并通过通知说明原因，同时提供撤销选项。在浏览器隐藏书签栏后，将通知用户解释隐藏书签栏的原因，如果用户希望恢复显示，可以通过撤销按钮，恢复书签栏的显示状态。IT之家附上相关截图如下：",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/993.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8194-a1d2-c5a7d80d96b2",
+      "title": "谷歌 Chrome 浏览器测试新特性：自动隐藏书签栏",
+      "summary": "IT之家 8 月 15 日消息，科技媒体 Windows Report 昨日（8 月 14 日）发布博文，报道称谷歌正在为 Chrome 浏览器测试新特性：如果浏览器判断用户近期没有使用书签栏，便会自动将其隐藏，并通过通知说明原因，同时提供撤销选项。在浏览器隐藏书签栏后，将通知用户解释隐藏书签栏的原因，如果用户希望恢复显示，可以通过撤销按钮，恢复书签栏的显示状态。IT之家附上相关截图如下：",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/993.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81b8-b73d-fac1fcafd79e",
+      "title": "《DOTA2》TI15 第三日赛程公布：VG 争夺晋级主动权，XG、TR 力争连胜",
+      "summary": "IT之家 8 月 15 日消息，《DOTA2》2026 国际邀请赛（TI15）今日进入第三日的争夺，官方现已公布最新赛程。目前，TEAM VISION 和 Team Spirit 已经取得三胜，他们将在今天的对决中争夺第一个晋级主赛事的名额；OG Esports 和 HULIGANI 则是三战全败，今天他们将进行生死决战，败者将告别本届国际邀请赛。卫冕冠军 Team Falcons 和夺冠热门 Team Yandex 连吃败仗，进入 1-2 组。此前全负的中国战队在昨日状态回暖，Xtreme Gaming 与 Team Resilience 各取一胜，Vici Gaming 则获得两连胜。今日",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/991.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8197-8cd1-d46b28bbbfa3",
+      "title": "《DOTA2》TI15 第三日赛程公布：VG 争夺晋级主动权，XG、TR 力争连胜",
+      "summary": "IT之家 8 月 15 日消息，《DOTA2》2026 国际邀请赛（TI15）今日进入第三日的争夺，官方现已公布最新赛程。目前，TEAM VISION 和 Team Spirit 已经取得三胜，他们将在今天的对决中争夺第一个晋级主赛事的名额；OG Esports 和 HULIGANI 则是三战全败，今天他们将进行生死决战，败者将告别本届国际邀请赛。卫冕冠军 Team Falcons 和夺冠热门 Team Yandex 连吃败仗，进入 1-2 组。此前全负的中国战队在昨日状态回暖，Xtreme Gaming 与 Team Resilience 各取一胜，Vici Gaming 则获得两连胜。今日",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/991.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8127-b2ff-c7b71d7a0fab",
+      "title": "谷歌拟扩展 Pixel 手机防护，反诈功能覆盖拨出电话",
+      "summary": "IT之家 8 月 15 日消息，科技媒体 Android Authority 昨日（8 月 14 日）发布博文，报道称谷歌计划在 Pixel 系列手机上扩展“诈骗检测”功能，覆盖用户主动拨出的电话。IT之家注：“诈骗检测”（Scam Detection）是谷歌 Pixel 系列手机的通话安全功能，会分析电话音频，寻找可能存在的诈骗话术或行为线索。当前功能只针对来电，且需要用户手动开启。Pixel 9 及后续机型由 Gemini 提供支持，处理过程在设备本地完成，通话音频和转写文本不会分享给谷歌。该媒体挖掘 Beta 版谷歌 Phone 应用代码，发现了以下字符串：enableSharpieOn",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/990.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81c6-899c-f9c6f35b7360",
+      "title": "谷歌拟扩展 Pixel 手机防护，反诈功能覆盖拨出电话",
+      "summary": "IT之家 8 月 15 日消息，科技媒体 Android Authority 昨日（8 月 14 日）发布博文，报道称谷歌计划在 Pixel 系列手机上扩展“诈骗检测”功能，覆盖用户主动拨出的电话。IT之家注：“诈骗检测”（Scam Detection）是谷歌 Pixel 系列手机的通话安全功能，会分析电话音频，寻找可能存在的诈骗话术或行为线索。当前功能只针对来电，且需要用户手动开启。Pixel 9 及后续机型由 Gemini 提供支持，处理过程在设备本地完成，通话音频和转写文本不会分享给谷歌。该媒体挖掘 Beta 版谷歌 Phone 应用代码，发现了以下字符串：enableSharpieOn",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/990.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-818d-ad42-eb55332d9e1b",
+      "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
+      "summary": "IT之家 8 月 15 日消息，荣耀全场景软件主理人 @荣耀席迎军 昨晚宣布，荣耀 YOYO Claw 正式接入智谱最新发布的 GLM-5.3 大模型，“虾虾大脑”全新升级。通过更大规模、更长周期、更多样任务环境的后训练，GLM-5.3 进一步释放模型能力上限：编程能力较上一代提升 50%，并在多项公开基准测试中取得开源模型第一；在代码审查、漏洞发现等网络安全任务中，能力也进一步提升，表现更加优秀。据IT之家此前报道，在今年 4 月的荣耀 PC 新品技术沟通会上，荣耀版“龙虾”YOYO Claw 发布。官方在现场进行了多个场景演示，包括媒体运营助虾、3D 打印虾等。另外，YOYO Claw 于",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/989.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-814d-af42-f9d323b4c63e",
+      "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
+      "summary": "IT之家 8 月 15 日消息，荣耀全场景软件主理人 @荣耀席迎军 昨晚宣布，荣耀 YOYO Claw 正式接入智谱最新发布的 GLM-5.3 大模型，“虾虾大脑”全新升级。通过更大规模、更长周期、更多样任务环境的后训练，GLM-5.3 进一步释放模型能力上限：编程能力较上一代提升 50%，并在多项公开基准测试中取得开源模型第一；在代码审查、漏洞发现等网络安全任务中，能力也进一步提升，表现更加优秀。据IT之家此前报道，在今年 4 月的荣耀 PC 新品技术沟通会上，荣耀版“龙虾”YOYO Claw 发布。官方在现场进行了多个场景演示，包括媒体运营助虾、3D 打印虾等。另外，YOYO Claw 于",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/989.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81fa-a07b-da0b3014e6c9",
+      "title": "印度网友反馈其三星 Galaxy 手机突发起火，导致双手和大腿区域被烧伤",
+      "summary": "IT之家 8 月 15 日消息，《自由新闻报》昨日（8 月 14 日）发布博文，报道称在印度大诺伊达（Greater Noida）一名男子的三星 Galaxy S 手机突发起火，导致双手、大腿区域被烧伤。消息称该男子于 1 个月前购入这款三星 Galaxy 手机，事发时并未处于使用状态，放在裤兜里突发起火并爆炸。男子随后将其抽出，过程中导致双手和大腿部分被烧伤。根据社交平台 X 用户 GreaterNoidaW 和 Siraj Noorani 分享的照片显示，涉事手机遭受严重热损伤。电池仓几乎完全烧毁，后盖约有一半熔化。事件报告没有说明手机的具体型号，根据照片中仍可辨认的摄像头布局，涉事设备外",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/988.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8130-9c28-c152fdb6c9d7",
+      "title": "印度网友反馈其三星 Galaxy 手机突发起火，导致双手和大腿区域被烧伤",
+      "summary": "IT之家 8 月 15 日消息，《自由新闻报》昨日（8 月 14 日）发布博文，报道称在印度大诺伊达（Greater Noida）一名男子的三星 Galaxy S 手机突发起火，导致双手、大腿区域被烧伤。消息称该男子于 1 个月前购入这款三星 Galaxy 手机，事发时并未处于使用状态，放在裤兜里突发起火并爆炸。男子随后将其抽出，过程中导致双手和大腿部分被烧伤。根据社交平台 X 用户 GreaterNoidaW 和 Siraj Noorani 分享的照片显示，涉事手机遭受严重热损伤。电池仓几乎完全烧毁，后盖约有一半熔化。事件报告没有说明手机的具体型号，根据照片中仍可辨认的摄像头布局，涉事设备外",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/988.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81a0-9fac-dba1157a951e",
+      "title": "蜘蛛侠动画电影三部曲终章《蜘蛛侠：超越宇宙》前 4 分钟高清画面流出",
+      "summary": "IT之家 8 月 15 日消息，蜘蛛侠动画电影三部曲最终章《蜘蛛侠：超越宇宙》前 4 分钟高清画面流出。该片段是 4 月的 CinemaCon（电影产业大会）独家放映的原片。IT之家查询获悉，《蜘蛛侠：超越宇宙》已将其上映日期定于 2027 年 6 月 18 日。该电影原定 2024 年上映，但受到美国罢工影响，上映日期进行了延迟。《蜘蛛侠：超越宇宙》的故事将发生在《蜘蛛侠：纵横宇宙》之后，并与《纵横宇宙》《平行宇宙》构成“蜘蛛宇宙”三部曲。制片人克里斯・米勒透露，《蜘蛛侠：超越宇宙》中还会有新的蜘蛛侠。另外，蜘蛛侠系列电影官方微博今年 4 月还公开了本片全新剧照，蜘蛛侠 2099、朋克蜘蛛侠",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/987.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-816a-87f3-c2974940a45c",
+      "title": "蜘蛛侠动画电影三部曲终章《蜘蛛侠：超越宇宙》前 4 分钟高清画面流出",
+      "summary": "IT之家 8 月 15 日消息，蜘蛛侠动画电影三部曲最终章《蜘蛛侠：超越宇宙》前 4 分钟高清画面流出。该片段是 4 月的 CinemaCon（电影产业大会）独家放映的原片。IT之家查询获悉，《蜘蛛侠：超越宇宙》已将其上映日期定于 2027 年 6 月 18 日。该电影原定 2024 年上映，但受到美国罢工影响，上映日期进行了延迟。《蜘蛛侠：超越宇宙》的故事将发生在《蜘蛛侠：纵横宇宙》之后，并与《纵横宇宙》《平行宇宙》构成“蜘蛛宇宙”三部曲。制片人克里斯・米勒透露，《蜘蛛侠：超越宇宙》中还会有新的蜘蛛侠。另外，蜘蛛侠系列电影官方微博今年 4 月还公开了本片全新剧照，蜘蛛侠 2099、朋克蜘蛛侠",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/987.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8192-a739-c44917326436",
+      "title": "国产动画电影《八仙！》在北美首映，此前已进入中国影史国产动画片票房榜前七",
+      "summary": "IT之家 8 月 15 日消息，据央视新闻报道，国产喜剧动画电影《八仙！》13 日晚在美国西海岸第一大城市洛杉矶举行北美首映礼。作为海外上映计划的一部分，这部融合东方美学与侠义精神的喜剧影片 14 日开始登陆美国和加拿大院线。根据目前影片公布的海外上映计划，《八仙！》会陆续登陆北美、澳新、英国、爱尔兰、荷兰等多个国家和地区：8 月 13 日：澳大利亚、新西兰、巴布亚新几内亚8 月 14 日：北美、英国、爱尔兰、荷兰9 月 4 日：比利时、卢森堡值得一提的是，在登陆海外的计划中，影片的英文片名并没有使用“八仙”的拼音，而是根据故事主题重新命名《All Wishes Come True》，意思更接",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/985.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81e2-8c9e-d1057c75c4da",
+      "title": "国产动画电影《八仙！》在北美首映，此前已进入中国影史国产动画片票房榜前七",
+      "summary": "IT之家 8 月 15 日消息，据央视新闻报道，国产喜剧动画电影《八仙！》13 日晚在美国西海岸第一大城市洛杉矶举行北美首映礼。作为海外上映计划的一部分，这部融合东方美学与侠义精神的喜剧影片 14 日开始登陆美国和加拿大院线。根据目前影片公布的海外上映计划，《八仙！》会陆续登陆北美、澳新、英国、爱尔兰、荷兰等多个国家和地区：8 月 13 日：澳大利亚、新西兰、巴布亚新几内亚8 月 14 日：北美、英国、爱尔兰、荷兰9 月 4 日：比利时、卢森堡值得一提的是，在登陆海外的计划中，影片的英文片名并没有使用“八仙”的拼音，而是根据故事主题重新命名《All Wishes Come True》，意思更接",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/985.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-815e-8261-e0cb926472d3",
+      "title": "消息称星途再调汇报线，奇瑞“海外掌门”张贵兵接棒李学用",
+      "summary": "IT之家 8 月 15 日消息，8 月 13 日，据“汽车像素”报道，奇瑞调整了星途事业部的汇报关系。根据战略发展与经营管理需要，奇瑞汽车执行副总裁张贵兵分管星途事业部，向奇瑞汽车“二把手”，常务副总裁张国忠汇报。其他职务不变。▲ 左：李学用，右：张贵兵报道称，张贵兵与李学用同为奇瑞汽车执行副总裁，前者长期负责海外业务，后者主要负责国内。2025 年 7 月，奇瑞成立“奇瑞品牌国内业务事业群”，下设星途、艾虎、风云、QQ 四个事业部，由奇瑞汽车执行副总裁李学用兼任事业群总经理。此前相对独立的星途国内业务，组织和职能整体纳入新成立的事业群。智界、捷途和 iCAR 不受影响。报道提到，目前没有更多",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/984.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81db-8a48-db01ef8ee832",
+      "title": "消息称星途再调汇报线，奇瑞“海外掌门”张贵兵接棒李学用",
+      "summary": "IT之家 8 月 15 日消息，8 月 13 日，据“汽车像素”报道，奇瑞调整了星途事业部的汇报关系。根据战略发展与经营管理需要，奇瑞汽车执行副总裁张贵兵分管星途事业部，向奇瑞汽车“二把手”，常务副总裁张国忠汇报。其他职务不变。▲ 左：李学用，右：张贵兵报道称，张贵兵与李学用同为奇瑞汽车执行副总裁，前者长期负责海外业务，后者主要负责国内。2025 年 7 月，奇瑞成立“奇瑞品牌国内业务事业群”，下设星途、艾虎、风云、QQ 四个事业部，由奇瑞汽车执行副总裁李学用兼任事业群总经理。此前相对独立的星途国内业务，组织和职能整体纳入新成立的事业群。智界、捷途和 iCAR 不受影响。报道提到，目前没有更多",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/984.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81de-89a3-d5698da14824",
+      "title": "英特尔发布 32.0.101.8974 WHQL 显卡驱动：游戏性能最高提升 13%",
+      "summary": "IT之家 8 月 15 日消息，英特尔发布了 32.0.101.8974 WHQL 认证正式版显卡驱动，针对 Intel Arc 独立显卡以及酷睿 Ultra 系列集成 Arc 核显提供游戏性能提升与问题修复。IT之家附官方下载链接（https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html）。新游戏支持与性能优化对比 31.0.101.8864 版本驱动，在英特尔酷睿 Ultra 系列 3 集成 Arc GPUs 以及英特尔 Arc B 系列独立显卡上，本次更新对多款游戏实现性",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/983.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-812f-b66f-c0307cefb079",
+      "title": "英特尔发布 32.0.101.8974 WHQL 显卡驱动：游戏性能最高提升 13%",
+      "summary": "IT之家 8 月 15 日消息，英特尔发布了 32.0.101.8974 WHQL 认证正式版显卡驱动，针对 Intel Arc 独立显卡以及酷睿 Ultra 系列集成 Arc 核显提供游戏性能提升与问题修复。IT之家附官方下载链接（https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html）。新游戏支持与性能优化对比 31.0.101.8864 版本驱动，在英特尔酷睿 Ultra 系列 3 集成 Arc GPUs 以及英特尔 Arc B 系列独立显卡上，本次更新对多款游戏实现性",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/983.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-818b-80f6-e02cb6d09023",
+      "title": "苹果在意大利撤下“幼儿手持 iPhone”争议宣传海报",
+      "summary": "IT之家 8 月 15 日消息，科技媒体 AppleInsider 昨日（8 月 14 日）发布博文，报道称因被指控倡导“电子保姆”行为给幼儿使用 iPhone，苹果公司在意大利米兰撤下了争议广告。IT之家此前报道，该广告牌画面显示 1 名幼儿手持 iPhone，并配有标语“Tutto ok, è iPhone”（都没事，是 iPhone）。该广告属于苹果长期运行的“Relax, it's iPhone”（放心，是 iPhone）营销活动，主要展示设备在意外情况下的耐用性。同批广告还展示了 iPhone 在暴雨中使用、被猫推下桌子以及被狗叼在嘴里等 3 个场景。苹果在米兰投放该广告后遭到一位家",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/982.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81cc-9805-feab1492e093",
+      "title": "苹果在意大利撤下“幼儿手持 iPhone”争议宣传海报",
+      "summary": "IT之家 8 月 15 日消息，科技媒体 AppleInsider 昨日（8 月 14 日）发布博文，报道称因被指控倡导“电子保姆”行为给幼儿使用 iPhone，苹果公司在意大利米兰撤下了争议广告。IT之家此前报道，该广告牌画面显示 1 名幼儿手持 iPhone，并配有标语“Tutto ok, è iPhone”（都没事，是 iPhone）。该广告属于苹果长期运行的“Relax, it's iPhone”（放心，是 iPhone）营销活动，主要展示设备在意外情况下的耐用性。同批广告还展示了 iPhone 在暴雨中使用、被猫推下桌子以及被狗叼在嘴里等 3 个场景。苹果在米兰投放该广告后遭到一位家",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/982.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8191-8a7d-e68e12cd10c6",
+      "title": "小米澎湃 OS：“超级小爱灵感球” 9 月内上线 Beta 版，“取餐码上岛”不晚于 8 月底上线 Beta 版",
+      "summary": "IT之家 8 月 15 日消息，昨晚，小米澎湃 OS 回答了“超级小爱 2.0”“超级小爱灵感球”“取餐码上岛”等相关问题。小米澎湃 OS 官方透露，“超级小爱 2.0”处于内测阶段，为了集中开发资源快速改善体验，部分新功能将分批开放测试。根据当前计划，“超级小爱灵感球”将在 9 月内上线 Beta 版，“取餐码上岛”将不晚于 8 月底上线 Beta 版。其中，“超级小爱灵感球”是小米澎湃 OS 4 升级的全新交互方式，团队将精细打磨拖拽动效、优化内容识别精度。“取餐码上岛”将不同于行业内仅支持取餐码的方案，进一步覆盖快递取件码、存包柜号码等更多常用码号记忆，满足更多生活场景所需。「超级小爱 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/981.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8191-b388-effea9be2a49",
+      "title": "小米澎湃 OS：“超级小爱灵感球” 9 月内上线 Beta 版，“取餐码上岛”不晚于 8 月底上线 Beta 版",
+      "summary": "IT之家 8 月 15 日消息，昨晚，小米澎湃 OS 回答了“超级小爱 2.0”“超级小爱灵感球”“取餐码上岛”等相关问题。小米澎湃 OS 官方透露，“超级小爱 2.0”处于内测阶段，为了集中开发资源快速改善体验，部分新功能将分批开放测试。根据当前计划，“超级小爱灵感球”将在 9 月内上线 Beta 版，“取餐码上岛”将不晚于 8 月底上线 Beta 版。其中，“超级小爱灵感球”是小米澎湃 OS 4 升级的全新交互方式，团队将精细打磨拖拽动效、优化内容识别精度。“取餐码上岛”将不同于行业内仅支持取餐码的方案，进一步覆盖快递取件码、存包柜号码等更多常用码号记忆，满足更多生活场景所需。「超级小爱 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/981.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8103-8277-ee5ceebd93f9",
+      "title": "上市近 70 年来首次年度亏损后，曝本田搁置 3 款纯电汽车项目",
+      "summary": "IT之家 8 月 15 日消息，汽车媒体 CarBuzz 昨日（8 月 14 日）发布博文，报道称本田（Honda）今年 5 月遭遇自 1957 年在东京证券交易所上市以来首次净亏损后，近期决定搁置 3 款接近上市的纯电动车项目。IT之家曾于 5 月报道，本田 2026 财年（2025 年 4 月 1 日～2026 年 3 月 31 日）归母净利润为-4239 亿日元（现汇率约合 182.75 亿元人民币），由盈转亏，同比下降 150.72%，这是本田上市近 70 年来首次年度亏损。最新消息称本田已启动战略转型，已搁置 3 款接近上市的纯电动车项目，转而全力完善固态电池技术。消息称本田已取消 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/980.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8140-86f9-f076b791f4ab",
+      "title": "上市近 70 年来首次年度亏损后，曝本田搁置 3 款纯电汽车项目",
+      "summary": "IT之家 8 月 15 日消息，汽车媒体 CarBuzz 昨日（8 月 14 日）发布博文，报道称本田（Honda）今年 5 月遭遇自 1957 年在东京证券交易所上市以来首次净亏损后，近期决定搁置 3 款接近上市的纯电动车项目。IT之家曾于 5 月报道，本田 2026 财年（2025 年 4 月 1 日～2026 年 3 月 31 日）归母净利润为-4239 亿日元（现汇率约合 182.75 亿元人民币），由盈转亏，同比下降 150.72%，这是本田上市近 70 年来首次年度亏损。最新消息称本田已启动战略转型，已搁置 3 款接近上市的纯电动车项目，转而全力完善固态电池技术。消息称本田已取消 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/980.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8152-858a-fdf13e105774",
+      "title": "IT早报 0815：曝苹果联合阿里自研中国专属大模型；追觅卖出首台超 3 万美元手机；微信称朋友圈坚守不可编辑原则；智谱发布 GLM-5.3 最强开源编程模型...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 15 日星期六，今天的重要科技资讯有：1. 消息称苹果专门针对中国市场训练了一款 AI 模型，由阿里提供支持知情人士透露，该 AI 模型是与阿里巴巴集团合作开发的，并在该中国科技巨头的支持下完成了训练。>> 查看详情2. 追觅卖出首台超 3 万美元 AURORA 手机：编号 001，带有俞浩签名追觅手机负责人称，3 万美元（IT之家注：现汇率约合 20.3 万元人民币）交易款项已全部到账，其中首付款 1 万美元，尾款 21,184 美元。其称，这是“中国智能手机历史上迄今为止卖出去单台售价最高的旗舰智能手机”。>> 查看详情3. 微信：朋",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/979.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-818b-881d-dc5adc6da686",
+      "title": "IT早报 0815：曝苹果联合阿里自研中国专属大模型；追觅卖出首台超 3 万美元手机；微信称朋友圈坚守不可编辑原则；智谱发布 GLM-5.3 最强开源编程模型...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 15 日星期六，今天的重要科技资讯有：1. 消息称苹果专门针对中国市场训练了一款 AI 模型，由阿里提供支持知情人士透露，该 AI 模型是与阿里巴巴集团合作开发的，并在该中国科技巨头的支持下完成了训练。>> 查看详情2. 追觅卖出首台超 3 万美元 AURORA 手机：编号 001，带有俞浩签名追觅手机负责人称，3 万美元（IT之家注：现汇率约合 20.3 万元人民币）交易款项已全部到账，其中首付款 1 万美元，尾款 21,184 美元。其称，这是“中国智能手机历史上迄今为止卖出去单台售价最高的旗舰智能手机”。>> 查看详情3. 微信：朋",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/979.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8108-a571-f2f70349ced2",
+      "title": "曝小米澎湃 HyperOS 4“浏览器”支持插件功能",
+      "summary": "IT之家 8 月 15 日消息，据博主 @懒酱的日记本 分享，小米澎湃 HyperOS 4 系统的“浏览器”已支持插件功能。值得一提的是，在今年 6 月，小米员工 @劣人潘 曾发文预告过该功能，当时曾表示会在未来合适的时机发布支持插件的浏览器版本。据IT之家昨日报道，小米澎湃 OS 4 Beta 版已经开始向各批次机型陆续推送，小米官方也公布了分批次推送的时间与对应机型名单。目前第一阶段已经开启陆续推送，对应机型如下：手机端： Xiaomi 17 Ultra / Xiaomi 17 Ultra 徕卡版、Xiaomi 17 Pro Max、Xiaomi 17 Pro、Xiaomi 17、REDM",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/978.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8181-aca8-f5e695fa22f3",
+      "title": "曝小米澎湃 HyperOS 4“浏览器”支持插件功能",
+      "summary": "IT之家 8 月 15 日消息，据博主 @懒酱的日记本 分享，小米澎湃 HyperOS 4 系统的“浏览器”已支持插件功能。值得一提的是，在今年 6 月，小米员工 @劣人潘 曾发文预告过该功能，当时曾表示会在未来合适的时机发布支持插件的浏览器版本。据IT之家昨日报道，小米澎湃 OS 4 Beta 版已经开始向各批次机型陆续推送，小米官方也公布了分批次推送的时间与对应机型名单。目前第一阶段已经开启陆续推送，对应机型如下：手机端： Xiaomi 17 Ultra / Xiaomi 17 Ultra 徕卡版、Xiaomi 17 Pro Max、Xiaomi 17 Pro、Xiaomi 17、REDM",
+      "source": "IT之家",
+      "publishTime": "2026-08-15",
+      "link": "https://www.ithome.com/0/989/978.htm"
     }
   ],
   "macroEvents": [
