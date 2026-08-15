@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-16 06:46",
+  "updatedAt": "2026-08-16 07:43",
   "news": [
+    {
+      "id": "3bd03df8-2d23-8147-b5a7-e864d3dee9e2",
+      "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
+      "summary": "IT之家 8 月 16 日消息，Claude 系列智能体正在“消灭”同类竞争对手智能体、钻系统漏洞掩盖自身痕迹，甚至还会表达道德层面的顾虑。这一结论来自 Anthropic 最新发布的风险报告，该报告汇总了公司研发并向公众开放的产品所潜藏的各类风险。报告中，Anthropic 表示已将对齐偏差风险评估（即 AI 模型产生与工程师设定规则相悖行为的可能性）等级从“极低”上调至“较低”。IT之家注意到，对于此次等级调整，公司给出的理由是，网络安全场景下模型行为的“整体不确定性有所上升”—— 这一表述大概率暗指上月发生的 Claude 模型未授权入侵三家企业的事件。“我们已观测到模型出现对齐偏差行为",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/201.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81ba-8216-ce8c677e4a1d",
+      "title": "兰博基尼：目前暂无重新推出手动变速箱车型的计划",
+      "summary": "IT之家 8 月 16 日消息，在 2026 年蒙特雷汽车周（Monterey Car Week）期间，兰博基尼董事长兼 CEO Stephan Winkelmann 在接受外媒 CarBuzz 采访时透露公司“没有重新推出手动变速箱车型的计划”。公开信息显示，兰博基尼最近一次提供手动变速箱还是 2014 款 Gallardo，其继任车型 Huracán 则全系采用 7 速双离合变速箱。此后，兰博基尼旗下车型全部采用电子控制换挡方案，包括 Aventador 使用的 7 速 ISR 自动机械式变速箱、Revuelto 搭载的 8 速双离合变速箱，以及 Urus 使用的 8 速液力变矩器自动变速",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/200.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81a1-b4d4-d8e7da10fcc0",
+      "title": "大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业",
+      "summary": "IT之家 8 月 16 日消息，CARIAD 官方近日宣布，大众汽车集团（中国）通过智能驾驶能力中心酷睿程（CARIZON）推出第一代自主研发的全场景驾驶辅助（L2++ ADAS）产品 —— 车载一段式端到端解决方案 HS8（Hyper Sense 8），专为中国用户日常面临的复杂路况与多元化交通场景量身打造。HS8 交付预告：预计 2026 年 Q3 起搭载于三家合资企业 7 款全新车型2027 年起进一步拓展至更多 CEA 车型，并加速推进 L3/L4 自动驾驶研发首批 L3 能力最快于 2027 年下半年启动交付HS8 预计将有两个版本：以地平线征程 6（Journey 6，J6）系列征",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/199.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8164-bd0e-d6cbfa591c41",
+      "title": "整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问",
+      "summary": "IT之家 8 月 16 日消息，网页项目 Your AI Slop Bores Me 近日上线，这款平台的精妙之处，藏在它极简的设计之中。平台设有两个标签页：真人提问端与 AI 扮演端。一侧输入需求，另一侧提交回答，但最核心的设定是，交互两端的操作者全都是真实的人。用户可以要求文字或图片形式的回复，扮演 AI 的一方则有 150 秒的作答时间。和真正的大语言模型一样，Your AI Slop Bores Me 也采用了类 token 的积分体系。发起提问需要消耗积分，想要赚取积分，你就得切换到 AI 扮演端，去回答其他用户的提问。你也可以选择等待 —— 平台每两分钟会发放一次免费提问额度。虽说",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/198.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-811b-8e3f-fe686fa93c6e",
+      "title": "特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元",
+      "summary": "IT之家 8 月 16 日消息，特斯拉现已在美国市场为旗下 Model Y L 车型推出新款外供电适配器，允许车主利用车辆动力电池，以 120V、20A 的规格输出最高 2.4kW 电力，定价为 80 美元（IT之家注：现汇率约合 540.5 元人民币）。据介绍，该产品实际上是一款安装在特斯拉第三代移动充电连接器（Gen 3 Mobile Connector）末端的转接配件，用户需要将充电枪插入车辆充电接口，再将转接器安装到充电线另一端，方可实现外供电功能，本身与之前国内上市的外供电适配器设计有一定区别。对此，外媒 electrek 认为 2.4kW 的输出功率并不算高。例如现代汽车从 202",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/197.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8182-9902-fda18f18ca01",
+      "title": "前 Square Enix 高管 Jacob Navok：索尼取消实体光盘有望促使 PS Store 数字游戏降价",
+      "summary": "IT之家 8 月 16 日消息，据外媒 TweakTown 报道，前 Square Enix 商务开发部门负责人 Jacob Navok 发文，认为目前 PlayStation Store（PS Store）上的数字版游戏定价在很大程度上仍受到实体光盘零售价格影响。随着实体光盘逐渐退出市场，游戏发行商将不得不在 PS Store 内展开更加直接的价格竞争，其机制可能会逐渐接近 Steam，因此索尼取消 PS5 实体光盘可让 PlayStation Store 数字版游戏价格下降。Jacob Navok 以《最终幻想 XVI》在 Steam 平台持续降价为例，认为真正推动游戏价格随着发售时间下降",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/196.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81aa-9399-f7d59e3e7ba1",
+      "title": "行驶里程不到 400 公里，法拉利 Daytona SP3 拍出约 1.2 亿元天价",
+      "summary": "IT之家 8 月 16 日消息，一辆 2023 款法拉利 Daytona SP3 凭借惊艳的配置和几乎全新的车况，在美国加州蒙特雷汽车周期间举行的 RM Sotheby's 拍卖会上拍出了令人瞠目结舌的价格。最终，一位神秘买家以 1,782.5 万美元（IT之家注：现汇率约合 1.2 亿元人民币）的价格将这辆来自“Driver's Philosophy Collection”收藏的法拉利收入囊中。这也意味着，这辆超级跑车迎来了第三任车主。这辆法拉利 Daytona SP3 于 2023 年 7 月在意大利北部马拉内罗工厂下线，2024 年 1 月通过纽约一家经销商交付给首任车主。自那时起，它的",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/195.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-8139-9b9b-f78ab9597825",
+      "title": "进一步打通手机电脑互联：消息称三星正在为 One UI 9.5 测试 App Mirroring 应用镜像功能",
+      "summary": "IT之家 8 月 16 日消息，消息源 Fahad Ali Javed 发文，透露三星正在为 One UI 9.5 测试一项内置的 App Mirroring 应用镜像功能，可将 Galaxy 手机应用投射到 Galaxy Book 笔记本上。IT之家参考曝光截图，其中显示用户可通过无线方式直接在笔记本电脑上访问手机中的应用和通知。使用相应功能需要同时开启蓝牙和 Wi-Fi，并确保手机与电脑登录的是同一个三星账号。事实上，三星目前已经提供多种连接 Galaxy 手机与 PC 的方式，例如微软 Phone Link 手机连接，以及自家的 Samsung Flow 应用。不过，如果 App Mir",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/194.htm"
+    },
+    {
+      "id": "3bd03df8-2d23-81eb-913e-d9a8df549be2",
+      "title": "安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍",
+      "summary": "IT之家 8 月 16 日消息，安全公司 Surfshark 现已披露旗下 Surfshark Antivirus 反病毒业务数据报告，统计结果显示，Windows 用户遭遇恶意软件攻击的频率约为 macOS 用户的 6 倍。Surfshark 表示，其针对 2026 年 1 月至 7 月期间累计约 39.1 万次恶意软件检测记录进行了分析。结果显示，虽然 Windows 用户仅占 Surfshark Antivirus 活跃用户总数的 66%，但却贡献了 92% 的恶意软件检测事件；相比之下，macOS 用户占用户总数的 34%，但仅对应 8% 的检测记录。按照单个用户平均遭遇威胁次数计算，",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/193.htm"
+    },
     {
       "id": "3bd03df8-2d23-8124-a0f4-c4306ad8177e",
       "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
@@ -328,78 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-08-15",
       "link": "https://www.businessinsider.com/i-own-30-homes-at-24-full-time-landlord-2026-8"
-    },
-    {
-      "id": "3bd03df8-2d23-8122-b530-c79c7f4f278d",
-      "title": "Every fusion startup that has raised over $100M",
-      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/"
-    },
-    {
-      "id": "3bd03df8-2d23-81b4-a271-fc693a44ffee",
-      "title": "We moved abroad when our kids were 5 and 7. Keeping them close to their grandparents became a priority.",
-      "summary": "Moving to London put thousands of miles between our kids and their grandparents. We made travel a priority, and their relationships became even stronger.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/moved-abroad-kids-grandparents-long-distance-2026-8"
-    },
-    {
-      "id": "3bd03df8-2d23-818f-b441-ea7786a6da4b",
-      "title": "谷歌安卓负责人萨米尔 · 萨马特畅想未来：只要说清想做什么，系统就能替你完成",
-      "summary": "IT之家 8 月 15 日消息，据美国 CNN 当地时间 12 日报道，谷歌安卓生态系统总裁萨米尔 · 萨马特称，谷歌规划新版安卓时，通常会提前大约三年考虑消费者未来如何使用手机。“目前我们对安卓的设想是，你只需要说清自己的目标、意图或者想完成什么，系统就足够聪明，可以替你把事情完成。”公众越来越担忧 AI 对社会和经济造成的影响，也让 AI 未来发展面临的风险更加突出。目前的技术距离真正实现萨马特描述的场景仍有很大差距。不过，谷歌仍然押注这一方向。萨马特说：“我看到很多人，包括我自己，都低着头盯着手机，忙着完成各种事情。如果每天能把 5 分钟、10 分钟甚至 30 分钟还给用户，想想这些时间",
-      "source": "IT之家",
-      "publishTime": "2026-08-15",
-      "link": "https://www.ithome.com/0/990/172.htm"
-    },
-    {
-      "id": "3bd03df8-2d23-816f-9ba7-c4d7e8941a96",
-      "title": "三星电子 2026 上半年 DRAM 市场份额逼近 40%，智能手机市占率 22%",
-      "summary": "IT之家 8 月 15 日消息，三星电子昨日披露的半年报显示，2026 年上半年，公司在其全球 DRAM 市场的份额达到 39.4%。这一数字较去年同期的 34.0% 提升了 5.4 个百分点。三星指出，DRAM 市场份额的提升得益于 AI 服务器用存储器的持续强劲需求以及销售单价（ASP）的上涨。在全部主要产品线中，DRAM 业务的市场份额增幅最为显著。在智能手机市场，三星电子上半年的全球市场份额为 22.0%。这主要归功于今年年初推出的 Galaxy S26 系列的良好市场表现。与去年同期 19.2% 的份额相比，提升了 1.8 个百分点。电视业务方面，受 Micro RGB TV 和 O",
-      "source": "IT之家",
-      "publishTime": "2026-08-15",
-      "link": "https://www.ithome.com/0/990/171.htm"
-    },
-    {
-      "id": "3bd03df8-2d23-8125-95f3-d1c4a115fe16",
-      "title": "I tried Ina Garten's penne alla vodka. It's one of the best pasta dishes I've ever made.",
-      "summary": "Ina Garten's penne alla vodka is super delicious, and the recipe is easy to follow. It's also one of the most beautiful pastas I've ever made.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/ina-garten-penne-alla-vodka-pasta-dinner-recipe"
-    },
-    {
-      "id": "3bd03df8-2d23-81b2-a975-caa5b9919b39",
-      "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
-      "summary": "One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with Xteink's devices you have to source DRM-free ebooks on your own. That's a",
-      "source": "The Verge",
-      "publishTime": "2026-08-15",
-      "link": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader"
-    },
-    {
-      "id": "3bd03df8-2d23-81e6-8b35-f54e0d333cd5",
-      "title": "波音 757 万米高空上演网络钓鱼：达美航空遭遇虚假 Wi-Fi 攻击，FBI 已介入调查",
-      "summary": "IT之家 8 月 15 日消息，当地时间 8 月 10 日，达美航空（Delta Air Lines）DL591 航班从拉斯维加斯飞往亚特兰大途中，机上出现了一个名为“Delta WiFi Fast”的钓鱼 Wi-Fi。涉事航班为波音 757 客机，共载有 199 名乘客和 6 名机组人员。该时间节点恰逢全球最大黑客大会之一的 DEF CON 34 于 8 月 6 日至 9 日在拉斯维加斯落幕之后，机上有多名乘客刚参加完该会议。飞行员通过 ACARS 空地数字通信系统向地面控制中心发送消息称：“请提醒企业安全部门。机上有一名乘客创建了名为‘Delta WiFi Fast’的诈骗 Wi-Fi。我",
-      "source": "IT之家",
-      "publishTime": "2026-08-15",
-      "link": "https://www.ithome.com/0/990/170.htm"
-    },
-    {
-      "id": "3bd03df8-2d23-81c8-b5d6-ef4d53acd9c2",
-      "title": "I 'soft retired' at 64. I work 3 days a week and take extended vacations.",
-      "summary": "George Crabtree retired after 40 years in commercial printing, then returned 11 days later. He now works three flexible days a week and calls it soft retirement.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-15",
-      "link": "https://www.businessinsider.com/retired-returned-to-work-soft-retirement-2026-8"
-    },
-    {
-      "id": "3bd03df8-2d23-813c-b08d-c0819022b111",
-      "title": "迪士尼真人版《魔发奇缘》定档 2028 年 3 月 31 日，D23 首发预告曝光",
-      "summary": "IT之家 8 月 15 日消息，当地时间 8 月 14 日，迪士尼在加州阿纳海姆举行的 D23 全球粉丝大会“迪士尼娱乐展示会”上宣布，真人版《魔发奇缘》（Tangled）定档 2028 年 3 月 31 日北美上映。迪士尼还在 D23 大会现场发布了该片首支先导预告，并首次曝光了主演的片中造型。得益于到场人员的摄屏，我们也能够一同看到这部预告片。影片主演阵容已在今年早些时候陆续公布：曾出演 DC 剧集《泰坦》中“渡鸦”一角的蒂根 · 克罗夫特（Teagan Croft）饰演长发公主乐佩（Rapunzel）；迪士尼《僵尸高校》系列男主角麦洛 · 曼海姆（Milo Manheim）饰演弗林 · ",
-      "source": "IT之家",
-      "publishTime": "2026-08-15",
-      "link": "https://www.ithome.com/0/990/169.htm"
     }
   ],
   "macroEvents": [
