@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-08-17 06:45",
+  "updatedAt": "2026-08-17 07:42",
   "news": [
+    {
+      "id": "3be03df8-2d23-8136-a565-c147c4e003b7",
+      "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+      "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+      "source": "BBC Tech",
+      "publishTime": "2026-08-17",
+      "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3be03df8-2d23-816a-a41b-e4aa74b8b861",
+      "title": "建模交易平台 CGTrader：AI 生成的 3D 模型数量激增，但销售额仅占 1%",
+      "summary": "IT之家 8 月 17 日消息，随着“图生 3D 模型”AI 工具逐步流行，目前许多 3D 建模交易平台都遭到各种 AI 生成的 3D 模型“轰炸”，不过参考 CGTrader 报告显示，尽管此类 AI 内容正在平台上快速增加，但相关商品的实际销售情况却并未同步增长。IT之家参考报告获悉，目前 CGTrader 平台约有六分之一的新上架商品由 AI 生成，不过相应商品的销售表现却十分有限，其销售额仅占平台总销售额的 1% 左右。从 CGTrader 的调查结果来看，质量正是买家拒绝 AI 生成商品的主要原因。调查显示，只有约 5% 的买家对自己购买的 AI 生成资源感到满意，而整体用户中仅有 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/414.htm"
+    },
+    {
+      "id": "3be03df8-2d23-8187-875b-e233e79d061e",
+      "title": "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍",
+      "summary": "IT之家 8 月 17 日消息，8 月 13 日，深度求索官方宣布将对 DeepSeek API 价格进行更新调整，采用峰谷定价，空闲时段价格为高峰时段价格的一半。今日起，该定价方案正式生效。高峰时段为北京时间 9:00 - 12:00、14:00 - 18:00（IT之家注：其余为空闲时段）。新价格于北京时间 2026 年 8 月 17 日 00:00 开始生效，具体如下：模型百万 tokens 输入（缓存命中）百万 tokens 输入（缓存未命中）百万 tokens 输出deepseek-v4-flash空闲时段0.05 元1.5 元4.5 元高峰时段0.10 元3.0 元9.0 元dee",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/413.htm"
+    },
+    {
+      "id": "3be03df8-2d23-8139-a5d5-f541baab7e27",
+      "title": "分析公司 Ampere Analysis：索尼放弃实体游戏光盘有助于控制 PS6 游戏机售价",
+      "summary": "IT之家 8 月 17 日消息，近期业界硬件涨价潮导致外界对 PS6 售价产生了不少悲观预测，甚至有人担心新主机售价可能突破 1,000 美元（IT之家注：现汇率约合 6,761 元人民币）。不过，分析公司 Ampere Analysis 游戏研究负责人 Piers Harding-Rolls 认为，索尼近期官宣的“逐步放弃实体游戏光盘”反而可能帮助控制 PS6 售价。尽管外界一直批评 PlayStation 向数字游戏转型是为了进一步提高利润，但 Harding-Rolls 认为，索尼减少实体游戏业务并不一定意味着消费者需要承担更高成本。随着更多游戏销售转移至 PlayStation Sto",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/412.htm"
+    },
+    {
+      "id": "3be03df8-2d23-818f-98fc-df1867143df2",
+      "title": "消息称英特尔计划推出入门级 Panther Lake 掌机芯片，配备 4 个 Xe3 核心",
+      "summary": "IT之家 8 月 17 日消息，英特尔的掌机产品线可能即将迎来一款更便宜的小弟。据爆料人士 Jaykihn 透露（这位爆料者此前曾多次准确曝光英特尔产品规格），英特尔似乎正在准备一款采用“4+0+4+4”架构布局的 Panther Lake 掌机芯片。这一配置意味着芯片拥有 4 个 P-Core 性能核心、0 个 E-Core 能效核心、4 个 LPE 低功耗核心以及 4 个 Xe3 图形核心。相比之下，这一配置明显低于英特尔目前已经用于掌机的 Arc G3 和 Arc G3 Extreme 芯片。例如 MSI Claw 8 EX AI+ 搭载的就是这类芯片，其 CPU 采用 14 核设计，包",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/411.htm"
+    },
+    {
+      "id": "3be03df8-2d23-81ea-9a4d-d64ce3ac9bc6",
+      "title": "支付巨头 Stripe 敲定收购 AI 初创公司 OpenRouter，金额超 70 亿美元",
+      "summary": "IT之家 8 月 17 日消息，据彭博社报道，支付巨头 Stripe 已经敲定收购 AI 基础设施初创公司 OpenRouter 的交易，收购金额超过 70 亿美元（IT之家注：现汇率约合 473.24 亿元人民币）。OpenRouter 主要帮助用户根据具体需求和预算，在不同 AI 模型之间进行选择，从而为不同任务匹配合适的模型。该公司今年 5 月宣布完成 1.13 亿美元（现汇率约合 7.64 亿元人民币） B 轮融资，当时估值达到约 13 亿美元（现汇率约合 87.89 亿元人民币），投资方包括红杉资本（Sequoia）、Andreessen Horowitz、Menlo Venture",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/410.htm"
+    },
+    {
+      "id": "3be03df8-2d23-8160-8107-f1c3cba3ac95",
+      "title": "凯迪拉克在北美市场全面转向 NACS 充电接口",
+      "summary": "IT之家 8 月 17 日消息，凯迪拉克宣布正式转向 NACS 充电接口，公司将为旗下 2027 款 Escalade IQ 车型中换用 NACS 充电接口，后续其他车型也将陆续跟进。作为参考，目前凯迪拉克北美市场在售车辆中只有 Optiq 车型原生配备 NACS 充电接口。公开信息显示，NACS 充电接口目前已几乎成为北美地区统一的电动汽车充电接口标准。该标准最初由特斯拉于 2012 年为自家车型开发，如今包括现代、起亚、捷尼赛思、Lucid、Rivian、奔驰、宝马、雷克萨斯、道奇等车企均已开始在旗下车型中引入 NACS 接口。目前，凯迪拉克旗下所有电动车都可以通过兼容的 NACS 充电站",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/409.htm"
+    },
+    {
+      "id": "3be03df8-2d23-8155-8bec-fd4d5871cfcf",
+      "title": "告别老旧硬件：Linux 内核将 TSC 设为 x86 处理器硬性要求",
+      "summary": "IT之家 8 月 17 日消息，Linux 内核终于将时间戳计数器（TSC）设为 x86 处理器的硬性要求，而微软早在十多年前就已经开始将其作为兼容 Windows 系统中高精度计时的首选依据。Linux 内核近期提交的一项修改，移除了剩余的配置逻辑，使 x86 内核无法在不支持 TSC 的情况下进行构建。这项提交名为“x86/cpu: Make CONFIG_X86_TSC unconditional”，意味着如今 TSC 支持已经成为无条件要求，因为目前仍受支持的 x86 处理器预计都具备这一功能。看起来这或许只是一次规模不大的内核代码清理，但它实际上标志着 Linux 对极其老旧 x86",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/408.htm"
+    },
+    {
+      "id": "3be03df8-2d23-8109-b45a-de45a266add3",
+      "title": "HMD 2760 Flip 4G 翻盖机曝光：搭载安卓 13 Go 系统、展锐 T310 处理器",
+      "summary": "IT之家 8 月 17 日消息，消息源 smashx_60 发文，透露 HMD Global 即将推出一款 HMD 2760 Flip 4G 翻盖机，该机提供黑色、青色和粉色三种选择，整体造型沿用诺基亚 2760 Flip，延续 2.8 英寸主屏、1.77 英寸外屏、500 万像素主摄。该机最大的特色是运行基于安卓 13 Go 的“Icon OS 13”系统，作为参考，先前诺基亚 2760 Flip 搭载 KaiOS 3.1 系统。▲ 先前 HMD 推出的诺基亚 2760 Flip硬件方面，新机预计搭载紫光展锐 T310 处理器，配备 2GB RAM 和 32GB 存储空间，同时提供 micr",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/407.htm"
+    },
+    {
+      "id": "3be03df8-2d23-8122-9e4f-e3ff974f7828",
+      "title": "筹备 IPO 之际，消息称 OpenAI 已解散旗下风险防范团队",
+      "summary": "IT之家 8 月 17 日消息，据《金融时报》报道，OpenAI 已于上月末解散旗下风险防范团队。该团队的核心工作是评估公司模型是否存在重大风险，并制定风险缓解措施，比如模型失控入侵其他企业这类极端场景。报道称，相关职责现已按生物安全、网络安全等细分领域拆分，并入公司现有业务团队。IT之家注意到，这是 OpenAI 近期最新的架构变动。眼下公司正筹备市场预期中规模空前的 IPO，内部始终处于动荡调整状态。过去几年，OpenAI 逐步拆解了此前偏前瞻布局的发展模式，先后解散了通用人工智能（AGI）筹备团队与超级对齐团队。伦理负责人克洛艾・巴卡拉、首席未来学家乔希・阿奇亚姆、安全主管约翰内斯・海德",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/406.htm"
+    },
+    {
+      "id": "3be03df8-2d23-81b0-aa93-c74ad5bc0712",
+      "title": "上线仅半年多，字节旗下付费小说 App“红烛故事”正式关停",
+      "summary": "IT之家 8 月 17 日消息，综合字节跳动公告，字节旗下付费小说 App 红烛故事于今起正式停止服务，服务器正式关闭，届时及以后将无法登录 App 或访问相关服务。不同于字节旗下的“番茄免费小说”，红烛故事除了有免费专区外，还有会员专区，用户需付费开通会员，而一些付费书会员可以享 8 折优惠购买。从竞争格局看，当前市场早已形成“一超多强”态势。艾媒金榜《2025 年中国网文 IP 平台排行榜》显示，阅文集团以 35% 的市场份额稳居行业首位，番茄小说、七猫小说分列二、三位。番茄小说月活达 2.18 亿，同比增长 35.5%；七猫小说累计用户超 3 亿，免费市场份额位居前列。根据中国社会科学院",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/405.htm"
+    },
+    {
+      "id": "3be03df8-2d23-81ca-847f-e180b62f14bc",
+      "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
+      "summary": "IT之家 8 月 17 日消息，综合外媒 bleepingcomputer，Anthropic Claude 目前出现大规模服务故障，多名用户反馈无法正常登录，Anthropic 旗下多项服务的运行性能也受到影响。根据 Anthropic 通报，此次故障于 2026 年 8 月 17 日 5:58（北京时间）左右开始，目前影响 Claude.ai、Claude Code 和 Claude Cowork 等服务。Anthropic 表示，最初公司表示正在调查部分用户无法通过身份验证登录 Claude.ai、Claude Code 和 Claude Cowork 的问题。之后相应问题演变成了平台大",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/404.htm"
+    },
     {
       "id": "3be03df8-2d23-811f-8463-e2cc06948db9",
       "title": "OpenAI reportedly disbanded its preparedness team",
@@ -304,102 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-16",
       "link": "https://www.ithome.com/0/990/380.htm"
-    },
-    {
-      "id": "3be03df8-2d23-8175-a8fb-f66258121cc2",
-      "title": "雷神黑武士猎刃 PRO 新机预热：号称“满载性能半载功耗”，8 月 18 日发布",
-      "summary": "IT之家 8 月 16 日消息，雷神宣布将于 8 月 18 日推出新款黑武士猎刃 PRO 台式电脑，从官方预热海报来看，这款台式机将搭载非 Ultra 版的英特尔酷睿 7 移动处理器，号称“满载性能 半载功耗”。除此之外，新款黑武士猎刃 PRO 台式电脑将采用雷神【深空之镜】原创 ID 设计，搭载水冷散热器。IT之家注意到，雷神今年已经推出多款黑武士猎刃 PRO 系列新机，例如搭载 i5-14400F 处理器 + RTX 5060 显卡的版本首发价 9499 元，现价 9199 元，叠加国补后 7299 元。2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/378.htm"
-    },
-    {
-      "id": "3be03df8-2d23-81f2-a197-edbb35a71ea4",
-      "title": "联想 1kg 轻薄办公本昭阳悦 Air 14 上市：搭载酷睿 Ultra 7 258V，8499 元",
-      "summary": "IT之家 8 月 16 日消息，联想上周推出了一款新的商用办公本新品，名为昭阳・悦 Air 14，这也是昭阳 X 系列首款 1kg 轻薄本。这款新机目前已经正式开售，定价为 8499 元。京东联想笔记本电脑昭阳 · 悦 Air14 酷睿 Ultra7 258V 32G 512G 120Hz 1kg 超轻薄 时空银 AI 轻薄本 8499 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/376.htm"
-    },
-    {
-      "id": "3be03df8-2d23-81b0-b6c0-c44d7112866a",
-      "title": "These 4 homeowners built tiny homes in their yards to be better caregivers for their loved ones",
-      "summary": "Four homeowners said that building an accessory dwelling unit (ADU) on their properties has allowed them to be better caregivers to their loved ones.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-16",
-      "link": "https://www.businessinsider.com/homeowners-built-adu-tiny-homes-family-aging-parents-2026-8"
-    },
-    {
-      "id": "3be03df8-2d23-8116-a999-ffddd19804ea",
-      "title": "腾讯投资的国产单机动作游戏：《湮灭之潮》全新实机演示公布",
-      "summary": "IT之家 8 月 16 日消息，YouTube 频道 GamersPrey 今日公布了《湮灭之潮》游戏实机演示，全长 53 分钟，展示本作的战斗、技能和剧情系统。据IT之家了解，本作由腾讯投资，是一款基于虚幻 5 引擎打造的国产单机买断制骑士幻想动作游戏，由日蚀边缘工作室开发。目前，游戏发售日尚未确定。剧情梗概：在伦敦之外的异世界，格雯德琳将与昔日的对手兰马洛克并肩作战，直面盘踞于镜面领域中的劲敌。本作由成都蛇夫座-日蚀边缘工作室研发，取材于经典亚瑟王传说，将以买断制形式登陆 PC 与主机平台。游戏图赏：",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/374.htm"
-    },
-    {
-      "id": "3be03df8-2d23-8135-8af7-cda76268c534",
-      "title": "IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病",
-      "summary": "史上最大规模 IPO 前，Anthropic CEO 罕见长文硬刚质疑！要知道，达里奥 · 阿莫迪（Dario Amodei）几乎从不碰社交媒体。但就在 IPO 估值被推到 2 万亿美元的节骨眼上，他罕见地发了一篇长文，正面回应硅谷对他最大的质疑。对一个以谨慎著称、连产品发布都要反复强调风险的 CEO 来说，这句话的分量，比任何豪言都重。一个几乎从不在社交媒体公开表态的人，选在估值最高、争议最烈的节骨眼突然下场 —— 这本身就是一个信号。风起：硅谷对 Anthropic 最大的质疑整场对话的导火索，是前一天流传的一个说法：有「多个可靠的人」告诉美国科技投资大佬 Gavin Baker：达里奥曾",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/373.htm"
-    },
-    {
-      "id": "3be03df8-2d23-817d-97b4-fe5bd000b275",
-      "title": "My son went to culinary school, and my daughter majors in theater. It's not what I planned for either of them, and that's OK.",
-      "summary": "My son never liked school and decided to skip college for trade school. My daughter is majoring in theater, which some think is a waste of money.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-16",
-      "link": "https://www.businessinsider.com/kids-pursued-culinary-school-theater-surprised-2026-8"
-    },
-    {
-      "id": "3be03df8-2d23-8105-8a66-f3bb934b9a27",
-      "title": "Rogue AI aren’t science fiction anymore",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous",
-      "source": "The Verge",
-      "publishTime": "2026-08-16",
-      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
-    },
-    {
-      "id": "3be03df8-2d23-81a6-bca5-d0dab5458e4f",
-      "title": "时擎智能推出全国产化 USB 千兆网卡芯片 PT153S，具备 USB 3.2 Gen 1 接口、速率可达 5Gbps",
-      "summary": "IT之家 8 月 16 日消息，据电子工程专辑本周（8 月 13 日）报道，时擎智能科技近日在上海推出全国产化 USB 千兆网卡芯片 PT153S，采用 RISC-V 架构。据介绍，这款芯片采用时擎科技自研 RISC-V 处理器，承担四大关键职能：USB 协议与枚举、以太网链路管理、电源与低功耗管理，以及固件持续演进。IT之家了解到，PT153S 具备 USB 3.2 Gen 1 高速接口，速率可达 5Gbps，兼容 SS / HS / FS 全速率模式。支持 10/100/1000M 自适应以太网、TCP / UDP / IPv4/IPv6 校验和硬件卸载、802.1Q VLAN 及 802",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/372.htm"
-    },
-    {
-      "id": "3be03df8-2d23-81d3-8131-c805a9bbee68",
-      "title": "Anthropic 自曝安全漏洞：生物武器过滤器曾失效近一年，涉及 1.33 亿次对话",
-      "summary": "IT之家 8 月 16 日消息，Anthropic 于当地时间 8 月 14 日发布的最新安全报告显示，该公司用于拦截化学、生物武器相关危险请求的部分安全分类器曾出现长期失效。这直接导致 2025 年 5 月至 2026 年 4 月期间，外部承包商提供人工反馈时产生的大量请求未经过滤。Anthropic 表示，内部调查目前没有发现相关请求被实际用于滥用的证据。根据 Anthropic 公开的安全机制说明，其实时提示词和输出分类器会分析用户输入以及模型生成内容，并在识别到相关风险时阻止模型提供可能用于实施危险行为的信息。据IT之家所知，该机制属于 Anthropic 针对化学、生物、放射性及核武",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/371.htm"
-    },
-    {
-      "id": "3be03df8-2d23-8124-abea-e107be1ad283",
-      "title": "Why a new Western training program for Ukrainian soldiers skips drone piloting and electronic warfare lessons",
-      "summary": "Ukrainian troops are getting trained in Norway-led Operation Legio, and Ukraine didn't request pilot skills as it already has such good education.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-16",
-      "link": "https://www.businessinsider.com/western-training-ukraine-troops-not-drone-pilot-skills-good-already-2026-8"
-    },
-    {
-      "id": "3be03df8-2d23-8183-b6bc-f1be964d2a28",
-      "title": "大学生用 AI 人脸伪造视频盗刷超 5 万元，最终获刑一年十个月",
-      "summary": "IT之家 8 月 16 日消息，央视新闻今日披露一起 AI 人脸伪造视频盗刷案件，大学生吴某在非法网站购买“AI 人脸伪造视频”技术，在不到四个月的时间里，盗刷银行卡 5 万余元。IT之家从原报道获悉，临近毕业的大学生吴某并没有选择正规渠道就业，而是盯上了网络黑灰产业。他通过第三方非法网站购买一项“能将静态人脸照片转化为可通过某银行支付平台人脸识别验证的 AI 动态视频”的技术。自以为获得了“法宝”的吴某随后立即在各聊天平台发布广告，吸引诈骗团伙“下单”。随后，吴某通过境外聊天软件加入黑灰产业群聊后，在群内发布接单信息，通过上线将获取到的被害人姓名、身份证号码、手机号码、照片、支付平台验证码等",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/369.htm"
-    },
-    {
-      "id": "3be03df8-2d23-813c-86bf-cfd9db680d10",
-      "title": "I can't find a job at 57. I'm fighting feelings of humiliation and panic.",
-      "summary": "Job searching at 57 has led to situational depression for Gregory Brooks. He shared how hobbies, family, and counseling is helping him adjust.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-16",
-      "link": "https://www.businessinsider.com/cant-find-job-57-unemployment-counseling-2026-8"
     }
   ],
   "macroEvents": [
