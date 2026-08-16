@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-08-17 05:43",
+  "updatedAt": "2026-08-17 06:45",
   "news": [
+    {
+      "id": "3be03df8-2d23-811f-8463-e2cc06948db9",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) ",
+      "source": "The Verge",
+      "publishTime": "2026-08-17",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
+    },
     {
       "id": "3be03df8-2d23-8130-8b7f-c10c399d0af1",
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -392,14 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-08-16",
       "link": "https://www.businessinsider.com/cant-find-job-57-unemployment-counseling-2026-8"
-    },
-    {
-      "id": "3be03df8-2d23-81ed-bdc3-df7700862649",
-      "title": "全球首个因反 AI 入狱者呼吁 OpenAI 和 Anthropic“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
-      "summary": "IT之家 8 月 16 日消息，温德 · 考夫曼（Wynd Kaufman）是一名来自美国加州伯克利的退休教师和 AI 反对者。她因参与 2025 年 2 月封锁 OpenAI 旧金山总部入口的抗议活动而被判处 14 天监禁，于当地时间 2026 年 8 月 14 日向警方自首并正式入狱服刑，被认为是首名因反对 AI 而入狱的抗议者。综合多个媒体报道，她现年 69 岁，是反 AI 组织“StopAI”的成员，旨在抗议对超级人工智能的盲目追求。2025 年 2 月 22 日，她与其他抗议者来到 OpenAI 位于旧金山第三街的办公地点，将铁链缠绕在正门并用锁锁住，随后在大门前静坐抗议。警方赶到后",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/368.htm"
     }
   ],
   "macroEvents": [
