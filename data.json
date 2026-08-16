@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-16 19:43",
+  "updatedAt": "2026-08-16 21:08",
   "news": [
+    {
+      "id": "3be03df8-2d23-8116-a999-ffddd19804ea",
+      "title": "腾讯投资的国产单机动作游戏：《湮灭之潮》全新实机演示公布",
+      "summary": "IT之家 8 月 16 日消息，YouTube 频道 GamersPrey 今日公布了《湮灭之潮》游戏实机演示，全长 53 分钟，展示本作的战斗、技能和剧情系统。据IT之家了解，本作由腾讯投资，是一款基于虚幻 5 引擎打造的国产单机买断制骑士幻想动作游戏，由日蚀边缘工作室开发。目前，游戏发售日尚未确定。剧情梗概：在伦敦之外的异世界，格雯德琳将与昔日的对手兰马洛克并肩作战，直面盘踞于镜面领域中的劲敌。本作由成都蛇夫座-日蚀边缘工作室研发，取材于经典亚瑟王传说，将以买断制形式登陆 PC 与主机平台。游戏图赏：",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/374.htm"
+    },
+    {
+      "id": "3be03df8-2d23-8135-8af7-cda76268c534",
+      "title": "IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病",
+      "summary": "史上最大规模 IPO 前，Anthropic CEO 罕见长文硬刚质疑！要知道，达里奥 · 阿莫迪（Dario Amodei）几乎从不碰社交媒体。但就在 IPO 估值被推到 2 万亿美元的节骨眼上，他罕见地发了一篇长文，正面回应硅谷对他最大的质疑。对一个以谨慎著称、连产品发布都要反复强调风险的 CEO 来说，这句话的分量，比任何豪言都重。一个几乎从不在社交媒体公开表态的人，选在估值最高、争议最烈的节骨眼突然下场 —— 这本身就是一个信号。风起：硅谷对 Anthropic 最大的质疑整场对话的导火索，是前一天流传的一个说法：有「多个可靠的人」告诉美国科技投资大佬 Gavin Baker：达里奥曾",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/373.htm"
+    },
+    {
+      "id": "3be03df8-2d23-817d-97b4-fe5bd000b275",
+      "title": "My son went to culinary school, and my daughter majors in theater. It's not what I planned for either of them, and that's OK.",
+      "summary": "My son never liked school and decided to skip college for trade school. My daughter is majoring in theater, which some think is a waste of money.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-16",
+      "link": "https://www.businessinsider.com/kids-pursued-culinary-school-theater-surprised-2026-8"
+    },
+    {
+      "id": "3be03df8-2d23-8105-8a66-f3bb934b9a27",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous",
+      "source": "The Verge",
+      "publishTime": "2026-08-16",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
+    },
+    {
+      "id": "3be03df8-2d23-81a6-bca5-d0dab5458e4f",
+      "title": "时擎智能推出全国产化 USB 千兆网卡芯片 PT153S，具备 USB 3.2 Gen 1 接口、速率可达 5Gbps",
+      "summary": "IT之家 8 月 16 日消息，据电子工程专辑本周（8 月 13 日）报道，时擎智能科技近日在上海推出全国产化 USB 千兆网卡芯片 PT153S，采用 RISC-V 架构。据介绍，这款芯片采用时擎科技自研 RISC-V 处理器，承担四大关键职能：USB 协议与枚举、以太网链路管理、电源与低功耗管理，以及固件持续演进。IT之家了解到，PT153S 具备 USB 3.2 Gen 1 高速接口，速率可达 5Gbps，兼容 SS / HS / FS 全速率模式。支持 10/100/1000M 自适应以太网、TCP / UDP / IPv4/IPv6 校验和硬件卸载、802.1Q VLAN 及 802",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/372.htm"
+    },
+    {
+      "id": "3be03df8-2d23-81d3-8131-c805a9bbee68",
+      "title": "Anthropic 自曝安全漏洞：生物武器过滤器曾失效近一年，涉及 1.33 亿次对话",
+      "summary": "IT之家 8 月 16 日消息，Anthropic 于当地时间 8 月 14 日发布的最新安全报告显示，该公司用于拦截化学、生物武器相关危险请求的部分安全分类器曾出现长期失效。这直接导致 2025 年 5 月至 2026 年 4 月期间，外部承包商提供人工反馈时产生的大量请求未经过滤。Anthropic 表示，内部调查目前没有发现相关请求被实际用于滥用的证据。根据 Anthropic 公开的安全机制说明，其实时提示词和输出分类器会分析用户输入以及模型生成内容，并在识别到相关风险时阻止模型提供可能用于实施危险行为的信息。据IT之家所知，该机制属于 Anthropic 针对化学、生物、放射性及核武",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/371.htm"
+    },
+    {
+      "id": "3be03df8-2d23-8124-abea-e107be1ad283",
+      "title": "Why a new Western training program for Ukrainian soldiers skips drone piloting and electronic warfare lessons",
+      "summary": "Ukrainian troops are getting trained in Norway-led Operation Legio, and Ukraine didn't request pilot skills as it already has such good education.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-16",
+      "link": "https://www.businessinsider.com/western-training-ukraine-troops-not-drone-pilot-skills-good-already-2026-8"
+    },
+    {
+      "id": "3be03df8-2d23-8183-b6bc-f1be964d2a28",
+      "title": "大学生用 AI 人脸伪造视频盗刷超 5 万元，最终获刑一年十个月",
+      "summary": "IT之家 8 月 16 日消息，央视新闻今日披露一起 AI 人脸伪造视频盗刷案件，大学生吴某在非法网站购买“AI 人脸伪造视频”技术，在不到四个月的时间里，盗刷银行卡 5 万余元。IT之家从原报道获悉，临近毕业的大学生吴某并没有选择正规渠道就业，而是盯上了网络黑灰产业。他通过第三方非法网站购买一项“能将静态人脸照片转化为可通过某银行支付平台人脸识别验证的 AI 动态视频”的技术。自以为获得了“法宝”的吴某随后立即在各聊天平台发布广告，吸引诈骗团伙“下单”。随后，吴某通过境外聊天软件加入黑灰产业群聊后，在群内发布接单信息，通过上线将获取到的被害人姓名、身份证号码、手机号码、照片、支付平台验证码等",
+      "source": "IT之家",
+      "publishTime": "2026-08-16",
+      "link": "https://www.ithome.com/0/990/369.htm"
+    },
+    {
+      "id": "3be03df8-2d23-813c-86bf-cfd9db680d10",
+      "title": "I can't find a job at 57. I'm fighting feelings of humiliation and panic.",
+      "summary": "Job searching at 57 has led to situational depression for Gregory Brooks. He shared how hobbies, family, and counseling is helping him adjust.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-16",
+      "link": "https://www.businessinsider.com/cant-find-job-57-unemployment-counseling-2026-8"
+    },
     {
       "id": "3be03df8-2d23-81ed-bdc3-df7700862649",
       "title": "全球首个因反 AI 入狱者呼吁 OpenAI 和 Anthropic“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
@@ -328,78 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-16",
       "link": "https://www.ithome.com/0/990/291.htm"
-    },
-    {
-      "id": "3be03df8-2d23-8148-9a8c-d4db72c3a623",
-      "title": "支持政府补贴：华为 FreeClip 2 耳夹耳机京东 1199 元，立减 100 元",
-      "summary": "华为 FreeClip 2 耳夹耳机京东今日支持政府补贴，官方定价 1299 元，折后 1199 元。京东华为 FreeClip 2 耳夹耳机国补后 1199 元直达链接华为 FreeClip 2 采用了华为第三代自研低功耗芯片，引入 NPU AI 处理器，算力提升 10 倍；支持鸿蒙 AI 耳边助手，支持头动播报、智慧播报、小艺唤醒、小艺翻译。这款耳机采用了 φ10.8mm 开放式双振膜声学单元，响度提升 100%，低频动力提升 100%；配备 60mAh 电池，单次续航 9 小时，搭配充电仓（537mAh 电池）38 小时，充电 10 分钟补能 3 小时。华为 FreeClip 2 支持 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/290.htm"
-    },
-    {
-      "id": "3be03df8-2d23-81b1-9b9e-f3a9e4a5332f",
-      "title": "DC 新剧《绿灯军团》开播，烂番茄新鲜度 90%",
-      "summary": "IT之家 8 月 16 日消息，DC 新剧《绿灯军团》今天在 HBO Max 开播，首季共 8 集。被冠以“最伟大的绿灯侠”称号的哈尔 · 乔丹在剧中出场，由凯尔 · 钱德勒饰演。截至目前，本剧的烂番茄新鲜度为 90%，共有 40 名影评人参与打分。作为对比，以下是 DCU 近期作品的烂番茄评分：《生物突击队》—— 影评人评分 95%，观众评分 79%《和平使者》—— 影评人评分 93%，观众评分 83%《超人》—— 影评人评分 83%，观众评分 90%《女超人》—— 影评人评分 52%，观众评分 73%IT之家查询获悉，《绿灯军团》由克里斯 · 蒙迪 (《黑钱胜地》) 担任运作人，并与达蒙 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/289.htm"
-    },
-    {
-      "id": "3be03df8-2d23-8170-8518-cbe58725433c",
-      "title": "上海迪士尼乐园第九大主题园区发布，全新蜘蛛侠主题园区最新建设进展及创意细节公开",
-      "summary": "IT之家 8 月 16 日消息，上海迪士尼度假区今日发布上海迪士尼乐园第九大主题园区，也是乐园开幕以来的第三个主要扩建项目 —— 全新蜘蛛侠主题园区的最新建设进展及创意细节公开。继 6 月新园区游乐设备轨道安装完成后，近日，新园区的首批乘骑设备已就位；漫威影业总裁、漫威首席创意官凯文 · 费奇在本届 D23 迪士尼体验分享环节宣布：“全球智造基地” —— 也就是 W.E.B. —— 即将登陆上海；由彼得 · 帕克与 W.E.B.一众发明家们共同研发的巨型“机器蜘蛛”，将成为“W.E.B.上海”最新的实验项目。据IT之家此前报道，去年 5 月，上海迪士尼度假区宣布，全新蜘蛛侠主题园区正式动工。根",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/288.htm"
-    },
-    {
-      "id": "3be03df8-2d23-8129-a770-cd6bfdfbe94f",
-      "title": "宇宙真空并非空无一物：磁星观测证实量子力学预言的真空双折射效应",
-      "summary": "IT之家 8 月 16 日消息，真空并不像看上去那样空无一物。这是一项针对恒星残骸信号的新研究得出的核心结论。研究人员表示，这是迄今为止最有力的证据，证明极强磁场能够改变真空的物理性质，让看似空无一物的空间表现得像棱镜一样，改变光的传播方式。这项研究由乔治华盛顿大学物理学研究生蕾切尔 · 斯图尔特主导，验证了 90 年前科学家提出的一项奇异物理效应预测。“我们通过观测这颗遥远的恒星核心获取的信息，也为我们理解已知现实时空的本质提供了线索，这在我看来非常不可思议。”斯图尔特在一份声明中说。这一理论可以追溯到 1936 年。当时德国物理学家维尔纳 · 海森堡与他的学生汉斯 · 欧拉提出，空间从来都",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/285.htm"
-    },
-    {
-      "id": "3be03df8-2d23-81c1-98f9-e4025869e9bb",
-      "title": "汽车厂商施压下，英国拟放宽电动汽车销售比例强制令",
-      "summary": "IT之家 8 月 16 日消息，英国政府前天发布公告，宣布重新审视此前的电动汽车销售比例强制令。该规定此前要求汽车厂商必须每年销售一定比例的零排放车型（即纯电车型），并且比例将逐年提高。根据英国政府 2024 年出台的规定，各大汽车厂商今年销售的车辆中，纯电汽车的比例需要达到 33%；并在 2030 年逐步提高至 80%。如今在汽车厂商的施压下，英国政府考虑下调这一目标，最低可能降至 50%。政府将就相关方案，在 10 月底前征询社会各界意见。据IT之家了解，英国政府将继续保留 2030 年禁售纯汽油或纯柴油车辆的规定，这意味着 2030 年后，如果政府规定纯电汽车必须占销量的 50%，其余 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/286.htm"
-    },
-    {
-      "id": "3be03df8-2d23-81ec-a56f-cf9fc5822449",
-      "title": "启境首款 SUV 车型 GX7 内饰再曝：首搭华为鸿蒙座舱 6、二排可配投影系统",
-      "summary": "IT之家 8 月 16 日消息，启境汽车旗下首款 SUV 车型 —— GX7 内饰已曝光。画面显示，启境 GX7 将提供橙、紫、白三种内饰色，同时二排还可以选装投影系统，辅以此前官宣的“三折叠纯平大床”功能，可以秒变影音娱乐房。相关宣传视频显示，启境 GX7 支持 L 型贵妃榻、前排零重力模式、后排零重力模式、20s 后排纯平家庭模式等功能。据IT之家此前报道，启境汽车旗下首款 SUV 车型 GX7 首发搭载华为鸿蒙座舱 HarmonySpace 6，该车将于今年下半年上市，预计主销价格在 30 至 35 万元左右。",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/284.htm"
-    },
-    {
-      "id": "3be03df8-2d23-81bd-81ae-f2f2e966a893",
-      "title": "Waymo is eating into the ride-hailing market in some cities. The fallout for human drivers stays fuzzy.",
-      "summary": "Waymo's share of gross bookings in SF, LA, and Phoenix are in the high teens, data showed. Experts say the impact on drivers is still murky.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-16",
-      "link": "https://www.businessinsider.com/waymo-rideshare-market-uber-lyft-competition-impact-on-human-drivers-2026-8"
-    },
-    {
-      "id": "3be03df8-2d23-81d9-9e61-dff16ead7314",
-      "title": "华为余承东分享问界 M9 Ultimate 实车内饰，二排旋转座椅支持一键旋转调节",
-      "summary": "IT之家 8 月 16 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，展示了问界 M9 Ultimate 的实车内饰。据介绍，问界 M9 Ultimate 二排旋转座椅支持一键旋转调节，辅以 60° 外旋设计，优化了上下车姿态。座椅也支持 100° 侧坐观景，侧向延展视野，同时还能一键切换 180° 对坐角度，提供专属后排观景模式，联动开启后备箱揽景视窗。视频小字备注显示，问界 M9 Ultimate 的二排智慧旋转座椅需要选配，部分功能需要 OTA 升级。据IT之家此前报道，鸿蒙智行全新一代问界 M9 Ultimate 领世加长版发布于 5 月 27 日",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/283.htm"
-    },
-    {
-      "id": "3be03df8-2d23-813f-8c64-fb71c1575165",
-      "title": "内存短缺成本上涨，廉价智能手机正在美国消失",
-      "summary": "IT之家 8 月 16 日消息，据 Counterpoint 数据，美国智能手机销量于 2026 年第二季度同比下降 5%，不断上涨的内存成本和日渐生变的宏观经济环境，正持续抑制消费者需求。美国的廉价智能手机市场在这次 AI 带动的内存短缺潮中受伤最严重，销量同比下降 64%。零部件短缺和不断缩水的利润率，使厂商很难拿出能盈利的产品。IT之家注意到，这一趋势也对各大智能手机厂商造成明显影响。苹果、三星、摩托罗拉和谷歌四家美国主要品牌的手机销量合计同比下降 4%，其他品牌的销量则暴跌 45%。Counterpoint 认为，这种趋势表明大企业面对内存短缺潮时更有优势，他们能够凭借自身优势获得更多",
-      "source": "IT之家",
-      "publishTime": "2026-08-16",
-      "link": "https://www.ithome.com/0/990/282.htm"
     }
   ],
   "macroEvents": [
