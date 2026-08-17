@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-08-17 22:53",
+  "updatedAt": "2026-08-17 23:48",
   "news": [
+    {
+      "id": "3bf03df8-2d23-815e-92b3-cfe0e4c4ac90",
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+      "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-17",
+      "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html"
+    },
+    {
+      "id": "3bf03df8-2d23-81ef-816b-d246094d7d69",
+      "title": "Apple ordered to change app data consent prompts on iPhones and iPads",
+      "summary": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5",
+      "source": "The Verge",
+      "publishTime": "2026-08-17",
+      "link": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany"
+    },
+    {
+      "id": "3bf03df8-2d23-81eb-9331-df5308e33999",
+      "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
+      "summary": "African defense tech company Terra Industries announced an additional $18 million in funding, bringing its seed round to $52 million.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-17",
+      "link": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/"
+    },
+    {
+      "id": "3bf03df8-2d23-81a6-8ff7-f916a638e38a",
+      "title": "字节跳动与美国电影协会签署协议，加强 AI 模型版权保护",
+      "summary": "IT之家 8 月 17 日消息，据路透社今天报道，字节跳动与美国电影协会（MPA）签署协议，双方将加强 AI 视频与图像生成模型的版权保护措施。IT之家从原报道获悉，该协议涵盖字节跳动旗下的 Seedance 视频生成模型和 Seedream 图像生成模型，这些模型目前通过 TikTok、CapCut 和 Dreamina 等应用提供服务。字节表示，新版本的 Seedance 和 Seedream 已加入更强的知识产权保护机制。字节跳动和美国电影协会表示，双方将在 AI 不断发展的同时，继续完善版权防护措施。",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/847.htm"
+    },
+    {
+      "id": "3bf03df8-2d23-8188-8026-e0cc06d1d386",
+      "title": "First came self-driving cars. Now, Waymo veterans are building autonomous construction equipment.",
+      "summary": "Bedrock Robotics said its excavators equipped with its autonomous AI system are working without human operators on three sites in Texas and Nevada.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-17",
+      "link": "https://www.businessinsider.com/bedrock-robotics-construction-ai-excavators-2026-8"
+    },
+    {
+      "id": "3bf03df8-2d23-816b-9f09-f215658d30de",
+      "title": "索尼 CEO 十时裕树：PlayStation 6 游戏机发售日期尚未确定",
+      "summary": "IT之家 8 月 17 日消息，索尼集团 CEO 十时裕树近日接受《华尔街日报》采访，谈及公司业务的多个层面，他认为公司未来的重点发展方向是从电子产品转向娱乐业务。谈到当前时代面临的挑战时，十时裕树指出，全球零部件持续短缺正在给公司带来压力。他对此表示：“考虑到这一点的重要性，我们必须采取一些行动，否则我们无法在当前环境生存下去。”此前曾有多名分析师认为，索尼原本计划在 2027 年推出 PS6 游戏机，但零部件持续短缺已经迫使索尼重新考虑这一计划。IT之家从原报道获悉，十时裕树明确表示，索尼暂未确认 PlayStation 6 游戏机的发售日期。从目前消费电子行业的形势来看，索尼 PS6 的",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/846.htm"
+    },
+    {
+      "id": "3bf03df8-2d23-81de-b96f-f2d3d8259ba9",
+      "title": "WordPress.com targets the next generation of web creators with a free student plan",
+      "summary": "WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-17",
+      "link": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/"
+    },
+    {
+      "id": "3bf03df8-2d23-81a1-94bc-db98f74c8278",
+      "title": "AirTag 挖出亚马逊训练 AI“毁书”手段：为提高扫描效率，先把书脊切掉",
+      "summary": "IT之家 8 月 17 日消息，亚马逊正大批购入纸质书籍，将内容扫描后用于训练 AI，并在扫描过程中直接销毁原书。当地时间 17 日，外媒 404 Media 公布了一次追踪调查：调查人员把苹果 AirTag 藏进一批珍贵书籍的货件中，一路追踪这些书在美国境内的去向。货件最终抵达亚马逊位于拉斯维加斯的一座仓库。仓库内有一支名为 VGT3 的团队，标志是一只手拿书本的霸王龙。员工称，为了提高扫描效率，他们会先切掉书脊，因此原书会在处理过程中被毁。亚马逊随后使用扫描得到的数据训练 Nova 模型。亚马逊发言人称，公司通过正常商业渠道采购书籍，用于改进产品。一些书商怀疑，AI 公司正在尝试按照 IS",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/845.htm"
+    },
+    {
+      "id": "3bf03df8-2d23-81fb-a797-f51c6b7f6700",
+      "title": "新一代奔驰 C 级车全球首发：首搭 S 级同款发光格栅、Momenta R7 智驾，宣称史上最全面技术升级",
+      "summary": "IT之家 8 月 17 日消息，梅赛德斯-奔驰官方微博今日宣布，新一代 C 级车全球首发。据介绍，自 1982 年问世以来，C 级车累计销量已突破 1,200 万辆。新一代 C 级车将迎来史上最全面技术升级，拥有更多 S 级旗舰同源科技。外观方面，新一代 C 级车首度搭载 S 级同款发光格栅，星徽头灯与尾灯前后呼应，智能数字大灯光线照射更精准通透，可规避夜间行车视野盲区。打开车门，外后视镜将投射三叉星徽点亮地面。内饰方面，新车搭载优化升级的 Burmester 3D 环绕立体声音响系统，支持杜比全景声，并配备 15 个扬声器；全新多功能方向盘，采用拨杆与滚轮等物理控制，方便高频操作。智能方面，",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/844.htm"
+    },
+    {
+      "id": "3bf03df8-2d23-8158-b4b5-cf968b9705a6",
+      "title": "GitHub 平台突发宕机，官方调查中",
+      "summary": "IT之家 8 月 17 日消息，代码托管平台 GitHub 刚刚突发大规模宕机，PR、Issue、Webhooks 和 Actions 等核心功能均受到不同程度影响。官方正在调查中，目前尚未确认故障发生的根本原因。GitHub 仪表板页面显示，从世界协调时 13:40（北京时间 21:40）开始，官方留意到部分服务性能故障报告。从 UTC13:45（北京时间 21:45）开始，Webhooks、Pull Request、Issue 等核心功能均有不同程度的宕机。UTC 14:04（北京时间 22:04）开始，网页和 API 流量的错误率高达 20% 左右，归档文件下载和原始存储库下载错误率约为",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/842.htm"
+    },
+    {
+      "id": "3bf03df8-2d23-81c5-b331-c97f00c5b44a",
+      "title": "The US military is paying RTX's Raytheon big for more Tomahawk missiles. It burned through many of them fighting Iran.",
+      "summary": "The $22.9 billion contract will see annual production increase to more than 1,000 Tomahawk missiles over a seven-year period.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-17",
+      "link": "https://www.businessinsider.com/us-paying-raytheon-big-more-tomahawk-missiles-iran-war-2026-8"
+    },
+    {
+      "id": "3bf03df8-2d23-81a4-bc19-f1d9f202d091",
+      "title": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
+      "summary": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with select music services. It supports over 20 services, and it sports ",
+      "source": "The Verge",
+      "publishTime": "2026-08-17",
+      "link": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale"
+    },
+    {
+      "id": "3bf03df8-2d23-8185-b1a4-e0f96e4080ef",
+      "title": "小鹏 G9L 麋鹿测试时速超 80 公里，成功挑战同级最快通过速度",
+      "summary": "IT之家 8 月 17 日消息，小鹏汽车官方今日宣布，小鹏 G9L 麋鹿测试时速超 80 公里，成功挑战同级最快通过速度。该车宣称全系标配百万级旗舰底盘，支持极端情况瞬间稳住车身。据IT之家此前报道，小鹏 G9L 汽车已于 8 月 11 日开启预售，共推出超级增程、纯电两种动力，预售价 25.98 万元。外观方面，小鹏 G9L 拥有普罗旺斯紫、托斯卡纳绿、珠峰白、峡湾灰、极夜黑等多款车色可选，车身尺寸为 5120mm*1999mm*1782mm，拥有 3100mm 的超长轴距和 0.605 轴长比。搭载行业首创前后双贯穿灯，配备 480 颗独立 LED 灯珠，尾部采用溜背造型，凸显年轻化姿态。",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/841.htm"
+    },
+    {
+      "id": "3bf03df8-2d23-8105-8aa5-cbab01c08406",
+      "title": "爆料称《暗黑破坏神 4》Switch 2 版 9 月 15 日发售：69.99 美元，实体版只提供下载码",
+      "summary": "IT之家 8 月 17 日消息，本月早些时候，长期准确爆料硬件和游戏消息的 Dealabs 撰稿人 billbil-kun 称，《暗黑破坏神 4》Switch 2 版已接近开发完成。而在今天（17 日），billbil-kun 更新了此前的爆料，进一步披露发售日期和 DLC 等信息。按照爆料，《暗黑破坏神 4》Switch 2 版计划于 9 月 15 日发售，售价 69.99 美元（IT之家注：现汇率约合 472.3 元人民币）。Switch 2 版据称将直接推出“憎恨时代”合集，内容包括《暗黑破坏神 4》本体，以及《憎恨之躯》和《憎恨之王》两部资料片。billbil-kun 还重申，此前所说",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/840.htm"
+    },
+    {
+      "id": "3bf03df8-2d23-818d-806b-f7f25af5b38f",
+      "title": "Uber partners with Zipline on Eats drone deliveries",
+      "summary": "Uber is teaming up with drone company Zipline to start airborne takeout deliveries later this year, with the goal of reaching one million daily drone deliveries by 2029. Uber also said it was making a strategic investment in Zipline, a California-based company that has been orchestrating drone deliv",
+      "source": "The Verge",
+      "publishTime": "2026-08-17",
+      "link": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment"
+    },
+    {
+      "id": "3bf03df8-2d23-811d-a516-f2883c4d1778",
+      "title": "红魔游戏平板 5 Pro 游戏适配进度更新，主流 FPS 游戏 165Hz 高刷全面上线",
+      "summary": "IT之家 8 月 17 日消息，红魔官方今日公布了红魔游戏平板 5 Pro 游戏最新适配进度，并宣布主流 FPS 游戏 165Hz 高刷全面上线。官方表示，还会有更多国民级重磅游戏支持 185Hz 超高刷。官方表格显示，超 30 款游戏支持 185Hz 帧率，如《穿越火线-枪战王者》《炉石传说》等。《王者荣耀》《火影忍者手游》等支持 144Hz 帧率，《三角洲行动》《暗区突围》《金铲铲之战》《QQ 飞车手游》等支持 165Hz 帧率。据IT之家此前报道，红魔游戏平板 5 PRO 已于 6 月 30 日正式发布，采用透明水冷设计，号称“口袋里的游戏神器”，首销 4999 元起、国补价 4499 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/838.htm"
+    },
+    {
+      "id": "3bf03df8-2d23-8127-8dc8-f12f0f1ad577",
+      "title": "《方舟：生存进化》Switch 版官方服务器本月关闭，玩家需转向私服或离线模式",
+      "summary": "IT之家 8 月 17 日消息，开发商 Studio Wildcard 今天确认，《方舟：生存进化》Switch 版游戏官方线上服务器将于本月底关闭。IT之家了解到，《方舟：生存进化》最初于 2017 年登陆 PC、PS4 和 Xbox One 平台，随后于 2018 年推出 Switch 版，该版本的游戏最初由于性能表现糟糕，遭受玩家和媒体批评。2022 年，Grove Street Games 为 Switch 平台带来了《方舟：终极幸存者版》，原版玩家可免费升级。据 Studio Wildcard 所述，《方舟：生存进化》和《方舟：终极幸存者版》的官方线上服务器都将在 8 月 13 日停",
+      "source": "IT之家",
+      "publishTime": "2026-08-17",
+      "link": "https://www.ithome.com/0/990/839.htm"
+    },
     {
       "id": "3bf03df8-2d23-81b2-914c-e1407f96ed71",
       "title": "无需电机、齿轮，科学家制造出完全由声波驱动的微型船及飞行器",
@@ -264,142 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-17",
       "link": "https://www.ithome.com/0/990/807.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-81a8-af67-f2ddbb12cfe4",
-      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-      "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-17",
-      "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html"
-    },
-    {
-      "id": "3bf03df8-2d23-8173-a344-ee4e44bdf7c9",
-      "title": "$1 billion NYC-startup Dash0 acquires Berlin tech company to build software that fixes itself",
-      "summary": "Dash0 is acquiring Polar Signals, gaining continuous profiling tech as it builds AI agents that can monitor and improve software in real time.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-17",
-      "link": "https://www.businessinsider.com/dash0-polar-signals-acquisition-ai-agents-continuous-profiling-2026-8"
-    },
-    {
-      "id": "3bf03df8-2d23-812f-9829-f103a0926bc8",
-      "title": "开发者发布第三方固件，复活已被官方抛弃的 Spotify Car Thing 车载显示器",
-      "summary": "IT之家 8 月 17 日消息，据科技媒体 TechRadar 今天报道，开发者 MustakimK 近日发布 Mira 项目，可让官方抛弃的 Spotify Car Thing 车载显示器重新复活。IT之家了解到，Spotify 官方于 2021 年发布 Car Thing，这款产品的初衷是为老旧汽车提供 Spotify 音乐播放、触控操作和语音控制歌曲功能。由于销量问题，这款产品于 2022 年停产，并在 2024 年 7 月停止支持，完全无法继续使用。据悉，Mira 是一款适配 Car Thing 的第三方固件。用户只需要通过一根 USB-C 线缆就能将它刷入 Car Thing，然后它",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/804.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-8132-9a4b-d3238101c50e",
-      "title": "7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)",
-      "summary": "From surprisingly good $300 Chromebooks to excellent $650 Windows notebooks and more, these are the best budget laptops I’ve tested.",
-      "source": "Wired",
-      "publishTime": "2026-08-17",
-      "link": "https://www.wired.com/gallery/best-cheap-laptops/"
-    },
-    {
-      "id": "3bf03df8-2d23-817d-9af0-c6725bdb46cb",
-      "title": "招聘信息暗示：苹果 Fitness+ 健康服务可能推出直播内容",
-      "summary": "IT之家 8 月 17 日消息，据科技媒体 MacRumors 今天报道，苹果正在为 Fitness+ 健康服务招聘一名演播室制片人，应聘者需具备直播或多机位录播节目制作经验，暗示着苹果可能为该服务推出直播内容。IT之家在此援引 MacRumors，该招聘信息发布于上个月，应聘者需前往苹果位于加州的圣莫尼卡工作室上班。从职位要求的具体内容来看，该岗位更接近于内容制作管理，并不是完全负责直播。作为参考，苹果于 2020 年推出 Apple Fitness+ 服务，提供健身指导、冥想视频服务，用户可在 iPad、iPhone 和 Apple TV 上订阅该服务并观看点播视频，同时使用 Apple ",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/801.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-81ad-8182-e9ba7aba3023",
-      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
-      "summary": "Alibaba launched a laptop-ready AI model and released the weights of its most powerful Qwen model, escalating its rivalry with Meta in open-weight AI.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-17",
-      "link": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html"
-    },
-    {
-      "id": "3bf03df8-2d23-815c-85bf-ee382ddc162b",
-      "title": "We followed a drone from UK factory to Ukraine front line",
-      "summary": "Business Insider gained visited a drone factory in the UK, then took a 1,800-mile journey east to see them being deployed in Ukraine.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-17",
-      "link": "https://www.businessinsider.com/we-followed-a-drone-from-uk-factory-to-ukraine-frontline-2026-8"
-    },
-    {
-      "id": "3bf03df8-2d23-81f5-aa7b-cc22becbf530",
-      "title": "SE 重申《王国之心 4》游戏 2027 年发售，不会延期",
-      "summary": "IT之家 8 月 17 日消息，据科技媒体 Wccftech 今天报道，Square Enix 近期在迪士尼 D23 大会公布《王国之心 4》游戏新情报，宣布该作将于 2027 年发售，登陆 PC、PS5、Xbox 和 Switch 2 平台。随后有部分玩家担心，本作有可能会进一步延期至 2028 年发售。但《王国之心 4》导演野村哲也对此表示：“我很有信心确认，也向大家保证，《王国之心 4》将在 2027 年推出。”他继续说道：“我们的开发进度非常顺利。不是说完成了 80%、90%…… 而是已经达到 100%，我们肯定会按计划发售，网上说的延期不会发生。”IT之家注意到，迪士尼和 Squar",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/800.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-81d8-a365-f719105b3aed",
-      "title": "海信家电 2026 年半年度归母净利润 16.58 亿元，同比下降 20.16%",
-      "summary": "IT之家 8 月 17 日消息，海信家电今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告： 营业总收入：467.66 亿元，同比下降 5.22% 归母净利润：16.58 亿元，同比下降 20.16% 扣非净利润：13.32 亿元，同比下降 26.69% 经营现金流：32.35 亿元，同比下降 39.21% 加权平均净资产收益率：9.05% 基本每股收益：1.21 元，同比下降 20.39% 稀释每股收益：1.21 元，同比下降 20.39% AI 解读 本次财报营收和归母净利润均低于市场预期，营收同比下滑，净利润降幅高于营收降幅。财报核心数据实现营业收入 467.",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/797.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-8142-99b6-d10e5bacbe20",
-      "title": "《蜘蛛侠：崭新之日》全球票房破 136.6 亿跻身影史第 8，登顶索尼影业影史单片票房冠军",
-      "summary": "IT之家 8 月 17 日消息，蜘蛛侠系列电影官方微博今日再次发文，宣布由漫威与索尼联合出品的《蜘蛛侠：崭新之日》全球票房破 136.6 亿元，跻身全球影史第 8 位。另外，《蜘蛛侠：崭新之日》还登顶索尼影业影史单片票房冠军。据IT之家今日早些时候报道，《蜘蛛侠：崭新之日》内地票房突破 14.23 亿，超越《蜘蛛侠：英雄远征》刷新系列内地票房纪录。本片还成为近十年内地影史唯一达成 3 部票房连续增长的进口系列影片。该片由克里斯 · 麦肯纳（Chris McKenna）和埃里克 · 索默斯（Erik Sommers）编剧，主要演员包括汤姆 · 赫兰德（Peter Parker / Spider-",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/796.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-81a8-a337-f184c7f3e20a",
-      "title": "How Google lost the 'war for the hearts and minds' of its employees: Q&A with Claire Stapleton",
-      "summary": "Former Googler Claire Stapleton talked to Business Insider about Google from the inside, worker power, and how the company obsessed over its image.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-17",
-      "link": "https://www.businessinsider.com/claire-stapleton-google-employee-walkouts-protest-dont-be-evil-book-2026-8"
-    },
-    {
-      "id": "3bf03df8-2d23-8181-9dba-f4256b20bfc0",
-      "title": "Galaxy Z Fold9 系列要有五款机型？消息称三星明年再推一款全新阔折叠手机，更适合看视频",
-      "summary": "IT之家 8 月 17 日消息，据韩媒 EtNews 今天报道，三星电子计划在明年推出一款全新阔折叠手机。业内认为，今年上市的 Galaxy Z Fold8 市场反馈较好，从而让三星“尝到了甜头”，希望继续探索折叠屏手机新形态。据业内消息，三星电子已在内部启动两款宽折叠新机的研发工作，并将相关计划告知合作伙伴。因此明年的 Galaxy Z Fold9 系列折叠屏手机，可能会有 Fold9（IT之家注：阔折叠）、Fold9 Ultra（大折叠）、Flip9（小折叠）、TriFold2（三折叠）及另一款阔折叠，总共包含五款机型。多位业内人士表示：“三星正在推进的另一款阔折叠手机，目前处于启动阶段，",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/795.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-8126-8acd-d2cc73cbaa92",
-      "title": "Omdia：成本上涨重塑非洲百元智能手机市场，今年 Q2 出货大降 34%",
-      "summary": "IT之家 8 月 17 日消息，Omdia 最新报告指出，非洲 100 美元（IT之家注：现汇率约合 674.9 元人民币）以下智能手机市场正面临越来越大的压力，内存价格上涨正在挤压入门级设备的利润空间。数据显示，2026 年第二季度，非洲 100 美元（现汇率约合 674.9 元人民币）以下智能手机出货量同比下降 34%，厂商们正越来越多地转向融资合作、渠道伙伴关系、精细化库存管理和推出更高价值设备，以此在可负担性和盈利能力之间取得平衡。十多年来，100 美元（现汇率约合 674.9 元人民币）以下智能手机一直推动着非洲的数字普及进程，这类设备往往是消费者的第一部手机，也常作为首个金融账户使",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/794.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-8132-83e6-eeb505c23aee",
-      "title": "CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals",
-      "summary": "I’ve tried most of the ready-to-eat meal delivery services in the country. CookUnity is the one that feels like real cooking, from real chefs.",
-      "source": "Wired",
-      "publishTime": "2026-08-17",
-      "link": "https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/"
-    },
-    {
-      "id": "3bf03df8-2d23-817d-814b-ccbba2e9e1fd",
-      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-      "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two […]",
-      "source": "The Verge",
-      "publishTime": "2026-08-17",
-      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review"
-    },
-    {
-      "id": "3bf03df8-2d23-814f-a34e-d1c27317cc08",
-      "title": "How to take better photos of your pets",
-      "summary": "Like the pets of any self-respecting millennial, my cats have their own Instagram account. Noodle and Loaf - aka Carb Cats - aren't exactly celebrities. But they are used to having their photos taken a lot. Between their Instagram account, my regular need to test smartphone cameras, and the fact tha",
-      "source": "The Verge",
-      "publishTime": "2026-08-17",
-      "link": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos"
-    },
-    {
-      "id": "3bf03df8-2d23-81b6-9230-cabd0eaed5ad",
-      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technolo",
-      "source": "The Verge",
-      "publishTime": "2026-08-17",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
     }
   ],
   "macroEvents": [
