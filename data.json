@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-08-18 03:06",
+  "updatedAt": "2026-08-18 03:50",
   "news": [
+    {
+      "id": "3bf03df8-2d23-8198-b35b-c28a41d63fc6",
+      "title": "John Gruber calls Claude's AI watermarking 'patently offensive'",
+      "summary": "Anthropic is adding a watermark to Claude's output. Tech blogger John Gruber says it could prioritize traceability over the quality of the writing.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-18",
+      "link": "https://www.businessinsider.com/john-gruber-claude-watermark-perversion-offensive-ai-2026-8"
+    },
+    {
+      "id": "3bf03df8-2d23-81c2-9468-fd6231da800d",
+      "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
+      "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-18",
+      "link": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/"
+    },
+    {
+      "id": "3bf03df8-2d23-81af-a9dc-c22d2f29fd51",
+      "title": "Wordle meets Clippy in this new word game",
+      "summary": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The Game Band, and so this regular habit got him thinking about what else could be ",
+      "source": "The Verge",
+      "publishTime": "2026-08-18",
+      "link": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game"
+    },
+    {
+      "id": "3bf03df8-2d23-8140-81fc-f98542fbe5f2",
+      "title": "I went to Royal Caribbean's private island in the Bahamas. It's not for me, but I get why cruisers love it.",
+      "summary": "Royal Caribbean's private island in the Bahamas, Perfect Day at CocoCay, has beaches and thrilling activities, but I was looking for something else.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-18",
+      "link": "https://www.businessinsider.com/perfect-day-cococay-private-island-bahamas-royal-caribbean"
+    },
+    {
+      "id": "3bf03df8-2d23-813d-9b53-f6047b0e4d66",
+      "title": "Rugged robotic mules could make dangerous supply missions safer for US soldiers, but there are some things still to work out",
+      "summary": "Ukraine has seen success in using uncrewed ground vehicles, or UGVs, for logistics runs, keeping soldiers out of direct danger.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-18",
+      "link": "https://www.businessinsider.com/us-soldiers-ground-robots-for-resupply-missions-2026-8"
+    },
+    {
+      "id": "3bf03df8-2d23-813a-a7a5-dad6824a119e",
+      "title": "I built an AI C-suite to help me run my small business. As a creative, I was hesitant to use AI, but it's helpful for certain things.",
+      "summary": "A small business owner in Brooklyn created a C-suite filled with AI agents to help run her business, but she refuses to use AI for creative work.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-18",
+      "link": "https://www.businessinsider.com/how-artist-built-ai-c-suite-help-run-business-2026-8"
+    },
+    {
+      "id": "3bf03df8-2d23-81bc-a846-e6d4f166820b",
+      "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
+      "summary": "Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-18",
+      "link": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/"
+    },
     {
       "id": "3bf03df8-2d23-8169-87c4-d188c918dd85",
       "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
@@ -344,62 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-08-17",
       "link": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/"
-    },
-    {
-      "id": "3bf03df8-2d23-81a1-94bc-db98f74c8278",
-      "title": "AirTag 挖出亚马逊训练 AI“毁书”手段：为提高扫描效率，先把书脊切掉",
-      "summary": "IT之家 8 月 17 日消息，亚马逊正大批购入纸质书籍，将内容扫描后用于训练 AI，并在扫描过程中直接销毁原书。当地时间 17 日，外媒 404 Media 公布了一次追踪调查：调查人员把苹果 AirTag 藏进一批珍贵书籍的货件中，一路追踪这些书在美国境内的去向。货件最终抵达亚马逊位于拉斯维加斯的一座仓库。仓库内有一支名为 VGT3 的团队，标志是一只手拿书本的霸王龙。员工称，为了提高扫描效率，他们会先切掉书脊，因此原书会在处理过程中被毁。亚马逊随后使用扫描得到的数据训练 Nova 模型。亚马逊发言人称，公司通过正常商业渠道采购书籍，用于改进产品。一些书商怀疑，AI 公司正在尝试按照 IS",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/845.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-81fb-a797-f51c6b7f6700",
-      "title": "新一代奔驰 C 级车全球首发：首搭 S 级同款发光格栅、Momenta R7 智驾，宣称史上最全面技术升级",
-      "summary": "IT之家 8 月 17 日消息，梅赛德斯-奔驰官方微博今日宣布，新一代 C 级车全球首发。据介绍，自 1982 年问世以来，C 级车累计销量已突破 1,200 万辆。新一代 C 级车将迎来史上最全面技术升级，拥有更多 S 级旗舰同源科技。外观方面，新一代 C 级车首度搭载 S 级同款发光格栅，星徽头灯与尾灯前后呼应，智能数字大灯光线照射更精准通透，可规避夜间行车视野盲区。打开车门，外后视镜将投射三叉星徽点亮地面。内饰方面，新车搭载优化升级的 Burmester 3D 环绕立体声音响系统，支持杜比全景声，并配备 15 个扬声器；全新多功能方向盘，采用拨杆与滚轮等物理控制，方便高频操作。智能方面，",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/844.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-8158-b4b5-cf968b9705a6",
-      "title": "GitHub 平台突发宕机，官方调查中",
-      "summary": "IT之家 8 月 17 日消息，代码托管平台 GitHub 刚刚突发大规模宕机，PR、Issue、Webhooks 和 Actions 等核心功能均受到不同程度影响。官方正在调查中，目前尚未确认故障发生的根本原因。GitHub 仪表板页面显示，从世界协调时 13:40（北京时间 21:40）开始，官方留意到部分服务性能故障报告。从 UTC13:45（北京时间 21:45）开始，Webhooks、Pull Request、Issue 等核心功能均有不同程度的宕机。UTC 14:04（北京时间 22:04）开始，网页和 API 流量的错误率高达 20% 左右，归档文件下载和原始存储库下载错误率约为",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/842.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-81c5-b331-c97f00c5b44a",
-      "title": "The US military is paying RTX's Raytheon big for more Tomahawk missiles. It burned through many of them fighting Iran.",
-      "summary": "The $22.9 billion contract will see annual production increase to more than 1,000 Tomahawk missiles over a seven-year period.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-17",
-      "link": "https://www.businessinsider.com/us-paying-raytheon-big-more-tomahawk-missiles-iran-war-2026-8"
-    },
-    {
-      "id": "3bf03df8-2d23-81a4-bc19-f1d9f202d091",
-      "title": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
-      "summary": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with select music services. It supports over 20 services, and it sports ",
-      "source": "The Verge",
-      "publishTime": "2026-08-17",
-      "link": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale"
-    },
-    {
-      "id": "3bf03df8-2d23-8185-b1a4-e0f96e4080ef",
-      "title": "小鹏 G9L 麋鹿测试时速超 80 公里，成功挑战同级最快通过速度",
-      "summary": "IT之家 8 月 17 日消息，小鹏汽车官方今日宣布，小鹏 G9L 麋鹿测试时速超 80 公里，成功挑战同级最快通过速度。该车宣称全系标配百万级旗舰底盘，支持极端情况瞬间稳住车身。据IT之家此前报道，小鹏 G9L 汽车已于 8 月 11 日开启预售，共推出超级增程、纯电两种动力，预售价 25.98 万元。外观方面，小鹏 G9L 拥有普罗旺斯紫、托斯卡纳绿、珠峰白、峡湾灰、极夜黑等多款车色可选，车身尺寸为 5120mm*1999mm*1782mm，拥有 3100mm 的超长轴距和 0.605 轴长比。搭载行业首创前后双贯穿灯，配备 480 颗独立 LED 灯珠，尾部采用溜背造型，凸显年轻化姿态。",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/841.htm"
-    },
-    {
-      "id": "3bf03df8-2d23-8105-8aa5-cbab01c08406",
-      "title": "爆料称《暗黑破坏神 4》Switch 2 版 9 月 15 日发售：69.99 美元，实体版只提供下载码",
-      "summary": "IT之家 8 月 17 日消息，本月早些时候，长期准确爆料硬件和游戏消息的 Dealabs 撰稿人 billbil-kun 称，《暗黑破坏神 4》Switch 2 版已接近开发完成。而在今天（17 日），billbil-kun 更新了此前的爆料，进一步披露发售日期和 DLC 等信息。按照爆料，《暗黑破坏神 4》Switch 2 版计划于 9 月 15 日发售，售价 69.99 美元（IT之家注：现汇率约合 472.3 元人民币）。Switch 2 版据称将直接推出“憎恨时代”合集，内容包括《暗黑破坏神 4》本体，以及《憎恨之躯》和《憎恨之王》两部资料片。billbil-kun 还重申，此前所说",
-      "source": "IT之家",
-      "publishTime": "2026-08-17",
-      "link": "https://www.ithome.com/0/990/840.htm"
     }
   ],
   "macroEvents": [
