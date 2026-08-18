@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-08-19 04:48",
+  "updatedAt": "2026-08-19 05:46",
   "news": [
+    {
+      "id": "3c003df8-2d23-81aa-9133-ff5f8af79f7e",
+      "title": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
+      "summary": "ChatGPT for Teens includes a number of educational features and applies age-appropriate safeguards, OpenAI said.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-19",
+      "link": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html"
+    },
+    {
+      "id": "3c003df8-2d23-815c-9e30-f15ac1a99c27",
+      "title": "I booked the wrong room on my first cruise. It was my biggest regret of the 7-day voyage.",
+      "summary": "While aboard Royal Caribbean's Wonder of the Seas for my first cruise, I learned the hard way that the bumpiest rooms are at the front of the ship.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-19",
+      "link": "https://www.businessinsider.com/cruise-ship-mistake-booked-wrong-room-2026-8"
+    },
+    {
+      "id": "3c003df8-2d23-81d1-9183-ee8e5e7ed9a4",
+      "title": "Handshake AI wants to pay you up to $30K for work documents that you own",
+      "summary": "Handshake AI is paying $6 per page for written work documents of \"high quality\" — if you own them. A data privacy lawyer told BI he had concerns.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-19",
+      "link": "https://www.businessinsider.com/handshake-ai-pay-30k-work-documents-compliance-ownership-2026-8"
+    },
+    {
+      "id": "3c003df8-2d23-8126-b04d-ebe031ab48e7",
+      "title": "Flock CEO says drones are its fastest-growing business as it expands beyond license plate cameras",
+      "summary": "Flock, the license plate-reading company, is developing its drone business. CEO Garrett Langley says drones could help police and citizens stay safe.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-19",
+      "link": "https://www.businessinsider.com/flock-ceo-drones-fastest-growing-business-2026-8"
+    },
+    {
+      "id": "3c003df8-2d23-8148-b0bf-ea207e4a94c4",
+      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-19",
+      "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/"
+    },
+    {
+      "id": "3c003df8-2d23-81c8-b767-d6b0e3177454",
+      "title": "The best reading order to catch up on all 16 of Sarah J. Maas' books before 'A Court of Splintered Harmony' comes out",
+      "summary": "Sarah J. Maas is revisiting the world of \"ACOTAR\" in her new books, \"A Court of Splintered Harmony\" and \"A Court of Forgotten Melody.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-08-19",
+      "link": "https://www.businessinsider.com/sarah-j-maas-books-reading-order"
+    },
+    {
+      "id": "3c003df8-2d23-8154-bc34-e3943f699023",
+      "title": "Squeeze More Juice Out of a Dead Battery!",
+      "summary": "How the joule thief circuit “steals” energy from seemingly depleted power cells.",
+      "source": "Wired",
+      "publishTime": "2026-08-19",
+      "link": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/"
+    },
     {
       "id": "3c003df8-2d23-813f-87af-e33ca19f35e8",
       "title": "TikTok explores peer-to-peer payments via DMs, report says",
@@ -344,62 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-18",
       "link": "https://www.ithome.com/0/991/363.htm"
-    },
-    {
-      "id": "3c003df8-2d23-816f-b492-f75d5972f918",
-      "title": "无需授权即可删除他人项目？GitLab 紧急修复 CVE-2026-19478 严重漏洞",
-      "summary": "IT之家 8 月 18 日消息，当地时间 8 月 17 日，GitLab 发布紧急安全更新，修复了社区版（CE）和企业版（EE）中存在的两个安全漏洞。其中严重漏洞 CVE-2026-19478（IT之家注：CVSS 评分 9.4）允许未认证攻击者远程修改或删除公共项目及用户数据；高危漏洞 CVE-2026-19650（CVSS 评分 7.1）为 GraphQL 多路复用查询处理器中的跨站请求伪造（CSRF）漏洞，可允许攻击者通过 GET 请求执行 GraphQL 变更操作。两个漏洞影响 GitLab CE / EE 从 18.2 开始至 18.11.11 之前、19.0 至 19.0.8 之前",
-      "source": "IT之家",
-      "publishTime": "2026-08-18",
-      "link": "https://www.ithome.com/0/991/362.htm"
-    },
-    {
-      "id": "3c003df8-2d23-81f5-8db1-f6b10ddf279f",
-      "title": "I'm a chef who's obsessed with my air fryer. Here are 13 of my favorite things to make in it.",
-      "summary": "As a chef, I love my air fryer. I use it to make easy breakfast, lunch, dinner, and dessert recipes from air-fried grilled cheese to French toast.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-18",
-      "link": "https://www.businessinsider.com/chef-favorite-things-make-air-fryer-best-recipes-meals-dessert-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-8106-9f4f-c773c6e4ac77",
-      "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
-      "summary": "Disney superfan Toni Kulusich has been accused of stalking her favorite character, sparking discourse about boundaries with park actors. She tells WIRED the backlash is unfair.",
-      "source": "Wired",
-      "publishTime": "2026-08-18",
-      "link": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/"
-    },
-    {
-      "id": "3c003df8-2d23-8158-9988-eaf32df60782",
-      "title": "乘坐自动驾驶车辆害怕“没人”开车？Stellantis 新专利在玻璃上投射“虚拟司机”",
-      "summary": "IT之家 8 月 18 日消息，即使相信无人驾驶技术，有些人看到驾驶席空无一人时仍会感到不安。知道车辆由计算机控制是一回事，亲眼面对一个没有司机的驾驶席又是另一回事。据外媒 CarBuzz 今天（18 日）报道，Stellantis 申请了一项颇具科幻色彩的专利，希望用“虚拟司机”缓解这种不安。目前，自动驾驶面临着多项棘手的问题，其中之一便是信任。人们早已习惯车里有一个负责掌控车辆的人，不仅能带来安全感，也方便乘客与驾驶员沟通。Stellantis 认为，全息影像或投影技术或许能够同时补上这两个缺口。按照专利描述，系统会持续判断每名乘员的位置和视线方向，再通过车内投影设备生成一名虚拟驾驶员，与",
-      "source": "IT之家",
-      "publishTime": "2026-08-18",
-      "link": "https://www.ithome.com/0/991/361.htm"
-    },
-    {
-      "id": "3c003df8-2d23-81de-805a-c1eecef52a21",
-      "title": "哈浮 VERSA 飞行口袋云台相机发布：双形态自由切换、搭载 1/1.3 英寸传感器，首发定价 2999 元起",
-      "summary": "IT之家 8 月 18 日消息，智能飞行影像品牌哈浮今日宣布推出全新产品 VERSA 飞行口袋云台相机。新品采用可拆卸模块化设计，实现手持云台相机与飞行相机双形态自由切换，首发定价 2,999 元起。京东哈浮 VERSA 飞行口袋云台相机 2999 元直达链接据介绍，哈浮 VERSA 飞行口袋云台相机核心使用场景覆盖旅行记录、家庭亲子、日常随拍、单人创作等，融合手持第一人称、平视第三人称与高空俯瞰多重视角，主打设备成本降低与携带减负。VERSA 核心亮点是模块化双形态架构，可快速切换两种专业拍摄模式：VERSA 手持状态下是一台轻量化三轴机械云台口袋相机，搭载 1.64 英寸 OLED 视网膜",
-      "source": "IT之家",
-      "publishTime": "2026-08-18",
-      "link": "https://www.ithome.com/0/991/360.htm"
-    },
-    {
-      "id": "3c003df8-2d23-8151-8e3d-c9872f0193f5",
-      "title": "Google's bid for Spirit's data is a reminder that your work emails aren't really yours",
-      "summary": "Google bid $10 million for Spirit's internal documents, emails, workflows, Teams messages, and codebase.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-18",
-      "link": "https://www.businessinsider.com/google-spirit-airlines-data-reminder-work-emails-arent-yours-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-81fb-8baf-e9e4f9c9dfdc",
-      "title": "苹果 Apple Card 限时活动：指定消费可获 5% 返现",
-      "summary": "IT之家 8 月 18 日消息，苹果现已为 Apple Card 信用卡推出“8 月公路旅行”限时优惠活动。即日起至 9 月 15 日，使用 Apple Card 和 Apple Pay 在 Booking.com 缤客、Hertz（赫兹租车）、ChargePoint、Exxon 和 Mobil 消费，可获得 5% Daily Cash 返现。据悉，本次优惠覆盖酒店住宿、租车、加油和充电等商户，用户最高可获得 37.5 美元（IT之家注：现汇率约合 253.2 元人民币）返现。作为参考，Apple Card 日常在合作商户处最高可提供 3% 返现，而此次限时活动在此基础上加赠 2%，但符合条件",
-      "source": "IT之家",
-      "publishTime": "2026-08-18",
-      "link": "https://www.ithome.com/0/991/359.htm"
     }
   ],
   "macroEvents": [
