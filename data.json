@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-08-20 01:49",
+  "updatedAt": "2026-08-20 03:01",
   "news": [
+    {
+      "id": "3c103df8-2d23-81a7-a49e-e002f7becb43",
+      "title": "Amazon is rolling out drone delivery to 500 cities. Here’s how to see if they'll deliver to your house.",
+      "summary": "Amazon has positioned Prime Air as the next horizon in delivery services. Customers can order everything from groceries to medications.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-20",
+      "link": "https://www.businessinsider.com/amazon-drone-delivery-expands-service-lookup-2026-8"
+    },
+    {
+      "id": "3c103df8-2d23-815a-b456-da589d712f4b",
+      "title": "The wearable future is stuck in weird, experimental, existential limbo",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past week, I've been testing the Google Pixel Watch 5. In many ways, it's a ",
+      "source": "The Verge",
+      "publishTime": "2026-08-20",
+      "link": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai"
+    },
+    {
+      "id": "3c103df8-2d23-81c6-b907-f41b722fcd7c",
+      "title": "Grab an iPad Air M4 for its lowest price since the June increase",
+      "summary": "Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s $100 lower than the new retail price that went into effect (alon",
+      "source": "The Verge",
+      "publishTime": "2026-08-20",
+      "link": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale"
+    },
+    {
+      "id": "3c103df8-2d23-819e-ae8d-d4fdf4cacca7",
+      "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+      "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/"
+    },
+    {
+      "id": "3c103df8-2d23-8187-b84e-e9a1b026ef35",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or f",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-20",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/"
+    },
     {
       "id": "3c103df8-2d23-811a-8ae1-d1d64605709c",
       "title": "OpenAI hit the brakes. Now what?",
@@ -360,46 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-08-19",
       "link": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html"
-    },
-    {
-      "id": "3c103df8-2d23-818f-9791-e68331c6216e",
-      "title": "Elon Musk finally has Warren Buffett as a shareholder — sort of",
-      "summary": "Elon Musk has been nudging Warren Buffett to invest in one of his companies for years. Now Berkshire Hathaway has an indirect stake in SpaceX.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/elon-musk-warren-buffett-spacex-stake-alphabet-berkshire-stocks-investing-2026-8"
-    },
-    {
-      "id": "3c103df8-2d23-814a-b6b8-d8e7e518ca09",
-      "title": "小米新一代人形机器人与观众实时互动视频发布：由大模型驱动，自主理解、判断并完成动作",
-      "summary": "IT之家 8 月 19 日消息，小米官方今日宣布，小米新一代人形机器人亮相 2026 世界机器人博览会，登陆「具身花园」展台。IT之家注意到，小米官方刚刚放出小米新一代人形机器人与观众实时互动的视频。据介绍，从递花、握手到碰拳、比心，这些看似简单的动作背后，由大模型驱动机器人自主理解、判断并完成动作。根据规划，8 月 20 日起，展台将对普通观众开放。这意味着明天进场的观众将有机会与小米新一代人形机器人展开互动。相关阅读：《小米新一代人形机器人亮相 2026 世界机器人博览会，8 月 20 日起展台将对普通观众开放》《卢伟冰：小米机器人将在 2026 世界机器人大会上首次面向公众亮相》",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/848.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8158-adf6-c9e5cf7150ca",
-      "title": "The $12.5 billion Lakers deal is a bet that sports TV will keep booming. The NFL may test that.",
-      "summary": "TV sports deals always get more expensive. Especially for the NFL. What happens if they don't? Lachlan Murdoch and Bob Iger both need the answer.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/lakers-iger-kushner-nfl-murdoch-fox-ourand-puck-peter-kafka-2026-8"
-    },
-    {
-      "id": "3c103df8-2d23-8146-9a19-c63eece0da55",
-      "title": "消息称鸿蒙智行问界儿童车售价达五位数，预计定价 15800 元",
-      "summary": "IT之家 8 月 19 日消息，鸿蒙智行问界汽车官方此前宣布，问界儿童车即将上市。据介绍，这款新车主打“成长陪伴，智趣探索”，将延续家族经典外观。博主 @未来的学习笔记 今日分享了一张朋友圈截图，来自问界的销售人员宣布这款儿童车已经可以开启预订，售价为 15800 元。不过博主表示，问界儿童车的价格可能不准，但五位数应该是错不了的。IT之家注意到，问界儿童车外观与问界旗舰车型 —— 问界 M9 极为相似，有网友将其戏称为问界“M0.9”。该车采用双座布局设计，配有标志性的大饼轮毂，同时前挡风玻璃上方还有一枚“激光雷达”（放大图片来看，这个部件内嵌的是一枚摄像头）。预热海报显示，问界儿童车由赛力",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/847.htm"
-    },
-    {
-      "id": "3c103df8-2d23-818a-b571-e1c4bae95bbc",
-      "title": "3 underrated dishes to order at an Indian restaurant, according to a top Indian chef",
-      "summary": "James Beard-nominated chef Heena Patel shared the underrated dishes she thinks people should order at Indian restaurants, like khandvi and khichdi.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/indian-restaurant-underrated-dishes-to-order-2026-8"
     }
   ],
   "macroEvents": [
