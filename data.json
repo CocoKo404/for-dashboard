@@ -1,6 +1,214 @@
 {
-  "updatedAt": "2026-08-19 07:45",
+  "updatedAt": "2026-08-19 09:58",
   "news": [
+    {
+      "id": "3c103df8-2d23-815e-8fb2-e11727d47045",
+      "title": "神舟推出 2026 款战神 T7 笔记本电脑：i5-14450HX + RTX5050 规格售 6999 元",
+      "summary": "IT之家 8 月 19 日消息，神舟现已在京东上架 2026 款战神 T7 笔记本电脑，该机采用英特尔酷睿 i5-14450HX + 16GB RAM + 500GB SSD + RTX5050 规格，定价为 6999 元。京东神舟 2026 款战神 T7 笔记本 6999 元直达链接该机整体重量 2.45 千克，B 面配备一块 16 英寸 165Hz 面板（亮度 500 尼特，覆盖 100% sRGB），搭载 10 核心 16 线程英特尔酷睿处理器，匹配 16GB RAM 和 500GB PCIe 4.0 SSD，笔记本支持 Wi-Fi 6 和蓝牙 5.4，内置 53Wh 电池。",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/408.htm"
+    },
+    {
+      "id": "3c103df8-2d23-818c-a966-d19fc901b5d1",
+      "title": "外媒用 Codex AI 开发 macOS 27 工具，提高菜单栏电量可读性",
+      "summary": "IT之家 8 月 19 日消息，科技媒体 9to5Mac 昨日（8 月 18 日）发布博文，分享了一款利用 Codex 制作、面向苹果 macOS 27 Golden Gate 的电池控件，从而提高电量显示可读性。该媒体在 macOS 27 系统中，苹果公司重新设计菜单栏中的电池控件。默认状态下，控件不显示电量百分比，只呈现电池形状的图标。用户打开“显示百分比”开关后，数字会嵌入电池图标内部。该媒体认为这种布局可能是为了统一 iOS 27 界面，但在实际使用场景下，用户读取电量信息的难度有所提高。为此该媒体编辑扎克 · 霍尔（Zac Hall）利用 Codex 制作了一款适用于 macOS 2",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/407.htm"
+    },
+    {
+      "id": "3c103df8-2d23-817a-be83-d529d10d6515",
+      "title": "零零科技 HOVERAir VERSA 无人机发布：模块化设计、可作为三轴云台相机使用，套装价 4570 港币起",
+      "summary": "IT之家 8 月 19 日消息，无人机制造商零零科技旗下模块化 HOVERAir VERSA 无人机现已正式发布，其中机身本体（云台相机）在 indiegogo 众筹价为 3,425 港币（IT之家注：现汇率约合 2,950 元人民币）、无人机套装众筹价（云台相机 + 螺旋桨模块）4,570 港币（现汇率约合 3,937 元人民币）、无人机双电套装众筹价（云台相机 + 螺旋桨模块）4,800 港币（现汇率约合 4,135 元人民币）。该产品最大的特性是采用模块化结构，既可以当作三轴云台相机使用，又可以安装上“小黑盒”螺旋桨模块后作为无人机使用。其本体云台相机重量低至 162g，配备一块 1.6",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/405.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8104-a917-e793ab5617c9",
+      "title": "雷神推出 ZERO98 机械键盘：1KHz 回报率、提供静音轴体可选，299 元",
+      "summary": "IT之家 8 月 19 日消息，雷神现已在京东上架 ZERO98 机械键盘，提供“豆蔻轴”和“青黛轴（静音）”版本，定价均为 299 元。系列键盘采用 98 配列布局，配备原厂高度的 PBT 键帽，采用哑光黑底并覆盖立体的锻碳纤维纹理。键盘右上方设有独立的多功能拨钮，可用于调节音量和切换灯光模式。产品内置 1677 万色 RGB 背光，采用上灯位设计，并支持音乐律动及多种灯效模式。该键盘采用板簧 GAS 结构，包含 PC 开槽定位板与 1.2mm 厚度的开槽 PCB。内部填充了 poron 夹心棉、轴下垫、声优垫、消音底棉及硅胶底垫共计 5 层消音材料。键盘支持全键轴座热插拔，兼容三脚与五脚轴",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/403.htm"
+    },
+    {
+      "id": "3c103df8-2d23-81f4-942d-f2151b9120d3",
+      "title": "AI 辅助撰写提案涌入美国国会：充斥细节错误，拖慢审核进度",
+      "summary": "IT之家 8 月 19 日消息，媒体 politico 昨日（8 月 18 日）发布博文，报道称人工智能（AI）正进入美国国会立法流程。大量 AI 辅助撰写的提案涌入美国国会，但律师清理错误草稿耗时增加。报告指出随着越来越多国会办公室使用 ChatGPT 和 Claude 聊天机器人撰写提案，美国众议院立法顾问办公室收到大量由人工智能生成的法案草稿。IT之家附上相关图片如下：报告称，这些文本包含大量疏漏和错误，原本用于提速的工具，反而让律师花费更多时间修订机器生成的内容。主要问题聚焦法律文本细节，AI 可能混淆税收抵免（tax credit）、税收减免（tax deduction）、税收豁免（",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/404.htm"
+    },
+    {
+      "id": "3c103df8-2d23-818e-8b32-d9684bc543e9",
+      "title": "阿莫迪仅持股约 2%，消息称 Anthropic 计划授予创始人额外投票权",
+      "summary": "IT之家 8 月 19 日消息，据《The Information》当地时间周二报道，两名知情人士称，Anthropic 正准备向 CEO 达里奥 · 阿莫迪（Dario Amodei）及其他联合创始人授予一类具有额外投票权的特殊股票，以帮助他们降低外部股东压力带来的影响。报道称，Anthropic 还计划通过一种特殊类别的股票，继续维持现有的非股东受托人机构，并赋予其选举公司董事会多数成员的权力。报道指出，目前尚不清楚具体的投票权安排，这些计划也仍可能发生变化。如果这一计划最终实施，这将是 Anthropic 管理层首次获得额外投票权。与其他科技公司的创始人相比，这家 Claude 开发商的",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/402.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8158-8251-fb416d3b4a2d",
+      "title": "小米推出“米家智能吸油烟机 3 顶侧双吸”：至高 30 m³/min 吸力、防跑烟设计，2469 元",
+      "summary": "IT之家 8 月 19 日消息，小米现已在京东上架“米家智能吸油烟机 3 顶侧双吸”，该产品提供至高 30 m³/min 吸力、使用防跑烟设计，首发价 2469 元。京东小米“米家智能吸油烟机 3 顶侧双吸”首发价 2469 元直达链接该吸油烟机采用深空灰金属机身，整体尺寸为 895 x 375 x 887 mm，产品净重 27.0 kg。其 375 mm 的机身深度设计可与市面主流橱柜齐平安装，烟机的前导烟板配备了纳米抗油污玻璃，日常打理时只需轻松擦拭即可保持洁净。官方强调，该机采用了顶侧双吸形态，侧面贴锅吸烟，结合顶部 24 寸整流板实现大范围拢烟。在直流变频电机与加宽叶轮的驱动下，该产品",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/401.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8128-a573-f787dd1b834e",
+      "title": "报告称 2026 苹果 App Store 在美国佣金收入同比下降 18%",
+      "summary": "IT之家 8 月 19 日消息，市场调查机构 Appfigures 最新数据表明，受监管政策变化的影响，自 2026 年年初以来，苹果 App Store 在美国市场的佣金收入同比下降 18%。另一家行业调查机构 Sensor Tower 的数据显示，在 2026 年第 2 季度美国消费者在苹果 App Store 的支出下降了 6%，而去年同期则增长了 9%。这种影响也波及到了国际市场，巴西和日本在推出各自的新规后，两国的收入均出现下滑。瑞银分析师大卫 · 沃格特（David Vogt）表示苹果 App Store 增长放缓“令人担忧”。该公司公布的 6 月季度服务收入为 307 亿美元（I",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/400.htm"
+    },
+    {
+      "id": "3c103df8-2d23-81e2-9c94-f3245019e9ba",
+      "title": "历经 24 天海上拖拽，SpaceX 星舰 40 号飞船抵达圣诞岛近海",
+      "summary": "IT之家 8 月 19 日消息，大海对 SpaceX 的“星舰”（Starship）飞船还算友好，至少比预想中更加友好。这艘飞船被拖过印度洋，如今已经被拖到了更加平静、安全的海域。“40 号飞船”（Ship 40）是“星舰”第 13 次试飞任务中执行飞行的上面级。当地时间 7 月 24 日，它从 SpaceX 位于得克萨斯州南部的星港基地（Starbase）升空，并在任务结束时首次实现了飞船主体完整状态下的海上溅落。飞船按照计划降落在印度洋，此后成为 SpaceX 回收团队的重点目标，该团队负责将它拖运至港口。SpaceX 当地时间 8 月 7 日在 X 上表示，在过去 24 天里，回收团队一",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/399.htm"
+    },
+    {
+      "id": "3c103df8-2d23-81fe-a7a0-e0949d66ddf4",
+      "title": "IT早报 0819：雷军官宣小米新一代玄戒芯片将至；魏建军称长城 36 年来没造过速成车；多人因编造 AI 车祸假视频被罚；入职奖 8800 元，富士康备战 iPhone 18...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 19 日星期三，今天的重要科技资讯有：1. 雷军正式官宣：小米新一代玄戒芯片即将发布，微博小尾巴已更换为神秘新机小米创办人、董事长兼 CEO 雷军 8 月 18 日发文，回顾了小米集团 2026 年 Q2 业绩，并强调研发费用同比增长 18.9%，Q2 已达 92 亿。雷军还顺势宣布，小米新一代玄戒芯片即将发布。另外，雷军的微博小尾巴已更换为型号未知的神秘新机。>> 查看详情2. 魏建军：长城汽车 36 年来，没有造过一辆“速成车”长城汽车董事长魏建军 8 月 18 日晒出视频，展示了最新改造升级的长城汽车智能驾驶试验场，并表示：“别的我",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/398.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8181-a9a1-c4723143f180",
+      "title": "小米推出“米家智能宠物饮水机 2 除菌版”：3L 储水容量、99% 除菌率，199 元",
+      "summary": "IT之家 8 月 19 日消息，小米现已在京东上架“米家智能宠物饮水机 2 除菌版”，该产品主打 99% 除菌率，将于 8 月 25 日首销，定价为 199 元。京东小米米家无线智能宠物饮水机 2 除菌版 199 元直达链接该产品产品尺寸为 190x230x180mm，机身配有透明视窗以便于直观观察水量。顶部的倾斜饮水盘能适当减轻宠物饮水时的颈部负担。主机与饮水盘采用一体衔接与大圆角设计，快拆结构让日常拆装更轻松。整机具备 IPX7 防水等级，在充电口防水胶塞完全盖紧后可直接用水冲洗。饮水机储水容量为 3L，加满水后可满足单只猫咪约 15 天的饮水需求。设备内置 UV-C 除菌水泵，除菌率达 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/397.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8158-ae3c-ce823aae8793",
+      "title": "过去一年内 RAM 内存条套装涨幅惊人，部分 DDR5 产品涨幅超 800%",
+      "summary": "IT之家 8 月 19 日消息，据外媒 Tom's Hardware 内存价格追踪报告，过去一年内，RAM 内存条套装的价格出现惊人涨幅，部分高容量 DDR5 产品甚至上涨近 500%，让原本准备组装游戏 PC 的消费者面临越来越高的成本压力。外媒表示，以某厂商 96GB DDR5-6000 内存套装为例，其美国最低售价曾一度降至 189 美元（IT之家注：现汇率约合 1,276 元人民币），如今已经涨至 1,799 美元（现汇率约合 12,149 元人民币），涨幅约 851.85%。另一款 128GB DDR5-6400 套装去年最低售价仅为 329 美元（现汇率约合 2,222 元人民币）",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/396.htm"
+    },
+    {
+      "id": "3c103df8-2d23-81d9-b1a5-d20baac1a2f3",
+      "title": "重大突破！朱雀三号遥二发射成功，我国首次实现火箭陆地回收",
+      "summary": "IT之家 8 月 19 日消息，据央视新闻报道，今天（8 月 19 日），朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪，飞行任务取得圆满成功。这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。IT之家注意到，本次任务是继 7 月 10 日长征十号乙运载火箭一子级海上网系成功回收后，我国首次成功实施重复使用运载火箭一子级着陆腿方式陆地可控回收，标志着我国重复使用火箭技术取得重大突破。朱雀三号运载火箭是由国家航天局批复立项的新一代低成本、大运力、高频次、重复使用液氧甲烷运载火",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/395.htm"
+    },
+    {
+      "id": "3c103df8-2d23-810d-8abc-e4040a97ba10",
+      "title": "影响约 2 小时，苹果今天解决查找、照片、iCloud 日历等 9 项服务问题",
+      "summary": "IT之家 8 月 19 日消息，苹果系统状态页面发布动态，显示北京时间今天（8 月 19 日）凌晨 3:30 到 5:38 期间，共计修复 9 个问题，涵盖“查找”、Game Center 等。IT之家援引官网描述，在受影响期间，部分用户可能会出现访问服务卡顿或者无法使用情况，目前苹果公司已解决以下 9 个问题：查找Game CenteriCloud 版 iWorkiCloud 日历iCloud 通讯录iCloud 网页 App（iCloud.com）iCloud 邮件iCloud 账户与登录照片",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/393.htm"
+    },
+    {
+      "id": "3c103df8-2d23-811a-8f17-e219a3b7308a",
+      "title": "数毛社评任天堂 Switch 2 版《上古卷轴 4：湮灭重制版》：锁 30 帧、某些场景画质比 XBOX Series S 好",
+      "summary": "IT之家 8 月 19 日消息，外媒 Digital Foundry（数毛社）在测试任天堂 Switch 2 版本《上古卷轴 4：湮灭 重制版（The Elder Scrolls IV：Oblivion Remastered）》时发现，虽然游戏基本能够维持 30 FPS，但帧时间不稳定和严重的场景加载卡顿仍然对游戏体验影响较大。Digital Foundry 表示，任天堂 Switch 2 版《上古卷轴 4：湮灭重制版》锁 30 帧。主机模式下游戏以 1080p 输出，实际渲染分辨率为 960×540，再进行升频；掌机模式则输出 900p，原生分辨率为 800×450。游戏画面表现整体尚可。在",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/394.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8177-a9ab-fc51c89aca52",
+      "title": "特斯拉车主亲自动手：HW3 升级 HW4 硬件其实并不难",
+      "summary": "IT之家 8 月 19 日消息，如今，全球道路上有数百万辆特斯拉汽车。当年车主购买这些车辆时，特斯拉曾承诺它们最终能够实现完全自动驾驶，但这些车辆搭载的硬件实际上并不足以实现这一目标。多年来，特斯拉一直对如何解决这一问题态度含糊，但如今有一位车主决定亲自尝试解决。2016 年底，特斯拉曾在公司博客中宣布：“目前生产的所有特斯拉汽车都配备了完全自动驾驶硬件。”这篇文章后来已经被删除，但在很多年里，这一直是特斯拉向车主做出的承诺。不过，那已经是 2016 年的事情了。此后，计算机硬件不断进步，而自动驾驶任务也被证明比一些人当初预想的更加复杂。很快，人们就发现最初的特斯拉自动驾驶硬件，也就是 HW1",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/392.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8192-85f0-df2a23a79a83",
+      "title": "开发者成功为 reMarkable Paper Pro 墨水屏电纸书刷入安卓 13，实现与原版 Linux 系统共存",
+      "summary": "IT之家 8 月 19 日消息，据外媒 neowin 报道，开发者 Chalid Raqami 成功为 reMarkable Paper Pro 墨水屏电纸书移植了安卓 13 系统，令其实现原版 Linux 系统与安卓系统共存，以便丰富设备可玩性。Chalid Raqami 表示，移植过程中最大的难题之一是 Paper Pro 仅有 2GB RAM。为了兼顾应用兼容性和运行性能，Raqami 最初尝试移植安卓 12，在取得突破后进一步成功运行安卓 13。当然，这一改造也存在明显限制。由于只有 2GB RAM，加上处理器性能有限（1.8 GHz 四核 Cortex-A53），Paper Pro ",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/391.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8143-a733-f052fc999bb9",
+      "title": "欧洲央行警告 AI 投资过热：泡沫一旦破裂或冲击全球经济",
+      "summary": "IT之家 8 月 19 日消息，在美国企业持续向 AI 数据中心扩张计划投入巨额投机性资本之际，欧洲监管机构已经开始考虑即将到来的 AI 泡沫破裂。欧洲主要银行机构表示，市场很可能出现调整，而且这种冲击不会放过世界任何一个地区或任何一个人。欧洲央行（ECB）近日发布了一篇由 5 名经济学家和研究人员共同撰写的新博客文章，认为当前的“AI 热潮”很可能为金融市场的大幅调整埋下伏笔。欧洲央行指出，AI 泡沫并不只笼罩着华尔街和“七巨头”股票，因为即便欧洲民众并没有充分意识到其中的关联，他们实际上也已经大量持有美国大型科技公司的相关资产。欧洲央行表示，目前美国股市估值已经接近历史高位。投资者和企业正",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/390.htm"
+    },
+    {
+      "id": "3c103df8-2d23-81fc-98e5-c67ec948655f",
+      "title": "占比约 41%：苹果 Safari 26.6.1 修复 22 个漏洞，9 个通过 OpenAI Codex Security 发现",
+      "summary": "IT之家 8 月 19 日消息，科技媒体 9to5Mac 昨日（8 月 18 日）发布博文，报道称苹果公司最新公示 Safari 浏览器 26.6.1 更新安全日志，共计修复 22 个涉及 WebKit 的 CVE 安全漏洞，其中 9 个是 OpenAI Codex Security 发现的，占比约为 41%。IT之家注：OpenAI Codex Security 是一款专为工程和安全团队打造的 AI 应用程序安全智能体（Agent）。它能够深入分析项目的代码上下文与威胁模型，自动检测、验证并修复复杂的代码安全漏洞，旨在大幅降低误报率并减轻安全警报带来的工作负担。其他贡献者来自 Out of ",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/388.htm"
+    },
+    {
+      "id": "3c103df8-2d23-81c3-92da-fba43d7d01dd",
+      "title": "谷歌安卓开发者验证计划逐步落地，“高级绕过”模式首个版本开启分阶段推送",
+      "summary": "IT之家 8 月 19 日消息，谷歌 Android 社区参与经理 Mishaal Rahman 透露，目前谷歌已开始逐步推行安卓开发者验证计划。IT之家注：安卓开发者验证（Android Developer Verification，简称 ADV）是谷歌推出的身份认证机制，要求安卓应用开发者提供有效信息（如政府 ID 或企业资质）完成注册，通过验证的应用才能被正常安装。该验证机制主要是为了在源头遏制恶意软件，强化生态安全，杜绝匿名发布恶意应用的安全隐患，结合侧载需求设计了有限分发和高级绕过两种例外方案。有限分发账户是谷歌为个人爱好者定制的轻量开发账号。开发者无需支付注册费或提交政府 ID，但",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/389.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8123-a352-cfdf19083d91",
+      "title": "OpenAI 宣布新安全政策，加强模型开发监控与网络隔离",
+      "summary": "IT之家 8 月 19 日消息，当地时间周二，OpenAI 宣布了一批新的安全政策，重点是控制模型在测试期间可能发生的安全事件。新的安全措施包括在模型开发过程中进行更加细致的监控，同时在训练后阶段进一步加强对模型对齐和安全性的重视。IT之家注意到，OpenAI 在一篇博客文章中表示：“随着模型能力不断增强，在内部开发和测试这些模型过程中所面临的风险也在增加。我们在监控、对齐和安全方面制定的标准必须始终领先于这些风险。”这是 OpenAI 自 7 月 21 日披露 Hugging Face 事件以来，在安全实践方面首次对外公布的重大调整之一。OpenAI 代表表示，这些措施并不是直接针对 Hug",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/387.htm"
+    },
+    {
+      "id": "3c103df8-2d23-81ac-affc-d1810da002e2",
+      "title": "Bashing AI data centers makes its way into brand marketing with new Jason Kelce ad",
+      "summary": "Brands are capitalizing on the AI data center hate. Just look at the new ad starring Jason Kelce for Garage Beer and Liquid Death.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-19",
+      "link": "https://www.businessinsider.com/jason-kelce-garage-beer-liquid-death-embrace-ai-bashing-ads-2026-8"
+    },
+    {
+      "id": "3c103df8-2d23-8147-8a1f-f720ab55f1e7",
+      "title": "The critical tech staying safe by going underground",
+      "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
+      "source": "BBC Tech",
+      "publishTime": "2026-08-19",
+      "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3c103df8-2d23-812a-a090-c8ed164ca2df",
+      "title": "通用汽车向维修机构发布新规：只能用全新原厂零部件修理车辆辅助驾驶系统",
+      "summary": "IT之家 8 月 19 日消息，通用汽车（GM）近日向维修机构发布立场声明，要求维修机构修理车辆辅助驾驶系统模块时只能使用全新原厂通用汽车零部件（涉及雷达、摄像头、传感器、控制模块、线束、支架等）。通用汽车表示，包括拆车件、回收件、翻新件、再制造件、售后市场零部件、二手市场零部件此类非原厂零部件属于“严格禁止”使用的范围，如果在车辆辅助驾驶系统（ADAS）使用非原厂全新零部件，可能影响系统的可靠性和安全性。除此之外，通用汽车要求维修机构除了使用原厂零部件外，还必须严格按照官方认可的维修和校准流程进行操作，以确保汽车辅助驾驶系统在碰撞维修后仍然能够正常工作。通用汽车还指出，包括保护膜、车身贴膜、",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/386.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8125-b05e-dfa8cbe529b4",
+      "title": "苹果 tvOS 27 应用列表新增 Siri 条目，Apple TV 4K 将整合 Siri AI",
+      "summary": "IT之家 8 月 19 日消息，科技媒体 9to5Mac 昨日（8 月 18 日）发布博文，报道称在 tvOS 27 系统中，苹果公司计划为 Apple TV 4K 等设备，推送整合 Siri AI。该媒体通过挖掘 tvOS 27 Beta 6 代码，发现苹果在系统内部应用列表中加入了 Siri 条目，并关联字符串“com.apple.campo”，其中“campo”是苹果为 Siri AI 使用的内部代号。IT之家附上相关图片如下：该媒体尝试通过 Device Hub 打开 Campo.app 后，系统返回错误信息：拒绝打开应用请求，原因：已停用（应用‘com.apple.campo’未启用",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/385.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8143-84fd-dbc3033e5349",
+      "title": "Anthropic 推出 AI 文本水印后，各类去水印工具开始涌现",
+      "summary": "IT之家 8 月 19 日消息，Anthropic 希望让 AI 生成的文本更容易被识别，但一些软件开发者已经开始开发专门用于消除这些标记的工具。这家 AI 公司上周表示，部分 Claude 模型生成的文本会带有一种“不可感知的水印”。由于这种水印是通过 Claude 的选词方式形成的统计模式，因此即使用户复制粘贴文本，水印也会随之保留下来。一些人认为，AI 水印能够提高内容透明度，是一项值得欢迎的举措。不过，这一做法也引发了科技行业从业者的担忧：即使用户只是利用 Claude 对文本进行校对、翻译或总结，相关标记也可能跟随最终内容一起传播。此前就有一些用户告诉 Business Inside",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/384.htm"
+    },
     {
       "id": "3c003df8-2d23-8133-8a8f-fb706bc8318a",
       "title": "泄露代码暗示：苹果家庭中枢产品 Home Hub 将搭载小组件库",
@@ -192,214 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-08-19",
       "link": "https://www.businessinsider.com/sarah-j-maas-books-reading-order"
-    },
-    {
-      "id": "3c003df8-2d23-8154-bc34-e3943f699023",
-      "title": "Squeeze More Juice Out of a Dead Battery!",
-      "summary": "How the joule thief circuit “steals” energy from seemingly depleted power cells.",
-      "source": "Wired",
-      "publishTime": "2026-08-19",
-      "link": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/"
-    },
-    {
-      "id": "3c003df8-2d23-813f-87af-e33ca19f35e8",
-      "title": "TikTok explores peer-to-peer payments via DMs, report says",
-      "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-19",
-      "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/"
-    },
-    {
-      "id": "3c003df8-2d23-8186-afda-c22b149e75e9",
-      "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
-      "summary": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount fr",
-      "source": "The Verge",
-      "publishTime": "2026-08-19",
-      "link": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale"
-    },
-    {
-      "id": "3c003df8-2d23-81e5-aec8-f738b3481f37",
-      "title": "Tech Life",
-      "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
-      "source": "BBC Tech",
-      "publishTime": "2026-08-19",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3c003df8-2d23-8105-adb4-d219e30e1de3",
-      "title": "David Ellison's Paramount is hiring 2 more former Google execs",
-      "summary": "Paramount Skydance just hired two more former Google executives as part of David Ellison's tech push. Read the memo from product chief Dane Glasgow.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/paramount-skydance-hiring-another-former-google-exec-david-ellison-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-817c-a1d3-ebafd6e693dc",
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trust",
-      "source": "The Verge",
-      "publishTime": "2026-08-19",
-      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai"
-    },
-    {
-      "id": "3c003df8-2d23-81e8-ac74-cc031c192d8a",
-      "title": "Waymo pioneer Sebastian Thrun is building a new robotics startup",
-      "summary": "Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-81fd-a73b-d4f14600e485",
-      "title": "The push for AI watermarks is spawning a new wave of tools to remove them",
-      "summary": "Anthropic's AI watermarks have prompted developers to create tools designed to remove them from text and files.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/ai-watermark-remover-tools-anthropic-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-8156-b798-fb4dcbf73f05",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra",
-      "source": "The Verge",
-      "publishTime": "2026-08-19",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack"
-    },
-    {
-      "id": "3c003df8-2d23-818a-9ba0-fd3c8403290c",
-      "title": "AI can demystify supply chain regulations for global businesses — if geopolitics don't get in the way",
-      "summary": "The Chinese Ministry of Commerce added seven US companies, including Altana, to its countermeasures list amid US-China trade tensions.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/us-china-trade-altana-supply-chain-software-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-813f-bd7a-d51f5e8a0d33",
-      "title": "Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)",
-      "summary": "Save $250 off the Garmin Fenix 8, plus discounts on other popular fitness trackers from the brand.",
-      "source": "Wired",
-      "publishTime": "2026-08-19",
-      "link": "https://www.wired.com/story/garmin-deals-august-2026/"
-    },
-    {
-      "id": "3c003df8-2d23-81a9-9ef8-d25ca01ae5ef",
-      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-      "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
-      "source": "Wired",
-      "publishTime": "2026-08-19",
-      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/"
-    },
-    {
-      "id": "3c003df8-2d23-8141-8a8a-d6bc237a2db6",
-      "title": "McDonald's is losing ground to rivals like Burger King with a key customer group",
-      "summary": "McDonald's sales from low-income diners dropped 2.4% last quarter, while Burger King gained, showing a shift in fast-food dynamics.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/mcdonalds-sales-drop-among-low-income-diners-numerator-finds-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-815a-8277-cba3c3c2d4cb",
-      "title": "Pennsylvania Gov. Josh Shapiro cracks down on data centers, says speculators are 'scaring our communities'",
-      "summary": "\"These speculators are nevertheless scaring our communities — being aggressive with township officials,\" Gov. Josh Shapiro said of developers.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/pennsylvania-josh-shapiro-data-centers-views-order-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-819d-a21d-dfaab1294326",
-      "title": "Eric Schmidt is selling his superyacht",
-      "summary": "The former Google CEO bought the luxury megayacht three years ago from billionaire Shahid Khan.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/billionaire-eric-schmidt-selling-charter-superyacht-whisper-kismet-price-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-81e3-a255-c41c84a3af37",
-      "title": "I run a high-end concierge company for the wealthy. Here are 7 unique services clients pay me to handle.",
-      "summary": "From unpacking groceries to driving a Bentley from England to Italy, a luxury concierge business owner explains what services clients request and why.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/high-end-concierge-business-owner-services-wealthy-clients-2026-7"
-    },
-    {
-      "id": "3c003df8-2d23-8132-8c07-fb64fd88fd99",
-      "title": "What Berkshire's huge wager on Alphabet says about Warren Buffett's post-CEO role",
-      "summary": "Berkshire Hathaway has built a nearly $38 billion Alphabet stake from scratch in under a year. It seems likely Warren Buffett is spearheading the investment.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/warren-buffett-berkshire-ai-alphabet-tech-stock-portfolio-google-cash-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-81a3-bc92-e4240a0cf5ae",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-19",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
-    },
-    {
-      "id": "3c003df8-2d23-81fb-a7ac-fd28094aa22c",
-      "title": "I tried Ina Garten's recipe for the 'most delicious scrambled eggs ever.' Now it's one of my favorite breakfasts.",
-      "summary": "Ina Garten's scrambled eggs cacio e pepe recipe is inspired by the famous Italian pasta. The quick and easy dish only requires a few ingredients.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/ina-garten-scrambled-eggs-cacio-e-pepe-recipe"
-    },
-    {
-      "id": "3c003df8-2d23-81d4-a862-e184d98f1a45",
-      "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-      "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature exc",
-      "source": "The Verge",
-      "publishTime": "2026-08-19",
-      "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale"
-    },
-    {
-      "id": "3c003df8-2d23-8145-9ce2-c10e23005227",
-      "title": "We asked ChatGPT's new teen function to help us cheat on our homework. Here's how it went.",
-      "summary": "OpenAI launched ChatGPT for Teens with new safeguards for younger users. We tested it on its first day with some interesting results.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/chatgpt-for-teens-test-help-cheat-homework-2026-8"
-    },
-    {
-      "id": "3c003df8-2d23-8151-9762-f73721792ebd",
-      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-19",
-      "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/"
-    },
-    {
-      "id": "3c003df8-2d23-81ba-94b8-ce12472e8888",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-19",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
-    },
-    {
-      "id": "3c003df8-2d23-8110-96a2-defd350a0f75",
-      "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
-      "summary": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" that ",
-      "source": "The Verge",
-      "publishTime": "2026-08-19",
-      "link": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder"
-    },
-    {
-      "id": "3c003df8-2d23-81c9-99a1-e0064451ef45",
-      "title": "Apple overhauls Europe app store fees to resolve payments clash",
-      "summary": "The iPhone maker said the changes \"resolve\" disagreements with regulators stemming from the implementation of Europe's Digital Markets Act.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-19",
-      "link": "https://www.cnbc.com/2026/08/18/apple-eu-app-store-fees-iphone.html"
-    },
-    {
-      "id": "3c003df8-2d23-8122-bd2f-dada92dcb3c1",
-      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-19",
-      "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/"
     }
   ],
   "macroEvents": [
