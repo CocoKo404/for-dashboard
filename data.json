@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-20 03:01",
+  "updatedAt": "2026-08-20 03:48",
   "news": [
+    {
+      "id": "3c103df8-2d23-8163-96ea-c59b388855c8",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
+    },
+    {
+      "id": "3c103df8-2d23-8165-9fb3-de5ec6131e5d",
+      "title": "Bad news for Jason Kelce: Postal Service rules say you shouldn't mail pee to data centers",
+      "summary": "Former NFL-er Jason Kelce starred in a viral ad that joked about sending urine to data centers. USPS rules say you probably shouldn't do that.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-20",
+      "link": "https://www.businessinsider.com/postal-service-rules-pee-data-centers-jason-kelce-2026-8"
+    },
+    {
+      "id": "3c103df8-2d23-8124-990f-e2b030bb5b7e",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for gr",
+      "source": "The Verge",
+      "publishTime": "2026-08-20",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"
+    },
+    {
+      "id": "3c103df8-2d23-8135-bf96-d28dc46a591b",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
+    },
+    {
+      "id": "3c103df8-2d23-812d-ac48-f27ef6168544",
+      "title": "I turned my Manhattan stoop into an art project. It brought my neighborhood together.",
+      "summary": "Kristi Hemric began decorating her stoop for fun. Now strangers take photos there, neighbors help with displays, and one couple even got engaged on it.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-20",
+      "link": "https://www.businessinsider.com/manhattan-stoop-neighborhood-attraction-2026-8"
+    },
+    {
+      "id": "3c103df8-2d23-8158-b341-e45ac108eab3",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/"
+    },
+    {
+      "id": "3c103df8-2d23-81e3-91fd-d857ea0ce505",
+      "title": "'Dune: Part Three' ticket demand overwhelmed AMC's website. Its CEO called the glitches 'intolerable and inexcusable.’",
+      "summary": "AMC's CEO said he instructed his team to \"move at a whirlwind speed to take whatever steps are needed\" to remedy issues with its ticketing platform.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-20",
+      "link": "https://www.businessinsider.com/dune-part-three-showtimes-ticketing-problems-demand-amc-ceo-imax-2026-8"
+    },
+    {
+      "id": "3c103df8-2d23-8139-8c74-e67a74365629",
+      "title": "US Air Force, Navy, and Coast Guard veterans face higher rates of rare nerve disease ALS than other vets, study finds",
+      "summary": "The study pointed to possible service-related exposures as potential ALS links but did not identify them.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-20",
+      "link": "https://www.businessinsider.com/air-force-navy-and-coast-guard-vets-higher-rates-als-2026-8"
+    },
+    {
+      "id": "3c103df8-2d23-81c2-9bd3-dd6e20308901",
+      "title": "Watch Valve set up the Steam Frame in its own leaked videos",
+      "summary": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hardware Updates account on X. The Steam Fram",
+      "source": "The Verge",
+      "publishTime": "2026-08-20",
+      "link": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos"
+    },
     {
       "id": "3c103df8-2d23-81a7-a49e-e002f7becb43",
       "title": "Amazon is rolling out drone delivery to 500 cities. Here’s how to see if they'll deliver to your house.",
@@ -328,78 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-19",
       "link": "https://www.ithome.com/0/991/854.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8172-97e5-fb59f0d7414d",
-      "title": "最看好 AI 的人成了最怀疑 AI 的人，美国 30 岁以下成年人担心技术进步引发失业潮",
-      "summary": "IT之家 8 月 19 日消息，据彭博社今天（19 日）报道，皮尤研究中心调查显示，美国最年轻的一批劳动者对 AI 的怀疑态度正愈发增强，他们越来越担心技术进步会造成大规模岗位流失。自皮尤 2021 年开始进行这项调查以来，首次有超过半数的 30 岁以下成年人对 AI 的担忧开始多于期待。最年轻群体的转变尤其显著：过去最看好 AI 的发展潜力的一群人，现在却已经成为对 AI 最怀疑的人群之一。这一年龄段近四分之三的成年人还认为，AI 会减少就业机会，比例高于两年前的 61%。此外，其他大多数年龄群体也持类似态度。这样的结果进一步体现了美国年轻人与 AI 之间的矛盾关系。他们既是最熟练使用 AI",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/853.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8195-9b44-ffb8465ef8ea",
-      "title": "索尼平价降噪耳机 WH-1000XM4C 更多信息曝光：砍掉 NFC、续航略降，保留 QN1 芯片与 40mm 动圈单元",
-      "summary": "IT之家 8 月 19 日消息，据 Winfuture 今日报道，索尼即将推出 WH-1000XM4C 头戴式降噪耳机。作为经典 WH-1000XM4 的衍生版本，这款产品在延续原有外观设计的同时，将蓝牙协议升级至 6.0 版本，同时续航表现略有下滑，预计以更低的价格进入市场。根据目前曝光的索尼产品资料，WH-1000XM4C 将继续采用 40mm 动圈单元，并支持蓝牙 6.0。新款耳机同样支持主动降噪功能，不过目前尚未公布具体降噪性能指标。在音频规格方面，WH-1000XM4C 的频率响应范围为 4Hz 至 40000Hz，与上一代产品基本一致。耳机重量约 253 克，与 WH-1000XM",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/851.htm"
-    },
-    {
-      "id": "3c103df8-2d23-81c5-910c-c88fed4be188",
-      "title": "天马高端 OLED 天工屏 2.0 发布会定档 8 月 26 日",
-      "summary": "IT之家 8 月 19 日消息，天马微电子 (TIANMA) 今日宣布，其高端 OLED 技术品牌“天马天工屏”的 2.0 发布会将于 8 月 26 日举行。该发布会口号为“天工屏，定万象”，线下地点似乎是福建厦门（原图分辨率过低导致无法完全确认），线上则将在当日 10:00~11:50 进行直播。IT之家了解到，天马天工屏 2.0 将以全新“原色好光”光谱材料带来护眼与通透上的全面升级，着重提升 OLED 显示技术的健康度和舒适度。",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/852.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8133-9e48-d38046628856",
-      "title": "Italy with my in-laws meant late starts and tricky meals. Then we got a week to ourselves.",
-      "summary": "Our trip to Italy grew into a 10-person family vacation. It was great, but I'm glad we also planned for some time alone while abroad.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/italy-with-extended-family-then-took-week-for-ourselves-2026-8"
-    },
-    {
-      "id": "3c103df8-2d23-816d-8d96-c7bf7f0c21c9",
-      "title": "国产动画电影《牛来》豆瓣开分 5.9：票房已破 2700 万，制作过于粗糙引发观看热潮",
-      "summary": "IT之家 8 月 19 日消息，国产动画电影《牛来》豆瓣开分 5.9。评价 1 星的观众占据多数，占比达 37.8%；评价 5 星的观众数量则居第二位，占比达到 35.8%。电影《牛来》于 2026 年 8 月 5 日在中国大陆上映，因其制作过于粗糙引发网友关注，并频频登上微博热搜，引发了观看热潮。据猫眼专业版数据，本片累计票房已破 2700 万，并登上了 2026 年 8 月动画片内地票房榜 No.4。IT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/850.htm"
-    },
-    {
-      "id": "3c103df8-2d23-81da-9534-d62d4ea3dcee",
-      "title": "Why Is It Absolute Hell to Buy a Movie Ticket Now?",
-      "summary": "Overwhelmed theater apps and a scarcity mindset around exclusive big-screen formats for blockbusters like Dune: Part Three and The Odyssey have led to the “concertification” of movies.",
-      "source": "Wired",
-      "publishTime": "2026-08-19",
-      "link": "https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/"
-    },
-    {
-      "id": "3c103df8-2d23-8143-bb0a-c2dc1ff22daa",
-      "title": "硅谷掀起“晒表”潮：科技公司定制款帝舵腕表成职场身份新象征",
-      "summary": "IT之家 8 月 19 日消息，据《商业内幕》今天（19 日）报道，一些硅谷从业者开始把职业身份“戴”在手腕上，相比在领英展示履历，他们更愿意晒出由瑞士帝舵为所在公司定制的稀有腕表。这波晒表热潮始于本周一。一篇展示谷歌员工定制腕表的帖子在网上流传后，其他科技公司员工也陆续晒出了自己的定制表款。OpenAI 应用研究负责人鲍里斯 · 鲍尔晒出了 OpenAI 定制款，表背刻有“好研究需要时间”。Palantir 战略合作负责人埃利亚诺 · 尤尼斯也展示了公司员工获得的定制帝舵腕表，并透露该款限量 468 枚。从尤尼斯分享的图片来看，表盘只有一个尺寸很小、十分低调的 Palantir logo。曾",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/849.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8184-ae25-ce5fbb251541",
-      "title": "A 39-year-old fitness coach mistook her colon cancer symptoms for IBS",
-      "summary": "Danni Duncan, a fitness and nutrition coach in Australia, was diagnosed with colon cancer after experiencing bowel movement changes and bloating.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-19",
-      "link": "https://www.businessinsider.com/39-year-old-fitness-coach-with-ibs-colon-cancer-2026-8"
-    },
-    {
-      "id": "3c103df8-2d23-810a-8cef-f255050eb498",
-      "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-      "summary": "Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-19",
-      "link": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html"
     }
   ],
   "macroEvents": [
