@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-08-19 13:54",
+  "updatedAt": "2026-08-19 15:14",
   "news": [
+    {
+      "id": "3c103df8-2d23-8116-a94c-c4e19c255cac",
+      "title": "麻省理工学院组合 5 种菌株打造活体晶体管电路",
+      "summary": "IT之家 8 月 19 日消息，麻省理工学院（MIT）于 8 月 17 日发布博文，宣布通过 5 种成团泛菌（Pantoea agglomerans）菌株成功搭建活体晶体管电路。在常规电子电路中，晶体管主要负责接通或切断电流；而在 MIT 团队研发的活体晶体管电路中，细菌开关控制小分子流动，小分子再向下游组件传递信号。团队开发了 5 种菌株，其中 2 种充当晶体管，还有 3 种充当信息中继。在充当晶体管的 2 类菌株中，都由 OC-6 分子控制，其中 1 类接收 OC-6 后开启，另 1 类接收后关闭。两类晶体管还会检测目标分子 OC-12。晶体管根据 OC-12 是否存在及自身开关状态，输出",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/594.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8118-a206-d2ec12340dfa",
+      "title": "迄今最全面的人类细胞 DNA 遗传指令解读图谱问世",
+      "summary": "IT之家 8 月 19 日消息，科技媒体 Phys 昨日（8 月 18 日）发布博文，报道称国际科研团队协作发布迄今最全面的人类细胞 DNA 遗传指令解读图谱，系统绘制了数百种转录因子的 DNA 结合偏好，并揭示了化学修饰如何重塑这些相互作用。该研究由多伦多大学的蒂莫西 · 休斯（Timothy Hughes）主导，相关成果于 8 月 4 日发表在《自然》期刊上。该媒体指出人体大多数细胞拥有基本相同的 DNA，但脑细胞的行为与肌肉细胞 / 免疫细胞截然不同，其中关键差异在于细胞如何读取基因指令。转录因子（Proteins）会结合特定 DNA 序列，控制基因在何时、何处保持活跃。人体基因组约含 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/590.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8132-a714-c936e0b9ae71",
+      "title": "三星电子宣布 2400 亿韩元光州暖通空调产线投资，将制造数据中心散热产品",
+      "summary": "IT之家 8 月 19 日消息，三星电子 (Samsung Electronics) 今日宣布将在韩国光州斥资 2,400 亿韩元（IT之家注：现汇率约合 11.47 亿元人民币）建设一条总建筑面积达 21800m² 的暖通空调 (HVAC) 生产线。此生产线将制造三星电子全资子公司 FläktGroup 的核心产品，包括 CDU（液冷分配单元）、FWU（壁挂式风扇机组）、CRAH（计算机房空气处理器）和 AHU（空气处理机组），其中前三者均适用于需求良好冷却的 AI 数据中心、AHU 则面向大型建筑物。IT之家获悉，这是三星光州工厂自 1989 年成立以来的首次大规模生产设施新投资。新生产线",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/589.htm"
+    },
+    {
+      "id": "3c103df8-2d23-819f-8ebc-e83fd1bae4f0",
+      "title": "奕境 X9 预售 12 小时订单突破 16000 台，满配华为乾崑全栈智能",
+      "summary": "IT之家 8 月 19 日消息，奕境汽车今日发文称，8 月 18 日晚，奕境 X9 预售开启，瞬时访问激增，下订平台承压过载，很多用户、朋友遇到页面卡顿、订单待支付问题，在此深表歉意。技术团队连夜抢修，凌晨 12:50 点系统已恢复。待支付用户，门店将陆续联系协助完成支付。截至今日 12 点，预售订单达 16,217 单。奕境 X9 “第二代家庭旗舰 SUV”昨晚正式开启预售，号称满配华为乾崑全栈智能，拥有华为乾崑智驾、鸿蒙座舱、乾崑赤兔平台、乾崑车载光、乾崑车云、鲸鳍通信等，预售价 29.98 万-37.98 万元。增程 四驱 Ultra+ 旗舰 长续航版：37.98 万元增程 四驱 Ult",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/586.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8177-a1f2-c9e3061c5539",
+      "title": "日本公布 AI 草案，敦促开发者披露训练数据",
+      "summary": "IT之家 8 月 19 日消息，日本内阁府昨日（8 月 18 日）公布针对生成式 AI 开发者的指导方针草案，要求开发者披露训练数据及数据收集方式。IT之家援引博文介绍，该草案规划建立 AI 框架，平衡快速发展的 AI 技术创新和版权保护，一方面规范生成式 AI 开发者合理使用知识产权，另一方面也保护创作者权益。该草案并不具备法律约束力，但敦促 AI 开发者保持透明度，公开披露他们如何收集数据来训练模型，并明确建议他们避免从盗版网站收集数据。草案框架鼓励 AI 开发者披露其训练数据集中是否使用了受版权保护的材料，例如漫画、音乐和电影。该草案还要求开发者建立内部通知系统，以便在训练数据集包含与生",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/585.htm"
+    },
+    {
+      "id": "3c103df8-2d23-813e-b46c-dd4bf082be34",
+      "title": "Using synthetic data for AI training is 'a big mistake,' says AI pioneer Rich Sutton",
+      "summary": "He said that the AI industry is headed in the wrong direction because of its reliance on synthetic training data.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-19",
+      "link": "https://www.businessinsider.com/synthetic-data-for-ai-training-is-big-mistake-rich-sutton-2026-8"
+    },
+    {
+      "id": "3c103df8-2d23-81b8-9802-d6ff29969aab",
+      "title": "Keke Palmer says she makes time to cry alone: 'It's a release'",
+      "summary": "Keke Palmer said she's an easy crier and sometimes simply decides, \"time to cry.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-08-19",
+      "link": "https://www.businessinsider.com/keke-palmer-cry-alone-health-wellness-recharge-2026-8"
+    },
+    {
+      "id": "3c103df8-2d23-810c-a16e-fa7e7996124e",
+      "title": "80 PLUS Ruby 效率等级扩展至 115V，海韵 PRIME RX-1600 电源率先过关",
+      "summary": "IT之家 8 月 19 日消息，CLEAResult 在 2025 年 3 月推出了 80 PLUS 电源转换效率体系最高等级 Ruby（红宝石）。这一认证等级最初仅面向数据中心市场，因此一开始仅覆盖 230V / 277V / 480V AC-DC 和 380V DC 产品。而在最近，CLEAResult 将 80 PLUS Ruby 扩展至更多电压规范，海韵 PRIME RX-1600（企业方称之为 PRIME ENTERPRISE RX-1600）成为首款拿下 Ruby 认证的 115V Internal (Non-Redundant) 电源产品。对于 115V Internal，80 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/584.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8163-914e-ecc97c735c86",
+      "title": "“神奇小子”创立的公司推出 chestnut eGPU 扩展坞，车载 AI 浮点运算提高约 100 倍",
+      "summary": "IT之家 8 月 19 日消息，乔治 · 霍茨（George Hotz）创办的自动驾驶技术公司 comma.ai 于 8 月 12 日推出 chestnut 外置 eGPU 扩展坞，售价为 249 美元（现汇率约合 1,682 元人民币），真机套件（含 AMD Radeon RX 9060 8GB）售价为 799 美元（现汇率约合 5,399 元人民币）。IT之家注：霍茨网名为 geohot，人称“神奇小子”，是一位美国传奇黑客、软件工程师与创业者。他在 17 岁时因全球首个成功破解 iPhone 而一战成名，随后又破解了索尼的 PlayStation 3。霍茨于 2016 年创立自动驾驶技术",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/583.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8178-8305-d3deaadd9561",
+      "title": "2026 高考部分高职投档线超本科：央视称市场抛弃的不是本科学历，而是与市场脱节的办学模式",
+      "summary": "IT之家 8 月 19 日消息，央视网今日发布评论员文章称，今年高考录取季，一个反常现象引发广泛关注：多地优质高职院校投档线反超本科线，部分民办本科却出现明显缺额。央视网表示，如今，中国制造业向智能化、高端化全速迈进，单一的学术型教育轨道，已无法独自撑起庞大的产业底盘。数据显示，现代制造业、战略性新兴产业新增一线从业人员中，70% 以上来自职业院校。这不仅是数据，更是信号：产业转型正把职业教育推回应有位置。央视网称，看待“高分读高职”现象，先要厘清：市场抛弃的不是本科学历，而是与市场脱节的办学模式。近年来，一些民办本科院校，陷入“学术水平不及研究型大学、技能培养不及优质高职”的“夹心困境”。它",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/582.htm"
+    },
+    {
+      "id": "3c103df8-2d23-8199-9d31-dadcd359572d",
+      "title": "Companies with huge datasets can save up to 80% in AI costs by using open-weight models: Hims CEO",
+      "summary": "He said big patient datasets are Hims & Hers' \"real asset,\" as they can be used to train open-weight models.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-19",
+      "link": "https://www.businessinsider.com/hims-hers-ceo-andrew-dudum-datasets-ai-costs-open-weight-2026-8"
+    },
+    {
+      "id": "3c103df8-2d23-8161-8c1c-e51fbf365b63",
+      "title": "从 3D 迈向 2D，消息称拓竹进军消费级 UV 打印机赛道",
+      "summary": "IT之家 8 月 19 日消息，据《科创板日报》今日报道，拓竹已启动消费级 UV 打印机（紫外线光固化喷墨打印机）项目，已规划十余个岗位方向，覆盖从喷头驱动、波形与墨路，到材料验证和软件协同的完整研发链路。8 月 13 日，拓竹已预热激光产品 R1。报道称，此次 UV 打印机项目的正式启动，意味着拓竹将同时推动 3D 打印、激光加工、UV 打印三大技术路线的发展，向个人智造版图进发。IT之家注：UV 打印机是一种免制版全彩色数码印刷机，不受材料限制，可以在 T 恤、移门、柜门、推拉门、玻璃、板材、各种标牌、水晶、PVC、亚克力、金属、塑料、石材、皮革等表面进行彩色照片级印刷，可以实现部分 3D",
+      "source": "IT之家",
+      "publishTime": "2026-08-19",
+      "link": "https://www.ithome.com/0/991/581.htm"
+    },
     {
       "id": "3c103df8-2d23-81c4-86f9-df644069760f",
       "title": "注册资本超 80 亿的神龙科技成立：东风、Stellantis 等六方打造，推动标致、雪铁龙电动智能转型",
@@ -304,102 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-19",
       "link": "https://www.ithome.com/0/991/517.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8154-b110-d258aa1c9f00",
-      "title": "前顽皮狗开发者透露初代《神秘海域》游戏设置“动态难度系统”原因：防止玩家过快通关",
-      "summary": "IT之家 8 月 19 日消息，前顽皮狗（Naughty Dog）开发人员 Benson Russell 在接受外媒 FRVR 采访时，透露《神秘海域》初代游戏《神秘海域：德雷克船长的宝藏（Uncharted：Drake's Fortune）》当年加入动态难度系统的主要目的之一竟是为了“延长游戏时长”。Russell 表示，《神秘海域》初期开发过程并不顺利。团队在设计关卡环境时，并没有充分考虑战斗系统应该如何融入其中，后续不得不不断调整。更麻烦的是，当游戏内容基本确定后，开发团队发现整个作品的流程时间非常短。Russell 开玩笑称，一款只有 5 小时流程、又没有多人模式的游戏，很难以 60 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/518.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8155-bdfc-d2a8f2c3b539",
-      "title": "App+1 | Inkive：把纸质书上划好的线存进 Obsidian",
-      "summary": "让纸书上的划线，回到你的数字笔记里。查看全文",
-      "source": "少数派",
-      "publishTime": "2026-08-19",
-      "link": "https://sspai.com/post/111936"
-    },
-    {
-      "id": "3c103df8-2d23-81d8-a2c9-df2a887f7fe0",
-      "title": "小米智能摄像机视频通话版 2 单机上架：3.97 英寸彩屏，众筹价 429 元",
-      "summary": "IT之家 8 月 19 日消息，小米智能摄像机视频通话版 2 单机今日上架小米有品并开启预约，8 月 26 日 10 点新开启众筹，众筹价 429 元（点击前往）。IT之家从商品页面获悉，新品配备 3.97 英寸彩屏，全贴合工艺，分辨率 480x800。所有按键面积增大，按压感清晰，反应更灵敏，方便老人小孩操作。摄像机与手机、摄像机与摄像机之间均可双向视频通话，操作简单的同时，使用场景更丰富。新品支持手势呼叫、一键呼叫、联动呼叫等 3 种呼叫方式，操作灵活且简单，便于家人使用与记忆，不同场景均可快速发起视频通话。新品在音质方面明显提升，内置双麦克风和大直径扬声器，智能降噪且传声响亮，老人易听清",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/501.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8112-b935-cbba8cb48e41",
-      "title": "Anthropic 预告 Claude Code 将整合 /design 命令",
-      "summary": "IT之家 8 月 19 日消息，Anthropic Claude Design 产品设计师纳特 · 帕罗特（Nate Parrott）昨日（8 月 18 日）在 X 平台发布推文，预告将会在 Claude Code 中整合推出 /design 命令。IT之家附上演示视频如下：开发者在编写代码之前，可以通过 /design 命令直接在终端或者桌面版 Claude Code 中创建设计模型。例如，命令“/design a few options for {feature}”会生成多个草稿作为画板。用户可以选择自己喜欢的草稿，进行编辑，然后进行构建。Claude 会读取现有代码库，匹配当前的 UI ",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/488.htm"
-    },
-    {
-      "id": "3c103df8-2d23-81a5-af4c-f99c67c8e963",
-      "title": "磐镭预告 WO5 304 \"Wildcat Lake\" 迷你主机：板载内存，双 M.2 SSD 槽",
-      "summary": "IT之家 8 月 19 日消息，磐镭 (PELADN) 今日宣布将推出英特尔酷睿 3 304 \"Wildcat Lake\" 处理器的 WO5 304 迷你主机。这一型号板载 16GB LPDDR5-6400 内存，提供 2 个 PCIe Gen4 ×2 的 M.2 2280 SSD 盘位。WO5 304 机身三维 116×106×37.5 (mm)，外部为银色磨砂金属，质量 310g。其内置 Wi-Fi 6E & 蓝牙 5.3 无线网卡，外部提供 1 个 USB-C 40Gbps、3 个 USB-A 10Gbps、1 个 USB-A 480Mbps、2 个 HDMI 2.0、1 个 2.5Gb",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/484.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8179-9c5a-fd7761da35dc",
-      "title": "“AI 换脸”色情 App 营销引发争议：Meta 下架广告、苹果移除应用",
-      "summary": "IT之家 8 月 19 日消息，据外媒 WIRED 报道，近期一款名为 Kromix 的 App 在 Meta 平台投放争议广营销，该应用允许用户利用 AI 生成真实人物的色情“换脸”内容，其中一则广告甚至使用了与美国一名知名女性政治人物高度相似的 AI 生成形象。广告配音将 Kromix 宣传为“真正男人使用的 AI”，并声称工具“没有限制”，随后展示该女性形象从普通场景转为色情视频的画面。报道称，Kromix 自称是一款“AI 图像风格化”工具，但实际上具备生成“非自愿色情内容的能力”。该应用合计在 Meta 平台投放了 32 则广告，而且全部针对男性用户。外媒 WIRED 联系 Meta",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/482.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8143-9482-c0154110d0d3",
-      "title": "蓝箭航天朱雀三号总指挥戴政披露遥一回收失败原因：着陆点火出现异常燃烧，坠落在着陆场坪边缘",
-      "summary": "IT之家 8 月 19 日消息，蓝箭航天朱雀三号遥二运载火箭今日在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪，飞行任务取得圆满成功。这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。据央视新闻今日报道，在朱雀三号遥二发射之前，蓝箭航天朱雀三号总指挥戴政披露了朱雀三号遥一回收失败的原因。2025 年 12 月 3 日，蓝箭航天研制的朱雀三号可重复使用运载火箭首飞，这是我国首次对入轨级运载火箭实施一子级回收技术验证。过程中，二子级火箭成功入轨，一子级火箭在垂直回收验证阶段因发动机末次点火异常未能",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/478.htm"
-    },
-    {
-      "id": "3c103df8-2d23-818a-8161-eb44c93b9de8",
-      "title": "OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题",
-      "summary": "IT之家 8 月 19 日消息，OpenAI Codex 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发布长推文，回应在 Codex 中调用 GPT-5.6 系列模型后，误删部分用户文件问题。索蒂奥表示自几周前开始陆续收到少量 Codex 用户反馈，在 Codex 中使用 GPT-5.6 系列模型后，在执行了用户未授权的破坏性操作。OpenAI 发现本应清理临时文件的命令却误删了用户文件。其中一种情况是，Codex 会在临时工作中重用 $HOME 等系统环境变量。这样一来，错误的清理命令可能会指向实际的用户主目录。有些情况下，模型会尝试删除或覆盖临时路径，而",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/469.htm"
-    },
-    {
-      "id": "3c103df8-2d23-81b8-b264-f4d67cb407c3",
-      "title": "每页给 6 美元，AI 公司 Handshake AI 高价收购工作文档",
-      "summary": "IT之家 8 月 19 日消息，总部位于美国旧金山的 Handshake AI 正在招聘“专业文档贡献者”（Professional Document Contributor），承诺为“高质量书面文档”支付最高 3 万美元（IT之家注：现汇率约合 20.3 万元人民币）。想要申请这份工作，候选人应当拥有咨询、金融、法律、软件工程、数据科学等领域的工作经历。Handshake AI 表示，申请人必须拥有相关文档的所有权，并获得授权将这些文档分享出去。这也引发了一系列合规和隐私方面的问题：哪些工作相关文档真正属于你，可以拿出来分享？AI 又应该知道多少私人工作资料？Handshake AI 已经为",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/464.htm"
-    },
-    {
-      "id": "3c103df8-2d23-813e-a989-db909d759276",
-      "title": "be quiet! 发布 Dark Power Pro 14 IO 钛金数字电源，至高 1600W",
-      "summary": "IT之家 8 月 19 日消息，be quiet!（德商德静界）现已发布其旗舰 PC 电源 Dark Power Pro 14 IO。该系列包含 1300W 和 1600W 两种额定功率的产品。Dark Power Pro 14 IO 采用全数字控制架构和全桥 LLC + 同步整流电路拓扑，+12V 输出支持多 (6) 路 / 单路切换。其符合 ATX 3.1 规范，配备全模组化单层编织线缆，转换效率峰值可达 94.9%，获得 80 PLUS 与 Cybenetics 双机构钛金认证。这款电源还搭载 105℃ 耐温日系电容器，拥有六极电机 FDB 轴承 135mm 风扇与铝制鳍片构成的整合式散",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/457.htm"
-    },
-    {
-      "id": "3c103df8-2d23-8151-888c-d2c8550c8e6f",
-      "title": "雷神猎刃 60 游戏手柄 8 月 25 日预售，支持有线＋2.4G 双模 8KHz 轮询率",
-      "summary": "IT之家 8 月 19 日消息，雷神猎刃 60 游戏手柄将于 8 月 25 日 10:00，正式开启预售。据官方介绍，雷神猎刃 60 支持有线＋2.4G 双模 8KHz 轮询率，每秒 8,000 次上报，让操作响应更快一步；搭载定制控银可调力 TMR 摇杆，12bit 分辨率、4,096 级精准控制，兼顾 EDC 机械手感与细腻操控。IT之家注意到，雷神在上个月举行的 BW2026 上展出了猎刃 60 手柄控制器。其采用类 XBOX 式整体布局，配备控银定制青龙 MAX 无级调节摇杆、霍尔效应传感器 / 微动开关双切扳机、光学微动按键，提供 6 颗自定义宏按键。其在有线和无线模式下均支持 8k",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/459.htm"
-    },
-    {
-      "id": "3c103df8-2d23-81ff-ba7e-f55536470b35",
-      "title": "黑客组织 Cyberleek 曝光《GTA6》完整地图平面图，抗议游戏行业商业化套路",
-      "summary": "IT之家 8 月 19 日消息，综合外媒 kotaku 报道，黑客组织 Cyberleek 现已公布了《GTA6（侠盗猎车手 6）》完整游戏地图平面图，并表示此举是为了抗议游戏行业日益普遍的“商业化套路”。IT之家注意到，Cyberleek 还提出了三条所谓的“准则”，并声称如果游戏发行商违反其中任何一条，就会成为其攻击目标，直到对方公开道歉并承诺采取实际措施。其中第一条直接针对数字版预购。Cyberleek 认为，玩家不应该在游戏正式发售、媒体评测之前通过数字商店付款预购游戏。该组织认为，玩家可以预购实体游戏，因为实体游戏存在生产和库存限制，并且可以方便退货或转卖。而《GTA 6》恰好采用了",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/456.htm"
     }
   ],
   "macroEvents": [
