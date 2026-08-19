@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-08-20 03:48",
+  "updatedAt": "2026-08-20 04:53",
   "news": [
+    {
+      "id": "3c103df8-2d23-81e4-8e97-cc1468e27eab",
+      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+      "summary": "AI-native account startup Rillet became a unicorn, led by ICONIQ after it doubled its ARR in the past three months, it said.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/"
+    },
+    {
+      "id": "3c103df8-2d23-8195-8bb0-d4876d4afee2",
+      "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+      "summary": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-20",
+      "link": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html"
+    },
+    {
+      "id": "3c103df8-2d23-8178-bcf6-dbe0de9d844b",
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+      "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-20",
+      "link": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html"
+    },
+    {
+      "id": "3c103df8-2d23-812a-9b97-ffe67ca51330",
+      "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+      "summary": "The actress' firm Kinship Ventures is an investor in the company.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/"
+    },
+    {
+      "id": "3c103df8-2d23-81ad-80ed-dddc8be2caef",
+      "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+      "summary": "Have we tried turning off society and turning it back on again?",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/"
+    },
+    {
+      "id": "3c103df8-2d23-81e6-9804-eb15e09ea551",
+      "title": "Nielsen is leaning more on wearables to hear what people are watching",
+      "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing p",
+      "source": "The Verge",
+      "publishTime": "2026-08-20",
+      "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data"
+    },
+    {
+      "id": "3c103df8-2d23-810c-bf1f-d3ce4661c377",
+      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+      "source": "Wired",
+      "publishTime": "2026-08-20",
+      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/"
+    },
     {
       "id": "3c103df8-2d23-8163-96ea-c59b388855c8",
       "title": "AI was supposed to win people over by now — it hasn’t",
@@ -344,62 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-19",
       "link": "https://www.ithome.com/0/991/857.htm"
-    },
-    {
-      "id": "3c103df8-2d23-81a9-9dfe-ec6374489728",
-      "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
-      "summary": "The investment comes amid Navi plans to go public.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-19",
-      "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/"
-    },
-    {
-      "id": "3c103df8-2d23-81df-b183-e14e45927f88",
-      "title": "Amazon Fire TV devices are getting a free Alexa Plus upgrade",
-      "summary": "Amazon is bringing Alexa Plus to Fire TV device owners in the US for free. Starting today, users in the US with an Amazon Fire TV Stick, Fire TV Cube, Amazon Ember smart TV, or other TV with Alexa Plus built in, including those from Panasonic and Hisense, will get access to the more conversational [",
-      "source": "The Verge",
-      "publishTime": "2026-08-19",
-      "link": "https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free"
-    },
-    {
-      "id": "3c103df8-2d23-8148-9144-f08ed4b8f610",
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-19",
-      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
-    },
-    {
-      "id": "3c103df8-2d23-815f-86e9-f96212f31845",
-      "title": "为 5 万亿参数超大模型“铺路”？消息称字节跳动调整 Seed 基模团队组织架构",
-      "summary": "IT之家 8 月 19 日消息，晚点 LatePost 今天（19 日）晚间发布消息称，字节跳动的大模型部门 Seed 已于上周完成了新一轮的组织调整。其中最关键的部分是 Seed Foundation Model （Seed 基础模型）成立了四个新的一级部门：Pretrain Data：负责人李成刚。由原先分散在文本模型、编程、视觉理解和语音等方向的预训练数据团队合并而来，统一负责新 Omni 模型的多模态数据，以及超大模型预训练所需的数据工作。Horizon RL：负责人唐晟宇。整合了此前散落在后训练、推理和视觉理解的后训练团队，主要负责强化学习，提升模型的基础智能上限。Product P",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/856.htm"
-    },
-    {
-      "id": "3c103df8-2d23-81b7-afdc-fe04a7591ab9",
-      "title": "Amazon’s Prime Air is taking off in nearly 500 U.S. cities",
-      "summary": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-19",
-      "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/"
-    },
-    {
-      "id": "3c103df8-2d23-8198-b5af-f0242d7413fa",
-      "title": "嫦娥七号发射在即：将赴充满未知的月球南极，首要任务寻找水冰",
-      "summary": "IT之家 8 月 19 日消息，今日，嫦娥七号探测器和长征五号遥十四运载火箭在中国文昌航天发射场完成技术区相关工作，器箭组合体已垂直转运至发射区，计划近日择机实施发射。据央视财经报道，嫦娥七号即将奔赴充满未知的月球南极，执行极具挑战性的综合探测任务。工程层面，嫦娥七号将突破多项关键技术：高精度月面软着陆、月面腿式行走、月面飞跃、永久阴影坑原位探测等等。月球南极分布大量永久阴影坑，坑内常年不见阳光，极低温环境下，有可能保存数十亿年的水冰资源，这是未来月球驻留的宝贵资源，也是本次探测的重中之重。嫦娥七号的科学目标清晰明确：探测月表环境、月壤水冰与挥发组分；开展月球南极形貌、物质成分、地质构造高精度",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/855.htm"
-    },
-    {
-      "id": "3c103df8-2d23-81b8-8425-ec8566303908",
-      "title": "莫德纳 & 默沙东宣布全球首个 mRNA 癌症疫苗三期试验证明有效：黑色素瘤术后复发风险显著下降，股价暴涨 150%",
-      "summary": "IT之家 8 月 19 日消息，莫德纳（Moderna）与默沙东（Merck Sharp & Dohme）今晚宣布其 mRNA 疫苗三期项目取得成功。这是 mRNA 技术在癌症治疗领域迎来的首个三期试验成功案例，这有望为每年成千上万确诊罹患这种致命皮肤癌的患者带来全新延长生命的疗法。受此消息影响，莫德纳股价暴涨 150%（截至IT之家发稿略有回落），默沙东也涨超 10%。据介绍，双方合作开发的个体化 mRNA 肿瘤疫苗 intismeran autogene（原名 mRNA-4157/V940）联合帕博利珠单抗（Keytruda）的 III 期 INTerpath-001 试验达到无复发生存期",
-      "source": "IT之家",
-      "publishTime": "2026-08-19",
-      "link": "https://www.ithome.com/0/991/854.htm"
     }
   ],
   "macroEvents": [
