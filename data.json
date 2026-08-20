@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-08-21 06:53",
+  "updatedAt": "2026-08-21 07:49",
   "news": [
+    {
+      "id": "3c203df8-2d23-81d9-9cb9-f59e01da8c5e",
+      "title": "我国团队发现毛细血管是心脏修复的关键，为治疗缺血性心脏病提供新思路",
+      "summary": "IT之家 8 月 21 日消息，据央视新闻今日报道，心脏每天不停跳动，离不开冠状动脉这条输送氧气和营养的“高速公路”。冠状动脉一旦发生堵塞，下游心肌便会受损甚至坏死。但部分人群心脏自身有一套“备用方案”—— 侧支动脉。它们像天然搭建的应急桥梁，能够绕开堵塞区域恢复供血。这些“生命之桥”从何而来？过去科学界认为部分侧支动脉可以重新生成，它们来源于已有动脉的“迁移和重组”。中国科学院分子细胞科学卓越创新中心（生物化学与细胞生物学研究所）周斌研究团队揭开了重新生成侧支动脉的真正“建造者”并非已有动脉，而是遍布心肌的毛细血管。相关成果 8 月 21 日在国际学术期刊《科学》发表。据悉，研究团队利用邻近",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/418.htm"
+    },
+    {
+      "id": "3c203df8-2d23-8142-8173-f6fabcbc2a67",
+      "title": "How landscape gardening is being electrified",
+      "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
+      "source": "BBC Tech",
+      "publishTime": "2026-08-21",
+      "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3c203df8-2d23-81ce-80f8-fb260e20ab22",
+      "title": "火狐 Firefox 115 ESR 浏览器延长维护至 2027 年 3 月，Win7 用户占 4.796%",
+      "summary": "IT之家 8 月 21 日消息，Mozilla 于 8 月 18 日更新支持文档，再次延长火狐 Firefox 浏览器 115 ESR 版本对 Windows 7 系统的支持期限，从原计划 2026 年 8 月延长至 2027 年 3 月。IT之家援引文档介绍，Mozilla 于 2023 年 7 月 4 日发布 Firefox 115 ESR 浏览器，是支持旧版操作系统（如 Windows 7、Windows 8、Windows 8.1 以及 macOS 10.12 至 10.14）的最后一个主要 Firefox 延长支持版本（ESR）。Mozilla 曾经公布统计数据，截至 2026 年 ",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/417.htm"
+    },
+    {
+      "id": "3c203df8-2d23-8147-a8bb-f216f1e6e218",
+      "title": "蚂蚁百灵开源 Ling-3.0 tiny / flash Base 模型，开放训练过程中的关键节点",
+      "summary": "IT之家 8 月 21 日消息，蚂蚁百灵在本月陆续开源了 Ling-3.0-tiny 和 Ling-3.0-flash 模型。官方昨日宣布，将 Ling-3.0-tiny-base 与 Ling-3.0-flash-base 正式开源，除最终 Base checkpoint 外，还将同步开放两个模型的预训练和中期训练的权重 checkpoint，共计 6 个 checkpoints。预训练 checkpoint：已完成大规模预训练，尚未进行中期训练、WSM 合并和后训练；中期训练 checkpoint：已完成中期训练，尚未进行 WSM 合并和后训练；WSM 合并 checkpoint：已基于中",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/416.htm"
+    },
+    {
+      "id": "3c203df8-2d23-81b0-a5ea-d5e8b8d048c1",
+      "title": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry",
+      "summary": "Micron CEO Sanjay Mehrotra said on Thursday that AI has dramatically changed the memory business.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-21",
+      "link": "https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html"
+    },
+    {
+      "id": "3c203df8-2d23-81f8-b101-fb042d5c0d08",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-21",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+    },
+    {
+      "id": "3c203df8-2d23-81a5-8677-e501e99029d6",
+      "title": "虚幻 5 国产 MMORPG《诡秘之主》今日公测：PC 推荐 RTX 3070 Ti，移动端苹果 iPhone 12 Pro 起步",
+      "summary": "IT之家 8 月 21 日消息，由快手游戏研发的虚幻 5 国产 MMORPG《诡秘之主》于今日（8 月 21 日）上午 10 点正式开启全平台公测。该游戏支持 PC、安卓、iOS 及鸿蒙多端游玩，玩家使用快手游戏官网账号可实现多设备进度互通。游戏预下载通道已于 8 月 19 日开放，角色预创建同步开启。《诡秘之主》改编自阅文集团作家“爱潜水的乌贼”创作的同名网络小说，由快手旗下游戏厂牌“弹指宇宙”历时四年研发。据官方披露，该项目截至公测前，包含推广费用在内的累计总成本已升至 12 亿元人民币。游戏彻底重构了传统 MMO 职业框架，以原著设定的 22 条神之途径、220 个专属序列为核心成长体系",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/415.htm"
+    },
+    {
+      "id": "3c203df8-2d23-81e3-8062-f383ee71d5d8",
+      "title": "Jim Cramer says there's an 'incredibly jarring gulf between stock prices and reality'",
+      "summary": "Worries about the state of the consumer, higher oil prices and elevated interest rates are overshadowing strong company fundamentals.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-21",
+      "link": "https://www.cnbc.com/2026/08/20/jim-cramer-jarring-gulf-stock-prices-reality.html"
+    },
     {
       "id": "3c203df8-2d23-8141-9b58-c4e164dccfe6",
       "title": "Miss USA has been dropped by The CW network a week before the pageant",
@@ -128,6 +192,14 @@
       "source": "Business Insider",
       "publishTime": "2026-08-21",
       "link": "https://www.businessinsider.com/outer-banks-cast-real-ages-2021-7"
+    },
+    {
+      "id": "3c203df8-2d23-81f2-82c9-c8c2daf8b90a",
+      "title": "Counterpoint 报告 2026Q2 拉美智能手机出货量：三星同比增 6%、摩托罗拉降 14%、小米降 27%、荣耀降 8%、苹果增 5%",
+      "summary": "IT之家 8 月 21 日消息，根据 Counterpoint Research 的最新市场监测报告，2026 年第二季度拉丁美洲智能手机出货量同比下滑 10%，主要受持续的内存短缺问题推动。该季度出货量迎来 2023 年第三季度以来最大同比降幅，当时疫情后的经济衰退和高库存曾导致智能手机出货量出现两位数下滑。下滑的主要原因是，2026 年第一季度厂商在预期价格调整前囤积库存，随后出现了内存短缺和需求回落；此外哥伦比亚、墨西哥和巴西作为前三大大智能手机市场面临通胀压力，削弱了消费者购买力，哥伦比亚、巴西的大选也让消费者消费态度更趋保守。Counterpoint 首席分析师 Tina Lu 表示",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/413.htm"
     },
     {
       "id": "3c203df8-2d23-812e-b32d-c5fd3889cd69",
@@ -328,78 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-08-21",
       "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/"
-    },
-    {
-      "id": "3c203df8-2d23-812d-a7ae-c0d17fe7bd4d",
-      "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
-      "summary": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-21",
-      "link": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/"
-    },
-    {
-      "id": "3c203df8-2d23-8112-ac08-e9692e1d1eaf",
-      "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
-      "summary": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-21",
-      "link": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/"
-    },
-    {
-      "id": "3c203df8-2d23-81d3-af35-fb0c1fcadaa4",
-      "title": "Chamath Palihapitiya says data center backlash is a 'powder keg' that AI leaders must defuse",
-      "summary": "\"All-In\" podcast co-host Chamath Palihapitiya says the AI industry has itself to blame for data centers becoming pariahs for many in the US.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-20",
-      "link": "https://www.businessinsider.com/chamath-palihapitiya-ai-data-center-backlash-warning-2026-8"
-    },
-    {
-      "id": "3c203df8-2d23-8159-9ca6-e1ff7c887092",
-      "title": "We spent 2 weeks in Portugal. The best stop on our whole trip was a fairy-tale-like town just outside of Lisbon.",
-      "summary": "The best place we visited in Portugal was Sintra, an easy day-trip from Lisbon. There was so much to do in the town, and we have tips for visiting.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-20",
-      "link": "https://www.businessinsider.com/best-place-visited-portugal-sintra-easy-day-trip-from-lisbon-2026-8"
-    },
-    {
-      "id": "3c203df8-2d23-8142-9850-f065358a5214",
-      "title": "The creator economy's hottest debate: Can influencers post AI ads without alienating their fans?",
-      "summary": "AI companies are hiring influencers and offering hefty paychecks. Creators are left weighing the cost of backlash from their fans.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-20",
-      "link": "https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8"
-    },
-    {
-      "id": "3c203df8-2d23-8161-842f-da86f6309288",
-      "title": "冲出美洲走向世界，特斯拉 Semi 纯电半挂卡车官宣进军欧洲市场",
-      "summary": "IT之家 8 月 20 日消息，经历多年等待后，特斯拉纯电半挂卡车 Semi 终于准备正式进军欧洲市场。新车将在 9 月举行的德国汉诺威 IAA Transportation 商用车展上亮相，届时官方将公布欧洲版 Semi 的详细规格和上市计划，最快可能在 2027 年进入欧洲市场。特斯拉方面今天（20 日）确认，欧版 Semi 的规格和上市详情将在德国汉诺威 IAA Transportation 商用车展上公布。本届展会将于 9 月 15 日至 20 日举行，是全球最重要的商用车展之一。Semi 早在 2017 年就已首次发布，并于 2022 年开始在美国投入运营，但欧洲上市计划一直没有明确",
-      "source": "IT之家",
-      "publishTime": "2026-08-20",
-      "link": "https://www.ithome.com/0/992/409.htm"
-    },
-    {
-      "id": "3c203df8-2d23-81b5-bfe2-d6c30bc9a8fc",
-      "title": "Before-and-after photos show the decor changes Trump has made to the White House, so far",
-      "summary": "Donald Trump has brought his love of maximalism and gold furnishings to his White House renovations. Take a look at the biggest differences.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-20",
-      "link": "https://www.businessinsider.com/donald-trump-white-house-decor-oval-office-photos-2025-4"
-    },
-    {
-      "id": "3c203df8-2d23-81a0-8e21-f462acefe68d",
-      "title": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-20",
-      "link": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/"
-    },
-    {
-      "id": "3c203df8-2d23-81df-a3ef-cfd969540342",
-      "title": "I left my job and became a housewife. Doing an internship at 31 helped me pivot to a new industry 7 years later.",
-      "summary": "A woman took a 7-year career break as a housewife and stay-at-home mom. She said an internship helped her get back to work at age 31.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-20",
-      "link": "https://www.businessinsider.com/stay-at-home-mom-career-break-internship-2026-8"
     }
   ],
   "macroEvents": [
