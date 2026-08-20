@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-08-21 05:52",
+  "updatedAt": "2026-08-21 06:53",
   "news": [
+    {
+      "id": "3c203df8-2d23-8141-9b58-c4e164dccfe6",
+      "title": "Miss USA has been dropped by The CW network a week before the pageant",
+      "summary": "The CW network will not air the Miss Teen USA and Miss USA finals on August 26 and 27. The pageant announced a new deal with the network in June.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-21",
+      "link": "https://www.businessinsider.com/miss-usa-pageant-no-longer-airing-on-the-cw-network-2026-8"
+    },
+    {
+      "id": "3c203df8-2d23-81e1-95b5-f107bc674b29",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-21",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
+    },
+    {
+      "id": "3c203df8-2d23-81ef-8dc2-eb88e7a082f8",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-",
+      "source": "The Verge",
+      "publishTime": "2026-08-21",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"
+    },
+    {
+      "id": "3c203df8-2d23-81e0-ac9e-f724ac767188",
+      "title": "Neutrogena responds after Hayden Panettiere's comments about the brand resurfaced following her death: 'We made her feel unsupported'",
+      "summary": "Hayden Panettiere's death prompted Neutrogena to reflect on their handling of her postpartum depression comments years ago.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-21",
+      "link": "https://www.businessinsider.com/hayden-panettiere-neutrogena-backlash-2026-8"
+    },
+    {
+      "id": "3c203df8-2d23-8132-b4c6-e3fc71264a7e",
+      "title": "Amazon drone makes a splash after dropping a package in a Texas woman's pool: 'We're living in the Jetsons era'",
+      "summary": "An Amazon drone dropped a Texas woman's package into her backyard pool. Amazon said this week its expanding drone delivery to some 500 more cities.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-21",
+      "link": "https://www.businessinsider.com/amazon-prime-air-drone-delivery-pool-texas-2026-8"
+    },
     {
       "id": "3c203df8-2d23-812f-9be1-d7a7b063e541",
       "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
@@ -360,46 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-08-20",
       "link": "https://www.businessinsider.com/stay-at-home-mom-career-break-internship-2026-8"
-    },
-    {
-      "id": "3c203df8-2d23-8177-918a-e5bc5f96d6c3",
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a st",
-      "source": "The Verge",
-      "publishTime": "2026-08-20",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion"
-    },
-    {
-      "id": "3c203df8-2d23-8182-a097-c7a3d37bfd8b",
-      "title": "《007：初露锋芒》达成新里程碑：不到 3 个月，销量突破 400 万份",
-      "summary": "IT之家 8 月 20 日消息，广受好评的詹姆斯 · 邦德游戏《007：初露锋芒》仍在持续热销。开发商 IO Interactive 今天（20 日）晚间宣布，游戏发售不到 3 个月，销量已经突破 400 万份。官方公布的上一轮销量数据是在游戏上市后约一周时间，当时 IO Interactive CEO 兼游戏总监哈坎 · 阿布拉克表示，《007：初露锋芒》发售一周多后销量已超过 270 万份。《007：初露锋芒》的成功也进一步增加了推出续作的可能性。不过，如果续作进入开发阶段，已是詹姆斯 · 邦德版权新持有方的亚马逊可能希望更多介入其中。此前，《007：初露锋芒》由 IO Interacti",
-      "source": "IT之家",
-      "publishTime": "2026-08-20",
-      "link": "https://www.ithome.com/0/992/408.htm"
-    },
-    {
-      "id": "3c203df8-2d23-8154-8c92-c270a90021f8",
-      "title": "芝奇 240 万美元和解集体诉讼：涉嫌 DDR4、DDR5 内存以 XMP/EXPO 速度误导用户，消费者获赔约 20 美元",
-      "summary": "IT之家 8 月 20 日消息，据 Tom's Hardware 今日报道，芝奇（G.Skill）已开始向符合条件的美国消费者发放集体诉讼和解金。该诉讼发生于 2022 年，大量用户指控该公司对部分 DDR4、DDR5 内存套装标称速度的宣传方式涉嫌误导性营销。消费者每人的最终获赔金额取决于申领数量以及符合条件的内存套装购买数量，目前已有消费者收到约 20 至 25 美元（现汇率约合 134.9 至 168.7 元人民币）。该诉讼指控芝奇对其 Trident Z 和 Ripjaw 系列 DDR4 及 DDR5 内存产品标注了仅能通过 XMP/EXPO 超频才能达到的速度，但包装上未明确告知消费",
-      "source": "IT之家",
-      "publishTime": "2026-08-20",
-      "link": "https://www.ithome.com/0/992/407.htm"
-    },
-    {
-      "id": "3c203df8-2d23-81fa-98a9-e3112778be36",
-      "title": "梦回 90 年代：开发者用 ASCII 字符构建可自由探索的 3D 城市",
-      "summary": "IT之家 8 月 20 日消息，现代计算机的性能已经强到足以完成许多过去难以想象的任务。游戏画面越来越逼近现实，即使并不算高端的硬件，渲染复杂 3D 场景也不再困难。技术越先进，一些爱好者却越喜欢回头探索早期计算机的表现方式。有人是出于怀旧，也有人单纯欣赏那种在工具极其有限的条件下依靠创意解决问题的过程。据外媒 Gizmodo 当地时间 19 日报道，最近出现的 Windows 1.1a 版 Word 原生 x64 移植项目就是一个例子。开发者把微软 1990 年前后的文字处理软件移植到现代平台，让其能够在 Windows 11 电脑上直接运行。ASCII 字符画也是类似的早期计算机艺术形式，",
-      "source": "IT之家",
-      "publishTime": "2026-08-20",
-      "link": "https://www.ithome.com/0/992/406.htm"
-    },
-    {
-      "id": "3c203df8-2d23-8115-af49-d9baed867eb9",
-      "title": "闪迪带来 SANDISK NAS 高耐用固态硬盘产品线，M.2 新品支持 PCIe Gen5",
-      "summary": "IT之家 8 月 20 日消息，Sandisk（闪迪）美国加州当地时间今日宣布推出专为现代网络附加存储 (NAS) 环境打造的 SANDISK NAS 系列高耐用 SSD 产品线，并带来 SANDISK NAS 600 SATA SSD 和 SANDISK NAS 800 NVMe SSD 两款新品。SANDISK NAS 600 SATA SSD 采用 2.5\" 7mm 外形规格，提供 500GB~4TB 的一系列容量点。其拥有 225 万小时的平均失效前时间，写入耐久可达 2500TBW。该产品定价如下：500GB 售 179.99 美元（现汇率约合 1,214 元人民币）；1TB 售 2",
-      "source": "IT之家",
-      "publishTime": "2026-08-20",
-      "link": "https://www.ithome.com/0/992/405.htm"
     }
   ],
   "macroEvents": [
