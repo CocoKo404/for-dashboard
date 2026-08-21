@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-22 05:47",
+  "updatedAt": "2026-08-22 06:49",
   "news": [
+    {
+      "id": "3c303df8-2d23-81ff-bf57-d3c80c4cfcb6",
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
+      "summary": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-22",
+      "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/"
+    },
+    {
+      "id": "3c303df8-2d23-8157-814a-ddc978b56e8c",
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-22",
+      "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html"
+    },
+    {
+      "id": "3c303df8-2d23-81af-8543-cf07703a3db0",
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+      "source": "BBC Tech",
+      "publishTime": "2026-08-22",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3c303df8-2d23-8145-962a-fc90358d5a34",
+      "title": "Disney will drop medical insurance for some employees' spouses",
+      "summary": "The new policy will only affect spouses who can get coverage through their own jobs.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-22",
+      "link": "https://www.businessinsider.com/disney-spouse-healthcare-coverage-employee-benefits-2026-8"
+    },
     {
       "id": "3c303df8-2d23-81a6-b277-c772c790b508",
       "title": "Over one million people have clicked LinkedIn’s AI slop button",
@@ -368,38 +400,6 @@
       "source": "CNBC Tech",
       "publishTime": "2026-08-21",
       "link": "https://www.cnbc.com/2026/08/21/4-memory-stocks-are-darlings-of-the-ai-boom-how-they-differ-and-why-we-own-micron.html"
-    },
-    {
-      "id": "3c303df8-2d23-8136-a281-cd3ca46ba0c2",
-      "title": "微信灰度测试“按住转文字”新功能引热议：苹果 iOS 及安卓用户率先体验，鸿蒙用户仍需等待",
-      "summary": "IT之家 8 月 21 日消息，微信 iOS 平台今日迎来了 8.0.76 正式版更新。根据用户反馈，微信 iOS 更新 8.0.76 版本后，全新“深色”图标已经上线。除此之外，微信近期还灰度测试了一项名为“按住转文字”的聊天输入框新功能，但根据用户反馈，目前该功能的识别率不如录入语音后转文字。如图所示，该功能将原本独立的麦克风按钮整合进输入框，用户长按输入框即可直接进行语音输入并实时转为文字。相关话题今日登上微博热搜，引发广泛讨论。此次调整的核心在于，将输入框右侧的麦克风按钮取消，改为在输入框内显示灰色的“可按住转文字”提示文字。用户只需长按输入框区域说话，松开手指后，语音便会自动转换成文",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/874.htm"
-    },
-    {
-      "id": "3c303df8-2d23-8103-a0c4-c059a8b1048b",
-      "title": "金标联盟要求开发者适配 Android 导航条，10 月末前未完成将被小米、荣耀、OPPO、vivo 应用市场打标",
-      "summary": "IT之家 8 月 21 日消息，移动智能终端生态联盟（ITGSA）今日发布公告，邀请各大开发者评估“谷歌 Android 导航条适配”计划。金标联盟在公告中表示，导航条几乎覆盖所有 App 界面包括高频交互场景（如直播页、评论页、转发页、搜索页、菜单页、对话框页等）。随着越来越多终端设备默认开启系统导航条，当前导航条 UI 背景色与 App 界面存在的反差与割裂感，已影响海量，并容易让用户产生 App 与系统界面不够精致的负面印象。而谷歌在 Android 系统的持续演进中，也已着重强调边缘到边缘（IT之家注：Edge-to-Edge）显示与窗口 insets 适配的规范，为整个生态的健康发展",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/876.htm"
-    },
-    {
-      "id": "3c303df8-2d23-81e7-b425-e237d18a1dee",
-      "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
-      "summary": "The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-21",
-      "link": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/"
-    },
-    {
-      "id": "3c303df8-2d23-81e7-b58b-f70450765561",
-      "title": "九州风神推出 CC350 4F 机箱：预装 4 把 120mm 风扇、兼容 240mm 水冷，179 元",
-      "summary": "IT之家 8 月 21 日消息，九州风神现已在京东上架 CC350 4F 风道机箱，定价为 179 元。该机箱尺寸为 363x208x395mm，支持 Mini-ITX、Micro-ATX、ATX 主板。机箱整体造型简洁，正面采用格栅设计，顶部提供 1 个 USB-A 3.0、2 个 USB-A 2.0、1 个 3.5mm 音频接口。该机箱 CPU 散热器限高 163mm、显卡限长 317mm、电源限长 180mm，机箱最多可安装 2 块 2.5 英寸硬盘，或 1 块 2.5 英寸硬盘 +1 块 3.5 英寸硬盘。机箱预装 4 把 120mm ARGB 风扇，整机最多可安装 8 把风扇，机箱顶",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/873.htm"
     }
   ],
   "macroEvents": [
