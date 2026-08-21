@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-08-22 03:46",
+  "updatedAt": "2026-08-22 04:48",
   "news": [
+    {
+      "id": "3c303df8-2d23-81a4-a30c-fafd58ce3d8b",
+      "title": "Devoted Health is raising a new round of funding at a $25 billion valuation",
+      "summary": "Devoted Health, co-founded by Ed and Todd Park, is raising a round that might value it at $25B, spotlighting the booming Medicare Advantage sector.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-22",
+      "link": "https://www.businessinsider.com/healthcare-startup-devoted-health-could-be-valued-at-25-billion-2026-8"
+    },
+    {
+      "id": "3c303df8-2d23-816d-a051-de1c92a51c02",
+      "title": "These smartphones on soldiers' chests are becoming an important tool in the US Army's plans for a high-tech fight",
+      "summary": "At a recent exercise, US Army troops tested new systems for plotting out locations and communicating with each other on these End User Devices.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-22",
+      "link": "https://www.businessinsider.com/soldiers-are-using-chest-mounted-smartphones-for-mapping-communications-2026-8"
+    },
+    {
+      "id": "3c303df8-2d23-8190-8789-dc3b21ac4b81",
+      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+      "summary": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-22",
+      "link": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/"
+    },
+    {
+      "id": "3c303df8-2d23-81f5-853f-e50df75d3af4",
+      "title": "Apple is laying off staffers working on the Vision Pro and Siri",
+      "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut. Apple said in a st",
+      "source": "The Verge",
+      "publishTime": "2026-08-22",
+      "link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri"
+    },
+    {
+      "id": "3c303df8-2d23-8151-818a-dd1d0fc375b0",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-22",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+    },
+    {
+      "id": "3c303df8-2d23-817d-9b58-c6cb0a2072c8",
+      "title": "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
+      "summary": "Tesla will voluntarily recall about 3 million of its vehicles in China to address doorhandle safety concerns and deficient driver monitoring systems.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-22",
+      "link": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html"
+    },
     {
       "id": "3c303df8-2d23-81b8-871a-ca29216d4c18",
       "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
@@ -352,54 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-21",
       "link": "https://www.ithome.com/0/992/869.htm"
-    },
-    {
-      "id": "3c303df8-2d23-81a8-b2f9-ed8065b7a163",
-      "title": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
-      "summary": "IT之家 8 月 21 日消息，据 Tom's Hardware 今日报道，VDURA 闪存波动指数 8 月更新数据显示，企业级固态硬盘（eSSD）与机械硬盘（HDD）之间的价格差距已扩大至历史极值。一块 30TB TLC 企业级 SSD 当前价格已达 22,600 美元（IT之家注：现汇率约合 15.2 万元人民币），较 2025 年第三季度的 3,460 美元（现汇率约合 23,318 元人民币）上涨约 6.5 倍；而同等容量的机械硬盘价格为 1,216 美元（现汇率约合 8,195 元人民币）。据此计算，SSD 每 TB 单价是机械硬盘的 18.6 倍。VDURA 数据显示，30TB T",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/868.htm"
-    },
-    {
-      "id": "3c303df8-2d23-818e-83da-ce9729c3a3ea",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-21",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-    },
-    {
-      "id": "3c303df8-2d23-8196-8739-d68ca6569451",
-      "title": "OpenAI’s training pause is convenient. That doesn't make it meaningless.",
-      "summary": "OpenAI's training pause by CEO Sam Altman after Hugging Face hacking highlights AI safety and cybersecurity issues.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-21",
-      "link": "https://www.businessinsider.com/openai-training-pause-highlights-ai-safety-challenges-2026-8"
-    },
-    {
-      "id": "3c303df8-2d23-819a-a895-ef83ed9f81d1",
-      "title": "The states where public school students get the most and least teacher attention, ranked",
-      "summary": "States like Arizona, California, and Florida, all with seven-figure student populations, have among the highest student-to-teacher ratios in the US.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-21",
-      "link": "https://www.businessinsider.com/us-states-with-highest-lowest-students-teacher-ratio-ranked-2026-8"
-    },
-    {
-      "id": "3c303df8-2d23-8164-a3af-ecacff111a90",
-      "title": "I spent a year driving across the US in an RV. These were 7 of my favorite places — and the 2 I'd skip next time.",
-      "summary": "Sarah Silbiger took a yearlong sabbatical traveling around the US. Most of her favorite spots weren't national parks, but rather national monuments.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-21",
-      "link": "https://www.businessinsider.com/van-lifer-favorite-road-trip-spots-and-skip-2026-8"
-    },
-    {
-      "id": "3c303df8-2d23-81e7-9fba-e8e4e5f6c730",
-      "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
-      "summary": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-21",
-      "link": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/"
     }
   ],
   "macroEvents": [
