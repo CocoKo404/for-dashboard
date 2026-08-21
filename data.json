@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-22 01:00",
+  "updatedAt": "2026-08-22 01:55",
   "news": [
+    {
+      "id": "3c303df8-2d23-81a4-a515-f46c0d712156",
+      "title": "After living in California for decades, I finally found the perfect place to visit for an unforgettable weekend getaway.",
+      "summary": "I grew up in California. As a local, my favorite destination for a weekend trip is the small city of Ojai, not far from LA. Here's what to do there.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-22",
+      "link": "https://www.businessinsider.com/california-favorite-destination-weekend-trip-lesser-known-city-ojai-local-2026-8"
+    },
+    {
+      "id": "3c303df8-2d23-816b-9001-d33752c3b1df",
+      "title": "ChatGPT has entered the group chat. Texters have…feelings about it.",
+      "summary": "OpenAI launched a plug-in that lets ChatGPT draft and send text messages on a Mac. The feature drew immediate backlash.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-22",
+      "link": "https://www.businessinsider.com/chatgpt-text-messages-imessage-mac-plugin-reaction-2026-8"
+    },
+    {
+      "id": "3c303df8-2d23-8183-9f81-d5598d794c2b",
+      "title": "What's happening with the national debt — and how it could affect your wallet",
+      "summary": "America's national debt rose to over $40 trillion this week, and it might mean your mortgage or auto loans could get more expensive.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-22",
+      "link": "https://www.businessinsider.com/us-debt-reaches-40-trillion-what-means-mortgage-loans-2026-8"
+    },
+    {
+      "id": "3c303df8-2d23-813c-8559-d32050b1b6b0",
+      "title": "Walmart is finally adding Apple Pay and Google Pay",
+      "summary": "Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday, Walmart says it's going to bring tap-to-pay capabilities to \"select\" Walmart and Sam's Club locations starting August 24th, before rolling out support to all US stores by the end of 2026 and",
+      "source": "The Verge",
+      "publishTime": "2026-08-22",
+      "link": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch"
+    },
+    {
+      "id": "3c303df8-2d23-8153-abd3-f1e29f49d06d",
+      "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a y",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-22",
+      "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/"
+    },
+    {
+      "id": "3c303df8-2d23-8124-b6ec-f6febbc6a146",
+      "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
+      "summary": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the subpoenas, filed on Thursday, Take-Two says copyrighted material includes \"audiovisual content, ",
+      "source": "The Verge",
+      "publishTime": "2026-08-22",
+      "link": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed"
+    },
+    {
+      "id": "3c303df8-2d23-81e7-9e33-c5673bac80de",
+      "title": "Pixel 11 gets in on the digicam trend",
+      "summary": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a phone in years. That might be changing, though. […]",
+      "source": "The Verge",
+      "publishTime": "2026-08-22",
+      "link": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend"
+    },
+    {
+      "id": "3c303df8-2d23-818c-891e-d9e0993e6bea",
+      "title": "Tech tries a new message: You'd love data centers if China wasn't making you hate data centers",
+      "summary": "There are lots of reasons Americans overwhelmingly oppose data centers. But for some tech types, it's just easier to blame China.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-22",
+      "link": "https://www.businessinsider.com/china-data-center-ai-backlash-tech-messaging-2026-8"
+    },
+    {
+      "id": "3c303df8-2d23-818a-ae15-ee631abda9c1",
+      "title": "I moved to Japan with one suitcase and a carry-on. There are 3 things I'm glad I packed — and a few I wish I'd brought.",
+      "summary": "When I moved to Japan for a year, I just packed a suitcase and carry-on. There are a few things, like deodorant, that I wish I'd brought from home.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-22",
+      "link": "https://www.businessinsider.com/moving-to-japan-packing-list-mistakes-what-to-bring-2026-8"
+    },
     {
       "id": "3c303df8-2d23-819c-b0e0-f02e90753e7a",
       "title": "WPP seeks to seal 'highly confidential and sensitive' client information from lawsuit with former exec",
@@ -328,78 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-08-21",
       "link": "https://www.businessinsider.com/best-things-buy-trader-joes-professional-chef-2026-8"
-    },
-    {
-      "id": "3c303df8-2d23-81bd-9916-fddc72582f7b",
-      "title": "vivo 海外新机 V80 Lite 公布，10000mAh 大电池",
-      "summary": "IT之家 8 月 21 日消息，vivo 现已在 Instagram 社交平台公布 V80 Lite 手机，新机主打 10000mAh 大电池，9 月 3 日在马来西亚发布。据介绍，这款手机将搭载一块容量高达 10000mAh 的电池，提供黑色、绿色和粉色三种配色，采用直角边框，粉色还将使用渐变后盖设计。同时，这款手机将配备方形后置摄像头模组，拥有 5000 万像素后置主摄。值得注意的是，本周早些时候在印度曝光的 vivo V80 Lite 预热视频显示，该机采用曲面屏设计，这意味着印度版 vivo V80 Lite 可能是 vivo S2 换标版本。",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/862.htm"
-    },
-    {
-      "id": "3c303df8-2d23-81d7-b6ba-c5cb5a606d94",
-      "title": "Blue Eye Samurai’s second season will hit Netflix in January",
-      "summary": "Good news for Blue Eye Samurai fans: Netflix has shared the first trailer and release timeline for the second season of the animated series, and confirmed the series' return for a third and final season. The second season's new teaser ends with the announcement that it'll be available to stream on N",
-      "source": "The Verge",
-      "publishTime": "2026-08-21",
-      "link": "https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal"
-    },
-    {
-      "id": "3c303df8-2d23-813d-8c17-f415cc6d0ec4",
-      "title": "产品涨价最高 25%：美国政府退税后罗技没退，罗技被消费者集体起诉",
-      "summary": "IT之家 8 月 21 日消息，当地时间 8 月 18 日，美国律师事务所 Cotchett, Pitre & McCarthy LLP（CPM）在加利福尼亚州北区联邦地区法院圣何塞分院提起集体诉讼，将罗技（Logitech）告上法庭。原告代表美国消费者，指控罗技在 2025 年以上调关税为理由涨价最高 25%，并在相关关税被美国最高法院裁定违法、政府向企业退款后，没有将消费者此前承担的相关成本退还给消费者。诉状显示，罗技在 2025 年 4 月提高了美国市场至少一半产品的零售价，平均涨幅约 14%，部分产品涨幅最高达到 25%。例如，MX Master 3S 鼠标价格从 99.99 美元（现",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/861.htm"
-    },
-    {
-      "id": "3c303df8-2d23-81de-91c9-d113a0b99354",
-      "title": "MrBeast tapped a new studio leader after Corie Henson's departure",
-      "summary": "Justin Killion was named interim head of Beast Channels, which encompasses YouTuber's Jimmy Donaldson's main channel as well as its gaming vertical.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-21",
-      "link": "https://www.businessinsider.com/mrbeast-new-studio-head-justin-killion-2026-8"
-    },
-    {
-      "id": "3c303df8-2d23-81bf-9169-c804f5b5819a",
-      "title": "微软为 Win10/Win11 新版 Outlook 添加经典主题，提升使用体验",
-      "summary": "IT之家 8 月 21 日消息，据科技媒体 neowin 今天报道，尽管新版 Outlook 用户反馈相对冷淡，但微软仍在努力推动用户转型。如今微软准备为新版 Outlook 加入经典版主题，帮助旧版用户顺利过渡。IT之家从原报道获悉，微软将为 Win10/Win11 的新版 Outlook 和网页版 Outlook 添加经典主题，开启后应用的图标、视觉样式、字体和布局将更接近经典版。微软表示，用户可在“设置 --> 常规-- > 外观”中找到经典版开启选项。该设置不会覆盖现有的迁移配置或邮箱数据，它只会通过调整视觉风格，让刚从经典版 Outlook 切换过来的用户感觉新版 Outlook 更",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/860.htm"
-    },
-    {
-      "id": "3c303df8-2d23-8139-b481-c19a3306864d",
-      "title": "Senator asks US government watchdog to review how feds use hacking tools",
-      "summary": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-21",
-      "link": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/"
-    },
-    {
-      "id": "3c303df8-2d23-81b4-9677-fc47cd561ff6",
-      "title": "腾讯 QQ 鸿蒙版 App 获 9.2.60 邀测升级，好友聊天支持发送闪照",
-      "summary": "IT之家 8 月 21 日消息，QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）开启 9.2.60 (3362) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/8/21-2026/9/16。IT之家附 QQ 鸿蒙版 App 本次测试版本新特性如下：1、好友聊天支持发送闪照。2、新增支持空友爱看。3、空间动态支持收藏。4、扫一扫支持转文字。5、新增支持精选照片、匿问我答。6、新增支持手机联系人加好友。7、视频支持静音播放。8、新增支持群聊消息表情回应。9、新增支持首页下拉小程序。10、频道支持图片和视频发帖。11、新增收款码、群收款和转账功能。另外，Q",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/851.htm"
-    },
-    {
-      "id": "3c303df8-2d23-8107-bbe8-c49c7686ad9e",
-      "title": "开源鸿蒙 OpenHarmony 7.0 Release 发布，新增展锐 P7885 开发板支持",
-      "summary": "IT之家 8 月 21 日消息，开源鸿蒙（OpenHarmony）7.0 Release 版本的代码已经上传到 GitCode 仓库。根据官方发行说明，该版本在 Beta1 的基础上进一步增强了应用开发能力，系统层面新增支持展锐 P7885 芯片开发板，应用框架与媒体领域亦迎来多项功能扩展。系统方面，OpenHarmony 7.0 Release 新增支持“展锐 P7885 芯片开发板”，支持 5G 蜂窝通信、统一渲染、GNSS 卫星状态信息上报（可识别 GPS、北斗、GLONASS 等）、星闪 SLE 1.0 配对连接与数据传输，并板载适配加速度计、陀螺仪等 6 类传感器及标准 PCI-E ",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/849.htm"
-    },
-    {
-      "id": "3c303df8-2d23-810b-954b-d43631f86796",
-      "title": "单天线覆盖八个频段：华为宣布联合沙特 stc 完成全球首个 MB² 微波方案商用部署",
-      "summary": "IT之家 8 月 21 日消息，华为官方今日宣布，当地时间 8 月 21 日，沙特 stc 与华为在沙特阿拉伯利雅得完成全球首个多频多波束（MB²）微波解决方案的商用部署。该方案标志着全球微波回传技术正式进入多频、多方向的新阶段。MB² 方案的核心在于其高度集成的天线设计。单个 MB² 天线可同时支持 13GHz、15GHz、18GHz、23GHz、26GHz、28GHz、32GHz、38GHz 这八个微波频段，并能够实现 10 个波束并发。相较于传统方案，所需天线数量最高可减少 90%。这一特性为运营商带来了显著的成本与部署优势。天线数量的减少大幅节约了宝贵的铁塔空间并降低了承重要求，从而减",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/848.htm"
     }
   ],
   "macroEvents": [
