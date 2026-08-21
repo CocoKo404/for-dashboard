@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-08-21 19:51",
+  "updatedAt": "2026-08-21 21:24",
   "news": [
+    {
+      "id": "3c303df8-2d23-818f-82f3-c8c692a8a097",
+      "title": "GitHub 通报 8 月 17 日大规模宕机事件原因：基础设施容量未能跟上平台使用量的快速增长",
+      "summary": "IT之家 8 月 21 日消息，GitHub 现已公布 8 月 17 日平台大规模宕机事件的调查结果，确认此次事故并非由程序代码或配置变更引起，而是“基础设施容量未能跟上平台使用量的快速增长”。本次大规模宕机合计造成 GitHub 网站、身份验证、GitHub Actions、API、Pull Request、Issues 等多项服务中断 7 小时 47 分钟。GitHub 表示，当日平台流量创下历史新高后，导致美国中部数据中心的一项关键基础设施组件容量不足，进而令压力扩散至其他系统，导致身份验证失败以及多项服务异常。在恢复过程中，部分服务又因为错误触发客户端重试机制，进一步增加系统流量，因此",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/844.htm"
+    },
+    {
+      "id": "3c303df8-2d23-814e-b942-f84831423a8a",
+      "title": "NASA's Voyager probes have traveled through space for nearly 50 years. See the remarkable photos from their journeys.",
+      "summary": "NASA's Voyager 2 is now 49 years old. The probe is more than 13.2 billion miles from Earth, having crossed into interstellar space in 2018.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-21",
+      "link": "https://www.businessinsider.com/nasa-voyager-probes-see-best-photos-space-exploration-2025-08"
+    },
+    {
+      "id": "3c303df8-2d23-818a-a199-cdfb4b5ad786",
+      "title": "国产 NAND 龙头长江存储冲刺科创板：IPO 审核状态变更为已受理，拟融资 330 亿元",
+      "summary": "IT之家 8 月 21 日消息，上海证券交易所网站显示，长江存储控股股份有限公司（IT之家下称“长江存储”）首次公开发行股票并在科创板上市的 IPO 审核状态已变更为“已受理”。公司拟融资金额为 330 亿元，保荐机构为中信证券和中信建投。此前 8 月 19 日，长江存储 IPO 辅导状态刚由证监会官网公示变更为“辅导验收”。中信证券与中信建投于当日签署了《辅导工作完成报告》。公司于 2026 年 5 月 19 日在湖北证监局完成 IPO 辅导备案登记，至验收通过全程约三个月，创下半导体企业 IPO 辅导速度纪录。招股书显示，长江存储自 2024 年扭亏后盈利水平快速提升，2026 年 1-3",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/843.htm"
+    },
+    {
+      "id": "3c303df8-2d23-815a-b5da-c2b155b657c5",
+      "title": "长芯博创 2026 年半年度归母净利润 3.21 亿元，同比增长 91.08%",
+      "summary": "IT之家 8 月 21 日消息，长芯博创今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告：营业总收入：16.88 亿元，同比增长 40.72%归母净利润：3.21 亿元，同比增长 91.08%扣非净利润：3.15 亿元，同比增长 94.49%经营现金流：3.11 亿元，同比增长 4.57%加权平均净资产收益率：15.32%基本每股收益：1.1 元，同比增长 89.66%稀释每股收益：1.1 元，同比增长 89.66% AI 解读本次财报营业收入和净利润均大幅超出市场预期，归母净利润同比增速接近翻倍，增长表现亮眼。财报亮点2026 年上半年，公司实现营业收入 16.",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/842.htm"
+    },
+    {
+      "id": "3c303df8-2d23-81c0-b4d9-c9b65f207161",
+      "title": "《寂静岭：Townfall》在主机平台将由 PS5 独占至少半年，后续再登陆 XBOX",
+      "summary": "IT之家 8 月 21 日消息，科乐美在旗下《Silent Hill：Townfall（寂静岭：Townfall）》游戏实机演示中透露本作在主机平台将由 PS5 独占至少半年（本作将于 9 月 24 日登陆 PC 和 PS5），后续再登录 XBOX 平台。作为参考，科乐美的《寂静岭 2：重制版》最初于 2024 年 10 月 8 日登陆 PC 和 PS5 平台，直到 2025 年 11 月才登陆 XBOX Series X｜S。具体价格方面，本作在索尼 PSN 港服标准版 348 港币，豪华版 428 港币，预购奖励为“CRTV 风格：生锈”。豪华版除了游戏本体外，还包括 48 小时提前解锁、",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/840.htm"
+    },
+    {
+      "id": "3c303df8-2d23-8175-8529-e515be1ec5c4",
+      "title": "Tesla sunsets its Solar Roof tiles",
+      "summary": "Tesla has discontinued Solar Roof, its solar panels designed to look like regular roofing tiles, Electrek reports. Sources \"close to the program\" told the publication that Tesla has informed its third-party installer network that Solar Roof is no longer available to order, and that only conventional",
+      "source": "The Verge",
+      "publishTime": "2026-08-21",
+      "link": "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued"
+    },
+    {
+      "id": "3c303df8-2d23-81e2-b170-f6897c23a171",
+      "title": "东方甄选 2026 财年年报归母净利润 5.44 亿元，同比增长 9377.8%",
+      "summary": "IT之家 8 月 21 日消息，东方甄选今日发布 2026 财年（2025 年 6 月 1 日～2026 年 5 月 31 日）年报报告：营业总收入：57.01 亿元，同比增长 29.8%毛利润：20.39 亿元，同比增长 45.2%毛利率：35.8%归母净利润：5.44 亿元，同比增长 9377.8%经营现金流：8.02 亿元，同比增长 798.39%基本每股收益：0.52 元，同比增长 5100%稀释每股收益：0.51 元，同比增长 5000%资产负债率：19.1% AI 解读本次财报业绩大幅超出市场预期，营业收入、归母净利润均实现超预期高速增长，扭亏为盈成果显著。财报核心亮点营业收入达到",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/839.htm"
+    },
+    {
+      "id": "3c303df8-2d23-814c-b2cd-d536be6cfdae",
+      "title": "Counterpoint 预测 2026 年全球智能手机出货量下降 14.3%，三星、华为逆势增长",
+      "summary": "IT之家 8 月 21 日消息，受存储芯片供应短缺及成本上涨影响，Counterpoint Research 预测市场下行压力预计将持续至 2027 年，2028 年方能迎来复苏。Counterpoint Research 今日发布了最新《智能手机市场展望追踪报告》，预测 2026 年全球智能手机出货量将同比下降 14.3%，预计 2026 年第二季度主流手机使用的 LPDDR4 和 LPDDR5 价格较 2025 年第四季度增长约两倍，供应紧张局面可能持续至 2027 年下半年。成本压力正迫使厂商提高售价、削减低利润配置，并收缩产品线。各大厂商在此次下行周期中表现分化。三星电子凭借其垂直整合",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/838.htm"
+    },
+    {
+      "id": "3c303df8-2d23-81f2-89ea-c413610a482c",
+      "title": "创历史新高！我国 44 名专家斩获“IEC 1906 奖”",
+      "summary": "IT之家 8 月 21 日消息，据央视新闻今天报道，国际电工委员会（IEC）近期公布“IEC 1906 奖”获奖名单。我国共有 44 名专家荣膺该奖项，获奖人数创历史新高，再次彰显我国在国际电工标准化领域的技术实力与不断攀升的全球影响力。2026 年，全球共有来自 26 个国家的 231 名专家获得该奖，我国获奖人数占获奖总人数的 19%。我国的 44 位获奖专家来自 33 个领域，这些领域与国家“十五五”规划战略方向高度协同。其中，新型电力系统与新能源领域占比约 32%，覆盖电力系统运行与控制、特高压直流输电、柔性输电与电力电子、太阳能光热发电与光伏、电化学储能、抽水蓄能与水力发电、海洋能发",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/837.htm"
+    },
+    {
+      "id": "3c303df8-2d23-819f-b67f-e70971b6ff9c",
+      "title": "Ukraine is teaching NATO troops how ground robots work in war — and where they don't",
+      "summary": "Ukrainian troops receiving training through Norway-led Operation Legio are telling their trainers how robots work in real war.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-21",
+      "link": "https://www.businessinsider.com/ukraine-teaching-nato-troops-how-ground-robots-work-war-2026-8"
+    },
+    {
+      "id": "3c303df8-2d23-8116-bbec-c828e5532b3f",
+      "title": "I don't like to take the same trip twice. I made an exception to bring my kids to the Galápagos Islands.",
+      "summary": "I broke my biggest travel rule to take my kids somewhere I couldn't forget.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-21",
+      "link": "https://www.businessinsider.com/galapagos-islands-with-kids-teens-family-worth-second-trip-2026-8"
+    },
+    {
+      "id": "3c303df8-2d23-81f6-9fee-e51a1f2af606",
+      "title": "中国音数协游戏工委：7 月国内游戏市场实际销售收入同比增长 6.92%",
+      "summary": "IT之家 8 月 21 日消息，中国音数协游戏工委披露数据显示，2026 年 7 月，中国国内游戏市场实际销售收入为 310.98 亿元，环比增长 3.55%，同比增长 6.92%。IT之家附该报告主要数据如下：中国移动游戏市场实际销售收入 230.75 亿元，环比增长 2.58%，同比增长 8.03%；中国客户端游戏市场实际销售收入 68.64 亿元，环比增长 7.83%，同比增长 3.42%；中国自主研发游戏海外市场实际销售收入 20.12 亿美元（IT之家注：现汇率约合 135.6 亿元人民币），环比增长 2.16%，同比增长 18.86%。",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/836.htm"
+    },
+    {
+      "id": "3c303df8-2d23-814d-bb41-e29d26d5f444",
+      "title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+      "summary": "Pack up your pool cleaning supplies. Let one of these robot buddies maintain your water quality instead",
+      "source": "Wired",
+      "publishTime": "2026-08-21",
+      "link": "https://www.wired.com/story/best-pool-cleaning-robots/"
+    },
+    {
+      "id": "3c303df8-2d23-81a1-8203-ffca5de94ab7",
+      "title": "优派“VX27G60Z-2K-3”26.5 英寸显示器发售：2K 360Hz QD-OLED、内置电源，3499 元",
+      "summary": "IT之家 8 月 21 日消息，优派现已在京东上架“VX27G60Z-2K-3”26.5 英寸显示器，该机主打 2K 360Hz，定价为 3499 元。京东优派 VX27G60Z-2K-3 显示器 3499 元直达链接该机配备一块 2560x1440 分辨率 360Hz QD-OLED 面板，显示器 HDR 峰值亮度 1000 尼特，GtG 响应速度 0.03ms，显示器支持原生 10-Bit 色彩，覆盖 99% DCI-P3 色域。该机支架支持倾斜，显示器本体支持 VESA 100x100mm 壁挂，同时采用内置电源设计，提供 2 个 HDMI 2.1、2 个 DP 1.4、1 个 3.5m",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/834.htm"
+    },
     {
       "id": "3c303df8-2d23-8170-bf24-ee6341751a82",
       "title": "My cats hate each other, but this automatic feeder is helping",
@@ -8,6 +120,14 @@
       "source": "The Verge",
       "publishTime": "2026-08-21",
       "link": "https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies"
+    },
+    {
+      "id": "3c303df8-2d23-81b3-aa32-e4beb0d30086",
+      "title": "AGM 推出 PAD P3 Compact 三防小平板：8.68 英寸屏幕，联发科 Helio G99 芯片",
+      "summary": "IT之家 8 月 21 日消息，AGM 现已推出 PAD P3 Compact 三防小平板，新机专为户外工作场景设计，采用小屏设计，定价 279.99 美元（IT之家注：现汇率约合 1,887 元人民币）。据介绍，这款平板搭载一块 8.68 英寸屏幕，分辨率为 800*1340，支持 120Hz 高刷，最高亮度可达 600nits。规格方面，这款平板配备联发科 Helio G99 芯片，拥有 6GB 内存和 128GB 存储空间，支持 microSD 卡扩容，内置 7200mAh 电池，支持 18W 有线充电。机身背部配备一颗 5000 万像素主摄，还带有高亮度露营灯。同时，这款平板自带一条可",
+      "source": "IT之家",
+      "publishTime": "2026-08-21",
+      "link": "https://www.ithome.com/0/992/833.htm"
     },
     {
       "id": "3c303df8-2d23-81b2-8838-d2527b3a020a",
@@ -280,126 +400,6 @@
       "source": "少数派",
       "publishTime": "2026-08-21",
       "link": "https://sspai.com/post/113693"
-    },
-    {
-      "id": "3c303df8-2d23-8137-9c4f-e57853ba3c55",
-      "title": "OpenAI 回应 Codex 使用限制：sub2api 转售共享会触发风控",
-      "summary": "IT之家 8 月 21 日消息，OpenAI Codex&ChatGPT 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发文称，官方已经注意到关于 Codex 使用限额出现差异的反馈，并已经进行调查。蒂博表示，受影响的用户大部分都使用了 sub2api。官方并不支持将订阅服务转换为 API 流量，然后向大量用户分享的行为，此类行为会被 OpenAI 的防欺诈风控系统标记。如果用户是通过 Sign in With ChatGPT（使用 ChatGPT 登录）使用订阅，那么完全没问题。无论是通过官方客户端，还是通过支持 ChatGPT 的第三方开源客户端（IT之家",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/767.htm"
-    },
-    {
-      "id": "3c303df8-2d23-81d7-a378-e3cb6148cd66",
-      "title": "贝壳 2026 财年第二财季归母净利润 26.23 亿元，同比增长 100.8%",
-      "summary": "IT之家 8 月 21 日消息，贝壳今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第二财季（2026 年 4 月～2026 年 6 月）报告：营业总收入：245.39 亿元，同比下降 5.7%毛利润：70.14 亿元，同比增长 23.1%毛利率：28.6%归母净利润：26.23 亿元，同比增长 100.8%基本每股收益：0.81 元稀释每股收益：0.78 元AI 解读本次财报核心业绩表现符合市场预期，净利润同比翻倍增长，盈利能力显著改善。财报核心亮点总交易额达到 9338 亿元，同比增长 6.3%；其中存量房交易额 6299 亿元，同比增长 8%，新房交易额 2584",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/765.htm"
-    },
-    {
-      "id": "3c303df8-2d23-8196-9fad-e13057b8bb33",
-      "title": "The Super El Niño Won’t Fix the West’s Water Crisis",
-      "summary": "“People have talked about the Colorado River crisis for decades—we’re now in it,” says one expert. “Everyone you talk to is like, ‘Shit, man.’”",
-      "source": "Wired",
-      "publishTime": "2026-08-21",
-      "link": "https://www.wired.com/story/the-super-el-nino-wont-fix-the-wests-water-crisis/"
-    },
-    {
-      "id": "3c303df8-2d23-8184-90fd-d848f9954f10",
-      "title": "中兴通讯 2026 年半年度归母净利润 27.53 亿元，同比下降 45.57%",
-      "summary": "IT之家 8 月 21 日消息，中兴通讯今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告：营业总收入：780.25 亿元，同比增长 9.05%归母净利润：27.53 亿元，同比下降 45.57%扣非净利润：22.21 亿元，同比下降 45.89%经营现金流：-1.27 亿元，同比增长 109.74%加权平均净资产收益率：3.65%基本每股收益：0.58 元，同比下降 45.28%稀释每股收益：0.56 元，同比下降 47.17%资产负债率：67.94% AI 解读本次财报业绩符合市场预期，营业收入实现稳健增长，归母净利润受行业周期调整承压下滑。财报核心亮点实现营业",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/763.htm"
-    },
-    {
-      "id": "3c303df8-2d23-817b-8f15-e34a0bf14669",
-      "title": "The 2 underrated foods dietitians wish you would eat for better gut health and longevity",
-      "summary": "There's no single best food to improve your health, but dietitians shared 2 favorite high-fiber foods to boost gut health and help prevent disease.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-21",
-      "link": "https://www.businessinsider.com/2-foods-to-eat-more-better-gut-health-longevity-dietitians-2026-8"
-    },
-    {
-      "id": "3c303df8-2d23-8187-b841-ff103d6cf191",
-      "title": "市场监管总局：将具身智能机器人、固态动力电池等纳入质量强链二期攻关方向",
-      "summary": "IT之家 8 月 21 日消息，据界面新闻报道，市场监管总局今天上午召开“推进实施质量强链”专题新闻发布会。市场监管总局质量发展局副局长张蕾蕾在会上介绍称，在一期项目圆满收官的基础上，总局已系统谋划推进质量强链二期十大标志性项目。IT之家从原报道获悉，强链二期将在延续高端仪器仪表、新能源、工业机器人等重点领域的同时，拓展具身智能机器人、固态动力电池等新方向，并新增工业母机、无人机、先进合成生物制造等重点领域。谈及二期项目的布局考虑时，张蕾蕾表示，强链二期攻关方向坚持“三个一批”优化布局：延续一批高端仪器仪表、新能源、工业机器人等重点领域，持续深化攻关；拓展一批具身智能机器人、固态动力电池等新方",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/759.htm"
-    },
-    {
-      "id": "3c303df8-2d23-817f-9556-f54994252a7b",
-      "title": "消息称日本经产省将为支持 Rapidus 再编列 1500 亿日元预算",
-      "summary": "IT之家 8 月 21 日消息，据《日本经济新闻》和彭博社报道，日本经济产业省计划在其 2027 财年预算案中编列一笔 1,500 亿日元（IT之家注：现汇率约合 63.65 亿元人民币）的开支，以投资形式进一步支持该国先进半导体企业 Rapidus。考虑到 Rapidus 将其 2nm 逻辑工艺制程的量产时间定在 2027 财年，拟议中的新资金有望进一步夯实 Rapidus 迈向商业化的道路。相关阅读：《Rapidus 拟定 2nm 晶圆代工每片 300 万日元起，称定价不能输给台积电》《日本政府向半导体公司 Rapidus 追加出资 1500 亿日元，号称必须确保成功》《日本经济产业省向 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/760.htm"
-    },
-    {
-      "id": "3c303df8-2d23-8114-9af4-f7c055c63c12",
-      "title": "I'm a LinkedIn career expert. Skip 'doomjobbing' and do this instead.",
-      "summary": "LinkedIn career expert Catherine Fisher shares her advice for finding a job, including that searchers should be very specific when networking.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-21",
-      "link": "https://www.businessinsider.com/linkedin-career-expert-doomjobbing-strategic-job-search-2026-8"
-    },
-    {
-      "id": "3c303df8-2d23-81e8-baf4-f9229afde445",
-      "title": "The prediction markets are catching on with Wall Street interns",
-      "summary": "Morgan Stanley's equity research team found that more than a quarter of summer interns had used a prediction market in the past year.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-21",
-      "link": "https://www.businessinsider.com/morgan-stanley-wall-street-interns-survey-prediction-markets-kalshi-ai-2026-8"
-    },
-    {
-      "id": "3c303df8-2d23-8125-8b73-e2dbd295dd12",
-      "title": "Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More",
-      "summary": "From the best Dyson vacuum to the best wireless headphones and earbuds we’ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
-      "source": "Wired",
-      "publishTime": "2026-08-21",
-      "link": "https://www.wired.com/story/early-tech-labor-day-sales-2026/"
-    },
-    {
-      "id": "3c303df8-2d23-81d1-97f8-c279f6adf04e",
-      "title": "豪爵旅行者 TVL350 摩托车发布：最高车速 138km/h，28980 元起",
-      "summary": "IT之家 8 月 21 日消息，豪爵摩托今日宣布推出全新的旅行者 TVL350 车型，扶手版官方指导价 28980 元，箱杠版 29980 元，提供星璨黑、电光金属黑、星璨白、鎏光白、哑光星际灰、星璨黑等颜色可选。这款新车搭载豪爵自研发动机，最大功率 22.0kW，最大扭矩 32.2N.m，最高车速 138km/h；搭载博世直道 / 弯道 ABS（博世 IMU）+ 安斯泰莫 TCS 系统，拥有电动无级可调风挡、多重滤振悬挂、加长斜脚踏 + 专属腰托。豪爵旅行者 TVL350 配备 7 英寸 TFT 仪表，支持手机投屏导航、蓝牙接打电话、双人乘骑对讲、听音乐，并配有车联网、胎压监测等功能。新车支",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/758.htm"
-    },
-    {
-      "id": "3c303df8-2d23-819a-bc3c-d5842eb0a30b",
-      "title": "Under-eye patches aren’t just skincare anymore. Now, they're a flex.",
-      "summary": "Under-eye patches from brands like Topicals and Alo are redefining the anti-aging item as a new status symbol.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-21",
-      "link": "https://www.businessinsider.com/under-eye-patches-skincare-topicals-rhode-alo-2026-8"
-    },
-    {
-      "id": "3c303df8-2d23-818f-a635-e1133970121e",
-      "title": "A couple turned a blog into a 7-figure business in 8 years. They explain 4 ways to make money online.",
-      "summary": "\"With an online business, it's unlimited scalability because you're reaching the entire world,\" said Kelan Kline.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-21",
-      "link": "https://www.businessinsider.com/couple-built-seven-figure-business-how-to-make-money-online-2026-8"
-    },
-    {
-      "id": "3c303df8-2d23-81a8-b52c-ca084fc104bf",
-      "title": "狼蛛推出 F87S 三模机械键盘：“双”8kHz 回报率，259~299 元",
-      "summary": "IT之家 8 月 21 日消息，狼蛛 (AULA) 即将于今晚 20:00 发售 F87S 系列键盘。其采用 TKL (80%) 配列，右侧下部配备多功能铝合金旋钮，可选多种机械触点式轴体，支持三模连接，首发价 259~299 元。F87S 在 USB-C 和 2.4GHz 模式下原生支持 8kHz 回报率；内置的双 5000mAh 电池模块可提供长达 10000hr 的续航；具备 SOCD、MT、TGL、CB 等高级按键功能。其支持全键热插拔，内部采用 Gasket 结构，配备横向开槽 PC 定位板和 5 层阻尼填充；集成下灯位柔和 ARGB 背光，旋钮环绕以星环流光灯带，还拥有侧翼灯条。狼",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/757.htm"
-    },
-    {
-      "id": "3c303df8-2d23-8169-9dc9-f1bfdc2986b4",
-      "title": "新型安卓远程控制木马 Manic 现身，设备断网后可利用蓝牙或 Wi-Fi 中继窃取数据",
-      "summary": "IT之家 8 月 21 日消息，安全公司 ThreatFabric 发文，披露了一种名为 Manic 的新型远程控制木马，该木马能够远程控制安卓手机，窃取受害者设备上的银行账号密码。同时，其还具备在受感染设备之间中继数据的能力。当某部受感染手机被强制断网，无法连接至黑客架设的命令与控制（C2）服务器时，相应木马会将受害者手机上的数据通过 Wi-Fi 或蓝牙发送给附近的其他感染设备。这意味着即使是受害者意识到不对劲，强制给手机断网后，黑客仍然有可能成功窃取用户财产。具体来看，该木马主要通过钓鱼 App 传播，当用户被骗，授予 Manic 无障碍服务和通知访问权限后，该木马即可记录设备上的密码、通",
-      "source": "IT之家",
-      "publishTime": "2026-08-21",
-      "link": "https://www.ithome.com/0/992/756.htm"
     }
   ],
   "macroEvents": [
