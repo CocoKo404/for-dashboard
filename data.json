@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-08-23 00:48",
+  "updatedAt": "2026-08-23 01:44",
   "news": [
+    {
+      "id": "3c403df8-2d23-815b-9e37-d9ef7c43fb15",
+      "title": "Doodle generative compositions in your browser with Musical Spirograph",
+      "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash ",
+      "source": "The Verge",
+      "publishTime": "2026-08-23",
+      "link": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition"
+    },
+    {
+      "id": "3c403df8-2d23-81df-8382-f8c1e040f15b",
+      "title": "My friend is 21 years younger. I wanted her skin; she wanted my perspective.",
+      "summary": "An unexpected intergenerational friendship made me confront my jealousy of youth and realize there was plenty my younger friend admired about my life, too.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-23",
+      "link": "https://www.businessinsider.com/younger-friend-helped-me-embrace-aging-2026-8"
+    },
+    {
+      "id": "3c403df8-2d23-8182-bfb7-e922a238d140",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-23",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+    },
+    {
+      "id": "3c403df8-2d23-814d-bcc2-e8ac753086b6",
+      "title": "Inside Germany's roughly $14 billion plan to deter Russia with a new arsenal of deep-strike missiles",
+      "summary": "Germany is planning a new long-range strike arsenal of cruise missiles, Tomahawks, and future hypersonic weapons to help deter Russia.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-23",
+      "link": "https://www.businessinsider.com/inside-germanys-plan-to-deter-russia-2026-8"
+    },
+    {
+      "id": "3c403df8-2d23-8148-93b5-ed00951a592c",
+      "title": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
+      "summary": "IT之家 8 月 23 日消息，当地时间 8 月 21 日，印度马哈拉施特拉邦钱德拉普尔地区发生一起悲剧事件。据当地警方通报，一名青年男子因购买手机的问题与父母发生争执，然后前往当地的 Khavdya Dongar 山，并站在悬崖边试图轻生，以此威胁父母。家人、村民、警方和消防人员持续劝阻约 3 小时未果，最终男子还是坠崖，父亲在试图施救时一同坠下，母亲随后也从悬崖跳下，三人均不幸身亡。警方确认，死者包括 Kunal Chandwade、其父亲 Murlidhar 和母亲 Sangita。IT之家注意到，不同媒体对 Kunal 年龄的报道存在差异，PTI 及部分当地媒体称为 19 岁，而《印度",
+      "source": "IT之家",
+      "publishTime": "2026-08-23",
+      "link": "https://www.ithome.com/0/993/119.htm"
+    },
     {
       "id": "3c403df8-2d23-8187-95f6-e0e9ba115536",
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
@@ -360,46 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-22",
       "link": "https://www.ithome.com/0/993/090.htm"
-    },
-    {
-      "id": "3c403df8-2d23-81f2-98fc-c8487fec46da",
-      "title": "微软谈老 Windows 自带游戏《三维弹球》为何删了：我们没法花好几天研究代码",
-      "summary": "IT之家 8 月 22 日消息，据科技媒体 Windows Latest 今天报道，微软曾经在 Win2K、WinXP 等经典系统中预装《三维弹球》游戏。但随着 Windows Vista 发布，这款游戏最终被删除。多年来，人们一直以为这款游戏被删与法律问题有关。但根据微软资深工程师 Raymond Chen 解释，这款游戏消失的原因其实远没有复杂。据悉，微软团队曾在开发 Windows XP 64 位时，将数百万行 32 位代码进行 64 位移植。当工作推进到《三维弹球》时，一个非常奇怪的 Bug 出现了：游戏开始后，弹球会正常落入发射器，随后它直接穿过弹簧，从球桌底部掉出去，导致游戏完全无",
-      "source": "IT之家",
-      "publishTime": "2026-08-22",
-      "link": "https://www.ithome.com/0/993/089.htm"
-    },
-    {
-      "id": "3c403df8-2d23-8124-a5dc-e27e03b3001e",
-      "title": "WordPress 扩展 W3 Total Cache 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件",
-      "summary": "IT之家 8 月 22 日消息，安全研究机构 WPScan 发文，透露 WordPress 一款拥有超过 90 万活跃安装量的扩展 W3 Total Cache 存在严重安全漏洞，该漏洞编号为 CVE-2026-18051，CVSS 评分达到满分 10.0 分。IT之家参考通报获悉，该漏洞源于 W3 Total Cache 在处理缓存文件路径时存在缺陷，没有将文件路径限制在指定目录范围内，导致攻击者可以将文件写入服务器上的任意现有目录，包括网站根目录之外的位置。这意味着攻击者可能借助漏洞修改服务器上的其他文件，进一步扩大攻击影响范围。如果网站运行在 Apache 服务器上，该漏洞还可能被用于覆",
-      "source": "IT之家",
-      "publishTime": "2026-08-22",
-      "link": "https://www.ithome.com/0/993/088.htm"
-    },
-    {
-      "id": "3c403df8-2d23-812e-ab08-eb480e7a6fdd",
-      "title": "1899 元起荣耀 Play11 Pro 手机开售：7000mAh 电池，6.6 英寸 1.5K 120Hz 屏幕",
-      "summary": "IT之家 8 月 22 日消息，荣耀 Play11 Pro 手机现已正式开售，官网暂未上架，京东提供三个存储版本，IT之家汇总如下：8+128GB 版本首发 1899 元，叠加国补后 1614.15 元8+256GB 版本首发 2099 元，叠加国补后 1682.15 元12+256GB 版本首发 2399 元，叠加国补后 1911.65 元京东荣耀 Play11 Pro 5G AI 手机 8+128 揽月银券后 1899 元领 100 元券2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8",
-      "source": "IT之家",
-      "publishTime": "2026-08-22",
-      "link": "https://www.ithome.com/0/993/087.htm"
-    },
-    {
-      "id": "3c403df8-2d23-81d2-ab4c-d1dd740284db",
-      "title": "Two great new repairable gadgets",
-      "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've been getting back into the Installer groove, trying out some ",
-      "source": "The Verge",
-      "publishTime": "2026-08-22",
-      "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2"
-    },
-    {
-      "id": "3c403df8-2d23-815a-95da-c33db8c2f31e",
-      "title": "I took a cruise with my mom and aunt. I loved it, but I made 3 mistakes.",
-      "summary": "I took a seven-night cruise around Spain with my mom and aunt. The trip was unforgettable, but I'd change how we handled rooms, transportation, and planning.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-22",
-      "link": "https://www.businessinsider.com/multigenerational-cruise-travel-mistakes-2026-8"
     }
   ],
   "macroEvents": [
