@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-08-24 02:56",
+  "updatedAt": "2026-08-24 03:44",
   "news": [
+    {
+      "id": "3c503df8-2d23-81f4-82d1-d517b6ab3f6a",
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-24",
+      "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/"
+    },
+    {
+      "id": "3c503df8-2d23-81e7-b7fe-db6707955f44",
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year",
+      "source": "The Verge",
+      "publishTime": "2026-08-24",
+      "link": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games"
+    },
+    {
+      "id": "3c503df8-2d23-819b-9729-ea7bb0ab52da",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-24",
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
+    },
+    {
+      "id": "3c503df8-2d23-8167-a3c6-f73c35139462",
+      "title": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
+      "summary": "Hugging Face, an AI developer platform, has been exploring a potential $13 billion sale, highlighting its key role in the AI ecosystem.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-24",
+      "link": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8"
+    },
     {
       "id": "3c503df8-2d23-81b5-9be2-fb06eeae69e8",
       "title": "Texas Gov. Greg Abbott says data centers deserve the backlash they're getting: 'They basically dug their own grave'",
@@ -368,38 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-23",
       "link": "https://www.ithome.com/0/993/261.htm"
-    },
-    {
-      "id": "3c503df8-2d23-81de-9a41-cb356a7d8591",
-      "title": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph",
-      "summary": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-23",
-      "link": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html"
-    },
-    {
-      "id": "3c503df8-2d23-817c-983f-dbe9ff264c1d",
-      "title": "I created a viral AI watermark remover. I wasn't ready for all the attention.",
-      "summary": "A tech entrepreneur developed an open-source project to remove AI watermarks, challenging Anthropic's watermark plan.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-23",
-      "link": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8"
-    },
-    {
-      "id": "3c503df8-2d23-8161-96cf-ee60f6e3cb9a",
-      "title": "挪威呼吁校园内禁止使用 AI 眼镜",
-      "summary": "IT之家 8 月 23 日消息，据 CCTV 国际时讯援引挪威广播公司报道，挪威负责中小学教育及幼教事务的大臣卡丽 · 内萨 · 诺尔敦当地时间 8 月 22 日呼吁，挪威各地方政府和学校应通过学校规章制度，禁止在校园内使用 AI 眼镜。据悉，挪威政府目前限制在学校场景下使用 AI，要求小学 1 至 7 年级学生原则上不应使用生成式 AI；初中阶段则“应逐步、谨慎地引入生成式 AI”。延伸阅读据IT之家了解，早在 2026 年 6 月，挪威政府就已宣布，从 8 月下旬新学期开始，在小学（1-7 年级，6-13 岁）全面禁止使用生成式 AI 工具，并计划通过立法要求学校提供更多实体教材。挪威首相",
-      "source": "IT之家",
-      "publishTime": "2026-08-23",
-      "link": "https://www.ithome.com/0/993/260.htm"
-    },
-    {
-      "id": "3c503df8-2d23-8168-93c7-c1b75b03e006",
-      "title": "诺亦腾机器人发布 HiPHI，开源 617.5 小时高精度人体运动数据",
-      "summary": "IT之家 8 月 23 日消息，诺亦腾机器人在 2026 世界机器人大会期间发布 HiPHI，这是一套面向人形机器人学习、数字人，以及计算机图形学领域研究人员和工程师的高精度光学动作捕捉数据集。据报道，该数据集总长 617.5 小时，内含 371.8 小时的全身人体运动数据，以及 245.7 小时的人 — 物交互数据，含左右镜像。数据源来自 132 名动捕演员，以 90 Hz 频率、亚毫米级光学动捕精度完成采集，并依据 FrameNet 对人类动作语义的组织框架，以动作单元进行结构化整理。IT之家注意到，该数据集目前已在 Hugging Face 平台公开上线，提供文档、论文等，基于 HiPH",
-      "source": "IT之家",
-      "publishTime": "2026-08-23",
-      "link": "https://www.ithome.com/0/993/258.htm"
     }
   ],
   "macroEvents": [
