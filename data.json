@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-23 16:56",
+  "updatedAt": "2026-08-23 17:51",
   "news": [
+    {
+      "id": "3c503df8-2d23-813c-a45b-c08c5f8dd00b",
+      "title": "美国造车新势力 Rivian CEO 斯卡林格：我们将直接影响大众下一代电车",
+      "summary": "IT之家 8 月 23 日消息，美国造车新势力 Rivian 创始人兼 CEO RJ· 斯卡林格日前接受英媒《Auto Express》采访，披露了 Rivian 与大众汽车集团总额 45 亿英镑（IT之家注：现汇率约合 413.34 亿元人民币）合资项目的更多细节。双方开发的技术将直接影响大众汽车集团下一代电动汽车。Rivian 与大众汽车集团于 2024 年宣布合作，并共同成立 RV Tech。合资公司将 Rivian 在软件和电子硬件领域的技术优势，与大众汽车集团庞大的全球业务规模结合起来，为未来电动汽车开发新的核心技术。双方正以 Rivian 现有技术为基础，共同开发更加灵活、精简的区",
+      "source": "IT之家",
+      "publishTime": "2026-08-23",
+      "link": "https://www.ithome.com/0/993/236.htm"
+    },
+    {
+      "id": "3c503df8-2d23-8168-ba0c-d616273baca0",
+      "title": "OpenAI Codex 明天重置额度，并修复近期出现的用量消耗快问题",
+      "summary": "IT之家 8 月 23 日消息，OpenAI Codex & ChatGPT 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发文，回应近期网友提出的用量消耗过快问题，并将在明天为所有 Codex 订阅用户重置额度。据蒂博所述，他们目前发现了三个影响用量计算的问题：a：在长时间会话中使用图片并进行多次上下文压缩（compaction）时，存在效率问题；b：计算机历史记录（Computer History）的 P95 及上分位数使用量较高；c：原本用于生成对话标题的某项功能，消耗使用量比预期稍多。OpenAI 现已组建专项团队排查上述问题，并计划明天推出修复措施。",
+      "source": "IT之家",
+      "publishTime": "2026-08-23",
+      "link": "https://www.ithome.com/0/993/235.htm"
+    },
+    {
+      "id": "3c503df8-2d23-81ff-ae8b-e10c814e5467",
+      "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹",
+      "summary": "IT之家 8 月 23 日消息，据外媒 TechCrunch 报道，当地时间 20 日，皮尤研究中心发布的一项研究显示，自 2022 年 11 月 ChatGPT 问世后发布的网页中，超过三分之一可能带有 AI 生成痕迹。这一结果与其他研究相互印证，表明近年来新增的大量网页已经由 AI 直接生成，或经过了 AI 的“魔改”。就在这一研究发布前不久，互联网基础设施服务商 Cloudflare 指出，机器人产生的网络流量已经超过人工访问流量，比此前预测的还要来得更早。皮尤研究中心此次研究关注的重点在于“互联网上哪些内容正在被访问”。研究结果显示，大量网页可能正在形成一种由机器人阅读机器人生成内容的",
+      "source": "IT之家",
+      "publishTime": "2026-08-23",
+      "link": "https://www.ithome.com/0/993/234.htm"
+    },
+    {
+      "id": "3c503df8-2d23-8108-be1a-f4c7697877b2",
+      "title": "Is Expensive Bottled Water Actually Better for You?",
+      "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
+      "source": "Wired",
+      "publishTime": "2026-08-23",
+      "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/"
+    },
+    {
+      "id": "3c503df8-2d23-81a6-acb4-de5f5e9557ff",
+      "title": "消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进",
+      "summary": "IT之家 8 月 23 日消息，据博主 @智慧皮卡丘 消息，华为 Mate 90 系列手机风驰版继续迭代（预计为华为 Mate 90 Pro Max 风驰版），而且友商也会跟。博主在评论区进一步表示，友商跟进的方式为“旗舰机上主动散热”。▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏据IT之家此前报道，华为 Mate 80 Pro Max 风驰版发布于 3 月 23 日，搭载麒麟 9030 Pro 芯片，售价 8499 元起。这款手机配备风驰散热模组，业界首创隐藏式无感出风设计；业界首创仿生羽翼涡扇（长短翼型扇叶 + 高功率密度电机），同等噪声下风量提升 60%；业界首创超",
+      "source": "IT之家",
+      "publishTime": "2026-08-23",
+      "link": "https://www.ithome.com/0/993/233.htm"
+    },
+    {
+      "id": "3c503df8-2d23-8156-ac3f-df3c0ff48fcf",
+      "title": "北汽株洲工厂技改完成：产能提升 33%，极狐贝塔 T1、S3 交付提速",
+      "summary": "IT之家 8 月 23 日消息，极狐官方昨日宣布，北汽株洲工厂技改完成，产能提升 33%，极狐贝塔 T1、贝塔 S3 开启加速交付模式，全力排产，加快发运。据介绍，2009 年，北汽株洲工厂落户株洲国家高新区，是北汽集团第一个自主品牌外埠乘用车基地。17 年来，这里累计下线的车辆已经超过了 170 万辆。IT之家获悉，本次核心技术改造升级扩展了 3 条全新产线，增加了 40 个工位，工位总数达到了 150 个；并增加了机械手的数量和优化了多处工序。升级之前，该工厂每天生产交付 600 辆整车，现在提升到了 800 辆，交付能力提升了 1/3；每个月的交付量增加了 6000 台。相关阅读：《极狐",
+      "source": "IT之家",
+      "publishTime": "2026-08-23",
+      "link": "https://www.ithome.com/0/993/232.htm"
+    },
+    {
+      "id": "3c503df8-2d23-81e4-9418-ddefb1a6d5c6",
+      "title": "传音推出 Infinix Xpad 30 Pro 平板，联发科 Helio G200 芯片、11 寸 2.5K 屏幕",
+      "summary": "IT之家 8 月 23 日消息，传音现已在海外市场推出 Infinix Xpad 30 Pro 平板，新品搭载 11 英寸 2.5K 屏幕，定位中低端，定价约为 227 美元（IT之家注：现汇率约合 1,531 元人民币）。据介绍，这款平板搭载联发科 Helio G200 Ultimate 芯片，配备 11 英寸屏幕，分辨率为 1600*2560，支持 90Hz 刷新率，最高亮度可达 550nits。同时，这款平板拥有立体声扬声器和 DTS 音效支持，满足日常影音播放需求。拥有 8200mAh 电池，支持 18W 充电，最高配置为 8GB 内存 +256GB 存储，支持 4G 移动数据。此外，",
+      "source": "IT之家",
+      "publishTime": "2026-08-23",
+      "link": "https://www.ithome.com/0/993/230.htm"
+    },
+    {
+      "id": "3c503df8-2d23-8173-a5f1-f60ffe060d54",
+      "title": "Inside New Yorkers' hopes and fears over Mamdani's city-run grocery stores",
+      "summary": "NYC Mayor Zohran Mamdani plans to open five government-run stores. New Yorkers are skeptical about the plan — but they do want more affordable food.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-23",
+      "link": "https://www.businessinsider.com/how-new-yorkers-feel-about-mamdanis-city-run-grocery-stores-2026-8"
+    },
+    {
+      "id": "3c503df8-2d23-81eb-9dd8-c52af62e87dc",
+      "title": "总台中国之声解读车辆应急机械拉手安全隐患：与内饰颜色接近、不易识别",
+      "summary": "IT之家 8 月 23 日消息，据中央广播电视总台中国之声今天（23 日）报道，日前，国家市场监督管理总局集中发布汽车召回公告，特斯拉、小米、小鹏、零跑等 9 家车企同步启动召回，覆盖数百万辆新能源汽车。本次召回的核心原因高度统一：车内应急机械拉手与内饰颜色接近、辨识度不足，极端碰撞断电场景下可能影响驾乘人员逃生与外部救援。报道指出，在普遍采用电动开门的新能源车型上，车内应急机械拉手是完全脱离电控系统的纯机械结构，也是极端险情下的最后一道逃生防线。汽车产业专家李洋介绍，与传统燃油车直接外露的机械门把手不同，新能源车的应急拉手安装位置并无统一标准：有的藏在车门储物槽内，有的内嵌于扶手内侧的门板上",
+      "source": "IT之家",
+      "publishTime": "2026-08-23",
+      "link": "https://www.ithome.com/0/993/229.htm"
+    },
     {
       "id": "3c503df8-2d23-81ea-98bd-d4b0ff24f32c",
       "title": "38.15s 跑完 400 米再次刷新人类纪录：北京人形天工 Ultra 夺得本届人形机器人运动会首金",
@@ -80,6 +152,14 @@
       "source": "IT之家",
       "publishTime": "2026-08-23",
       "link": "https://www.ithome.com/0/993/213.htm"
+    },
+    {
+      "id": "3c503df8-2d23-8119-9c52-e68f0d5c3339",
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+      "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "source": "少数派",
+      "publishTime": "2026-08-23",
+      "link": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard"
     },
     {
       "id": "3c503df8-2d23-812b-b0ca-e6232b6a89d9",
@@ -320,86 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-23",
       "link": "https://www.ithome.com/0/993/159.htm"
-    },
-    {
-      "id": "3c503df8-2d23-818b-b221-ec43ecff16ca",
-      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
-      "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。查看全文",
-      "source": "少数派",
-      "publishTime": "2026-08-23",
-      "link": "https://sspai.com/post/113002"
-    },
-    {
-      "id": "3c503df8-2d23-812e-915a-e421c1e6cd81",
-      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-      "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-23",
-      "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/"
-    },
-    {
-      "id": "3c503df8-2d23-81e8-b55b-e36a4c9a1d92",
-      "title": "“太空出差”将满三个月，神舟二十三乘组最新“周报”公布",
-      "summary": "IT之家 8 月 23 日消息，中国载人航天工程办公室今日公布最新视频，“太空出差”将满三个月，上周，神舟二十三乘组稳步开展空间科学实（试）验、组合体平台照料与健康管理等各项工作。IT之家从视频获悉，根据实验安排，三名航天员更换了在线维修装调操作柜内实验样品，完成了无容器柜实验腔体样品清理及更换，轴心机构电极维护、视窗盖镜片清洁等工作。此外，乘组完成了燃烧科学实验柜内气瓶更换、抽真空排废气等工作。在组合体平台照料方面，乘组开展了空间站微生物监测相关工作，通过对舱内气体、表面、水系统等不同介质中的微生物进行采样与检测，对其生长状况进行评估，为在轨微生物防控提供依据。在健康管理方面，乘组按计划完成",
-      "source": "IT之家",
-      "publishTime": "2026-08-23",
-      "link": "https://www.ithome.com/0/993/158.htm"
-    },
-    {
-      "id": "3c503df8-2d23-8115-99fc-fb0097c016cd",
-      "title": "消息称某厂新机透明版设计回归，预计归属小米 18 系列",
-      "summary": "IT之家 8 月 23 日消息，博主 @数码闲聊站 昨日发文透露，某厂新机透明版设计将回归。根据评论区网友讨论来看，预计归属小米 18 系列。有网友询问什么时候回归小 R 角设计，博主回复称：“不流行小 R 角了。”还有网友希望升降摄像头设计回归，博主表示：“机械结构很难回归啊。”据IT之家此前报道，型号为 M154FF 的小米新机已通过 3C 认证，支持 100W 快充，博主 @数码闲聊站 推测为小米 18 Pro 系列。据其爆料，该机各种备案已齐全，大概率首发骁龙 2nm 旗舰芯，支持 100W 快充，N79 5G 频段，UWB 超宽带技术，屏幕 / 影像 / 性能 / 外围等硬件全方位升",
-      "source": "IT之家",
-      "publishTime": "2026-08-23",
-      "link": "https://www.ithome.com/0/993/157.htm"
-    },
-    {
-      "id": "3c503df8-2d23-8168-bd74-f800e3156e25",
-      "title": "上纬新材消费级机器人启元 Q1/T1 开启预订，预计首批发货最早 9 月",
-      "summary": "IT之家 8 月 23 日消息，据财联社今日报道，上纬新材消费级机器人启元 Q1、启元 T1 双产品开启预订，用户可通过上纬启元官方小程序、天猫、抖音、B站官方店铺，以及线下体验活动参与预订，预计首批发货时间为今年 9 月。就在今年 7 月，上纬新材官宣全球首个可变形个人机器人 —— 启元 T1 正式登场。据介绍，上纬新材启元 T1 支持双足站立，也能四足行走；支持柔性力控，自然牵手；支持静谧移动，主打灵活安全；支持主动交互、长期记忆、外语教学、图形化编程；支持生活备忘，定时提醒；声纹识别，声源定位。另外，启元 T1 还支持一句话点餐、游戏互动、拍摄模板更多技能拓展，并支持二次开发。基于行业首",
-      "source": "IT之家",
-      "publishTime": "2026-08-23",
-      "link": "https://www.ithome.com/0/993/155.htm"
-    },
-    {
-      "id": "3c503df8-2d23-813f-bb9c-f01990730413",
-      "title": "华为 FreeBuds 7 无线耳机曝光：取消家族式水滴造型设计，支持星闪连接",
-      "summary": "IT之家 8 月 23 日消息，华为 FreeBuds 7 无线耳机目前已在各大平台曝光。爆料图显示，新款耳机取消家族式水滴造型设计，改为传统半入耳式设计，耳柄部分则延续了 Pro 系列的家族化设计造型。另外，耳机的充电仓也迎来设计调整，不同于前两代产品的鹅卵石造型，这一代耳机改为了 Pro 系列的半椭圆弧设计。根据博主 @小猪🐷立马火 透露，华为 FreeBuds 7 无线耳机搭载 HarmonyOS 系统，支持星闪连接、自适应降噪、耳机仓录音等功能，价格预计维持前代定价（999 元）不变。参考IT之家此前报道，华为 FreeBuds 7 已通过星闪联盟认证，证书编号为 iSLA012026",
-      "source": "IT之家",
-      "publishTime": "2026-08-23",
-      "link": "https://www.ithome.com/0/993/154.htm"
-    },
-    {
-      "id": "3c503df8-2d23-816c-b46e-e3c291a86166",
-      "title": "《使命召唤：现代战争 4》测试版率先搭载英伟达 DLSS 4.5 光线重建技术",
-      "summary": "IT之家 8 月 23 日消息，《使命召唤：现代战争 4》测试版于 8 月 21 日开启预购玩家抢先体验。一名眼尖的 Reddit 用户发现，该测试版似乎搭载了全新的 DLSS 版本，同时还首次在游戏中实现了 DLSS 4.5 光线重建（Ray Reconstruction）。英伟达此前已经宣布，DLSS 4.5 光线重建技术计划于本月发布，但截至目前还没有任何游戏正式采用这一技术。如今，这一情况终于发生改变。随着《使命召唤：现代战争 4》预购测试版上线，玩家终于可以亲自体验这一新版本带来的画质改进。据IT之家了解，DLSS 4.5 光线重建是英伟达（NVIDIA）于 2026 年 6 月 1",
-      "source": "IT之家",
-      "publishTime": "2026-08-23",
-      "link": "https://www.ithome.com/0/993/153.htm"
-    },
-    {
-      "id": "3c503df8-2d23-81b4-a8d0-e147d6181f08",
-      "title": "小米推出米家扫拖机器人 7C：滚筒活水增压拖地，到手价 2069.1 元",
-      "summary": "IT之家 8 月 23 日消息，米家扫拖机器人 7C 现已在小米有品上架预约，官方标价 2299 元，券后到手价 2069.1 元，8 月 26 日 10 点现货开售（点击前往）。IT之家从商品页面获悉，这款新品支持滚筒活水拖地，配备恒压恒湿滚筒拖布，200 转 / 分钟高速洗拖，强效清洁咖啡渍、油渍、宠物脚印等顽固污渍; 配合活水边拖边洗，有效减少二次污染。模拟人手拖地施压逻辑，滚筒拖布持续稳定贴合地面发力。新品升级 30000Pa 吸力，强效清洁地面灰尘、大小颗粒物、碎屑、残渣以及地毯纤维深处的宠物毛发等；配合自动割毛发防缠主刷、防缠边刷，清洁时有效减少缠绕问题。AI 摄像头搭配线激光避障",
-      "source": "IT之家",
-      "publishTime": "2026-08-23",
-      "link": "https://www.ithome.com/0/993/152.htm"
-    },
-    {
-      "id": "3c503df8-2d23-8199-82ae-dfdad9822aa6",
-      "title": "Oura 遭集体诉讼，被指夸大智能戒指睡眠追踪准确性",
-      "summary": "IT之家 8 月 23 日消息，一项拟议中的集体诉讼正在指控智能戒指制造商 Oura 欺骗消费者，夸大其睡眠追踪功能的准确性。这起诉讼由旧金山的 Clarkson Law Firm 于当地时间周四提起。诉状称，Oura 戒指无法测量评估睡眠质量或判断睡眠阶段所需的任何生理信号，实际上依赖 AI 生成的估算结果，而这些结果“正确的概率就像抛硬币一样”。这起诉讼源于多年来 Oura 用户在互联网上分享对其睡眠监测准确性的失望。有些用户表示，自己明明感觉睡得很差，但 Oura 却告诉他们睡眠质量达到了最佳水平。还有一些用户对这款设备是否真的能够监测和识别睡眠周期表示怀疑。诉状写道：“为了迎合消费者希",
-      "source": "IT之家",
-      "publishTime": "2026-08-23",
-      "link": "https://www.ithome.com/0/993/151.htm"
-    },
-    {
-      "id": "3c503df8-2d23-818c-a602-f37bc2e07e5c",
-      "title": "安全防护形同虚设：Anthropic 多款 Claude 旧模型可被越狱生成露骨色情内容",
-      "summary": "IT之家 8 月 23 日消息，Anthropic 针对 Claude 制定的通用使用规范明确禁止模型生成露骨色情内容，包括描绘或要求发生性行为或其他性行为、生成与性癖或性幻想有关的内容，以及进行色情聊天。不过，这并没有阻止 Anthropic 今年早些时候发布的模型 Claude Opus 4.6 轻易参与其安全机制原本试图阻止的色情角色扮演。TechCrunch 在测试中发现，想让 Opus 4.6 绕过色情内容限制甚至不需要进行太多诱导。在 10 次直接要求模型生成露骨色情内容的测试中，模型每次都立即予以配合。包括 Opus 3 和 Haiku 4.5 在内的其他老款模型，也可以通过最近",
-      "source": "IT之家",
-      "publishTime": "2026-08-23",
-      "link": "https://www.ithome.com/0/993/149.htm"
     }
   ],
   "macroEvents": [
