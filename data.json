@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-08-26 18:05",
+  "updatedAt": "2026-08-26 19:00",
   "news": [
+    {
+      "id": "3c803df8-2d23-81d0-a336-d18f837ad3b0",
+      "title": "智谱确认 Ox Alpha AI 模型为 GLM 系列新版本，将发布权重",
+      "summary": "IT之家 8 月 26 日消息，据彭博社报道，智谱证实了外界猜测，确认 Ox Alpha 模型正是其 GLM 系列的新版本，并表示将于今晚正式发布该模型的权重。据IT之家此前报道，全球最大 AI 聚合平台 OpenRouter 于 8 月 20 日上线匿名 AI 模型 Ox Alpha，在预览期间免费使用。该模型上线后调用量迅速攀升，短时间内冲至该平台榜首，并刷新单日模型用量纪录。终端编程智能体 OpenCode 也通过其免费套餐提供该模型，并声称每日可处理 100 万亿个 token。研究人员此前通过对 25 个提示词进行分词器指纹分析，发现 Ox Alpha 的 token 数量与 GLM",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/697.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81c5-a9d6-c508c0a6c90d",
+      "title": "玄戒 O3、M6/M5 Ultra 芯片相继发布，Arm 发文祝贺小米、苹果",
+      "summary": "IT之家 8 月 26 日消息，近日，小米玄戒 O3、苹果 M6、M5 Ultra 等芯片相继发布，Arm 通过官方 X 账号为两家公司送上了祝贺。Arm 在祝贺小米的帖子中表示，配备 SME2 加速的 Arm CPU 和即将推出的 Mali GPU，推动小米最新旗舰 SoC 在下一代设备中提升 AI、计算和图形处理能力。Arm 在祝贺苹果的帖子中则表示，新款 M6 和 M5 Ultra 芯片基于 Arm 架构，代表了 AI 计算和性能的重大进步。在这样的时刻，我们庆祝一个积极推动下一代计算技术的合作伙伴生态系统，旨在满足您的需求和未来的发展方向。据IT之家了解，M6 是苹果首款采用 2 纳米",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/694.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81f3-ade9-df6818320027",
+      "title": "问界汽车详解共光路舱内激光雷达三大技术突破，支持 3D 点云信息与 2D 图像信息 0 时差融合感知",
+      "summary": "IT之家 8 月 26 日消息，问界汽车官方今日发文，详细介绍了问界 M6 Max 版搭载共光路舱内激光雷达。该车支持华为乾崑智驾 ADS，可应对城区复杂道路、狭窄车位泊车等场景。行业首创共光路舱内激光雷达，实现 3D 点云信息与 2D 图像信息 0 时差融合感知，无惧暗光环境，116m 下对 30cm 高度小目标识别更精准华为乾崑智驾 ADS WEWA 架构，云端算力 60 EFLOPS 与超百亿辅驾里程数据，不断突破提升辅助驾驶体验，常用常新全维安全实力，搭载全维防碰撞 CAS 5.0 系统，拥有 24 项强大主动安全实力，含侧向障碍物防碰撞、异形障碍物识别、防误踩加速踏板等硬核安全能力，",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/692.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81d6-9100-fdb166fe51bd",
+      "title": "105km 长续航：爱玛辉腾 Pro 电动摩托车 2999 元 3 期免息",
+      "summary": "爱玛辉腾 Pro 电动摩托车日常售价 3999 元，今日京东自营国补后直降至 3299 元 + 直播间再减 300 元，实付 2999 元即可入手。点击下方卡片后 → 需点击右侧直播浮窗，进入直播间下单哦：京东辉腾 Pro 电动摩托车 72V32AH 三色可选直播间 2999 元直达链接支持手机 App + NFC 刷卡解锁，1200w 电机功率 + 10.5° 爬坡角度。铅酸电池 72V32AH1200W 电机App 智能互联解锁360MM 超大脚踏空间 +30L 大容量坐桶对置缸碟刹加粗液压减震京东辉腾 Pro 电动摩托车 72V32AH 三色可选直播间 2999 元直达链接",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/691.htm"
+    },
+    {
+      "id": "3c803df8-2d23-8194-b146-f62befc46e8c",
+      "title": "两人利用新能源车“先充后付”漏洞，注册 870 个子账号狂薅车企超 40 万元电费被捕",
+      "summary": "IT之家 8 月 26 日消息，据上海广播电视台 8 月 25 日报道，两名男子利用某新能源车企 App“先充后付”功能的规则漏洞，通过 870 多个虚拟手机号反复绑定子账号充电后拒不付款，再将“免费充电位”倒卖给大货车司机，不到一个月累计造成车企电费损失超 40 万元。上海市浦东新区人民检察院认定两人行为已构成诈骗罪，目前已对嫌疑人梁某、张某批准逮捕。IT之家注意到，该新能源车企推出的“先充后付”功能允许车主通过 App 绑定多个子账号，每个子账号可享受两次“先充电、后付款”的额度，在第三次充电后统一结算。嫌疑人梁某与张某在一个顺风车群中相识，梁某了解到张某的新能源车品牌后，要求张某将其提供",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/687.htm"
+    },
+    {
+      "id": "3c803df8-2d23-816b-8b15-d8befec7841d",
+      "title": "How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range",
+      "summary": "Xbox and Ikea collab alert! This unique nine-piece collection for gamers arrives this fall and has a slew of Easter eggs.",
+      "source": "Wired",
+      "publishTime": "2026-08-26",
+      "link": "https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/"
+    },
+    {
+      "id": "3c803df8-2d23-81c1-9a87-d5b7c66c3357",
+      "title": "Ikea’s Xbox collection includes a giant thumbstick stool",
+      "summary": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand, laptop stand, side table, lounge chair, ",
+      "source": "The Verge",
+      "publishTime": "2026-08-26",
+      "link": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool"
+    },
+    {
+      "id": "3c803df8-2d23-81cc-b7dd-e31d9bf97346",
+      "title": "起亚与工会达成临时协议避免罢工：月薪增加 10 万韩元，还有绩效奖励",
+      "summary": "IT之家 8 月 26 日消息，据路透社报道，起亚汽车公司与其韩国工会联合宣布，双方已达成一项初步薪资协议，成功避免了原定于周三（8 月 26 日）开始的局部罢工。工会透露，该协议于周二达成，将于周五提交全体工会成员进行投票表决。随着协议的达成，工会目前已取消原定于 8 月 26 日至 28 日举行的局部罢工。工会方面表示，根据该初步协议，起亚员工的每月基本工资将上调 10 万韩元（IT之家注：现汇率约合 486.8 元人民币），并将获得相当于 400% 月薪外加 1,270 万韩元（现汇率约合 61,824 元人民币）的绩效激励方案。另据IT之家此前报道，当地时间 8 月 21 日，韩国现代",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/684.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81b4-a54c-f4229ca6c4aa",
+      "title": "张雪 820X ADV 摩托车实车曝光，有望 9 月摩博会上市",
+      "summary": "IT之家 8 月 26 日消息，网上日前流传出张雪 820X 摩托车的实车图，这是一款 ADV 车型（探险摩托车）。从图中可以看到，车上印有 820X 字样，配备类似手机比例的竖向仪表屏，尾部搭载尾箱。IT之家注意到，张雪 820X 本月已现身工信部申报名单，还有黑色尾箱版本；搭载 819cc 排量直列三缸水冷发动机，最大功率 85kW。张雪 820X 车身尺寸为 2320x950x1455mm，轴距 1575mm，最高车速达 220km/h，不带尾箱的版本重量为 218kg。根据多位博主晒出的图片和视频，张雪 820X 预计 9 月摩博会上市（9 月 19 日至 22 日），配备六轴、ACC",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/683.htm"
+    },
+    {
+      "id": "3c803df8-2d23-8164-ad28-cf817db8637b",
+      "title": "洛阳长江发布两款 ADV 边三轮：700X 售 63800 元，KD250 售 29800 元起",
+      "summary": "IT之家 8 月 26 日消息，洛阳长江科技有限公司今日发布两款全新 ADV 风格边三轮摩托车 —— 长江 700X 与挎刀 250（KD250）。其中，长江 700X 官方指导价为 63,800 元；挎刀 250 提供标准版与特别版两种配置，售价分别为 29,800 元和 32,800 元。据官方介绍，长江 700X 采用现代 ADV 外观设计风格，融合了长江品牌经典的边三轮（俗称“侉子”）基因。动力方面搭载来自春风的 700cc 水冷并列双缸发动机，实际排量 693cc，最大功率 55 千瓦（IT之家注：约 74.7 马力）在 8500 转 / 分钟时爆发，峰值扭矩 68 牛 · 米在 6",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/681.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81e1-b9ee-cdf1dc2487b6",
+      "title": "Get better at work today: The simple habit that will help you build a powerful network",
+      "summary": "The best networkers don't ask for favors; they build genuine connections. Here's how to do just that.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-26",
+      "link": "https://www.businessinsider.com/network-better-message-contacts-regularly-before-asking-favors-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-811e-8da7-debf14e1826e",
+      "title": "MINIMAX 2026 财年上半年归母亏损 3.58 亿美元，同比亏损收窄 11%",
+      "summary": "IT之家 8 月 26 日消息，MINIMAX 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）上半年（2026 年 1 月～2026 年 6 月）报告：营业总收入：1.17 亿美元（IT之家注：现汇率约合 7.85 亿元人民币），同比增长 283.1%毛利润：2081.3 万美元（现汇率约合 1.4 亿元人民币），同比增长 464.8%毛利率：17.9%归母净利润：-3.58 亿美元（现汇率约合 -24.12 亿元人民币），亏损收窄 11%基本每股收益：-1.18 美元（现汇率约合 -7.95 元人民币）稀释每股收益：-1.18 美元（现汇率约合 -7.95 元人民币",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/680.htm"
+    },
+    {
+      "id": "3c803df8-2d23-8195-b308-c62eef806962",
+      "title": "启境罗建华：下一代智能汽车是共同定义、底层融合、全流程协同的产物",
+      "summary": "IT之家 8 月 26 日消息，8 月 24 日，广汽集团董事长冯兴亚与华为创始人任正非在深圳再度会面。启境汽车官方表示，距双方首次战略握手一年后，这场高层交流可视为启境从“方向共识”走向“深化发展”的关键信号。启境汽车产品总经理罗建华今日发文，谈及了冯兴亚与任正非的这次会面。他认为，下一代智能汽车，不是整车能力与智能技术的简单叠加，而是共同定义、底层融合、全流程协同的产物。罗建华表示，启境 GX7 是这一理念下最新的实践，从开发之初便锚定 8 系大五座规格定义。该车定位也是「越级 7 系」。根据规划，启境 GX7 会在 9 月上市，目前展车已经陆续到店。据IT之家昨日报道，启境完成第一阶段的",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/678.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81bd-b1a4-df0514d4727d",
+      "title": "优派推出 VX25G26-2K-10 显示器：24.5\" QHD 280Hz，可选白色",
+      "summary": "IT之家 8 月 26 日消息，ViewSonic（优派）近期在官网上线了 VX25G26-2K-10 显示器。其基于 24.5\" Fast IPS 面板，支持 QHD 分辨率 280Hz 刷新率，除常规黑灰色款外还提供象牙白变体 (VX25G26-2K-W-10)。VX25G26-2K-10 显示器亮度 350nits，静态对比度 1300:1；灰阶 (GtG) 响应时间 1ms；色深 8bit + FRC，色域 100% sRGB / 92% DCI-P3；覆盖 25% 雾度 3H 硬度防眩光表面涂层。此外，其支持硬件低蓝光不闪屏，兼容 VRR 可变刷新率；提供 2 个 HDMI 2.1、",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/666.htm"
+    },
+    {
+      "id": "3c803df8-2d23-819c-a6bd-ed53f637c989",
+      "title": "华尔街高度关注英伟达第二财季业绩，盼其能继续引领 AI 板块",
+      "summary": "IT之家 8 月 26 日消息，英伟达将在当地时间周三（26 日）压轴公布第二财季业绩，为本轮科技公司财报季收官。市场对这份财报的期待很高，压力同样不小。作为 AI 热潮中最受关注的芯片公司，英伟达的业绩表现长期影响整个 AI 板块的市场情绪。过去几个季度，即使公司盈利持续超过预期，只要超出的幅度没有华尔街想象中那么大，投资者依然会选择抛售。摩根大通数据显示，英伟达过去四次发布财报后，即使业绩均超出预期，此后 30 天内股价平均仍下跌约 5%。这一次的市场环境更加敏感。今年夏季 AI 板块经历明显波动，资金开始撤离此前涨幅巨大的芯片和存储股，投资者也越来越关注一个问题：AI 基础设施建设还能维",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/668.htm"
+    },
     {
       "id": "3c803df8-2d23-810f-92b3-ff9d23db9493",
       "title": "鸿蒙智行智界 RX 首发华为智擎新一代高性能电驱，后驱 CLTC 工况效率 93%+",
@@ -280,126 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-26",
       "link": "https://www.ithome.com/0/994/610.htm"
-    },
-    {
-      "id": "3c803df8-2d23-819a-8584-d2b9970bb5d0",
-      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
-      "summary": "学生党到底有哪些专享福利？看这一篇就对了。查看全文",
-      "source": "少数派",
-      "publishTime": "2026-08-26",
-      "link": "https://sspai.com/post/68227"
-    },
-    {
-      "id": "3c803df8-2d23-8102-b663-dcea9ea2e765",
-      "title": "Rich New Yorkers trying to dodge the new tax on second homes slam into a harsh reality",
-      "summary": "New York City's wealthiest homeowners are asking lawyers and tax advisors how to avoid Mamdani's pied-à-terre tax. They're not finding many loopholes.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-26",
-      "link": "https://www.businessinsider.com/mamdani-pied-a-terre-tax-rich-new-york-homeowner-loopholes-2026-8"
-    },
-    {
-      "id": "3c803df8-2d23-812f-8b51-e46e08d7877f",
-      "title": "OPPO ColorOS 17 官宣下月亮相：系统材质升级，全新锁屏效果公开",
-      "summary": "IT之家 8 月 26 日消息，OPPO ColorOS 设计总监陈希今日宣布，ColorOS 17 下个月和大家见面。这段时间一直在看大家对材质的讨论，在 ColorOS 17 上，我们对系统材质进行了全新升级，在保持最大化通透的情况下，优化了信息的清晰可读性，降低非必要的视觉干扰。同时材质的应用上，全局也更加统一。除了大家熟知的锁屏、桌面等场景，在系统应用的横向一致性上，这一次也花了几个月进行了深入的适配，做到 ColorOS 有史以来最好。IT之家附 ColorOS 17 全新锁屏效果如下：据IT之家此前报道，新的 ColorOS Beta 测试活动用户招募已于本月初开启，OPPO、一加",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/607.htm"
-    },
-    {
-      "id": "3c803df8-2d23-816d-a508-fb0a48fa13f1",
-      "title": "尼康影像馆 NIKON IMAGE SPACE 服务宣布 10 月 15 日终止",
-      "summary": "IT之家 8 月 26 日消息，据IT之家小伙伴反馈，尼康本月发布通知，由于市场环境的变化，尼康影像馆 NIKON IMAGE SPACE 服务将于 2026 年 10 月 15 日终止。北京时间 2026 年 10 月 15 日 08:00，NIKON IMAGE SPACE 服务将会终止。服务终止后，除批量下载以外的所有功能均无法使用。北京时间 2026 年 10 月 15 日 08:00 ~ 2027 年 4 月 15 日中午 12:00，在此期间可进行批量下载。指定单个相册或图像进行下载的功能将不可用。北京时间 2027 年 4 月 15 日中午 12:00，所有数据将被永久删除。IT",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/605.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81be-b158-fcb6797e1d66",
-      "title": "抽成 30%，消息称月之暗面正就 Kimi K3 AI 模型与微软、亚马逊、谷歌开展收入分成谈判",
-      "summary": "IT之家 8 月 26 日消息，据路透社报道，三位知情人士透露，人工智能初创公司月之暗面正与微软、亚马逊以及 Alphabet 旗下的谷歌洽谈营收分成协议。该协议将允许这几家美国云计算巨头托管其旗舰模型 Kimi K3。若达成合作，这将成为中国人工智能公司与美国主流云计算企业之间首个重大的营收分成合作。知情人士透露，月之暗面正寻求在微软 Azure、亚马逊云科技 AWS 及谷歌云上，针对 K3 模型相关服务抽取 30% 的营收分成。这一分成比例与该公司向使用其开放权重模型的主要客户所开出的条款相一致。消息人士补充称，相关讨论目前仍处于早期阶段，最终能否达成合作尚存变数。月之暗面尚未对潜在交易的",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/602.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81c2-84b5-cd5f5afc4f99",
-      "title": "华为召开鸿蒙智家技术沟通会，多款智能家居新品亮相",
-      "summary": "IT之家 8 月 26 日消息，今日华为鸿蒙智家技术沟通会在北京举行，华为终端 BG IoT 产品线总裁余隽出席。华为鸿蒙智家作为人车家万物互联的核心载体，打造个人终端、智能汽车与全屋家庭互联互通的智慧互联。据现场披露的数据，截至目前，华为鸿蒙智家已连续 4 年在精装房领域，市场占有率排名第一。为推动全屋智能落地千家万户，华为鸿蒙智家构建起了“1+3+N”全屋智能解决方案。其中，“1”家庭大脑，是全屋智能的连接中枢和计算大脑；“3”涵盖触控、语音、无感三大交互方式，以更多元、更聪明、更无感的交互覆盖更多人群的使用习惯；“N”则是涵盖照明、遮阳、安防、冷暖新风等多个场景体验及丰富鸿蒙生态产品。I",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/597.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81be-8fb3-c8cfef2276a6",
-      "title": "小米澎湃 OS 4 系统全新融合设备中心亮相：卡片布局优化、支持不同家庭切换",
-      "summary": "IT之家 8 月 26 日消息，小米官方今日放出了澎湃 OS 4 系统的全新融合设备中心。据介绍，在小米澎湃 OS 4 系统上，融合设备中心焕新，人车家全生态管理优化：采用全新卡片布局，设备再多也能快速找到；支持不同家庭切换，常用设备可一键置顶。据IT之家此前报道，小米澎湃 OS 4 Beta 版已于 8 月 14 日下午开启陆续推送。今天上午，小米宣布澎湃 OS 4 Beta 版第二批机型已正式开启招募，符合条件的小米手机、平板用户可通过小米社区报名参与本次内测。",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/596.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81bf-831d-cee266532dfa",
-      "title": "铁路 12306 推出教师积分优惠：9 月 10 日起乘车享票面 10 倍积分",
-      "summary": "IT之家 8 月 26 日消息，国铁集团今日宣布，自 2026 年 9 月 10 日起，将在“铁路畅行”常旅客会员服务基础上，对教师会员实施积分优惠。完成资质核验的教师会员在乘坐 2026 年 9 月 10 日至 12 月 30 日的旅客列车，到站后可获得票面金额 10 倍的积分，为普通常旅客会员（票面金额 5 倍积分）的两倍。铁路 12306 手机客户端已同步上线“教师资质信息核验”专区。自 2026 年 8 月 27 日起，教师会员可登录该专区，系统将与教育部全国教师管理信息系统核对身份信息，验证通过后即可享受优惠。符合优惠条件的车票也将于 8 月 27 日起陆续发售。按照 100 积分抵",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/594.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81a5-a45c-e2b9cd7ec9b6",
-      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
-      "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "source": "少数派",
-      "publishTime": "2026-08-26",
-      "link": "https://sspai.com/prime/story/zhuanglesha-260826"
-    },
-    {
-      "id": "3c803df8-2d23-81f5-958a-f69d3877d48a",
-      "title": "四维图新 2026 年上半年归母亏损 4.89 亿元，同比下降 57.41%",
-      "summary": "IT之家 8 月 26 日消息，四维图新今日发布 2026 年上半年（2026 年 1 月～2026 年 6 月）报告：营业总收入：17.67 亿元，同比增长 0.36%归母净利润：-4.89 亿元，同比下降 57.41%扣非净利润：-4.83 亿元，同比下降 52.19%经营现金流：-2.67 亿元，同比下降 195.45%加权平均净资产收益率：-5.66%基本每股收益：-0.2093 元，同比下降 57.37%稀释每股收益：-0.208 元，同比下降 56.39% AI 解读本次财报营收小幅增长，亏损幅度大幅扩大，未能达到市场普遍预期。财报亮点汇总本期实现营业收入 17.67 亿元，同比增",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/588.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81a0-965d-e8d1be3d9c82",
-      "title": "现代汽车“下饺子”，官宣史上最大百款新车投放计划",
-      "summary": "IT之家 8 月 26 日消息，据彭博社报道，现代汽车 CEO 何塞 · 穆尼奥斯公布了公司历史上规模最大的产品扩张计划，未来将推出或更新超过 100 款车型。在美国，现代希望借扩大混动阵容挑战丰田；在其他主要海外市场，则要抵御比亚迪、吉利等中国品牌凭借低价车型带来的竞争压力。现代汽车今天（26 日）在首尔举行 CEO 投资者日，并公布了这项计划。公司将进入 18 个此前尚未覆盖的细分市场，涵盖中型皮卡、轻型商用车和非承载式车身车型。全新及更新车型中，美国市场将获得 58 款，欧洲 41 款，印度 26 款，中国 22 款，部分车型会同时进入多个地区。美国目前是现代汽车最大的市场。据IT之家了",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/584.htm"
-    },
-    {
-      "id": "3c803df8-2d23-812b-a3f9-d0e3dbdc0614",
-      "title": "OpenAI ChatGPT 云端浏览器新增登录功能：账号密码不保存，但 Cookie 会持续到会话过期",
-      "summary": "IT之家 8 月 26 日消息，OpenAI 于当地时间 8 月 25 日为 ChatGPT Work 中的云端浏览器增加了重磅更新，现已支持在需要登录的网站中执行任务。在此之前，该浏览器在遇到登录页面时任务会中断。用户现在可以在浏览器遇到登录页面时，直接输入用户名、密码以及必要的双重验证代码，让云端浏览器继续执行任务。此前，OpenAI 文档明确表示，云端浏览器不会接受用户凭据，也不会使用密码管理器或登录网站。此次更新后，相关限制已经改变。当 ChatGPT Work 在执行任务中遇到登录页面时，会在聊天界面弹出安全的登录表单，由用户自行输入用户名、密码及两步验证（2FA）所需的验证码。Op",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/581.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81d3-a8c8-e4d74f7e34e5",
-      "title": "OPPO 官宣屏幕双产线全新升级，推出「新一代明眸护眼屏」",
-      "summary": "IT之家 8 月 26 日消息，OPPO 官方今日宣布屏幕双产线全新升级，推出「新一代明眸护眼屏」，宣称带来“前所未有的通透观感和舒适护眼体验”。据介绍，「新一代明眸护眼屏」搭载第四代 OLED 发光材料，支持 95% BT.2020 超广色域显示；硬件级降低有害蓝光含量至 3.7% ，深红光含量提升至 5.5%，从源头让屏幕更柔和自然。据IT之家今日早些时候报道，天马微电子今日发布了第二代天工屏，首发 N1 原色光谱发光材料、搭载自研 AI De-Mura 智控算法。第二代天工屏将在 OPPO Find X10 系列手机中首发搭载。目前，OPPO Find X10 系列目前已有两个机型入网，",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/582.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81e2-b833-ff7b73be429c",
-      "title": "vivo X500 Pro Max 手机搭载蔡司 2 亿 APO 超级长焦：X300 Ultra 同款传感器，1/1.4\" 三星 HP0",
-      "summary": "IT之家 8 月 26 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，vivo X500 Pro Max 手机搭载蔡司 2 亿 APO 超级长焦，传感器为 X300 Ultra 同款，1/1.4\" 蓝图 × 三星 HP0。韩伯啸表示，传感器支持硬件 4 × isz，能实现两次无损变焦，2 亿像素做长焦的价值才能发挥出来。此外，本代新增三大能力升级：远 —— 支持 Ultra 同款 400mm 增距镜，演唱会 / 观赛 / 打鸟必备；稳 —— 行业最强的 CIPA 7.0 专业级防抖，与蔡司超动态主摄同级，双摄防抖一致性拉满；准 —— 超级抓拍引擎，至高 30X 抓拍，舞台跳跃的 0",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/579.htm"
-    },
-    {
-      "id": "3c803df8-2d23-8119-92b6-dcdc111c64c6",
-      "title": "'Shark Tank' star Daniel Lubetzky shares 3 steps to turn a wild idea into a viable business",
-      "summary": "Kind Snacks founder and \"Shark Tank\" star Daniel Lubetzky says the best business ideas often begin by sounding ridiculous.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-26",
-      "link": "https://www.businessinsider.com/daniel-lubetzky-3-steps-wild-idea-business-tips-shark-tank-2026-8"
     }
   ],
   "macroEvents": [
