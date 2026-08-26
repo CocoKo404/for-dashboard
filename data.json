@@ -1,6 +1,254 @@
 {
-  "updatedAt": "2026-08-26 23:58",
+  "updatedAt": "2026-08-27 02:12",
   "news": [
+    {
+      "id": "3c803df8-2d23-81f9-b60d-fa8693aeaab5",
+      "title": "What leaders can learn from Mark Carney's approach to trade negotiations with Trump",
+      "summary": "The Canadian prime minister has shown what it looks like to negotiate with a more powerful counterpart.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-27",
+      "link": "https://www.businessinsider.com/carney-trump-trade-fight-leadership-lessons-ceos-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-81dd-88f2-c09129e5d7b5",
+      "title": "iPhone 18 Pro / Fold 系列新篇章，苹果发布会官宣定档 9 月 9 日",
+      "summary": "IT之家 8 月 27 日闪讯速报，苹果发出 9 月 9 日发布会邀请函。",
+      "source": "IT之家",
+      "publishTime": "2026-08-27",
+      "link": "https://www.ithome.com/0/994/787.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81be-b339-c43938730c89",
+      "title": "I’ve been eating at Chili's for years — 7 things showed me it was poised for a comeback",
+      "summary": "I'm a longtime Chili's customer who saw signs of its comeback years ago. Here are seven things that made the chain stand out to me.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-27",
+      "link": "https://www.businessinsider.com/chilis-comeback-signs-chain-restaurant-review-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-81f4-ab38-e351d3ffcc17",
+      "title": "I got the chance to speak to Dolly Parton, and she was full of great life lessons. These are my favorites.",
+      "summary": "Dolly Parton died on Tuesday at the age of 80. I had the chance to interview the country music icon, and she shared many great life lessons.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-27",
+      "link": "https://www.businessinsider.com/dolly-parton-best-life-lessons-advice-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-8100-a9b7-c89138cd0a99",
+      "title": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
+      "summary": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-27",
+      "link": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/"
+    },
+    {
+      "id": "3c803df8-2d23-81bd-8673-e999871036fc",
+      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+      "summary": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it. On this ep",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-27",
+      "link": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/"
+    },
+    {
+      "id": "3c803df8-2d23-81f7-80ec-ef86c4781492",
+      "title": "微软 Win11 新功能曝光：未来将支持手机远程操控关机、重启电脑",
+      "summary": "IT之家 8 月 26 日消息，Windows Latest 今日在对 Link to Windows 应用（原名“你的手机”）安装包进行拆包分析时发现，微软正在为该应用开发一种涉及远程关机、重启及睡眠的远程控制功能。相关代码出现在一个标记为 RemoteControlManager 的组件中。一份日期为 2026 年 8 月 25 日的调试日志显示，该功能的启用标志（isRemotePcControlsV2Enabled）当前仍为 false 状态，表明该功能尚未对任何用户开放。Windows Latest 发现其代码中的字符串资源描绘了一套完整的远程电源控制方案：基础电源控制：包含“重启”",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/785.htm"
+    },
+    {
+      "id": "3c803df8-2d23-8126-bd0f-f1c3a2e99004",
+      "title": "Sam Altman's longevity startup is upping the dose in an Alzheimer's drug trial after a lackluster first round",
+      "summary": "The Sam Altman-backed longevity biotech company is upping the dose of its experimental Alzheimer's drug in clinical trials.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-26",
+      "link": "https://www.businessinsider.com/retro-biotech-testing-higher-doses-of-rtr-242-alzheimers-drug-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-8107-924b-fd171c5d7281",
+      "title": "Waymo：我们的无人驾驶出租车严重事故发生率仅有人驾的 1/16",
+      "summary": "IT之家 8 月 26 日消息，在把自动驾驶 Robotaxi 带到伦敦复杂的城市道路几个月后，Waymo 又把欧洲扩张的下一站选在了德国慕尼黑。慕尼黑将成为 Waymo 继英国和日本之后进入的第三个海外市场，公司计划当地推出自动驾驶网约车服务。Waymo 通过官方新闻稿披露了一组数据：现有网约车车队每周完成数十万次出行，主要在美国城市运营。根据累计超过 3.5 亿公里的完全自动驾驶数据，其车辆发生造成重伤事故的数量只有人类驾驶员的 1/16，导致行人受伤事故的数量也只有人类驾驶员的 1/14。据IT之家了解，Waymo 的 Robotaxi 不会立即在慕尼黑全面自动驾驶。初期车辆仍将由人工驾",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/784.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81ef-a06a-d8c8140e603c",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-26",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
+    },
+    {
+      "id": "3c803df8-2d23-8169-b282-f33c57ce2805",
+      "title": "My son is moving from a small private school to a large public one. As a school counselor, this is how I'm easing the transition.",
+      "summary": "My son knows almost no one at his new high school. We spent the summer getting him ready for his freshman year.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-26",
+      "link": "https://www.businessinsider.com/strategies-help-child-transition-from-private-to-public-school-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-81ac-813c-d816f716019c",
+      "title": "英特尔 18A-P 工艺详解：0.5V 低电压频率跃升 30%，Diamond Rapids 与 Nova Lake 率先搭载",
+      "summary": "IT之家 8 月 26 日消息，Hot Chips 2026 会议于当地时间 2026 年 8 月 23 日至 8 月 25 日在斯坦福大学纪念礼堂举行，是全球计算架构和芯片设计领域的顶级学术与产业界盛会。英特尔此次会上公布了 Intel 18A-P 制程技术的更多细节。据介绍，基于量产芯片的直接测试显示，18A-P 在 0.5V 工作电压下可实现 30% 的频率提升。该制程将率先用于 Diamond Rapids 至强处理器和 Nova Lake 酷睿处理器。相比 18A 制程，18A-P 通过 RibbonFET 全环绕栅极（GAA）晶体管、背面供电、Power Boost 技术以及新增金",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/781.htm"
+    },
+    {
+      "id": "3c803df8-2d23-812c-b761-d643eb86e098",
+      "title": "沃尔沃在欧美上线危险预警功能，车辆之间可相互分享道路施工、交通事故信息",
+      "summary": "IT之家 8 月 26 日消息，沃尔沃将为 EX90、ES90 和 EX60 三款车型增加新的危险预警功能，前方出现大型动物、行人或骑行者等风险时，车辆可以提前提醒驾驶员。据了解，这一新功能主要依靠旗下联网汽车彼此共享道路信息。系统会利用沃尔沃在欧洲、美国和加拿大车队收集的联网车辆数据。车辆通过传感器和摄像头识别道路风险，一旦发现危险，就会自动记录具体位置并上传至沃尔沃服务器，再向同一路段的其他沃尔沃汽车发送提醒。车辆需要保持云端连接，同时道路必须存在于地图数据库中。值得一提的是，沃尔沃较新的车型具备足够的算力，可以完成所需的实时处理。新功能覆盖四类风险，分别是大型动物、行人和骑行者等弱势道路",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/780.htm"
+    },
+    {
+      "id": "3c803df8-2d23-811b-bc68-cbc38f4b65e8",
+      "title": "Xbox boss 'thinking about affordability' of next-gen console",
+      "summary": "In an exclusive interview with the BBC, Asha Sharma also discusses giving gamers digital versions of games they own.",
+      "source": "BBC Tech",
+      "publishTime": "2026-08-26",
+      "link": "https://www.bbc.co.uk/news/articles/c17jlngexy9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3c803df8-2d23-8195-a338-e4a8ada7ed77",
+      "title": "Mystery solved: Chinese lab Z.ai says it’s behind the Ox Alpha model that wowed Silicon Valley",
+      "summary": "The free AI coding model sparked widespread interest among developers after appearing anonymously on OpenRouter.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-26",
+      "link": "https://www.businessinsider.com/ox-alpha-model-made-by-china-z-ai-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-813c-a57a-e2d2a3a9769e",
+      "title": "Volvo’s cars will warn one another about hazards in the road",
+      "summary": "Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's cars talking to one another, as opposed to crowdsourced alert systems used by popular navigation tools",
+      "source": "The Verge",
+      "publishTime": "2026-08-26",
+      "link": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist"
+    },
+    {
+      "id": "3c803df8-2d23-818f-b9d5-de74856e0c2b",
+      "title": "Amazon is shutting down a go-to option for gig workers. It's the latest casualty of AI growth.",
+      "summary": "Amazon is shutting down its Mechanical Turk platform by September 30, impacting gig workers as AI increasingly handles simple tasks.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-26",
+      "link": "https://www.businessinsider.com/amazon-mechanical-turk-shuttered-amid-rise-of-ai-driven-tasks-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-8189-8359-d7b5ed4bf73e",
+      "title": "更新至 iOS / macOS 27 后“聚焦搜索”重建索引需要好几天？苹果回应",
+      "summary": "IT之家 8 月 26 日消息，如果你已经将手头的苹果设备更新至 iOS 27、macOS 27 Golden Gate、iPadOS 27 或 visionOS 27 测试版，就可能遇到过系统更新后“聚焦搜索”长时间重建索引的问题。为此，苹果发布了支持文档，对这一过程作出解释。苹果表示，索引可能需要数小时，甚至持续数天，所需时间取决于设备中保存的数据量。设备没有使用、连接电源和互联网时，索引速度会更快。IT之家从官方说明获悉，索引数据只会在本机保存，不会上传给苹果，也不会与用户的其他设备共享。参考About Spotlight indexing and search results on A",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/779.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81ca-9cf6-ddc48cbdce8d",
+      "title": "第二届世界人形机器人运动会闭幕：智元首次参赛斩获 18 金 16 银 12 铜登顶双榜第一，超 2500 小时真实数据免费开放",
+      "summary": "IT之家 8 月 26 日消息，第二届世界人形机器人运动会今日晚间在北京国家速滑馆“冰丝带”落下帷幕。在为期五天的赛程中，来自 16 个国家的 666 支参赛队伍、2056 台机器人“运动员”围绕 51 个赛项展开竞技。本届赛事多项成绩较上届实现质的飞跃。田径项目中，400 米大型组冠军成绩由上届 1 分 28 秒 03 提升至 38 秒 15；1500 米冠军成绩由上届 6 分 34 秒 40 提升至 2 分 21 秒 64；原地跳高成绩从上届 0.956 米跃升至 3.40 米。此外，100 米冠军成绩达 9.32 秒。在今晚的大型组 100 米决赛上，天骄队跑出 8.64 秒，继开幕式上",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/778.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81cf-a4e7-de42e84849c0",
+      "title": "I replaced doomscrolling with one tiny habit. After 30 days, my screen time was down 44%, and I was way less anxious.",
+      "summary": "Instead of doomscrolling, I made it a mission to learn something new. My screen time has gone down and I've learned to use my phone more efficiently.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-26",
+      "link": "https://www.businessinsider.com/new-habit-changed-how-i-use-phone-reduced-anxiety-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-810d-b249-dedf0e5db90c",
+      "title": "成都高新减灾研究所发第四份声明：首报预警震级偏差大表示道歉，但该预警不是误报",
+      "summary": "IT之家 8 月 26 日消息，成都高新减灾研究所今晚再发声明“关于 8 月 24 日宜宾长宁 4.7 级地震的预警首报震级偏差大的声明四”。摘要：1、成都高新减灾研究所（以下简称减灾所）再次对 24 日宜宾长宁 4.7 级地震的首报预警震级偏差大表示道歉，但该预警不是误报；2、减灾所未冒用“中国地震预警网”，因为中国地震局与减灾所的合作备忘录及中国地震局的红头文件《中国地震预警网地震预警信息发布指南（内部试行）》都表明了中国地震预警网是双方合作成果，不只归其中一方所有，且减灾所在中国地震局 2024 年 7 月之前还未开启地震预警服务时使用“中国地震预警网”时得到了地震局肯定，且减灾所也在使",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/777.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81d2-9ce4-ef189e032185",
+      "title": "莲花科技 100% 收购 Lotus UK 股权，莲花英国业务并入“吉利系”",
+      "summary": "IT之家 8 月 26 日消息，莲花科技 25 日宣布，已完成对英国莲花业务 Lotus UK 的全面整合。截至 2026 年 8 月 21 日，莲花科技正式持有英国莲花 100% 股权，海瑟尔的跑车制造业务以及莲花工程咨询业务由此全部纳入同一家公司。莲花集团 CEO 冯擎峰表示：“莲花只有一个品牌、一项战略，从今天起也只有一个业务主体。”至此，英国跑车业务与拥有中国资本支持的母公司长期独立运营、各自制定业务重点的局面正式结束。此次交易将英国莲花的公司主体 Lotus Advance Technologies Sdn Bhd（莲花先进技术有限公司）纳入莲花科技。在海瑟尔生产 Emira 和 E",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/776.htm"
+    },
+    {
+      "id": "3c803df8-2d23-814c-a334-fba1631216ac",
+      "title": "I lost 125 pounds in a year. Here are 8 items I always buy at Costco to meal prep for myself and my family.",
+      "summary": "I lost 125 pounds in the last year, and love buying high-protein groceries at Costco, like the S&W black beans and the Darigold cottage cheese.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-26",
+      "link": "https://www.businessinsider.com/favorite-costco-products-weight-loss-maintenance-meal-prep-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-8148-bc0c-d959c12326b1",
+      "title": "英伟达发布 GeForce 616.56 WHQL 驱动：为《星球大战：零号连队》提供首发优化",
+      "summary": "IT之家 8 月 26 日消息，英伟达今晚发布了最新的 GeForce Game Ready 616.56 WHQL 版驱动程序。有需要的用户可通过 NVIDIA 应用或 GeForce 官网下载。该版本为《星球大战：零号连队》、《共鸣：瘟疫传说传承》及《人间地狱：越南》三款新游戏提供了首发优化。IT之家注：《星球大战：零号连队》是一款由 Bit Reactor 开发、EA 发行的单人回合制战术游戏，故事设定在《克隆人战争》末期。该作将于 8 月 27 日发售，首发即支持 DLSS 4.5 超分辨率与多帧生成技术。《人间地狱：越南》已正式上线，支持 DLSS 4.5 超分辨率，RTX 50 系",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/775.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81fb-90bc-dd48d5badffb",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-26",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/"
+    },
+    {
+      "id": "3c803df8-2d23-81d0-b71b-e168d71a9337",
+      "title": "华硕灵耀 14 2026 酷睿版笔记本上架：Ultra 5 325/7 365，售价 7999 元起",
+      "summary": "IT之家 8 月 26 日消息，华硕今日上架了灵耀 14 2026 酷睿版笔记本，将于 8 月 31 日开售，售价 7999 元起：Ultra 5 325、16GB+1TB：7999 元Ultra 7 365、16GB+1TB：8999 元该机整体厚度 13.9mm，重量 1.2kg，B 面配备一块 14 英寸 2880x1800 分辨率 120Hz OLED 面板（峰值亮度 1100 尼特，覆盖 100% DCI-P3 色域），C 面配备 1.7mm 长键程键盘。该机搭载 8 核心 8 线程酷睿 Ultra 5 325 或 Ultra 7 365 处理器，性能释放 35W，配备 16GB L",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/774.htm"
+    },
+    {
+      "id": "3c803df8-2d23-81a4-91a5-d1079ebaf95e",
+      "title": "Jennifer Garner says she panicked about money after her divorce. It inspired her career pivot at 45.",
+      "summary": "Jennifer Garner says her divorce from Ben Affleck made her rethink money and her Hollywood career — helping fuel her second act with Once Upon a Farm.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-26",
+      "link": "https://www.businessinsider.com/jennifer-garner-divorce-financial-fear-career-pivot"
+    },
+    {
+      "id": "3c803df8-2d23-81c4-86c3-cf78e511c471",
+      "title": "Photos show how FDR's 'tree army' helped shape America's national parks — and how the NPS has changed since",
+      "summary": "FDR's so-called 'tree army' helped shape America's National Park Service. Here's a visual history of how NPS has changed over 110 years.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-26",
+      "link": "https://www.businessinsider.com/photos-show-national-park-service-history-nps-tree-army-2026-8"
+    },
+    {
+      "id": "3c803df8-2d23-81b1-af73-ceb80940d100",
+      "title": "森海塞尔联合梅赛德斯-AMG 推出 HD 620S 特别版游戏耳机，399 欧元 11 月发售",
+      "summary": "IT之家 8 月 26 日消息，今日，森海塞尔与梅赛德斯-奔驰宣布达成合作，双方将在游戏和模拟赛车领域展开联合项目，并推出基于 HD 620S 打造的梅赛德斯-AMG 游戏特别版耳机。该产品在 2026 科隆游戏展期间正式亮相，计划于 2026 年 11 月开始发货，官方售价 399 欧元（IT之家注：现汇率约合 3,134 元人民币），计划于 2026 年 11 月发货。HD 620S 是森海塞尔推出的开放式背负式头戴耳机产品，此次推出的特别版在其基础上增加了面向游戏玩家的悬臂式麦克风等配置。据官方介绍，这款 HD 620 Mercedes-AMG Edition 面向电竞玩家和主播，以 H",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/773.htm"
+    },
+    {
+      "id": "3c803df8-2d23-812b-a99b-d307869e60b8",
+      "title": "微软官宣 XBOX 实体光盘游戏转数字版功能，8 月 31 日启动测试",
+      "summary": "IT之家 8 月 26 日消息，今天（26 日）晚间，微软正式公布了一项新的 XBOX 功能，玩家可以把已经拥有的实体光盘游戏转换成数字版。微软表示，光盘转数字版功能既是游戏保存工作的一部分，也是在为下一代 XBOX 主机做准备。XBOX 下一代业务副总裁杰森 · 罗纳德介绍：“大多数 XBOX One 和 XBOX Series X 实体光盘游戏都支持这项新功能。玩家把支持的光盘插入 XBOX One 或 XBOX Series X 主机并启动游戏后，就能获得对应的数字版使用权。”数字版使用权不会永久绑定某个账户，而是跟随实体光盘。如果把光盘借给朋友，或者换用另一个 XBOX 账户登录并运行",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/772.htm"
+    },
+    {
+      "id": "3c803df8-2d23-8123-89a9-d336dc8122ac",
+      "title": "极狐阿尔法 T7 发布 2 小时订单突破 1 万台：华为乾崑智驾 ADS 5 Pro，预售价 13.78 万元起",
+      "summary": "IT之家 8 月 26 日消息，ARCFOX 极狐刚刚宣布，旗下“智美 AI 越级大五座 SUV”新车 —— 极狐阿尔法 T7 预售两小时订单突破 10,000 台。据IT之家今日早些时候报道，极狐阿尔法 T7 提供增程、纯电两种动力，集结华为乾崑智驾 ADS 5 Pro、全系宁德时代电池、麦格纳百年制造工艺三大行业顶级资源，预售补贴价区间为 13.78 万-17.48 万元。新车搭载全球首款 5G 4nm 车规级芯片，以及 1.1 米超宽全景 P-HUD，支持导航、驾驶、娱乐个性化组合；全系采用宁德时代品牌电芯，纯电版搭载 84.8kWh 电池包，增程版标配 43.9kWh 高集成磷酸铁锂电",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/771.htm"
+    },
     {
       "id": "3c803df8-2d23-810f-8ee4-d195d9481573",
       "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
@@ -8,6 +256,14 @@
       "source": "TechCrunch",
       "publishTime": "2026-08-26",
       "link": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/"
+    },
+    {
+      "id": "3c803df8-2d23-815d-a1a6-f49a779fec19",
+      "title": "苹果部分语言版本 M5 Ultra Mac Studio 新闻稿提及基于 PCIe Gen6 的固态硬盘架构",
+      "summary": "IT之家 8 月 26 日消息，Apple（苹果）昨日推出了搭载 M5 Ultra 的 Mac Studio 紧凑型工作站。值得注意的是，仅有部分语言版本的相关新闻稿提及了基于 PCIe Gen6 的固态硬盘架构。简体中文（有）基于 PCIe 第六代架构的新一代固态硬盘架构使存储性能提升最高可达 2 倍，带来业内领先的读写速度，实现快速加载项目、传输文件和载入大规模大语言模型。繁体中文（有）儲存裝置效能最快也可達以往的 2 倍。新一代 SSD 固態硬碟架構以 PCIe Gen 6 為基礎，提供業界領先的讀寫速度，讓專案載入、檔案傳輸及大型語言模型載入都更加迅速。英文（无）Storage per",
+      "source": "IT之家",
+      "publishTime": "2026-08-26",
+      "link": "https://www.ithome.com/0/994/770.htm"
     },
     {
       "id": "3c803df8-2d23-8177-be03-dba09241810e",
@@ -144,262 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-08-26",
       "link": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price"
-    },
-    {
-      "id": "3c803df8-2d23-818e-89d8-d67b1ca25f70",
-      "title": "Meta agrees to pay up to $16.7bn to settle social media case",
-      "summary": "The deal has been reached during a California federal court trial over claims brought by 29 states.",
-      "source": "BBC Tech",
-      "publishTime": "2026-08-26",
-      "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3c803df8-2d23-816a-94b1-e538699b7a8a",
-      "title": "Canadian tourists are avoiding the US. These 15 states could feel the loss the most.",
-      "summary": "Canadians are traveling to the US less and less amid Trump's presidency. It's hurting many state economies, especially Alaska, Nevada, and Vermont.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-26",
-      "link": "https://www.businessinsider.com/us-states-most-dependent-on-canadian-tourists-2026-8"
-    },
-    {
-      "id": "3c803df8-2d23-819e-9fd2-c1405dcb6ac2",
-      "title": "Your Oura Ring can&#8217;t measure what&#8217;s going on in your skull",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Oura's getting sued. A recently filed class-action complaint against the smart ring ",
-      "source": "The Verge",
-      "publishTime": "2026-08-26",
-      "link": "https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables"
-    },
-    {
-      "id": "3c803df8-2d23-8132-b3ac-efee5855f0a0",
-      "title": "You can now buy music on SoundCloud",
-      "summary": "SoundCloud has launched a new beta feature that allows artists on the audio streaming platform to sell music directly from their profiles, instead of diverting fans to purchase from third-party services like Bandcamp and Beatport. The feature aims to give listeners a better way to support the musici",
-      "source": "The Verge",
-      "publishTime": "2026-08-26",
-      "link": "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch"
-    },
-    {
-      "id": "3c803df8-2d23-8158-b164-d4e267673673",
-      "title": "Elden Ring on the Switch 2 isn&#8217;t tarnished",
-      "summary": "FromSoftware is hoping to make a splash on the Switch 2 later this year when it launches The Duskbloods, a gothic competitive multiplayer game that's unlike anything the studio has made before. But before that, Switch 2 owners have a chance to experience the studio's biggest hit for the first time t",
-      "source": "The Verge",
-      "publishTime": "2026-08-26",
-      "link": "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review"
-    },
-    {
-      "id": "3c803df8-2d23-811c-b212-e4477858ddaa",
-      "title": "极狐阿尔法 T7 预售：增程 + 纯电、可选华为乾崑 ADS 5 Pro，补贴价 13.78 万-17.48 万元",
-      "summary": "IT之家 8 月 26 日消息，极狐新车“智美 AI 越级大五座 SUV”阿尔法 T7 今天（26 日）晚间正式开启预售，新车提供增程、纯电两种动力，部分配置还支持华为乾崑 ADS5 Pro，预售补贴价区间为 13.78 万-17.48 万元。IT之家汇总新车主要信息如下：极狐阿尔法 T7 以“美得超预期”为设计核心，集结华为乾崑智驾 ADS 5 Pro、全系宁德时代电池、麦格纳百年制造工艺三大行业顶级资源，号称是“有颜有料、内外皆出彩”的中大型智能电动 SUV。增程版1315 PLUS：指导价 14.18 万元，预售补贴价 13.78 万元1315 MAX：指导价 15.38 万元，预售补贴",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/760.htm"
-    },
-    {
-      "id": "3c803df8-2d23-819b-a709-fb904123fe27",
-      "title": "Dolly Parton and her husband Carl Dean were married nearly 59 years but rarely seen together. Here's a timeline of their relationship.",
-      "summary": "Dolly Parton's husband of nearly six decades, Carl Dean, supported Parton's country music career from behind the scenes.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-26",
-      "link": "https://www.businessinsider.com/dolly-parton-husband-carl-dean-relationship-timeline"
-    },
-    {
-      "id": "3c803df8-2d23-818b-ab6c-d46806e7aceb",
-      "title": "宇树“弟子”击败“师傅”，世界人形机器人运动会自由搏击首金产生",
-      "summary": "IT之家 8 月 26 日消息，在今日举行的第二届世界人形机器人运动会自由搏击赛项中，产生了该项目的首枚金牌。40 公斤级决赛上演了一场“弟子战胜师傅”的戏码：华北电力大学参赛队伍遥控操作宇树科技生产的 G1 机器人，以更优秀的算法成功战胜了宇树科技公司自己的赛队，从而一举夺得冠军。此次比赛的一大看点是：不同赛队使用相同的机器人本体，比拼的实际上是各队在算法等方面的二次开发水平。据北京日报，双方机器人在擂台上脚步灵活地左右躲闪，寻找进攻机会，比赛中勾拳与飞踢频频出现。在激烈对抗中，华北电力大学赛队的机器人调整速度更快，即便被踢得向后趔趄，也能迅速恢复平衡、身不沾地地站起。三个回合结束后，裁判宣",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/758.htm"
-    },
-    {
-      "id": "3c803df8-2d23-8125-a4b8-f145b21dbdf7",
-      "title": "MiniMax：M3 Pro 模型参数规模预计提升至约 3T，大规模国产算力集群将很快上线",
-      "summary": "IT之家 8 月 26 日消息，据证券时报消息，MiniMax 在中期业绩电话会上透露，M3 Pro 的参数规模预计提升至约 3T，并进一步扩大强化学习和长程任务训练，以提高模型的泛化能力和智能上限。MiniMax 创始人、CEO 闫俊杰表示，下一阶段将继续推进模型智能、推理效率和基础设施能力的协同提升，加快 M 系列与 H 系列模型的研发及发布周期。此外，MiniMax 正在推进 M3 和 H3 的国产芯片适配，大规模国产算力集群将很快上线，并逐步承担真实生产流量。据IT之家此前报道，MINIMAX 今日发布 2026 财年上半年（2026 年 1 月～2026 年 6 月）报告：营业总收入",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/759.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81cf-a440-f391907829ef",
-      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-      "summary": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-26",
-      "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/"
-    },
-    {
-      "id": "3c803df8-2d23-8172-baf0-ee1be3bada5e",
-      "title": "Ukrainian soldiers are changing how they train to deliver medical care as casualty evacuation becomes more unpredictable",
-      "summary": "The drone-saturated kill zone on the battlefield means casualty evacuation timelines can be much longer than they were earlier in the war.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-26",
-      "link": "https://www.businessinsider.com/ukrainian-troops-change-medical-care-training-casualty-evacuation-gets-deadlier-2026-8"
-    },
-    {
-      "id": "3c803df8-2d23-811e-93af-ef7667c2dde9",
-      "title": "Meta 同意支付最高 166.8 亿美元，与美国各州就社交媒体成瘾诉讼达成和解",
-      "summary": "IT之家 8 月 26 日消息，据路透社报道，法庭文件显示，Meta 已同意支付最高 166.8 亿美元（IT之家注：现汇率约合 1,123.73 亿元人民币）以达成和解协议。此次和解旨在解决全美多州对其提起的诉讼指控 —— 相关州指控该公司故意将旗下的 Facebook 和 Instagram 设计成易使儿童成瘾的机制，在安全性问题上误导消费者，并违规收集平台儿童用户的个人数据。法庭文件显示，Meta 还同意在全美范围内针对 Facebook 和 Instagram 的青少年用户调整产品功能，包括设定每日使用时长上限以及启用夜间禁用功能。不过，这家科技巨头在同意达成和解的同时，否认自身存在任",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/757.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81da-9d3c-e270cb22447f",
-      "title": "调查显示 75% 美国成年人对折叠屏 iPhone 不感兴趣，平均只愿支付 781 美元",
-      "summary": "IT之家 8 月 26 日消息，CNET 委托 YouGov 于 2026 年 8 月 13 日至 17 日进行的一项在线调查显示，75% 的美国成年人表示对购买折叠屏 iPhone 没有兴趣。IT之家注意到，此次调查共覆盖 2605 名美国成年人。调查显示，各年龄段对折叠屏 iPhone 的兴趣均处于较低水平。其中，1946 年至 1964 年出生的婴儿潮一代中，83% 表示没有兴趣；1965 年至 1980 年出生的 X 世代中，这一比例为 77%。1997 年至 2012 年出生的 Z 世代中，69% 表示不会购买折叠屏 iPhone；1981 年至 1996 年出生的千禧一代中，这一比",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/754.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81a5-8c0a-d0b82264fedf",
-      "title": "华为 MatePad Pro 12 英寸 HarmonyOS 7 花粉 Beta 版更新内容公开，含 3D 影像壁纸等",
-      "summary": "IT之家 8 月 26 日消息，华为 MatePad Pro 12 英寸系列平板的 HarmonyOS 7 花粉 Beta 版招募已于 8 月 18 日开启。目前，系列平板的更新内容已公开，包括沉浸光感视效、星盾防诈、3D 影像壁纸等。IT之家附招募详情如下：报名方式：打开设置 → 搜索“软件更新” → 点击右上角“∷” → 升级尝鲜招募时间：2026 年 8 月 18 日审核周期：提交报名信息后，预计于 7 个工作日内完成审核。华为 MatePad Pro 12 英寸已于本月开售，搭载麒麟 T93 处理器，运行鸿蒙 6.1 系统，整机性能提升 25%；配备鸿蒙双桌面，可四指一划切换，支持 2",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/755.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81bb-bed0-c59777e7e35c",
-      "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
-      "summary": "Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars. Under the terms of the settlement, Meta agreed to come up with an age assurance standard that is subject to i",
-      "source": "The Verge",
-      "publishTime": "2026-08-26",
-      "link": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement"
-    },
-    {
-      "id": "3c803df8-2d23-818a-a59a-cc2884d2436c",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "summary": "Robot bodies are waiting for their AI brains to catch up.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-26",
-      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/"
-    },
-    {
-      "id": "3c803df8-2d23-8124-a931-f852e2b4f8ae",
-      "title": "Canadians cut their US travel by a quarter last year. They're not rushing back.",
-      "summary": "Canadians cut travel to the US by 25.4% in 2025, Statistics Canada says, as many shifted trips home, to Europe, and to Asia.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-26",
-      "link": "https://www.businessinsider.com/canadians-cut-us-travel-by-quarter-and-arent-rushing-back-2026-8"
-    },
-    {
-      "id": "3c803df8-2d23-811c-9c07-d10170227db3",
-      "title": "韩国国产自杀式无人机海上试飞失败：两次起飞均数秒后坠海",
-      "summary": "IT之家 8 月 26 日消息，据新华社今日报道，韩国海军于 8 月 25 日在韩国南部海域进行了国产自杀式无人机（游荡弹药）的海上作战试验，两次放飞均以无人机坠海告终，试验未能完成预定目标。此次测试在韩国南部海域进行，以大型运输舰“马罗岛”号（ROKS Marado，满载约 1.45 万吨）为平台，对韩国国防科学研究所（ADD）正在研发的中型自杀式无人机进行海上实操验证。按照原定测试方案，这款无人机需从“马罗岛”号飞行甲板起飞，对 2 公里外高速移动的无人靶艇实施追踪与打击。其首次测试于当日 15 时 30 分许进行，无人机起飞数秒后即坠海。随后，国防科学研究所更换备用无人机并重新组装发射设",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/753.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81da-8de0-e2b175cf35ad",
-      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-      "summary": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-26",
-      "link": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html"
-    },
-    {
-      "id": "3c803df8-2d23-8143-aa1b-cabdb6d0fae0",
-      "title": "尚界杨嗣耀：Z7 家族汽车接下来还会有一个新的版本，可拓展户外性能",
-      "summary": "IT之家 8 月 26 日消息，据博主 @电动扒士 分享，在 2026 成都车展期间，尚界汽车营销部部长杨嗣耀接受了媒体记者的采访，并简单介绍了尚界 Z7 家族的后续规划。杨嗣耀透露，Z7 系列从 5 月底开始交付，到 6 月份交付破万，到 7 月份累计交付破 2 万。而在 8 月 Z7 系列已交付超 4500 台（数据截至 8 月 17 日-18 日），整个态势也是不断在累积基盘。他表示，华为原本客户的画像偏稳重、成熟一点。因此华为产品在较贵价位的细分市场里面是卖得很好，类推到汽车市场也是贵的车更容易被接受。但尚界 Z7 是完全不同的细分市场，Z7 的客户 35 岁以下占 40% 以上，女性",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/752.htm"
-    },
-    {
-      "id": "3c803df8-2d23-8111-83a3-d5f42cf3e875",
-      "title": "8.64 秒！天工 Ultra 机器人再破人类百米世界纪录",
-      "summary": "IT之家 8 月 26 日消息，据北京亦庄公众号，在今晚（26 日）的第二届世界人形机器人运动会 100 米（大型组）比赛中，北京人形机器人创新中心的天工 Ultra 以 8.64 秒的成绩夺冠，再度超越人类世界纪录，并包揽该赛项金银奖牌。这是天工 Ultra 继开幕式上跑出的 9.39 秒、复赛中跑出的 8.86 秒后，再一次刷新纪录。北京人形机器人创新中心创新人形部负责人郭宜劼透露：“相比去年，天工 Ultra 在关节电机、构型和散热等方面进行升级。比如，关节转矩和转速大幅提升，更大功率的电机能提升运动能力和爆发力，轻量化和破风设计则减少高速奔跑时的阻力。另外，针对机器人小脑能力的开发，也",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/751.htm"
-    },
-    {
-      "id": "3c803df8-2d23-81ac-b0a4-f19a72011bd5",
-      "title": "GoPro 首款可换镜头电影摄影机 MISSION 1 PRO ILS 发布：1 英寸传感器、M43 卡口，建议零售价 699.99 美元",
-      "summary": "IT之家 8 月 26 日消息，GoPro 正式发布该品牌首款可换镜头电影摄影机 MISSION 1 PRO ILS，将于 9 月正式开售，建议零售价 699.99 美元（IT之家注：现汇率约合 4,716 元人民币），现有订阅会员享特惠价 599.99 美元（现汇率约合 4,042 元人民币）。MISSION 1 PRO ILS 搭载与 MISSION 1 PRO 同款的 5000 万像素 1 英寸传感器及 GP3 处理器，整机重 197 克，采用 M4/3 卡口。新品支持最高 8K60、4K240 和 1440p480 视频录制，以及片门全开的 8K30 与 4K120 视频录制；慢动作模",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/750.htm"
-    },
-    {
-      "id": "3c803df8-2d23-8140-aca9-e3b48d2e022a",
-      "title": "Bluesky now lets you upload 10-minute long videos",
-      "summary": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-26",
-      "link": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/"
-    },
-    {
-      "id": "3c803df8-2d23-817b-9a28-f5743c5d5a7a",
-      "title": "天文学家首次精确测定已知最大星系 IC 1101 边界：直径 170 万光年，宽度相当于 17 个银河系",
-      "summary": "IT之家 8 月 26 日消息，据新华社今日报道，一个包括西班牙天文学家在内的国际联合团队，通过超深成像观测首次精确确认了已知最大星系 IC 1101 的边界。IC 1101 的直径达到约 520 千秒差距（千秒差距为星系尺度单位，1 秒差距约等于 3.26 光年），接近 170 万光年。这一宽度相当于 17 个银河系并排排列，而该星系目前仍在持续成长。确定这一尺度的关键，在于天文学家获取了迄今对 IC 1101 曝光时间最长、探测最深的影像。这些图像由位于西班牙加那利群岛拉帕尔马岛的艾萨克 · 牛顿望远镜拍摄。经过详细测算，研究人员识别出这个巨星系暗淡的外缘，并计算出其恒星物质总质量约为 3",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/748.htm"
-    },
-    {
-      "id": "3c803df8-2d23-8117-b209-c57f436ee7ab",
-      "title": "奇瑞风云 T7 正式上市：全系 600km 续航，抢先置换价 9.49 万-11.59 万元",
-      "summary": "IT之家 8 月 26 日消息，奇瑞风云 T7 今天（26 日）正式上市，新车定位全球品质纯电 SUV，搭载犀牛电池，标配续航 600km。IT之家汇总新车主要信息如下：600km 悦享版：上市指导价 9.79 万元，抢先置换价 9.49 万元600km 舒享版：上市指导价 10.89 万元，抢先置换价 10.59 万元600km 智享版：上市指导价 11.89 万元，抢先置换价 11.59 万元外观方面，风云 T7 采用风云新能源最新一代极简电动化设计语言，封闭式车身搭配狭长锐利的分体式 LED 大灯，两侧配备立体导流槽，下包围运动饰板强化整车冲击力。车身尺寸方面，新车长宽高为 4570*1",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/747.htm"
-    },
-    {
-      "id": "3c803df8-2d23-8192-bef8-d3dce685af5e",
-      "title": "PeopleFinders’ New Website Runs Background Checks on Your Dates",
-      "summary": "The site, called Stud or Dud, helps daters dig up dirt on potential paramours. It’s fueled by the same public data as PeopleFinders.com—and comes with many of the same concerns.",
-      "source": "Wired",
-      "publishTime": "2026-08-26",
-      "link": "https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/"
-    },
-    {
-      "id": "3c803df8-2d23-81bc-87a1-cd9e10a8e96c",
-      "title": "This startup sold Wall Street on AI. Its existential challenge is doing it again.",
-      "summary": "Hebbia has relaunched its core product, Matrix, to help bankers and investors dig through piles of documents and create client-ready decks and memos.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-26",
-      "link": "https://www.businessinsider.com/hebbia-update-matrix-ai-software-wall-street-2026-8"
-    },
-    {
-      "id": "3c803df8-2d23-8161-849d-cc650a24f084",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-26",
-      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/"
-    },
-    {
-      "id": "3c803df8-2d23-81fd-9007-ee024de39e0f",
-      "title": "国内首套拥有完全自主知识产权的 EMA 工业化装置成功建成",
-      "summary": "IT之家 8 月 26 日消息，中化国际昨日宣布，8 月 24 日，中化国际 EMA（乙烯-马来酸酐共聚物）项目装置全线贯通，首批合格产品顺利下线。这是国内首套拥有完全自主知识产权的 EMA 工业化装置，打破该产品核心生产技术长期由海外企业主导的局面，成功填补国内空白。IT之家注：EMA 是一种新型高活性多功能助剂，兼具反应相容性优异、界面增容效果突出、产品纯净度高、绿色环保等特性。作为改性领域关键助剂，EMA 可广泛用于工程塑料、高性能玻纤等领域，是支撑先进制造与新材料产业迭代的关键基础材料。长期以来，EMA 核心技术被海外企业牢牢掌握，国内市场依赖进口，供货受限、成本高企、供应链风险等问题",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/746.htm"
-    },
-    {
-      "id": "3c803df8-2d23-8180-9087-f782922a14b5",
-      "title": "比亚迪何志奇：汉字车标、中国结尾灯、中文按键这套审美正在被更多人看见",
-      "summary": "IT之家 8 月 26 日消息，比亚迪股份有限公司执行副总裁何志奇今日发文，谈及了“汽车外观辨识度高重要吗”这一话题。他表示，这两年新车越来越多，但设计越来越像 —— 溜背、贯穿灯、无边界格栅，挡住车标分不清谁是谁，也不知道谁是正宗。他称，比亚迪走了另一条路。五个品牌，五套原创设计语言。王朝的龙颜、海洋的美学、方程豹的“生命金属”、腾势的优雅之势、仰望的时空之门。各有各的根，没有一套是抄的。汉字车标、中国结尾灯、中文按键 —— 这套审美正在被更多人看见。何志奇表示，车是产品，设计是语言，文化才是灵魂。何志奇还分享了比亚迪旗下五大品牌汽车设计官图。另外，近几年，新车尺寸越做越大。据IT之家今日早",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/745.htm"
-    },
-    {
-      "id": "3c803df8-2d23-8106-89f9-c55341c823e3",
-      "title": "商汤 2026 年上半年首次盈利：归母净利润 6.07 亿元同比扭亏转盈",
-      "summary": "IT之家 8 月 26 日消息，商汤今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：营业总收入：29.11 亿元，同比增长 23.4%毛利润：12.06 亿元，同比增长 32.9%毛利率：41.4%归母净利润：6.07 亿元，同比扭亏转盈经营现金流：-7.64 亿元基本每股收益：0.01 元稀释每股收益：0.01 元 AI 解读本次业绩大幅超出市场预期，公司上市以来首次实现 IFRS 口径盈利，核心业务增长和盈利改善均超预期。财报核心亮点2026 财年上半年实现营业收入 29.11 亿元，同比增长 23.4%，营",
-      "source": "IT之家",
-      "publishTime": "2026-08-26",
-      "link": "https://www.ithome.com/0/994/744.htm"
-    },
-    {
-      "id": "3c803df8-2d23-8117-9693-ffefac32b393",
-      "title": "Ring says its new encryption limits what it can give police",
-      "summary": "Ring has a new way to protect your videos. It's developed an encryption method called TAKE, short for Throw Away the Key Encryption, that the Amazon-owned company says will protect your videos without traditional end-to-end encryption. TAKE limits when and why Amazon's cloud can access those videos,",
-      "source": "The Verge",
-      "publishTime": "2026-08-26",
-      "link": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement"
     }
   ],
   "macroEvents": [
