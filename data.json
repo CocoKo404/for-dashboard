@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-08-30 02:44",
+  "updatedAt": "2026-08-30 05:51",
   "news": [
+    {
+      "id": "3cb03df8-2d23-8186-962d-c99f7ec94cd3",
+      "title": "Alt-right troll Milo Yiannopoulos has been deported",
+      "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court ",
+      "source": "The Verge",
+      "publishTime": "2026-08-30",
+      "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice"
+    },
+    {
+      "id": "3cb03df8-2d23-8115-a3f6-e75ac7507490",
+      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+      "summary": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-30",
+      "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html"
+    },
+    {
+      "id": "3cb03df8-2d23-814c-bab9-e9735636d1a2",
+      "title": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+      "summary": "In a new lawsuit, Sony Music and Warner Chappell say Anthropic used \"thousands upon thousands\" of songs to train Claude, including \"Eye of the Tiger.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-08-30",
+      "link": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8"
+    },
+    {
+      "id": "3cb03df8-2d23-81ee-b0e8-ced596ccde98",
+      "title": "Our daughter inspired a YouTube show that we started in our closet. Now we're set on creating an empire.",
+      "summary": "Arlene Hollingsworth took extra psychology clients to help fund Gracie's Corner. The family project eventually became a full-time business.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-30",
+      "link": "https://www.businessinsider.com/gracies-corner-founders-javoris-arlene-hollingsworth-2026-8"
+    },
+    {
+      "id": "3cb03df8-2d23-81a7-a72f-e8b1dfebe7e1",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-30",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+    },
+    {
+      "id": "3cb03df8-2d23-8133-a4a3-e8d6c9291fef",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable co",
+      "source": "The Verge",
+      "publishTime": "2026-08-30",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
+    },
     {
       "id": "3cb03df8-2d23-81af-a87d-f0a365ead6fb",
       "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
@@ -352,54 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-08-29",
       "link": "https://www.ithome.com/0/996/026.htm"
-    },
-    {
-      "id": "3cb03df8-2d23-8151-96a1-effaa09e1bb4",
-      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
-      "summary": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-08-29",
-      "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html"
-    },
-    {
-      "id": "3cb03df8-2d23-8167-9082-f61580603086",
-      "title": "I loved attending an HBCU, but now I'm still struggling with student loan debt 20 years later. I don't want the same for my kids.",
-      "summary": "I attended Clark Atlanta University, an HBCU. I loved it, but I'm struggling with debt 20 years later. I don't want the same for my kids.",
-      "source": "Business Insider",
-      "publishTime": "2026-08-29",
-      "link": "https://www.businessinsider.com/hbcu-student-loan-debt-question-sending-my-kids-college-2026-8"
-    },
-    {
-      "id": "3cb03df8-2d23-8159-b564-d4443ed132b4",
-      "title": "亚马逊上线竞价机制，第三方卖家可付费提速“数小时达”服务",
-      "summary": "IT之家 8 月 29 日消息，据《商业内幕》今天（29 日）报道，亚马逊开始借助第三方卖家扩大旗下的数小时送达服务，同时准备让部分卖家为获得这种配送速度额外付费。本月早些时候，亚马逊向部分使用亚马逊物流（FBA）的卖家发出邮件，要求卖家自行报价，争取让旗下商品进入“数小时达（Sub-Same Day）”配送范围。亚马逊称，数小时达最快能在下单后 2 小时送到消费者手中，目前覆盖 2300 个都市圈。使用该服务的商品平均销量比普通 FBA 配送商品高 12%。“只有商品实际通过数小时达发货时，才会按照你报出的单件价格收费。参与完全自愿，每件商品的收费也绝不会超过你自己设定的价格。”多名亚马逊卖",
-      "source": "IT之家",
-      "publishTime": "2026-08-29",
-      "link": "https://www.ithome.com/0/996/025.htm"
-    },
-    {
-      "id": "3cb03df8-2d23-81b5-9ed3-c73e1e724cab",
-      "title": "美国 FTC 正调查谷歌 YouTube 随意封号问题",
-      "summary": "IT之家 8 月 29 日消息，据彭博社昨日报道，美国联邦贸易委员会（FTC）正就 Alphabet 旗下 YouTube 进行调查，调查焦点集中在 YouTube 对用户封号、限流、删除内容时，是否违反了消费者保护法。知情人士透露，FTC 自 2025 年起对 YouTube 展开调查，目前已进入准备提起潜在诉讼的最后阶段。FTC 还在调查，YouTube 是否通过相关内容政策误导用户，使用户在注册服务时认为自己可以发布某些内容，但随后却遭遇封号或内容删除。目前尚不清楚 FTC 调查具体涉及哪些账号。YouTube 目前也未被指控存在违法行为，而 FTC 的调查最终也可能不会采取执法行动。彭",
-      "source": "IT之家",
-      "publishTime": "2026-08-29",
-      "link": "https://www.ithome.com/0/996/024.htm"
-    },
-    {
-      "id": "3cb03df8-2d23-8156-b28d-c9e6531289ab",
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediat",
-      "source": "The Verge",
-      "publishTime": "2026-08-29",
-      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
-    },
-    {
-      "id": "3cb03df8-2d23-81dd-bdea-f49fbc681cb8",
-      "title": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
-      "summary": "IT之家 8 月 29 日消息，OpenAI 开发者体验工程师 Gabriel Chua 今日确认，ChatGPT 和 Codex 用户现可连接多个谷歌 Gmail 和日历账号。据官方介绍，许多用户由于个人和工作安排，可能拥有多个 Gmail 或日历账户。此前 ChatGPT 和 Codex 只能连接一个 Google 账户，对用户来说较为不便。如今 ChatGPT 和 Codex 支持多账户连接后，用户可以打开侧边栏的“插件”，找到 Gmail、Google 日历或 Google 联系人，然后添加多个账户。IT之家注意到，ChatGPT 还可以在需要时，从多个已连接账户中提取相关信息，获得更",
-      "source": "IT之家",
-      "publishTime": "2026-08-29",
-      "link": "https://www.ithome.com/0/996/022.htm"
     }
   ],
   "macroEvents": [
