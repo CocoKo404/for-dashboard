@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-08-31 22:15",
+  "updatedAt": "2026-09-01 04:14",
   "news": [
     {
-      "id": "3cd03df8-2d23-815b-9187-f9e02d290ef6",
-      "title": "我国 L3 / L4 自动驾驶强制国标正式文件发布，2027 年 7 月 1 日实施",
-      "summary": "IT之家 8 月 31 日消息，全国标准信息公共服务平台显示，国家标准《智能网联汽车 自动驾驶系统安全要求》 （GB 44721-2026）正式文件已出炉。这也是我国首部 L3 / L4 智能网联汽车自动驾驶系统安全要求强制性国标。相关页面显示，该标准是对 2024 年发布的推荐性国家标准 GB/T 44721—2024《智能网联汽车自动驾驶系统通用技术要求》的系统性升级，从推荐性转为强制性，适用于搭载 L3 级、L4 级（高度自动驾驶）系统的 M 类（载客）和 N 类（载货）车辆，拟于 2027 年 7 月 1 日起正式实施。标准规定了自动驾驶系统动态驾驶任务执行、人机交互、用户告知等通用技",
+      "id": "3cd03df8-2d23-81e9-9e22-ddb6b8b0a6f0",
+      "title": "福特中国首款出口欧洲等发达市场的纯电动商用车，全新福特 Transit City 在江铃小蓝工厂下线",
+      "summary": "IT之家 8 月 31 日消息，福特中国今日宣布，全新福特 Transit City 下线仪式今日在江铃汽车小蓝工厂举行，首批约 1,000 台车辆即将装船发往海外市场。据介绍，全新福特 Transit City 由福特中国与全球工程团队以及江铃汽车协同开发，是福特中国首款出口欧洲等发达市场的纯电动商用车，提供 L1H1 厢式车、L2H2 厢式车和单排底盘车（Chassis Cab）三种车身形式，有效载荷最高可达 1,600 公斤，货厢容积最高可达 8.5 立方米，可灵活匹配多样化的城市配送场景。IT之家获悉，新车搭载 56 千瓦时磷酸铁锂电池与 110 千瓦前置电机，WLTP 工况续航里程最",
       "source": "IT之家",
       "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/526.htm"
+      "link": "https://www.ithome.com/0/996/681.htm"
     },
     {
-      "id": "3cd03df8-2d23-812e-8580-c45081cc4d93",
-      "title": "Linux 7.3-rc1 发布，代码总行数达 4098 万行",
-      "summary": "IT之家 8 月 31 日消息，Linus Torvalds 刚刚宣布，Linux 7.3-rc1 现已发布。他表示，这次更新并没有什么特别突出的内容，唯一明显的特点就是“体积很大”。Linux 7.3-rc1 是在为期两周的合并窗口结束后推出的首个候选版本。在这两周时间里，大量新功能被并入 Linux 内核。接下来，Linux 7.3 将进入测试和修复阶段，预计还会经历 6 至 7 个候选版本，之后才会迎来正式稳定版。Linux 7.3-rc1 体积明显增大的一个重要原因，是 AMD 提交了一大批 GPU 寄存器相关代码，这次主要涉及 AMD DCN6 的寄存器头文件。同时，与 AMD DC",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/524.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8111-be8d-c0cf04af1e9a",
-      "title": "全球首款，我国批准病原宏基因组检测试剂上市",
-      "summary": "IT之家 8 月 31 日消息，据央视新闻报道，国家药监局今天（31 日）最新批准两款“病原宏基因组检测试剂”上市，其中包括：一款“全球新”呼吸道急危重症病原检测试剂一款“中国新”血流感染病原的检测试剂IT之家从国家药监局官方介绍获悉，这两个基于二代测序技术的病原宏基因组检测试剂注册申请，分别是：广州微远医疗器械有限公司的呼吸道病原体核酸检测试剂盒（联合探针锚定聚合测序法）天津金匙医学科技有限公司的血流感染病原体核酸检测试剂盒（可逆末端终止测序法）呼吸道病原体核酸检测试剂盒通过体外定性检测人肺泡灌洗液样本中病原体核酸（包括真菌、细菌、非典型病原体、病毒），用于疑似下呼吸道感染的急危重症、免疫功",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/525.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81ac-b999-c6a4e4507f7b",
-      "title": "TrendForce：京东方、三星、TCL 华星前三，2026 年第二季度智能手机面板出货量约 5.6 亿片",
-      "summary": "IT之家 8 月 31 日消息，根据 TrendForce 集邦咨询最新面板产业研究，2026 年第二季度智能手机面板整体出货量约 5.6 亿片，较前一季度略为下降。面板龙头京东方出货量约 1.46 亿片，以 26.1% 的市占率保持全球第一。BOE 产品组合涵盖 a-Si LCD、LTPS LCD 及 AMOLED，其中 a-Si LCD 除供应手机品牌外，在二手机、维修市场亦维持相当规模出货；AMOLED 则持续受益于手机品牌扩大采用，支撑其整体出货表现。排名第二的三星显示第二季度出货约 9,000 万片，市占率约 16.1%，以 AMOLED 产品为主力，主要供应自有品牌系列以及苹果 i",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/522.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81ed-a68a-eb3a07bc5233",
-      "title": "《巫师 3：狂猎 — 重制版》PS5 Pro 版本性能曝光：光追 60 FPS 稳了",
-      "summary": "IT之家 8 月 31 日消息，据外媒 VGTimes 昨天报道，CDPR 即将推出的《巫师 3：狂猎 — 重制版》将在 PS5 Pro 平台实现光追 +60 FPS。CDPR 开发团队确认，本作的 PS5 Pro 性能模式可在 120Hz 显示器下，实现最高 90 FPS 帧率。并且 PS5 Pro 版所有画面预设都会使用 PSSR 技术，大幅提升图像清晰度。对于喜欢拍照模式的玩家来说，本作同样带来了大幅升级。CDPR 借鉴了《赛博朋克 2077》的高级拍照模式，允许玩家最多生成 3 名 NPC，调整他们的姿势、放置各种道具，并对天气和时间进行全面控制。IT之家从原报道获悉，本作将于原版游戏",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/523.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-817e-bd40-d342bf043ac3",
-      "title": "软银旗下 SB Energy 加速 IPO 进程，数据中心积压合同超 4000 亿美元",
-      "summary": "IT之家 8 月 31 日消息，《华尔街日报》当地时间 30 日报道称，SoftBank（软银）旗下数据中心与能源基础设施企业 SB Energy 预计最快本周公布 IPO 申请、9 月启动首次公开募股，目标筹集 50~70 亿美元（IT之家注：现汇率约合 336.79 ~ 471.5 亿元人民币）。外媒审查该企业 IPO 草案文件后表示，尽管 SB Energy 尚未从数据中心项目中取得收入，但其已在该领域获得了超 4,000 亿美元（现汇率约合 2.69 万亿元人民币）的积压合同。SB Energy 与客户签订了近 9GW 的计算容量合同，在建规模则是 800MW。母公司软银和 OpenA",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/519.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81e5-aabd-d0a0d6a5273c",
-      "title": "三星电子和 SK 海力士 2026 上半年缴纳超 11 万亿韩元企业所得税，同比大涨 167%",
-      "summary": "IT之家 8 月 31 日消息，据 Businesskorea 报道，三星电子和 SK 海力士今年上半年缴纳的企业所得税超过 11 万亿韩元（IT之家注：现汇率约合 536.25 亿元人民币），随着半导体行业复苏带动业绩大幅改善，两家公司对韩国政府税收收入的贡献也明显增加。根据韩国金融监督院电子公示系统 8 月 30 日披露的数据，三星电子今年上半年缴纳企业所得税 3.99 万亿韩元（现汇率约合 194.51 亿元人民币），SK 海力士缴纳 7.22 万亿韩元（现汇率约合 351.98 亿元人民币），两家公司合计缴纳 11.21 万亿韩元（现汇率约合 546.49 亿元人民币），较去年同期的 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/518.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-814b-87b8-c360ce53e271",
-      "title": "联想 ThinkPad E14 2026 笔记本新增酷睿 5 320 版本，到手价 7699 元",
-      "summary": "IT之家 8 月 31 日消息，联想 ThinkPad E14 2026 笔记本现已新增酷睿 5 320 版本，16GB+512GB 售价 7999 元，目前有 300 元优惠，到手价 7699 元，最终国补到手价 6,544.15 元。这款笔记本搭载酷睿 5 320 处理器（6 核心 6 线程），电池容量 48Wh；重 1.41kg，厚 15.25mm。这款笔记本搭载了一块 14 英寸 1920×1200 分辨率 IPS 屏幕，刷新率 60Hz，亮度 400 尼特；支持杜比全景声、哈曼音效。接口方面，这款笔记本提供了双雷电 4、双 USB-A、HDMI 2.1 TMDS、RJ45、3.5mm",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/516.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81a3-8655-ff2e515239d0",
-      "title": "美国用户发现谷歌地图已将安大略湖改名“美国湖”，引发争议",
-      "summary": "IT之家 8 月 31 日消息，据 Business Insider 报道，谷歌地图更改了安大略湖的名称，美国用户看到的是“美国湖”，这一变化迅速在互联网上引发了争议。IT之家注意到，当地时间上周四，美国总统唐纳德 · 特朗普签署行政命令，将横跨加拿大和美国边境的安大略湖（Lake Ontario）更名为“美国湖”（Lake America）。美国地名信息系统随后正式修改了这片水域的名称。周日，谷歌表示，谷歌地图会根据政府官方来源更新地图数据。这意味着，美国用户看到的名称将是“Lake America”，加拿大用户仍会看到“Lake Ontario”，而其他国家和地区的用户则会看到“Lake ",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/509.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8114-858a-ff52bbeb227d",
-      "title": "vivo 海外新机 T5 官宣：6.83 英寸曲面 AMOLED 屏、7050mAh 电池",
-      "summary": "IT之家 8 月 31 日消息，vivo 今天在海外电商平台 Flipkart 宣布，其新机 T5 将于 9 月 2 日在印度发布。新机将搭载 6.83 英寸 AMOLED 曲面屏，拥有 7050mAh 大电池。IT之家了解到，这款手机正面配备一块 6.83 英寸的 AMOLED 曲面显示屏，分辨率为 1.5K，支持 144Hz 高刷，最高亮度可达 2000nits。规格方面，这款手机搭载联发科天玑 7500 Turbo 芯片，拥有 7050mAh 电池，机身厚度控制在 7.99mm。此外，这款手机将提供皇家铜、银绿两种配色。从官方公布的信息来看，vivo T5 似乎与 iQOO Z11 印度",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/501.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81b1-991f-c318d7ef41d8",
-      "title": "行业首个家庭智能伴侣级 AIOS：海信电视 JUOS 发布，桌面随人变化、首创 AI 搜索片段",
-      "summary": "IT之家 8 月 31 日消息，在今日的海信视像 AI 战略暨 JUOS 发布会上，海信发布行业首个家庭智能伴侣级 AIOS —— JUOS。据介绍，海信 JUOS 实现了从指令驱动到意图驱动：因人、因时、因境，内容和服务各有不同；懂语境、懂情绪，交流自然更像人与人；跨屏接着看，家电一句管，生活服务轻松办。海信 JUOS 搭载行业首个家庭智能伴侣级 AIOS 技术架构，配备星海大模型，搭配四大引擎。海信 JUOS 的灵犀家庭情境引擎支持通过摄像头、声纹等感知家庭人物、内容、空间、环境、设备，并进行家庭情境和意图理解。小聚多 Agent 协同引擎则可以统一用户意图、根据用户需求编排内容，最后输出",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/499.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81ef-bee1-f733e0f483bb",
-      "title": "工信部：前 7 个月我国软件业务收入 89785 亿元同比增长 9.2%，集成电路设计收入同比增长 21.5%",
-      "summary": "IT之家 8 月 31 日消息，工信部今日公布 2026 年 1—7 月份软件业运行情况。2026 年前 7 个月，我国软件和信息技术服务业（以下简称“软件业”）运行态势良好，软件业务收入稳健增长，利润总额增势平稳，软件业务出口保持正增长。IT之家整理主要内容如下：一、总体运行情况前 7 个月，我国软件业务收入 89785 亿元，同比增长 9.2%。软件业利润总额 10396 亿元，同比增长 1.3%。软件业务出口 406.1 亿美元，同比增长 12.2%。二、分领域运行情况软件产品收入稳定增长。前 7 个月，软件产品收入同比增长 6.3%，占全行业收入比重为 21.6%。其中，基础软件产品收",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/494.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81d3-8c43-f4467ea097db",
-      "title": "马斯克提出新计划：靠 AI 卫星让地球在未来大约 10 亿年内保持宜居",
-      "summary": "IT之家 8 月 31 日消息，埃隆 · 马斯克在周末描述了一项旨在让地球在未来大约 10 亿年内保持宜居的计划，而这一计划的起点，是一批能够自主思考的卫星。马斯克在 X 平台发文称，仅仅用太阳能和风能取代化石燃料，并不足以让人类躲过他所说的“极其严重的灭绝事件”。这类事件大约每 1 亿年发生一次。他的解决方案是部署所谓的“有感知能力的卫星”，也就是由太阳能供电、由 AI 控制的卫星。这些卫星将在发射升空后，被安置在地球与太阳之间的固定位置。与传统火箭发射不同，马斯克设想利用一台巨型电磁弹射器，从月球表面将这些卫星发射到太空。卫星搭载的 AI 将持续自主运行，对卫星轨道和位置进行微小调整，而不",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/490.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8174-b768-d4917b67bfb6",
-      "title": "问界汽车详解共光路舱内激光雷达与双光路图像级激光雷达区别：技术架构、能力边界不同",
-      "summary": "IT之家 8 月 31 日消息，AITO 汽车官方今日发布问界 M6 答网友问，针对共光路激光雷达和双光路图像级激光雷达有什么区别、搭载共光路舱内激光雷达的问界 M6 为何能在大雨情况下使用辅助驾驶系统等问题进行了集中解答。IT之家附本期问界 M6 答网友问重点内容如下：问界 M6 共光路舱内激光雷达，为什么在城区且大雨工况下表现依旧优异？问界 M6 纯电 Max 版搭载共光路舱内激光雷达，无论是人车混杂的城市道路，还是暴雨、大雨等恶劣天气，辅助驾驶感知都能保持稳定可靠，核心源于其独有“一镜双模”架构，基于硬件布局优势，再结合与 WEWA 架构同源的华为乾崑智驾 ADS 5 增强版协同，兼顾城",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/487.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-816c-ba7a-c5f343659c90",
-      "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，威胁患者安全",
-      "summary": "IT之家 8 月 31 日消息，据英国卫报报道，英国国家医疗服务体系（NHS）的一家监管机构警告称，用于倾听并转录患者与医生问诊内容的 AI 技术可能给患者带来风险，因为这类工具可能错误识别药物名称和疾病名称。在一起案例中，一名女性患者因为 AI 医疗记录工具错误总结她与医生的对话而受到严重惊吓。AI 生成的总结称，她患有“脱髓鞘”，即可能导致多发性硬化症的严重神经损伤。这名患者本人也是 NHS 医疗专业人员。她对 AI 工具记录的 MRI 检查结果提出质疑后，医院才发现记录有误，并将其更正为本应记录的“无脱髓鞘”。“最终这个错误得到了纠正，但因为 AI 给出了错误诊断，然后又告诉我这只是一个",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/485.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81cd-b4bf-d0738b6c6761",
-      "title": "消息称三星电子正为英伟达开发定制 8Hi HBM：17~18Gbps 高速设计",
-      "summary": "IT之家 8 月 31 日消息，韩媒《首尔经济日报》当地时间 28 日报道称，三星电子正为 NVIDIA（英伟达）开发一款定制的 HBM 内存产品。其采用 8 层低堆叠设计，同时支持 17~18Gbps 的高引脚速率。IT之家注：原文同时称其为 HBM4E 和 NVHBM。但从 NVIDIA 的表述上来看，NVHBM 和标准 HBM4E 必然采用有差异的基础裸片 (Base Die) 设计，而 DRAM Die 是否能相同也有待考察。三星电子此前出样的 HBM4E 内存支持至高 16Gbps 的引脚速率。从技术上来看，低堆叠设计可减少 DRAM Die 用量、提升生产良率，从而压低制造成本、提",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/486.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81a0-bf41-dee7fbb00b9b",
-      "title": "摄影品牌奥之心跨界推出肉酱料理包，600 日元",
-      "summary": "IT之家 8 月 31 日消息，日本摄影品牌奥之心（OM System）从去年开始跨界进军食品领域，推出的第一款料理包产品是“奥之心咖喱”。如今这家摄影厂商选择更进一步，推出第二款料理包产品“奥之心肉酱”。据官方介绍，这款产品以番茄酱汁炖牛腩牛肉筋制作而成，番茄酸度与浓郁风味的完美平衡，小火慢炖，辅以咖喱香料，味道鲜美诱人。奥之心表示，这款肉酱非常适合搭配意大利面或面包。摄影师可以在户外拍摄之余，使用这款料理包快速制作美食。同时，这款产品的使用方法非常简单。用户只需要烧开一壶水，然后将肉酱袋放入热水中泡 3-5 分钟即可。但需要注意的是，该产品不支持微波炉加热。此外，该产品的配料表为牛肉、番茄",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/483.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81a8-8c74-c06d7120d2c9",
-      "title": "阿里千问创作上线 Agent Teams 功能：用户提出创意，Agent 规划任务完成视频制作",
-      "summary": "IT之家 8 月 31 日消息，阿里千问今日宣布，千问创作上线 Agent Teams 功能，支持 Wan3.0，将创作方式从写提示词为主，扩展为用户提出创意，Agent 主动思考、拆解并执行任务，召集不同分工的专家 Agent 完成视频制作。IT之家获悉，目前 Agent Teams 已在千问创作 PC 端和千问 App 上线。官方表示，只需描述你的创意想法，Agent Teams 便会自主规划任务，由编剧、导演、美术、视频生成等不同角色的 Agent 分工协作，完成创意策划、脚本撰写、角色设定、分镜设计、画面生成、配音配乐到成片制作的全流程。用户可以利用画布工作流和各类专业 Agent，一",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/484.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-810f-84d5-d4213b9baf7d",
-      "title": "三星 Galaxy S26 Ultra 手机红屏问题修复后又出新状况：屏幕边缘出现彩色小点",
-      "summary": "IT之家 8 月 31 日消息，据 PhoneArena 报道，三星似乎一直无法摆脱困扰部分 Galaxy S26 Ultra 用户的红屏问题。今年 7 月，一些用户开始反映，手机使用两到三个月后，屏幕会逐渐出现泛红现象。两个月过去了，三星仍未能彻底解决这一问题。IT之家注意到，随着相关投诉不断增加，三星于 7 月启动了调查。虽然用户怀疑问题与手机搭载的像素级隐私显示（Privacy Display）技术有关，但三星坚持认为，这是由屏幕校准异常导致的。三星建议韩国用户前往官方服务中心，立即对屏幕进行重新校准；其他地区用户则需要等待软件更新。三星于 8 月 26 日开始推送相关修复更新。由于系统",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/482.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8155-ad08-cb58a5cfbaac",
-      "title": "两个多月上涨 14.6%，消息称字节豆包股价格升至 17.02 美元 / 股",
-      "summary": "IT之家 8 月 31 日消息，据大厂日爆今日消息，字节近期召开了豆包股说明会，对豆包股相关员工出台新政：豆包股价格从 6 月的 14.85 美元（IT之家注：现汇率约合 100 元人民币）/ 股，调整至 17.02 美元（现汇率约合 114.6 元人民币） / 股，2 个多月的时间再度上调约 14.6%。增加豆包股的发放，每人情况不同，部分员工可达总包的 5% 左右。员工可选择调整豆包股比例，把总包中的现金换成豆包股，每人满配比例不同（受职级等因素影响），已知比例有 20%、30% 等档位。报道提到，豆包股的调整、发放、兑换并不涉及全体员工，主要面向 Seed 下面的大模型部门，如预训练、多",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/481.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81b7-8750-f1ad5f5b0e9b",
-      "title": "豆包给大学生送福利：可免费领取 3 个月订阅权益",
-      "summary": "IT之家 8 月 31 日消息，豆包官方宣布，在校大学生完成学生认证，可以免费领三个月豆包订阅权益。据IT之家了解，本次活动支持在豆包电脑版参与，每个账号仅可领取一次。活动即日起开始，开学季期间均可参与。同时，豆包还面向学生群体推出了一批丰富实用的专属技能，覆盖大学生活和学习的各个方面，包括新生报到、课程学习、汇报 PPT、社团推荐、秋招求职等。打开豆包电脑版侧边栏，点击“技能 · 连接器 · 工作伙伴”，找到“开学季”专区，即可体验。",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/480.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8199-b3e7-e9b75f8f748b",
-      "title": "鸿蒙智行尊界 V800 / V680 旗舰 MPV 今启交付，售价 64.8 万元起",
-      "summary": "IT之家 8 月 31 日消息，鸿蒙智行官方今日宣布，尊界 V800 / V680 旗舰 MPV 于 8 月 31 日（今日）起正式开启交付。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 8 月 6 日宣布，尊界 V800 / V680 两款旗舰 MPV 上市 24 小时大定突破 3500 台。据IT之家此前报道，在 8 月 5 日的尊界时代旗舰 MPV 及华为全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布尊界 V800 / V680 两款旗舰 MPV，售价 64.8 万元起。值得一提的是，尊界 V800 采用面向 L3 自动驾驶",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/478.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8126-b9c6-f610850d1883",
-      "title": "消息称微软 XBOX 与好莱坞各大制片厂洽谈，计划将《光环》《魔兽世界》等 IP 搬上大荧幕",
-      "summary": "IT之家 8 月 31 日消息，据游戏媒体 MP1ST 前天报道，微软 XBOX 正在与好莱坞各大制片厂洽谈，希望将《光环》《魔兽世界》和《上古卷轴》等知名 IP 改编成电影或电视剧。据报道，环球影业、Netflix 和派拉蒙是当前最有兴趣达成协议的公司。XBOX CEO 阿莎 · 夏尔马及其他管理团队正在考虑，究竟是将这套 IP 的所有授权一次性出售给某家制片厂，还是将其拆分出售，避免总成本过高。据传，XBOX 希望通过长期协议获得 3 亿美元（IT之家注：现汇率约合 20.21 亿元人民币）。微软 XBOX 希望通过出售 IP 改编影视剧授权获利，以获得资金支持，但至少有一家公司认为 3 ",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/477.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-815d-ba26-e0298fa1a43f",
-      "title": "英格兰银行行长贝利警告：先进人工智能威胁全球金融稳定",
-      "summary": "IT之家 8 月 31 日消息，据英国卫报报道，英格兰银行行长安德鲁 · 贝利（Andrew Bailey）加入了越来越多发出警告的知名人士行列，提醒外界关注最先进人工智能技术可能给全球带来的风险。据IT之家了解，贝利目前担任国际金融稳定委员会（FSB）主席。他近日以这一身份向各国财长和央行行长发出一封两页长的信函，表示“前沿”AI 模型正展现出越来越强的自主能力和问题解决能力，同时也具备执行威胁性行为的能力。他警告称，这些模型可能通过网络攻击扰乱高度互联的全球金融体系，而网络攻击造成的破坏“可以跨越不同司法管辖区迅速扩散”。在本周于美国北卡罗来纳州举行的会议前，贝利向二十国集团（G20）财长",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/476.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-815c-9529-fbfd8548fb2f",
-      "title": "兆易创新加入 Zephyr 开源实时操作系统（RTOS）项目",
-      "summary": "IT之家 8 月 31 日消息，兆易创新 (GigaDevice) 今日宣布已加入全球主流开源实时操作系统 (RTOS) 项目 Zephyr 并成为其银牌会员。兆易创新表示该企业将积极参与 Zephyr 开源社区，持续推动 GD32 MCU 与 Zephyr 生态深度融合。其工程团队已在内部代码仓库开展 GD32 MCU 针对 Zephyr Project 的适配开发工作，完成了多个系列 MCU 的 Soc、BSP 驱动及板级支持，用户可直接从 GD32 Github 仓库获取代码进行开发。兆易创新工程团队也持续向 Zephyr 社区贡献相关代码与技术支持。兆易创新未来将完成更多 GD32 M",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/470.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81c7-9536-d88890904189",
-      "title": "华为 Pura X View 阔直板手机线下展出，三方软件显示搭载麒麟 9030S 处理器",
-      "summary": "IT之家 8 月 31 日消息，华为 Pura X View 阔直板手机已在线下门店展出，并开启预订。根据规划，新机将在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上正式发布。IT之家注意到，目前该机并未在设备详情页公布处理器等配置信息。但通过安装第三方软件可以查询到，华为 Pura X View 搭载的是麒麟 9030S 处理器，与此前爆料信息吻合。另外，华为 Pura X View 出厂就预装了鸿蒙 HarmonyOS 7 系统（华为官方称该机首发搭载 HarmonyOS 7），这意味着新版本系统打磨接近尾声，预计在 9 月 7 日的",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/468.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-816e-af27-de0ea41cdb48",
-      "title": "我国首个用于认知障碍辅助诊断的脑机技术相关产品获批上市",
-      "summary": "IT之家 8 月 31 日消息，燧世智能 8 月 26 日宣布，脑机交互与人机共融海河实验室孵化企业天开燧世自主研发的“脑电信号采集与认知功能评估系统”（神工 — 神篙）今年 8 月成功获批天津市药品监督管理局颁发的国家二类医疗器械注册证，标志着我国首个用于认知障碍辅助诊断的脑机技术相关产品正式落地，进入规模临床应用。该产品由脑电图机、脑电信号采集与认知功能评估软件等组成，适用于人体脑电生理信号的检测、处理、显示和储存，以及测量在含有信息刺激诱发下的大脑生物电位，对患者进行大脑认知障碍的辅助诊断。“认知障碍”这一表述的获批，意味着该产品能够正式用于脑积水等疾病引发的认知功能损害的辅助诊断，具备",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/463.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81db-b7c3-ff5a95528734",
-      "title": "“龙虾”上新：OpenClaw 开源人工智能助手 2.0 版本发布",
-      "summary": "IT之家 8 月 31 日消息，OpenClaw 官方当地时间 30 日宣布，这款流行的开源人工智能助手迎来 2.0 版本（也称 v2026.8.1）。此次更新由 933 位贡献者共同完成（包括 569 位首次贡献者），包含了超过 16,000 个拉取请求。本次更新涉及 OpenClaw 的方方面面，包括安装、通信、技能、模型、自动化、浏览器和原生应用、插件、安全以及大量其它修复（因此也花了更多时间用于验证），其中最重要的是简化安装流程和改善浏览器体验。对于新安装用户，OpenClaw 2.0 会从现有环境入手（如已有的 AI 服务订阅、API 密钥、本地模型）。官方精简或简化了大量配置步骤，",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/460.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8155-9ab7-db3ed57567a9",
-      "title": "滴滴自动驾驶新一代车型开启载客测试服务，北京、广州可体验",
-      "summary": "IT之家 8 月 31 日消息，据滴滴自动驾驶官方公众号，近期，滴滴自动驾驶新一代 Robotaxi R2 正式开启无人载客测试服务，新车在自动驾驶性能和座舱体验上全面升级，用户在北京、广州部分示范区域内可呼单体验全新智能出行服务。IT之家从官方介绍获悉，R2 作为滴滴自动驾驶与广汽埃安联合打造的 Robotaxi 专属车型，具备全球化适配能力。该车采用滴滴自动驾驶 L4 全栈软硬件方案，搭载 33 个传感器、三域融合计算平台等领先技术，显著提升感知精度与复杂场景应对能力。车身平台满足中欧双五星标准，并配备多重安全冗余体系。新车型的后排乘坐空间做了最大化设计，座椅支持大角度调节。车内搭载 17",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/454.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81de-9d06-c674cd04de60",
-      "title": "消息称某厂万级大电池新机搭载超高刷直屏、3D 超声波指纹，预计为小米 REDMI K100 系列",
-      "summary": "IT之家 8 月 31 日消息，博主 @数码闲聊站 今日曝光某厂子系第一台万级大电池新机部分规格，评论区网友猜测为小米 REDMI K100 系列。据其爆料，该机工程机采用超高刷直屏，搭载双芯性能平台，配备对称双扬、相对大尺寸马达、3D 超声波指纹，支持 IP68 级防尘防水。IT之家注意到，该博主本月早些时候曾爆料，某厂子系新机将配备 10000mAh± 巨容量电池，搭载骁龙 8E 处理器（即骁龙 8 至尊版）和 1.5K 超高刷大直屏。当时，这款新机被认为是 REDMI K100 标准版机型。在 8 月 11 日的 REDMI K100 Pro 系列新品发布会上，小米中国区市场部总经理魏思",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/450.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81c6-80c3-c5ac58c1d871",
-      "title": "Ukrainians slapped twin AK rifles on a drone with wheels to make a cheap mobile turret",
-      "summary": "Kyiv has been looking to cheaper assault drones that it can scale rapidly to reduce the risks to its infantry.",
+      "id": "3cd03df8-2d23-8146-b70d-d340cdc92e11",
+      "title": "I've lived in Florida for over 25 years. Here are 7 places I always tell tourists to visit.",
+      "summary": "As someone who's lived in Orlando for over 25 years, I think Key West, St. Augustine, and Miami are some of the the best places to visit in Florida.",
       "source": "Business Insider",
       "publishTime": "2026-08-31",
-      "link": "https://www.businessinsider.com/ukraine-twin-kalashnikov-rifle-gimbal-drone-uncrewed-ground-vehicle-2026-8"
+      "link": "https://www.businessinsider.com/best-places-to-visit-florida-local-suggestions-things-to-do-2026-8"
     },
     {
-      "id": "3cd03df8-2d23-81f7-bd3c-c68776e70b78",
-      "title": "Google is getting flak for changing Lake Ontario's name to Lake America",
-      "summary": "Canadian politicians are also scrubbing government websites that embed Google Maps to ensure the lake is labeled Lake Ontario.",
+      "id": "3cd03df8-2d23-8136-bc4c-c72d22a355df",
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exem",
+      "source": "The Verge",
+      "publishTime": "2026-08-31",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
+    },
+    {
+      "id": "3cd03df8-2d23-81f0-9a2d-e8ed66b8f20b",
+      "title": "博通推出 VMWare AI 工厂，简化企业私有云 AI 部署",
+      "summary": "IT之家 8 月 31 日消息，博通公司今天宣布推出 VMWare AI 工厂。新产品是 VMWare AI 私有云的软件定义基础，通过一系列自动化创新功能为 AI 基础设施部署提供支持，进而为客户提供更加简单的 AI 生产力部署路径。据介绍，VMWare AI 工厂可将 AI 应用直接部署到企业私有云环境。其 VCF（IT之家注：VMware Cloud Foundation）具备独特的基础设施自动化能力，可将服务器部署到 AI 模型开始服务，从数周缩短至数小时。VCF 可在整个企业内部汇集 GPU 资源，使不同团队在共享硬件上运行多个模型，不必为每个 AI 单独配置服务器。统一模型库可为数",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/680.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-8171-9cd0-e2d8e01913a7",
+      "title": "Sony’s WH-1000XM5 headphones are back down to their lowest price",
+      "summary": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morning. The comfy over-ear headphones offer some of the best sound quality and active noise cancelling, ",
+      "source": "The Verge",
+      "publishTime": "2026-08-31",
+      "link": "https://www.theverge.com/gadgets/986647/sony-wh1000xm5-headphones-nintendo-switch-2-matic-sonos-deal-sale"
+    },
+    {
+      "id": "3cd03df8-2d23-81dc-b57a-d910c3afb114",
+      "title": "I visited Montreal for the first time with nothing booked. Locals helped me plan my 24-hour trip.",
+      "summary": "I went to Montreal for 24 hours without booking anything beforehand. Recommendations from locals helped me find a hotel, restaurants, and more.",
       "source": "Business Insider",
       "publishTime": "2026-08-31",
-      "link": "https://www.businessinsider.com/google-getting-flak-changing-lake-ontario-lake-america-2026-8"
+      "link": "https://www.businessinsider.com/visited-montreal-no-itinerary-hotel-local-recommendations-2026-8"
     },
     {
-      "id": "3cd03df8-2d23-814b-8a2a-cc716099021f",
-      "title": "Singapore's developer scene was broken, not cracked. Vibe coding fixed it.",
-      "summary": "AI Tinkerers Singapore has been running demo nights, workshops, and hackathons that draw more than 100 people each time.",
+      "id": "3cd03df8-2d23-8107-ba63-f95886b2aeee",
+      "title": "George Santos Just Got Hit With Kalshi’s First-Ever Lifetime Ban",
+      "summary": "The former US representative was also fined more than $71,000 for allegedly attempting to manipulate the prediction market.",
+      "source": "Wired",
+      "publishTime": "2026-08-31",
+      "link": "https://www.wired.com/story/george-santos-gets-a-lifetime-ban-from-kalshi/"
+    },
+    {
+      "id": "3cd03df8-2d23-81fa-9b25-fbab8ab3d282",
+      "title": "整治 AI 虚假账号，Instagram 推出全新 AI 个人资料标签",
+      "summary": "IT之家 8 月 31 日消息，社交媒体 Instagram 今天宣布将原本的“AI 创作者”标签更新为“AI 生成个人资料”，使用户能够一眼分辨出眼前的创作者究竟是真人，还是 AI 生成的虚假人物。IT之家了解到，该标签适用于高度拟真且从未主动披露虚拟身份的 AI 生成账号。真实创作者使用 AI 编辑工具处理照片、撰写标题，不会受到影响。Instagram 表示，用户已经对一些看似真人、实际上是 AI 虚构的账号感到厌倦。今后如果有创作者不主动披露 AI 虚构身份，平台算法将不再将其内容推荐至 Reels、Explore 页面的非粉丝用户。如果平台自动标记算法出现偏差，用户可以联系官方客服申",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/679.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-817f-b123-d6207dbb27c0",
+      "title": "How AI could make it harder for governments to use hacking tools",
+      "summary": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-31",
+      "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/"
+    },
+    {
+      "id": "3cd03df8-2d23-81dd-b4d8-c118affd7208",
+      "title": "Student-loan borrowers got incorrect notices from a major student-loan company. Lawmakers want answers.",
+      "summary": "A group of Democratic lawmakers opened an investigation into student-loan company MOHELA over erroneous past-due notices that some borrowers received.",
       "source": "Business Insider",
       "publishTime": "2026-08-31",
-      "link": "https://www.businessinsider.com/vibe-coding-ai-helped-revive-singapore-tech-scene-2026-8"
+      "link": "https://www.businessinsider.com/major-student-loan-company-mohela-investigation-delinquency-notices-repayment-errors-2026-8"
     },
     {
-      "id": "3cd03df8-2d23-8146-bcaa-fc8369c76106",
-      "title": "Ina Garten says she takes on new challenges at 78 because she likes ‘working scared’",
-      "summary": "\"I think I have a very low threshold of boredom. If I know how to do something, I don't want to do it again,\" Ina Garten said.",
+      "id": "3cd03df8-2d23-812c-8e8e-df18cfb8060a",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-31",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+    },
+    {
+      "id": "3cd03df8-2d23-81ca-8d10-f0b326e2b080",
+      "title": "华硕灵耀 14 骁龙版笔记本首销：骁龙 X 处理器，16GB+512GB 售 6999 元",
+      "summary": "IT之家 8 月 31 日消息，华硕灵耀 14 骁龙版笔记本今晚正式开售，搭载骁龙 X 处理器，配备 16GB 内存和 512GB SSD，建议零售价 7999 元，首发 6999 元。该机整体厚度 13.9mm，重量 1.1Kg，B 面配备一块 14 英寸 2880×1800 分辨率 120Hz OLED 面板（峰值亮度 1100 尼特，覆盖 100% DCI-P3 色域），C 面配备 1.7mm 长键程键盘。该机搭载 8 核心 8 线程高通骁龙 X（X1-26-100）处理器，匹配 16GB LPDDR5X 内存（频率 8448MT/s）和 512GB PCIe 4.0 SSD，内置 50",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/673.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-819a-9402-dd481749fa0b",
+      "title": "特斯拉 FSD 即将迎来重大升级：马斯克称“避坑”功能很快上线",
+      "summary": "IT之家 8 月 31 日消息，特斯拉的 FSD 即将迎来一项重要改进 —— 自动避开路面坑洼。特斯拉 CEO 埃隆 · 马斯克近日表示，这项功能“很快就会推出”。事实上，“避开坑洼”已经在 FSD v14 的更新说明中出现了一段时间，被列为即将加入的改进功能。道路上的坑洼大小、形状各不相同，但所有驾驶员对此都有一个共同的态度：都希望尽可能避开。车辆驶入或碾过坑洼，轻则可能造成轮胎和轮毂损坏、四轮定位出现问题，严重时甚至可能导致车内乘员受伤或车辆遭受重大损坏。马斯克在当地时间上周日晚间发布的一篇帖子中表示，FSD 的自动避坑功能“很快就会推出”。尽管已经发展到最新、功能最完善的版本，FSD 仍",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/672.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-816a-acf3-d69e5186477d",
+      "title": "创维推出 G24 GT3 显示器：23.8 英寸 FHD 310Hz FastIPS，首发补贴价 599 元",
+      "summary": "IT之家 8 月 31 日消息，创维现已在京东上架 G24 GT3 显示器，新品采用 23.8 英寸 FastIPS 面板，最高刷新率可达 310Hz，明日开启预约，首发补贴价 599 元。据介绍，这款显示器的最高刷新率可达 310Hz，可带来更加流畅的游戏体验。分辨率为 1920*1080 全高清，满足基础使用需求。规格方面，这款显示器支持 HDR 400 高动态解析技术，最高亮度可达 550nits。覆盖 93% DCI-P3 色域，满足游戏之余的日常观影、办公需求。此外，该显示器采用超薄设计，自带支架支持左右旋转。截至目前，官方暂未公布该显示器的详细参数。京东创维（Skyworth） G",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/671.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-81f4-aef6-e50b696918c7",
+      "title": "I lived in Budapest for 7 years. There are 4 tourist spots I wouldn't recommend — and 4 that I've found worth the hype.",
+      "summary": "I lived in Budapest and worked in the tourism industry. There are some popular attractions that are worth the crowds and cost, but others I'd skip.",
       "source": "Business Insider",
       "publishTime": "2026-08-31",
-      "link": "https://www.businessinsider.com/ina-garten-working-scared-new-challenges-later-in-life-2026-8"
+      "link": "https://www.businessinsider.com/best-budapest-places-to-see-and-skip-from-local-2026-8"
     },
     {
-      "id": "3cd03df8-2d23-8129-8f91-d244e33e0677",
-      "title": "BYD shares slide as fierce China competition dents first-half earnings",
-      "summary": "BYD shares slid after the automaker released its latest results on Friday, despite higher second-quarter profit and overseas growth.",
+      "id": "3cd03df8-2d23-81f7-a56d-de724dbdea0f",
+      "title": "消息称长鑫存储开始试产 HBM3E 内存，有望数周内大规模量产",
+      "summary": "IT之家 8 月 31 日消息，据《The Information》今日报道，长鑫存储已启动 HBM3E 内存的风险试产工作。据报道，长鑫存储当前计划扩大产能。预计到今年年底，该公司的 DRAM 制造能力将达到每月 35 万片晶圆，未来几年的产能还将继续提高。目前长鑫的 HBM3E 生产规模依然十分有限，这意味着他们刚刚进入风险试产阶段。虽然我们还不清楚长鑫存储 HBM3E 的具体规格。但根据 JEDEC（IT之家注：固态技术协会）规范，HBM3E 应采用 1024-bit 位宽，单引脚速率介于 9.2Gbps 至 12.4Gbps 之间，大多数标准配置的目标速率为 9.6Gbps。在 9.6",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/670.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-817f-825b-c0f65bbbfdef",
+      "title": "比亚迪方程豹熊甜波：方程 S 和方程 S GT 将在 9 月上市",
+      "summary": "IT之家 8 月 31 日消息，比亚迪集团-方程豹事业部总经理熊甜波今日透露，方程 S 和方程 S GT 将在 9 月上市。据IT之家此前报道，8 月 20 日，两款新车开启全国预订，预订价格区间 23～28 万元。在 2026 成都车展上，比亚迪方程豹全新轿跑车型方程 S 和方程 S GT 两款新车完成实车全球首秀。工信部申报信息显示，方程 S 长宽高分别为 5060×1967×1483/1458mm，轴距 2960mm，整备质量 2140kg，总质量 2580kg，最高车速达到 240km/h。该车搭载一台峰值功率 245kW 或 300kW 的单电机，还有 190/300kW 的双电机可",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/669.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-816d-81e4-ee69ee675663",
+      "title": "MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
+      "summary": "MapQuest is getting an unexpected boost from its decision to defy President Trump’s renaming of Lake Ontario.",
+      "source": "TechCrunch",
+      "publishTime": "2026-08-31",
+      "link": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
+    },
+    {
+      "id": "3cd03df8-2d23-8142-a327-ed5c928c06d0",
+      "title": "水月雨「月之暗面」 平面磁式头戴式耳机 9 月 2 日发售，19999 元",
+      "summary": "IT之家 8 月 31 日消息，水月雨官方今天在微博宣布，旗下「月之暗面」 平面磁式头戴式耳机将于 9 月 2 日发售。据IT之家此前报道，这款耳机定价 19999 元，整体造型简洁，在外形材料方面引入“全多层复合碳纤维框架”，号称“源自腕表 / 赛车 / 航天材质工艺”，匹配柔性 3D 打印可调节头梁垫，号称拥有“优秀的抗冲击性和柔韧性”。此外，该耳机搭载 FDT 全面驱动技术，匹配 500nm 超薄振膜以及纯金驱动电路加玻璃 PCB 振膜固定板及高硬度 PMMA 单元框架，号称从“声学性能、谐波失真等多个维度入手，不计成本地投入研发，最终将之打磨至当下预想中的最优状态”。",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/668.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-81cc-97b6-e00b6c0ce19c",
+      "title": "腾讯 QQ 鸿蒙版 App 获 9.2.60 正式版升级，好友聊天支持发送闪照",
+      "summary": "IT之家 8 月 31 日消息，腾讯 QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）推送了 9.2.60（3378）正式版升级。IT之家附更新内容如下：好友聊天支持发送闪照。空间动态支持收藏。扫一扫支持转文字。新增支持精选照片、匿问我答。新增支持手机联系人加好友。视频支持静音播放。新增支持首页下拉小程序。频道支持图片和视频发帖。新增收款码、群收款和转账功能。目前 QQ 鸿蒙版获 4.6 万个评分（评分 2.4），已支持单聊、群聊、多人语音或视频通话、抢红包，刷空间好友动态、短视频、频道、扫一扫、手机 / 平板双端登录等功能。此外，QQ 还在去年 7 月正式上线鸿蒙电脑版，整",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/666.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-8158-b442-fe27449dec7c",
+      "title": "火星地下存在巨大“热异常”：南半球内部温度比北半球高 400℃",
+      "summary": "IT之家 8 月 31 日消息，一项针对火星内部结构的新研究再次表明，这颗红色星球实际上是一个由两个截然不同“半球”组成的世界。研究发现，在火星南半球深处，其内部温度可能比北半球地下高出最高 750 华氏度（约 400 摄氏度），进一步加深了人们对火星奇特南北二分现象的疑问：为什么北部是一片相对平坦的低地，而南部却分布着崎岖的高原？“科学家通常假设，行星天体的内部结构总体上具有球对称性，但事实并不一定如此。”论文第一作者、曾任职于加州理工学院、现就职于亚利桑那大学的亚历山大 · 伯恩在一份声明中表示。伯恩及其团队重新分析了美国宇航局三艘火星探测器的历史数据，包括“火星全球勘测者号”、“火星奥德",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/665.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-8193-a9a9-d150c4f3e542",
+      "title": "I'm an interior designer. These 10 popular trends don't actually look good in real life.",
+      "summary": "An interior designer shares designs that look bad in real life because they age poorly/are hard to maintain, from dark wood floors to white cabinets.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-31",
+      "link": "https://www.businessinsider.com/decor-that-looks-bad-in-real-life-interior-designer-tips-2026-8"
+    },
+    {
+      "id": "3cd03df8-2d23-8130-a1e6-cc1257f6672d",
+      "title": "微信 2026 年 8 月朋友圈热度谣言公布，含“青岛大学新校徽像旭日旗”“新疆阿勒泰八月就能滑雪”等",
+      "summary": "IT之家 8 月 31 日消息，“微信安全中心”公众号今日公布 2026 年 8 月朋友圈热度谣言，主要涉及台风期间各类涉灾谣言、虚假骑手补贴等内容。IT之家附本月朋友圈热度谣言合集如下：1、浙江台州餐饮停业、骑手补贴 200 元？近期，网络流传“受台风‘白海豚’影响，8 月 8 日 18 时至 8 月 9 日 18 时，台州全市餐饮停业一天、外卖骑手统一休息并发放 200 元补贴，如有未发放，请拨打 12345 举报，举报属实可奖励 500–1000 元”等信息，引发部分市民关注。真相：经浙江省台州市有关部门核实，上述内容纯属谣言，台州市从未发布此类通知或安排。所谓“拨打 12345 举报奖",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/664.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-812b-83d9-cd6812b971d2",
+      "title": "New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
+      "summary": "Cody Wilson, the creator of the first 3D-printed gun, announced a tool last week aimed at skirting a New York law that prevents 3D printers from making firearms - and taunting governor Kathy Hochul in the process. But Hochul isn't having it. In this week's episode of Decoder, Hochul responded to Wil",
+      "source": "The Verge",
+      "publishTime": "2026-08-31",
+      "link": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response"
+    },
+    {
+      "id": "3cd03df8-2d23-812a-a497-dc1295ea2052",
+      "title": "I'm a professional organizer. I see clients make these 6 decluttering mistakes again and again.",
+      "summary": "I'm a professional organizer, and I see people making many decluttering mistakes, like keeping a lot of souvenirs or storing unrelated items together.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-31",
+      "link": "https://www.businessinsider.com/most-common-decluttering-mistakes-from-professional-organizer-2026-8"
+    },
+    {
+      "id": "3cd03df8-2d23-8102-808e-d8e18160e5ef",
+      "title": "快手：国家人工智能基金向北京可灵注入现金资本 14 亿元",
+      "summary": "IT之家 8 月 31 日消息，快手今日在港交所公告，北京可灵今日分别与国家人工智能基金及 Charoen Pokphand Robot Limited（正大机器人）订立加入协议。据此，国家人工智能基金及正大机器人各自同意作为额外投资者成为增资协议的订约方，并分别向北京可灵注入现金资本人民币 14 亿元及约 1929 万美元（相当于约人民币 1.31 亿元）。同日，北京可灵分别与国家人工智能基金及正大机器人订立股东协议的加入协议，国家人工智能基金及正大机器人均获授予回购权。IT之家注：国家人工智能产业投资基金（简称“国家人工智能基金”）总出资额约为 600.6 亿元人民币，由国家集成电路产业投",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/663.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-817c-88ba-c83c542ee003",
+      "title": "OpenAI says its ads business is booming as it marches toward an IPO",
+      "summary": "OpenAI said its ads business hit a $1 billion annualized revenue run rate: \"Advertising is one pillar of OpenAI's diversified business model.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-08-31",
+      "link": "https://www.businessinsider.com/openai-chatgpt-ad-revenue-ipo-2026-8"
+    },
+    {
+      "id": "3cd03df8-2d23-8153-82f8-c2d1012b12c5",
+      "title": "技嘉 Brix 系列迷你主机现身官网：锐龙 AI 7 450/AI 5 430 处理器",
+      "summary": "IT之家 8 月 31 日消息，技嘉近日在官网悄悄上线了几款 Brix 系列迷你主机，新机采用 AMD Gorgon Point 平台，内存最高支持扩展至 96GB。IT之家了解到，本次技嘉官网上线的新机有 GB-BRR7-450 和 GB-BRR5-430 两款。前者搭载锐龙 AI 7 450 处理器、Radeon 860M 核显，后者配备锐龙 AI 5 430、Radeon 840M。规格方面，这两款迷你主机可通过 USB4 接口外接显卡。除此之外还提供 USB 2.0 Type-A、USB 3.2 Gen 2 Type-C、HDMI、2.5GbE 等接口。同时，这两款产品还可通过 SO-",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/662.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-81e7-a254-cc610512d1ea",
+      "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
+      "summary": "OpenAI's move to serve ads in ChatGPT earlier this year drew ridicule from its chief rival, Anthropic, in the form of a Super Bowl commercial.",
       "source": "CNBC Tech",
       "publishTime": "2026-08-31",
-      "link": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html"
+      "link": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html"
     },
     {
-      "id": "3cd03df8-2d23-8176-abcf-fc560466e8e9",
-      "title": "全球仅剩三位数的物种，科学家却连一个准数都数不出来",
-      "summary": "门前大桥下游过勺嘴鹬，快来快来数一数……这究竟怎么数呀？ 查看全文",
-      "source": "少数派",
+      "id": "3cd03df8-2d23-812b-8690-c0c22268c365",
+      "title": "Axe is betting Gen Z is ready for a whiff of Y2K",
+      "summary": "Spray it ain't so: Axe is reviving classic fragrances and winking at the marketing that made it famous.",
+      "source": "Business Insider",
       "publishTime": "2026-08-31",
-      "link": "https://sspai.com/post/113827"
+      "link": "https://www.businessinsider.com/axe-brings-back-kilo-taps-into-y2k-nostalgia-marketing-2026-8"
     },
     {
-      "id": "3cd03df8-2d23-814d-9369-ebc7c57b5934",
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "id": "3cd03df8-2d23-817a-92dd-fde8f0edb11a",
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Me",
+      "source": "The Verge",
+      "publishTime": "2026-08-31",
+      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
+    },
+    {
+      "id": "3cd03df8-2d23-8184-a9d9-d1eea4a80f56",
+      "title": "荣耀 MagicOS 11 亮点公布：升级省存储空间、UX 焕新液态玻璃、支持多协议快充",
+      "summary": "IT之家 8 月 31 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日宣布，今晚 MagicOS 11 内测版本增推，随后他公布了新系统的亮点内容。存储空间立省，最高省 60GB无损压缩存储数据和自动清理冗余文件，释放更多空间不常用应用清理，增加更多可用存储空间升级故事翻开你与荣耀的独家时光；留存初遇瞬间，记录朝夕相伴；定格先锋位次，见证你的先行时刻UX 焕新全新液态玻璃：全屏通透，流动液态更出圈流光通透设计，贯穿系统的流光体验通透自定义：材质、通透度任意调节充电体验提升支持多协议快充，告别充电焦虑，无线充电更稳更高效通信体验提升鸿雁 AI 云图智选最优网络；弱网场景上网体验提升；频繁进出电梯",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/659.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-81a3-9200-f7e2758bb55a",
+      "title": "As a local, there are 10 things I wish tourists knew before visiting Japan",
+      "summary": "I spent years visiting Japan and now live here as a local resident. I've seen tourists make big mistakes before and during their trips here.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-31",
+      "link": "https://www.businessinsider.com/tips-visiting-japan-local-things-to-know-mistakes-recommendations-2026-8"
+    },
+    {
+      "id": "3cd03df8-2d23-81a2-8a03-daab7b306dea",
+      "title": "华硕新款 Zenbook A14 笔记本发布：骁龙 X 处理器、8GB 内存起步",
+      "summary": "IT之家 8 月 31 日消息，华硕现已在海外市场推出新款 Zenbook A14（UX3480QA）笔记本。新品搭载高通骁龙 X 处理器，配备 OLED 屏幕和 50Wh 电池，最长续航可达 30 小时。据介绍，这款笔记本搭载 14 英寸 OLED 屏幕，分辨率为 1920*1200，刷新率最高 60Hz，覆盖 100% DCI-P3 色域。规格方面，这款笔记本配备高通骁龙 X（X1-26-100）处理器，拥有 LPDDR5X 内存和 M.2 2280 PCIe 4.0 SSD。带有 50Wh 三芯电池，支持 68W 充电。此外，这款笔记本的起售价是 799 英镑（IT之家注：现汇率约合 7",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/658.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-81c4-b7eb-ced7a643b4ed",
+      "title": "Bank of England chief warns new AI models threaten global financial stability",
+      "summary": "Bank of England Governor Andrew Bailey has warned that frontier AI could materially increase cyber risks to the global financial system.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-31",
+      "link": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html"
+    },
+    {
+      "id": "3cd03df8-2d23-812f-b0f3-cc828a699f76",
+      "title": "I moved from DC to Los Angeles to save a relationship. We broke up, but 10 years later, I'm still living here.",
+      "summary": "I left Washington, DC, for Los Angeles with the hopes that it would help a relationship. We broke up, but I stayed and built a strong community here.",
+      "source": "Business Insider",
+      "publishTime": "2026-08-31",
+      "link": "https://www.businessinsider.com/moved-to-los-angeles-for-relationship-broke-up-stayed-reasons-2026-8"
+    },
+    {
+      "id": "3cd03df8-2d23-819b-8ce4-c134ec4184ce",
+      "title": "微软 XBOX 确认：《神鬼寓言》主线通关需 15-20 小时",
+      "summary": "IT之家 8 月 31 日消息，据游戏媒体 VGC 今天报道，微软 XBOX 旗下工作室 Playground Games 在 2026 科隆游戏展确认，《神鬼寓言》游戏主线任务通关大约需要 15-20 小时。本作副总监 Will Kennedy 表示：“我们大约有 15 至 20 小时的主线任务内容，以及大约 15 至 20 小时的支线任务和开放世界探索内容。当然生活系统是没有限制的，所以你想玩多久就玩多久。”与其他动作 RPG 相比，《神鬼寓言》系列过去并非以超长游戏流程著称。据 How Long to Beat 网站统计数据，前三部《神鬼寓言》的主线平均通关时间大约是 12.5 小时、1",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/657.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-8115-ba81-f6b2084853c4",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws ",
+      "source": "The Verge",
+      "publishTime": "2026-08-31",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+    },
+    {
+      "id": "3cd03df8-2d23-81ee-b415-efa09f376e0a",
+      "title": "vivo OriginOS 7 系统重构渲染管线和编译框架，渲染速度较上代提升 14%",
+      "summary": "IT之家 8 月 31 日消息，vivo OS 产品总监 @vivo百奇Bucky 今日在微博透露，OriginOS 7 操作系统将带来全新「液态动效」，结合更加自然的全新材质，界面元素犹如“液体般的灵动”。IT之家注意到，vivo 本次在底层技术上进行全面升级。蓝河流畅引擎的「虚拟显卡 4.0」重构了渲染管线和编译框架，渲染速度较 OriginOS 6 提升 14%。同时，vivo 本次升级了拟真渲染，动效基于状态实时动态计算，并极致优化渲染逻辑。在动效体验大幅提升的前提下，以最佳能效控制性能开销。官方希望这次升级不仅是体验更流畅，而是让材质与动效融为一体，让界面从「被操作」变成「与你互动」",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/656.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-81c0-992a-e640d40e1452",
+      "title": "微信支付 AI 专属卡支持接入 DeepSeek Harness 和 OpenClaw",
+      "summary": "IT之家 8 月 31 日消息，微信支付官方今日宣布，微信支付 AI 专属卡上新，继 WorkBuddy、QClaw 之后，支持接入 DeepSeek Harness 和 OpenClaw。授权后，用户只需在对话中提出需求，就能体验从智能对话推荐到下单支付的全新消费流程。目前，AI 专属卡已支持在 DeepSeek Harness 和 OpenClaw，付费调用 Skillhub 上的 700 余个 Pay Skill，未来将覆盖更多场景。IT之家附开通步骤：步骤一：把下面这句话复制给 DeepSeek Harness 或 OpenClaw，一键完成下载、安装和配置。请通过 npx -y @t",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/655.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-81ff-a250-f1b9672af548",
+      "title": "OpenAI：ChatGPT 广告年化收入运行率已达 10 亿美元",
+      "summary": "IT之家 8 月 31 日消息，OpenAI 当地时间周一宣布，其广告业务的年化收入运行率（annualized revenue run rate，是将企业短期已确认收入按当前速度外推至全年的估算指标）已经达到 10 亿美元（IT之家注：现汇率约合 67.36 亿元人民币）。该公司将这一里程碑视为其“多元化商业模式”取得成效的证明。这家人工智能公司正在为预计规模庞大的首次公开募股（IPO）做准备，同时也面临着向投资者证明其 8,520 亿美元（现汇率约合 5.74 万亿元人民币）估值合理性的压力。OpenAI 表示，旗下广告业务发展至今约 200 天，是在企业服务、消费者订阅以及按使用量计费的",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/653.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-811d-9473-c19ff689af6c",
+      "title": "沙特 13 岁以上公民和居民可免费使用 Adobe 两项服务 1 年，总价超 40 亿美元",
+      "summary": "IT之家 8 月 31 日消息，Adobe 当地时间今日在沙特阿拉伯首都利雅得举行的 LEAP 2026 大会上宣布，沙特 13 岁以上公民和居民将获得 Adobe Firefly Standard 及 Adobe Express Premium 的 12 个月免费使用权。这是 Adobe 与沙特通信和信息技术部、沙特主权财富基金 PIF 旗下人工智能企业 HUMAIN 扩展合作的一部分，覆盖超 2700 万沙特人，总价值超过 40 亿美元（IT之家注：现汇率约合 269.43 亿元人民币）。Adobe 同时宣布自今天起在全球范围内的 Adobe Express 桌面版、网页版和 iOS 版上",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/651.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-81ed-8acb-ea65b90d59c7",
+      "title": "三款微软 Xbox 游戏确定将于 9 月关闭在线服务器，部分游戏仍可离线游玩",
+      "summary": "IT之家 8 月 31 日消息，尽管本周将有超过 40 款游戏登陆 Xbox 平台，同时还有 45 款游戏获得掌机兼容性支持，但据 PureXbox 报道，已有三款游戏确认将在 2026 年 9 月关闭在线服务器。目前，《Hawked》、《GRID Legends》和《Sociable Soccer 25》均已确定将在 9 月关闭在线服务器。不过，在本月底之前，仍可能有更多游戏加入这一名单。据IT之家了解，《Hawked》是一款免费在线合作游戏，目前已经从商店下架。该游戏的服务器将于 2026 年 9 月 7 日关闭。由于游戏完全依赖在线功能运行，服务器关闭后，《Hawked》将彻底无法游玩。",
+      "source": "IT之家",
+      "publishTime": "2026-08-31",
+      "link": "https://www.ithome.com/0/996/650.htm"
+    },
+    {
+      "id": "3cd03df8-2d23-8145-97cd-f98f69463f6f",
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that p",
+      "source": "The Verge",
+      "publishTime": "2026-08-31",
+      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
+    },
+    {
+      "id": "3cd03df8-2d23-813e-8537-c7b603820c61",
+      "title": "G20 meetings, strikes on Iran, the 'alphabet soup' economy and more in Morning Squawk",
+      "summary": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-08-31",
+      "link": "https://www.cnbc.com/2026/08/31/5-things-to-know-before-the-stock-market-opens.html"
+    },
+    {
+      "id": "3cd03df8-2d23-81ff-b095-f3dd8d6c86cc",
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
       "source": "TechCrunch",
       "publishTime": "2026-08-31",
-      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
     },
     {
-      "id": "3cd03df8-2d23-8190-bfa6-eeded5dfadaa",
-      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been promisi",
-      "source": "TechCrunch",
-      "publishTime": "2026-08-31",
-      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/"
-    },
-    {
-      "id": "3cd03df8-2d23-81c9-a09f-ca4a6563aa46",
-      "title": "小米澎程 N90 Max 上海至北京“中途不补能”测试视频发布，实测续航里程超 1230 公里",
-      "summary": "IT之家 8 月 31 日消息，小米集团董事长特别助理、战略市场部副总经理徐洁云刚刚发布了澎程 N90 Max 上海至北京“中途不补能”测试视频。徐洁云透露：小米澎程 N90 Max，上海至北京，中途不充电、不补能，全程一镜到底，实测续航里程 1230 公里，抵达终点剩余续航 54 公里。全程平均时速 104km/h，纯电续航 323.6km，亏电油耗 6.7L/100km。据IT之家此前报道，在 7 月 30 日的小米澎程技术发布会上，小米公布了澎程 N90 Max 的续航、动力信息。据介绍，小米澎程 N90 Max 支持 CLTC 纯电续航 464km、CLTC 综合续航 1705km，W",
+      "id": "3cd03df8-2d23-81ff-bae1-ea2c71c43810",
+      "title": "智谱披露下一代大模型规划：采用大基座路线，目标发布首日即可支持满规模业务调用",
+      "summary": "IT之家 8 月 31 日消息，据科创板日报报道，智谱今日在 2026 年半年度业绩发布会上，对外透露下一代大模型研发进展。智谱表示，新一代产品将采用大基座路线，暂不披露具体参数，后续将围绕基座开展中训练、后训练相关工作。智谱强调，模型研发核心思路是充分释放基座能力，保障模型可实际落地使用。公司现已针对下一代模型开展推理侧预研，目标实现模型发布首日即可支持满规模业务调用，避免出现“模型规模大但难以实际应用”的问题。据IT之家此前报道，智谱今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：营业总收入：9.54 亿元，",
       "source": "IT之家",
       "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/346.htm"
+      "link": "https://www.ithome.com/0/996/649.htm"
     },
     {
-      "id": "3cd03df8-2d23-8191-98cb-fc23d3e5f025",
-      "title": "荣耀MagicOS 11 提前剧透：AI 窥屏防护覆盖超多机型，智能识别机主身份",
-      "summary": "IT之家 8 月 31 日消息，荣耀今日发布 MagicOS 11 提前剧透第四弹 ——AI 窥屏防护覆盖超多机型。据介绍，该功能支持智能识别机主身份，偷看表情包警告，隐私党 / 社恐人的福音。设置路径：设置 > 隐私与安全 > 窥屏防护 > 打开「窥屏防护」据IT之家此前报道，荣耀 MagicOS 11 系统将首发荣耀琉光架构，并支持全新荣耀蜂鸟架构。内测招募覆盖 Magic8 / V6、WIN、GT Pro、数字 600、MagicPad 3 Pro 等 17 款手机 / 平板。首发荣耀琉光架构：安卓底层重构，液态玻璃效果拉满，功耗几乎零增长，高级又精致；全新荣耀蜂鸟架构：人因流畅体系，一",
+      "id": "3cd03df8-2d23-81c1-b97a-f64abe3de217",
+      "title": "AMD、思科、HUMAIN 合作落地，Instinct MI355X 算力进驻沙特",
+      "summary": "IT之家 8 月 31 日消息，AMD 当地时间今日宣布，由其计算芯片与 Cisco（思科）网络芯片驱动的人工智能算力已在沙特阿拉伯上线，为沙特主权财富基金 PIF 旗下人工智能企业 HUMAIN 的客户提供服务。该人工智能基础设施配备 AMD 的 Instinct MI355X GPU、EPYC CPU，网络部分则使用基于思科 Silicon One 网络处理器与 800G 光学系统的思科 N9000 系列交换机，实现了规模化低延迟高韧性互连，支持人工智能训练 / 推理负载。HUMAIN 在此基础上为沙特企业用户推出了面向入门级应用场景的 \"AI in a Box\" 一站式“交钥匙” AI ",
       "source": "IT之家",
       "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/340.htm"
+      "link": "https://www.ithome.com/0/996/648.htm"
     },
     {
-      "id": "3cd03df8-2d23-812d-ac14-ee96e2bc553c",
-      "title": "Ubiquiti 推出 UniFi 旅行路由器长程版：升级高增益天线，维持 AC1200 规格",
-      "summary": "IT之家 8 月 31 日消息，Ubiquiti（优倍快）本月 28 日宣布推出 UTR-LR 旅行路由器，定价 99 美元（IT之家注：现汇率约合 666.8 元人民币）。这是 2025 年底推出的 UTR 的长程 (Long-Range) 版本，在维持相同基础功能的同时升级至高增益天线阵列，显著扩展了无线信号覆盖范围，不过也要贵上 20 美元（现汇率约合 134.7 元人民币）。UTR-LR 依旧具备 AC1200 无线规格，上行侧则提供 2 个 1GbE RJ45 网口并支持 USB 网络共享，采用 USB-C 供电，集成一块 1.14\" 状态显示屏。",
+      "id": "3cd03df8-2d23-81d0-89d7-cc28b497a989",
+      "title": "索尼 PlayStation 官宣 State of Play 游戏发布会定档 9 月 3 日",
+      "summary": "IT之家 8 月 31 日消息，索尼 PlayStation 官方今晚宣布，游戏发布会“State of Play”将于 9 月 3 日（IT之家注：北京时间 21:00）重磅回归，届时将连播两场精彩节目。首先登场的是全新一期 State of Play 主会场。本场将带来 PlayStation 工作室与第三方合作伙伴的最新动态和重大消息；节目最后，史克威尔艾尼克斯（Square Enix）将展示《最终幻想 7：启示录》（Final Fantasy VII Revelation）的广阔世界。紧随其后的是由梶裕贵主持的全新一期“State of Play 日本专场”。本场节目将深度聚焦日本及亚",
       "source": "IT之家",
       "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/335.htm"
+      "link": "https://www.ithome.com/0/996/647.htm"
     },
     {
-      "id": "3cd03df8-2d23-816d-a39f-e619ae14cc30",
-      "title": "Omdia：2026 年 Q2 全球电视出货量同比增长 3.6%，中国市场下降 15.1%",
-      "summary": "IT之家 8 月 31 日消息，Omdia 今日发布的最新研究报告显示，尽管市场环境日益严峻，但受 FIFA 世界杯和 Amazon Prime 会员日档期需求拉动，2026 年第二季度，全球电视出货量同比增长 3.6%，达到 4,880 万台。持续的消费者通胀和存储器供应收紧正加大整个行业的成本压力，不过这些因素在本季度对电视出货量增长的影响有限。报告称，中国仍是全球电视出货量增长面临的最大压力来源，随着本土消费刺激政策结束后，出货量同比下降 15.1%。相比之下，主要发达市场在本季度表现强劲。西欧市场增长 9.5%，而北美作为三个世界杯东道主中两个国家的所在地，增长了 4.7%。新兴市场表",
+      "id": "3cd03df8-2d23-81c1-80aa-dd6122fa29ad",
+      "title": "联发科将基于英伟达 NVLink Fusion 为客户开发定制 XPU",
+      "summary": "IT之家 8 月 31 日消息，NVIDIA（英伟达）与联发科技 (Mediatek) 今日宣布深化长期合作伙伴关系，共同打造跨世代的 AI 基础设施、边缘 AI 运算、车用产品。联发科技将采用 NVIDIA NVLink Fusion 平台为客户开发客制化 XPU 芯片，整合至 NVIDIA 机柜级系统及 AI 工厂。NVIDIA 同时向联发科技发行的海外可转换公司债投资 35 亿美元（IT之家注：现汇率约合 235.75 亿元人民币）。此外，双方将持续合作开发未来数代 RTX Spark / DGX Spark 电脑芯片；两家企业也将持续开放具备 AI 功能的 SDV（软件定义汽车）平台。",
       "source": "IT之家",
       "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/330.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8103-80ee-d80922368c95",
-      "title": "小米米家洗衣机迷你双筒洗烘 5kg 预售，国补到手价 2699 元",
-      "summary": "IT之家 8 月 31 日消息，小米今日宣布米家洗衣机迷你双筒洗烘 5kg 开启预售，建议零售价 3499 元，国补到手价 2699 元。IT之家从商品页面获悉，这款产品拥有 5kg 大容量，全家贴身衣物不分批、不混洗；40 分钟高效洗烘，无惧梅雨天晾晒难题；真丝专属 40°C 柔烘，衣干即停不伤衣；1.87 蛋白奶渍洗净比，1.92 血渍洗净比；母婴级健康认证，除菌、除病毒率达 99.99%。该产品搭载 DD 直驱电机，提供 255mm 超大筒径；双筒独立 150ml 投放盒，加满一次使用 1 个月，智能精控投放剂量，减少洗涤残留；34 种特渍专属程序满足多场景去污需求，涵盖奶渍、果蔬果酱渍",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/324.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8168-a292-ea466903fce4",
-      "title": "2026 年 9 月科技事件日历一览表",
-      "summary": "IT之家的观众老爷们好，小泵来给大家做汇报了 [嘿哈]。下面是 2026 年 9 月科技事件的预告汇总，请查收！ [之家] 小泵友情提示：很多活动可能在开始前几天才能确定具体时间，因此这个日历会随时更新，大家可以前往IT之家 App 事件栏目，查看最新动态，为感兴趣的内容设置“提醒”，或开启“自动同步至系统日历”功能。",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/308.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8135-8907-d20c1ac04db0",
-      "title": "代码显示 Meta 拟拆分移动平台 Horizon App 内置游戏功能，将推出独立应用",
-      "summary": "IT之家 8 月 31 日消息，消息源 NoridoesVR 在拆解 Meta Horizon 手机 App 时发现，Meta 计划将 Horizon Worlds 游戏功能从相应 App 中拆出。相应项目内部代号为“Eclipse”，命名预计为“Horizon Create”。参考IT之家先前报道，Meta 旗下 Reality Labs VR 团队在今年 3 月进行大规模裁员重组，官方一度决定停止 Horizon Worlds 对 Quest 系列 VR 设备的支持。不过在几天后，公司又取消了相应计划。如今，Meta 似乎准备进一步切割 Horizon Worlds 和 Quest 头显之",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/309.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81c2-ba0b-f07a63e8793d",
-      "title": "美国 ITC 对特定移动设备启动 337 调查，苹果公司为列名被告",
-      "summary": "IT之家 8 月 31 日消息，据中国贸易救济信息网今日消息，8 月 28 日，美国国际贸易委员会（ITC）投票决定对特定带有用于交换电子内容的软硬件的移动设备启动 337 调查。2026 年 7 月 28 日，美国 GG Technologies, Inc. d/b/a StayTouch of Santa Monica, California 向美国 ITC 提出 337 立案调查申请，主张对美出口、在美进口和在美销售的该产品违反了美国 337 条款（侵权美国注册专利号 12,022,369），请求美国 ITC 发布有限排除令、禁止令。美国 Apple Inc. of Cupertino,",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/307.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81a9-b211-e98492fe38e9",
-      "title": "小鹏 G9L 大五座 SUV 全系标配双向 15° 线控后轮转向，最小转弯半径 5.4 米",
-      "summary": "IT之家 8 月 31 日消息，小鹏汽车今日继续预热旗下大五座 SUV —— 小鹏 G9L。新车全系标配双向 15° 线控后轮转向，最小转弯半径 5.4 米，宣称“双车道掉头一把过，灵活堪比 A0 级小车”。小鹏汽车官方还放出了小鹏 G9L 大五座 SUV 掉头和绕圈场景实测视频。据IT之家此前报道，小鹏 G9L 汽车已于 8 月 11 日开启预售，共推出超级增程、纯电两种动力，预售价 25.98 万元。外观方面，小鹏 G9L 拥有普罗旺斯紫、托斯卡纳绿、珠峰白、峡湾灰、极夜黑等多款车色可选，车身尺寸为 5120mm*1999mm*1782mm，拥有 3100mm 的超长轴距和 0.605 轴",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/306.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-8172-897d-dfe904ada58c",
-      "title": "2025 年全球亿万富翁人数创历史新高，AI 投资成主要增长动力",
-      "summary": "IT之家 8 月 31 日消息，据央视财经昨日援引美国《财富》杂志网站报道，财富情报公司 Altrata 的最新报告显示，2025 年全球亿万富翁人数达 3,795 人，创下历史新高；亿万富翁总财富额同比增长 12.8%，达到 15.1 万亿美元（IT之家注：现汇率约合 101.71 万亿元人民币），同样刷新纪录，这一数字接近美国标普 500 指数成分股总市值的四分之一。在这些亿万富翁中，资产超过 500 亿美元（现汇率约合 3,367.88 亿元人民币）的有 29 人，包括拉里 · 佩奇、埃隆 · 马斯克和杰夫 · 贝索斯等。具体来看，AI 投资热潮是亿万富翁财富增长的主要驱动力，不少科技领",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/305.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-81a0-af20-e2644232f1b3",
-      "title": "全新领克 20 三色官图发布，新车预计三季度上市",
-      "summary": "IT之家 8 月 31 日消息，领克汽车今日发布全新领克 20 三款车色官方海报，包括山茶白、安可拉红、沙丘米，新车预计三季度上市。新车基于领克 Z20 升级而来，新增激光雷达，高阶智驾能力全面提升。工信部申报信息显示，领克 20 尺寸为 4495×1845×1573mm、轴距 2755mm；采用单电机布局，最大功率为 245 千瓦，配备磷酸铁锂电池，最高车速 201km/h。该车内饰官图此前已经公布，全新领克 20 采用环抱式座舱设计，配备全液晶仪表盘、HUD 抬头显示以及悬浮中控屏、运动风多功能方向盘。值得一提的是，中控屏上方还有一个机器人造型的摆件，预计可单独选配。新车配备机械式门把手，",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/304.htm"
-    },
-    {
-      "id": "3cd03df8-2d23-814e-b678-cdaefb9f9140",
-      "title": "小马智行携手 FutureLink，拟首批在韩商业投放 200 辆 Robotaxi",
-      "summary": "IT之家 8 月 31 日消息，参考韩联社当地时间 30 日报道，韩国自动驾驶移动出行企业 FutureLink 已同小马智行 (Pony.ai) 签署战略合作协议，计划在韩国当地市场提供基于小马智行第 7 代 Robotaxi 的商业出行服务。两家企业去年已在首尔江南自动驾驶示范区开展自动驾驶技术验证，累计行驶约 8 万公里且未发生事故。此次商业投放首批设计规模 200 辆，由北汽负责制造，有望于 2028 年取得韩国政府相关认证。FutureLink 与小马智行将设立韩国合资企业，前者负责落地准入和车队运营，后者则提供自动驾驶技术支持。FutureLink 表示在韩国收集的数据不会传输至境",
-      "source": "IT之家",
-      "publishTime": "2026-08-31",
-      "link": "https://www.ithome.com/0/996/303.htm"
+      "link": "https://www.ithome.com/0/996/645.htm"
     }
   ],
   "macroEvents": [
