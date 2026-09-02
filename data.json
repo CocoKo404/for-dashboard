@@ -1,6 +1,294 @@
 {
-  "updatedAt": "2026-09-03 02:50",
+  "updatedAt": "2026-09-03 05:54",
   "news": [
+    {
+      "id": "3cf03df8-2d23-81cb-b2ca-c7d44379149f",
+      "title": "Here are some of REI’s best Labor Day sale deals",
+      "summary": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s clothing and REI Co-op gear to equipment for camping and hiking and more. The sal",
+      "source": "The Verge",
+      "publishTime": "2026-09-03",
+      "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026"
+    },
+    {
+      "id": "3cf03df8-2d23-8183-a79a-c3c37bb9e3da",
+      "title": "1Password wades into a right-wing mess after funding a Linux project",
+      "summary": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for deportation of ethnic minorities in Europe. The popular passwor",
+      "source": "The Verge",
+      "publishTime": "2026-09-03",
+      "link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy"
+    },
+    {
+      "id": "3cf03df8-2d23-81d7-9ee2-e98c2a33cdcb",
+      "title": "What the big bond sell-off means for your wallet",
+      "summary": "Bond yields influence consumer and corporate borrowing costs, with implications for stocks, mortgages, and businesses.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-03",
+      "link": "https://www.businessinsider.com/what-bond-yields-mean-for-your-wallet-mortgage-rates-stocks-2026-9"
+    },
+    {
+      "id": "3cf03df8-2d23-810b-a3ee-fbebf9f67e6c",
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+      "source": "Wired",
+      "publishTime": "2026-09-03",
+      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/"
+    },
+    {
+      "id": "3cf03df8-2d23-81b3-aa46-fa7e4b040976",
+      "title": "ICE Plans to Pay $5 Million to Create National Voting Database",
+      "summary": "As part of a broader DHS surge to investigate alleged voter fraud, ICE has announced it plans to pay up to $5 million to create what amounts to a federal voter database.",
+      "source": "Wired",
+      "publishTime": "2026-09-03",
+      "link": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/"
+    },
+    {
+      "id": "3cf03df8-2d23-818a-b47c-ff7834239b23",
+      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+      "source": "Wired",
+      "publishTime": "2026-09-03",
+      "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/"
+    },
+    {
+      "id": "3cf03df8-2d23-8119-b066-cc3d5d8a491c",
+      "title": "Amazon customers are up in arms over an email change",
+      "summary": "Amazon modifies order confirmation emails, causing customer frustration over privacy and product information changes.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-03",
+      "link": "https://www.businessinsider.com/amazon-alters-email-order-details-customers-express-discontent-2026-9"
+    },
+    {
+      "id": "3cf03df8-2d23-8186-817a-cc51efe13743",
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to com",
+      "source": "The Verge",
+      "publishTime": "2026-09-03",
+      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
+    },
+    {
+      "id": "3cf03df8-2d23-81ff-989b-e6c4da9850f4",
+      "title": "My husband and I run a bank, but our kids still make financial mistakes. Here's what we're teaching them about money.",
+      "summary": "Teri Williams runs OneUnited Bank and taught her kids about money. She was stunned when her daughter misunderstood a basic credit card term.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-03",
+      "link": "https://www.businessinsider.com/teri-williams-oneunited-bank-kids-financial-literacy-2026-9"
+    },
+    {
+      "id": "3cf03df8-2d23-8102-8b27-f37d635fc7b4",
+      "title": "See where aspiring entrepreneurs are showing the most interest in starting a business, ranked",
+      "summary": "Los Angeles County and the small Wyoming county of Sheridan don't share many similarities, except in one area: a lot of business applications.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-03",
+      "link": "https://www.businessinsider.com/us-counties-where-entrepreneurs-most-apply-to-start-a-business-2026-8"
+    },
+    {
+      "id": "3cf03df8-2d23-81ef-9df3-e5cf87376f83",
+      "title": "We built a life we love states away from our parents. Now that we're starting a family, I'm second-guessing our choice.",
+      "summary": "My husband and I moved far away from our parents and built a life we love. Now that we're growing our family, I'm worried it was the wrong choice.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-03",
+      "link": "https://www.businessinsider.com/moved-states-away-from-parents-worried-having-kids-regret-2026-9"
+    },
+    {
+      "id": "3cf03df8-2d23-8189-a8a6-f0642b76c7cd",
+      "title": "Mamdani expels AI from the classroom for 600,000 students",
+      "summary": "The new guidelines will block or delete AI from school software used by elementary and middle school students, as well as limits on screen time.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-03",
+      "link": "https://www.businessinsider.com/mamdani-new-york-ciy-schools-ai-moratorium-2026-09"
+    },
+    {
+      "id": "3cf03df8-2d23-81ed-803f-f8279041f8aa",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-03",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
+    },
+    {
+      "id": "3cf03df8-2d23-81cc-a84d-db20604e9ef4",
+      "title": "Google yet again avoided a breakup of its business — but it will have to play nicer",
+      "summary": "A judge ruled Google doesn't have to sell off parts of its adtech business, but it will face other remedies.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-03",
+      "link": "https://www.businessinsider.com/google-avoids-adtech-breakup-in-federal-judge-ruling-2026-9"
+    },
+    {
+      "id": "3cf03df8-2d23-81d6-a23d-d4418ee019ea",
+      "title": "X shifts US creator payouts from Stripe to X Money",
+      "summary": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"
+    },
+    {
+      "id": "3cf03df8-2d23-81b1-8e38-d9213375e73b",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
+    },
+    {
+      "id": "3cf03df8-2d23-8187-80ae-c3af434f082d",
+      "title": "The US Navy's top admiral says lasers are key to keeping cheap drones from eating into warship missile magazines",
+      "summary": "The Navy and other services have explored the use of laser weapons, but the capabilities come with substantial power and cooling requirements.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-03",
+      "link": "https://www.businessinsider.com/us-navy-top-admiral-says-lasers-needed-counter-cheap-drones-2026-9"
+    },
+    {
+      "id": "3cf03df8-2d23-8140-8af9-dbdffd1463a5",
+      "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
+      "summary": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spaceship-looking pod as a Range Rover. Sometimes fam",
+      "source": "The Verge",
+      "publishTime": "2026-09-03",
+      "link": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs"
+    },
+    {
+      "id": "3cf03df8-2d23-814c-8b9d-c97d2028970c",
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+      "summary": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/"
+    },
+    {
+      "id": "3cf03df8-2d23-8113-858b-fa5176d45652",
+      "title": "Uber to cut over 3,000 jobs in major global restructuring",
+      "summary": "The company says cutting roles would make its operations \"simpler and faster\".",
+      "source": "BBC Tech",
+      "publishTime": "2026-09-03",
+      "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3cf03df8-2d23-81f9-8ec3-c1243f13de02",
+      "title": "The best tech and gadgets announced at IFA so far",
+      "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - in",
+      "source": "The Verge",
+      "publishTime": "2026-09-03",
+      "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones"
+    },
+    {
+      "id": "3cf03df8-2d23-8155-9810-cb56b30f80f0",
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI secur",
+      "source": "The Verge",
+      "publishTime": "2026-09-03",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+    },
+    {
+      "id": "3cf03df8-2d23-81d8-8deb-db9f4b720887",
+      "title": "Warren Buffett piled into Alphabet to bet big on AI, successor Greg Abel says",
+      "summary": "Greg Abel shed light on Warren Buffett's post-CEO role at Berkshire Hathaway and massive Alphabet wager in a rare TV interview.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-03",
+      "link": "https://www.businessinsider.com/warren-buffett-alphabet-stock-greg-abel-interview-ai-investing-berkshire-2026-9"
+    },
+    {
+      "id": "3cf03df8-2d23-812a-8cb2-ebb6552b4c47",
+      "title": "A cook who grew up on the Mediterranean Diet shares what she eats in a day, including sweet potatoes at breakfast",
+      "summary": "The Mediterranean diet is widely considered the healthiest way to eat. It prioritizes fruit and veggies, legumes and whole grains, but isn't strict.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-03",
+      "link": "https://www.businessinsider.com/what-cook-who-grew-up-on-mediterranean-diet-eats-day-2026-9"
+    },
+    {
+      "id": "3cf03df8-2d23-8149-ac52-c49eb326c552",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"bi",
+      "source": "The Verge",
+      "publishTime": "2026-09-03",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit"
+    },
+    {
+      "id": "3cf03df8-2d23-8137-9a83-d52ceca7c344",
+      "title": "谷歌推出 Gemini 3.8 Flash Cyber 模型，内部已全面部署用于代码安全防护",
+      "summary": "IT之家 9 月 3 日消息，当地时间 9 月 2 日，谷歌宣布推出 Gemini 3.8 Flash Cyber 模型，通过 Fairwind 计划面向首批受信任的安全防护团队开放。官方表示，在针对漏洞挖掘的行业权威基准测试 CyberGym 上，Gemini 3.8 Flash Cyber 展现出了顶尖水平的自主漏洞挖掘能力。不仅超越了前代 3.5 Flash Cyber，还将多款体量显著更大的前沿模型甩在身后。谷歌在更全面的内部基准测试中对 Gemini 3.8 Flash Cyber 进行了评测。该测试要求模型在涵盖 20 种编程语言的复杂代码工程中，挖掘各类型的安全漏洞。结果表明，该",
+      "source": "IT之家",
+      "publishTime": "2026-09-03",
+      "link": "https://www.ithome.com/0/997/708.htm"
+    },
+    {
+      "id": "3cf03df8-2d23-81c6-ae18-d921e600364b",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+    },
+    {
+      "id": "3cf03df8-2d23-81e1-8f64-d139130d9f4c",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/"
+    },
+    {
+      "id": "3cf03df8-2d23-81f3-bf93-d3979a5e8d28",
+      "title": "森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版首销，2399 元",
+      "summary": "IT之家 9 月 2 日消息，森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版将于 9 月 3 日 0:00 首销，到手价 2399 元。这款耳机有石墨黑 / 奶油白 / 焦糖棕 /冷萃蓝 / 薰衣草紫五色可选，采用人体工学设计，单耳重约 7g；具备 IP54 防尘防泼溅；支持 Qi 无线充电，单次续航可达 12 小时，搭配充电盒综合续航可达 40 小时。这款耳机配备 7mm TrueResponse 动圈驱动单元，升级蓝牙 6.0，搭载骁龙畅听技术，支持 aptX Lossless 无损传输；支持杜比全景声空间音频和头部追踪技术，升级自适应混合主动降噪系统 + 自动抗风噪模式。据介绍",
+      "source": "IT之家",
+      "publishTime": "2026-09-02",
+      "link": "https://www.ithome.com/0/997/707.htm"
+    },
+    {
+      "id": "3cf03df8-2d23-8112-bbc9-f6ef805fa0d7",
+      "title": "神谷英树：游戏能否真正保存，比“实体版还是数字版”更重要",
+      "summary": "IT之家 9 月 2 日消息，据外媒 VGC 今天（2 日）晚间报道，《大神》《鬼泣》和《猎天使魔女》创作者神谷英树认为，相比游戏未来究竟发行实体版还是数字版，更值得担忧的是这些作品能否真正保存下来，让后来的玩家继续游玩。图源：Pexels神谷英树表示，自己现在购买的游戏“100% 都是数字版”，因此实体光盘消失并不会直接影响消费习惯，但实体游戏彻底退出后，可能有一些更有意义的东西也会随之消失。“我现在一款实体游戏都不买，所有游戏 100% 都是数字版。所以看到这个决定时，我的感觉就是：‘是啊，大概就是发展到这一步了。’”作为复古游戏收藏爱好者，神谷英树真正担心的是硬件和发行平台不断更替后，大",
+      "source": "IT之家",
+      "publishTime": "2026-09-02",
+      "link": "https://www.ithome.com/0/997/705.htm"
+    },
+    {
+      "id": "3cf03df8-2d23-8166-ac58-c16892efa927",
+      "title": "抛弃红帽生态，欧洲核子研究组织（CERN）转投 Debian 系统",
+      "summary": "IT之家 9 月 2 日消息，欧洲核子研究组织（CERN）上周在瑞士温特图尔举行 MiniDebConf 大会，宣布将放弃 RHEL（Red Hat Enterprise Linux），转投 Debian 系统。据IT之家了解，欧洲核子研究组织以大型强子对撞机、万维网（WWW）发源地闻名。该机构此前长期使用红帽生态、CentOS 系统，过去曾与其他科研机构维护 RHEL 衍生发行版 Scientific Linux。欧洲核子研究组织使用 CentOS 约十年后考虑再次迁移路线，放弃 RHEL 生态转向 Debian。该机构的工程师曾考虑使用 CentOS Stream，但由于编译器强制启用-m",
+      "source": "IT之家",
+      "publishTime": "2026-09-02",
+      "link": "https://www.ithome.com/0/997/706.htm"
+    },
+    {
+      "id": "3cf03df8-2d23-8159-b79d-f83ae29843fb",
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+      "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+      "source": "Wired",
+      "publishTime": "2026-09-02",
+      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/"
+    },
+    {
+      "id": "3cf03df8-2d23-818e-a245-fcba894897fe",
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video ",
+      "source": "The Verge",
+      "publishTime": "2026-09-02",
+      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit"
+    },
+    {
+      "id": "3cf03df8-2d23-81f4-b659-fa266844b2d9",
+      "title": "黑客暗网兜售 1.53 亿份美国驾照扫描件，FBI 已介入调查",
+      "summary": "IT之家 9 月 2 日消息，据科技媒体 Appleinsider 今天报道，近期有黑客在暗网 Nexus 出售超 1.53 亿份驾驶证扫描件。除此之外，这些不法分子拥有超 1000 万份身份证件、300 万份旅行证件及 57.9 万张医疗卡。安全研究组织 KrebsOnSecurity 上月末获悉该暗网网站存在。他们研究后获悉，这名黑客口中的 1.53 亿份驾照文件并非空穴来风。研究人员在网站中进行空白搜索后，返回了 1150 万页结果，每页显示 15 条信息。其中的扫描文件大部分是美国驾驶证，也有少部分是加拿大驾驶证。KrebsOnSecurity 发现，本次泄露的数据并不仅限于普通身份证",
+      "source": "IT之家",
+      "publishTime": "2026-09-02",
+      "link": "https://www.ithome.com/0/997/704.htm"
+    },
+    {
+      "id": "3cf03df8-2d23-81f0-b8a4-cfea9feb9d0a",
+      "title": "Google dodges another breakup attempt",
+      "summary": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years. Brinkema said she would adopt most of the behavioral changes propos",
+      "source": "The Verge",
+      "publishTime": "2026-09-02",
+      "link": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision"
+    },
+    {
+      "id": "3cf03df8-2d23-8142-a236-d0335c95aa4d",
+      "title": "大众汽车重组计划曝光：“激进”而“痛苦”，4 家德国工厂、数万名员工或危在旦夕",
+      "summary": "IT之家 9 月 2 日消息，当地时间 1 日，德国《经济周刊》披露了 147 页的内部文件，详细介绍大众汽车监事会对集团未来重组的设想。文件描绘了一场“激进”而“痛苦”的重组，规模甚至被形容为“经济史上前所未有”。据IT之家了解，大众汽车考虑关闭德国境内 4 座工厂，这一调整可能从 2031 年开始，一直持续到 2034 年。最先受到影响的据称是埃姆登和茨维考工厂。埃姆登工厂 1964 年投产，截至去年 12 月拥有超过 7700 名员工，目前负责生产大众 ID.4、ID.7 和 ID.7 Tourer。茨维考工厂约有 8000 名员工，生产奥迪 Q4 e-tron 和 Q4 Sportba",
+      "source": "IT之家",
+      "publishTime": "2026-09-02",
+      "link": "https://www.ithome.com/0/997/703.htm"
+    },
     {
       "id": "3cf03df8-2d23-816c-83f1-c041ff6d3872",
       "title": "My parents hung up when I asked for money. It was the best financial advice they ever gave me.",
@@ -16,6 +304,14 @@
       "source": "IT之家",
       "publishTime": "2026-09-02",
       "link": "https://www.ithome.com/0/997/702.htm"
+    },
+    {
+      "id": "3cf03df8-2d23-81e4-9e2c-e73cd89a3700",
+      "title": "Continuous glucose monitors are about to get more complicated",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. My mom was a dramatic woman prone to overreacting. When I was a snotty teen, I told ",
+      "source": "The Verge",
+      "publishTime": "2026-09-02",
+      "link": "https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis"
     },
     {
       "id": "3cf03df8-2d23-8167-a2e2-dc8211b7f555",
@@ -104,302 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-09-02",
       "link": "https://www.ithome.com/0/997/685.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-816b-a132-d9a2db38b2f0",
-      "title": "全美最严格课堂 AI 禁令落地纽约，学生上高中之前不得在课上使用",
-      "summary": "IT之家 9 月 2 日消息，据外媒 The Verge 报道，纽约市市长佐赫兰 · 马姆达尼当地时间 2 日宣布，将在公立学校课堂限制年龄较小的学生使用 AI。禁令为期一年，从 2026-2027 学年开始实施，覆盖约 60 万名 2-K 学前班（IT之家注：2 岁至入园前）至八年级的学生。纽约市还将同步收紧数字设备使用规定，并小规模试点部分 AI 教育工具。根据纽约市教育局的新规，教师不得使用 AI 批改作业，学生升入高中前也不能在课堂上使用 AI，以陪伴和心理支持为主要用途的聊天机器人也将在所有年级禁用。高中生只能在特定情况下使用 AI，每年还将接受两次 AI 素养教育，学习如何在产生“",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/684.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-81cb-8c60-d0759b6a5f25",
-      "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
-      "summary": "Uber is cutting small teams by nearly half and allowing about 1% of its workforce to continue working remotely.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-02",
-      "link": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html"
-    },
-    {
-      "id": "3cf03df8-2d23-8174-aa33-f38f0b99d2f7",
-      "title": "史克威尔艾尼克斯否认私有化传闻",
-      "summary": "IT之家 9 月 2 日消息，日本杂志《選択》近日刊文称，史克威尔艾尼克斯（Square Enix）考虑私有化，引发海外投资基金关注。该文发布后，史克威尔艾尼克斯股价昨日上涨 7%-12%。史克威尔艾尼克斯对此回应称：“日本月刊杂志《選択》近期发布关于本公司可能进行私有化的传闻。然而该信息并非本公司发布，本公司内部当前并未考虑私有化。”IT之家注：史克威尔艾尼克斯是一家位于日本的游戏开发、发行公司，旗下知名 IP 有最终幻想、勇者斗恶龙、王国之心等。2008 年 10 月 1 日改组控股公司，另成立新的子公司法人承继商业名称及业务。公司总部现位于东京都新宿区的新宿东区广场大厦。",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/683.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8130-855b-f801ae8204bc",
-      "title": "Lords call for AI 'kill switch' powers in UK",
-      "summary": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
-      "source": "BBC Tech",
-      "publishTime": "2026-09-02",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3cf03df8-2d23-8153-a4cd-d20df808d01d",
-      "title": "Meet Jessica Pegula, the billionaire heiress fighting for her first Grand Slam title at the US Open",
-      "summary": "Jessica Pegula, 32, is one of the world's highest-paid female athletes and the daughter of Terry and Kim Pegula, who own the Buffalo Bills.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-02",
-      "link": "https://www.businessinsider.com/jessica-pegula-tennis-star-bio-net-worth-photos"
-    },
-    {
-      "id": "3cf03df8-2d23-81ec-874a-de5607f0adad",
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday",
-      "source": "The Verge",
-      "publishTime": "2026-09-02",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting"
-    },
-    {
-      "id": "3cf03df8-2d23-81f5-918e-e52a544f9779",
-      "title": "《热血无赖》设计师称续作仍有可能，只是需要多方面条件成熟",
-      "summary": "IT之家 9 月 2 日消息，据外媒 VGC 今天（2 日）晚间报道，曾参与《热血无赖》设计的阿拉斯泰尔 · 科尼什认为，系列未来并非没有推出续作的可能，只是需要成本、团队和市场等多方面条件同时成熟。IT之家注：初代《热血无赖》于 2012 年推出，是一款开放世界动作冒险游戏，由史克威尔艾尼克斯发行，加拿大工作室 United Front Games 负责开发。游戏上市后总体口碑不错，续作也曾进入筹备阶段，但在 2013 年初被砍。随后，开发团队又着手制作网络衍生作品《Triad Wars》，该项目经过一段时间的测试后，于 2015 年底同样被取消。科尼什坦言，《热血无赖 2》被取消使自己非常",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/681.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8151-9ed0-ea65f0027db4",
-      "title": "微信鸿蒙版 App 获 8.0.21.37 版本尝鲜升级",
-      "summary": "IT之家 9 月 2 日消息，微信鸿蒙版 App 今日在华为应用市场（App Gallery）开启了 8.0.21.37 (8394021) 版本尝鲜升级（可能量少，如果未抢到尝鲜版本，须等待官方“补货”），测试时间为 2026/9/2-2026/10/2。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。IT之家附网友 @伤心萨摩耶 整理的 8.0.21 版本已知灰度测试内容（不绑定版本号）：私聊设置打开免打扰之后支持折叠聊天；通讯录-公众号 / 服务号列表左滑新增“不再关注”；视频号等界面点击分享后按钮 UI 优化，视频号分享新增“复制链接”；发现-直播新增右侧红点推荐消息提醒；发现",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/682.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8110-aae0-ea99b7342f3d",
-      "title": "I lived with my dad for 5 years while attending law school and starting my career. Now that I've moved out, I miss it.",
-      "summary": "I lived at home with my dad while attending law school, and moved out last year. Now, I wish I hadn't put so much pressure on myself to live alone.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-02",
-      "link": "https://www.businessinsider.com/lived-with-parent-during-law-school-moved-out-2026-9"
-    },
-    {
-      "id": "3cf03df8-2d23-8106-b781-dd305273bea1",
-      "title": "Dell is now the most important stock in the market. Here's why",
-      "summary": "The market reaction to Dell's incredible quarter offers a critical temperature check on the AI trade.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-02",
-      "link": "https://www.cnbc.com/2026/09/02/dell-is-now-the-most-important-stock-in-the-market-heres-why-.html"
-    },
-    {
-      "id": "3cf03df8-2d23-81de-be38-c5d5921ecac4",
-      "title": "NYC bans AI use for students until they reach high school",
-      "summary": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced ",
-      "source": "The Verge",
-      "publishTime": "2026-09-02",
-      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban"
-    },
-    {
-      "id": "3cf03df8-2d23-81ce-b8c3-f2796472a173",
-      "title": "小米 18 Fold“中折叠”手机拥有 1.2 米抗跌落能力，雷军称媲美直板旗舰",
-      "summary": "IT之家 9 月 2 日消息，小米创办人、董事长兼 CEO 雷军今晚发文，预热小米 18 Fold“中折叠”手机。IT之家注：小米 18 Fold 手机将于 9 月 7 日（下周一）晚 7 点在小米秋季旗舰新品发布会上正式发布，首发玄戒 O3 旗舰处理器。据雷军介绍，小米 18 Fold 拥有 1.2 米抗跌落能力，可靠性媲美直板旗舰；相比小米 MIX Fold 4 手机，尖锐物体抗冲击性提升 258%，钢球重物跌落高度提升 214%。小米 18 Fold 采用新一代小米龙骨转轴，自然水滴形态，三级连杆结构，全贴合保护。小米 18 Fold 搭载全新双层 UTG 超薄玻璃，屏幕强度、抗冲击性大",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/680.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8171-ab07-eae1cc239914",
-      "title": "奇瑞：全面落实《汽车行业境外竞争行为与合规建设指引》，践行高质量出海",
-      "summary": "IT之家 9 月 2 日消息，9 月 1 日，商务部、工业和信息化部、市场监管总局三部门发布《汽车行业境外竞争行为与合规建设指引》。《汽车行业境外竞争行为与合规建设指引》为从事国际化生产经营活动的中国汽车行业企业在境外发生的市场竞争等生产经营行为提供参照，重点围绕汽车行业企业海外营销等竞争行为，以及境外安全生产、质量管理、劳动保障、数据安全等合规建设，提出一般性指引，供企业参考。今天（2 日）下午，奇瑞发布声明称，将积极践行指引有关内容，持续强化境外合规体系建设，以规范有序的市场竞争与深度本地化运营助力中国汽车高质量出海。IT之家附奇瑞声明如下：近日，商务部、工业和信息化部、市场监管总局联合发",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/678.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8198-a294-e459f5bf4e17",
-      "title": "全球最大游戏模组网站 Nexus Mods 接手 SteamDB 数据库运营",
-      "summary": "IT之家 9 月 2 日消息，全球最大游戏模组网站 Nexus Mods 今日宣布接手 SteamDB 数据库运营。IT之家注：SteamDB 是一个收集 Steam 平台游戏信息的第三方数据库。用户可在此查看各个 Steam 游戏信息，包括玩家数量趋势图、各地区价格对比、版本更新历史等，该网站由 xPaw 和 Marlamin 创立于 2013 年。SteamDB 现已将平台运营权转交给 Nexus Mods。针对此次变动，双方均发布了声明。SteamDB 创始人 xPaw 表示，随着共同创始人 Marlamin 离开等情况发生，SteamDB 这个项目当前已经只有他一个人维护，工作量相当于",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/677.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-81d9-8d3d-e3e2f5e7aad5",
-      "title": "古尔曼曝光苹果 iPhone Ultra 折叠屏手机更多细节，支持应用并排显示、内容拖拽操作",
-      "summary": "IT之家 9 月 2 日消息，下周，苹果首款折叠屏手机 iPhone Ultra 将在 9 月发布会上正式亮相。如今距离发布仅剩一周，彭博社记者马克 · 古尔曼（Mark Gurman）在接受 Tom's Guide 采访时又透露了不少新信息，涉及硬件规格、软件功能、上市时间以及售价等多个方面，其中还有一些此前从未曝光的细节。距离 iPhone Ultra 发布还有一周，但相关爆料仍在不断出现。古尔曼在此次采访中分享了多个新消息，其中部分内容此前尚未被报道。MagSafe 是否会出现在 iPhone Ultra 上，此前一直存在疑问。不过，古尔曼明确表示，这款折叠屏 iPhone 不会取消 M",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/676.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8154-9b2e-d82ae31daee3",
-      "title": "Tado’s new thermostat is designed as a Nest killer",
-      "summary": "When Google ignominiously exited the European thermostat market last year, it pointed its customers to Tado. This week, the German-based smart home company is launching its Smart Thermostat X (2nd gen), and aiming to attract European Nest users who haven't already jumped ship. Google shutting down t",
-      "source": "The Verge",
-      "publishTime": "2026-09-02",
-      "link": "https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest"
-    },
-    {
-      "id": "3cf03df8-2d23-816f-8b52-f7a41d16a9cb",
-      "title": "沃兹尼亚克、乔布斯签名的苹果 Apple I 电脑，有望拍出 50 万美元高价",
-      "summary": "IT之家 9 月 2 日消息，现存 Apple I 电脑屈指可数，因而屡屡成为拍卖市场的焦点。据外媒 Apple Insider 今天（2 日）报道，下一台准备登场的是“哈特菲尔德 Apple I”：主板带有史蒂夫 · 沃兹尼亚克签名，还附有史蒂夫 · 乔布斯的署名信。今年 7 月，一台仍能正常运行的 Apple I 以 499,363 美元（IT之家注：现汇率约合 336.4 万元人民币）成交，远高于此前 30 万美元（现汇率约合 202.1 万元人民币）的估价。邦瀚斯目前为“哈特菲尔德 Apple I”给出的估价更高，预计成交价可达 50 万至 80 万美元（现汇率约合 336.8 万至 ",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/674.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8102-bf4e-f27bb79ce7a3",
-      "title": "'Dancing with the Stars' cast revealed: Every celebrity competing on season 35",
-      "summary": "\"Dancing with the Stars\" will return on September 15 with stars like Tyler Cameron, Ciara Miller, and Amber Glenn.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-02",
-      "link": "https://www.businessinsider.com/dancing-with-the-stars-season-35-full-cast-9-2026"
-    },
-    {
-      "id": "3cf03df8-2d23-81df-8d47-cdd0884e6e91",
-      "title": "华为海外发布 FreeBuds Neo 降噪耳机：短柄设计，首发 109 欧元",
-      "summary": "IT之家 9 月 2 日消息，华为今日在海外发布了 FreeBuds Neo 耳机，官方售价为 129 欧元（IT之家注：现汇率约合 1,007 元人民币），首发优惠价 109 欧元（现汇率约合 850.9 元人民币）。FreeBuds Neo 搭载专为抑制中高频噪声设计的双通道系统，能够有效过滤风噪与周围环境的交谈杂音，在全频段内平均可提供 30 dB 的降噪深度。这款耳机搭载了华为第三代音频芯片，能够随周围环境的变化实现毫秒级自适应降噪调节。华为表示，这项技术有效缓解了环境噪声突变时某些主动降噪耳机容易产生的突发性耳压感。该耳机配备三麦克风与骨传导麦克风协同拾音阵列，在强力抑制环境噪音的同",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/673.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8160-a24e-cc45e0f8a4da",
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-02",
-      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"
-    },
-    {
-      "id": "3cf03df8-2d23-81cf-ab2c-c4a7cc2d1880",
-      "title": "宏碁推出第四代 Vero 环保消费笔电，支持至少 2 代处理器升级",
-      "summary": "IT之家 9 月 2 日消息，宏碁 (Acer) 今日宣布推出第四代 Vero 未来环保版消费级笔记本电脑 Vero 16 (V16-I71／V16-I71T)。其在延续减量 (Reduce)、复用 (Reuse)、循环 (Recycle)“3R”设计的同时，将概念扩展延伸至可维修性、可升级性维度。新一代 Vero 16 笔电搭载第 3 代英特尔酷睿 Ultra 处理器，至高可选 X9 388H；支持至高 32GB LPDDR5X 内存和 512GB PCIe Gen4 NVMe SSD 存储；搭载 16\" 16:10 OLED 屏幕；具备 Wi-Fi 7 无线网卡；提供 5MP IR 摄像头",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/671.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-81be-9880-f7416e9ee1a4",
-      "title": "华为 Watch D3 手表海外发布，449 欧元",
-      "summary": "IT之家 9 月 2 日消息，华为 Watch D3 手表现已在海外市场发布。新品相比 Watch D2 在厚度、屏幕大小等方面有所提升，定价 449 欧元（IT之家注：现汇率约合 3,505 元人民币），即日起开启预订。据介绍，这款手表支持 24 小时动态血压监测（ABPM），符合医疗认证标准。配备 1.92 英寸屏幕，机身尺寸为 46.5*38.8*11.4mm。作为对比，Watch D2 的屏幕大小是 1.82 英寸，尺寸为 48*38*13.3 mm。规格方面，这款手表采用 LTPO AMOLED 面板，分辨率为 409*480，搭载 540mAh 电池，最长续航时间可达 6 天。此外",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/672.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-81cd-884f-f8913a1fbc75",
-      "title": "消息称月之暗面启动港股 IPO 流程，本周已向港交所秘密交表",
-      "summary": "IT之家 9 月 2 日消息，晚点 LatePost 今天（2 日）晚间爆料称，月之暗面已于本周以保密形式向港交所递交 A1 文件，正式启动港股 IPO 流程。月之暗面对此则回应称：“对于市场传闻不予置评，目前暂无可以披露的信息。”据悉，A1 是企业申请在港交所上市时提交的正式申请表之一。消息称月之暗面同时也在以 500 亿美元（IT之家注：现汇率约合 3,368.46 亿元人民币）的投前估值推进新一轮融资，这很有可能是 Kimi IPO 前的最后一轮融资。今年 7 月，月之暗面完成了超 35 亿美元（现汇率约合 235.79 亿元人民币） F 轮融资，投后估值涨至 350 亿美元（现汇率约合",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/670.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-81a9-a1c4-f90312e24a85",
-      "title": "微软证实 Xbox 发生大规模服务中断，多平台账号登录受影响",
-      "summary": "IT之家 9 月 2 日消息，微软 Xbox 已经确认发生一起“大规模服务中断”，PC、Xbox Series X/S 以及其他设备上的用户均受到账号相关问题影响。如果你发现自己的 Xbox 账号无法登录，无法正常玩游戏，那么并不是只有你遇到了这个问题。今天已经有大量用户报告相关故障，微软也已经正式确认了这一问题。Xbox Support 服务状态页面显示，此次事件属于“大规模服务中断”。受影响的用户“可能无法登录 Xbox 个人资料，可能会在登录状态下被强制断开连接，或者遇到其他相关问题”。与此同时，大多数需要登录账号才能使用的功能也将无法正常工作，包括大多数游戏、应用以及社交功能。目前已知",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/669.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8106-957a-ce97aeb022ca",
-      "title": "美光探索近 GPU NAND 闪存，可支撑更大规模 AI 模型",
-      "summary": "IT之家 9 月 2 日消息，据 DigiTimes 今天报道，美光正在研究高耐久性 NAND 闪存模块，该公司计划将其部署在距离 GPU 更近的位置，而不是像传统存储方案那样，通过多个协议连接到距 GPU 较远的存储池。据报道，美光正在探索如何将 NAND 闪存进一步靠近 GPU，希望在存储密度和耐久性之间提供一种折中方案。这种产品当前被称为“近 GPU NAND”（IT之家注：near-GPU NAND），可用于处理非低延迟 / 高带宽工作负载。这种方案可以让 GPU 直接访问数百 GB 的 NAND 存储池，它可以直接放置在 GPU 封装内部或 PCB，工作方式类似 HBM、GDDR7 ",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/668.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-81a9-b37d-f978ff5afdc1",
-      "title": "研究发现：AI 客服“更像人”未必带来更佳体验",
-      "summary": "IT之家 9 月 2 日消息，如今，各行各业的许多机构都在投入使用越来越像真人的 AI，用它们回答问题、排查故障和处理投诉。澳大利亚联邦银行（Commonwealth Bank）最近透露，其 AI 客服平台每月通过语音和消息渠道处理超过 200 万次对话。澳大利亚邮政（Australia Post）也表示，2025 年有 55% 的客户咨询得到了自助式 AI 的支持。这种趋势背后的逻辑看起来很简单：出了问题时，消费者已经习惯向真人寻求帮助。如果 AI 能够以更加自然的方式交流，那么让它承担部分传统人工客服的职责似乎顺理成章。但一项研究表明，实际情况要复杂得多。如今客服 AI 越来越多地采用语音",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/667.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8121-8307-dcffa0c11df6",
-      "title": "网易云音乐鸿蒙尝鲜内测版 App 获 9.5.82 升级，优化后台播放、音频切换等",
-      "summary": "IT之家 9 月 2 日消息，网易云音乐鸿蒙尝鲜内测版今日推送了 9.5.82(9050820) 版本升级（依旧需要在“应用尝鲜”专区下载更新）。IT之家附网易云音乐此次更新内容如下：优化后台播放，减少长时间播放时的卡顿优化音频切换，切回扬声器时自动暂停播放完善锁屏和控制中心的歌词展示修复 App 下载时通知栏异常出现下载提示的问题提升搜索、单曲和“我的”等核心页面的稳定性优化网络请求处理，提升多任务场景下的稳定性修复 H5 顶栏错位、青少年模式图标异常及部分崩溃问题网易云音乐鸿蒙版于 8 月 31 日上架华为应用市场 App Gallery 应用商店，并在“应用尝鲜”专区开放下载。华为终端 ",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/666.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8181-aa87-c56232aaec08",
-      "title": "英伟达 CEO 黄仁勋呼吁 G20 成员国加快发展、应用 AI，以促进经济增长",
-      "summary": "IT之家 9 月 2 日消息，据彭博社今天（2 日）报道，英伟达 CEO 黄仁勋呼吁二十国集团（G20）成员加快发展和应用人工智能，以促进经济增长，同时扩大数据中心等基础设施建设为 AI 产业发展提供支撑。黄仁勋在美国为 G20 成员于北卡罗来纳州举办的一场科技活动上将 AI 比作水、电等基础设施，并呼吁每个国家都需要建设自己的基础设施，如此方能支撑本国经济。G20 代表本周在北卡罗来纳州开会之际，美国国内反对建设数据中心的声音持续升高，并成为 11 月中期选举的重要议题。与此同时，多起 AI 模型突破安全测试环境限制的事件，也促使各国进一步要求加强监管，确保最先进 AI 系统的安全。黄仁勋认",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/665.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8132-8ef6-dd6f21a2a6aa",
-      "title": "299 元：ANBERNIC 安伯尼克 RG 35 竖版掌机开售，RK3326 芯片、3.5 寸屏幕",
-      "summary": "IT之家 9 月 2 日消息，ANBERNIC 安伯尼克 RG 35 掌机现已开售，新品采用竖版设计，可游玩各种复古游戏，定价 299 元。据介绍，这款掌机搭载 RK3326 四核芯片，主频 1.5GHz，配备 1GB 内存和 64GB 存储空间。该机可游玩 NES、SNES、N64、DC、PS1、PSP 等平台的游戏，支持用户自行下载相关格式游戏。规格方面，这款掌机搭载 3.5 英寸 IPS 屏幕，分辨率为 640*480，采用全贴合设计，带有震动马达。配备 3200mAh 电池，满电续航可达 7 小时。IT之家附该掌机详细参数如下：目前这款掌机已在京东开售，售价 299 元。京东 ANBE",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/664.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8111-b787-fde2edd6edda",
-      "title": "9 things you should never do at a golf course, according to PGA pros and employees",
-      "summary": "Leaving marks on the green and breaking dress codes are some mistakes employees and golf pros wish people would stop making at their courses.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-02",
-      "link": "https://www.businessinsider.com/things-never-do-golf-course-pga-pros-employees-mistakes-2026-9"
-    },
-    {
-      "id": "3cf03df8-2d23-8182-9822-e1398fa3a9a2",
-      "title": "高通披露新一代 Adreno GPU 细节：矩阵核心强化 AI 算力，有望进一步改善画面升频效果",
-      "summary": "IT之家 9 月 2 日消息，据外媒 Android Authority 今天（2 日）晚间报道，在公布下一代旗舰处理器的 CPU 升级细节后，高通又进一步披露了新一代 Adreno GPU 的变化，其中最重要的新设计是加入 Adreno 矩阵核心。高通公布的示意图显示，GPU 预计配备 3 个矩阵核心，专门负责以更低延迟和更低功耗处理本地 AI 任务。一年前，高通已经在 CPU 中加入 SME 矩阵运算技术，用来加速 AI 计算，这次则把类似思路进一步延伸到了 GPU。高通表示，Adreno 矩阵核心将为新的 Adreno 神经融合技术提供算力支持。与此前的方案相比，Adreno 神经融合可",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/663.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8190-8038-ccf6ad3b4274",
-      "title": "I visited a Maryland town in the 'new Hamptons.' This laid-back hidden gem is my new favorite vacation spot.",
-      "summary": "My family loves visiting Easton, Maryland, a town in the \"new Hamptons.\" We enjoy exploring the downtown shops and sampling the local cuisine.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-02",
-      "link": "https://www.businessinsider.com/visiting-easton-maryland-best-things-to-do-hamptons-dupe-2026-7"
-    },
-    {
-      "id": "3cf03df8-2d23-814b-a3b6-d57a0e8f4fe4",
-      "title": "中国科学院青岛能源所开发出新型高容量与强选择性海水提铀材料",
-      "summary": "IT之家 9 月 2 日消息，中国科学院青岛生物能源与过程研究所（简称“青岛能源所”）宣布，该所研究团队近期在海水提铀材料领域取得系列进展。团队首次将离散分子拓扑设计引入多孔有机笼体系，合成出磷酸功能化材料 PhosCage，并进一步将其与芳纶纳米纤维复合，制备出兼具高选择性、高容量和抗生物污损能力的复合气凝胶微球 AC-POC。相关成果发表于国际学术期刊《危险材料杂志》和《分离纯化技术》。据介绍，核能作为高能量密度的基荷能源，在实现碳中和目标中发挥着关键作用。目前，陆地铀资源的迅速消耗严重制约了核工业的可持续发展。而海洋中蕴藏着约 45 亿吨铀资源，是陆地含铀矿石的近千倍。然而，真实海水环境",
-      "source": "IT之家",
-      "publishTime": "2026-09-02",
-      "link": "https://www.ithome.com/0/997/662.htm"
-    },
-    {
-      "id": "3cf03df8-2d23-8147-bf72-f2eb66b4e132",
-      "title": "Ukrainian soldiers are finding deceptive uses for their unjammable fiber-optic drones as ambush tactics spread",
-      "summary": "Ukraine is using fiber-optic drones in to study Russian bunkers and also shape attacks, a soldier said.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-02",
-      "link": "https://www.businessinsider.com/ukraine-fiber-optic-drones-ambush-tactics-2026-7"
-    },
-    {
-      "id": "3cf03df8-2d23-81b7-a7dc-f243a6212f74",
-      "title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
-      "summary": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-02",
-      "link": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/"
-    },
-    {
-      "id": "3cf03df8-2d23-8133-8909-e5aa5ad1dbd3",
-      "title": "Adobe is making its tools available in Slack",
-      "summary": "Users will be able to access Express, Premiere, and Acrobat in Slack",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-02",
-      "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/"
-    },
-    {
-      "id": "3cf03df8-2d23-81a2-b9f5-e0276118a0d2",
-      "title": "‘Wordle in 1’ is the NYT’s new puzzle just for subscribers",
-      "summary": "The New York Times has prepared some exclusive goodies for its subscribers: a weekly drop of bonus puzzles based on the publication's popular games. Five to six new puzzles will be released every Wednesday, each featuring \"a twist\" on games like Wordle, Strands, Connections, and Crossword that are d",
-      "source": "The Verge",
-      "publishTime": "2026-09-02",
-      "link": "https://www.theverge.com/games/988099/nyt-bonus-puzzle-games-weekly-wordle"
     }
   ],
   "macroEvents": [
