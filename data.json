@@ -1,6 +1,270 @@
 {
-  "updatedAt": "2026-09-04 05:48",
+  "updatedAt": "2026-09-04 08:14",
   "news": [
+    {
+      "id": "3d003df8-2d23-81f4-900d-f18da61a18b9",
+      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+      "summary": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the leag",
+      "source": "The Verge",
+      "publishTime": "2026-09-04",
+      "link": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out"
+    },
+    {
+      "id": "3d003df8-2d23-81b5-b820-cbb67d849b07",
+      "title": "英伟达开源发布 PAIR：本地跑 AI 新方案，调度 Mac / RTX PC 跨设备推理",
+      "summary": "IT之家 9 月 4 日消息，科技媒体 AppleInsider 昨日（9 月 3 日）发布博文，报道称英伟达以开源测试版状态，推出 Personal AI Router（PAIR）软件，用于在局域网内为本地 AI 请求选择可用计算机，类似把任务分派给空闲工位的调度员。在兼容设备上，该软件可以在 M4 以及更高的 Mac 设备、英伟达 RTX PC 和 DGX Spark 设备上运行，为 Ollama、LM Studio 等本地 AI 工具提供统一请求入口。用户可在家庭或办公局域网内，将多个独立 AI 请求调度至空闲设备处理。IT之家附上相关截图如下：产品定位方面，英伟达将 PAIR 定位为局",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/229.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81b7-93bd-fefc40c714e3",
+      "title": "微软 Win11 系统级年龄验证 API 方案揭晓：只向应用提供年龄段，不涉及具体生日",
+      "summary": "IT之家 9 月 4 日消息，微软正通过将年龄验证功能直接集成到操作系统中，对 Windows 11 的儿童安全与账户隐私机制进行重大调整。根据微软官方文档及 Windows SDK 最新发布说明，Windows 11 将在今年晚些时候通过一套全新的系统级 API，向已注册的应用提供用户的年龄段信息及年龄独立验证状态。在此之前，当 PC 上的应用或游戏需要限制成人内容、遵守《儿童在线隐私保护法》（COPPA）等儿童安全法规，或管理应用内交易时，通常需要自行处理年龄验证，手段包括索要出生日期、支付信息、第三方身份核验，甚至依赖“我已年满 18 周岁”这类缺乏约束力的复选框。微软表示，新 API ",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/228.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81ca-bf7a-fb1918d2c096",
+      "title": "Could robots be the future of theme parks?",
+      "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
+      "source": "BBC Tech",
+      "publishTime": "2026-09-04",
+      "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3d003df8-2d23-813c-a646-ee3969e4c23f",
+      "title": "九州风神推出 CC560 ARGB V3 风道机箱：预装 4 把 120mm 风扇，259 元",
+      "summary": "IT之家 9 月 4 日消息，九州风神现已在京东上架 CC560 ARGB V3 风道机箱，该产品预装 4 把 120mm 风扇，目前暂仅提供黑色配色可选，定价为 259 元。京东九州风神 CC560 ARGB V3 风道机箱 259 元直达链接该机箱整体尺寸为 432 x 215 x 483mm，支持 ITX/M-ATX/ ATX 主板。前面板采用细条纹栅格设计。I/O 位于机箱顶部右前侧，提供 1 个 USB-C 10Gbps、1 个 USB-A 3.0 接口、1 个 3.5mm 音频接口。该机箱 CPU 散热器限高 165mm，显卡最大支持 370mm 长度，ATX 电源限长 170mm",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/227.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81a8-b396-fe4351618089",
+      "title": "《GTA 6：分量十足的一瞥》前瞻预告片带动英国市场游戏机销量：上周 PS5 增长 33%、XBOX Series 增 34%",
+      "summary": "IT之家 9 月 4 日消息，据外媒 VGC 报道，受《GTA 6：分量十足的一瞥》前瞻预告片影响，英国市场 PlayStation 和 XBOX 游戏主机销量大幅增长，环比提升约三分之一。上周英国 PS5 销量增长 33%，XBOX Series S 和 XBOX Series X 销量则增长 34%。目前，英国多家零售商的 PS5 已经出现缺货，部分商家甚至暂时没有现货可售。对于主机厂商而言，这一消息无疑是一剂强心剂。此前英国游戏主机市场表现并不理想，今年销量同比下降 14.4%，其中 PS5 销量下滑 32%，是整体市场走弱的主要原因之一。不过占比小部分的 XBOX Series S 和",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/225.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81fe-930e-c12dbe17ac12",
+      "title": "篮球模拟游戏《NBA 2K27》今日发售：Steam 国区 298 元起，首发支持英伟达 DLSS5",
+      "summary": "IT之家 9 月 4 日消息，篮球模拟游戏《NBA 2K27》今日正式发售，登陆 PS5、Xbox Series X|S、PC 及任天堂 Switch 2 平台，其中主机平台已于 0 点解锁，而 Steam 则需等待 12 点解锁。价格方面，Steam 国区标准版售价 298 元、豪华版 460 元、巅峰版 599 元，PlayStation 港区分别为 548 港币（IT之家注：现汇率约合 470.7 元人民币）、788 港币（现汇率约合 676.9 元人民币）、1,150 港币（现汇率约合 987.9 元人民币）。本作封面阵容此前已公布：标准版封面为圣安东尼奥马刺队中锋维克托 · 文班亚马",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/224.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81c4-bf1e-c09d576eb418",
+      "title": "辉瑞推出苹果 Vision Pro 沉浸式体验：30 秒“组装”抗癌药物",
+      "summary": "IT之家 9 月 4 日消息，科技媒体 AppleInsider 昨日（9 月 3 日）发布博文，报道称制药公司辉瑞（Pfizer）推出基于 Apple Vision Pro 的沉浸式体验，用于向癌症患者、家属及其他用户介绍其癌症研究和药物研发流程。这项沉浸式体验由 Groove Jones 创意公司开发，核心模块为 ADC Builder，用户可通过 4 个步骤拖拽模块，搭建抗体偶联药物（Antibody-Drug Conjugate，简称 ADC）模型，并观看其进入血液循环的动画。辉瑞方面表示，一款此类新药从研究、测试到临床试验，整个过程通常需要 10~15 年时间，而通过沉浸式体验，可以",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/222.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81ab-b9e2-da4e945208bd",
+      "title": "黑暗奇幻动作 RPG《黎明行者之血》发售，Steam 国区 298 元起",
+      "summary": "IT之家 9 月 4 日消息，由 Rebel Wolves 开发、万代南梦宫（Bandai Namco）发行的开放世界黑暗奇幻动作 RPG《黎明行者之血（The Blood of Dawnwalker）》现已正式登陆 PlayStation 5、XBOX Series X|S、以及 PC 平台。IGN 为这款游戏打出 9 分，认为本作“是最佳吸血鬼题材作品之一”。价格方面，以 Steam 国区为例，本作标准版价格 298 元，日蚀版价格 368 元，日蚀版除了游戏本体外，还包括数字版世界图鉴、数字原声带和数字版漫画，IT之家附游戏商品页（https://store.steampowered.c",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/223.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81e2-92a4-cb1fa7a767fd",
+      "title": "HKC“天启 27Q320B”26.5 英寸显示器首销：搭三星 2K 320Hz QD-OLED Penta Tandem 面板，3199 元",
+      "summary": "IT之家 9 月 4 日消息，惠科旗下“天启 27Q320B”27 英寸（26.5 英寸）显示器目前已在京东开启首销，这一型号是首批采用三星显示 26.5\" QHD 320Hz QD-OLED Penta Tandem 面板的显示器之一，当前最终到手价 3199 元。京东 HKC 天启 27Q320B 显示器 3199 元直达链接该机搭载 OptiShield 低反光 3H 硬度镀膜；峰值 HDR 亮度 1300nits、SDR 亮度 300nits，获得 VESA DisplayHDR True Black 500 和 ClearMR 18000 认证；灰阶 (GtG) 响应时间低至 0.0",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/221.htm"
+    },
+    {
+      "id": "3d003df8-2d23-8112-9072-d8f7e01a6acc",
+      "title": "山灵 Q2 便携播放器“香槟金”配色首销：四颗 CS43131 DAC 芯片、厚度 13.5mm，1398 元",
+      "summary": "IT之家 9 月 4 日消息，山灵 Q2 播放器新增的“香槟金”配色现已在京东开启首销，定价为 1398 元。京东山灵 Q2 播放器香槟金配色 1398 元直达链接香槟金介于金色与玫瑰色之间，温润不张扬，低调中透出高级感。配合 Q2 小巧的金属机身与圆润边角，光影流转间更显精致气质。无论是日常通勤还是静享音乐，都是掌心间恰到好处的点缀。IT之家获悉，这款新品尺寸为 80×50×13.5mm，重约 83g，搭载 2.09 英寸触控屏、可通过实体旋钮进行操作；采用君正 X2000 处理器 + 全新 Mtouch OS，支持最高 2TB TF 卡外置存储；蓝牙 5.2 支持 LDAC / aptX ",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/220.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81f5-b032-c52d7fab72df",
+      "title": "世界首例：猪肾帮助肾衰竭患者摆脱透析 9 个月，最终成功等到人体供肾",
+      "summary": "IT之家 9 月 4 日消息，当地时间 9 月 3 日，《柳叶刀》发表了美国麻总百瀚（Mass General Brigham）医疗系统的一项最新病例报告。报告显示，一名 66 岁的终末期肾病患者在接受基因编辑猪肾移植后，成功维持了 271 天无需透析，随后顺利过渡到人类肾脏移植。这是全球首次成功实现猪肾作为“桥接”器官、最终帮助患者接受人类肾脏移植的案例。患者蒂姆 · 安德鲁斯（Tim Andrews）来自新罕布什尔州康科德，患有 2 型糖尿病引发的终末期肾病，此前已接受两年多的透析治疗。2025 年 1 月 25 日，波士顿麻省总医院的外科团队为安德鲁斯实施了猪肾移植手术，手术用时约 2.",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/219.htm"
+    },
+    {
+      "id": "3d003df8-2d23-817f-8baa-f29d43b05a91",
+      "title": "Omdia 预估苹果首款触控屏 MacBook 笔记本可配 M5 Ultra 芯片，实现“双 Ultra”",
+      "summary": "IT之家 9 月 4 日消息，市场调查机构 Omdia 分析师 David Hsieh 预测，苹果首款触控屏 MacBook 笔记本（上市后预估名为 MacBook Ultra）将会提供 M5 Ultra 芯片配置。IT之家曾于 7 月援引彭博社的马克 · 古尔曼（Mark Gurman）报道，苹果 MacBook Ultra 会采用 M5 Pro 或者 M5 Max 芯片，而 Hsieh 认为会提供更强悍的 M5 Ultra 芯片配置，实现“双 Ultra”。不过科技媒体 MacRumors 指出，苹果从未在笔记本产品线中使用过 Ultra 级别芯片，M5 Ultra 目前仅用于 Mac S",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/218.htm"
+    },
+    {
+      "id": "3d003df8-2d23-816a-8bb6-d6b5329567a2",
+      "title": "研究显示：用户过度依赖 ChatGPT 等 AI 产品可能导致独立思考能力下降",
+      "summary": "IT之家 9 月 4 日消息，外媒 notebookcheck 援引《应用认知心理学》（Applied Cognitive Psychology）期刊一项小型研究，认为用户过度依赖 ChatGPT 等 AI 产品可能会导致用户独立思考能力下降、自我怀疑增加以及社交孤立加剧。IT之家参考报道获悉，来自法国巴黎 ISC 商学院的研究人员 Zeineb Farhat 采访了 45 名年龄在 18 至 25 岁、每天使用 ChatGPT 的人士，了解这款工具对他们学习习惯、工作以及情绪生活产生的影响。研究结果显示，一些受访者在习惯通过 ChatGPT 即时获得答案后，独立思考能力出现下降。他们表示自己",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/217.htm"
+    },
+    {
+      "id": "3d003df8-2d23-8164-92f6-fd10638b9cb3",
+      "title": "大众集团批准“2030 未来计划”：拟全球继续裁员 5 万人，4 座德国汽车工厂面临停产风险",
+      "summary": "IT之家 9 月 4 日消息，大众集团监事会宣布批准“2030 未来计划”（Future Plan 2030）。该计划旨在通过减少员工、车型、配置选项、管理岗位以及投资规模来降低运营成本，并帮助大众应对来自中国汽车厂商日益激烈的竞争。预计公司将对德国境内 4 座汽车工厂进行大幅调整，并计划在全球范围内继续裁员约 5 万人。IT之家注意到，相应工厂分别位于埃姆登、茨维考、汉诺威以及奥迪内卡苏尔姆。大众表示，当这些工厂现有车型的生产配额分别在 2031 年至 2034 年间到期后，公司目前无法确保这些工厂能够获得“具有竞争力的未来生产任务”。换言之，大众目前还没有确定新的车型接替这些工厂正在生产的",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/216.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81a4-ae1f-e1ab5711e20a",
+      "title": "智能戒指厂商 Oura 正式提交 IPO 文件赴美上市：近 9 个月营收 12 亿美元同比增长约 72%，付费会员约 500 万",
+      "summary": "IT之家 9 月 4 日消息，当地时间 9 月 3 日，智能戒指厂商 Oura 向美国证券交易委员会（SEC）提交 S-1 注册文件，正式启动首次公开募股（IPO）流程。公司计划申请在纳斯达克全球精选市场上市，股票代码为“OURA”，但目前尚未公布发行股份数量和 IPO 价格区间。从最新提交的文件来看，Oura 的营收在过去一年大幅增长。截至 2026 年 6 月 30 日的 9 个月内，公司营收达到 12 亿美元（IT之家注：现汇率约合 80.84 亿元人民币），相比上年同期的 6.97 亿美元同比增长约 72%。Oura 此前披露，公司 2024 年营收约为 5 亿美元，2025 年约为 ",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/215.htm"
+    },
+    {
+      "id": "3d003df8-2d23-8132-9355-cf4c43bedf2b",
+      "title": "涉 iPhone 17 等：巴斯夫起诉苹果公司，称 Face ID 侵犯其 7 项专利",
+      "summary": "IT之家 9 月 4 日消息，路透社昨日（9 月 3 日）发布博文，报道称德国化工企业 BASF（巴斯夫）已在美国对苹果公司提起专利侵权诉讼，指控苹果侵犯其持有的面部身份验证技术专利。报道称该案件已提交至美国得克萨斯州西区联邦地区法院米德兰分院，原告为巴斯夫旗下全资子公司创迈思（trinamiX GmbH），指控苹果公司旗下多款 iPhone、iPad 等产品的 Face ID 侵犯创迈思持有的 7 项专利。涉案设备包括 iPhone 15 系列、iPhone 16 系列、iPhone 17 系列、iPad Pro 及其他产品，巴斯夫已经要求法院制止进一步侵权，不过报道中并未披露相关索赔金额。",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/213.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81fe-bbf0-d2176dd467b9",
+      "title": "绿联海外推出 MagFlow Pro 磁吸移动电源，内置液冷微泵以辅助散热",
+      "summary": "IT之家 9 月 4 日消息，绿联现已在海外市场推出一款 UGREEN MagFlow Pro 磁吸移动电源，该产品采用 2C 设计，匹配 10000mAh 电芯，定价为 149.99 美元（IT之家注：现汇率约合 1,010 元人民币）。该产品最大的特点在于其内置相变储热材料 + 液冷微泵，其中相变储热材料主要负责吸收手机产生的热量，减缓温度上升。当需要更强的散热能力时，内部微泵会能够推动冷却液循环，将手机发热比较集中的位置产生的热量带到其他区域，从而改善手机充电时发热情况。具体充电规格方面，该产品至高支持 25W 的无线充电功率，内置 1 条 USB-C 45W 充电线及 1 个 USB-",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/214.htm"
+    },
+    {
+      "id": "3d003df8-2d23-8113-8a04-f3da98cbe62b",
+      "title": "OpenAI 宣布将向全球投入 10 亿美元扩大 AI 网络安全能力，优先覆盖供水、电力等关键服务",
+      "summary": "IT之家 9 月 4 日消息，OpenAI 今日宣布推出“Daybreak for Frontline Defenders”计划，承诺投入 10 亿美元（现汇率约合 67.36 亿元人民币），为资源有限的网络安全防御团队提供 Daybreak 访问权限、培训、技术支持及合作服务，帮助其利用前沿 AI 保护供水、电力、地方政府和金融等关键服务。IT之家注：Daybreak Access 是 OpenAI 的网络安全可信访问计划。Daybreak Blue 和 Daybreak Red 是两个访问级别。OpenAI 表示，这项全球计划首先在美国展开，并计划在未来数周扩展至合作国家。10 亿美元资金",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/212.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81dc-bf93-dcc4a06ee4df",
+      "title": "因安全防护不足导致约 52 万名患者信息泄漏，法国卢瓦尔省私人医院被罚 50 万欧元",
+      "summary": "IT之家 9 月 4 日消息，法国国家信息与自由委员会（CNIL）近日宣布，对法国卢瓦尔省私人医院（Hôpital privé de la Loire，HPL）处以 50 万欧元（IT之家注：现汇率约合 389.8 万元人民币）罚款，原因是该医院未能采取充分措施保护患者及其亲属等人员的个人数据。IT之家注意到，该医院于去年（2025 年）夏季通报遭黑客入侵，黑客成功窃取了 524,867 名患者以及 202,246 名被登记为“可信第三方”的人员隐私信息。事件发生后，法国国家信息与自由委员会对法国卢瓦尔省私人医院展开调查，认为该医院安全防护不足，在遵守《通用数据保护条例》（GDPR）方面存在多",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/211.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81e9-a9a5-c6b0151228ec",
+      "title": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
+      "summary": "Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.",
+      "source": "Wired",
+      "publishTime": "2026-09-04",
+      "link": "https://www.wired.com/gallery/best-video-doorbells/"
+    },
+    {
+      "id": "3d003df8-2d23-814d-adcc-e07aaf5a8e93",
+      "title": "Omdia 报告苹果已搁置开发 16.1~18 英寸大型可折叠 MacBook",
+      "summary": "IT之家 9 月 4 日消息，科技媒体 MacRumors 昨日（9 月 3 日）发布博文，援引市场调查机构 Omdia 机构信息，指出苹果公司可能已搁置发布可折叠 MacBook 和更大尺寸 OLED MacBook Pro 机型的计划。根据该机构的研究报告，苹果公司已搁置开发尺寸在 16.1~18 英寸的大型可折叠 MacBook，此前爆料消息将其描述为大屏可折叠 iPad，最初预估会在 2026 年发布。IT之家援引博文介绍，苹果同时取消了一款采用 14.4 至 16.1 英寸 OLED 显示屏的 MacBook。该产品原计划位于标准尺寸 MacBook Pro 与大型可折叠设备之间，形",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/210.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81b3-95dd-e0dfa1310733",
+      "title": "消息称苹果折叠屏手机 iPhone Ultra 售价约为 17 Pro 的 1.7-1.8 倍",
+      "summary": "IT之家 9 月 4 日消息，外媒 phonearena 综合目前运营商沃达丰曝光的价格信息，认为苹果 iPhone Ultra 的售价约为现款 iPhone 17 Pro 的 1.7-1.8 倍，而 iPhone 18 Pro 系列手机的售价约为现款 iPhone 17 Pro 系列的 1.1 倍。在 iPhone Ultra 方面，先前运营商埃及沃达丰曾短暂上线 iPhone Ultra，显示该机起售价为 155750 埃及镑，作为参考，目前 iPhone 17 Pro 在埃及的售价为 88799 埃及镑，这意味着 iPhone Ultra 的售价相对于 iPhone 17 Pro 约高出",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/209.htm"
+    },
+    {
+      "id": "3d003df8-2d23-81d0-aff8-d50f7dd10f0d",
+      "title": "Oura files to go public",
+      "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-04",
+      "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/"
+    },
+    {
+      "id": "3d003df8-2d23-813f-b780-fb3608e51210",
+      "title": "Revenge of the 'Magnificent Seven' — Jim Cramer says it’s time to buy",
+      "summary": "CNBC's Jim Cramer sees catalysts across Amazon, Alphabet, Meta, Microsoft, Nvidia and Tesla.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-04",
+      "link": "https://www.cnbc.com/2026/09/03/magnificent-seven-jim-cramer-says-time-to-buy.html"
+    },
+    {
+      "id": "3d003df8-2d23-81e5-969d-c7e20f1ae3e3",
+      "title": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
+      "summary": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
+      "source": "Wired",
+      "publishTime": "2026-09-04",
+      "link": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/"
+    },
+    {
+      "id": "3d003df8-2d23-81b4-8b3c-e4fca6684d07",
+      "title": "OpenAI GPT-6 Astra 发布：首次达到“关键”级网络安全能力门槛，布罗克曼认为 AGI 时代已经到来",
+      "summary": "IT之家 9 月 4 日消息，当地时间 9 月 3 日，OpenAI 宣布推出新一代 GPT-6 Astra 模型，这是该公司迄今为止最强大、部署最广泛的大语言模型。据介绍，Astra 是 OpenAI 旗下首个达到其“准备框架”（Preparedness Framework）中“关键”（Critical）网络安全能力门槛的模型。格雷格 · 布罗克曼（Greg Brockman）声称，随着 Astra 的发布，世界已经进入了通用人工智能的新时代。据 OpenAI 介绍，Astra 在网络安全能力上实现了显著跃升。在提供适当工具和访问权限的情况下，该模型能够在无人指导的条件下，发现许多防护严密的",
+      "source": "IT之家",
+      "publishTime": "2026-09-04",
+      "link": "https://www.ithome.com/0/998/208.htm"
+    },
+    {
+      "id": "3d003df8-2d23-818a-91d4-fd2a3cf16d61",
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-04",
+      "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/"
+    },
+    {
+      "id": "3d003df8-2d23-81c6-8071-d69514142826",
+      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+      "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power bank",
+      "source": "The Verge",
+      "publishTime": "2026-09-04",
+      "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling"
+    },
+    {
+      "id": "3d003df8-2d23-8178-80b8-fd5ffa61a56e",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "source": "Wired",
+      "publishTime": "2026-09-04",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"
+    },
+    {
+      "id": "3d003df8-2d23-817c-824e-fc5a449f54cb",
+      "title": "Volkswagen plans 50,000 more job cuts amid biggest overhaul in its history",
+      "summary": "Volkswagen, the world's second-largest automaker, is trying to get more nimble. It's planning huge job cuts as Chinese automakers step up competition.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-04",
+      "link": "https://www.businessinsider.com/vw-job-cuts-overhaul-ev-chinese-cars-2026-9"
+    },
+    {
+      "id": "3d003df8-2d23-8179-9da0-c19be5e73b1a",
+      "title": "Oura takes step toward IPO with S-1 filing, revealing $1.4 billion in revenue",
+      "summary": "Oura took a step closer to becoming a public company by filing its S-1 on Thursday.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-04",
+      "link": "https://www.businessinsider.com/oura-ring-s1-filing-step-towards-ipo-reveals-revenue-2026-9"
+    },
+    {
+      "id": "3d003df8-2d23-81bb-9a74-c495c2e1056a",
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+      "source": "Wired",
+      "publishTime": "2026-09-04",
+      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/"
+    },
     {
       "id": "3d003df8-2d23-81da-89d3-eafaf6ef6cef",
       "title": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
@@ -136,270 +400,6 @@
       "source": "TechCrunch",
       "publishTime": "2026-09-04",
       "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
-    },
-    {
-      "id": "3d003df8-2d23-8119-8c76-e07bc5af8a3a",
-      "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
-      "summary": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. It normally retails between $1,300 and $1,600. This",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale"
-    },
-    {
-      "id": "3d003df8-2d23-817f-a341-c5939dbc800e",
-      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-      "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
-      "source": "Wired",
-      "publishTime": "2026-09-04",
-      "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/"
-    },
-    {
-      "id": "3d003df8-2d23-81a2-b254-d5ae021ae383",
-      "title": "Dude Perfect's first CEO is out after disagreeing with the board about the company's next phase",
-      "summary": "Andrew Yaffe was hired to grow Dude Perfect beyond YouTube. He and the company's board said they had 'different perspectives' on the path forward.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-04",
-      "link": "https://www.businessinsider.com/youtube-group-dude-perfect-ceo-andrew-yaffe-out-2026-9"
-    },
-    {
-      "id": "3d003df8-2d23-8193-987f-fc7b2a470b8f",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-04",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
-    },
-    {
-      "id": "3d003df8-2d23-81e7-8360-e9de53a956d3",
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"cr",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
-    },
-    {
-      "id": "3d003df8-2d23-8157-8e70-ebb069964403",
-      "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
-      "summary": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-04",
-      "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html"
-    },
-    {
-      "id": "3d003df8-2d23-8136-955a-df302b441b39",
-      "title": "Maria Bartiromo is out at Fox after more than 12 years",
-      "summary": "Fox News is parting ways with star anchor Maria Bartiromo and said it would \"wish her all the best on her next chapter.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-09-04",
-      "link": "https://www.businessinsider.com/maria-bartiromo-leaving-fox-news-business-president-donald-trump-2026-9"
-    },
-    {
-      "id": "3d003df8-2d23-810d-bc00-e1b34a912889",
-      "title": "5 of the best outfits and 3 that missed the mark at the 2026 Venice Film Festival",
-      "summary": "Celebrities like the Clooneys stepped out in style at the 2026 Venice Film Festival. Other stars made fashion mistakes on the red carpet.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-04",
-      "link": "https://www.businessinsider.com/venice-film-festival-red-carpet-best-worst-dressed-celebrities-2026-9"
-    },
-    {
-      "id": "3d003df8-2d23-81f7-bb29-e9a256ffa056",
-      "title": "Stella Lefty's rise says more about the music business than the 'nepo baby' discourse",
-      "summary": "Stella Lefty's \"Boston\" is a country-pop crossover hit. The debate over her billionaire father and \"nepo baby\" status has helped propel her career.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-04",
-      "link": "https://www.businessinsider.com/who-is-stella-lefty-nepo-baby-billionaire-dad-groupon-music-career-2026-9"
-    },
-    {
-      "id": "3d003df8-2d23-819c-a049-c0d47b60465a",
-      "title": "I was just laid off from Uber for the second time. As a boomerang employee, it's everything I feared coming true.",
-      "summary": "Kori X rerturned to Uber earlier this year after being laid off in 2023.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-04",
-      "link": "https://www.businessinsider.com/uber-employee-laid-off-second-time-worst-fear-2026-9"
-    },
-    {
-      "id": "3d003df8-2d23-8161-a71d-caf77dd7fb27",
-      "title": "The largest college by enrollment in every state",
-      "summary": "Students looking for a more diverse student body, an array of majors, and lots of extracurriculars often enroll at larger universities.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-04",
-      "link": "https://www.businessinsider.com/largest-college-enrollment-every-state-2026-8"
-    },
-    {
-      "id": "3d003df8-2d23-81ae-9940-d2d8a573aecb",
-      "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
-      "summary": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who don't use cloud access enough to warrant a monthly ",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option"
-    },
-    {
-      "id": "3d003df8-2d23-8148-9a3d-fc53d93bec5f",
-      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
-      "summary": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will be limited to just 15 ho",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes"
-    },
-    {
-      "id": "3d003df8-2d23-81d0-8418-d163a15d1731",
-      "title": "Elon Musk starts spending his midterm election millions, revealing his key Senate targets",
-      "summary": "Elon Musk’s America PAC is spending in key Senate races including Texas and Maine, days after Musk met with House Speaker Mike Johnson.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-04",
-      "link": "https://www.cnbc.com/2026/09/03/elon-musk-america-pac-election-senate-races.html"
-    },
-    {
-      "id": "3d003df8-2d23-81eb-b32a-f2c1a78738e7",
-      "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
-      "summary": "Xbox Game Pass subscribers will have cloud gaming capped starting in November.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-04",
-      "link": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html"
-    },
-    {
-      "id": "3d003df8-2d23-815d-8c4c-da3a73921455",
-      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
-      "summary": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-04",
-      "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
-    },
-    {
-      "id": "3d003df8-2d23-81ef-864f-d3cf027cad4e",
-      "title": "Legendary economist Gary Shilling says consumer signals point to a recession in the next 12 months",
-      "summary": "Gary Shilling says he sees a 60% to 70% chance of a US recession in the next year, pointing to red flags waving among American consumers.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-04",
-      "link": "https://www.businessinsider.com/recession-outlook-warning-signs-us-consumer-spending-economy-gary-shilling-2026-9"
-    },
-    {
-      "id": "3d003df8-2d23-8176-9c93-c6762825d273",
-      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-      "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
-      "source": "Wired",
-      "publishTime": "2026-09-04",
-      "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/"
-    },
-    {
-      "id": "3d003df8-2d23-8112-9335-eb7be72d4ce8",
-      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
-      "summary": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-04",
-      "link": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"
-    },
-    {
-      "id": "3d003df8-2d23-810b-bfd5-c67b9f5b86e0",
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-      "source": "BBC Tech",
-      "publishTime": "2026-09-04",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3d003df8-2d23-8166-860f-d9eb06082142",
-      "title": "2 planes came shockingly close to crashing into a stadium on live TV. Now investigators are probing the incident.",
-      "summary": "Videos from inside the stadium show just how close two Airlink planes came to a potential disaster in South Africa.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-04",
-      "link": "https://www.businessinsider.com/airlink-2-planes-flew-shockingly-close-to-stadium-roof-2026-9"
-    },
-    {
-      "id": "3d003df8-2d23-8157-a7da-fa5e4528155d",
-      "title": "Bye-bye 'Chicken Shop Date' — one of YouTube's most iconic shows is ending after over a decade",
-      "summary": "Amelia Dimoldenberg announced on Thursday that her hit show \"Chicken Shop Date\" is coming to an end.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-04",
-      "link": "https://www.businessinsider.com/amelia-dimoldenberg-chicken-shop-date-youtube-show-ending-2026-9"
-    },
-    {
-      "id": "3d003df8-2d23-813a-838e-e805442e6331",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-04",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
-    },
-    {
-      "id": "3d003df8-2d23-81cb-b6df-fe250fa1d5b4",
-      "title": "17 'Harry Potter' stars, ranked from least to most successful",
-      "summary": "The first \"Harry Potter\" movie was released 25 years ago. Here's how the stars' careers have progressed since.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-04",
-      "link": "https://www.businessinsider.com/harry-potter-child-stars-ranked-success-2021-3"
-    },
-    {
-      "id": "3d003df8-2d23-8166-95fa-c1556fda8cd5",
-      "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
-      "summary": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
-      "source": "Wired",
-      "publishTime": "2026-09-04",
-      "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/"
-    },
-    {
-      "id": "3d003df8-2d23-8154-a46f-d0c77b59a813",
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-so",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
-    },
-    {
-      "id": "3d003df8-2d23-814b-ac0e-d2db3f05c5a2",
-      "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
-      "summary": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two different configurations in October. You'll be ",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications"
-    },
-    {
-      "id": "3d003df8-2d23-81a3-b7e8-f7959856b49d",
-      "title": "This ultra-thin Lenovo laptop concept uses solid-state cooling",
-      "summary": "Lenovo is announcing a new concept laptop for IFA 2026 that uses solid-state cooling instead of traditional fans, making it incredibly thin and super light. The 14-inch Project AeroBlade concept laptop is less than 10mm thick and weighs under 1.8 pounds / 830g. For reference, recent ThinkPad X1 Carb",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling"
-    },
-    {
-      "id": "3d003df8-2d23-81f1-adb7-e7efe8b1d39c",
-      "title": "Lenovo’s new MacBook Neo competitor comes in two sizes and seven colors",
-      "summary": "Lenovo is announcing the IdeaPad Vibe, a productivity laptop aimed at taking on the MacBook Neo with a similar starting price and a wider range of colors. The Vibe comes in 14- and 15-inch sizes, with AMD and Qualcomm chip options due out in October and November, respectively. Intel versions (likely",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs"
-    },
-    {
-      "id": "3d003df8-2d23-81ef-bd14-ec95c292f146",
-      "title": "The Moto Watch Ultra is a return to Wear OS",
-      "summary": "Just a few months after getting back into the smartwatch game, Motorola is targeting the premium end of the market with the first Moto Watch Ultra. It comes with some upgrades from the recent Moto Watch - most obviously the jump to Wear OS - but lacks the outdoorsy features that would make it a […]",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa"
-    },
-    {
-      "id": "3d003df8-2d23-81f9-8948-cc2cf647179e",
-      "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
-      "summary": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Sli",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts"
-    },
-    {
-      "id": "3d003df8-2d23-81fc-8689-c872c26f1124",
-      "title": "I held the first truly bezel-free phone",
-      "summary": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. Then, progress just stopped. The bezel shrunk down until i",
-      "source": "The Verge",
-      "publishTime": "2026-09-04",
-      "link": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa"
-    },
-    {
-      "id": "3d003df8-2d23-81c5-87c9-c1b21543ef45",
-      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-      "summary": "Users can search for emails or draft documents using the new conversational feature.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-04",
-      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/"
     }
   ],
   "macroEvents": [
