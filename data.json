@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-09-06 05:28",
+  "updatedAt": "2026-09-06 07:10",
   "news": [
+    {
+      "id": "3d203df8-2d23-8137-b8e2-eeb316ba8f8f",
+      "title": "Explore the globe in field recordings",
+      "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a g",
+      "source": "The Verge",
+      "publishTime": "2026-09-06",
+      "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings"
+    },
+    {
+      "id": "3d203df8-2d23-81db-a254-de34063d2a19",
+      "title": "iPhone Handoff will seamlessly share one number between two phones",
+      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up […]",
+      "source": "The Verge",
+      "publishTime": "2026-09-06",
+      "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27"
+    },
     {
       "id": "3d203df8-2d23-8188-bbec-ed8e64f2cdbb",
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -384,22 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-09-05",
       "link": "https://www.ithome.com/0/998/811.htm"
-    },
-    {
-      "id": "3d203df8-2d23-81ce-9295-e515796660f3",
-      "title": "I don't volunteer at my daughter's school. It's better for both of us.",
-      "summary": "I don't volunteer at my kid's school, but that doesn't make me a bad mom. I see school as her territory to gain independence from me.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-05",
-      "link": "https://www.businessinsider.com/mom-doesnt-volunteer-kids-school-2026-9"
-    },
-    {
-      "id": "3d203df8-2d23-8173-b013-fb5e2821987a",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our age",
-      "source": "The Verge",
-      "publishTime": "2026-09-05",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
     }
   ],
   "macroEvents": [
