@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-09-07 05:31",
+  "updatedAt": "2026-09-07 08:09",
   "news": [
+    {
+      "id": "3d303df8-2d23-81dd-a92a-e16eea6fcbb0",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-07",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
+    },
+    {
+      "id": "3d303df8-2d23-81c8-a54d-e459016d3cf4",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident",
+      "source": "The Verge",
+      "publishTime": "2026-09-07",
+      "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami"
+    },
     {
       "id": "3d303df8-2d23-817e-ac2e-f67f8cab961a",
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -384,22 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-09-06",
       "link": "https://www.ithome.com/0/999/016.htm"
-    },
-    {
-      "id": "3d303df8-2d23-819d-968a-cd42d1086679",
-      "title": "微软借力 AI 重塑 Win11 应用生态：30 分钟即可生成 WinUI 原生应用",
-      "summary": "IT之家 9 月 6 日消息，在普遍认为企业还不知道该如何真正利用 AI 的当下，微软却已经制定了一套计划：借助 AI，让更多原生 WinUI 应用进入 Microsoft Store。IT之家注意到，微软近日发布了一份新的快速入门指南，帮助开发者利用 AI、VS Code 和自家的 winapp CLI，从一个空文件夹开始，一步步创建并发布 WinUI 3 应用。微软表示，整个流程大约只需要 30 分钟，而且无需安装 Visual Studio，使用的工具也都是免费的，包括 GitHub Copilot 的免费版本。这份简单的 30 分钟指南，本质上是在吸引初学者为 Windows 11 开",
-      "source": "IT之家",
-      "publishTime": "2026-09-06",
-      "link": "https://www.ithome.com/0/999/015.htm"
-    },
-    {
-      "id": "3d303df8-2d23-8176-b182-fced5234f347",
-      "title": "My college-age son is independent and self-sufficient. I owe it all to traveling with him when he was young.",
-      "summary": "I traveled with my son around the world since he was 8 months old. I believe it has helped him become an independent and self-sufficient adult.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-06",
-      "link": "https://www.businessinsider.com/independent-son-traveled-often-kid-2026-9"
     }
   ],
   "macroEvents": [
