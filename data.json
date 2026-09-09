@@ -1,6 +1,166 @@
 {
-  "updatedAt": "2026-09-09 05:57",
+  "updatedAt": "2026-09-09 08:25",
   "news": [
+    {
+      "id": "3d503df8-2d23-812e-a176-d19e10c91bf0",
+      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
+      "summary": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-09",
+      "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html"
+    },
+    {
+      "id": "3d503df8-2d23-81ab-b568-fd6af460125e",
+      "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+      "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that on",
+      "source": "The Verge",
+      "publishTime": "2026-09-09",
+      "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent"
+    },
+    {
+      "id": "3d503df8-2d23-81eb-a168-eab536ab3986",
+      "title": "Ripple cofounder says California should allow Chinese EVs for low-income buyers: 'We're never going to make that stuff'",
+      "summary": "Chris Larsen, the cofounder of Ripple, said California has imposed the \"most regressive tax in the world.\" He said cheap Chinese EVs could help.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-09",
+      "link": "https://www.businessinsider.com/ripple-california-chinese-evs-low-income-2026-9"
+    },
+    {
+      "id": "3d503df8-2d23-8167-ae6b-d7e6842fadd3",
+      "title": "The US Army is testing whether reserve drill sergeants could help train a larger force for a major war",
+      "summary": "The Army tested whether reserve drill sergeants could help expand boot camp during a major conflict without lowering basic training standards.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-09",
+      "link": "https://www.businessinsider.com/army-testing-how-it-would-train-more-troops-during-war-2026-9"
+    },
+    {
+      "id": "3d503df8-2d23-81e1-9b26-da18c004924f",
+      "title": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
+      "summary": "Every year, the prizes recognize the weirdest research that often raises some very serious scientific questions.",
+      "source": "Wired",
+      "publishTime": "2026-09-09",
+      "link": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/"
+    },
+    {
+      "id": "3d503df8-2d23-8100-84be-ef2856987e60",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-09",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
+    },
+    {
+      "id": "3d503df8-2d23-81b3-a7df-c52b31cb9cd1",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-09",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+    },
+    {
+      "id": "3d503df8-2d23-8195-a1b8-fb5db0a8733a",
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+      "source": "BBC Tech",
+      "publishTime": "2026-09-09",
+      "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3d503df8-2d23-81fb-b60d-f03f374f834b",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid an",
+      "source": "The Verge",
+      "publishTime": "2026-09-09",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution"
+    },
+    {
+      "id": "3d503df8-2d23-8118-8306-ece8fdc0f74c",
+      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+      "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-09",
+      "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/"
+    },
+    {
+      "id": "3d503df8-2d23-8102-aeeb-f903e3b56cd9",
+      "title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+      "summary": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and software-controll",
+      "source": "The Verge",
+      "publishTime": "2026-09-09",
+      "link": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology"
+    },
+    {
+      "id": "3d503df8-2d23-81c4-997f-f43ea030c927",
+      "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+      "summary": "It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version is the best choice because it also suppo",
+      "source": "The Verge",
+      "publishTime": "2026-09-09",
+      "link": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale"
+    },
+    {
+      "id": "3d503df8-2d23-8183-9d8f-d4dd84f765a6",
+      "title": "Only 7 movies have ever made $2 billion at the box office — here they all are",
+      "summary": "James Cameron and the Marvel Cinematic Universe are the two consistent factors when it comes to earning billions at the box office.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-09",
+      "link": "https://www.businessinsider.com/movies-that-made-2-billion-box-office"
+    },
+    {
+      "id": "3d503df8-2d23-810f-8c8a-e956e318435b",
+      "title": "Iran says it captured an 'advanced' American underwater drone. The US says it was older, malfunctioning, and ‘dead in the water.’",
+      "summary": "A spokesperson for US Central Command said the underwater drone had malfunctioned before Iran claimed to have seized it near the Strait of Hormuz.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-09",
+      "link": "https://www.businessinsider.com/iran-found-us-naval-drone-us-says-dead-in-water-2026-9"
+    },
+    {
+      "id": "3d503df8-2d23-8130-b431-d866f23bf2d0",
+      "title": "Only 64 movies have ever hit $1 billion at the box office — here they all are",
+      "summary": "From \"Jurassic Park\" to \"The Odyssey,\" see all the films that made the most money in box office history.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-09",
+      "link": "https://www.businessinsider.com/highest-grossing-movies-ever-box-office"
+    },
+    {
+      "id": "3d503df8-2d23-81c8-a30b-c9586e0696d2",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image […]",
+      "source": "The Verge",
+      "publishTime": "2026-09-09",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
+    },
+    {
+      "id": "3d503df8-2d23-817a-820c-ccee45c52787",
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "source": "Wired",
+      "publishTime": "2026-09-09",
+      "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/"
+    },
+    {
+      "id": "3d503df8-2d23-81ae-88af-e3e4f33e6533",
+      "title": "Tech Life",
+      "summary": "Scammers demand money from Instagram users over fake copyright claims.",
+      "source": "BBC Tech",
+      "publishTime": "2026-09-09",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3d503df8-2d23-81c9-b152-f472fe1d95dc",
+      "title": "We regret redshirting our son. Skipping a grade fixed the problem.",
+      "summary": "We held our son back for kindergarten because of different state cutoffs. When he became bored academically, we moved him ahead a grade.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-09",
+      "link": "https://www.businessinsider.com/redshirted-kindergarten-son-skipped-grade-2026-9"
+    },
+    {
+      "id": "3d503df8-2d23-81ac-9e72-c767ab346158",
+      "title": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety",
+      "summary": "Meta unveiled its Muse personal agent app that comes in a free tier or a monthly subscription costing $20 or $100 depending on usage.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-09",
+      "link": "https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html"
+    },
     {
       "id": "3d503df8-2d23-814f-b159-ec7b42b4b0a0",
       "title": "You should care about the AI math breakthrough drama even if you're not a nerd",
@@ -240,166 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-09-08",
       "link": "https://www.businessinsider.com/lived-off-the-grid-biggest-challenges-inconveniences-surprises-2026-9"
-    },
-    {
-      "id": "3d503df8-2d23-8110-ba42-e97b4baee47f",
-      "title": "消息称 WhatsApp 将支持第三方 AI 智能体，顺应时代潮流",
-      "summary": "IT之家 9 月 8 日消息，据科技媒体 WABetaInfo 上周（9 月 4 日）报道，WhatsApp 即将支持第三方 AI 智能体。IT之家从原报道获悉，当 OpenClaw 等人工智能助手出现时，许多用户尝试将这些 AI 智能体当作机器人连接到 WhatsApp，但很多情况下都会导致封号。对比之下，Telegram 选择拥抱时代趋势，后续逐渐成为用户与 AI 智能体聊天的主要平台之一。这些智能体既可以运行在用户家中的电脑，也可以在云端运行。如今，WhatsApp 正在开发第三方 AI 智能体原生支持，允许用户将这些 Agent 接入到 WhatsApp 聊天框内。根据流传出的截图，W",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/948.htm"
-    },
-    {
-      "id": "3d503df8-2d23-8194-af4e-e8bd6ac18211",
-      "title": "从今天开始，谷歌 Chrome 浏览器两周一更",
-      "summary": "IT之家 9 月 8 日消息，谷歌宣布，Chrome 浏览器从本月开始将两周更新一次，相比此前的每月更新一次有所调整。谷歌表示，本次调整发布节奏是为了适应不断变化的互联网环境，确保开发者和普通用户能及时获得最新改进。该公司同时透露，此次改变与人工智能没有关系。但在竞争对手不断快速迭代产品的情况下，相信谷歌很难排除这些压力。IT之家注意到，本次更新计划将从今天起实施，具体实施平台包括桌面端、Android 和 iOS，Dev 和 Canary 通道仍将保留现有发布模式不受影响。并且针对企业的 Extended Stable 版仍将保持两个月更新周期，以便管理员能够从容升级。",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/947.htm"
-    },
-    {
-      "id": "3d503df8-2d23-81e9-a9b2-d6053dc285b0",
-      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-08",
-      "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/"
-    },
-    {
-      "id": "3d503df8-2d23-8193-bc21-e9cd2cadc9fb",
-      "title": "Tim Cook and Warren Buffett are showing what former CEOs can do for their companies",
-      "summary": "Tim Cook will be paid well to work his connections as Apple's executive chair, while Warren Buffett is still picking stocks and guiding decisions.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-08",
-      "link": "https://www.businessinsider.com/tim-cook-warren-buffett-ceo-executive-chair-apple-berkshire-succession-2026-9"
-    },
-    {
-      "id": "3d503df8-2d23-81f9-812c-e11df2f872f7",
-      "title": "纪录片《马斯克》先导预告片公布，本周威尼斯国际电影节首映",
-      "summary": "IT之家 9 月 8 日消息，一部以特斯拉 CEO 埃隆 · 马斯克为主题的新纪录片《马斯克》先导预告片今天（8 日）晚间正式公开，结尾呈现了爆炸场面。这部即将上映的纪录片由亚历克斯 · 吉布尼执导，本周在威尼斯国际电影节首映。48 秒的先导预告片现已上线流媒体平台。预告片将火箭发射画面与各方评价马斯克的声音交织在一起：有人称他为“史上最伟大的资本家”，也有人称他为“法西斯分子”。预告片宣称，影片将“毫不回避地审视地球上最不受制约的人”。伴随着 SpaceX 火箭发射失败时的爆炸画面，片名《马斯克》浮现出来。据IT之家了解，马斯克本人对这部纪录片颇为不满。今年 8 月，马斯克更指责影片是“恶意",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/946.htm"
-    },
-    {
-      "id": "3d503df8-2d23-814f-b7c6-fc6b893d9cc8",
-      "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
-      "summary": "IT之家 9 月 8 日消息，Blackmagic Design 今天发布视频剪辑软件 DaVinci Resolve 21.1，接入多个人工智能助手。据介绍，本次更新将支持 Claude、Claude Code 和 ChatGPT Codex 等 AI 助手，使用户能够使用自然语言分析项目、整理媒体、调整设置和批量渲染。用户可要求 AI 助手从长视频中剪辑精彩片段、删除不需要的片段或渲染最终视频，减少重复劳动，将时间投入到创意构思中。IT之家注意到，达芬奇的照片页面现已支持富士 GFX 和 X 系列、徕卡 SL 以及索尼 α7R VI 等相机，摄影师可直接导入照片，无需转换格式。本次更新还改",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/945.htm"
-    },
-    {
-      "id": "3d503df8-2d23-8115-93c6-fae1b0c4213d",
-      "title": "Pusheen’s first game is coming to Apple Arcade",
-      "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the cartoon cat. In the m",
-      "source": "The Verge",
-      "publishTime": "2026-09-08",
-      "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game"
-    },
-    {
-      "id": "3d503df8-2d23-8193-9c52-cc27f1c7fd7d",
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-08",
-      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
-    },
-    {
-      "id": "3d503df8-2d23-813f-a44e-e43a471f04ea",
-      "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
-      "summary": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular speakers that charge when docked to the s",
-      "source": "The Verge",
-      "publishTime": "2026-09-08",
-      "link": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale"
-    },
-    {
-      "id": "3d503df8-2d23-81b3-b2ba-e00b06b5315b",
-      "title": "9999 元，索尼首款全画幅鱼眼变焦镜头 8-14mm f/3.5 Fisheye G 发布",
-      "summary": "IT之家 9 月 8 日消息，索尼今天推出品牌首款全画幅鱼眼变焦镜头 8-14mm f/3.5 Fisheye G（SEL814G），新品主打鱼眼视角，采用轻量化设计，定价 9999 元。IT之家了解到，这款镜头支持圆形鱼眼和对角线鱼眼两种模式，8mm 情况下可将 180° 视角收录进 CMOS，14mm 视角下可收录宽广景物。规格方面，这款镜头采用轻量化设计，重量仅 314g，号称拥有高分辨率画质表现，配备 1 枚 ED 非球面镜片、2 枚非球面镜片、4 枚 ED 镜片，有效减少炫光和鬼影现象。拥有双线性对焦马达，配合 α9 III 相机使用时可实现 120 张 / 秒连拍。此外，该镜头的最",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/944.htm"
-    },
-    {
-      "id": "3d503df8-2d23-8147-adf9-e0724bd4659e",
-      "title": "任天堂《塞尔达传说》40 周年纪念版 Switch 2 掌机官宣，10 月 29 日发售",
-      "summary": "IT之家 9 月 8 日消息，今天（8 日）晚间的《塞尔达传说》40 周年任天堂直面会上，任天堂正式公布了《塞尔达传说》主题的 Switch 2 限定版主机及 Switch 2 Pro 手柄。据IT之家了解，这两款产品均为纪念《塞尔达传说》诞生 40 周年而推出，10 月 29 日发售。Pro 手柄另有附带展示支架的特别版本，仅在任天堂商店销售。任天堂推出《塞尔达传说》主题游戏机已有多年历史。过去 20 多年里，旗下几乎每款掌机都有相应版本。2004 年，任天堂推出金色 Game Boy Advance SP，上盖饰有三角力量图案，随附《塞尔达传说：缩小帽》游戏。此后，任天堂又于 2006 年",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/943.htm"
-    },
-    {
-      "id": "3d503df8-2d23-818d-9c7e-f01a34818522",
-      "title": "《奇异人生》开发商 Dont Nod 陷财务危机：计划裁员 90 人，可能撑不过明年 1 月",
-      "summary": "IT之家 9 月 8 日消息，据游戏媒体 VGC 今天报道，法国游戏工作室 Dont Nod Entertainment 表示，公司可能需要裁员最多 90 人，并警告称公司可能面临关闭局面。IT之家从原报道获悉，Dont Nod 工作室成立于 2008 年，以《奇异人生》系列游戏而闻名。该公司在 2026 年上半年报告中表示，董事会已批准新商业模式，可能导致最多 90 人被裁员。该公司在声明中表示：“尽管我们已经采取了业绩改善计划，实施一系列削减成本行动，但上述努力不足以恢复长期竞争力。我们正在重新考虑法国业务，将运营重点集中于单一作品，同时整合启动新项目所需的专业能力。”此外，Dont No",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/942.htm"
-    },
-    {
-      "id": "3d503df8-2d23-8190-8dd7-fdec82f918ad",
-      "title": "Qualcomm issues Amazon warrants to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
-      "summary": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-08",
-      "link": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html"
-    },
-    {
-      "id": "3d503df8-2d23-811c-b833-c288a64dbddf",
-      "title": "The first teaser for the Elon Musk documentary that Musk is mad about is here",
-      "summary": "The teaser for Alex Gibney's Elon Musk documentary is here. It promises an \"unflinching look at earth's most unchecked man.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-09-08",
-      "link": "https://www.businessinsider.com/elon-musk-documentary-alex-gibney-teaser-trailer-2026-9"
-    },
-    {
-      "id": "3d503df8-2d23-81f2-8b3a-ed3bfa90a630",
-      "title": "任天堂《塞尔达传说：时之笛》重制版实机演示公布，11 月 5 日发售",
-      "summary": "IT之家 9 月 8 日消息，任天堂今天在新一期直面会公布《塞尔达传说：时之笛》重制版游戏的实机演示，本作将在 2026 年 11 月 5 日发售。官方的演示片段从科奇里森林开始，从画面中我们可以看到，《塞尔达传说：时之笛》重制版将带来更加精致的画面表现，视觉风格相比 N64 原版更加写实。IT之家注意到，本作将加入大量全新对话，充分展现各个角色特性。玩家现在可以按按键让林克主动跳跃，作为对比，N64 原版只会在林克走到平台边缘时自动跳跃。并且本作保留了原版游戏的音效，玩家可按键快速切换装备，以及一键瞄准。同时，本作保留了原版的加载画面。青沼英二对此解释称，这部分是任天堂刻意保留的，用来维持原",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/941.htm"
-    },
-    {
-      "id": "3d503df8-2d23-81a3-a7a7-fc1e274c456a",
-      "title": "吉利银河战舰 700 将于 9 月 15 日开启预售，首发搭载 AI 新能源越野技术",
-      "summary": "IT之家 9 月 8 日消息，吉利汽车传播策略部长、吉利银河公关部长 @单爱富William 今天（8 日）晚间宣布，吉利银河战舰 700 将于 9 月 15 日开启全球预售。据IT之家了解，银河战舰 700 长宽分别为 5085/1999mm，高度提供 1895mm、1912mm、1925mm 不同版本，轴距为 2900mm。新车搭载吉利自研的 GVMC 动态控制系统，官方宣称该系统可支持车辆以 80km/h 的速度通过麋鹿测试。AI 智能四驱系统可实现前驱、后驱、四驱模式的自动切换，并集成蟹行模式、原地掉头、爆胎行驶及障碍物连续自动避让等功能。此外，新车涉水深度达 800mm，并配备卫星通",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/939.htm"
-    },
-    {
-      "id": "3d503df8-2d23-81eb-a550-c8ced78bc919",
-      "title": "I'm a seasoned cruiser, but I still made a planning mistake that ruined an entire port day",
-      "summary": "Although I've been on many cruises, I still made a planning mistake that ruined a day of my trip in the Amalfi Coast. Luckily, it's easy to avoid.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-08",
-      "link": "https://www.businessinsider.com/mistake-ruined-day-of-cruise-how-to-avoid-frequent-traveler-2026-9"
-    },
-    {
-      "id": "3d503df8-2d23-81b9-b208-c64d2b3f5292",
-      "title": "赛睿推出高端 Aeon Pro 无线手柄：搭载可更换电池与 OLED 屏幕，售价 259.99 美元",
-      "summary": "IT之家 9 月 8 日消息，对于许多游戏玩家来说，SteelSeries（赛睿）早已是一个耳熟能详的品牌，但在游戏手柄领域却并没有太强的存在感。与其先通过价格相对亲民的主机和 PC 手柄慢慢建立口碑，赛睿这次选择直接进入高端市场，推出售价 259.99 美元（IT之家注：现汇率约合 1,749 元人民币）的 Aeon Pro 无线手柄，支持 Xbox 和 PC，并于今日开始发货。作为目前市场上价格最高的游戏手柄之一，Aeon Pro 究竟有什么其他产品没有的功能？答案是有一些，但并不算特别多。用户最先注意到的，可能是手柄上的一块小型 OLED 屏幕，可以引导用户在 Xbox、PC 和蓝牙连接",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/938.htm"
-    },
-    {
-      "id": "3d503df8-2d23-81a7-8c0f-d40ac64ad2e0",
-      "title": "Nintendo’s Ocarina of Time remake launches in November",
-      "summary": "Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is launching on November 5th. The release date makes Ocarina of Time one of just a few big-budget titles la",
-      "source": "The Verge",
-      "publishTime": "2026-09-08",
-      "link": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer"
-    },
-    {
-      "id": "3d503df8-2d23-810c-8279-e3511eba5194",
-      "title": "谷歌 DeepMind 推出 AlphaGenome Atlas，覆盖人类基因组全部 90 亿种单核苷酸变异预测",
-      "summary": "IT之家 9 月 8 日消息，谷歌今日推出 AlphaGenome Atlas，这一平台包含了人类基因组中 90 亿种单核苷酸变异（所有可能的单字母 DNA 改变）的功能预测，是目前涵盖基因突变对分子生物学影响最全面的目录，学术界可通过免费门户网站免费使用。DNA 是生命的语言，掌握其密码能够改变人类理解生物学和治疗疾病的能力，但解读基因变异对分子层面的影响长期存在瓶颈：人类基因组有约 90 亿种可能的单字母突变，在实验室逐一测试几乎不可能。根据介绍，谷歌 DeepMind 此前已经推出 AI 模型 AlphaGenome，可以预测基因变异对生物过程的影响，可用于分析特定变异并在研究中得到广泛",
-      "source": "IT之家",
-      "publishTime": "2026-09-08",
-      "link": "https://www.ithome.com/0/999/937.htm"
     }
   ],
   "macroEvents": [
