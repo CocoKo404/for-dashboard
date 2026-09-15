@@ -1,6 +1,222 @@
 {
-  "updatedAt": "2026-09-16 02:21",
+  "updatedAt": "2026-09-16 05:35",
   "news": [
+    {
+      "id": "3dc03df8-2d23-8152-a0b2-d7f95583fca4",
+      "title": "Microsoft announces Windows and Surface event for October 7th",
+      "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the […]",
+      "source": "The Verge",
+      "publishTime": "2026-09-16",
+      "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco"
+    },
+    {
+      "id": "3dc03df8-2d23-81bf-bf6f-f488acce03ce",
+      "title": "'60 Minutes' ratings tanked in the season debut under Bari Weiss",
+      "summary": "\"60 Minutes\" suffered a major viewership decline in its season debut following updates from lead producer Nick Bilton and top editor Bari Weiss.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-16",
+      "link": "https://www.businessinsider.com/60-minutes-ratings-tanked-season-debut-cbs-news-bari-weiss-2026-9"
+    },
+    {
+      "id": "3dc03df8-2d23-8143-86a5-ffdf8cf56682",
+      "title": "The Kennedy Center's board voted to close until Trump's name is added. Here's a look at the history behind the landmark.",
+      "summary": "The Trump-appointed Kennedy Center board voted to close on Tuesday — the latest twist in the Trump administration's quest to rename the Center.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-16",
+      "link": "https://www.businessinsider.com/kennedy-center-board-votes-to-close-until-trumps-name-added-2026-9"
+    },
+    {
+      "id": "3dc03df8-2d23-8186-99b5-c39d5bc879ab",
+      "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
+      "summary": "The Senate on Tuesday voted to block the Clarity Act from advancing, dealing a blow to the crypto industry's push for a comprehensive market framework.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-16",
+      "link": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html"
+    },
+    {
+      "id": "3dc03df8-2d23-810d-a5fa-f133eb1fb18f",
+      "title": "What if social media isn’t hurting kids?",
+      "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry o",
+      "source": "The Verge",
+      "publishTime": "2026-09-16",
+      "link": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt"
+    },
+    {
+      "id": "3dc03df8-2d23-81b4-ae47-c013879145f0",
+      "title": "Two camps have emerged in the debate over AI safety and regulation",
+      "summary": "Two opposing camps are emerging in the AI regulation debate, with Trump and Huang on one side and Amodei. Altman and Musk on the other.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-16",
+      "link": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html"
+    },
+    {
+      "id": "3dc03df8-2d23-815e-8d62-d0095249bcd1",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-16",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+    },
+    {
+      "id": "3dc03df8-2d23-81c2-ab5e-e33316ccc6a1",
+      "title": "This startup tried to take on Carta. It just announced it's shutting down.",
+      "summary": "Pulley, backed by Stripe and others, shuts down after seven years. Its biggest rival Carta is offering transition help to startups that used Pulley.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-16",
+      "link": "https://www.businessinsider.com/pulley-shuts-down-carta-helps-transition-customers-2026-9"
+    },
+    {
+      "id": "3dc03df8-2d23-81fb-bb51-c4ce97f61fc3",
+      "title": "Salesforce Unveils New AI Model, Agent Security Tools at Dreamforce",
+      "summary": "At the opening of its annual Dreamforce customer conference, Salesforce signaled its involvement in two major trends in enterprise AI: Open-source AI models and software that helps corporate customers safely run AI agents on their data. Salesforce unveiled a new AI model, called Koa, which it ...",
+      "source": "The Information",
+      "publishTime": "2026-09-16",
+      "link": "https://www.theinformation.com/briefings/salesforce-unveils-new-ai-model-agent-security-tools-dreamforce"
+    },
+    {
+      "id": "3dc03df8-2d23-81b6-92a1-e126bb264cad",
+      "title": "Tech Life",
+      "summary": "What should children learn in a world transformed by artificial intelligence?",
+      "source": "BBC Tech",
+      "publishTime": "2026-09-16",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3dc03df8-2d23-813f-a74e-e4bf8af25eaf",
+      "title": "OpenAI CFO Sarah Friar emphasizes 'need to take safety seriously' on AI risks",
+      "summary": "Friar joined CNBC's Jim Cramer on \"Mad Money\" as the debate over technology's safety risks rages on.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-16",
+      "link": "https://www.cnbc.com/2026/09/15/open-ai-sarah-friar-safety.html"
+    },
+    {
+      "id": "3dc03df8-2d23-81e6-8a79-e83e83ba01e0",
+      "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+      "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-16",
+      "link": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html"
+    },
+    {
+      "id": "3dc03df8-2d23-81da-bc4e-c178e0ea2989",
+      "title": "Boeing's new 777X is finally expected to fly passengers next year. Here are the 5 coolest cabin features.",
+      "summary": "From new lighting features to giant premium sections, here's what passengers can expect onboard Boeing's 777X.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-16",
+      "link": "https://www.businessinsider.com/boeing-777x-jet-cabin-what-passengers-can-expect-2026-9"
+    },
+    {
+      "id": "3dc03df8-2d23-81f6-9c30-edc5437fcb1d",
+      "title": "Meta Rolls Out New ‘Meta One’ Subscription Plans With Higher AI Usage Limits",
+      "summary": "Meta Platforms is expanding its paid subscription offerings for its AI tools across Instagram, WhatsApp and Facebook as it looks to diversify revenue beyond digital advertising. The company announced Tuesday in a blog post that it is introducing new tiers of its Meta One subscription plans, ...",
+      "source": "The Information",
+      "publishTime": "2026-09-16",
+      "link": "https://www.theinformation.com/briefings/meta-rolls-new-meta-one-subscription-plans-higher-ai-usage-limits"
+    },
+    {
+      "id": "3dc03df8-2d23-81ad-ba4a-d11fe2914cc7",
+      "title": "AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes",
+      "summary": "In March, two Amazon data centers in the UAE were struck by drones, while a site was also damaged by a nearby drone hit.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-16",
+      "link": "https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html"
+    },
+    {
+      "id": "3dc03df8-2d23-814a-922b-d69bc49764ba",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-16",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "id": "3dc03df8-2d23-81fc-bef9-d9c8d5e97680",
+      "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
+      "summary": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its \"uncool\" stigma and finding new fans among an SUV-weary public. ",
+      "source": "The Verge",
+      "publishTime": "2026-09-16",
+      "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale"
+    },
+    {
+      "id": "3dc03df8-2d23-8148-81e8-d8393b846c97",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-16",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+    },
+    {
+      "id": "3dc03df8-2d23-81ff-8ddc-f8ce3bb589f7",
+      "title": "Why Anthropic’s Data Policy Drama Is Good for OpenAI",
+      "summary": "Major Anthropic customers are still waiting to get “zero data retention” for the newest Fable AI models, meaning the AI firm would not store data related to their usage of its models. In the meantime, some are turning to OpenAI. Palantir and Booz Allen, for instance, are expanding their use of OpenA",
+      "source": "The Information",
+      "publishTime": "2026-09-16",
+      "link": "https://www.theinformation.com/articles/anthropics-data-policy-drama-good-openai"
+    },
+    {
+      "id": "3dc03df8-2d23-81ad-aaaa-f06c5872e38a",
+      "title": "My daughter is obsessed with Snoopy. I woke up at 3:30 a.m. to hunt down Starbucks' new viral cup.",
+      "summary": "Charlotte Mandrier woke at 3:30 a.m. to get Starbucks' new Snoopy cup for her daughter's birthday and spent about $200 on Peanuts merchandise.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-16",
+      "link": "https://www.businessinsider.com/starbucks-snoopy-cups-peanuts-merch-daughter-birthday-2026-9"
+    },
+    {
+      "id": "3dc03df8-2d23-8192-811f-eac78fb8c61a",
+      "title": "Elon Musk hints at possible Tesla-SpaceX merger",
+      "summary": "Elon Musk once again teased the potential of a merger between Tesla and SpaceX on Monday, saying it was a “great question” why Tesla and SpaceX were separate companies. “With all this collaboration, on so many levels, who can imagine what action one might take when there’s so much close ...",
+      "source": "The Information",
+      "publishTime": "2026-09-16",
+      "link": "https://www.theinformation.com/briefings/elon-musk-hints-possible-tesla-spacex-merger"
+    },
+    {
+      "id": "3dc03df8-2d23-8164-9c8a-d4d0383eb9ba",
+      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-16",
+      "link": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/"
+    },
+    {
+      "id": "3dc03df8-2d23-81f4-aca9-e92a62d9ddd2",
+      "title": "The 15 countries with the highest life expectancies — and the 15 with the lowest",
+      "summary": "Around the world, people are living longer. Monaco and San Marino had the highest life expectancies, while Nigeria and Chad had the lowest.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-16",
+      "link": "https://www.businessinsider.com/countries-highest-and-lowest-life-expectancy-2026-4"
+    },
+    {
+      "id": "3dc03df8-2d23-8176-a896-df6d446a14a1",
+      "title": "Oracle CFO says 'doing more with less' isn't the answer in all-hands after layoffs",
+      "summary": "The remarks came a day after Oracle began a new round of layoffs, following cuts earlier this year.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-16",
+      "link": "https://www.businessinsider.com/oracle-cfo-more-with-less-isnt-the-answer-after-layoffs-2026-9"
+    },
+    {
+      "id": "3dc03df8-2d23-8125-936a-f8b7365027c0",
+      "title": "One of the best 3D printers for beginners is almost $100 off",
+      "summary": "If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. This capable 3D printer can handle four filament rolls at once, with a […]",
+      "source": "The Verge",
+      "publishTime": "2026-09-16",
+      "link": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale"
+    },
+    {
+      "id": "3dc03df8-2d23-8145-b0a9-e5f620aac2e4",
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+      "source": "Wired",
+      "publishTime": "2026-09-16",
+      "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/"
+    },
+    {
+      "id": "3dc03df8-2d23-81b5-88a9-c7d6866efbd3",
+      "title": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
+      "summary": "FBI director Kash Patel claimed to US senators that the removal of a bar on hiring people who had engaged in bestiality was aimed at protecting sexual assault survivors.",
+      "source": "Wired",
+      "publishTime": "2026-09-16",
+      "link": "https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/"
+    },
     {
       "id": "3dc03df8-2d23-8184-a35d-f9f3767cef83",
       "title": "Apple's iOS 27 lets parents police more of what kids do on their iPhones",
@@ -184,222 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-09-15",
       "link": "https://www.businessinsider.com/ai-future-jobs-teen-career-college-parenting-2026-9"
-    },
-    {
-      "id": "3dc03df8-2d23-81e5-86cd-c405f98265d6",
-      "title": "雷蛇发布北海巨妖 V4 X SENSA HD 耳机，799 元",
-      "summary": "IT之家 9 月 15 日消息，雷蛇今日宣布推出北海巨妖 V4 X SENSA HD 耳机，新品主打电竞场景，拥有 SENSA HD 触觉反馈技术，支持 7.1 环绕声，定价 799 元。据介绍，这款耳机支持雷蛇 SENSA HD 触觉反馈技术，可让玩家感知游戏的精彩瞬间，适配 100 多款游戏。搭载 40mm 驱动单元，采用三频分离设计，可带来更加出色的高音，让玩家更沉浸。规格方面，该耳机搭载灵晰技术心形指向麦克风，可精准聚焦人声，支持 7.1 环绕声技术，帮助玩家听声辨位，采用人造皮革记忆绵耳垫，减轻长时间佩戴负担。此外，该耳机还支持雷蛇 CHROMA RGB 幻彩光效，用户可通过雷云软件",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/815.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-81f6-b0bc-da1747499285",
-      "title": "Former Google DeepMind researcher says he resigned because 'I earnestly believe that AI has the potential to kill us all'",
-      "summary": "Former Google DeepMind researcher Bilal Chughtai wrote that AI \"has the potential to kill us all.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-09-15",
-      "link": "https://www.businessinsider.com/google-deepmind-researcher-resigns-ai-kill-humans-2026-9"
-    },
-    {
-      "id": "3dc03df8-2d23-815e-8f83-d36ee045021c",
-      "title": "荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发",
-      "summary": "IT之家 9 月 15 日消息，在今晚的荣耀 HGDC 2026 荣耀开发者大会上，MagicOS AI OS 产品总监王倩宣布，荣耀与引望达成了深度合作，将支持手机应用一碰上车。官方介绍页面显示，该功能将由启境 GX7 车型首发，其他车型后续上线。引望全称为“引望智能技术有限公司”，正式成立于 2024 年 1 月 16 日，最初由华为 100% 持股，是华为旗下致力于智能汽车产业发展，提供汽车智能系统及部件解决方案的子公司。据IT之家今日早些时候报道，博主 @旺仔百事通 今日曝光了双框架鸿蒙车机将支持荣耀手机的 Demo 演示。画面显示，双框架华为鸿蒙车机的新版“超级桌面”功能支持连接荣耀",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/814.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-81b4-a1e3-f480ace904f3",
-      "title": "As a local, there are 9 things I wish tourists knew before visiting Salem, Massachusetts",
-      "summary": "Thousands travel to the Massachusetts town of Salem in the fall, especially in October, for Halloween. As a local, avoid these mistakes tourists make.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-15",
-      "link": "https://www.businessinsider.com/visiting-salem-october-advice-from-local-tourist-mistakes-2026-9"
-    },
-    {
-      "id": "3dc03df8-2d23-813c-b9c8-c3b7f3c19ee9",
-      "title": "华为监事会主席郭平：虚心向苹果学习供应链，在 ICT 及计算领域的目标是成为英伟达",
-      "summary": "9 月 15 日晚间消息，近日，华为心声社区对外披露了华为监事会主席郭平与新员工座谈纪要。在与新员工的沟通中，郭平回应了手机业务与苹果对比、车 BU 发展、大模型战略、半导体业务方向等话题。谈超越苹果：专注做好自身，虚心向苹果学习被问及未来华为手机的销量有望超越苹果公司吗？郭平表示，苹果的首席执行官是业界供应链管理的大师，是华为学习的榜样。在当前华为的供应形势受到约束的情况下，供应是华为的保障底线。“华为并不以超越某一家特定企业作为发展目标，而是专注于做好自身。全球市场包括终端领域，允许多家公司、多类产品共生共存。华为致力于提升产品核心价值，让消费者获得物有所值的体验，成为消费者心中喜爱和信赖",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/810.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-814c-875d-f06e55964328",
-      "title": "《Apex 英雄》游戏官宣联动《街头霸王》，9 月 22 日正式上线",
-      "summary": "IT之家 9 月 15 日消息，据游戏媒体 IGN 报道，《Apex 英雄》游戏现已与《街头霸王》达成合作，双方将带来特别皮肤、全新改造点位、格斗模式等内容，9 月 22 日上线。据介绍，玩家可在奖励商店获得 8 款 Iconic 皮肤：雀影 x 隆、变幻 x 春丽、邦加罗尔 x 艾琳娜、幻象 x 卢克、直布罗陀 x 豪鬼、华森 x 嘉米、探路者 x 达尔西姆。本次联动还将带来 8 款武器皮肤：R-99、EVA-8、平行步枪、Volt、G7 侦察枪、莫桑比克、Sentinel、和平捍卫者。其他奖励还包括两款全新跳伞动作，其中一款名为“龙卷旋风脚（Tatsumaki）”、全息喷漆、贴纸（包含《街",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/802.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-81e7-a4cf-e67e6f480319",
-      "title": "小米汽车：澎程 N70 Max/N90 Max 首保约 1414 元，N90 Max 探索版约 1444 元",
-      "summary": "IT之家 9 月 15 日消息，小米汽车今天（15 日）晚间发布第 290 集答网友问，主要回答小米澎程日常保养一次要花多少钱、N90 Max 探索版升降顶舱篷布是否可拆卸清洗、升降顶舱质保周期多久三个问题。养护费用方面，以 N70 Max、N90 Max 为例，首保约 1414 元，N90 Max 探索版约 1444 元（相比 N70 Max、N90 Max 增加了升降顶舱的安全检查）。N90 Max 探索版的升降顶舱为前装原生配置，官方呼吁用户不要私自拆卸清洗。质保周期方面，该配置跟随整车质保政策（5 年或 10 万公里）。IT之家汇总此次问答内容如下：小米澎程日常保养一次要花多少钱？小米",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/801.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-8107-9acd-f09afc587846",
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-15",
-      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
-    },
-    {
-      "id": "3dc03df8-2d23-819d-a64a-e6ba142daf56",
-      "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
-      "summary": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-15",
-      "link": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/"
-    },
-    {
-      "id": "3dc03df8-2d23-81b7-98df-ff0d55b9d2b4",
-      "title": "The US fired over $22 billion in munitions fighting Iran and created stockpile shortages in the process, watchdog finds",
-      "summary": "The Pentagon inspector general also found that the US lost $3.7 billion in equipment during the war.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-15",
-      "link": "https://www.businessinsider.com/us-fired-billions-in-weapons-fighting-iran-drained-stockpiles-report-2026-9"
-    },
-    {
-      "id": "3dc03df8-2d23-81bb-8f26-c7b327b8ed57",
-      "title": "The best photos you missed from the 2026 Emmys",
-      "summary": "There were plenty of iconic photos at the 2026 Emmys you likely missed, from costar hugs to unexpected celebrity meetups.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-15",
-      "link": "https://www.businessinsider.com/emmys-photos-inside-awards-show-2026-9"
-    },
-    {
-      "id": "3dc03df8-2d23-81e8-8751-f163ef9b9f1e",
-      "title": "岚图汽车卢放详解虎踞底盘 P 方案：专门面向旗舰 MPV，标配双向 10 度后轮转向",
-      "summary": "IT之家 9 月 15 日消息，在今日举行的岚图汽车虎踞智能底盘技术交流日上，岚图汽车宣布推出中国首个自主正向研发的旗舰 MPV 专属智能底盘 —— 虎踞 P 方案。IT之家注意到，岚图汽车科技股份有限公司董事长卢放今日还发文详细介绍了专门面向旗舰 MPV 的虎踞底盘 P 方案。据称，该方案标配双向 10 度后轮转向，将 5.3 米的大车转弯半径压缩至 5.9 米；搭载中国唯一量产三腔空簧 + 双阀 EDC 减振器，搭配 15 米路面预瞄系统，可实现毫秒级预判滤震。另外，虎踞底盘 P 方案支持专属尊享模式，可柔化启停顿挫、降低过弯侧倾，后悬还支持一键降低 40mm。该方案还支持八重安全冗余、超",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/800.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-81a7-838c-d25df9fc542f",
-      "title": "互传联盟推出“碰一碰互传技术标准”：荣耀、OPPO、vivo、小米联调，10 月中旬起陆续推送",
-      "summary": "IT之家 9 月 15 日消息，互传联盟近日宣布推出“碰一碰互传技术标准”，跨品牌一碰传即将正式发布。IT之家了解到，各手机厂商多年来已在自身生态内实现碰一碰传输，但跨品牌一碰互传长期缺乏统一标准。互传联盟为此联合荣耀、OPPO、vivo、小米技术团队完成标准制定、研发及联调，统一底层规范。同时，该跨品牌一碰互传标准支持 OPPO、荣耀、vivo 和小米设备互通，可传输图片、文档等文件，无需额外下载，直接集成在各家系统。该能力上线后，预计将于 10 月中旬起，陆续通过系统更新向支持的机型用户推送。",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/799.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-816c-88d4-f13542db9bc4",
-      "title": "iQOO 16 三色官图发布：逐光 / 传奇 / 赛道、主打科幻感，新机 9 月 29 日发布",
-      "summary": "IT之家 9 月 15 日消息，iQOO 官方今日宣布 iQOO 16 新机将于 9 月 29 日 19:00 发布，发布即开售。iQOO 官方还放出了新机三色官图，主打科幻感：逐光｜独家激光全息技术，红蓝光影交错悬浮，科幻感拉满；传奇｜采用磁控溅射电镀工艺，670 纳米的电镀膜厚，冷调白色中透出细腻银灰；赛道｜以 F1 赛车刷紫灵感，把象征最快的紫融入低调内敛的黑，高级精致。据IT之家昨日报道，在三星显示 × iQOO 屏幕技术沟通会上，双方首次官宣「三星显示 × iQOO 未来显示探索计划」，这项计划阶段性成果将首次在 iQOO 16 上搭载。iQOO 官方表示，未来双方将进一步加强合作，",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/798.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-81ff-8e97-d8209cca50e9",
-      "title": "红魔姜超：红魔 12 系列手机只升配不降配，搭载独家第九代屏下全面屏",
-      "summary": "IT之家 9 月 15 日消息，红魔游戏手机产品总经理姜超今日发文，称内存涨价对整个行业冲击不小，红魔手机和平板两条线都实现了逆势增长。另外，姜超还超前预热了红魔 12 系列手机：1）红魔 12 ，为真正的玩家而生，只升配，不降配，性能天花板，只看红魔！2）红魔迄今最好的轻薄手感、独家第九代屏下全面屏、多项独家首发散热技术，全面进化，不挤牙膏。3）系统 UI 设计、流畅度和 AI 体验，史无前例的升级，做到了更好看，更智能，更流畅。据IT之家此前报道，9 月 10 日，姜超发文谈及了 iPhone Duo 采用屏下摄像头方案。他表示，多年来红魔一直坚守真全面屏技术路线，顶着“全面屏是小众技术”",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/797.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-81a0-b2a4-c2ec566e957b",
-      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers",
-      "source": "The Verge",
-      "publishTime": "2026-09-15",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai"
-    },
-    {
-      "id": "3dc03df8-2d23-81a0-addb-cece914c29bc",
-      "title": "Now Light’s minimalist phone can easily call an Uber",
-      "summary": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light Phone III or the upcoming Light Flip, they can use it to find pick up […]",
-      "source": "The Verge",
-      "publishTime": "2026-09-15",
-      "link": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app"
-    },
-    {
-      "id": "3dc03df8-2d23-81fb-9ece-d608dd5e5753",
-      "title": "宏碁推出 Swift Spin 14 翻转本：最高可选酷睿 Ultra 9 386H 处理器、32GB 内存",
-      "summary": "IT之家 9 月 15 日消息，宏碁现已在海外市场推出 Swift Spin 14（SFSP14-I51T）翻转本。新品采用英特尔 Panther Lake 平台，最高提供 32GB 内存。据介绍，这款翻转本能够选择酷睿 Ultra 5 325、酷睿 Ultra 7 355 以及酷睿 Ultra 9 386H 等处理器，满足不同需求。起步内存为 16GB，搭配 512GB 固态硬盘，可升级为 32GB 内存。同时，该翻转本配备 14 英寸 IPS 面板，分辨率为 1920*1200，刷新率为 60Hz，覆盖 100% sRGB 色域，支持选配 30-120Hz 可变刷新率屏幕。此外，该机重量为",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/796.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-81d5-aafe-dcb7ea71b635",
-      "title": "Why electric planes are almost impossible",
-      "summary": "The aviation industry has burned through more than $20 billion with barely a working commercial product to show for it.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-15",
-      "link": "https://www.businessinsider.com/why-electric-planes-are-almost-impossible-2026-9"
-    },
-    {
-      "id": "3dc03df8-2d23-8131-b93c-c5f58e47eb5b",
-      "title": "中文互联网基础语料 4.0 发布：数据量 120GB，为大模型训练和 AI 发展提供可信数据支撑",
-      "summary": "IT之家 9 月 15 日消息，据中国网络空间安全协会官方公众号，9 月 15 日（今天）下午，在济南召开的 2026 年国家网络安全宣传周人工智能安全治理分论坛上，中文互联网基础语料 4.0 正式向社会发布，数据量 120GB，并在“中文互联网语料资源平台”上线。据IT之家了解，用户登录中国网络空间安全协会官网（点此前往），点击“中文互联网语料资源平台”链接，通过注册、认证等程序，即可下载或联系获取相关数据。在中央网信办指导下，中国网络空间安全协会联合国家互联网应急中心，会同百度、中科闻歌、开普云、拓尔思、科大讯飞、知乎等单位，在前期发布中文互联网基础语料 1.0、2.0 和 3.0 的基础",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/795.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-81fe-a2a7-c31ae9377910",
-      "title": "1.5 million student-loan borrowers left Biden's key repayment plan. Here's what's at stake for the 6 million others.",
-      "summary": "The first deadline for student-loan borrowers to move off the SAVE repayment plan is approaching at the end of September. Millions still haven't left.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-15",
-      "link": "https://www.businessinsider.com/student-loan-borrowers-left-save-plan-whats-next-repayment-trump-2026-9"
-    },
-    {
-      "id": "3dc03df8-2d23-817a-be18-d4cea216ed47",
-      "title": "诺贝尔和平奖得主雷萨：如果不现在就限制 AI，人类将失去自主权",
-      "summary": "IT之家 9 月 15 日消息，诺贝尔和平奖得主玛丽亚 · 雷萨（Maria Ressa）表示，人工智能先是借助社交媒体攫取了人类的注意力，又利用人类对亲密情感的本能诉求，干扰我们的生理心理；如果我们现在不通过立法加以限制，人类最终将会丧失自主选择权。据IT之家了解，这位拥有菲律宾、美国双重国籍的记者于 2021 年与另一位记者共同斩获诺贝尔和平奖，部分获奖缘由是她记录大型科技巨头所拥有的强大影响力。目前她担任联合国国际人工智能科学小组的联合主席，该小组的任务是评估人工智能正在如何改变世界各地民众的生活。雷萨提出，普通民众应当主动投身 AI 监管的舆论呼吁，向政界施压，促使政客出台相关立法。“",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/794.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-8192-8a89-df4514111d0b",
-      "title": "I'm an American who moved to the Netherlands. If I had to move abroad again, I’d do these 5 things differently.",
-      "summary": "My husband and I moved from the US to the Netherlands six months ago. Looking back, there are a few things I wish I'd done differently during the move.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-15",
-      "link": "https://www.businessinsider.com/things-id-do-differently-moving-abroad-american-in-the-netherlands-2026-9"
-    },
-    {
-      "id": "3dc03df8-2d23-81fb-857a-c1e405370371",
-      "title": "18999 元起：索尼最轻超远摄定焦镜头 FE 400mm F4.5 / 600mm F6.3 GM OSS 发布",
-      "summary": "IT之家 9 月 15 日消息，索尼今日宣布推出 FE 400mm F4.5 GM OSS、FE 600mm F6.3 GM OSS 长焦镜头。两款新品主打轻量化设计，是索尼最轻的超远摄定焦镜头，售价 18999 元 / 24999 元。IT之家了解到，这两款镜头的重量均低于 1kg，全开光圈下可获得优秀的 MTF 表现，满足大幅裁切需求。搭载 3 枚 Super ED 超低色散镜片、1 枚 ED 低色散镜片，拥有 2 个 XD 线性马达，最高支持 120 张 / 秒连拍自动对焦、自动曝光。同时，两款镜头均采用优化镜片布局，重心更加接近机身，方便用户握持。配备 11 片光圈叶片，可拍出较圆的光",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/793.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-8177-bbcf-e24bea6bd7bc",
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-15",
-      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/"
-    },
-    {
-      "id": "3dc03df8-2d23-8153-b05a-eb046801287e",
-      "title": "“三巨头”联手，OpenAI、Anthropic、谷歌 Deepmind 开始合作研究 AI 安全措施",
-      "summary": "IT之家 9 月 15 日消息，随着美国各界对 AI 可能威胁经济和国家安全的担忧不断升温，OpenAI 开始与主要竞争对手 Anthropic 和谷歌 DeepMind 合作研究 AI 安全措施，进一步推动行业共同应对潜在风险。据彭博社今天（15 日）晚间报道，OpenAI 全球政策主管克里斯 · 莱恩透露，公司与 Anthropic 和谷歌围绕 AI 安全问题的接触持续了数周。OpenAI 认为，三家公司开展这类协调并不需要专门获得反垄断豁免。“尝试合作、优先保障安全，对大家都更好。”当地时间上周六，Anthropic CEO 达里奥 · 阿莫迪发表了一篇 3800 词的长文，呼吁放缓最先",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/792.htm"
-    },
-    {
-      "id": "3dc03df8-2d23-815d-b5f2-d9d7e1dace3c",
-      "title": "荣耀 AgenticOS 亮相，10 月面向 Magic9 系列用户开放尝鲜招募与推送",
-      "summary": "IT之家 9 月 15 日消息，在今晚的荣耀 HGDC 2026 荣耀开发者大会上，荣耀 AgenticOS 系统也登场亮相。根据规划，荣耀年度旗舰 Magic9 系列将首发搭载 MagicOS 11 系统。今年 10 月份，荣耀还会针对 Magic9 系列用户开放通用 AgenticOS 预览版的尝鲜招募与推送。参考IT之家此前报道，荣耀 AgenticOS 定位新一代伙伴型多模态智能体操作系统，已于今年 7 月在 2026 世界人工智能大会上发布。该系统支持意图驱动、自然交互、主动智能、天生跨端四大特征，拥有行业首个系统级 Agent 架构，支持全局多智能体协同、全场景自适应沉淀和面向全场",
-      "source": "IT之家",
-      "publishTime": "2026-09-15",
-      "link": "https://www.ithome.com/1/002/791.htm"
     }
   ],
   "macroEvents": [
