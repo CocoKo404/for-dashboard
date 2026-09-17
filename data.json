@@ -1,6 +1,214 @@
 {
-  "updatedAt": "2026-09-18 02:25",
+  "updatedAt": "2026-09-18 05:35",
   "news": [
+    {
+      "id": "3de03df8-2d23-8183-9fb7-f401783e2016",
+      "title": "OpenAI Hires Global Sales Chief From SpaceX and Two Senior Snowflake Salespeople",
+      "summary": "OpenAI has hired Brian McCarthy from SpaceX’s Cursor unit as its new global sales chief, reporting to recently hired Chief Revenue Officer Dali Rajic, the AI firm said Thursday. In addition, two veteran sales executives from Snowflake, including a senior vice president who helped negotiate the ...",
+      "source": "The Information",
+      "publishTime": "2026-09-18",
+      "link": "https://www.theinformation.com/briefings/openai-hires-global-sales-chief-spacex-two-senior-snowflake-salespeople"
+    },
+    {
+      "id": "3de03df8-2d23-8167-86fd-f9daf8c8628e",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
+    },
+    {
+      "id": "3de03df8-2d23-81ac-8824-dd8d36f822c8",
+      "title": "The fix for rogue AI agents could be more AI",
+      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
+    },
+    {
+      "id": "3de03df8-2d23-814c-8aaf-c9923cfaabdb",
+      "title": "Bridgewater’s Jensen Says Hedge Fund Has “Very Small Position” in the AI Build Out Trade",
+      "summary": "Greg Jensen, the managing chief investment officer of Bridgewater Associates, one of the world’s largest hedge funds, said demand growth for AI infrastructure is largely priced into markets. As a result, Bridgewater has begun looking for investment opportunities elsewhere. “We thought this was ...",
+      "source": "The Information",
+      "publishTime": "2026-09-18",
+      "link": "https://www.theinformation.com/briefings/bridgewaters-jensen-says-hedge-fund-small-position-ai-build-trade"
+    },
+    {
+      "id": "3de03df8-2d23-8184-a6c6-dc2ae789cb61",
+      "title": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate",
+      "summary": "The problem for investors: much of what's flowing through the airwaves is noise and won't help you make money.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-18",
+      "link": "https://www.cnbc.com/2026/09/17/what-an-oscar-winning-movie-can-teach-us-about-investing-through-the-ai-slowdown-debate.html"
+    },
+    {
+      "id": "3de03df8-2d23-817b-b792-ea6927959945",
+      "title": "26 Amazon Prime Perks You Might Know You Have (2026)",
+      "summary": "Your membership gets you more than free two-day shipping. Here’s what you may be missing ahead of Amazon Prime Big Deal Days.",
+      "source": "Wired",
+      "publishTime": "2026-09-18",
+      "link": "https://www.wired.com/story/amazon-prime-perks/"
+    },
+    {
+      "id": "3de03df8-2d23-819f-8595-c3431d4ef74b",
+      "title": "Hegseth's focus on fitness and grooming is back in the spotlight ahead of another big speech",
+      "summary": "Pete Hegseth is reportedly seeking only fit, impeccably groomed, and high-performing troops for another unusual military gathering at Quantico.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/hegseths-focus-on-fitness-grooming-returns-ahead-of-major-speech-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-819c-a40c-c60bfb6b3c12",
+      "title": "Is the AI safety debate about safety or control?",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/"
+    },
+    {
+      "id": "3de03df8-2d23-811d-a291-e36d91f59f98",
+      "title": "SEC to Allow Tokenized Stocks in U.S.",
+      "summary": "The U.S. Securities and Exchange Commission on Thursday issued a temporary order allowing certain types of tokenized stocks—crypto tokens that represent equities—to trade in the U.S., a crypto-friendly move that has drawn pushback from some traditional financial firms. Shares of tokenization ...",
+      "source": "The Information",
+      "publishTime": "2026-09-18",
+      "link": "https://www.theinformation.com/briefings/sec-allow-tokenized-stocks-u-s"
+    },
+    {
+      "id": "3de03df8-2d23-816f-90e0-f90d65f7b86c",
+      "title": "OpenAI takes its AI fight with Anthropic to Big Law",
+      "summary": "OpenAI launches Astra for Law, targeting AmLaw 200 firms with advanced legal AI tools. It's a bid to outpace Anthropic in the rivalry over legal work.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/openai-launches-astra-for-law-targeting-legal-tech-industry-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-8136-b557-d417177b9172",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
+    },
+    {
+      "id": "3de03df8-2d23-81da-b871-f2f43c95e48f",
+      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+      "source": "Wired",
+      "publishTime": "2026-09-18",
+      "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/"
+    },
+    {
+      "id": "3de03df8-2d23-81fe-b683-f5279f5e6ce5",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+    },
+    {
+      "id": "3de03df8-2d23-8125-b68f-f5fe5354d6dd",
+      "title": "The AI Superintelligence Slowdown",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’",
+      "source": "The Verge",
+      "publishTime": "2026-09-18",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"
+    },
+    {
+      "id": "3de03df8-2d23-8131-b0cc-ca103a92e64a",
+      "title": "Microsoft Execs Voiced Concern About OpenAI’s Data Use, New York Times Claims",
+      "summary": "Microsoft executives expressed concerns in recent years that OpenAI’s use of paywalled articles from the New York Times and other publishers to train its models could pose legal issues, and OpenAI executives discussed how doing so could threaten those publishers’ businesses—but OpenAI proceeded ...",
+      "source": "The Information",
+      "publishTime": "2026-09-18",
+      "link": "https://www.theinformation.com/briefings/microsoft-execs-voiced-concern-openais-data-use-new-york-times-claims"
+    },
+    {
+      "id": "3de03df8-2d23-8129-909e-f7afc1cb4a1a",
+      "title": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
+      "summary": "Amazon Web Services didn’t design its data centers to withstand war, and now the company admits it can’t recover what’s been lost.",
+      "source": "Wired",
+      "publishTime": "2026-09-18",
+      "link": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/"
+    },
+    {
+      "id": "3de03df8-2d23-81bc-9140-e5d4c5fd6b86",
+      "title": "The house where Lizzie Borden's parents were murdered is now a B&B. Take a look inside.",
+      "summary": "Lizzie Borden's father and stepmom were found \"hacked to death\" in the house, which has been operating as a bed and breakfast in Massachusetts.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/lizzie-borden-house-bed-and-breakfast-photos-inside"
+    },
+    {
+      "id": "3de03df8-2d23-81b4-9e73-c8bdea7a51c1",
+      "title": "McKinsey wants ambitious technologists, not just MBAs",
+      "summary": "In the search for forward deployed engineers McKinsey is leaning into a new, more technical talent base says its senior partner Ben Ellencweig.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/mckinsey-recruiting-embracing-wider-pool-talent-ai-age-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-81c0-9ed0-fe446e7014ca",
+      "title": "Uber employees say AI is doing everything from writing support chat responses to answering questions in Slack",
+      "summary": "Amid Uber layoffs, employees link job cuts to AI's growing influence, highlighting tools like ChatGPT and productivity dynamics in the tech industry.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/uber-ai-usage-layoffs-questioned-by-former-staff-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-815d-8e04-e2a1723d32e7",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, ",
+      "source": "The Verge",
+      "publishTime": "2026-09-18",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects"
+    },
+    {
+      "id": "3de03df8-2d23-81ac-aaaa-f9f5a4fb225d",
+      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
+      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+      "source": "Wired",
+      "publishTime": "2026-09-18",
+      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/"
+    },
+    {
+      "id": "3de03df8-2d23-817f-b021-e1547be72c3c",
+      "title": "Universal says it plans to release the documentary Elon Musk hates in theaters",
+      "summary": "Comcast's Universal is going ahead with plans to show a new Elon Musk documentary in theaters outside the US, the company says.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/musk-documentary-universal-comcast-theaters-international-plans-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-81be-af67-fe7d71ece375",
+      "title": "Alex Karp says the AI safety debate is really about nationalizing AI labs",
+      "summary": "Palantir CEO Alex Karp argues that AI safety concerns could ultimately push frontier labs toward nationalization over intellectual property liability.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/palantir-alex-karp-ai-safety-debate-nationalizing-ai-labs-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-810f-823f-d126c07a85de",
+      "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+      "summary": "The company suspended service in the city in April after one of its robotaxis got swept away.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/"
+    },
+    {
+      "id": "3de03df8-2d23-81ea-8fef-f9c400ab5475",
+      "title": "Billionaire investor David Einhorn says younger people are too 'impatient' to build wealth or buy a house",
+      "summary": "Einhorn said on a recent podcast appearance that younger people are more focused on speculating in the market than building wealth or saving for a home.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/david-einhorn-young-people-buying-a-house-investing-building-wealth-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-810c-918e-cdb15bd0fc29",
+      "title": "Bloomsbury released the first quote from Sarah J. Maas' new 'ACOTAR' book. Here's everything we know.",
+      "summary": "Sarah J. Maas' sixth \"ACOTAR\" book, \"A Court of Splintered Harmony,\" will be published in October. Readers got their first sneak peek on Thursday.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/sarah-j-maas-acotar-book-6-release-date-plot-details"
+    },
     {
       "id": "3de03df8-2d23-815d-be97-e8bdb00f2f5b",
       "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
@@ -192,214 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-09-17",
       "link": "https://www.businessinsider.com/ai-anxiety-tech-workers-silicon-valley-career-prospects-menlo-ventures-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-81c1-80a5-d68218c2b003",
-      "title": "1599 元：雷蛇发布塔洛斯魔蝎 V2 专业版单手键盘，配全尺寸 TMR 摇杆、31 个可编程按键",
-      "summary": "IT之家 9 月 17 日消息，雷蛇今天宣布推出塔洛斯魔蝎 V2 专业版单手键盘。新品主打发烧电竞用户，支持原生 8000Hz 轮询率，拥有 31 个可编程按键，定价 1599 元。据介绍，这款键盘配备第二代雷蛇模拟光轴，触发行程支持 0.1mm-4.0mm 全域自定义调节。寿命可达 1 亿次，帮助用户轻松完成急停、瞄准、闪避等操作。同时，该键盘支持 Snap Tap 快速敲击功能，玩家可以优先处理两个选定按键之间的最后一次输入，无需松开前一个按键，提升响应速度。还支持双按键优先识别，可智能保留原有输入信号，保障移动操作稳定连贯。规格方面，该键盘配备一个全尺寸 TMR 摇杆，搭配 3 个专用按",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/870.htm"
-    },
-    {
-      "id": "3de03df8-2d23-816a-8b3d-c61e231198f5",
-      "title": "CoreWeave Unveils New ATM Program, Seeks $3 Billion in Convertible Bond Sale",
-      "summary": "CoreWeave said on Thursday that it could sell up to 35 million shares, worth roughly $3 billion based on the prior day’s closing price, through a new at-the-market offering program. At the same time, the company announced plans to raise $3 billion in a convertible note issue, with an option for ...",
-      "source": "The Information",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theinformation.com/briefings/coreweave-unveils-new-atm-program-seeks-3-billion-convertible-bond-sale"
-    },
-    {
-      "id": "3de03df8-2d23-814e-a682-c5ed47ca6945",
-      "title": "波音 CEO 奥特伯格坦诚公司面临重重挑战：737 等机型增产慢，777X 部分测试或延至明年",
-      "summary": "IT之家 9 月 17 日消息，据彭博社报道，当地时间 16 日，波音 CEO 凯利 · 奥特伯格和 CFO 杰伊 · 马拉维在摩根士丹利投资者大会上谈到了公司目前面临的多项问题。长期延误的 777X 还要进行更多测试，部分工作可能拖到明年；737 和 787 等关键机型增产缓慢，也让现金流前景变得更加谨慎。今年以来，波音公司股价累计下跌约 7%。777X 面临的新问题来自发动机。为 777X 提供动力的 GE 航空航天发动机，有一处密封件尚未完成认证。“从现在到年底，这可能会给我们带来一点挑战。部分测试可能会拖到明年，但我们仍计划在 2027 年开始交付。”GE 航空航天发言人称，公司已找到",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/869.htm"
-    },
-    {
-      "id": "3de03df8-2d23-81b7-a0dc-cb50e5fd5c07",
-      "title": "We stayed at an all-inclusive family resort in Europe. It wasn't the break I expected, but I'd do it again.",
-      "summary": "Our stay at Almhof Family Resort and Spa, an all-inclusive family resort in Europe, included free childcare and more perks. Some things surprised us.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/family-stayed-all-inclusive-resort-europe-mostly-worth-it-surprises-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-8139-b6ff-d0787fdd3516",
-      "title": "My husband is an NFL star. I still don't understand the rules of the game.",
-      "summary": "Kandra Mathieu married NFL star Tyrann Mathieu despite knowing little about football. His retirement has changed their family life.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/tyrann-mathieu-wife-kandra-nfl-retirement-family-life-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-819a-972d-cfeda9abf08f",
-      "title": "天文学家发现已知最年轻系外行星：诞生不足百万年",
-      "summary": "IT之家 9 月 17 日消息，天文学家发现了有记录以来最年轻的系外行星，而且这个“新生儿”并不是通过最新观测设备发现的，而是隐藏在过去的观测数据档案中。新发现的系外行星 Elias 2-24 b 质量与木星大致相当。尽管体型庞大，但它的年龄却小得惊人，目前估计还不到 100 万年，是迄今发现的最年轻行星。更特别的是，这颗位于太阳系之外的行星距离地球约 450 光年，目前仍处于孕育它的气体和尘埃盘中。智利天体物理研究所（Instituto de Estudios Astrofísicos）教授、Elias 2-24 b 研究论文共同作者 Lucas Cieza 表示，此前的“最年轻系外行星”纪",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/868.htm"
-    },
-    {
-      "id": "3de03df8-2d23-8173-aa7c-d78327d244ac",
-      "title": "何小鹏称做机器人难度是造车的 20 倍，小鹏机器人最快今年四季度实现能力跳跃",
-      "summary": "IT之家 9 月 17 日消息，据新浪科技报道，小鹏集团 CEO 何小鹏今天在 G9L 汽车发布会结束后，与媒体进行对话。他在谈到机器人业务时透露，做机器人的难度大约相当于造车的 20 倍。何小鹏认为：“基本上我们机器人的硬件、软件、设计及供应链都是我们自己的。过去我一直不愿意把机器人拿出来，主要是因为不能量产，市面上很多机器人能力演示都是通过剪辑之后放出来的。”他还表示，小鹏机器人从研发到量产走得非常痛苦，但也快乐。他们已经逐步开始量产，等到（今年）四季度、明年的一季度和二季度，他们机器人的能力可能会有跳跃。IT之家注意到，小鹏 G9L 汽车今天正式上市，该车定位“黄金大五座科技旗舰”，拥有",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/867.htm"
-    },
-    {
-      "id": "3de03df8-2d23-81ce-81e8-db0a87b61209",
-      "title": "The 25 colleges where students study the most hours a week, ranked",
-      "summary": "Most college students all over the country are studying hard, but some are putting in more hours — and it's not just Ivy League students.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/colleges-where-students-study-the-most"
-    },
-    {
-      "id": "3de03df8-2d23-8137-9db7-cee445cfd4eb",
-      "title": "米哈游法务部：盗用个人信息批量注册账号非法牟利，游戏黑灰产团伙成员被判实刑",
-      "summary": "IT之家 9 月 17 日消息，米哈游法务部今日发文，宣布米哈游日前协助上海警方成功侦破一起游戏账号非法售卖案，全链条摧毁一个专业“造号、养号、卖号”的犯罪团伙。目前此案迎来一审判决，判决已生效。法院判决，本案被告张某、姚某犯非法获取计算机信息系统数据罪，分别被判处有期徒刑三年，并处罚金；犯侵犯公民个人信息罪，分别被判处有期徒刑三年，并处罚金。最终，法院决定张某、姚某分别执行有期徒刑三年十个月，并处罚金人民币六万元。本案的成功侦破，不仅直接捣毁了一个极具代表性的工业化“账号工厂”，还斩断了未成年人获得相关账号的上下游链条，为同类案件的侦办、定性与量刑提供了可参考的司法实践样本。IT之家附案件回",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/864.htm"
-    },
-    {
-      "id": "3de03df8-2d23-818b-af1b-c3f6a6bf2017",
-      "title": "Last call: Disrupt volunteer application closes soon",
-      "summary": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/"
-    },
-    {
-      "id": "3de03df8-2d23-81e1-8208-f66ccf25baeb",
-      "title": "NATO is shifting from air policing to a new ‘360-degree’ defense as drone and missile threats grow, official says",
-      "summary": "NATO's new approach to its air defense operations comes amid a sharp rise in Russian drone incursions into allied airspace this year.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/nato-shifts-from-air-policing-new-defense-approach-threats-grow-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-818d-8118-e8e65a772da4",
-      "title": "Your robotaxi might be a narc",
-      "summary": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected \"a violation of our terms of service involving a firearm,\" pulled the car over, and alerted emergency services, according to the Los Angeles Times. Police arrested",
-      "source": "The Verge",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance"
-    },
-    {
-      "id": "3de03df8-2d23-8189-81aa-cefc290f6a84",
-      "title": "Camp Snap’s 110D gives slim retro film cameras a digital upgrade",
-      "summary": "Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras in the 1970s. The Camp Snap 110D is available for preorder starting today for $74.95 in back in black",
-      "source": "The Verge",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film"
-    },
-    {
-      "id": "3de03df8-2d23-812c-afe0-eaa0f9b4356d",
-      "title": "I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout",
-      "summary": "Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/"
-    },
-    {
-      "id": "3de03df8-2d23-81c4-8622-c0f5a71f596e",
-      "title": "Epic 喜加二：《心灵警探》《将军对决》游戏免费领",
-      "summary": "IT之家 9 月 17 日消息，Epic Game Store 本周送出的游戏是《心灵警探》《将军对决》，下周送出的游戏是《Astrea Six Sided Oracles》《钢铁指挥官》。领取链接：《心灵警探》，《Shogun Showdown》IT之家附《心灵警探》游戏简介如下： 《心灵警探》是一款非线性的悬疑侦探游戏。本作糅合了故事驱动式冒险与实时三消解谜玩法。玩家将扮演声名在外的心灵警探，能够进入嫌疑人的心灵，揭开他们的秘密并看破他们的谎言。本作最初发售于 2024 年 11 月，原价 60 元，支持简体中文字幕、界面，兼容 Xbox 和 PlayStation 控制器。玩家将有五天时",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/863.htm"
-    },
-    {
-      "id": "3de03df8-2d23-81aa-bfff-f9b5d5fa8c29",
-      "title": "谷歌称部分 Pixel 手机用户在 0-Day 攻击中遭到入侵，没有点击链接也会被黑",
-      "summary": "IT之家 9 月 17 日消息，谷歌公司周二表示，部分 Pixel 手机用户曾遭遇一次针对性 0-Day 零日网络攻击。据介绍，黑客利用了 CVE-2026-58704 漏洞对部分用户进行攻击。根据目前公布的信息，该漏洞存在于 Pixel 手机的调制解调器中，黑客可利用其突破调制解调器的沙箱限制，进一步访问手机的其他数据。IT之家注意到，该漏洞可在用户无法察觉的情况下加以利用，整个过程无需用户进行点击链接、打开文件等任何操作。谷歌称该漏洞已经修复，但并没有透露黑客的具体身份，该公司发言人也没有回应媒体置评请求。",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/862.htm"
-    },
-    {
-      "id": "3de03df8-2d23-8179-a137-d430dcb79d28",
-      "title": "I've spent 190 hours on long-haul flights. I have 11 rules for surviving 6-plus hours stuck in economy.",
-      "summary": "I've picked up 11 tips I swear by for surviving long-haul economy flights, like what to pack and how to stay comfortable throughout a lengthy journey.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/long-haul-flight-economy-travel-tips-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-8160-84af-d591d1cfbf72",
-      "title": "乘联分会预计本月狭义乘用车零售 169 万辆，同比降幅进一步扩大至 24.6%",
-      "summary": "IT之家 9 月 17 日消息，乘联分会今天（17 日）发布 9 月车市展望，本月进入传统“金九银十”的消费旺季，终端客流有望持续回暖。以旧换新与地方补贴政策按当前节奏延续，为“金九”行情提供托底。综合研判，9 月狭义乘用车（IT之家注：轿车、MPV、SUV）零售市场规模约 169 万辆，环比增长 9.7%，在去年同期 224.1 万辆的超高基数上，同比降幅预计进一步扩大至 24.6%。分能源类型来看，新能源在新车交付与季度末冲量的双重预期下预计可达 111 万辆左右，零售渗透率 65.7%。乘联分会指出，消费预期与基本面仍无根本改善，叠加油价长期波动上涨，市场实际表现很难复刻往年“金九”的成",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/861.htm"
-    },
-    {
-      "id": "3de03df8-2d23-812a-80c8-c53a0cf0e1cd",
-      "title": "Are AI bots like Instinct and Meta's Muse going to shop for you? And what happens if they do?",
-      "summary": "If agentic bots start shopping for you, what happens to Amazon, and brands, and advertising? I asked retail expert Jason Del Rey.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/ai-shopping-meta-muse-agent-jason-del-rey-kafka-interview-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-81c1-bc30-e8f7ef037cc7",
-      "title": "鸿蒙 7 花粉 Beta 版有惊喜，华为 Mate 60 系列手机升级后新增支持眼动翻页功能",
-      "summary": "IT之家 9 月 17 日消息，华为 Mate 60、Mate X5、Pura 70 等系列老机型今日提前开启了鸿蒙 HarmonyOS 7 系统的花粉 Beta 版升级活动。用户可前往设置 → 软件更新处报名尝鲜。报名成功的用户无需等待，点击系统更新后就可以获得推送。▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏IT之家实测发现，此次鸿蒙 7 花粉 Beta 版“暗藏惊喜”，华为 Mate 60 系列手机升级后新增支持眼动翻页功能。作为参考，去年 3 月发布的华为 Pura X 系列阔折叠手机首发了华为阅读眼动翻页功能。该功能是华为阅读推出的一项通过人眼检测能力，可监测眼球移动来",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/860.htm"
-    },
-    {
-      "id": "3de03df8-2d23-811f-9fea-cdaf9e81dfcf",
-      "title": "消息称苹果已接受三星 2027 年内存涨价，iPhone 等产品有可能再度涨价",
-      "summary": "IT之家 9 月 17 日消息，苹果 iPhone 18 Pro 系列手机将在明天上市，售价相比 17 Pro 系列增加 1000 元人民币。与此同时，去年发布的 iPhone 17 涨价了 800 元，iPhone Air 也涨了 800 元-2300 元不等。据科技媒体 GSMArena 今天报道，三星电子曾在几天前与苹果等智能手机厂商重新谈判 DRAM 与 NAND 价格。如今，苹果似乎已经与三星电子达成新一轮内存 / 闪存价格协议，iPhone 等产品明年还有涨价的可能。传闻称，苹果将从 2027 年第一季度起，以 2 美元（IT之家注：现汇率约合 13.4 元人民币）/1Gb（Gig",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/859.htm"
-    },
-    {
-      "id": "3de03df8-2d23-810c-aa15-eeb21caad845",
-      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-      "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html"
-    },
-    {
-      "id": "3de03df8-2d23-8130-9927-e5f65aaae2cb",
-      "title": "不到一个月连破两道千禧年大奖难题？消息称 OpenAI 即将攻克霍奇猜想",
-      "summary": "IT之家 9 月 17 日消息，今天（17 日）晚间，据《The Information》援引一名了解解法的人士消息称，OpenAI 已接近攻克“千禧年大奖难题”中的另一道题。这组著名数学难题共有 7 道，此前引发争议的“纳维-斯托克斯存在性与光滑性问题”也是其中之一。据这名人士透露，OpenAI 员工预计，下一道“霍奇猜想”有望在不久后得到解决。IT之家注：霍奇猜想研究的是由多项式方程定义的几何形状中，某些几何特征能否始终用更简单的代数结构来描述。不过，即使找到解法，OpenAI 可能也不会立即公布。公司正考虑如何与数学界合作发布消息，避免再次酿成公关危机。据悉，OpenAI 为了解决纳维-",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/858.htm"
-    },
-    {
-      "id": "3de03df8-2d23-8159-991f-e2fc95ec4a30",
-      "title": "Effective altruism explained: The AI-linked giving philosophy beloved by Silicon Valley and opposed by Trump",
-      "summary": "What is effective altruism, and why is the Trump administration targeting it? We looked at the philosophy's rise, fall, and AI comeback.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/effective-altruism-explained-loved-by-silicon-valley-hated-by-trump-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-8125-a045-c1957ec7aecd",
-      "title": "华为路由 X3 Pro 日照金山开放星闪电竞专链功能，对比传统 WiFi 可降低游戏网络卡顿率",
-      "summary": "IT之家 9 月 17 日消息，在 6 月初的华为 nova 16 系列及全场景新品发布会上，华为终端 BG CEO 何刚带来了一款路由新品 —— 华为凌霄子母路由 Q7 电线版。其搭载星闪技术，提供星闪电竞专链功能，支持华为手机 / 平板直连，对比传统 WiFi，可降低游戏网络卡顿率。IT之家实测发现，华为路由 X3 Pro 日照金山已开放星闪电竞专链功能，支持 Mate 80 等系列机型通过星闪进行连接。用户还可以通过华为智慧生活 App 的路由接入设备管理功能，查看各机型的连接方式。从下图可以看到，Mate 80 Pro Max 通过星闪接入了华为路由 X3 Pro 日照金山。需要注意的",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/856.htm"
-    },
-    {
-      "id": "3de03df8-2d23-817c-b603-e2b671b083d0",
-      "title": "苹果 iOS / macOS 27.2 测试 Apple Music 专辑发售倒计时功能，为用户增添惊喜感",
-      "summary": "IT之家 9 月 17 日消息，据 X 平台博主 pdfu 今天爆料，苹果正在 iOS / macOS 27.2 系统中测试 Apple Music 的专辑发售倒计时功能，让用户可以一眼看到新专辑还有多长时间上线，增添一丝惊喜感。据介绍，该功能目前还处于隐藏状态，需要通过功能开关启用。由于苹果仍在测试该功能，因此尚不清楚其正式开放时间。IT之家注意到，苹果公司今日发布 iOS 27.2 Beta 1 测试版系统。本次更新带来了重新设计的健康 App，加入 Apple 智能驱动的健康分析功能；同时将 Siri AI 本地化支持扩展至另外五种语言，为群组 FaceTime 通话带来了双摄像头拍摄功",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/855.htm"
     }
   ],
   "macroEvents": [
