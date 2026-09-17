@@ -1,6 +1,238 @@
 {
-  "updatedAt": "2026-09-17 07:07",
+  "updatedAt": "2026-09-17 09:34",
   "news": [
+    {
+      "id": "3dd03df8-2d23-81ee-aafe-d12be21d5fbd",
+      "title": "Would you buy branded clothing from your favourite tech firm?",
+      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines",
+      "source": "BBC Tech",
+      "publishTime": "2026-09-17",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3dd03df8-2d23-816f-bac3-f792513bede9",
+      "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
+      "summary": "Salesforce issued some updated longer-term financials at its annual Dreamforce conference.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-17",
+      "link": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html"
+    },
+    {
+      "id": "3dd03df8-2d23-81c2-bb98-f1bfca6615f9",
+      "title": "64 位门槛落地：苹果 watchOS 27 开始筛选不兼容第三方应用",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 macobserver 昨日（9 月 16 日）发布博文，报道称在 watchOS 27 系统中，苹果公司提高了应用兼容性要求，所有应用都必须支持 64 位架构。在公示方面，苹果公司为了改善运行性能，早在 2025 年 7 月 22 日通知开发者，从 2026 年 4 月起，上传至 App Store Connect 的 watchOS 应用必须包含 64 位支持。IT之家援引博文介绍，在 9 月 15 日发布的 watchOS 27 系统中，苹果公司已部署相关兼容性要求。如果用户升级系统后发现某个第三方应用不见，主要原因可能是开发者尚未提供 64 位",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/350.htm"
+    },
+    {
+      "id": "3dd03df8-2d23-81c4-a74d-d3a9025ba7e5",
+      "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+      "summary": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-17",
+      "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html"
+    },
+    {
+      "id": "3dd03df8-2d23-815e-bd55-d233499ef175",
+      "title": "全国日均 Token 词元调用量较两年前实现千倍级增长",
+      "summary": "IT之家 9 月 17 日消息，据央视财经 9 月 16 日报道，记者从中国电力企业联合会获悉，今年以来，以互联网数据、充换电服务业为代表的数字能源新型负荷迎来爆发式增长，全国互联网数据服务业用电量超过 600 亿千瓦时，与去年同期相比增长超过四成，远超 2024 年全年水平。报道提到，随着新质生产力加快壮大，人工智能等新兴产业成为支撑全社会用电量稳健增长最确定的力量。人工智能产业的飞速扩张，直接带动数据中心用电需求快速上涨。当前全国日均 Token 调用量较两年前实现千倍级增长，算力需求水涨船高。截至 2026 年 7 月底，全国智能算力总规模达 245 万 PFLOPS，八大国家算力枢纽、",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/349.htm"
+    },
+    {
+      "id": "3dd03df8-2d23-81ad-91c8-f6cdf57055bf",
+      "title": "Cramer bets AI spending will 'continue apace,' says he's not giving up on data center trade",
+      "summary": "CNBC's Jim Cramer said he doesn't see AI spending slowing, despite growing concerns about the pace of model development.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-17",
+      "link": "https://www.cnbc.com/2026/09/16/cramer-ai-slowdown-stocks-dip.html"
+    },
+    {
+      "id": "3dd03df8-2d23-81de-95e8-c7f6cc93ace9",
+      "title": "苹果 iOS 27.2 Beta 1 新特性：支持新旧 App 数据 / 设置“搬家”",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 9to5Mac 昨日（9 月 16 日）发布博文，报道称通过挖掘 iOS 27.2 Beta 1 更新代码，发现苹果公司计划新增系统管理迁移流程，支持开发者把旧应用的数据和相关设置迁移到指定替代应用。IT之家援引博文介绍，在 iOS 27.2 Beta 1 更新代码中，出现以下字符串：开发者建议将您现有的“%1$@”应用程序数据和设置迁移到新的“%2$@”应用程序。在你开始使用新应用之前，iPhone 可以自动完成此操作。旧应用后续将从这台 iPhone 中删除。根据文本提示，用户可以选择“移动应用数据和设置”或“不移动任何内容”。如果用户拒绝迁移内容",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/347.htm"
+    },
+    {
+      "id": "3dd03df8-2d23-817d-849b-d85c317cd6d0",
+      "title": "Arm CEO says he's more confident its new AI chip can meet a loftier $2B revenue goal",
+      "summary": "Arm Holdings CEO Rene Haas said Wednesday he is increasingly confident the chip designer can secure enough supply to meet $2 billion in customer demand.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-17",
+      "link": "https://www.cnbc.com/2026/09/16/jim-cramer-arm-ceo-ai-revenue-goal.html"
+    },
+    {
+      "id": "3dd03df8-2d23-81fd-b43b-effe739411ff",
+      "title": "US automakers could soon be forced to include AM radio for free",
+      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-17",
+      "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/"
+    },
+    {
+      "id": "3dd03df8-2d23-8199-950a-c567979d7a98",
+      "title": "What smart people in business and economics are saying about the Fed interest rate hike",
+      "summary": "The Fed raised rates for the first time in three years, and smart voices in finance are weighing in on whether more hikes are coming.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-17",
+      "link": "https://www.businessinsider.com/fed-hiked-interest-rates-what-economic-experts-say-comes-next-2026-9"
+    },
+    {
+      "id": "3dd03df8-2d23-816b-9114-f0925f67c0a2",
+      "title": "Why Compute Needs a Big Down Payment",
+      "summary": "Greetings!If it suddenly feels like every startup is trying to raise money to throw at some kind of AI infrastructure shortage, you’re probably onto something. We reported last night that the startup behind AI assistant Instinct is in talks to raise $1 billion, as it faces compute capacity constrain",
+      "source": "The Information",
+      "publishTime": "2026-09-17",
+      "link": "https://www.theinformation.com/articles/compute-needs-big-payment"
+    },
+    {
+      "id": "3dd03df8-2d23-818c-b8f9-e8a7f32ce63c",
+      "title": "I'm an American mom raising 2 kids in Italy. Parenting here is completely different.",
+      "summary": "I grew up in New York City, but I'm raising my kids in Italy. School lunches, schedules, and family life look very different here.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-17",
+      "link": "https://www.businessinsider.com/american-raising-kids-in-italy-differences-parenting-abroad-2026-9"
+    },
+    {
+      "id": "3dd03df8-2d23-817e-a935-db1759ca9679",
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "source": "Wired",
+      "publishTime": "2026-09-17",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
+    },
+    {
+      "id": "3dd03df8-2d23-811d-89e2-ec3487f36a32",
+      "title": "A detailed look at the '60 Minutes' ratings drop shows the problem facing Bari Weiss",
+      "summary": "\"60 Minutes\" ratings fell 20% in the season debut, though the audience stuck around at a comparable rate to last year's premiere.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-17",
+      "link": "https://www.businessinsider.com/60-minutes-ratings-problem-bari-weiss-cbs-news-audience-viewership-2026-9"
+    },
+    {
+      "id": "3dd03df8-2d23-811d-bc4d-fb5cc8ce7a8e",
+      "title": "Apollo Backs AI Startups in Bid to Bankroll Hardware Boom",
+      "summary": "Apollo Global Management, known for leveraged buyouts and hefty financing deals, has started investing in AI and related hardware startups with the ambition to lend money to them in the future. In one previously unreported deal, Apollo has already invested in the low tens of millions of dollars in M",
+      "source": "The Information",
+      "publishTime": "2026-09-17",
+      "link": "https://www.theinformation.com/articles/apollo-backs-ai-startups-bid-bankroll-hardware-boom"
+    },
+    {
+      "id": "3dd03df8-2d23-81bf-addb-f59d41390141",
+      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+      "summary": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-17",
+      "link": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html"
+    },
+    {
+      "id": "3dd03df8-2d23-81a8-80a4-daf6e53bf020",
+      "title": "What people at SF's largest tech conference are actually worried about (Hint: Not an AI takeover)",
+      "summary": "Worries about an AI-led apocalypse exploded into the discourse online. Dreamforce's attendees have other concerns, like labor issues and data centers.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-17",
+      "link": "https://www.businessinsider.com/dreamforce-attendees-dismiss-ai-doomsday-fears-2026-9"
+    },
+    {
+      "id": "3dd03df8-2d23-81dd-9eb6-f4cc50cf3d7a",
+      "title": "Our London house swap saved us money. The bigger payoff was watching my teenager grow up.",
+      "summary": "My teen wanted to shop while the rest of us preferred sightseeing in London. Letting her explore alone gave her an unexpected taste of independence.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-17",
+      "link": "https://www.businessinsider.com/teen-explore-london-alone-family-vacation-independence-2026-9"
+    },
+    {
+      "id": "3dd03df8-2d23-81bd-8fa7-c2014e96ceb7",
+      "title": "OpenAI CEO Sam Altman will attend state dinner for Trump-Xi summit in Washington",
+      "summary": "Altman's attendance comes as a heated battle over AI regulation unfolds in Washington and Silicon Valley",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-17",
+      "link": "https://www.cnbc.com/2026/09/16/openai-altman-trump-xi-summit.html"
+    },
+    {
+      "id": "3dd03df8-2d23-8147-8089-c76b7a002b69",
+      "title": "Noise wants to help everyday people become paid content creators",
+      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-17",
+      "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/"
+    },
+    {
+      "id": "3dd03df8-2d23-8149-b0e5-d6c4f295f83b",
+      "title": "Pulley, a Carta rival, is shutting down",
+      "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-17",
+      "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/"
+    },
+    {
+      "id": "3dd03df8-2d23-8169-8ec9-f34de70ae1d1",
+      "title": "Trump calls for slashing interest rates to '1% or less' after the Fed's first hike in 3 years",
+      "summary": "The Federal Reserve hiked rates Wednesday for the first time in 3 years. President Trump said the FOMC should cut.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-17",
+      "link": "https://www.businessinsider.com/trump-tells-warsh-to-lower-interest-rates-to-1-fomc-2026-9"
+    },
+    {
+      "id": "3dd03df8-2d23-81d0-9dbe-f2238979e44e",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-17",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+    },
+    {
+      "id": "3dd03df8-2d23-81eb-b3bc-ee4beeb8a4f2",
+      "title": "Meta is learning a lesson about camera glasses that Google learned more than 10 years ago",
+      "summary": "Google Glass taught Google that camera glasses make people uncomfortable. Now, Meta is reportedly developing a camera-free version of its AI glasses.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-17",
+      "link": "https://www.businessinsider.com/meta-ai-glasses-no-camera-tradeoffs-google-glass-2026-9"
+    },
+    {
+      "id": "3dd03df8-2d23-8167-8045-cb1dde592b3f",
+      "title": "Washington Won’t Be Regulating AI Anytime Soon",
+      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+      "source": "Wired",
+      "publishTime": "2026-09-17",
+      "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/"
+    },
+    {
+      "id": "3dd03df8-2d23-8107-8394-eeb0a619b8bc",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, call",
+      "source": "The Verge",
+      "publishTime": "2026-09-17",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review"
+    },
+    {
+      "id": "3dd03df8-2d23-81fb-87d1-db61511bed84",
+      "title": "Drone Delivery Startup Nears $20 Billion Valuation in New Funding Talks",
+      "summary": "Zipline, a startup making drones that can deliver small packages like meals and medical supplies, is in talks to raise $1 billion at a valuation of roughly $20 billion, according to three people with knowledge of the fundraise. The funding round, if it closes, would more than double its valuation fr",
+      "source": "The Information",
+      "publishTime": "2026-09-17",
+      "link": "https://www.theinformation.com/articles/zipline-talks-raise-funds-20-billion-valuation"
+    },
+    {
+      "id": "3dd03df8-2d23-814e-a914-db1c4359fe87",
+      "title": "Elon Musk's companies ordered to explain why they dropped antitrust claims against Apple",
+      "summary": "A conservative Trump appointee ordered Musk's firms to reveal deals with Apple after dropping antitrust claims. OpenAI remains in the lawsuit.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-17",
+      "link": "https://www.businessinsider.com/elon-musk-companies-ordered-explain-dropped-apple-antitrust-claims-2026-09"
+    },
+    {
+      "id": "3dd03df8-2d23-8138-b3f9-ec188c5a321b",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste than ",
+      "source": "The Verge",
+      "publishTime": "2026-09-17",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
+    },
     {
       "id": "3dd03df8-2d23-8192-ae2a-f831cc76ae97",
       "title": "Meet Bettina Trump, the Palm Beach socialite, model, and influencer married to Donald Trump Jr.",
@@ -168,238 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-09-17",
       "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review"
-    },
-    {
-      "id": "3dd03df8-2d23-8152-b450-d5afec28463f",
-      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "3dd03df8-2d23-81d3-b89f-d56751a820c5",
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/"
-    },
-    {
-      "id": "3dd03df8-2d23-81fd-bc4e-faea19501e78",
-      "title": "The Best Movies to Stream This Month (September 2026)",
-      "summary": "The Mandalorian and Grogu, The Wild Robot, and Obsession are among the must-watch films arriving this month.",
-      "source": "Wired",
-      "publishTime": "2026-09-17",
-      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/"
-    },
-    {
-      "id": "3dd03df8-2d23-81ac-acb9-cc7d9cb24e9d",
-      "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
-      "summary": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to consider preordering, you can save $10 on the physical version o",
-      "source": "The Verge",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale"
-    },
-    {
-      "id": "3dd03df8-2d23-819a-8afc-c6bc615cb32e",
-      "title": "Why Siri AI isn't automatic after your iOS 27 update",
-      "summary": "Apple rolled out iOS 27 on Monday. The biggest update, Siri AI, isn't automatically enabled after the download.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/iphone-ios-27-siri-ai-missing-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-81eb-a400-eb46973b53d0",
-      "title": "Airplane parts need thorough inspections, and AI can help — but only if data is up to snuff",
-      "summary": "Safran uses Loopr AI to streamline defect inspections. The software creates synthetic data to improve AI algorithm training.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/benefits-of-synthetic-data-ai-training-aviation-manufacturing-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-81b9-8d7b-c6ef0bf25cb4",
-      "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
-      "summary": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/"
-    },
-    {
-      "id": "3dd03df8-2d23-812a-862d-fece14164ab4",
-      "title": "Ed Sheeran resale ticket prices slide as the Macklemore fallout grows",
-      "summary": "Ed Sheeran resale ticket prices are down, according to the site Ticketdata. The drop-off comes after Macklemore was removed from Sheeran's tour.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/ed-sheeran-resale-ticket-prices-slide-macklemore-fallout-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-818b-a2a2-e67d141b5eb9",
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with NVIDIA to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI indus",
-      "source": "The Verge",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
-    },
-    {
-      "id": "3dd03df8-2d23-8187-88ac-eea208c9528c",
-      "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
-      "summary": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html"
-    },
-    {
-      "id": "3dd03df8-2d23-81e3-ab55-dbf28af34128",
-      "title": "Professional men are still obsessed with the quarter-zip. Here's why.",
-      "summary": "Men are still embracing the quarter-zip for work. Fashion pros say its appeal is simple: It looks polished without trying too hard.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/quarter-zip-mens-workwear-trend-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-8190-bb1f-ff5abb35251f",
-      "title": "Anthropic official says she’s hearing from her mom about AI safety",
-      "summary": "Anthropic's head of public policy Sarah Heck said she anticipates other moments like this.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/anthropic-sarah-heck-mom-ai-safety-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-8147-b1a4-f1e9bb27a1cb",
-      "title": "Google will now let any AI agent run your smart home",
-      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor you",
-      "source": "The Verge",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
-    },
-    {
-      "id": "3dd03df8-2d23-8173-9f1b-cd3dc17f8f36",
-      "title": "Your ‘health age’ is fake",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During last week's Apple Watch announcement, I let out a distinct \"Noooo!\" in the St",
-      "source": "The Verge",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity"
-    },
-    {
-      "id": "3dd03df8-2d23-811f-9026-cd0eec4351b4",
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
-    },
-    {
-      "id": "3dd03df8-2d23-81ea-907c-cd9dc50611ce",
-      "title": "I spent $500 to have my own room on a 30-hour Amtrak ride. Take a look inside the 20-square-foot private cabin.",
-      "summary": "I booked Amtrak's private roomette on an overnight train from NYC to Miami. It packed a lot into 20 square feet, with two seats and two beds.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/amtrak-viewliner-roomette-tour-photos-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-814f-beca-fcdfef7e4a0a",
-      "title": "Circle Launches New Blockchain for Stablecoins, Other Assets",
-      "summary": "Stablecoin issuer Circle officially launched Arc blockchain, which will support the trading of stablecoins, tokenized equities, and other assets. The blockchain will also support perpetuals, lending protocols, and social trading apps, Jeremy Allaire, CEO of Circle, said in a press briefing. ...",
-      "source": "The Information",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theinformation.com/briefings/circle-launches-new-blockchain-stablecoins-assets"
-    },
-    {
-      "id": "3dd03df8-2d23-8145-b2f0-c528a2340f7d",
-      "title": "The happiest states in the US, ranked",
-      "summary": "A recent study measured Americans' happiness based on three factors: emotional and physical well-being, work environment, and community.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/happiest-us-states-ranked-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-8135-abb9-d3999ec3765a",
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and C",
-      "source": "The Verge",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
-    },
-    {
-      "id": "3dd03df8-2d23-8155-b3fe-ea349118c555",
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
-    },
-    {
-      "id": "3dd03df8-2d23-810f-8d48-c8613511dea6",
-      "title": "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
-      "summary": "President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html"
-    },
-    {
-      "id": "3dd03df8-2d23-81a5-b34c-ef6fcd4a30d6",
-      "title": "Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea",
-      "summary": "Anthropic and OpenAI are proposing embedded AI evaluators to help manage risk of models causing catastrophic harm to society, but the idea has some issues.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html"
-    },
-    {
-      "id": "3dd03df8-2d23-8127-ad3c-c9e0ec97e27d",
-      "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
-      "summary": "The burrito chain has enlisted Palantir for a platform that monitors pest incidents, employee illnesses, and other factors. The partnership comes after a nightmare summer for food safety across the US.",
-      "source": "Wired",
-      "publishTime": "2026-09-17",
-      "link": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/"
-    },
-    {
-      "id": "3dd03df8-2d23-8137-95c8-f4c5b9e6b4d5",
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-      "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders ",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/"
-    },
-    {
-      "id": "3dd03df8-2d23-81d5-baae-d93828d6953e",
-      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "summary": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "3dd03df8-2d23-819c-8544-cab1514982bb",
-      "title": "Amazon is upping its minimum hourly wage for operations workers — and offering employees a new Whole Foods discount",
-      "summary": "Amazon boosts minimum wage to $20 for core workers, introduces 20% Whole Foods discount, enhancing staff benefits and grocery affordability.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-16",
-      "link": "https://www.businessinsider.com/amazon-increases-wages-offers-new-whole-foods-discounts-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-8193-bb37-f284f483a163",
-      "title": "We got another trailer for 'The Hunger Games: Sunrise on the Reaping.' Here's everything we know about the film.",
-      "summary": "The cast for the adaptation of Suzanne Collins' \"Sunrise on the Reaping\" is stacked with actors like Ralph Fiennes, Elle Fanning, and Jesse Plemons.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-16",
-      "link": "https://www.businessinsider.com/sunrise-on-the-reaping-hunger-games-prequel-cast-trailer-2026"
-    },
-    {
-      "id": "3dd03df8-2d23-813f-802d-d7f4768f8721",
-      "title": "联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争",
-      "summary": "IT之家 9 月 16 日消息，据彭博社今天（16 日）晚间报道，联合国秘书长安东尼奥 · 古特雷斯呼吁各国共同推进 AI 监管，并加强对技术的监督。“我们不能忽视已经出现的担忧，尤其不能忽视那些亲自参与 AI 开发的人提出的警告。地缘政治分歧确实存在，也可能诱使各方采取冒险做法。然而，世界承受不起在 AI 安全领域不断的恶性竞争。”古特雷斯表示，AI 治理需要“真正的国际合作”和“协调一致的全球行动”。几天后，世界各国领导人就将前往纽约，参加联合国大会年度高级别周。古特雷斯透露，自己会与各国元首讨论 AI 风险，并在联合国大会发言时谈到应为 AI 设立的安全边界。IT之家从报道中获悉，今年早",
-      "source": "IT之家",
-      "publishTime": "2026-09-16",
-      "link": "https://www.ithome.com/1/003/338.htm"
-    },
-    {
-      "id": "3dd03df8-2d23-8124-983f-e1a97f942364",
-      "title": "How to Stay on Top of Tech Trends with Google Gemini",
-      "summary": "Even for technology leaders, it can feel impossible to keep up with constant advances in the field. This is especially true in the age of AI, with vendors racing to roll out model updates with new capabilities. Even if technology leaders had time to attend every conference and read every tech public",
-      "source": "The Information",
-      "publishTime": "2026-09-16",
-      "link": "https://www.theinformation.com/articles/stay-top-tech-trends-google-gemini"
     }
   ],
   "macroEvents": [
