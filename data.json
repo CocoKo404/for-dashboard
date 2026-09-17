@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-09-17 09:34",
+  "updatedAt": "2026-09-17 15:54",
   "news": [
     {
-      "id": "3dd03df8-2d23-81ee-aafe-d12be21d5fbd",
-      "title": "Would you buy branded clothing from your favourite tech firm?",
-      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines",
-      "source": "BBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3dd03df8-2d23-816f-bac3-f792513bede9",
-      "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
-      "summary": "Salesforce issued some updated longer-term financials at its annual Dreamforce conference.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html"
-    },
-    {
-      "id": "3dd03df8-2d23-81c2-bb98-f1bfca6615f9",
-      "title": "64 位门槛落地：苹果 watchOS 27 开始筛选不兼容第三方应用",
-      "summary": "IT之家 9 月 17 日消息，科技媒体 macobserver 昨日（9 月 16 日）发布博文，报道称在 watchOS 27 系统中，苹果公司提高了应用兼容性要求，所有应用都必须支持 64 位架构。在公示方面，苹果公司为了改善运行性能，早在 2025 年 7 月 22 日通知开发者，从 2026 年 4 月起，上传至 App Store Connect 的 watchOS 应用必须包含 64 位支持。IT之家援引博文介绍，在 9 月 15 日发布的 watchOS 27 系统中，苹果公司已部署相关兼容性要求。如果用户升级系统后发现某个第三方应用不见，主要原因可能是开发者尚未提供 64 位",
+      "id": "3de03df8-2d23-8194-b7e9-e683325efc05",
+      "title": "我国成功发射卫星互联网低轨 25 组卫星",
+      "summary": "IT之家 9 月 17 日消息，据央视新闻报道，北京时间 2026 年 9 月 17 日 8 时 32 分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨 25 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。IT之家查询获悉，这是海南商业航天发射场第 22 次发射，二号发射工位第 9 次发射。作为我国首个商业航天发射场，海南商业航天发射场 2024 年 11 月 30 日晚的首次发射取得圆满成功。",
       "source": "IT之家",
       "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/350.htm"
+      "link": "https://www.ithome.com/1/003/411.htm"
     },
     {
-      "id": "3dd03df8-2d23-81c4-a74d-d3a9025ba7e5",
-      "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
-      "summary": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html"
-    },
-    {
-      "id": "3dd03df8-2d23-815e-bd55-d233499ef175",
-      "title": "全国日均 Token 词元调用量较两年前实现千倍级增长",
-      "summary": "IT之家 9 月 17 日消息，据央视财经 9 月 16 日报道，记者从中国电力企业联合会获悉，今年以来，以互联网数据、充换电服务业为代表的数字能源新型负荷迎来爆发式增长，全国互联网数据服务业用电量超过 600 亿千瓦时，与去年同期相比增长超过四成，远超 2024 年全年水平。报道提到，随着新质生产力加快壮大，人工智能等新兴产业成为支撑全社会用电量稳健增长最确定的力量。人工智能产业的飞速扩张，直接带动数据中心用电需求快速上涨。当前全国日均 Token 调用量较两年前实现千倍级增长，算力需求水涨船高。截至 2026 年 7 月底，全国智能算力总规模达 245 万 PFLOPS，八大国家算力枢纽、",
+      "id": "3de03df8-2d23-81ba-b069-d60a4d41221d",
+      "title": "微软承认 9 月 Win11 更新可能破坏域信任关系",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 bleepingcomputer 昨日（9 月 16 日）发布博文，报道称微软承认适用于 Windows 11 系统的 9 月累积更新 KB5124008 存在 Bug，可能会导致域信任关系故障。IT之家注：域信任关系是指域成员计算机与域控制器之间基于计算机账户凭据建立的信任状态。信任关系正常时，用户可以使用域凭据登录并访问授权资源。若本地凭据与目录服务记录不匹配，系统可能报告域信任错误。微软向该媒体表示：“微软已经注意到这些报道，并正在进行调查。一旦有相关信息，我们将及时发布。”一名管理员表示，Windows 11 25H2 工作站安装 9 月累积更",
       "source": "IT之家",
       "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/349.htm"
+      "link": "https://www.ithome.com/1/003/409.htm"
     },
     {
-      "id": "3dd03df8-2d23-81ad-91c8-f6cdf57055bf",
-      "title": "Cramer bets AI spending will 'continue apace,' says he's not giving up on data center trade",
-      "summary": "CNBC's Jim Cramer said he doesn't see AI spending slowing, despite growing concerns about the pace of model development.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/16/cramer-ai-slowdown-stocks-dip.html"
-    },
-    {
-      "id": "3dd03df8-2d23-81de-95e8-c7f6cc93ace9",
-      "title": "苹果 iOS 27.2 Beta 1 新特性：支持新旧 App 数据 / 设置“搬家”",
-      "summary": "IT之家 9 月 17 日消息，科技媒体 9to5Mac 昨日（9 月 16 日）发布博文，报道称通过挖掘 iOS 27.2 Beta 1 更新代码，发现苹果公司计划新增系统管理迁移流程，支持开发者把旧应用的数据和相关设置迁移到指定替代应用。IT之家援引博文介绍，在 iOS 27.2 Beta 1 更新代码中，出现以下字符串：开发者建议将您现有的“%1$@”应用程序数据和设置迁移到新的“%2$@”应用程序。在你开始使用新应用之前，iPhone 可以自动完成此操作。旧应用后续将从这台 iPhone 中删除。根据文本提示，用户可以选择“移动应用数据和设置”或“不移动任何内容”。如果用户拒绝迁移内容",
+      "id": "3de03df8-2d23-8194-a7c4-c8170e1f1d64",
+      "title": "酷态科 10 号一分二智转线 Ultra 开启预约：首款接入米家 App 的屏显数据线，首发 129 元",
+      "summary": "IT之家 9 月 17 日消息，酷态科 10 号一分二智转线 Ultra 开启预约，9 月 21 日现货开售，日常价 149 元，首发价 129 元。IT之家从官方介绍获悉，该产品是首款接入米家 App 的屏显数据线：自带 0.96 英寸 TFT 高清屏显，智能识别机型 / 品牌，查看实时充电功率；已接入米家 App，支持控制协议开关等个性化设置。该产品搭载自研 ADC 协议转换芯片，旧款充电器 / 充电宝也能快充新设备；自研 OPC 放心充 2.0，根据不同设备匹配专属充电策略。此外，新品提供 140W MAX 双 C 口输出，充电数据传输二合一，支持 480Mbps 数据传输。京东酷态科 ",
       "source": "IT之家",
       "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/347.htm"
+      "link": "https://www.ithome.com/1/003/408.htm"
     },
     {
-      "id": "3dd03df8-2d23-817d-849b-d85c317cd6d0",
-      "title": "Arm CEO says he's more confident its new AI chip can meet a loftier $2B revenue goal",
-      "summary": "Arm Holdings CEO Rene Haas said Wednesday he is increasingly confident the chip designer can secure enough supply to meet $2 billion in customer demand.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/16/jim-cramer-arm-ceo-ai-revenue-goal.html"
-    },
-    {
-      "id": "3dd03df8-2d23-81fd-b43b-effe739411ff",
-      "title": "US automakers could soon be forced to include AM radio for free",
-      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/"
-    },
-    {
-      "id": "3dd03df8-2d23-8199-950a-c567979d7a98",
-      "title": "What smart people in business and economics are saying about the Fed interest rate hike",
-      "summary": "The Fed raised rates for the first time in three years, and smart voices in finance are weighing in on whether more hikes are coming.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/fed-hiked-interest-rates-what-economic-experts-say-comes-next-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-816b-9114-f0925f67c0a2",
-      "title": "Why Compute Needs a Big Down Payment",
-      "summary": "Greetings!If it suddenly feels like every startup is trying to raise money to throw at some kind of AI infrastructure shortage, you’re probably onto something. We reported last night that the startup behind AI assistant Instinct is in talks to raise $1 billion, as it faces compute capacity constrain",
-      "source": "The Information",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theinformation.com/articles/compute-needs-big-payment"
-    },
-    {
-      "id": "3dd03df8-2d23-818c-b8f9-e8a7f32ce63c",
-      "title": "I'm an American mom raising 2 kids in Italy. Parenting here is completely different.",
-      "summary": "I grew up in New York City, but I'm raising my kids in Italy. School lunches, schedules, and family life look very different here.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/american-raising-kids-in-italy-differences-parenting-abroad-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-817e-a935-db1759ca9679",
-      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
-      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
-      "source": "Wired",
-      "publishTime": "2026-09-17",
-      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
-    },
-    {
-      "id": "3dd03df8-2d23-811d-89e2-ec3487f36a32",
-      "title": "A detailed look at the '60 Minutes' ratings drop shows the problem facing Bari Weiss",
-      "summary": "\"60 Minutes\" ratings fell 20% in the season debut, though the audience stuck around at a comparable rate to last year's premiere.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/60-minutes-ratings-problem-bari-weiss-cbs-news-audience-viewership-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-811d-bc4d-fb5cc8ce7a8e",
-      "title": "Apollo Backs AI Startups in Bid to Bankroll Hardware Boom",
-      "summary": "Apollo Global Management, known for leveraged buyouts and hefty financing deals, has started investing in AI and related hardware startups with the ambition to lend money to them in the future. In one previously unreported deal, Apollo has already invested in the low tens of millions of dollars in M",
-      "source": "The Information",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theinformation.com/articles/apollo-backs-ai-startups-bid-bankroll-hardware-boom"
-    },
-    {
-      "id": "3dd03df8-2d23-81bf-addb-f59d41390141",
-      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-      "summary": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html"
-    },
-    {
-      "id": "3dd03df8-2d23-81a8-80a4-daf6e53bf020",
-      "title": "What people at SF's largest tech conference are actually worried about (Hint: Not an AI takeover)",
-      "summary": "Worries about an AI-led apocalypse exploded into the discourse online. Dreamforce's attendees have other concerns, like labor issues and data centers.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/dreamforce-attendees-dismiss-ai-doomsday-fears-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-81dd-9eb6-f4cc50cf3d7a",
-      "title": "Our London house swap saved us money. The bigger payoff was watching my teenager grow up.",
-      "summary": "My teen wanted to shop while the rest of us preferred sightseeing in London. Letting her explore alone gave her an unexpected taste of independence.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/teen-explore-london-alone-family-vacation-independence-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-81bd-8fa7-c2014e96ceb7",
-      "title": "OpenAI CEO Sam Altman will attend state dinner for Trump-Xi summit in Washington",
-      "summary": "Altman's attendance comes as a heated battle over AI regulation unfolds in Washington and Silicon Valley",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/16/openai-altman-trump-xi-summit.html"
-    },
-    {
-      "id": "3dd03df8-2d23-8147-8089-c76b7a002b69",
-      "title": "Noise wants to help everyday people become paid content creators",
-      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/"
-    },
-    {
-      "id": "3dd03df8-2d23-8149-b0e5-d6c4f295f83b",
-      "title": "Pulley, a Carta rival, is shutting down",
-      "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/"
-    },
-    {
-      "id": "3dd03df8-2d23-8169-8ec9-f34de70ae1d1",
-      "title": "Trump calls for slashing interest rates to '1% or less' after the Fed's first hike in 3 years",
-      "summary": "The Federal Reserve hiked rates Wednesday for the first time in 3 years. President Trump said the FOMC should cut.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/trump-tells-warsh-to-lower-interest-rates-to-1-fomc-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-81d0-9dbe-f2238979e44e",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
-    },
-    {
-      "id": "3dd03df8-2d23-81eb-b3bc-ee4beeb8a4f2",
-      "title": "Meta is learning a lesson about camera glasses that Google learned more than 10 years ago",
-      "summary": "Google Glass taught Google that camera glasses make people uncomfortable. Now, Meta is reportedly developing a camera-free version of its AI glasses.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/meta-ai-glasses-no-camera-tradeoffs-google-glass-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-8167-8045-cb1dde592b3f",
-      "title": "Washington Won’t Be Regulating AI Anytime Soon",
-      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
-      "source": "Wired",
-      "publishTime": "2026-09-17",
-      "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/"
-    },
-    {
-      "id": "3dd03df8-2d23-8107-8394-eeb0a619b8bc",
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, call",
-      "source": "The Verge",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review"
-    },
-    {
-      "id": "3dd03df8-2d23-81fb-87d1-db61511bed84",
-      "title": "Drone Delivery Startup Nears $20 Billion Valuation in New Funding Talks",
-      "summary": "Zipline, a startup making drones that can deliver small packages like meals and medical supplies, is in talks to raise $1 billion at a valuation of roughly $20 billion, according to three people with knowledge of the fundraise. The funding round, if it closes, would more than double its valuation fr",
-      "source": "The Information",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theinformation.com/articles/zipline-talks-raise-funds-20-billion-valuation"
-    },
-    {
-      "id": "3dd03df8-2d23-814e-a914-db1c4359fe87",
-      "title": "Elon Musk's companies ordered to explain why they dropped antitrust claims against Apple",
-      "summary": "A conservative Trump appointee ordered Musk's firms to reveal deals with Apple after dropping antitrust claims. OpenAI remains in the lawsuit.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/elon-musk-companies-ordered-explain-dropped-apple-antitrust-claims-2026-09"
-    },
-    {
-      "id": "3dd03df8-2d23-8138-b3f9-ec188c5a321b",
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste than ",
-      "source": "The Verge",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
-    },
-    {
-      "id": "3dd03df8-2d23-8192-ae2a-f831cc76ae97",
-      "title": "Meet Bettina Trump, the Palm Beach socialite, model, and influencer married to Donald Trump Jr.",
-      "summary": "Bettina Trump, née Anderson, is a socialite, model, and influencer who comes from a prominent Palm Beach family.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/who-is-bettina-trump-donald-trump-jr-wife-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-8119-89e4-d1186f222886",
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
-    },
-    {
-      "id": "3dd03df8-2d23-8176-86eb-f330e4c65aeb",
-      "title": "See Elon Musk's properties over the years, from Bel Air mansions to his secret house in Texas",
-      "summary": "Elon Musk has sold most of his California real estate portfolio, but he's building a new one in Austin. See the homes he's owned, including a trailer.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/elon-musk-real-estate-portfolio-over-the-years-2024-9"
-    },
-    {
-      "id": "3dd03df8-2d23-81af-a5e7-d4d4a784e0ee",
-      "title": "Macklemore fans are asking for refunds as Ed Sheeran's Loop Tour implodes. Here's what happened.",
-      "summary": "Ed Sheeran's tour was hit by controversy after Macklemore's pro-Palestine comments led to his removal and the other acts pulling out.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/ed-sheeran-loop-tour-macklemore-controversy-explained-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-819e-a2c2-c25733fd077c",
-      "title": "X will now let US users trade via Cashtags",
-      "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/"
-    },
-    {
-      "id": "3dd03df8-2d23-8145-a972-d77bab897f91",
-      "title": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
-      "summary": "Sarah Heck, Anthropic's head of public policy, offered her perspectives on AI safety as the debate about how to regulate model development intensifies.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-17",
-      "link": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html"
-    },
-    {
-      "id": "3dd03df8-2d23-81b1-a130-f20d4e136cf8",
-      "title": "3 takeaways for what the first Fed hike in 3 years means for your wallet",
-      "summary": "The Fed hiked rates by a quarter point at the September meeting. Inflation is a top priority, Warsh said.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/3-takeaways-from-the-september-fed-meeting-rate-hike-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-81fb-84f9-f8897b60c7c5",
-      "title": "OpenAI Tests Sponsored Agents, Adds AI Tools for ChatGPT Advertisers",
-      "summary": "OpenAI said Wednesday it is testing allowing some U.S. advertisers to sponsor AI agents working in ChatGPT, a move that would bring ChatGPT ads closer to what Google and Meta Platforms already offer. ChatGPT users who click an ad can now start a conversation with an AI agent to ask follow-up ...",
-      "source": "The Information",
-      "publishTime": "2026-09-17",
-      "link": "https://www.theinformation.com/briefings/openai-tests-sponsored-agents-adds-ai-tools-chatgpt-advertisers"
-    },
-    {
-      "id": "3dd03df8-2d23-8192-a791-fd9f94799446",
-      "title": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
-      "summary": "Before Amazon’s October sale begins, learn how to investigate prices and track products like a pro.",
-      "source": "Wired",
-      "publishTime": "2026-09-17",
-      "link": "https://www.wired.com/story/amazon-prime-day-october-2026-tips/"
-    },
-    {
-      "id": "3dd03df8-2d23-813e-ae2e-ee1d0c0a0837",
-      "title": "Reid Hoffman dismisses AI doomers: 'Look at me, I'm Cassandra'",
-      "summary": "LinkedIn cofounder Reid Hoffman said the benefits of AI make slowing down development less important.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/reid-hoffman-ai-cassandra-doom-risk-steering-rsi-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-8102-ac83-cfdfd5bfc702",
-      "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
-      "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/"
-    },
-    {
-      "id": "3dd03df8-2d23-81ff-8995-e6790becc9c7",
-      "title": "Congress is going to war with Jeffrey Epstein patron Leon Black over NDAs",
-      "summary": "The House voted to hold Leon Black in criminal contempt of Congress after he refused to comply with a subpoena requiring him to turn over NDAs.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/jeffrey-epstein-leon-black-comer-bill-ndas-victims-sexual-abuse-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-8154-99d2-fe0308dcbcd6",
-      "title": "MacOS 27 Golden Gate: Top New Features",
-      "summary": "Siri’s reintroduction takes center stage as Apple officially rolls out the latest version of macOS to download and install.",
-      "source": "Wired",
-      "publishTime": "2026-09-17",
-      "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/"
-    },
-    {
-      "id": "3dd03df8-2d23-81c3-87f1-ddd0ff97eba5",
-      "title": "I worked red carpets and toured with country stars. Then losing my dad made me rethink my dream career.",
-      "summary": "After her father's sudden death, a burned-out music publicist built a new career around their shared loves of travel, Disney, food, and writing.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/dad-died-career-change-travel-writing-disney-2026-9"
-    },
-    {
-      "id": "3dd03df8-2d23-8165-b7ac-ecd1a654e741",
-      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-      "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/"
-    },
-    {
-      "id": "3dd03df8-2d23-817f-be09-f49fd0ecefbc",
-      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
-      "source": "Wired",
-      "publishTime": "2026-09-17",
-      "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/"
-    },
-    {
-      "id": "3dd03df8-2d23-816c-9338-ea4a74c7dade",
-      "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 发布",
-      "summary": "【点此直达升级教程】 IT之家 9 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 开发者预览版 Beta 更新（内部版本号：24B5084k），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS ",
+      "id": "3de03df8-2d23-81f2-b74f-c545099dd238",
+      "title": "酷态科 10 号一分二智转线 Ultra 开启预约：首款接入米家 App 的屏显数据线，首发 129 元",
+      "summary": "IT之家 9 月 17 日消息，酷态科 10 号一分二智转线 Ultra 开启预约，9 月 21 日现货开售，日常价 149 元，首发价 129 元。IT之家从官方介绍获悉，该产品是首款接入米家 App 的屏显数据线：自带 0.96 英寸 TFT 高清屏显，智能识别机型 / 品牌，查看实时充电功率；已接入米家 App，支持控制协议开关等个性化设置。该产品搭载自研 ADC 协议转换芯片，旧款充电器 / 充电宝也能快充新设备；自研 OPC 放心充 2.0，根据不同设备匹配专属充电策略。此外，新品提供 140W MAX 双 C 口输出，充电数据传输二合一，支持 480Mbps 数据传输。京东酷态科 ",
       "source": "IT之家",
       "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/342.htm"
+      "link": "https://www.ithome.com/1/003/408.htm"
     },
     {
-      "id": "3dd03df8-2d23-81a2-ad6a-f5605c4ec07b",
-      "title": "苹果 macOS 27.2 开发者预览版 Beta 发布",
-      "summary": "IT之家 9 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 更新（内部版本号：26B5086k），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / macOS 固件下载 / ",
+      "id": "3de03df8-2d23-8127-906c-caf4cdbf8f51",
+      "title": "IT之家鸿蒙版 9.0 重大更新：适配鸿蒙 7.0、小尾巴颜色、首页事件日历等超多更新",
+      "summary": "家友们，IT之家鸿蒙版 9.0 正式发布上线了！适配 HarmonyOS 7.0，带来全新沉浸材质与光感，小尾巴支持显示设备颜色，首页新增事件日历卡片，低分辨率图片预览默认开启图像超分。同时带来圈子帖子关键词屏蔽、自由多窗（平板、三折叠）标题栏窗口沉浸适配，以及分栏、横屏播放、导航手势和无障碍体验优化。快来下载体验。更新亮点总结：新增适配 7.0 沉浸材质、光感（图见下方），包括各处菜单、功能弹窗、评论弹窗，后续继续打磨（需升级 7.0）小尾巴支持显示设备颜色（需升级 7.0），例如 HUAWEI PURA 90 Pro Max 橘子海等，IT之家用户积极反馈相关需求，我们提单，持续推进，AP",
       "source": "IT之家",
       "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/343.htm"
+      "link": "https://www.ithome.com/1/003/407.htm"
     },
     {
-      "id": "3dd03df8-2d23-816c-8bf9-f99f0400fa26",
-      "title": "苹果 visionOS 27.2 开发者预览版 Beta 发布",
-      "summary": "IT之家 9 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 更新（内部版本号：24N5088l），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-09-15：visionOS 27.0 (24M362) 2026-09-10：visionOS 27.0 RC (24M362) 2026-09-01",
+      "id": "3de03df8-2d23-81aa-8e37-d3730f47f3b9",
+      "title": "IT之家鸿蒙版 9.0 重大更新：适配鸿蒙 7.0、小尾巴颜色、首页事件日历等超多更新",
+      "summary": "家友们，IT之家鸿蒙版 9.0 正式发布上线了！适配 HarmonyOS 7.0，带来全新沉浸材质与光感，小尾巴支持显示设备颜色，首页新增事件日历卡片，低分辨率图片预览默认开启图像超分。同时带来圈子帖子关键词屏蔽、自由多窗（平板、三折叠）标题栏窗口沉浸适配，以及分栏、横屏播放、导航手势和无障碍体验优化。快来下载体验。更新亮点总结：新增适配 7.0 沉浸材质、光感（图见下方），包括各处菜单、功能弹窗、评论弹窗，后续继续打磨（需升级 7.0）小尾巴支持显示设备颜色（需升级 7.0），例如 HUAWEI PURA 90 Pro Max 橘子海等，IT之家用户积极反馈相关需求，我们提单，持续推进，AP",
       "source": "IT之家",
       "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/344.htm"
+      "link": "https://www.ithome.com/1/003/407.htm"
     },
     {
-      "id": "3dd03df8-2d23-8180-90ec-ef08ebbc47b2",
-      "title": "苹果 watchOS 27.2 开发者预览版 Beta 发布",
-      "summary": "【点此直达升级教程】 IT之家 9 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 更新（内部版本号：24S5086l），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPa",
+      "id": "3de03df8-2d23-817b-9af8-d28663966ca2",
+      "title": "OpenAI reveals 6 more safety incidents as it announces new plans for tracking rogue agents",
+      "summary": "OpenAI released a framework for investigating and publicly reporting model misalignment, alongside six reports detailing concerning behavior.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-17",
+      "link": "https://www.businessinsider.com/openai-unveils-a-system-for-reporting-rogue-ai-agent-behavior-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-8129-b45e-da6a7672e51e",
+      "title": "OpenAI reveals 6 more safety incidents as it announces new plans for tracking rogue agents",
+      "summary": "OpenAI released a framework for investigating and publicly reporting model misalignment, alongside six reports detailing concerning behavior.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-17",
+      "link": "https://www.businessinsider.com/openai-unveils-a-system-for-reporting-rogue-ai-agent-behavior-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-81d5-b6d3-d448563c1136",
+      "title": "研扬首款 \"Panther Lake\" Mini-ITX 主板 MIX-PTLWV1 发布，最多 4 网口",
+      "summary": "IT之家 9 月 17 日消息，工业主板制造商研扬 (AAEON) 昨日正式发布了其首款基于第 3 代英特尔酷睿 Ultra 处理器 \"Panther Lake\" 的 Mini-ITX 外形规格主板产品 MIX-PTLWV1。这一型号支持 12~24V 宽幅 DC 供电，提供 2 个 DDR5 CSO-DIMM 内存插槽，拥有 1 条 PCIe 插槽（搭配部分处理器时支持 PCIe Gen5 ×8），提供 1 个 M.2 2280 M-Key 固态硬盘插槽、1 个 M.2 2230 E-Key 无线网卡插槽。其标配 2 个 2.5GbE RJ-45，可选配另外 2 个 10GbE 网口；提供蜂",
       "source": "IT之家",
       "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/345.htm"
+      "link": "https://www.ithome.com/1/003/406.htm"
     },
     {
-      "id": "3dd03df8-2d23-8141-b513-f75206f371c9",
-      "title": "Resident Evil is a comedy first and a thrilling nightmare second",
-      "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bros. ",
-      "source": "The Verge",
+      "id": "3de03df8-2d23-8185-9bbd-c3c3c5c54ea1",
+      "title": "研扬首款 \"Panther Lake\" Mini-ITX 主板 MIX-PTLWV1 发布，最多 4 网口",
+      "summary": "IT之家 9 月 17 日消息，工业主板制造商研扬 (AAEON) 昨日正式发布了其首款基于第 3 代英特尔酷睿 Ultra 处理器 \"Panther Lake\" 的 Mini-ITX 外形规格主板产品 MIX-PTLWV1。这一型号支持 12~24V 宽幅 DC 供电，提供 2 个 DDR5 CSO-DIMM 内存插槽，拥有 1 条 PCIe 插槽（搭配部分处理器时支持 PCIe Gen5 ×8），提供 1 个 M.2 2280 M-Key 固态硬盘插槽、1 个 M.2 2230 E-Key 无线网卡插槽。其标配 2 个 2.5GbE RJ-45，可选配另外 2 个 10GbE 网口；提供蜂",
+      "source": "IT之家",
       "publishTime": "2026-09-17",
-      "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review"
+      "link": "https://www.ithome.com/1/003/406.htm"
+    },
+    {
+      "id": "3de03df8-2d23-816a-8a15-f1337a068101",
+      "title": "广汽携手华为乾崑打造，启境 GX7 定档 9 月 23 日发布",
+      "summary": "IT之家 9 月 17 日消息，启境汽车今日宣布，启境 GX7 阔五座智能百变 SUV 上市发布会正式定档 9 月 23 日。官方海报提到，该品牌是广汽携手华为乾崑打造高端智能汽车品牌。这款新车已经于 9 月 4 日开启预售，搭载华为七大汽车智能化解决方案：包含华为乾崑智驾、鸿蒙座舱、华为乾崑赤兔平台、华为乾崑车载光、华为乾崑车云、华为鲸鳍通信、华为智擎电驱，预售价 24.99-31.19 万元。增程 Ultra 版：预售价 24.99 万元增程 Ultra 双电机版：预售价 26.99 万元增程 Ultra 三电机版：预售价 31.19 万元IT之家注意到，启境 GX7 车身尺寸为长 509",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/404.htm"
+    },
+    {
+      "id": "3de03df8-2d23-812f-8797-e39cd86491f3",
+      "title": "2027 款比亚迪元 UP 飞驰版上市：501km 长续航，限时 6.98~9.98 万元",
+      "summary": "IT之家 9 月 17 日消息，比亚迪官方今日宣布，2027 款元 UP 飞驰版焕新上市，限时 6.98 万元起。IT之家整理价格如下：301KM 领航型：官方指导价 7.48 万元，叠加置换补贴等优惠后 6.98 万元401KM 领航型：官方指导价 8.18 万元，叠加优惠后 7.68 万元401KM 活力型：官方指导价 8.98 万元，叠加优惠后 8.48 万元501KM 超越型：官方指导价 9.48 万元，叠加优惠后 8.98 万元501KM 卓越型：官方指导价 10.48 万元，叠加优惠后 9.98 万元2027 款元 UP 飞驰版新增 501km（CLTC）长续航版本，提供萌动黄、氧",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/405.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8153-85a6-dd79df736640",
+      "title": "广汽携手华为乾崑打造，启境 GX7 定档 9 月 23 日发布",
+      "summary": "IT之家 9 月 17 日消息，启境汽车今日宣布，启境 GX7 阔五座智能百变 SUV 上市发布会正式定档 9 月 23 日。官方海报提到，该品牌是广汽携手华为乾崑打造高端智能汽车品牌。这款新车已经于 9 月 4 日开启预售，搭载华为七大汽车智能化解决方案：包含华为乾崑智驾、鸿蒙座舱、华为乾崑赤兔平台、华为乾崑车载光、华为乾崑车云、华为鲸鳍通信、华为智擎电驱，预售价 24.99-31.19 万元。增程 Ultra 版：预售价 24.99 万元增程 Ultra 双电机版：预售价 26.99 万元增程 Ultra 三电机版：预售价 31.19 万元IT之家注意到，启境 GX7 车身尺寸为长 509",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/404.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81a3-aeac-e1b3df9ef729",
+      "title": "2027 款比亚迪元 UP 飞驰版上市：501km 长续航，限时 6.98~9.98 万元",
+      "summary": "IT之家 9 月 17 日消息，比亚迪官方今日宣布，2027 款元 UP 飞驰版焕新上市，新增 501km（CLTC）长续航版本。IT之家整理价格如下：301KM 领航型：官方指导价 7.48 万元，叠加置换补贴等优惠后 6.98 万元401KM 领航型：官方指导价 8.18 万元，叠加优惠后 7.68 万元401KM 活力型：官方指导价 8.98 万元，叠加优惠后 8.48 万元501KM 超越型：官方指导价 9.48 万元，叠加优惠后 8.98 万元501KM 卓越型：官方指导价 10.48 万元，叠加优惠后 9.98 万元这款新车长宽高分别为 4310mm、1830mm、1675mm，轴",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/405.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8110-b5f5-d2dbe3ae0ae3",
+      "title": "部分用户反馈微软 OneDrive / Teams 登录异常 / 反复提示更新",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 BornCity 昨日（9 月 16 日）发布博文，报道称部分用户反馈 OneDrive 和 Microsoft Teams 出现登录失败故障，以及反复提示更新问题。在登录异常方面，IT之家援引博文介绍，在 Windows 11 25H2 环境下，目前报告至少有 5 台客户端出现 OneDrive 登录失败、至少 2 台客户端出现 Microsoft Teams 登录失败问题。原始报告未提供受影响应用的具体版本，因此暂无法确认故障是否集中于某一版本。受影响用户已确认许可证状态正常，并清理了应用缓存。随后，OneDrive 和 Teams 均完成重新安装",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/402.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8125-bdd9-db84be70d1f0",
+      "title": "部分用户反馈微软 OneDrive / Teams 登录异常 / 反复提示更新",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 BornCity 昨日（9 月 16 日）发布博文，报道称部分用户反馈 OneDrive 和 Microsoft Teams 出现登录失败故障，以及反复提示更新问题。在登录异常方面，IT之家援引博文介绍，在 Windows 11 25H2 环境下，目前报告至少有 5 台客户端出现 OneDrive 登录失败、至少 2 台客户端出现 Microsoft Teams 登录失败问题。原始报告未提供受影响应用的具体版本，因此暂无法确认故障是否集中于某一版本。受影响用户已确认许可证状态正常，并清理了应用缓存。随后，OneDrive 和 Teams 均完成重新安装",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/402.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8162-a8eb-e0ee3a8dd442",
+      "title": "ColorOS 全球活跃用户突破 7.7 亿，OPPO、一加、realme 三大品牌系统统一",
+      "summary": "IT之家 9 月 17 日消息，在今日的 OPPO ColorOS 17 发布暨开发者大会上，OPPO 软件工程事业部总裁唐凯宣布，ColorOS 全球活跃用户数突破 7.7 亿，覆盖 90 多个国家和地区。唐凯还宣布，OPPO、一加、realme 将全面升级 ColorOS。从手机到全场景智能设备，ColorOS 让设备无界、体验连续、服务直达。IT之家注意到，OPPO ColorOS 产品经理 @ColorOS阿彪 曾宣布，OPPO、一加、真我将首批同步升级 ColorOS 17。",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/401.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81be-8056-fd1125800cad",
+      "title": "ColorOS 全球活跃用户突破 7.7 亿，OPPO、一加、realme 三大品牌系统统一",
+      "summary": "IT之家 9 月 17 日消息，在今日的 OPPO ColorOS 17 发布暨开发者大会上，OPPO 软件工程事业部总裁唐凯宣布，ColorOS 全球活跃用户数突破 7.7 亿，覆盖 90 多个国家和地区。唐凯还宣布，OPPO、一加、realme 将全面升级 ColorOS。从手机到全场景智能设备，ColorOS 让设备无界、体验连续、服务直达。IT之家注意到，OPPO ColorOS 产品经理 @ColorOS阿彪 曾宣布，OPPO、一加、真我将首批同步升级 ColorOS 17。",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/401.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81d7-80be-c485d5126db5",
+      "title": "特斯拉 Cybercab 全国巡展首秀亮相京沪，9 月 17 日至 21 日静态展出",
+      "summary": "IT之家 9 月 17 日消息，今日，特斯拉 Cybercab 全国巡展首秀上海站在上海兴业太古汇开启，展出将持续至 9 月 21 日。同时，Cybercab 也已经在北京华贸特斯拉体验店开启巡展，将一直持续至 9 月 27 日。特斯拉方面明确，此次活动仅为静态展示，不涉及 Cybercab 在中国市场的上市销售或无人驾驶网约车商业运营安排。特斯拉官方 9 月 14 日宣布 Cybercab 将入华展览。北京华贸特斯拉体验店的展览时间为 9 月 17 日至 27 日，上海兴业太古汇 LG1 层北厅的展览时间为 9 月 17 日至 21 日。此前 Cybercab 仅在海外展示，本次是该车型首次",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/398.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8161-8291-fb2dcd8ef2d3",
+      "title": "特斯拉 Cybercab 全国巡展首秀亮相京沪，9 月 17 日至 21 日静态展出",
+      "summary": "IT之家 9 月 17 日消息，今日，特斯拉 Cybercab 全国巡展首秀上海站在上海兴业太古汇开启，展出将持续至 9 月 21 日。同时，Cybercab 也已经在北京华贸特斯拉体验店开启巡展，将一直持续至 9 月 27 日。特斯拉方面明确，此次活动仅为静态展示，不涉及 Cybercab 在中国市场的上市销售或无人驾驶网约车商业运营安排。特斯拉官方 9 月 14 日宣布 Cybercab 将入华展览。北京华贸特斯拉体验店的展览时间为 9 月 17 日至 27 日，上海兴业太古汇 LG1 层北厅的展览时间为 9 月 17 日至 21 日。此前 Cybercab 仅在海外展示，本次是该车型首次",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/398.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8195-8664-c71266ce60db",
+      "title": "华硕 ROG 影魔分体键盘新增 HFX V2X 磁轴版，到手价 2251.65 元",
+      "summary": "IT之家 9 月 17 日消息，华硕 (ASUS) 昨日宣布为 ROG Falcata“影魔”游戏键盘推出换装 ROG HFX V2 磁轴开关的衍生型号。其标价 2649 元，补贴后到手价 2251.65 元。ROG Falcata 采用分离式 75% 配列，提供多功能按钮和滚轮，拥有四层消音减震结构，支持 ROG SpeedNova 8K 无线连接技术，随附可拆式硅胶掌托。其换装的 ROG HFX V2X 磁轴结合“火山口”轴芯设计和 X 型稳定器结构，带来无晃动的稳定击键表现；同时内嵌更大尺寸的轴体。其总行程 3.5mm，初始压力 30gf、总压力 45gf，触发点调节精度 0.01mm。",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/397.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81f4-937a-d5500dc2dd7d",
+      "title": "华硕 ROG 影魔分体键盘新增 HFX V2X 磁轴版，到手价 2251.65 元",
+      "summary": "IT之家 9 月 17 日消息，华硕 (ASUS) 昨日宣布为 ROG Falcata“影魔”游戏键盘推出换装 ROG HFX V2 磁轴开关的衍生型号。其标价 2649 元，补贴后到手价 2251.65 元。ROG Falcata 采用分离式 75% 配列，提供多功能按钮和滚轮，拥有四层消音减震结构，支持 ROG SpeedNova 8K 无线连接技术，随附可拆式硅胶掌托。其换装的 ROG HFX V2X 磁轴结合“火山口”轴芯设计和 X 型稳定器结构，带来无晃动的稳定击键表现；同时内嵌更大尺寸的轴体。其总行程 3.5mm，初始压力 30gf、总压力 45gf，触发点调节精度 0.01mm。",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/397.htm"
+    },
+    {
+      "id": "3de03df8-2d23-819d-8114-d00e64696136",
+      "title": "微软承认在部分 Win10/Win11 经典版 Outlook 中 Copilot 入口消失",
+      "summary": "IT之家 9 月 17 日消息，微软于 9 月 15 日更新支持文档，表示经典版 Outlook 升级 Build 20026.20182 及更高版本后，部分拥有 Copilot Chat 许可证或付费 M365 Copilot 账户的用户，可能失去 Copilot Chat 与 Copilot 入口。在问题表现方面，IT之家援引博文介绍，微软表示升级新版后，可能会出现以下情况：功能区上方右侧的 Copilot 按钮消失；经典版 Outlook 左侧应用栏或“更多应用”区域不再显示 Copilot 图标；“添加应用”中虽可显示 Copilot，但选择“打开”后没有响应；通过功能区自定义添加 C",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/396.htm"
+    },
+    {
+      "id": "3de03df8-2d23-818c-8638-ffa735dc6277",
+      "title": "微软承认在部分 Win10/Win11 经典版 Outlook 中 Copilot 入口消失",
+      "summary": "IT之家 9 月 17 日消息，微软于 9 月 15 日更新支持文档，表示经典版 Outlook 升级 Build 20026.20182 及更高版本后，部分拥有 Copilot Chat 许可证或付费 M365 Copilot 账户的用户，可能失去 Copilot Chat 与 Copilot 入口。在问题表现方面，IT之家援引博文介绍，微软表示升级新版后，可能会出现以下情况：功能区上方右侧的 Copilot 按钮消失；经典版 Outlook 左侧应用栏或“更多应用”区域不再显示 Copilot 图标；“添加应用”中虽可显示 Copilot，但选择“打开”后没有响应；通过功能区自定义添加 C",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/396.htm"
+    },
+    {
+      "id": "3de03df8-2d23-815f-a8ac-fc679ebecd10",
+      "title": "比亚迪大唐 SUV 新增“迪迪虾”AI 超级智能体，支持一句话点外卖等",
+      "summary": "IT之家 9 月 17 日消息，比亚迪今日宣布全尺寸闪充旗舰 SUV 大唐上线“迪迪虾”，这款 AI 超级智能体首搭于腾势 N8L 纯电版。IT之家附新增功能如下：新增迪迪虾：AI 空间、人设、技能、记忆、生态朋友圈等新功能。新增生态智能体服务：音乐、视频、短剧想玩什么都通过迪迪虾自然语言交互实现；点外卖、订酒店一句话的事儿。点击“生态朋友圈”了解支持的生态智能体朋友。新增迪迪虾“AI 空间”功能：智能体情感化空间，沉浸式陪聊，百变闲聊风格，语音唤醒，即刻交互。新增迪迪虾“人设”功能：开放丰富的智能体自定义能力，形象、性格、音色、回复风格等，独一无二的智能体搭子由你定义。新增迪迪虾“技能”功能",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/395.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8166-828a-ef36460a885e",
+      "title": "比亚迪大唐 SUV 新增“迪迪虾”AI 超级智能体，支持一句话点外卖等",
+      "summary": "IT之家 9 月 17 日消息，比亚迪今日宣布全尺寸闪充旗舰 SUV 大唐上线“迪迪虾”，这款 AI 超级智能体首搭于腾势 N8L 纯电版。IT之家附新增功能如下：新增迪迪虾：AI 空间、人设、技能、记忆、生态朋友圈等新功能。新增生态智能体服务：音乐、视频、短剧想玩什么都通过迪迪虾自然语言交互实现；点外卖、订酒店一句话的事儿。点击“生态朋友圈”了解支持的生态智能体朋友。新增迪迪虾“AI 空间”功能：智能体情感化空间，沉浸式陪聊，百变闲聊风格，语音唤醒，即刻交互。新增迪迪虾“人设”功能：开放丰富的智能体自定义能力，形象、性格、音色、回复风格等，独一无二的智能体搭子由你定义。新增迪迪虾“技能”功能",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/395.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81eb-a212-f425095f1d47",
+      "title": "微软 Win11 开始菜单可隐藏账户名称，录屏无需后期遮挡",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 NeoWin 昨日（9 月 16 日）发布博文，报道称 Windows 11 用户安装 8 月可选更新 KB5120998 后，可以隐藏开始菜单中的账户名称与个人资料图片。该设置选项位于“设置 > 个性化 > 开始”路径，名称为“在开始菜单隐藏姓名与头像”（Hide your name and profile picture on Start），适用于屏幕录制与共享场景用户。启用该选项后，开始菜单仅展示通用 Microsoft 账户头像，且头像旁不附带姓名。点击该通用头像，账户面板仍会显示完整姓名与原始个人资料图片。IT之家附上相关图片如下：KB512",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/394.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81c8-9d71-c12f1f2f7be1",
+      "title": "微软 Win11 开始菜单可隐藏账户名称，录屏无需后期遮挡",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 NeoWin 昨日（9 月 16 日）发布博文，报道称 Windows 11 用户安装 8 月可选更新 KB5120998 后，可以隐藏开始菜单中的账户名称与个人资料图片。该设置选项位于“设置 > 个性化 > 开始”路径，名称为“在开始菜单隐藏姓名与头像”（Hide your name and profile picture on Start），适用于屏幕录制与共享场景用户。启用该选项后，开始菜单仅展示通用 Microsoft 账户头像，且头像旁不附带姓名。点击该通用头像，账户面板仍会显示完整姓名与原始个人资料图片。IT之家附上相关图片如下：KB512",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/394.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81f2-ba63-f127905aeba0",
+      "title": "OpenAI 首次公开六起模型异常案例，涉及瞒报错误、编造数据及未经授权上传文件",
+      "summary": "IT之家 9 月 17 日消息，当地时间 9 月 16 日，OpenAI 发布报告，披露了其“对齐失效”框架下的六起模型异常行为案例，涉及隐瞒错误、编造数据、未经许可上传文件等。对齐失效在这里是指 AI 系统的目标与行为偏离人类设计意图和价值观。OpenAI 表示，行业尚未充分解决对齐与监控问题，已无法继续以最快速度且安稳地扩大 AI 规模。OpenAI 也借此机会宣布将系统性跟踪、调查和披露模型在训练、评估、测试及部署过程中出现的异常行为。OpenAI 称，有关 AI 应如何发展的决策，必须建立在外部人士可以自行核验的实证依据之上。该公司希望新框架推动行业形成公开披露标准，而非仅靠零散报告。",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/392.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81bf-8b6b-e87a3ff64fc9",
+      "title": "消息称 Anthropic 算力布局首度落子澳大利亚，将租赁 2.16GW 数据中心园区",
+      "summary": "IT之家 9 月 17 日消息，路透社当地时间 16 日报道称，Anthropic 签署了其首份澳大利亚数据中心租赁协议。该协议涉及一座规划容量达 2.16GW 的大型算力园区，选址位于布里斯班以西约 250km 的位置，预计将由新加坡开发商 Zerra DC 负责建设。该数据中心将采购可再生能源电力并自主承担电网连接费用。图源：Pexels人工智能基础设施的运行伴随着大量的能量消耗，电力供应能力是数据中心选址的决定性因素之一。地广人稀同时又拥有大量可再生资源的澳大利亚是算力基建的理想区域之一。OpenAI 此前在去年也签署了在澳大利亚建设数据中心的协议。不过，该国社会也存在反对的声音，澳大利",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/393.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8150-91d7-e52a7ada3983",
+      "title": "OpenAI 首次公开六起模型异常案例，涉及瞒报错误、编造数据及未经授权上传文件",
+      "summary": "IT之家 9 月 17 日消息，当地时间 9 月 16 日，OpenAI 发布报告，披露了其“对齐失效”框架下的六起模型异常行为案例，涉及隐瞒错误、编造数据、未经许可上传文件等。对齐失效在这里是指 AI 系统的目标与行为偏离人类设计意图和价值观。OpenAI 表示，行业尚未充分解决对齐与监控问题，已无法继续以最快速度且安稳地扩大 AI 规模。OpenAI 也借此机会宣布将系统性跟踪、调查和披露模型在训练、评估、测试及部署过程中出现的异常行为。OpenAI 称，有关 AI 应如何发展的决策，必须建立在外部人士可以自行核验的实证依据之上。该公司希望新框架推动行业形成公开披露标准，而非仅靠零散报告。",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/392.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8117-b8b5-f53d71ce07df",
+      "title": "消息称 Anthropic 算力布局首度落子澳大利亚，将租赁 2.16GW 数据中心园区",
+      "summary": "IT之家 9 月 17 日消息，路透社当地时间 16 日报道称，Anthropic 签署了其首份澳大利亚数据中心租赁协议。该协议涉及一座规划容量达 2.16GW 的大型算力园区，选址位于布里斯班以西约 250km 的位置，预计将由新加坡开发商 Zerra DC 负责建设。该数据中心将采购可再生能源电力并自主承担电网连接费用。图源：Pexels人工智能基础设施的运行伴随着大量的能量消耗，电力供应能力是数据中心选址的决定性因素之一。地广人稀同时又拥有大量可再生资源的澳大利亚是算力基建的理想区域之一。OpenAI 此前在去年也签署了在澳大利亚建设数据中心的协议。不过，该国社会也存在反对的声音，澳大利",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/393.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8122-8f6d-e516ea4dcd5f",
+      "title": "行业首家：绿联 NAS 私有云与 vivo 实现深度生态合作",
+      "summary": "IT之家 9 月 17 日消息，2026 vivo 开发者大会于 9 月 16 日举行。大会期间，绿联 NAS 私有云与 vivo 携手达成生态合作，成为首家官宣与 vivo 生态合作的 NAS 私有云品牌。双方将围绕设备互联、生态协同及多场景体验展开深度探索，共同推动智能终端与私有云生态融合发展。当前，多品牌设备共存已经成为广大用户的常态，但不同设备间的生态壁垒、繁琐的数据迁移、割裂的跨终端协同体验，依然是用户日常使用中的痛点。绿联 NAS 私有云与 vivo 双方基于一致的开放生态理念展开深度合作，跳出单一硬件适配的局限，聚焦用户真实场景体验开展联合探索。IT之家从公告获悉，本次生态合作，",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/391.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8152-ad4f-c76a552a291e",
+      "title": "行业首家：绿联 NAS 私有云与 vivo 实现深度生态合作",
+      "summary": "IT之家 9 月 17 日消息，2026 vivo 开发者大会于 9 月 16 日举行。大会期间，绿联 NAS 私有云与 vivo 携手达成生态合作，成为首家官宣与 vivo 生态合作的 NAS 私有云品牌。双方将围绕设备互联、生态协同及多场景体验展开深度探索，共同推动智能终端与私有云生态融合发展。当前，多品牌设备共存已经成为广大用户的常态，但不同设备间的生态壁垒、繁琐的数据迁移、割裂的跨终端协同体验，依然是用户日常使用中的痛点。绿联 NAS 私有云与 vivo 双方基于一致的开放生态理念展开深度合作，跳出单一硬件适配的局限，聚焦用户真实场景体验开展联合探索。IT之家从公告获悉，本次生态合作，",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/391.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81b5-895b-dfce6888cd82",
+      "title": "微软承认 Edge 153 浏览器存在 Bug，部分 Web 应用交互时无响应",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 Neowin 昨日（9 月 16 日）发布博文，报道称微软承认 Microsoft Edge 153 浏览器（9 月 10 日发布）存在 Bug，会导致部分 Web 应用出现无响应情况。根据微软官方 Edge 已知问题页面描述，该问题在用户交互期间触发，受影响浏览器窗口可能完全冻结，停止响应鼠标或键盘输入。IT之家援引博文介绍，微软表示正在调查此问题，尚未提供修复时间表。对于受影响用户，临时解决方案是回滚至 Edge 152 版本。Salesforce 于同日发布状态事件报告，指出其服务在 Chrome 与 Edge 153 浏览器中出现间歇性 UI ",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/389.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8100-b354-f8dc69ceb8d3",
+      "title": "微软承认 Edge 153 浏览器存在 Bug，部分 Web 应用交互时无响应",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 Neowin 昨日（9 月 16 日）发布博文，报道称微软承认 Microsoft Edge 153 浏览器（9 月 10 日发布）存在 Bug，会导致部分 Web 应用出现无响应情况。根据微软官方 Edge 已知问题页面描述，该问题在用户交互期间触发，受影响浏览器窗口可能完全冻结，停止响应鼠标或键盘输入。IT之家援引博文介绍，微软表示正在调查此问题，尚未提供修复时间表。对于受影响用户，临时解决方案是回滚至 Edge 152 版本。Salesforce 于同日发布状态事件报告，指出其服务在 Chrome 与 Edge 153 浏览器中出现间歇性 UI ",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/389.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8121-9fdc-f460428aa1dc",
+      "title": "七彩虹上架 iGame 御甲 G114 智显充电器：140W 四口，199 元",
+      "summary": "IT之家 9 月 17 日消息，七彩虹 (Colorful) 现已在电商平台上架 iGame 御甲 G114 智显充电器。该产品定价 199 元，9 月 22 日 10:00 开售。iGame 御甲 G114 支持 140W 功率，输入端采用折叠式两脚插头设计，输出端则包括 3 个 USB Type-C 和 1 个 USB Type-A，兼容 USB PD、PPS、SCP / FCP、Quick Charge 等主流快充协议。顶部的屏幕能显示总功率、功率分配、温度等信息。其采用氮化镓 (GaN) 功率半导体，搭配有机硅凝胶灌封工艺，支持 20fps 高频测温和动态温度调节，集成 OTP、SCP",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/388.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81bc-b5d5-c0ec62f85a1b",
+      "title": "七彩虹上架 iGame 御甲 G114 智显充电器：140W 四口，199 元",
+      "summary": "IT之家 9 月 17 日消息，七彩虹 (Colorful) 现已在电商平台上架 iGame 御甲 G114 智显充电器。该产品定价 199 元，9 月 22 日 10:00 开售。iGame 御甲 G114 支持 140W 功率，输入端采用折叠式两脚插头设计，输出端则包括 3 个 USB Type-C 和 1 个 USB Type-A，兼容 USB PD、PPS、SCP / FCP、Quick Charge 等主流快充协议。顶部的屏幕能显示总功率、功率分配、温度等信息。其采用氮化镓 (GaN) 功率半导体，搭配有机硅凝胶灌封工艺，支持 20fps 高频测温和动态温度调节，集成 OTP、SCP",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/388.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81df-8500-ef6d9816b505",
+      "title": "行业首个，消息称一加 16 手机 165Hz 超高刷“能下载的应用都能开”",
+      "summary": "IT之家 9 月 17 日消息，博主 @数码闲聊站 今日曝光一加 16 手机 165Hz 超高刷设置界面，直接在系统设置里就能开。据其爆料，新机搭载的东方屏 X4 发光材料、电路做了大升级，支持纯硬件级全局超高刷，实测不光是系统应用，是能下载的应用都能开。IT之家注意到，该博主于 8 月 31 日曝光了一加 16 手机的屏幕核心新特性：BOE 独家定制的发光材料 X4行业首个全局 165Hz 超高刷全新工艺的自研显示芯片行业唯一逐片三次校准OPPO 最新明眸护眼技术子系唯一极窄四等边结合IT之家此前报道，消息称一加 16 将首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/386.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81d9-a878-fc83a09078ef",
+      "title": "影石法务部称遭遇有组织黑水军攻击：已有同行业公司高管被行政拘留，举报者获奖 1 万元",
+      "summary": "IT之家 9 月 17 日消息，影石法务部今日发文称，近日，影石再次遭遇有组织黑水军攻击，全网多平台出现批量账号密集发布不实信息。影石对网络黑产零容忍，已全面固定证据，必将依法追究到底。事实上，已有黑灰产团伙被刑事拘留、同行业公司高管被行政拘留。2025 年，我司收到举报线索，称有组织利用亚马逊平台，对我司在售产品实施恶意刷差评的不法侵害行为。我司第一时间向公安机关报案。公安机关侦查后捣毁该黑灰产团伙，其中 3 名犯罪嫌疑人被刑事拘留。经查明，幕后组织者系某影石同行业的公司高管。其雇佣黑灰产团伙，指使留学生发布虚假差评，如谎称影石一款仅支持插电使用的产品“存在电池续航问题”，抹黑影石在海外平台",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/387.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81c9-b9be-f36ee33fbb94",
+      "title": "行业首个，消息称一加 16 手机 165Hz 超高刷“能下载的应用都能开”",
+      "summary": "IT之家 9 月 17 日消息，博主 @数码闲聊站 今日曝光一加 16 手机 165Hz 超高刷设置界面，直接在系统设置里就能开。据其爆料，新机搭载的东方屏 X4 发光材料、电路做了大升级，支持纯硬件级全局超高刷，实测不光是系统应用，是能下载的应用都能开。IT之家注意到，该博主于 8 月 31 日曝光了一加 16 手机的屏幕核心新特性：BOE 独家定制的发光材料 X4行业首个全局 165Hz 超高刷全新工艺的自研显示芯片行业唯一逐片三次校准OPPO 最新明眸护眼技术子系唯一极窄四等边结合IT之家此前报道，消息称一加 16 将首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/386.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81e2-94e5-e91252e61f39",
+      "title": "影石法务部称遭遇有组织黑水军攻击：已有同行业公司高管被行政拘留，举报者获奖 1 万元",
+      "summary": "IT之家 9 月 17 日消息，影石法务部今日发文称，近日，影石再次遭遇有组织黑水军攻击，全网多平台出现批量账号密集发布不实信息。影石对网络黑产零容忍，已全面固定证据，必将依法追究到底。事实上，已有黑灰产团伙被刑事拘留、同行业公司高管被行政拘留。2025 年，我司收到举报线索，称有组织利用亚马逊平台，对我司在售产品实施恶意刷差评的不法侵害行为。我司第一时间向公安机关报案。公安机关侦查后捣毁该黑灰产团伙，其中 3 名犯罪嫌疑人被刑事拘留。经查明，幕后组织者系某影石同行业的公司高管。其雇佣黑灰产团伙，指使留学生发布虚假差评，如谎称影石一款仅支持插电使用的产品“存在电池续航问题”，抹黑影石在海外平台",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/387.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81bd-a51d-efc34d9ecbd7",
+      "title": "苹果 iPhone 18 Pro/Max 零售包装曝光",
+      "summary": "IT之家 9 月 17 日消息，彭博社的马克 · 古尔曼昨日（9 月 16 日）在 X 平台发布推文，分享了一组照片，展示了苹果 iPhone 18 Pro（也可能是 iPhone 18 Pro Max，推文中并未提供相关描述）零售包装。该推文只展示了 3 张图片，分别展示了勃艮第酒红色、冰川蓝色以及黑色三个版本。根据官方零售页面显示的细节，国行包装内除了 iPhone 18 Pro 主机外，还有一条 USB-C 充电线。IT之家附上相关图片如下：苹果明确表示，该产品包装“100% 采用纤维基材料，并且仅使用再生或负责任采购的纤维”。",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/385.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81f3-b5e1-c3eaaf39de91",
+      "title": "苹果 iPhone 18 Pro/Max 零售包装曝光",
+      "summary": "IT之家 9 月 17 日消息，彭博社的马克 · 古尔曼昨日（9 月 16 日）在 X 平台发布推文，分享了一组照片，展示了苹果 iPhone 18 Pro（也可能是 iPhone 18 Pro Max，推文中并未提供相关描述）零售包装。该推文只展示了 3 张图片，分别展示了勃艮第酒红色、冰川蓝色以及黑色三个版本。根据官方零售页面显示的细节，国行包装内除了 iPhone 18 Pro 主机外，还有一条 USB-C 充电线。IT之家附上相关图片如下：苹果明确表示，该产品包装“100% 采用纤维基材料，并且仅使用再生或负责任采购的纤维”。",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/385.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8183-87a2-df1ab4e16b81",
+      "title": "599 元起飞智八爪鱼 6/Pro 手柄发售：《明日方舟：终末地》联名款 799 元，《绝区零》《影之刃零》联名 899 元",
+      "summary": "IT之家 9 月 17 日消息，飞智昨晚发布了新一代八爪鱼 6 及 6 Pro 触觉反馈精英手柄，标准版售价 599 元，Pro 版 699 元。除此之外，飞智还与多个游戏厂商推出了联名产品，IT之家汇总如下：《明日方舟：终末地》“卡缪”联名款（联名手柄 + 底座 + 手柄包 + 摇杆帽 + 周边赠品）：799 元《明日方舟：终末地》“诀”联名款（联名手柄 + 底座 + 手柄包 + 摇杆帽 + 周边赠品）：799 元《影之刃零》联名（Pro 手柄 + 底座 + 精英手柄包 + 摇杆帽）：899 元《绝区零》「妄想天使 · 连携时刻」八爪鱼 6 Pro 精英手柄礼盒：899 元据介绍，飞智八爪鱼",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/384.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8111-85f9-fab3f7351738",
+      "title": "599 元起飞智八爪鱼 6/Pro 手柄发售：《明日方舟：终末地》联名款 799 元，《绝区零》《影之刃零》联名 899 元",
+      "summary": "IT之家 9 月 17 日消息，飞智昨晚发布了新一代八爪鱼 6 及 6 Pro 触觉反馈精英手柄，标准版售价 599 元，Pro 版 699 元。除此之外，飞智还与多个游戏厂商推出了联名产品，IT之家汇总如下：《明日方舟：终末地》“卡缪”联名款（联名手柄 + 底座 + 手柄包 + 摇杆帽 + 周边赠品）：799 元《明日方舟：终末地》“诀”联名款（联名手柄 + 底座 + 手柄包 + 摇杆帽 + 周边赠品）：799 元《影之刃零》联名（Pro 手柄 + 底座 + 精英手柄包 + 摇杆帽）：899 元《绝区零》「妄想天使 · 连携时刻」八爪鱼 6 Pro 精英手柄礼盒：899 元据介绍，飞智八爪鱼",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/384.htm"
+    },
+    {
+      "id": "3de03df8-2d23-819e-ab84-dad53851c41a",
+      "title": "海南首台“华龙一号”核电机组将投产商运，双机组建成后可满足全省三分之一人口的用电需求",
+      "summary": "IT之家 9 月 17 日消息，据央视新闻报道，今天（17 日），海南自贸港首台“华龙一号”核电机组 —— 华能昌江核电二期 3 号机组即将正式投入商业运行。项目搭载我国自主三代“华龙一号”核电技术，采用国内首个完全自主可控的集团级核电生产管理系统，每年可向海南电网输送清洁电能超 90 亿千瓦时。华能昌江核电二期项目规划建设 3 号、4 号两台单机 120 万千瓦机组，双机组全面建成后，年发电量可达 180 亿千瓦时，能够满足海南省三分之一人口的用电需求。IT之家查询获悉，截至目前，“华龙一号”国内外已有 11 台机组商运，另有 36 台机组核准在建，机组总数稳居全球三代核电首位，成熟性经过规",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/382.htm"
+    },
+    {
+      "id": "3de03df8-2d23-815b-9ec5-e41a3f41f42c",
+      "title": "高德地图 2026 发布：导航 Live 环境实时感知，上线避雷指南",
+      "summary": "IT之家 9 月 17 日消息，高德 9 月 16 日正式发布高德地图 2026。在空间智能驱动下，高德地图 2026 上线导航 Live，带来新一代导航体验，并同步升级高德 AI 对话、高德世界地图、鹰眼守护预警系统等产品，IT之家附功能介绍如下：作为本次升级的核心，导航 Live 通过将自然对话、多模态感知和空间理解融入驾车、步行及抵达后的游览等场景，让导航不只告诉用户怎么走，还能理解用户眼前的世界，并在出行过程中主动提供服务。在驾车过程中，导航 Live 可以感知道路环境变化，对前方施工等情况进行识别和提醒。当用户途中临时调整安排或需要顺路规划时，无需退出导航重新搜索，直接说出需求，导航",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/383.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8134-8772-e3118eab8448",
+      "title": "海南首台“华龙一号”核电机组将投产商运，双机组建成后可满足全省三分之一人口的用电需求",
+      "summary": "IT之家 9 月 17 日消息，据央视新闻报道，今天（17 日），海南自贸港首台“华龙一号”核电机组 —— 华能昌江核电二期 3 号机组即将正式投入商业运行。项目搭载我国自主三代“华龙一号”核电技术，采用国内首个完全自主可控的集团级核电生产管理系统，每年可向海南电网输送清洁电能超 90 亿千瓦时。华能昌江核电二期项目规划建设 3 号、4 号两台单机 120 万千瓦机组，双机组全面建成后，年发电量可达 180 亿千瓦时，能够满足海南省三分之一人口的用电需求。IT之家查询获悉，截至目前，“华龙一号”国内外已有 11 台机组商运，另有 36 台机组核准在建，机组总数稳居全球三代核电首位，成熟性经过规",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/382.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81b9-b91b-e235975d4ac0",
+      "title": "高德地图 2026 发布：导航 Live 环境实时感知，上线避雷指南",
+      "summary": "IT之家 9 月 17 日消息，高德 9 月 16 日正式发布高德地图 2026。在空间智能驱动下，高德地图 2026 上线导航 Live，带来新一代导航体验，并同步升级高德 AI 对话、高德世界地图、鹰眼守护预警系统等产品，IT之家附功能介绍如下：作为本次升级的核心，导航 Live 通过将自然对话、多模态感知和空间理解融入驾车、步行及抵达后的游览等场景，让导航不只告诉用户怎么走，还能理解用户眼前的世界，并在出行过程中主动提供服务。在驾车过程中，导航 Live 可以感知道路环境变化，对前方施工等情况进行识别和提醒。当用户途中临时调整安排或需要顺路规划时，无需退出导航重新搜索，直接说出需求，导航",
+      "source": "IT之家",
+      "publishTime": "2026-09-17",
+      "link": "https://www.ithome.com/1/003/383.htm"
     }
   ],
   "macroEvents": [
