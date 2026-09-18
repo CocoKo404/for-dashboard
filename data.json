@@ -1,6 +1,198 @@
 {
-  "updatedAt": "2026-09-18 05:35",
+  "updatedAt": "2026-09-18 08:35",
   "news": [
+    {
+      "id": "3de03df8-2d23-814e-8955-e4ac8a9662c6",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+    },
+    {
+      "id": "3de03df8-2d23-81bf-8c17-d8045c170721",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+    },
+    {
+      "id": "3de03df8-2d23-817a-8a1c-f40dda471598",
+      "title": "距离 AI 造 AI 还有多远？Anthropic Claude 已主导 26% 内部 AI 研发工作",
+      "summary": "IT之家 9 月 18 日消息，Anthropic 今日发布了一套用于衡量前沿 AI 实验室研发进度的方法，并公布公司内部的阶段性数据。该体系主要关注 3 项指标：AI 参与 AI 研发的程度、AI 智能体的监督情况，以及算力在 AI 研发与安全研究之间的分配。Anthropic 称，随着 AI 能力的提升，AI 正在越来越多地参与下一代 AI 系统的研发。公司希望通过公开这些指标，让公众、第三方机构和政府更直观地了解前沿 AI 研发的推进速度。Anthropic CEO 达里奥 · 阿莫代伊曾呼吁协调放缓前沿 AI 发展，若出现协调，相关数字预计会变化。在 AI 参与 AI 研发方面，Ant",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/886.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8183-b7fe-cbf654621bf9",
+      "title": "开发者成功令英伟达 DLSS 5 在浏览器里运行，苹果 macOS 也可体验",
+      "summary": "IT之家 9 月 18 日消息，据外媒 TweakTown 报道，近期开发者 MAAN 在 X 平台展示了一项概念验证项目，成功让英伟达 DLSS 5 在 WebGPU 环境下直接处理浏览器中的 3D 图形，相应方案可在 macOS 设备上运行。目前项目已经提供在线演示（点此访问），开发者还计划将源代码发布至 GitHub，不过从实际体验来看，其运行速度仍然较慢，暂时不适合实时游戏场景。IT之家获悉，DLSS 5 原本计划作为《NBA 2K27》的独占技术推出，但在相关技术被破解后，大量开发者将其移植至各种 3A 游戏，而此次 MAAN 更进一步，将其带入浏览器环境，绕开了基于应用的 DLSS",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/885.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8166-ad94-f732a82be416",
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/"
+    },
+    {
+      "id": "3de03df8-2d23-81b6-997f-eb964d86b181",
+      "title": "苹果向 iPhone 18 Pro / Max、Apple Watch Series 12 等推送发售首日更新",
+      "summary": "IT之家 9 月 18 日消息，科技媒体 MacRumors 今天（9 月 18 日）发布博文，报道称苹果 iPhone 18 Pro、iPhone 18 Pro Max、Apple Watch Series 12、Apple Watch Ultra 4 和 AirPods 5 于今日发售，苹果同步推送了首日更新。该媒体指出苹果 iPhone 18 Pro（版本号 24A427）和 iPhone 18 Pro Max（24A8428）两款机型出厂预装 iOS 27 系统，用户在收货后预估会升级到 24A437 最新版本。苹果 iPhone 18 Pro 国行起售价为 9999 元，iPhone",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/884.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81bd-b964-e7f8b4cc5939",
+      "title": "The virtual worlds where robots are trained",
+      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "source": "BBC Tech",
+      "publishTime": "2026-09-18",
+      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3de03df8-2d23-8113-b130-e7692bca1dbd",
+      "title": "小岛秀夫分享新作《OD》开发进展：正按照原定计划推进游戏音频录制工作",
+      "summary": "IT之家 9 月 18 日消息，小岛秀夫近日在东京电玩展期间分享了旗下游戏新作《OD》开发进展。受此前美国演员工会（SAG-AFTRA）罢工影响，《OD》的表演捕捉、对白及其他声音录制工作一度暂停，不过相关工作已于今年恢复，目前项目正在按照原定计划推进。小岛秀夫表示，《OD》的表演捕捉和 ADR（自动对白替换）录音此前均受到美国演员工会罢工影响，但如今已经重新启动。演员 Sophia Lillis、Hunter Schafer 以及开发团队均带来了强烈且出色的表演，小岛秀夫表示期待玩家最终看到这些内容。作为参考，《OD》上一次传出开发相关消息是在今年 6 月，当时有报道称，该项目并未受到 XB",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/883.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8177-9374-d53491a5f583",
+      "title": "安全顾虑成普及关键：外媒调查显示超七成受访者不愿令 OpenClaw 等 AI 工具完全控制自己的电脑",
+      "summary": "IT之家 9 月 18 日消息，大语言模型（LLM）问世仅数年，但如今已经逐渐走出聊天窗口。从回答问题、修改邮件，到如今 OpenClaw 诞生，可代替用户操作电脑，减少大量重复劳动，但 OpenClaw 本身也是双刃剑，其虽然可以帮助人类完成相当复杂的任务，但本身存在一定风险，不法分子可以利用提示词注入等各种攻击方案对用户环境造成重大破坏。对此，外媒 Android Authority 发起一项投票，询问用户是否愿意让 OpenClaw 等 AI 工具获得电脑的完整访问权限。调查结果显示，43% 的受访者明确表示出于安全原因不会允许 AI 访问电脑，另有 27% 的受访者则表示自己对此类功能",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/881.htm"
+    },
+    {
+      "id": "3de03df8-2d23-817b-8911-e8aea411e41a",
+      "title": "英特尔 Nova Lake 平台加速推进，华擎 5 款 Z990 主板货运记录曝光",
+      "summary": "IT之家 9 月 18 日消息，科技媒体 Club386 昨日（9 月 17 日）发布博文，通过挖掘海关物流追踪平台 NBD 货运记录，发现了 Intel Z990 主板的相关踪迹。根据 NBD 货运记录，该媒体认为主板厂商已为英特尔代号 Nova Lake 的桌面处理器落地做准备，相关产品已进入硬件物料测试与验证周期。IT之家援引博文介绍，在本次记录中，华擎申报的 5 款型号分别为：Z990 Challenger WiFiZ990 Pro RS WiFiZ990 Steel Legend WiFiZ990 Taichi WhiteZ990 Taichi Creator。该媒体指出 Chall",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/882.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8176-8cf7-ef726f820e58",
+      "title": "苹果 iPhone 18 Pro 系列电池保外更换费用上调 10 美元，现价 1048 元",
+      "summary": "IT之家 9 月 18 日消息，Macrumors 今日发现，苹果已经上调了 iPhone 18 Pro 与 iPhone 18 Pro Max 的保外电池更换费用。根据苹果官网信息，在美国市场，这两款机型的电池更换费用为 129 美元（IT之家注：现汇率约合 867.2 元人民币），较此前 iPhone 16 Pro 和 iPhone 17 Pro 的 119 美元上涨了 10 美元（现汇率约合 67.2 元人民币）。在中国大陆市场，这两款机型的电池更换费用为 1,048 元，而 iPhone Air、iPhone 16 Pro 和 iPhone 17 Pro 系列为 969 元，iPhon",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/880.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8134-87d8-d5732bf22235",
+      "title": "谷歌详解旗下全新 Noto 3D Emoji 表情符号设计理念：极简、克制、易辨识",
+      "summary": "IT之家 9 月 18 日消息，谷歌发文，介绍了旗下 Noto 3D Emoji 表情符号的设计理念，解释了“如何在保留经典表情辨识度的同时，将原本的 2D 图形转化为 3D 形态”。谷歌表示，将用户已经熟悉的表情符号转换为 3D 并不是简单的立体化处理。设计团队没有刻意追求超写实的视觉效果，而是采用更加克制的设计方式，对每一个 3D 表情进行调整，使其保持通用性，并确保用户能够在第一时间识别其含义。谷歌同时援引公司 UX 工程师 Alexander Robertson 博士研究，认为“虹膜、鼻孔深度等高度解剖化的细节反而可能降低大脑识别情绪的速度”。因此 Noto 3D 在设计过程中尽可能地",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/879.htm"
+    },
+    {
+      "id": "3de03df8-2d23-810d-83a8-ee606e1cae5c",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+    },
+    {
+      "id": "3de03df8-2d23-8103-a669-f60a25a47e37",
+      "title": "Netflix's 'Monster' makes Lizzie Borden's maid her lover and accomplice. Here's what we know about the real Bridget Sullivan.",
+      "summary": "Netflix's \"Monster: The Lizzie Borden Story\" depicts Borden in a relationship with her maid. Were Lizzie Borden and Bridget Sullivan actually lovers?",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/who-was-bridget-sullivan-true-story-lizzie-borden-murders-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-8163-ae9c-c70fe877cf8e",
+      "title": "联想为摩托罗拉 Edge 70 手机推送正式版安卓 17 系统更新，暂缺失景深锁屏壁纸功能",
+      "summary": "IT之家 9 月 18 日消息，据外媒 Andorid Headlines 报道，联想现已为旗下摩托罗拉 Edge 70 手机推送安卓 17 正式版更新。外媒表示，摩托罗拉此次安卓 17 更新进度并不算快。该公司早在今年 2 月便启动安卓 17 Beta 测试，经过较长时间等待后，摩托罗拉于上月首先为 Signature 推送安卓 17 稳定版，而 Edge 70 成为第二款获得该版本更新的设备。▲ 摩托罗拉 Edge 70 手机具体来看，相应更新包体积为 4.3GB，主要新增堆叠小组件、主题图标、Live Updates（实时动态）组件、通知摘要等功能，同时带来性能和稳定性方面的改进。值得注",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/878.htm"
+    },
+    {
+      "id": "3de03df8-2d23-81d8-b3bd-c7a1b1070b42",
+      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
+      "summary": "Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-18",
+      "link": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html"
+    },
+    {
+      "id": "3de03df8-2d23-8149-b295-d2c3e4f0891f",
+      "title": "苹果在美国纽约举办摄影展，展示利用 iPhone 18 Pro 手机拍摄的作品",
+      "summary": "IT之家 9 月 18 日消息，苹果宣布即日起至 9 月 20 日在美国纽约 456 West 18th Street 举办一场名为“What's Holds Us”的摄影展，集中展示使用 iPhone 18 Pro 拍摄的原创作品。据苹果介绍，本次展览邀请摄影师 Alex Prager、Jack Davison 和 Jimmy Chin 参与，三位摄影师均使用 iPhone 18 Pro 完成作品，分别从不同角度记录“连接并扎根于人类的各种人、地点和思想”。展览由《纽约时报杂志》前长期摄影总监 Kathy Ryan 策展，重点展示 iPhone 18 Pro 新一代相机系统的创作能力，其中包",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/877.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8126-901f-eda1c30ad218",
+      "title": "Here’s What the AI Apocalypse Could Look Like",
+      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "source": "Wired",
+      "publishTime": "2026-09-18",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/"
+    },
+    {
+      "id": "3de03df8-2d23-8121-b079-eefd80ca59a2",
+      "title": "新型安卓恶意木马 RatHat 现身：引入 AI 识别能力，可帮助黑客快速分析 / 操作受感染设备",
+      "summary": "IT之家 9 月 18 日消息，安全公司 Zimperium 旗下 zLabs 研究团队发文，透露近日业界出现一种名为 RatHat 的新型安卓恶意木马。该恶意木马最大的特性是引入了 AI 识别机制，可以分析受感染设备的界面并辅助攻击者远程执行导航操作，从而进一步控制手机。IT之家获悉，相应木马主要面向中文环境用户下手，不法分子将其植入至各种诈骗 App 中进行传播。在受害者安装软件后，相应木马便会通过安卓辅助功能权限深度控制用户设备。▲ 恶意木马内置的中文提示词具体行为方面，RatHat 会针对金融类应用显示伪造的 HTML 界面，诱导用户输入并窃取账户凭据。同时，该恶意软件可以拦截短信 /",
+      "source": "IT之家",
+      "publishTime": "2026-09-18",
+      "link": "https://www.ithome.com/1/003/876.htm"
+    },
+    {
+      "id": "3de03df8-2d23-8154-9919-d4118ba50954",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-18",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+    },
+    {
+      "id": "3de03df8-2d23-81dc-ace0-ecdede336663",
+      "title": "Amazon's big, new delivery push targets Walmart's biggest advantage, Bank of America says",
+      "summary": "BofA analysts say Amazon's plan for more than 1,000 same-day delivery hubs is a bid to close Walmart's powerful proximity advantage.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/amazons1000-hub-same-day-delivery-bet-catching-walmart-bofa-analyst-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-818f-9458-ea22f2424b9f",
+      "title": "A televangelist's nephew reveals what he saw and why he left the flock",
+      "summary": "Costi Hinn, the nephew of televangelist Benny Hinn, left his uncle's ministry and has since criticized its teachings on wealth and healing.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/televangelist-benny-hinn-nephew-criticizes-prosperity-gospel-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-812e-8f12-ce1c691b8cca",
+      "title": "Apple Store pioneer Ron Johnson on the iPhone Duo, working with Steve Jobs, and leading with kindness",
+      "summary": "Apple's former retail chief Ron Johnson tells Business Insider's Ana Altchek about working with Steve Jobs and bringing Apple Stores to life.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/apple-store-ron-johnson-leadership-steve-jobs-2026-9"
+    },
+    {
+      "id": "3de03df8-2d23-8174-8404-f6bc06793a69",
+      "title": "Jeremy Strong plays Mark Zuckerberg in 'The Social Reckoning,' a follow-up to 2010's 'The Social Network.' Here's everything we know.",
+      "summary": "Aaron Sorkin will tell the story of how Facebook infiltrated our daily lives in \"The Social Reckoning,\" with Jeremy Strong playing Mark Zuckerberg.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-18",
+      "link": "https://www.businessinsider.com/the-social-reckoning-cast-trailer-release-date-facebook-mark-zuckerberg-2026-6"
+    },
     {
       "id": "3de03df8-2d23-8183-9fb7-f401783e2016",
       "title": "OpenAI Hires Global Sales Chief From SpaceX and Two Senior Snowflake Salespeople",
@@ -208,198 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-09-18",
       "link": "https://www.businessinsider.com/sarah-j-maas-acotar-book-6-release-date-plot-details"
-    },
-    {
-      "id": "3de03df8-2d23-815d-be97-e8bdb00f2f5b",
-      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
-      "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-18",
-      "link": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html"
-    },
-    {
-      "id": "3de03df8-2d23-8123-a429-f6d679e6c1cd",
-      "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
-      "summary": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-18",
-      "link": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html"
-    },
-    {
-      "id": "3de03df8-2d23-81e9-90d6-fe8c2527fa2b",
-      "title": "Same Flaw Found in Claude Code, Codex, Gemini CLI and GitHub Copilot",
-      "summary": "While the AI industry ties itself in knots over models it thinks will pose security threats to the internet and perhaps to humanity itself, researchers are warning about flaws in AI coding agents from Anthropic, OpenAI, Google and Microsoft that pose immediate risk to businesses.For instance, a rece",
-      "source": "The Information",
-      "publishTime": "2026-09-18",
-      "link": "https://www.theinformation.com/articles/flaw-found-claude-code-codex-gemini-cli-github-copilot"
-    },
-    {
-      "id": "3de03df8-2d23-8144-9061-c0236a05deab",
-      "title": "Even the King of England has his hesitations about AI",
-      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and UK government.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-18",
-      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/"
-    },
-    {
-      "id": "3de03df8-2d23-8127-8e55-c8e6ea5af66e",
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-18",
-      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/"
-    },
-    {
-      "id": "3de03df8-2d23-818b-a75a-d6ce2f6d7610",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-18",
-      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/"
-    },
-    {
-      "id": "3de03df8-2d23-8178-bb0a-f5b3df50619c",
-      "title": "Save $30 or more on a refurbished Apple TV 4K",
-      "summary": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retai",
-      "source": "The Verge",
-      "publishTime": "2026-09-18",
-      "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale"
-    },
-    {
-      "id": "3de03df8-2d23-8186-9d81-c58b9430af92",
-      "title": "Instacart should be worried about DoorDash and Uber's new deal",
-      "summary": "Uber Eats and DoorDash expand partnerships with Costco, challenging Instacart's dominance in the same-day grocery delivery sector.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/costco-uber-doordash-expands-delivery-instacart-competition-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-81e0-b23e-f2b663e57199",
-      "title": "Bridgewater’s Greg Jensen Calls for Regulating AI Firms Like Systemically Important Banks",
-      "summary": "Greg Jensen, co–chief investment officer at Bridgewater Associates, thinks the top holders of AI compute warrant extra regulation, similar to what governs the world’s biggest financial institutions. If a company controls more than, say, 5% of U.S. or global compute, it should be subject to heightene",
-      "source": "The Information",
-      "publishTime": "2026-09-18",
-      "link": "https://www.theinformation.com/articles/bridgewaters-greg-jensen-calls-regulating-ai-firms-like-systemically-important-banks"
-    },
-    {
-      "id": "3de03df8-2d23-81ee-9e43-cb4978ced21b",
-      "title": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
-      "summary": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-18",
-      "link": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html"
-    },
-    {
-      "id": "3de03df8-2d23-81f9-a4ea-cab590cd7e91",
-      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
-      "summary": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-18",
-      "link": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/"
-    },
-    {
-      "id": "3de03df8-2d23-81c2-9e6b-e7df1c218708",
-      "title": "Sydney Sweeney and tradwives are different sides of the same coin",
-      "summary": "PR strategists say stoking and capitalizing on outrage is part of their marketing playbook.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/sydney-sweeney-tradwives-are-different-sides-of-the-same-coin-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-81fa-80be-c5a21ac85a27",
-      "title": "Florida is no longer the best state to retire. See why Wyoming is now the place to spend your golden years.",
-      "summary": "Wyoming narrowly took the top spot, largely because of its affordability — though its limited access to healthcare and climate are drawbacks.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/wyoming-beat-florida-best-retirement-state-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-813a-9da6-e97bdf5ad45c",
-      "title": "Apple will let EU apps use less-alarming tracking-consent screens",
-      "summary": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-18",
-      "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/"
-    },
-    {
-      "id": "3de03df8-2d23-8171-b9f1-d2232ed30d7d",
-      "title": "The guy who wrote the surprisingly sexual toy pumpkin song wants you to know it wasn't AI",
-      "summary": "Parents are upset about seductive lyrics in \"Jabberin' Jack,\" a pumpkin toy. We talked to the song's writer, Peter McEvilley, about the controversy.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/jabberin-jack-pumpkin-song-writer-interview-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-8152-8ef1-d7e11d5cadfe",
-      "title": "How televangelists actually work, according to a pastor",
-      "summary": "Costi Hinn is a pastor and author known for publicly criticizing the \"prosperity gospel\" televangelism model popularized by his uncle, Benny Hinn.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/how-millionaire-televangelists-actually-work-according-to-a-pastor-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-8166-a8d0-e15be72df496",
-      "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
-      "summary": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing PlayStation discs. But the reality is that it has bee",
-      "source": "The Verge",
-      "publishTime": "2026-09-18",
-      "link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad"
-    },
-    {
-      "id": "3de03df8-2d23-816a-9b27-c06c0267d8fa",
-      "title": "苹果 iPhone 18 Pro/Max 系列今日正式开售，国行 9999 元起",
-      "summary": "IT之家 9 月 18 日消息，苹果 iPhone 18 Pro 与 iPhone 18 Pro Max 两款机型将于 9 月 18 日正式开售，而如果是在苹果官网参与预购的用户也会在今天收到包裹。苹果 iPhone 18 Pro 国行起售价为 9999 元，iPhone 18 Pro Max 为 10999 元，均为 256GB 存储起步。京东苹果【需签收激活】iPhone 18 Pro 256GB 勃艮第酒红色 支持移动联通电信 5G 双卡 9999 元直达链接IT之家附各版本价格如下：苹果 iPhone 18 Pro 售价：存储官方售价24 期参考月供相比 256GB 加价256GBRM",
-      "source": "IT之家",
-      "publishTime": "2026-09-18",
-      "link": "https://www.ithome.com/1/003/872.htm"
-    },
-    {
-      "id": "3de03df8-2d23-81bc-8230-e066303b114f",
-      "title": "苹果 AirPods 5 耳机今日正式开售：999 元起标配主动降噪，部分地区可享国补",
-      "summary": "IT之家 9 月 18 日消息，苹果全新的 AirPods 5 无线耳机今日正式开售，官方定价 999 元起，配备无线充电盒的版本售价 1149 元。IT之家注意到，北京、江苏、大连、吉林（收货地址）可享 15% 国家补贴，以旧换新补贴至高 220 元。京东苹果 AirPods 5（支持主动降噪）搭配 USB-C 充电盒 蓝牙耳机 适用 iPhone / iPad / Mac999 元直达链接京东苹果 AirPods 5（支持主动降噪）搭配无线充电盒 蓝牙耳机 适用 iPhone / iPad / Mac1149 元直达链接AirPods 5 采用无耳塞式设计，首次在该品类中实现主动降噪功能。",
-      "source": "IT之家",
-      "publishTime": "2026-09-18",
-      "link": "https://www.ithome.com/1/003/873.htm"
-    },
-    {
-      "id": "3de03df8-2d23-8108-a33f-cad2491f5c4f",
-      "title": "苹果 Apple Watch Series 12 与 Ultra 4 今日开售，2999/6499 元起",
-      "summary": "IT之家 9 月 18 日消息，苹果最新发布的 Apple Watch Series 12 与 Apple Watch Ultra 4 两款智能手表今日正式发售。其中，Apple Watch Series 12 的 GPS 款国行起售价 2999 元（教育优惠 2699 元起），GPS + 蜂窝网络款 3799 元；Apple Watch Ultra 4 起售价 6499 元（教育优惠 5799 元起）。京东 Apple / 苹果 Watch Series 12 智能手表 GPS 款 42 毫米 浅金色 铝金属表壳 沙砾色运动型表带 S/M（MJF14CH/B）2999 元直达链接Apple ",
-      "source": "IT之家",
-      "publishTime": "2026-09-18",
-      "link": "https://www.ithome.com/1/003/874.htm"
-    },
-    {
-      "id": "3de03df8-2d23-8139-af9e-ffaa80c473a4",
-      "title": "Roku’s new Labs hub brings experimental apps to the big screen",
-      "summary": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-17",
-      "link": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/"
-    },
-    {
-      "id": "3de03df8-2d23-812e-8d20-e8d96ba3a780",
-      "title": "因排放法规限制，本田讴歌燃油 SUV 车型 MDX Type S 将在美国停产",
-      "summary": "IT之家 9 月 17 日消息，据汽车媒体 AutoEvolution 今天报道，本田旗下豪华品牌讴歌计划在美国停产 2026 款 MDX Type S 车型，原因为当地排放法规限制。讴歌发言人对此表示，上述停产计划确有其事，公司正在等待美国排放法规进一步更新，因此目前无法给出具体的复产时间表。据介绍，讴歌 MDX Type S 搭载 3.0 升涡轮增压 V6 发动机，最大马力可达 355 匹，峰值扭矩 354 磅 · 英尺（480 牛 · 米），匹配 10 速自动变速箱与 SH-AWD 四驱系统。该车还带有专属底盘和悬架套件，包含自适应空气悬架、减振器、四活塞 Brembo 前制动器、21 ",
-      "source": "IT之家",
-      "publishTime": "2026-09-17",
-      "link": "https://www.ithome.com/1/003/871.htm"
-    },
-    {
-      "id": "3de03df8-2d23-817a-939c-e65bcf1ee203",
-      "title": "Codie Sanchez has an 'intense' approach to meetings. These are the 3 rules the entrepreneur and creator swears by.",
-      "summary": "The founder of Contrarian Thinking and author of the new book \"Own or Be Owned\" encourages people to leave a meeting at any time.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/codie-sanchez-contrarian-thinking-explains-her-intense-approach-to-meetings-2026-9"
-    },
-    {
-      "id": "3de03df8-2d23-816b-b50b-f66fef8f5b66",
-      "title": "AI is fueling 'off-the-charts' anxiety among tech workers, says Menlo Ventures partner",
-      "summary": "AI is heightening tech workers' fears about jobs, money, housing, and their futures, Menlo Ventures partner Deedy Das said.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-17",
-      "link": "https://www.businessinsider.com/ai-anxiety-tech-workers-silicon-valley-career-prospects-menlo-ventures-2026-9"
     }
   ],
   "macroEvents": [
