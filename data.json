@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-09-19 03:50",
+  "updatedAt": "2026-09-19 06:43",
   "news": [
+    {
+      "id": "3df03df8-2d23-8120-9fb9-e7284da218f4",
+      "title": "Anthropic IPO Waiting Game Puts Wall Street on Edge",
+      "summary": "Anthropic finance chief Krishna Rao and other executives met with groups of prospective public investors last month with his company’s numbers looking spiffier than ever. The company had gone from spending about $2.30 on operations for every $1 of revenue in spring of 2025 to turning a slight profit",
+      "source": "The Information",
+      "publishTime": "2026-09-19",
+      "link": "https://www.theinformation.com/articles/anthropic-ipo-waiting-game-puts-wall-street-edge"
+    },
+    {
+      "id": "3df03df8-2d23-8190-a0c1-c7b7742bdadf",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-19",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+    },
+    {
+      "id": "3df03df8-2d23-8143-8533-ecb913cb7b6f",
+      "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+      "summary": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to humanity.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-19",
+      "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html"
+    },
+    {
+      "id": "3df03df8-2d23-818a-83a7-ff21855cd7dd",
+      "title": "AI cloud provider Nscale files to go public",
+      "summary": "Nscale is the latest artificial intelligence neocloud to turn to public markets.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-19",
+      "link": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html"
+    },
+    {
+      "id": "3df03df8-2d23-81c0-a974-ec19cbc45944",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor i",
+      "source": "The Verge",
+      "publishTime": "2026-09-19",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
+    },
+    {
+      "id": "3df03df8-2d23-81df-a085-eb73097dc5b5",
+      "title": "Nscale IPO Files to Go Public, Shows Huge Revenue Jump And Steep Losses",
+      "summary": "Nvidia-backed startup Nscale disclosed Friday that revenue had surged 10 times in the first half of this year from the year-ago period, but losses mounted as the cloud startup spent billions on data centers and the AI chips they’ll house. The two-year-old UK startup, a spinout of an Australian ...",
+      "source": "The Information",
+      "publishTime": "2026-09-19",
+      "link": "https://www.theinformation.com/briefings/nscale-ipo-files-go-public-shows-huge-revenue-jump-steep-losses"
+    },
+    {
+      "id": "3df03df8-2d23-816c-9fd2-cfeddfd9d885",
+      "title": "Inside airlines' panic as FAA pushed new AI tool",
+      "summary": "Airlines are optimistic after confusion over an AI tool that aims to reduce flight delays by predicting airspace congestion, POLITICO reported.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-19",
+      "link": "https://www.businessinsider.com/faa-ai-air-traffic-control-contract-airlines-2026-9"
+    },
+    {
+      "id": "3df03df8-2d23-8183-a7e9-c96192146f1e",
+      "title": "Trump says he's banning MS NOW, CNN, and Politico from the White House",
+      "summary": "Trump said the ban was \"effective immediately.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-09-19",
+      "link": "https://www.businessinsider.com/trump-bans-msnow-cnn-politico-white-house-press-2026-9"
+    },
+    {
+      "id": "3df03df8-2d23-81cb-a937-c6a67d8bdfc1",
+      "title": "Automattic names interim CFO after exec departures",
+      "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-19",
+      "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/"
+    },
+    {
+      "id": "3df03df8-2d23-81ae-924b-c5653b7790c3",
+      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+      "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-19",
+      "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
+    },
+    {
+      "id": "3df03df8-2d23-8189-aba1-c7c6c21d6c08",
+      "title": "GM is making parts for Patriot missiles now",
+      "summary": "GM Defense is making parts for Lockheed Martin's PAC-3 interceptors as Detroit eyes military manufacturing as a growth business.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-19",
+      "link": "https://www.businessinsider.com/gm-patriot-missile-lockheed-martin-2026-9"
+    },
+    {
+      "id": "3df03df8-2d23-815f-b405-d2fd1cc72803",
+      "title": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-19",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"
+    },
+    {
+      "id": "3df03df8-2d23-8171-adf9-c92723aed4c2",
+      "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
+      "summary": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
+      "source": "Wired",
+      "publishTime": "2026-09-19",
+      "link": "https://www.wired.com/review/apple-watch-ultra-4/"
+    },
+    {
+      "id": "3df03df8-2d23-8150-8172-fe18f38f12c3",
+      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "source": "Wired",
+      "publishTime": "2026-09-19",
+      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/"
+    },
+    {
+      "id": "3df03df8-2d23-819b-935a-e214c2af5e45",
+      "title": "I grew up in the US, and my husband grew up in the UK. Here are 15 differences that surprise us most.",
+      "summary": "Since I grew up in America, and my partner grew up in the United Kingdom, we're both used to different lifestyles, shopping habits, norms, and foods.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-19",
+      "link": "https://www.businessinsider.com/biggest-differences-between-us-and-uk-life"
+    },
+    {
+      "id": "3df03df8-2d23-81ad-a563-d37c1254028e",
+      "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+      "summary": "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-19",
+      "link": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html"
+    },
     {
       "id": "3df03df8-2d23-8100-b549-ce6cfc7cc63c",
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
@@ -272,134 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-09-18",
       "link": "https://www.businessinsider.com/travel-lake-annecy-europes-must-visit-lake-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-81bc-90f9-f8f1c1b2113b",
-      "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
-      "summary": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-18",
-      "link": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/"
-    },
-    {
-      "id": "3df03df8-2d23-8156-a20d-e4bc579027ad",
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-18",
-      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/"
-    },
-    {
-      "id": "3df03df8-2d23-8135-8c4a-c9e364b71b72",
-      "title": "又跳票了：马斯克 SpaceX 星舰计划最早 9 月 28 日第 14 次试飞",
-      "summary": "IT之家 9 月 18 日消息，北京时间今天（18 日）凌晨，SpaceX 通过 X 平台发帖宣布：“目前计划最早于 9 月 28 日（周一）执行星舰第 14 次飞行任务，具体时间尚待监管部门批准。”就在 16 日，SpaceX 宣布将于当地时间 9 月 22 日实施星舰第 14 次试飞。这次任务中，星舰上面级将首次尝试进入地球轨道。据IT之家了解，如果任务顺利，这将成为星舰项目的一项重要进展。SpaceX 此前多次试飞星舰，但上面级尚未真正进入环绕地球运行的轨道。更早之前的 9 月 12 日，美国联邦航空管理局发布通告称，SpaceX 星舰第 14 次飞行任务（Flight 14）计划于 9",
-      "source": "IT之家",
-      "publishTime": "2026-09-18",
-      "link": "https://www.ithome.com/1/004/342.htm"
-    },
-    {
-      "id": "3df03df8-2d23-8147-9043-f8f101c5aeff",
-      "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
-      "summary": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 percent of the company. During Brendan Carr's tenure, t",
-      "source": "The Verge",
-      "publishTime": "2026-09-18",
-      "link": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount"
-    },
-    {
-      "id": "3df03df8-2d23-810a-b063-c168d45b0407",
-      "title": "极狐阿尔法 T7 公布安心交付承诺：延期按天补偿现金，上限 3000 元",
-      "summary": "IT之家 9 月 18 日消息，极狐汽车今日公布阿尔法 T7 安心交付承诺，如出现不能及时交付的情况，将进行延期交付补偿。适用对象：2026 年 10 月 31 日 (含) 前下定并锁单的用户。补偿标准：自锁单之日起至车辆到店之日止，若等待超过 21 天，则从第 22 天开始，每多等待 1 天，补偿用户现金 150 元，上限 3000 元。兑现方式：以尾款抵扣形式进行兑现。IT之家注意到，极狐阿尔法 T7 大五座 SUV 9 月 16 日正式上市，提供增程、纯电两种动力，部分型号搭载华为乾崑智驾 ADS 5 Pro，全系标配宁德时代电池，上市补贴价 13.28 万元起。发布会结束后，极狐官方宣",
-      "source": "IT之家",
-      "publishTime": "2026-09-18",
-      "link": "https://www.ithome.com/1/004/340.htm"
-    },
-    {
-      "id": "3df03df8-2d23-8166-96a4-d92319cfa4f7",
-      "title": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
-      "summary": "California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-18",
-      "link": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html"
-    },
-    {
-      "id": "3df03df8-2d23-8176-94f9-cd69e690fd8d",
-      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-      "source": "Wired",
-      "publishTime": "2026-09-18",
-      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/"
-    },
-    {
-      "id": "3df03df8-2d23-817b-8819-c94fb3370133",
-      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
-      "source": "Wired",
-      "publishTime": "2026-09-18",
-      "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/"
-    },
-    {
-      "id": "3df03df8-2d23-8121-b31f-eba78ed0bee4",
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-18",
-      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "3df03df8-2d23-817c-bf74-e8152424fbad",
-      "title": "I'm a single mom who runs a small business. When I needed to expand, I hired a business partner who is my exact opposite.",
-      "summary": "To help my small business in the Hamptons grow, I started working with a partner. He challenged every process and skill I had.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/small-business-owner-business-partner-exact-opposite-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-814b-ba8d-cac9269b2395",
-      "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
-      "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 […]",
-      "source": "The Verge",
-      "publishTime": "2026-09-18",
-      "link": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale"
-    },
-    {
-      "id": "3df03df8-2d23-81f9-8d2c-c930fe9a2a4f",
-      "title": "2026 巴黎车展最大展台：Stellantis 将展出标致、雪铁龙、零跑各品牌 60 余款车型",
-      "summary": "IT之家 9 月 18 日消息，2026 巴黎车展将于 10 月 12 日至 18 日期间举行。Stellantis 集团 17 日宣布，将在本届车展展出来自 8 个品牌的 9 款概念车及 60 余款车型，集团展台面积超过 5000 平方米，是本届车展拥有最大展台面积的参展商。集团旗下参展的品牌包含阿尔法 · 罗密欧、雪铁龙、DS、菲亚特、蓝旗亚、零跑汽车、欧宝和标致；全球首发车型包括豪华紧凑型 SUV DS N°7、全新菲亚特 Grizzly、标志着蓝旗亚重返 C-UV 跨界车市场的全新 Gamma、零跑 B03 紧凑型 B 级纯电动车、零跑高端旗舰 SUV D19 以及欧宝 Corsa G",
-      "source": "IT之家",
-      "publishTime": "2026-09-18",
-      "link": "https://www.ithome.com/1/004/339.htm"
-    },
-    {
-      "id": "3df03df8-2d23-81a9-bef6-d28a72151c01",
-      "title": "I ranked 5 Burger King cheeseburgers from worst to best. The winner was a great value.",
-      "summary": "Ahead of National Cheeseburger Day, we ranked five popular Burger King cheeseburgers, including the recently revamped Whopper and the Bacon King.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/best-burger-king-cheeseburger-ranked-2024-6"
-    },
-    {
-      "id": "3df03df8-2d23-81bc-95ec-ddc3f75511cb",
-      "title": "I moved from Los Angeles to Barcelona. Here are 11 things that surprised me most.",
-      "summary": "Years ago, I left Los Angeles and relocated from the US to Barcelona. From traditions to food, here's what I didn't expect when moving to Spain.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/moving-from-the-us-to-spain-surprising-things-american-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-81e5-b3b6-f55eac318a8c",
-      "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
-      "summary": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't as capable as the Analogue Pocket that's also compat",
-      "source": "The Verge",
-      "publishTime": "2026-09-18",
-      "link": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge"
-    },
-    {
-      "id": "3df03df8-2d23-811b-928c-eadec6d31d38",
-      "title": "Here's what top Disney execs told employees about its major streaming leadership shake-up",
-      "summary": "Disney creative chief Dana Walden and streaming head Adam Smith addressed employees after major leadership changes to the direct-to-consumer business.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/read-memo-disney-streaming-leadership-changes-adam-smith-dana-walden-2026-9"
     }
   ],
   "macroEvents": [
