@@ -1,6 +1,286 @@
 {
-  "updatedAt": "2026-09-19 06:43",
+  "updatedAt": "2026-09-19 09:22",
   "news": [
+    {
+      "id": "3e003df8-2d23-81e8-a403-fcab75eb0288",
+      "title": "Anthropic 自建生物实验室推进 AI 物理实验，此前曾警告 AI 灭绝风险",
+      "summary": "IT之家 9 月 19 日消息，Anthropic 已在美国旧金山湾区设立一座湿实验室，用于开展实际生物学实验，并探索利用其 AI 模型辅助完成从计算分析到物理实验的研究流程。Anthropic 生命科学负责人埃里克 · 考德勒-艾布拉姆斯已向路透社确认，该实验室目前已经投入运营。IT之家注：湿实验室（wet lab）是指配备实体设施、可进行细胞培养、生化分析、分子实验等物理操作的实验室，与主要依靠计算机进行数据分析和建模的“干实验室”相对应。考德勒-艾布拉姆斯表示：“我们认为，要开展生物学研究，最终的检验仍然是在实际实验室中工作，而且在未来相当长时间内仍会如此。我们今天确实在做这件事。”他补",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/376.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81be-839a-d56e32a79ace",
+      "title": "网友晒苹果 Apple Watch Series 12 实物对比：表框较 Series 11 更明显",
+      "summary": "IT之家 9 月 19 日消息，网友 u/mr_crisby 昨日（9 月 18 日）在 Reddit 社区发帖，分享了一组对比实物图片，基本确认 Apple Watch Series 12 智能手表的表框比 Series 11 更为明显。IT之家曾于 9 月 11 日报道，Apple Watch Series 12 的机身宽度均增加了 1 毫米：型号与尺寸高度宽度厚度相比 Series 11 的变化Series 11 42mm42mm36mm9.7mm基准Series 12 42mm（铝金属 / 钛金属）42mm37mm9.7mm宽度增加 1mmSeries 12 42mm（陶瓷）43mm3",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/375.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8148-b28e-df03f8ba3e90",
+      "title": "苹果 CEO 特努斯：iPhone Duo 是贯彻乔布斯“融合技术和人文”理念的绝佳体现",
+      "summary": "IT之家 9 月 19 日消息，在接受外媒《GQ》采访时，苹果新任首席执行官约翰 · 特努斯（John Ternus）在谈到 iPhone Duo 时，表示：“史蒂夫曾谈到，[做产品时] 应该交汇融合技术与人文，而我认为，iPhone Duo 正是这一理念的绝佳体现。”在谈到 iPhone Duo 时，特努斯表示：“这就是我们工作的意义所在，它 [指 iPhone Duo] 它之所以格外特别，是因为它让我们获得了一次从零开始、以全新方式思考的机会。”外媒《GQ》解读认为苹果团队没有在既有 iPhone 上做小幅改进，希望借折叠形态重新定义产品体验。关于 iPhone Duo 的更多采访内容，可",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/374.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81f3-a3fc-ef29e33b739f",
+      "title": "因车身控制模块存在软件故障，大众在美国市场召回近 5 万辆 2025 款途观车型",
+      "summary": "IT之家 9 月 19 日消息，大众汽车集团美国分公司近日宣布召回近 5 万辆 2025 款 Tiguan（途观）车型，原因是车身控制模块（BCM）存在软件故障，可能在车辆行驶过程中意外重置，并导致点火系统关闭，进而带来安全风险。IT之家获悉，此次召回编号为 26V587，主要涉及美国市场 49,958 辆 2025 款 Tiguan，相关车辆生产日期为 2025 年 3 月 24 日至 8 月 30 日。问题与特定版本的车身控制模块软件有关，该模块负责车辆多项电气和电子功能。美国国家公路交通安全管理局（NHTSA）文件显示，如果汽车的车身控制模块在行驶过程中意外重置，可能导致车辆在高速行驶过",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/373.htm"
+    },
+    {
+      "id": "3e003df8-2d23-815d-8299-cd08a58ab2bc",
+      "title": "运输前需放电：苹果为 iPhone 18 Pro Max 新增“准备发运”功能，以确保电量阈值不超过 20Wh",
+      "summary": "IT之家 9 月 19 日消息，苹果当地时间周五更新了官方支持文档，披露了一项因为 iPhone 18 Pro Max 电池容量过大而引入的物流运输新机制。据介绍，iPhone 18 Pro Max 采用了容量超过 20Wh 的单芯电池，在维修、折抵换购、退货或寄送给他人时，需要通过系统中的“准备发运”功能降低电池可用容量，以满足相关运输要求。苹果表示，根据多数国家和地区的发运规定，配备容量超过 20Wh 单芯电池的设备需要满足额外运输要求。为此，苹果为 iPhone 18 Pro Max 制定了软件方案。从生产下线到交货期间，系统会将电池容量限制在 20Wh 以下。设备激活后，该限制会自动解",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/372.htm"
+    },
+    {
+      "id": "3e003df8-2d23-815d-a5bd-ec62373b598b",
+      "title": "TP-Link 普联公布旗下首批 Wi-Fi 8 路由器，基于 IEEE 802.11bn 标准打造",
+      "summary": "IT之家 9 月 19 日消息，TP-Link 普联现已发布旗下首批 Wi-Fi 8 产品，包括 Archer 8 Ultra 三频路由器和 Deco 8 Ultra 三频 Mesh 网络系统，这两款产品均基于 IEEE 802.11bn 标准打造，不过相应标准目前仍处于认证过程中。具体来看，两款产品均搭载 TP-Link 全新的 Wi-Fi 8 StabilityEngine 技术，主要针对家庭 Wi-Fi 网络中常见的覆盖范围不足、网络拥堵以及信号干扰等问题进行优化，该技术主要引入分布式资源单元方案改善覆盖和资源分配，可提升网络高负载状态下的响应能力。其中，Archer 8 Ultra 为",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/371.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8158-83f7-f9615f3a6b0c",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-19",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
+    },
+    {
+      "id": "3e003df8-2d23-81e0-a6b9-fa916e302e00",
+      "title": "美国宇航局追加 9.5 亿美元，SpaceX 新增 3 次载人赴国际空间站任务",
+      "summary": "IT之家 9 月 19 日消息，路透社昨日（9 月 18 日）发布博文，报道称美国宇航局（NASA）向马斯克旗下 SpaceX 公司追加 9.5 亿美元（IT之家注：现汇率约合 63.86 亿元人民币），新增 3 次载人龙飞船（Crew Dragon）国际空间站任务。报道称根据追加条款，SpaceX 公司需要在 2030 年前完成这 3 次新增任务。在计算本次追加后，双方商业载人运输能力合同的运营飞行总数升至 17 次。根据相关条款，SpaceX 将为每次任务提供地面支持、发射服务、在轨运行、返回和回收服务。合同还包含每次任务的货物运输，以及龙飞船停靠国际空间站期间的“救生艇”能力。按合同计划",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/370.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8188-a5c8-ef72da20cb83",
+      "title": "Anthropic 计划将 IPO 推迟至 11 月，上市估值约 2 万亿美元",
+      "summary": "IT之家 9 月 19 日消息，据《华尔街日报》今日报道，Anthropic 计划将首次公开募股（IPO）推迟至 11 月进行，晚于许多投资者此前预期的 10 月。知情人士透露，部分 Anthropic 顾问认为，推迟至 11 月可以让公司有时间展示第三季度财务数据，以证明其竞争地位。知情人士表示，将 IPO 目标定在 11 月的决定是在 Anthropic 前研究员发出公开警告、引发关于 AI 发展速度是否过快辩论之前作出的。这一时间安排仍可能发生变化。投资者此前预计 Anthropic 上市估值约为 2 万亿美元（现汇率约合 13.44 万亿元人民币），募资额最高可达 1,000 亿美元（",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/369.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81ad-9420-d0f2aa43a36c",
+      "title": "Awekeys 推出 RGB 透光金属键帽：可选 6 种配色、适用于全高 MX 风格轴体，169 美元起",
+      "summary": "IT之家 9 月 19 日消息，据外媒 techpowerup 报道，制造商 Awekeys 宣布推出一款 RGB 透光金属键帽，该产品适用于全高 MX 风格轴体，将于近期在 Kickstarter 众筹平台发售。众筹阶段 83 键基础套装售价 169 美元（IT之家注：现汇率约合 1,136 元人民币），98 键套装售价 199 美元（现汇率约合 1,338 元人民币），116 键全尺寸套装售价 229 美元（现汇率约合 1,539 元人民币）。IT之家获悉，相应键帽采用名为白铜（Cupronickel）的再生合金打造，提供金色、铜色、银色、钛黑色、黑曜石黑以及特殊的夜光霓虹色共 6 种配色",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/368.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8109-82e6-f82254778875",
+      "title": "航程约 5148 公里，Joby 称完成首次横跨美国全自主飞行",
+      "summary": "IT之家 9 月 19 日消息，航天公司 Joby Aviation 昨日（9 月 18 日）发布博文，宣布基于塞斯纳 Caravan 飞机改装、搭载自主飞行技术的 J208 完成美国首次全自主跨州飞行。该机从美国加州康科德起飞，结束于北卡罗来纳州外滩群岛附近。本次航程历时约 1 个月，累计飞行 3,199 英里（IT之家注：约 5,148 公里），自西向东经停凤凰城（亚利桑那）、沃斯堡（得克萨斯）、肖空军基地（南卡罗来纳），最终降落在北卡罗来纳外滩的戴尔县地区机场（靠近基蒂霍克）。J208 由塞斯纳 Caravan 固定翼飞机改装而来，并搭载 Joby 自主飞行系统。Joby 称，其自主飞行",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/367.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8123-813b-eaeca693cff9",
+      "title": "三星 Galaxy Tab S12 Plus / Ultra 平板电脑规格曝光：搭天玑 9500 处理器、10 月 7 日发布",
+      "summary": "IT之家 9 月 19 日消息，外媒 WinFuture 现已曝光了三星 Galaxy Tab S12 Plus 和 Galaxy Tab S12 Ultra 两款平板电脑完整规格信息，两款平板均搭载联发科天玑 9500 处理器、提供 IP68 认证，但在屏幕、RAM 内存、摄像头和扬声器等方面存在差异。其中，Galaxy Tab S12 Plus 重量 555 克，将配备 12.6 英寸 2800×1752 分辨率 120Hz AMOLED 面板，匹配 12Mp 自拍摄像头和 13Mp 后置主摄。搭载 12GB RAM，可选至高 512GB 存储空间。平板电脑内置 10600mAh 电池，支",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/366.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81bb-b5ff-ded15ffe8f58",
+      "title": "Steam 国区 77 元起，复古横版动作游戏《行尸走肉：生存街区》发售",
+      "summary": "IT之家 9 月 19 日消息，开发商 Odaclick Game Studio 宣布旗下复古横版动作游戏《The Walking Dead: Streets of Survival（暂译为“行尸走肉：生存街区”）》正式发售，本作共包含 12 个关卡，拥有连招、Boss 战等特性，玩家可以操控瑞克、达里尔、米琼恩和尼根等经典角色展开战斗。近年来，复古街机横版动作游戏重新受到关注，《Scott Pilgrim》《特种部队》《He-Man》《Power Rangers》等知名 IP 都推出过类似作品。《行尸走肉：生存街区》同样采用这一经典玩法，并从 AMC 版《行尸走肉》的“All-Out War",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/365.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81f6-8e6c-c0b60230d6be",
+      "title": "AMD 霄龙 Venice 官方跑分首发出炉：256 核 EPYC 9996 性能达竞品 2 倍以上，代际提升 78%",
+      "summary": "IT之家 9 月 19 日消息，当地时间周五，AMD 官方公布了下一代 EPYC“Venice”服务器处理器的大量细节，并将其与英伟达 Vera 系列处理器进行了对比。AMD 表示，当下数据中心性能不再仅仅取决于 CPU 速度来定义。AMD EPYC 9006 系列服务器 CPU 的设计充分考虑了这些系统级限制。该系列服务器 CPU 基于“Zen 6”+“Zen 6c”架构，最多可集成 256 个核心 512 个线程、16 通道 DDR5 内存、符合 JEDEC 标准的 MRDIMM 支持（最高可达 12,800 MT/s）、PCIe Gen 6、CXL 3.1、AVX-512、高级安全性和 ",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/364.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81df-ab8e-f54c30baf31c",
+      "title": "IT早报 0919：12306 客服回应国庆高铁票涨价；水滴筹服务费上涨至 8% 引争议；智谱就 Zcode 偷传代码事件致歉；华为 Peerium 突破冯诺依曼单机架构...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 19 日星期六，今天的重要科技资讯有：1. 12306 客服回应国庆高铁票涨价：日常票价有折扣，节假日有浮动是正常的9 月 25 日，从重庆北到南京南的 D988 次列车票价是 446 元起，9 月 30 日同车次的票价则涨到了 520 元起。>> 查看详情2. 水滴筹服务费上涨至 8% 引争议，回应称为了维持平台可持续运营、单季度亏损超 3600 万患者家属申请提现 6,831 元，被收取 546.48 元的服务费以及 41.04 元的第三方支付通道费。患者家属质疑 8% 的服务费过高。>> 查看详情3. 智谱 ZCode 被质疑“偷传",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/363.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81e6-a566-e5d2562cc438",
+      "title": "找 Hello、拍 Hello：苹果全球 Apple Store 藏彩蛋，让顾客体验 iPhone 18 Pro 光学变焦",
+      "summary": "IT之家 9 月 19 日消息，科技媒体 MacRumors 昨日（9 月 18 日）发布博文，报道称在 iPhone 18 Pro、iPhone 18 Pro Max 开售之际，苹果公司在全球 Apple Store 零售店布置“Hello”彩蛋，鼓励顾客用新机的长焦镜头去“发现”和拍摄。在位置布局上，报道称这些“Hello”字样被故意做得非常小，并放置在顾客平时不易近距离观察的位置，例如展台远端、陈列架高处、装饰墙的隐蔽角落等。IT之家附上相关截图如下：到店用户在线下体验 iPhone 18 Pro、iPhone 18 Pro Max 的 8x 潜望式长焦镜头（支持高倍率、高画质变焦）拉近",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/362.htm"
+    },
+    {
+      "id": "3e003df8-2d23-814f-ba0c-c6c211393c41",
+      "title": "R 星详解《GTA 6》实时动画重定向系统：可根据 NPC 身材动态调整，使游戏角色动作更加自然",
+      "summary": "IT之家 9 月 19 日消息，Rockstar 工作室联合负责人 Rob Nelson 在接受 IGN 采访时表示，《GTA 6》将进一步提升 NPC 的多样性，游戏中的 NPC 不仅数量更多、分布更加密集，身高和体型也会呈现更明显的差异。虽然这一变化看似细微，但有望让整个罪恶都市（罪恶城）显得更加真实。Rob Nelson 透露，此前《GTA》系列受到硬件和技术限制，不同身材比例的 NPC 往往需要共用同一套动画，因此角色身高差异过大时，可能会在与其他 NPC 或游戏环境互动时产生问题。例如，一名身高约 1.68 米的角色和一名身高约 1.88 米的角色，并不总能直接使用完全相同的动作。为",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/361.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81a4-8313-c32b0e819e23",
+      "title": "三星海外机型将于 9 月 30 日起取消微软 OneDrive 集成，改用谷歌 Google Photos 同步",
+      "summary": "IT之家 9 月 19 日消息，据博主 @i冰宇宙 透露，由于三星与微软 OneDrive 合作到期，三星海外机型照片应用（Gallery）将于 9 月 30 日取消集成 OneDrive 原生相册，谷歌正在开发基于 Google Photos 的全新照片集成功能。该博主表示，相应更新将于未来几周内推送，用户可以在相册应用的设置中看到新的“同步照片和视频”选项，在绑定谷歌账号并开启 Google Photos 同步后，即可在三星设备、Google Photos 应用以及 photos.google.com 网站上自由查看设备拍摄的照片、视频以及下载、截图等设备文件夹，照片所有 EXIF 元数据",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/360.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81c5-8519-d71d4d99b077",
+      "title": "苹果 Apple Watch 睡眠呼吸暂停提示软件获国家药监局批准",
+      "summary": "IT之家 9 月 19 日消息，根据国家药品监督管理局 9 月 4 日公示信息，苹果公司的“睡眠呼吸暂停迹象提示”应用获得批准。根据苹果官方介绍，该应用可以在用户睡眠期间监测呼吸紊乱，并会在监测到持续性中度到重度睡眠呼吸暂停迹象时通知用户。在适用范围 / 预期用途中描述如下：该产品适用于 18 岁及以上未确诊为睡眠呼吸暂停的成年患者，基于加速度计数据提供睡眠呼吸暂停（中度至重度）迹象提示，不能用于睡眠呼吸暂停的诊断、治疗或管理，也不能替代传统的诊疗方法。IT之家附上官方对该功能的相关介绍如下：睡眠呼吸暂停是一种呼吸系统疾病，会让你在睡眠期间反复出现呼吸中断。这些呼吸紊乱相当常见，用户通常一晚会",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/359.htm"
+    },
+    {
+      "id": "3e003df8-2d23-811c-b827-d40afa325e00",
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-19",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+    },
+    {
+      "id": "3e003df8-2d23-814e-a9e8-e36c49fe1878",
+      "title": "Google’s Gemini Model Hacks Companies During Test",
+      "summary": "Google acknowledged that its Gemini AI model unexpectedly breached the networks of three outside companies during safety evaluations conducted by third-party testing firm Irregular last May, The Wall Street Journal reported. During the exercise, Gemini gained entry to the companies’ systems by ...",
+      "source": "The Information",
+      "publishTime": "2026-09-19",
+      "link": "https://www.theinformation.com/briefings/googles-gemini-model-hacks-companies-test"
+    },
+    {
+      "id": "3e003df8-2d23-81f4-9246-d5f7ca62071a",
+      "title": "WordPress 发布 7.1.1 版本更新：修复 Click2Shell 严重远程代码执行漏洞",
+      "summary": "IT之家 9 月 19 日消息，WordPress 开发团队于 9 月 17 日发布 7.1.1 更新，其中包括 17 项核心修复、19 项区块编辑器修复以及 12 项安全修复，官方重点修复了一项名为“Click2Shell”的严重远程代码执行（RCE）漏洞，建议 WordPress 网站管理员尽快完成更新，以避免网站受到潜在攻击。综合安全团队 Pwn.ai Research 披露的 Click2Shell 漏洞的技术细节，相应漏洞与 WordPress 主题预览功能处理 URL 参数的方式有关。同一个主题预览链接中的参数会先后被 WordPress.org 主题 API 以及管理员浏览器中的",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/358.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81bb-80a3-fe9bb3c2dee7",
+      "title": "Would Australians support a smart glasses ban?",
+      "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+      "source": "BBC Tech",
+      "publishTime": "2026-09-19",
+      "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3e003df8-2d23-81aa-a488-d8a07f1a2005",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-19",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
+    },
+    {
+      "id": "3e003df8-2d23-8148-b2d3-fcca5a9a3d61",
+      "title": "微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”",
+      "summary": "IT之家 9 月 19 日消息，科技媒体 Tom's Hardware 昨日（9 月 18 日）发布博文，报道称在起诉 OpenAI 和微软的版权纠纷案中，原告《纽约时报》已申请简易判决，并提交新的法律摘要，进一步披露两家公司（微软和 OpenAI）内部材料。这起版权纠纷可以追溯到 2023 年年底，《纽约时报》指控微软和 OpenAI 两家公司侵犯其数千篇新闻报道的版权，未经许可使用其内容来训练 ChatGPT 和 Copilot 等产品。《纽约时报》法律团队近日向法院申请简易判决，并同时递交法律摘要，并援引来自两家被告的声明和文件。IT之家注：简易判决是美国民事诉讼中的一种裁决程序。申请方",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/356.htm"
+    },
+    {
+      "id": "3e003df8-2d23-819a-ad84-c7c3bcf49116",
+      "title": "华硕旗下首款 Googlebook 笔记本外观曝光：A 面具有彩虹灯效灯带、键盘提供 Google 按键",
+      "summary": "IT之家 9 月 19 日消息，华硕旗下首款 Googlebook 笔记本预计将于 9 月 21 日开启预订。在正式发布前，外媒 TheMacObserver 曝光了该机多张外观图片，完整展示了产品外观和内部结构。参考相应图片，可以看出该机设计本身偏保守，整体造型仍是一款传统笔记本电脑，而非二合一设备。机身 A 面具有彩虹灯效灯带，机身两侧都提供了 I/O 接口，不过具体 I/O 接口类型因图片较为模糊难以判定。此次曝光的图片还展示了机身内部的 X 光效果图以及预装配状态下的机身框架。虽然这些图片并没有透露太多关于 Googlebook 产品本身的信息，但相比常见的笔记本外观渲染图，其展示角度",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/357.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81d8-92d4-d2605f023440",
+      "title": "AI hallucination nearly triggers US military operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-19",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
+    },
+    {
+      "id": "3e003df8-2d23-818d-9d94-ef2dc7dea6bd",
+      "title": "谷歌首次公开 Gemini 越狱事件：在测试中自主入侵三家真实公司且自行终止，已通知涉事企业",
+      "summary": "IT之家 9 月 19 日消息，据《华尔街日报》今日报道，谷歌确认其 Gemini 模型在今年 5 月的一次安全测试中曾自主入侵过外部真实企业，系 Gemini 首次已知的 AI 越狱事件。谷歌表示，该事件发生在测试公司 Irregular 开展的一次“捕获旗帜”演练中，目的是评估 Gemini 的网络安全能力。测试环境本应完全隔离，但却意外开放了互联网访问权限。IT之家注：“捕获旗帜”（Capture the Flag）是一种网络安全竞赛形式，参与者在模拟环境中寻找并获取隐藏的“旗帜”以证明成功入侵。在谷歌披露其中一起事件中，Gemini 通过猜对密码获得了对受保护系统的访问权限。在另外两起",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/355.htm"
+    },
+    {
+      "id": "3e003df8-2d23-817d-a519-c4ce02d7bd0b",
+      "title": "数毛社公布《控制：共振》PS5/Pro 版性能测试结果：Northlight 引擎面对开放世界环境存在一定性能问题",
+      "summary": "IT之家 9 月 19 日消息，Digital Foundry（数毛社）现已公布《控制：共振（Control Resonant）》PS5 版游戏性能测试结果，认为 Remedy 自研的 Northlight 引擎在开放世界场景下仍存在一定压力，基础版 PS5 在部分场景中会出现帧率下降和画面瑕疵，PS5 Pro 虽然能够改善相应问题，但玩家仍然需要在不同画质模式之间仍进行取舍。Digital Foundry 指出，《控制：共振》与前作相较有明显变化，游戏舞台从相对封闭的环境转移至曼哈顿，玩家将跟随 Dylan Faden 探索更加开放的城市环境。面对这种开放世界场景，本作使用的 Northli",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/354.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8105-8ff7-ff8d08725daa",
+      "title": "全球唯一例外：美版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器",
+      "summary": "IT之家 9 月 19 日消息，根据市场调查机构 TechInsights 公布的最新拆解报告，美国版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器，成为 iPhone 18 产品线中唯一采用该方案的机型。该机构认为在全球市场销售的 iPhone 18 Pro、iPhone Duo，以及在美国以外地区销售的 iPhone 18 Pro Max 机型，均采用苹果自研 C2 调制解调器。而只有美版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器。TechInsights 还指出，美版 iPhone 18 Pro Max 配有一款新识别的苹果毫米",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/353.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8119-88ce-c9f41e682752",
+      "title": "Take-Two 因《NBA 2K》系列游戏遭诉讼，法庭证词暗示公司并未计划开发跨代作品虚拟货币转移功能",
+      "summary": "IT之家 9 月 19 日消息，据外媒 Insider-Gaming 报道，一位未成年人“JA”及其母亲于 2023 年向 Take-Two 发起诉讼，主要涉及“未成年人游玩游戏及参与游戏内 VC（虚拟货币）交易是否应当承担相关责任”。目前相应诉讼案件仍在进行中，不过近日解封的法庭证词显示，2K 目前没有让《NBA 2K》系列年度作品之间转移 VC 虚拟货币的技术方案，而且公司也没有计划开发这一功能。2K 给出的理由之一，是希望每一代新作都能让玩家获得“全新的开始”。此外，2K 表示，如果要实现跨作品转移 VC 虚拟货币，公司需要专门开发相应的技术方案，同时还要区分玩家通过游戏获得的 VC 和",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/352.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81e8-bc0a-e7a252c0d036",
+      "title": "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md",
+      "summary": "IT之家 9 月 19 日消息，Anthropic 公司 Claude Code 团队工程师萨里克 · 希希帕尔（Thariq Shihipar，网名 @trq212）在 X 平台发布推文，宣布在今天（9 月 19 日）发布的 2.1.277 版本 Claude Code 中添加支持 AGENTS.md。IT之家翻译其推文内容如下：从今天发布的 2.1.277 版本开始，如果文件夹中没有 CLAUDE.md，Claude 将检查并使用 AGENTS.md。用户可以在 /config 中切换此行为。CLAUDE.md 是 Claude Code 特有的工作流、MCP、Sub-agent 或命令配",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/351.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81cf-8da3-dbbf46b52cee",
+      "title": "中老跨境数字支付互联互通正式启动，数字人民币可在老挝扫码支付",
+      "summary": "IT之家 9 月 19 日消息，2026 年 9 月 18 日，中国人民银行与老挝人民民主共和国银行在广西南宁联合举办中老跨境数字支付互联互通启动会。中国人民银行副行长陆磊、老挝人民民主共和国银行副行长苏里萨克 · 萨姆努翁出席并致辞。中老两国央行相关部门负责人，商业银行、参与企业有关负责人参加会议。此次启动是落实两国领导人共识、深化双边金融合作的重要举措，也是双方央行行长 2026 年 6 月签署的《关于加强金融创新、数字支付和法定数字货币合作的谅解备忘录》框架下达成的阶段性成果。条码支付互通方面，数字人民币国际运营中心建设运营的数币达跨境结算综合服务平台（CBETS）与老挝国家支付网络（L",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/350.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8182-85da-dee71d2b8c07",
+      "title": "苹果介绍旗下首款折叠屏手机 iPhone Duo 设计理念：灵感源自纸质笔记本尺寸、铰链阻尼拥有“可变扭矩曲线”",
+      "summary": "IT之家 9 月 19 日消息，苹果设计团队在接受外媒《GQ》采访时，详细介绍了折叠屏手机 iPhone Duo 的设计理念、软件交互以及未来发展方向。本次参与采访者包括苹果 CEO John Ternus、工业设计副总裁 Molly Anderson 和人机界面设计副总裁 Steve Lemay。Anderson 表示，苹果在设计 iPhone Duo 时参考了人们熟悉的纸质笔记本，目标是在提供更大显示空间的同时，让设备保持足够紧凑，方便用户随身携带：iPhone Duo 的机身比例源自国际 A 系列纸张标准，使设备在折叠和展开状态下都能够保持相同的比例。人们都熟悉笔记本放在口袋里和随身携带",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/349.htm"
+    },
+    {
+      "id": "3e003df8-2d23-817e-8409-c17cd826f118",
+      "title": "苹果发布 Xcode 27.1 首个测试版，为 iOS App 开发者带来 iPhone Duo 模拟器支持",
+      "summary": "IT之家 9 月 19 日消息，苹果今日发布 Xcode 27.1 首个测试版，为开发者带来对 iPhone Duo 的模拟器支持。Xcode 27.1 的发布符合苹果此前承诺在 9 月底前推出相关开发工具的目标。对于大多数应用而言，要针对 iPhone Duo 做好适配和优化，预计需要数周甚至更长时间，因此开发者能够提前获得相关工具尤为重要。Xcode 27.1 要求在运行 macOS 26.6 或更高版本的 Apple 芯片 Mac 上使用，同时加入针对 iPhone Duo 更新的 SDK，相应设备模拟器支持调整开合姿态和屏幕方向，方便开发者测试和适配应用。苹果此前透露，iPhone D",
+      "source": "IT之家",
+      "publishTime": "2026-09-19",
+      "link": "https://www.ithome.com/1/004/348.htm"
+    },
     {
       "id": "3df03df8-2d23-8120-9fb9-e7284da218f4",
       "title": "Anthropic IPO Waiting Game Puts Wall Street on Edge",
@@ -120,286 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-09-19",
       "link": "https://www.businessinsider.com/biggest-differences-between-us-and-uk-life"
-    },
-    {
-      "id": "3df03df8-2d23-81ad-a563-d37c1254028e",
-      "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
-      "summary": "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-19",
-      "link": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html"
-    },
-    {
-      "id": "3df03df8-2d23-8100-b549-ce6cfc7cc63c",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-19",
-      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
-    },
-    {
-      "id": "3df03df8-2d23-81e4-ac8a-e0a50d4f14ec",
-      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch o",
-      "source": "The Verge",
-      "publishTime": "2026-09-19",
-      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
-    },
-    {
-      "id": "3df03df8-2d23-8119-b62d-d6614ccb1553",
-      "title": "Disney’s first CTO is Character.AI’s former CEO",
-      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will repo",
-      "source": "The Verge",
-      "publishTime": "2026-09-19",
-      "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai"
-    },
-    {
-      "id": "3df03df8-2d23-812a-8941-d7b78b1aa8a7",
-      "title": "We want to hear how you're using personal AI agents",
-      "summary": "Personal AI agents are the latest hype in Silicon Valley. Business Insider wants to hear from you about how you're using the tools.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/personal-ai-agents-how-are-you-using-them-survey-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-81f8-a0fa-e1388306d827",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-19",
-      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
-    },
-    {
-      "id": "3df03df8-2d23-811d-bcb4-f8d113844165",
-      "title": "In India, the new iPhone can arrive faster than a pizza",
-      "summary": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-19",
-      "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/"
-    },
-    {
-      "id": "3df03df8-2d23-8138-a1fd-fda89d993959",
-      "title": "Oracle document spells out what laid-off workers get in severance, stock, and bonuses",
-      "summary": "An Oracle document reveals what happens to the employees laid off in the company's most recent round of job cuts.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/internal-oracle-document-what-happens-to-laid-off-employees-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-81a4-b371-dcf250085878",
-      "title": "Prince Harry and Meghan Markle are back in the UK, but they're still not working royals. Here are the 11 family members on duty.",
-      "summary": "There are 11 working royals in the British monarchy. Prince Harry and Meghan Markle aren't among them, despite their move back to the UK.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/british-working-royals-list-king-charles-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-8155-ba1d-d379b13d29fe",
-      "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
-      "summary": "SpaceX is getting an extension to an existing contract that will allow three additional crewed Dragon flights to the International Space Station.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-19",
-      "link": "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-    },
-    {
-      "id": "3df03df8-2d23-81d5-8830-ecaba9f76957",
-      "title": "Meta's CTO doesn't want a few 'bad actors' to spoil your view of Meta glasses",
-      "summary": "\"I don't want the discourse to be entirely shaped by this kind of relatively small number of bad actors,\" said Meta CTO Andrew \"Boz\" Bosworth.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/meta-cto-andrew-bosworth-glasses-bad-actors-moderation-policy-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-81e4-b341-c046c1f370bb",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-19",
-      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"
-    },
-    {
-      "id": "3df03df8-2d23-8102-87ca-d9a2af749a04",
-      "title": "I used to think getting healthier required more discipline. Moving abroad showed me I actually needed a change of scene.",
-      "summary": "Moving to the Caribbean and leaving the US didn't cure my health issues. It changed my relationship with wellness and made produce more accessible.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/moving-abroad-helped-health-eat-better-for-cheaper-caribbean-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-8198-b91f-e414a0c7f001",
-      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-19",
-      "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/"
-    },
-    {
-      "id": "3df03df8-2d23-8169-8441-c6f936cb8993",
-      "title": "Disney has a new tech chief — read the memo from CEO Josh D'Amaro",
-      "summary": "Disney has hired its first tech chief from an AI company it was beefing with last year. Read CEO Josh D'Amaro's full memo to employees.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/disney-new-tech-chief-read-memo-ceo-josh-damaro-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-8103-ba29-dbada20c42a1",
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already ",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-19",
-      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
-    },
-    {
-      "id": "3df03df8-2d23-8109-8d4c-f550dce1b7d9",
-      "title": "The real story of the iPhone 18 Pro&#8217;s camera",
-      "summary": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in […]",
-      "source": "The Verge",
-      "publishTime": "2026-09-19",
-      "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera"
-    },
-    {
-      "id": "3df03df8-2d23-8124-b041-d236b38e0eff",
-      "title": "Gavin Newsom is pushing for an AI kill switch",
-      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendatio",
-      "source": "The Verge",
-      "publishTime": "2026-09-19",
-      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
-    },
-    {
-      "id": "3df03df8-2d23-8140-a106-e48803192350",
-      "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
-      "summary": "A coalition of over 100 AI experts are urging independence and transparency from Anthropic, OpenAI and other foundation model labs to conduct evaluations.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-19",
-      "link": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html"
-    },
-    {
-      "id": "3df03df8-2d23-817d-950b-cdd52b0e463a",
-      "title": "Ukraine is testing homemade remote-controlled buggies for the first time to keep troops supplied this winter",
-      "summary": "Kyiv hopes the locally built vehicles can overcome the winter challenges that slow many ground robots.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/ukraine-tests-homemade-remote-controlled-buggies-for-winter-logistics-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-81b1-addb-e124e6330ece",
-      "title": "What Hollywood thinks about existential AI warnings",
-      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups foc",
-      "source": "The Verge",
-      "publishTime": "2026-09-19",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings"
-    },
-    {
-      "id": "3df03df8-2d23-8106-8b5f-ec918f04af8c",
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-19",
-      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
-    },
-    {
-      "id": "3df03df8-2d23-81c6-85e8-c5f421314270",
-      "title": "These 5 states are home to America's richest billionaires",
-      "summary": "Forbes released its annual list determining the 400 wealthiest people in the US. More than half of them live in these five states.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/the-states-with-the-highest-number-of-america-billionaires-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-8113-baa4-d91546dda9bf",
-      "title": "Disney names CTO for the first time as media giant expands tech push",
-      "summary": "Disney has hired a chief technology officer, a newly minted role for the company, as it looks to further its embrace of tech under CEO Josh D'Amaro.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-19",
-      "link": "https://www.cnbc.com/2026/09/18/disney-cto-tech.html"
-    },
-    {
-      "id": "3df03df8-2d23-81f8-92a9-e20f85732409",
-      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply Chain Hacking Gang",
-      "summary": "TeamPCP pulled off the worst-ever software supply chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
-      "source": "Wired",
-      "publishTime": "2026-09-19",
-      "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
-    },
-    {
-      "id": "3df03df8-2d23-8162-be26-f703452e51b2",
-      "title": "Family offices are clamoring for AI investments",
-      "summary": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-19",
-      "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/"
-    },
-    {
-      "id": "3df03df8-2d23-8155-9c91-e7981450153d",
-      "title": "The web was built for people. A tsunami of AI agents is changing that fast.",
-      "summary": "AI agents are rapidly becoming the internet's biggest users, reshaping websites, online services, and digital commerce.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/ai-agents-change-how-web-internet-works-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-81c6-aab0-e945067ff335",
-      "title": "The Pope's AI advisor says the technology can be worse for kids than cocaine",
-      "summary": "Paolo Benanti, a Franciscan friar and theologian, told the BBC that AI can produce \"emotional bending\" that affects young people worse than addiction.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/pope-advisor-ai-can-be-worse-for-kids-than-cocaine-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-81bd-935a-d32b4b433e6e",
-      "title": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast",
-      "summary": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-18",
-      "link": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/"
-    },
-    {
-      "id": "3df03df8-2d23-810f-919f-d9002046b476",
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reported",
-      "source": "The Verge",
-      "publishTime": "2026-09-18",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"
-    },
-    {
-      "id": "3df03df8-2d23-81dc-b59a-eb843b7c6d28",
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-18",
-      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "3df03df8-2d23-81ca-aba4-ebc12366b263",
-      "title": "消息称特斯拉针对 Optimus 机器人业务启动量产审厂，多家供应链企业回应",
-      "summary": "IT之家 9 月 18 日消息，日前，21 世纪经济报道援引产业链人士消息称，特斯拉相关团队已于 9 月 16 日落地宁波，并于 17 日开启新一轮针对旗下机器人业务的量产审厂。据称此轮审厂将实质导向机器人 Optimus 的量产，已向供应链企业下达相关订单。按计划，特斯拉今年将下线约 5 万台 Optimus 机器人，在世界各地特斯拉超级工厂中部署。不过，现阶段普通消费者仍无购买渠道。消息称特斯拉去年 9 月在华曾启动一轮机器人审厂工作，涉及的公司包括拓普集团、三花智控、浙江荣泰、新泉股份、均胜电子等传统特斯拉汽车供应链企业。若此轮审厂属实，意味着特斯拉正将更多汽车供应链资源导入机器人业务，",
-      "source": "IT之家",
-      "publishTime": "2026-09-18",
-      "link": "https://www.ithome.com/1/004/343.htm"
-    },
-    {
-      "id": "3df03df8-2d23-8125-92f2-d75ae564ff47",
-      "title": "Photos show people lining up around the world for the iPhone 18 Pro launch",
-      "summary": "Apple's new CEO, John Ternus, visited the NYC flagship store for the iPhone 18 Pro launch, an appearance his predecessor, Tim Cook, has long made.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/apple-iphone-18-launch-day-store-lines-photos-2026-9"
-    },
-    {
-      "id": "3df03df8-2d23-81b4-ac58-fb9438b95fc2",
-      "title": "I'm a New Yorker who spent 2 days in Scottsdale and Paradise Valley. 8 things surprised me about Arizona's wealth hub.",
-      "summary": "I visited Scottsdale and Paradise Valley, Arizona. I was surprised by walkable neighborhoods and luxury estates in the desert hills.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/surprising-things-new-yorker-found-visiting-scottsdale-paradise-valley-arizona-2024-5"
-    },
-    {
-      "id": "3df03df8-2d23-81f6-9ad6-e51f80476b03",
-      "title": "I visited the 'Venice of the Alps,' Lake Annecy. I think it's going to be the next big European destination for Americans.",
-      "summary": "Nestled in the Alps with crystal clear water, Lake Annecy is a European travel gem. When I visited, I enjoyed the clean beaches and historic old town.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-18",
-      "link": "https://www.businessinsider.com/travel-lake-annecy-europes-must-visit-lake-2026-9"
     }
   ],
   "macroEvents": [
