@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-09-20 04:53",
+  "updatedAt": "2026-09-20 07:18",
   "news": [
+    {
+      "id": "3e003df8-2d23-8115-b868-c38c715c4b9d",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazin",
+      "source": "The Verge",
+      "publishTime": "2026-09-20",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy"
+    },
+    {
+      "id": "3e003df8-2d23-81d8-9cd9-fea633944a38",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-20",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
+    },
+    {
+      "id": "3e003df8-2d23-81b5-9807-df994d037dc5",
+      "title": "President Trump Announces ‘AI Force,’ Will Appoint New Czar",
+      "summary": "President Donald Trump on Saturday said he was creating a new “AI Force,” that would be similar to his Space Force—the arm of the Defense Department focused on space combat started by Trump during his first administration—and he planned to appoint a new AI czar to lead it. On his Truth Social ...",
+      "source": "The Information",
+      "publishTime": "2026-09-20",
+      "link": "https://www.theinformation.com/briefings/president-trump-announces-ai-force-will-appoint-new-czar"
+    },
+    {
+      "id": "3e003df8-2d23-812f-aa4e-d34172f011e0",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-20",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+    },
+    {
+      "id": "3e003df8-2d23-811c-a3fe-f7e0eaa56229",
+      "title": "I didn't post on social media about my home purchase, marriage, or pregnancy. It made the moments more meaningful.",
+      "summary": "Instead of posting my life updates on social media, I shared them with friends in person. The hugs I get are ten times better than a like on a post.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-20",
+      "link": "https://www.businessinsider.com/dont-post-milestone-announcements-on-social-media-engagement-pregnancy-2026-9"
+    },
     {
       "id": "3e003df8-2d23-813b-af27-dadd9cd89400",
       "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
@@ -360,46 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-09-19",
       "link": "https://www.ithome.com/1/004/539.htm"
-    },
-    {
-      "id": "3e003df8-2d23-8199-bd87-fe2dbcd4a908",
-      "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
-      "summary": "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-19",
-      "link": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html"
-    },
-    {
-      "id": "3e003df8-2d23-81ec-b5b0-d78fcedec3ca",
-      "title": "京东：苹果 iPhone 18 Pro 系列开售 1 小时，全国已有 3 万用户签收新机",
-      "summary": "IT之家 9 月 19 日消息，苹果 iPhone 18 Pro 与 iPhone 18 Pro Max 两款机型于 9 月 18 日正式开售，起售价为 9999 元。京东数据显示，开售 1 小时，全国已有 3 万用户签收 iPhone 18 Pro 系列新机。据介绍，正式开售后，北京、上海、广州、深圳、武汉…… 等数十个城市首批用户一早就收到了 iPhone 新机。京东提前部署全国过万个前置仓站、数万家京东线下门店，将新品提前备货至距离消费者更近的地点，消费者可以第一时间收到新机。遍布全国的 3000 个京东 Apple 产品服务站提供数据迁移、贴膜等服务，在开售前就吸引了超 2 万人次的服",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/538.htm"
-    },
-    {
-      "id": "3e003df8-2d23-8151-8df9-db096025eea2",
-      "title": "The US Army is getting enough drones, official says. Now, it needs to train enough operators.",
-      "summary": "The service is buying tens of thousands of drones and delivering them to troops. The next challenge is ensuring they know how to use them.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/us-army-has-drones-now-it-needs-trained-operators-2026-9"
-    },
-    {
-      "id": "3e003df8-2d23-8185-93dd-cd0c58abb66d",
-      "title": "一箭四星：株洲太空星际 PIESAT-2 13~16 星发射任务圆满成功",
-      "summary": "IT之家 9 月 19 日消息，据央视新闻报道，今天（19 日），我国在太原卫星发射中心使用长征二号丁运载火箭，成功将株洲太空星际 PIESAT-2 13~16 星发射升空。卫星顺利进入预定轨道，发射任务取得圆满成功。此次任务是长征系列运载火箭的第 668 次飞行。IT之家查询获悉，株洲太空星际 PIESAT-2 13~16 星是银河航天（北京）科技集团股份有限公司研制的四颗低轨合成孔径雷达（SAR）遥感卫星，用户为株洲太空星际卫星科技有限公司，将在轨进行遥感观测与相关应用。执行本次发射任务的长征二号丁运载火箭是由中国航天科技集团有限公司所属上海航天技术研究院研制的两级液体运载火箭，主要用于执",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/537.htm"
-    },
-    {
-      "id": "3e003df8-2d23-8164-8f3b-e8657d6dcb86",
-      "title": "荣耀学习空间 App 手机版上线：Magic8、WIN 系列等机型率先适配",
-      "summary": "IT之家 9 月 19 日消息，荣耀学习空间 App 手机版今日官宣上线，AI 作业辅导工具、同步教材、课后教辅、名师课统统装进荣耀手机里。下载指南：1. 设置-系统和更新-软件更新，将系统升级至 MagicOS 112. 桌面下拉-搜索“学习空间”，即可进入IT之家附适配机型：平板：全系列支持手机：9 月 15 日起可陆续升级更新荣耀 Magic8 系列：Magic8、RSR 保时捷设计、Pro、Pro Air荣耀 Magic7 系列：Magic7、RSR 保时捷设计、Pro荣耀 WIN 系列：WIN、WIN RT荣耀 GT 系列：GT Pro荣耀 600 系列：600 Pro、超级版、元气",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/536.htm"
     }
   ],
   "macroEvents": [
