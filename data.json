@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-09-20 02:08",
+  "updatedAt": "2026-09-20 04:53",
   "news": [
+    {
+      "id": "3e003df8-2d23-813b-af27-dadd9cd89400",
+      "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
+      "summary": "President Trump said he will not \"hinder or stifle\" AI development after some leaders of frontier AI labs called for US government regulation.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-20",
+      "link": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026"
+    },
+    {
+      "id": "3e003df8-2d23-81d4-8645-e27cc0dd921d",
+      "title": "Aaron Sorkin says Sony hired outside lawyers to fact-check 'The Social Reckoning' because Meta has 'limitless resources'",
+      "summary": "During an appearance on \"The Interview\" podcast, Director Aaron Sorkin called Meta \"phenomenally powerful company with limitless resources.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-09-20",
+      "link": "https://www.businessinsider.com/aaron-sorkin-sony-outside-lawyers-fact-check-the-social-reckoning-2026-9"
+    },
+    {
+      "id": "3e003df8-2d23-8111-b03a-d617952a8e5b",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-20",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+    },
+    {
+      "id": "3e003df8-2d23-812a-b6a4-fca9ecd74f2a",
+      "title": "Trump treads further on free speech with new journalist bans",
+      "summary": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports, marking an escalat",
+      "source": "The Verge",
+      "publishTime": "2026-09-20",
+      "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban"
+    },
+    {
+      "id": "3e003df8-2d23-81a1-9400-cadb447d49c9",
+      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-20",
+      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/"
+    },
     {
       "id": "3e003df8-2d23-818f-a770-e03fd6581d28",
       "title": "My adult kids are thriving hundreds of miles away. I'm proud of them and heartbroken at the same time.",
@@ -360,46 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-09-19",
       "link": "https://www.ithome.com/1/004/536.htm"
-    },
-    {
-      "id": "3e003df8-2d23-81e3-a850-c249a0a60b45",
-      "title": "巨头喊 AI 刹车，宏碁董事长陈俊圣称不太可能、技术发展只会越来越快",
-      "summary": "IT之家 9 月 19 日消息，近期，Anthropic 首席执行官达里奥 · 阿莫迪、OpenAI 首席执行官萨姆 · 奥尔特曼以及特斯拉首席执行官埃隆 · 马斯克相继呼吁，应暂缓最先进人工智能的研发步伐。据台媒经济日报今日报道，宏碁集团创始人施振荣认为，科技的进步实际上是停不下来；宏碁董事长陈俊圣更直言“不太可能”，因为技术发展只会越来越快，重点还是如何在过程中做有效治理。IT之家注意到，陈俊圣表示，因为技术发展有他自身的脚步，只会越来越快。应该是要想办法在这个科技快速发展的过程当中，能够有效地做治理及管制。至于 AI 发展放缓，对中国台湾地区科技及半导体产业的影响，施振荣认为，放缓本质上",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/535.htm"
-    },
-    {
-      "id": "3e003df8-2d23-8178-b768-f96924efe6f2",
-      "title": "Ukraine's defense companies say soldiers want drones that do more on their own so one operator can control more at once",
-      "summary": "Ukrainian drone makers are building more autonomy into their systems so one operator can manage multiple drones.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/ukraines-pilots-want-less-need-control-drones-industry-autonomy-ai-2026-9"
-    },
-    {
-      "id": "3e003df8-2d23-816e-a837-ea37d07e4abd",
-      "title": "SpaceXAI 发布 Grok Voice Transcribe 2.0 语音转文本模型：错误率降低约一半，价格保持不变",
-      "summary": "IT之家 9 月 19 日消息，当地时间 9 月 18 日，SpaceXAI 发布了 Grok Voice Transcribe 2.0 语音转文本模型，在保持价格不变的前提下，错误率降低约一半。官方表示，Grok Voice Transcribe 2.0 基于 Grok Voice 底层的音频基础模型构建。目前，Grok Voice 已全面赋能实际业务：每天承接数万通客服电话，转录数百万小时的视频旁白，并驱动实体硬件中的各类语音智能体 —— 其中包括特斯拉车辆中搭载的 Grok 助手。在 Artificial Analysis 榜单中，Grok Voice Transcribe 2.0 在全",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/534.htm"
-    },
-    {
-      "id": "3e003df8-2d23-816c-946c-eb4ac79cfe7a",
-      "title": "Get ready for higher holiday airfares as airlines cut flights over high fuel costs",
-      "summary": "Major airlines like United, Southwest, and American are cutting flights over high fuel costs, which could impact holiday fares.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/airlines-cutting-flights-fuel-costs-higher-holiday-fares-2026-9"
-    },
-    {
-      "id": "3e003df8-2d23-8139-84f7-d6439aac866e",
-      "title": "After my husband was diagnosed with colon cancer at 45, we changed our family diet. Here's what we eat — and don't eat — now.",
-      "summary": "My husband was diagnosed with colon cancer at 45 at a routine colonoscopy. We're now changing our diets, and our kids' diets, as well.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/husband-colon-cancer-changed-kids-family-diet-2026-9"
     }
   ],
   "macroEvents": [
