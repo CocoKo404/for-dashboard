@@ -1,6 +1,222 @@
 {
-  "updatedAt": "2026-09-21 00:55",
+  "updatedAt": "2026-09-21 03:37",
   "news": [
+    {
+      "id": "3e103df8-2d23-8123-8db6-f857786846b4",
+      "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
+      "summary": "Scott Bessent and China’s He Lifeng are holding talks on trade, AI and critical minerals ahead of Trump and Xi’s Sept. 24 summit.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-21",
+      "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html"
+    },
+    {
+      "id": "3e103df8-2d23-8174-a814-fc81b9da3bfb",
+      "title": "New California law will penalize influencers who don’t disclose political ads",
+      "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-21",
+      "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/"
+    },
+    {
+      "id": "3e103df8-2d23-8130-a0ab-ce1ff89ac622",
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-21",
+      "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/"
+    },
+    {
+      "id": "3e103df8-2d23-817f-9596-f0ac8fc94ea5",
+      "title": "How Nvidia Is Trying to Solve the Data Center Power Bottleneck",
+      "summary": "Nvidia is tracking “every single gigawatt of land, power and shell around the world, literally everything on the planet,” CEO Jensen Huang said at Goldman Sachs’ annual tech conference earlier this month. “We know where everything is.”Why track power so intently?Nvidia sees power availability as a k",
+      "source": "The Information",
+      "publishTime": "2026-09-21",
+      "link": "https://www.theinformation.com/articles/nvidia-trying-solve-data-center-power-bottleneck"
+    },
+    {
+      "id": "3e103df8-2d23-813b-bd61-e3eb815d4287",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any w",
+      "source": "The Verge",
+      "publishTime": "2026-09-20",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+    },
+    {
+      "id": "3e103df8-2d23-8141-9ea4-e29fca4385c7",
+      "title": "IT之家专访苹果 iPhone 营销副总裁凯安 · 德兰斯：iPhone Duo 追求最终用户体验，而不仅仅是为了技术",
+      "summary": "IT之家 9 月 20 日消息，北京时间 9 月 10 日凌晨 1 点，苹果传闻已久的首款折叠屏手机 iPhone Duo 终于亮相，iPhone 18 Pro 系列同步上新，这也是新任 CEO 约翰 · 特努斯（John Ternus）执掌苹果后的首秀。9 月 17 日，苹果全球 iPhone 产品市场营销副总裁凯安 · 德兰斯（Kaiann Drance）在上海接受了IT之家专访，谈到关于 iPhone Duo 和 iPhone 18 Pro 的一些设计理念。IT之家：iPhone 18 Pro 售价上调，但外观设计延续上代，直观的硬件改动不多，光圈等对普通消费者也过于抽象，iPhone ",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/005/013.htm"
+    },
+    {
+      "id": "3e103df8-2d23-81d1-9cd7-ff8a0c4d4b79",
+      "title": "How America's Best Restaurant Serves 450 Pounds Of Meat Every Week",
+      "summary": "Kabawa was just named the best restaurant in America by Food & Wine. So, what does it take to run a full service at America's best restaurant?",
+      "source": "Business Insider",
+      "publishTime": "2026-09-20",
+      "link": "https://www.businessinsider.com/how-americas-best-restaurant-serves-450-pounds-of-meat-2026-9"
+    },
+    {
+      "id": "3e103df8-2d23-8151-9117-c59256a3e2dc",
+      "title": "智谱 MaaS 平台上线数据内容不留存机制，用户可申请开通",
+      "summary": "IT之家 9 月 20 日消息，智谱 MaaS 平台今日宣布，近期将上线数据内容不留存功能，为企业和开发者用户提供更严格的数据隐私保护。公告称，数据内容不留存机制旨在减少模型调用内容在平台侧的持久化留存。任何用户均可以申请开通，生效后，智谱 MaaS 平台不会对用户的输入和输出进行静态存储，数据仅用于完成当次模型调用。企业和开发者可通过 MaaS 控制台提交开通申请，具体生效时间及适用范围以平台确认结果为准。公告提到，这个功能并不意味着任何情形下都不留存数据。Batch API、File API 等需要在平台侧持久化保存任务或文件的功能不在上述覆盖范围内，以及法律法规要求留存、为核查涉嫌违规或",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/005/012.htm"
+    },
+    {
+      "id": "3e103df8-2d23-81ee-8dbe-f1cb46045977",
+      "title": "A former Siemens CEO thought he was investing $2.5 million in Deepak Chopra’s app. Prosecutors say it was fraud.",
+      "summary": "Prosecutors say Wanja Oberhof embezzled most of that money, using it in part for back rent on his nearly $20,000-per-month Manhattan penthouse.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-20",
+      "link": "https://www.businessinsider.com/klaus-kleinfeld-deepak-chopra-app-wanja-oberhof-healing-company-fraud-2026-9"
+    },
+    {
+      "id": "3e103df8-2d23-81a2-8abc-f649130b3ce2",
+      "title": "九号电动 Fz5 130“猎装神车”9 月 24 日开售，高强度围栏式车架",
+      "summary": "IT之家 9 月 20 日消息，九号电动今日官宣 Fz5 130 猎装神车登场，搭载高强度围栏式车架，9 月 24 日，新品即将开售。IT之家注意到，Fz5 110 电动自行车于今年 7 月上市，首发价 5999 元，提供战斗黑 / 光谱白 / 星际灰 / 电光绿四种颜色可选。该车型定位为“猎装神车”，整车尺寸 1787mm×732mm×1099mm，离地间隙 220mm，轴距 1245mm，采用合金钢双管车架、高抓地轮胎，支持整车 IPX5 级防水。作为参考，在售 Fz5 110 搭载 400W 的九号定制 12 寸无刷电机，采用 48V 30Ah 锂电池，理论续航 100km，实景续航（I",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/005/011.htm"
+    },
+    {
+      "id": "3e103df8-2d23-8153-9c68-c433abe4cefa",
+      "title": "贾跃亭的法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元",
+      "summary": "IT之家 9 月 20 日消息，法拉第未来（Faraday Future，简称 FF）于美国当地时间 9 月 19 日举行了 919 FF EAI 机器人“四核全智”系列新品发布会，发布了 FF All-New Futurist、FF Master Mini、FX Aegis Hyper、FX Aegis Mega 及 FX Aegis Classic Ultra-W 五大型号、九款配置 EAI 机器人本体新品，以及 K-12 教育、科研、安防和巡检四套行业生产力解决方案。据官方介绍，FF“四核全智”开放生态由 EAI 大脑与开发者平台、EAI 本体、行业生产力解决方案和 EAI 数据工厂组成",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/005/010.htm"
+    },
+    {
+      "id": "3e103df8-2d23-819d-bba3-fc04bb0bccf5",
+      "title": "Why Apple Is Betting on Foldable iPhones",
+      "summary": "When new Apple CEO John Ternus showed off the first version of a foldable iPhone at an event earlier this month, there was a good chance many Americans watching clips of the video stream had never thought hard about buying such a device. But Apple is betting that the same demand that’s driven double",
+      "source": "The Information",
+      "publishTime": "2026-09-20",
+      "link": "https://www.theinformation.com/articles/apple-betting-foldable-iphones"
+    },
+    {
+      "id": "3e103df8-2d23-8173-a38b-d7998baf791e",
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon fo",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-20",
+      "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/"
+    },
+    {
+      "id": "3e103df8-2d23-81ee-a714-f114fc04b9ce",
+      "title": "古尔曼：苹果最快下月推出智能家居屏幕设备，iPhone Duo 专属手写笔计划夭折",
+      "summary": "IT之家 9 月 20 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）报道，苹果“个人智能中枢”AI 战略，暗示新款家用设备即将到来。报道称，苹果全新的“智能个人中枢”战略，其意义远不止局限于 iPhone。此外：苹果对 Fitness+ 业务实施了裁员，该服务未来走向存疑；iPhone Duo 专属手写笔计划已经夭折；Apple Pay 即将正式登陆印度。IT之家附报道内容如下：本月，约翰 · 特努斯（John Ternus）以苹果新任首席执行官的身份发表了自己的首场主题演讲。演讲开头几分钟，他阐述了自己对于人工智能时代下设备发展的愿景。他请观众设想：从零开始设计一台理想的 ",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/005/009.htm"
+    },
+    {
+      "id": "3e103df8-2d23-8185-9fe2-edc7bf5661b3",
+      "title": "The 'robot relations' department may become reality in workplace of the future",
+      "summary": "AI, from chatbots to humanoids and automated management systems, are being widely deployed by corporations with huge repercussions for worker pay and autonomy.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-20",
+      "link": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html"
+    },
+    {
+      "id": "3e103df8-2d23-8173-87bb-c7f71d95fc00",
+      "title": "消息称三星正在研发 Galaxy Buds5 FE，预计未来几个月内发布",
+      "summary": "IT之家 9 月 20 日消息，据“SamMobile”今日报道，三星正在研发 Galaxy Buds5 FE，预计将在未来几个月内发布。报道提到，今年市面上绝大多数（即便不是全部）消费电子产品都出现了涨价，这很大程度上是存储芯片危机带来的后果，受此影响，智能手机、平板等产品不得不大幅提价，而这款 FE 系列耳机或许能够免遭涨价。从目前曝光的信息来看，三星 Buds5 FE 最大的升级方向是音质。爆料显示该耳机预计不会涨价，上一代产品 Galaxy Buds3 FE 定价为 149 美元，Galaxy Buds5 FE 或将维持这一价位。有消息称三星将升级音质，使其至少看齐上一代标准版 Gal",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/005/008.htm"
+    },
+    {
+      "id": "3e103df8-2d23-8111-90aa-f4c7ecdca8b4",
+      "title": "台电 T60 Mini 8.8 英寸小平板开售：支持 4G 插卡通话、紫光展锐 T7300 芯片，899 元",
+      "summary": "IT之家 9 月 20 日消息，台电今日宣布，台电 T60 Mini 小平板开售，首发 899 元，部分地区可叠加国补，补贴后到手价 764.15 元。这款平板搭载 8.8 英寸 2.5K LCD 屏幕（2560×1600），支持 90Hz 刷新率，PPI 为 343，屏幕亮度 400 尼特，采用 incell 全贴合工艺，机身重 324g；搭载紫光展锐 T7300 八核 CPU，配备 8GB 内存、128GB 存储空间，支持 TF 卡扩展，拥有 6000mAh 电池，支持 18W PD 快充。这款平板搭载基于安卓 17 的 TeclastOS 系统，整体以毛玻璃为设计元素。IT之家获悉，这款",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/005/007.htm"
+    },
+    {
+      "id": "3e103df8-2d23-818e-bf8f-c43cc658b7ae",
+      "title": "微软设计主管证实：Win11 将继续清理改造更多老旧系统对话框",
+      "summary": "IT之家 9 月 20 日消息，据 Windows Latest 报道，微软已经证实，准备着手清理 Windows 11 当中所有遗留的老式弹窗对话框，即便是那些极少被用户使用的界面也不会放过。用户此前指出，设置（Settings）里面部分页面的外观风格和 Windows 11 整体设计格格不入。微软设计合作总监马奇 · 罗杰斯（March Rogers）就此再次重申了改造计划。一个典型例子就是语音包对话框：路径为设置 > 时间和语言 > 语音。当尝试添加语音时，系统会弹出独立窗口，里面包含语言搜索框、复选框以及语音包列表。IT之家注意到，仔细观察就会发现，这个“语音包”对话框甚至没有使用圆角",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/005/006.htm"
+    },
+    {
+      "id": "3e103df8-2d23-8122-8c69-d82dc00f583b",
+      "title": "Jane Street-Linked Data Center Debt Sours",
+      "summary": "Secretive Wall Street trading firm Jane Street has become famous in the past couple of years for its sizable AI-related spending, as it has struck big cloud deals to handle its AI computing needs and made investments in neocloud CoreWeave. Yet even a Jane Street–related deal for data center debt has",
+      "source": "The Information",
+      "publishTime": "2026-09-20",
+      "link": "https://www.theinformation.com/articles/jane-street-linked-data-center-debt-sours"
+    },
+    {
+      "id": "3e103df8-2d23-8185-bb72-f8f3ccdd8f11",
+      "title": "保时捷鸿蒙版 App 1.0.1 上架尝鲜，可检查车辆状态、远程控制",
+      "summary": "IT之家 9 月 20 日消息，保时捷鸿蒙版 App 今日在华为应用市场（App Gallery）上架尝鲜，版本号为 1.0.1（1005883），测试时间为 2026/9/20-2026/9/24。据介绍，保时捷 App 是为保时捷车主和喜爱保时捷的用户打造的一款聚焦智慧出行的生活平台。通过 App 随时随地检查车辆状态或远程控制车辆的某些功能和服务。保时捷 App 主要分为“车辆”“我的”两个模块，IT之家附具体功能如下：车辆用户可以查看自己绑定的车辆信息，根据车型的不同，客户可以查看续航里程及车辆详情。根据车辆型号，客户可以从屏幕左上角的车辆状态区域检索不同的信息。用户可以通过车辆模块远",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/999.htm"
+    },
+    {
+      "id": "3e103df8-2d23-810f-879c-da2e548b0e0a",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-20",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "3e103df8-2d23-81df-8f38-e0b726ea81f9",
+      "title": "神舟二十三乘组在轨近四个月：开展病毒与免疫代谢的空间互作规律探究",
+      "summary": "IT之家 9 月 20 日消息，载人航天工程办公室今日发布新一期太空周记，神舟二十三乘组三名航天员朱杨柱、张志远、黎家盈已在轨近四个月，过去的一周的空间科学实（试）验任务持续推进。IT之家从视频获悉，近期，航天员开展了病毒与免疫代谢的空间互作规律探究，为长期在轨健康防护积累关键数据。此外，乘组完成了第二批子样磨屑迁移成像在轨试验样品、在线维修装调操作柜内实验样品的更换。在空间站组合体平台照料方面，乘组对饮水分配器出水口进行微生物采样，常态化开展站内微生物防控相关工作，为长期在轨驻留筑牢健康防线。同时，三名航天员按计划完成了个人噪声暴露剂量测量，以及舱内环境定期清洁及检查维护等工作。在健康管理方",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/996.htm"
+    },
+    {
+      "id": "3e103df8-2d23-81a4-b009-d1a85632c1be",
+      "title": "经典音乐播放器 Winamp 明年重生，将推出付费订阅服务",
+      "summary": "IT之家 9 月 20 日消息，曾称霸流媒体时代之前的 Windows 桌面、支持海量自定义皮肤的 MP3 播放软件 Winamp 将于明年回归，但新版已经不再是大家熟悉的模样。通过与 Deezer 展开合作，Winamp 将以一款全新播放器的身份重生，并推出自有付费订阅服务；由 Deezer 提供白标流媒体后台技术以及正版曲库资源。根据官方公告，新版播放器将新增订阅服务，同时支持本地音乐文件、网络电台、播客以及云端音乐曲库。新版播放器并不会取代经典桌面版客户端，二者会并行存在。Winamp 方面称，原版程序在全球依旧拥有超过 4000 万活跃用户；后续经典版桌面应用也会追加这套由 Deeze",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/995.htm"
+    },
+    {
+      "id": "3e103df8-2d23-8154-8639-fa87a7d7880d",
+      "title": "迪士尼 Disney+ 更新用户协议，所有订阅套餐均将出现广告",
+      "summary": "IT之家 9 月 20 日消息，据 Dexerto 报道，迪士尼旗下流媒体平台 Disney+ 已更新用户协议，允许在所有会员档位的电影和剧集播放前后投放广告。这一调整悄然终结了该平台“完全无广告”的播放体验，即便付费最高的用户也未能幸免。其中包括每月售价 18.99 美元（IT之家注：现汇率约合 127.6 元人民币）的高级方案（Premium Plan），而该方案最初正是以“全程无打扰的纯净观影体验”为核心卖点。目前，用户在登录时屏幕上会弹出提示，必须主动勾选同意更新后的条款，才能继续观看内容。在一封发给订阅用户的电子邮件中，迪士尼确认，包括高级方案在内的所有订阅档位，现在都可能在视频片头",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/994.htm"
+    },
+    {
+      "id": "3e103df8-2d23-815b-9100-e874a1cae792",
+      "title": "Steam Frame 预约资格被黄牛炒到 2000 美元，玩家社区自发抵制",
+      "summary": "IT之家 9 月 20 日消息，在 Valve 刚发出首批预约邮件短短数小时之后，黄牛就已经开始在 eBay 平台上架转售 Steam Frame 的预约名额。据 IGN 报道，256GB 版本的挂牌起价约 1,700 美元（IT之家注：现汇率约合 11,421 元人民币），而 Valve 官方定价仅为 1,059 美元（现汇率约合 7,115 元人民币）；1TB 版本标价大约 2,000 美元（现汇率约合 13,437 元人民币），官方售价是 1,299 美元（现汇率约合 8,727 元人民币）。IGN 称其中至少部分商品已经显示售出；不过媒体 Mixed 指出，这些只是卖家的报价，目前还没",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/993.htm"
+    },
+    {
+      "id": "3e103df8-2d23-814c-ae6d-d189c82bbee3",
+      "title": "造谣“宁德时代宜宾基地班长不让普工上厕所”，男子被行拘",
+      "summary": "IT之家 9 月 20 日消息，据宜宾三江公安微信公众号消息，“宁德时代宜宾基地班长不让普工上厕所”系谣言一事有了新进展，谣言编造者已被行拘。据警方调查，9 月 9 日，网民林某某（男，33 岁）在某社交平台编造关于“某企业宜宾基地员工被管理人员侮辱，导致心理崩溃，做出过激行为”的谣言信息，引发各网络平台迅速传播，大量网民关注和讨论，造成不良社会影响。经警方核实，该信息所述涉事企业、事发地均与事实不符，林某某为了“博取眼球”“营造掌握行业内幕人设”编造网络谣言，其行为涉嫌故意虚构事实扰乱公共秩序。目前，三江新区公安分局已依据《中华人民共和国治安管理处罚法》对林某某做出行政拘留并处罚款的行政处罚",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/992.htm"
+    },
+    {
+      "id": "3e103df8-2d23-81fb-ad2e-c3d575091155",
+      "title": "AI, data center alarms dominate Congressional Black Caucus week in Washington",
+      "summary": "AI interests pro and con turned out for the Congressional Black Caucus's annual gathering in Washington as the topics — plus redistricting concerns — dominated.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-20",
+      "link": "https://www.cnbc.com/2026/09/20/ai-data-center-alarms-dominate-cbc-week-in-washington.html"
+    },
     {
       "id": "3e103df8-2d23-81b7-9c46-c7cf726002b9",
       "title": "2026 年上半年，我国制造业人工智能重点场景应用普及率达 34.2%",
@@ -184,222 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-09-20",
       "link": "https://www.ithome.com/1/004/953.htm"
-    },
-    {
-      "id": "3e103df8-2d23-81b6-9e10-cacd6af70964",
-      "title": "奇瑞 iCAR V27 长续航版 9 月 30 日上市，现款 16.98 万元起",
-      "summary": "IT之家 9 月 20 日消息，据易车今日报道，iCAR V27 长续航版将于 9 月 30 日上市，除了续航里程的提升，新车还将在座舱舒适、智能体验方面进行全面升级。IT之家注意到，奇瑞 iCAR 首款增程 SUV 车型 V27 于今年 3 月 13 日上市，该车是一款硬派方盒子中大型 SUV，搭载 1.5T 增程系统，号称“最好开的 5 米方盒子”。210km 两驱猎鹰 500：16.98 万元200km 四驱猎鹰 500：18.28 万元200km 四驱猎鹰 700：19.68 万元车身尺寸方面，在售 iCAR V27 长宽高分别为 4909/5055（IT之家注：分别为不含 / 含备胎",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/952.htm"
-    },
-    {
-      "id": "3e103df8-2d23-8110-9bcb-fb6edf975ff0",
-      "title": "京东汽车与张雪机车达成战略合作：在京东下单送装一体，带一公升汽油上门",
-      "summary": "IT之家 9 月 20 日消息，9 月 19 日，第二十四届中国国际摩托车博览会在重庆开幕。京东汽车与张雪机车宣布达成战略合作，上线京东自营旗舰店，推出送车上门服务。据都市现场报道，京东汽车摩托车业务负责人邢洪梅接受采访时表示，把重点放在如何把摩托车送到用户家里，“在京东下单张雪机车，送装一体，带一公升汽油上门”。所谓“送装一体”，即用户下单后，物流师傅与上门技师一同到户，现场送货、安装、组装，用户确认满意后再离开。邢洪梅特别提到“带油运输”，通过专业防爆罐随车供油，解决新车到户后无油、需手动推到加油站的问题。“直接把油带到消费者家里、加满，收到就能骑。”邢洪梅说道。“消费者下一台摩托车订单，",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/951.htm"
-    },
-    {
-      "id": "3e103df8-2d23-8112-ad62-d413de9a0f1d",
-      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-      "summary": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-20",
-      "link": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html"
-    },
-    {
-      "id": "3e103df8-2d23-8186-9b3c-d6c43525a7d6",
-      "title": "I thought I wanted the American dream. Moving to a small city in Spain changed my mind.",
-      "summary": "Kevin Schreck says his quality of life is better in Valencia, Spain. Housing is affordable, and he is less worried about medical bills.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-20",
-      "link": "https://www.businessinsider.com/moved-north-carolina-to-spain-valencia-american-dream-2026-9"
-    },
-    {
-      "id": "3e103df8-2d23-81ea-b0a2-e598b542a09c",
-      "title": "My outdoorsy husband didn't want to take a baby and a toddler camping. I insisted — and regretted it by 2 a.m.",
-      "summary": "Our first camping trip with two young kids ended after 36 hours. We tried again with better planning, and our toddler begged to return.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-20",
-      "link": "https://www.businessinsider.com/camping-baby-toddler-husband-was-right-family-trip-2026-9"
-    },
-    {
-      "id": "3e103df8-2d23-8108-947d-c1cf3d297a54",
-      "title": "玩家自制 reGTA 合集，将三款经典《GTA》游戏移植到新任天堂 3DS",
-      "summary": "IT之家 9 月 20 日消息，三款经典的《侠盗猎车手（GTA）》游戏，借着一款玩家自制合集，意外登陆了新任天堂 3DS 设备。《侠盗猎车手》系列此前也曾登陆过任天堂掌机，但该系列几款知名度最高的 3D 时代作品，始终没有推出过官方的 3DS 版本。对于 Rockstar 这款开创全新游戏类型的系列作品而言，任天堂掌机并不算完全陌生的平台。2004 年，《侠盗猎车手：前进》登陆 Game Boy Advance；衍生作品《侠盗猎车手：血战唐人街》则于 2009 年在任天堂 DS 平台推出原创版本。不过在 3DS 整机的销售周期当中，始终没有原生的正传《侠盗猎车手》游戏，导致《侠盗猎车手 3》、",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/949.htm"
-    },
-    {
-      "id": "3e103df8-2d23-8152-9ec0-f1d248f8d2bf",
-      "title": "Thermacell LIV 2.0 Review: Taking My Yard Back",
-      "summary": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried.",
-      "source": "Wired",
-      "publishTime": "2026-09-20",
-      "link": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/"
-    },
-    {
-      "id": "3e103df8-2d23-81a4-9b2c-c3f9a46cf4ee",
-      "title": "消息称奇瑞考虑将海外品牌 OMODA、JAECOO 转入国内市场，以提振国内销量",
-      "summary": "IT之家 9 月 20 日消息，据雷峰网从多个独立信源处获悉，奇瑞正在酝酿将海外品牌 OMODA、JAECOO 转入国内市场，以提振国内销量。据透露，奇瑞这一想法源自国内销量承压，而海外销量持续走高，因此考虑将表现较好的海外品牌引入国内销售。目前，负责该业务的营销团队正在搭建，新品牌预计定位高端市场。据悉，奇瑞已接触多位曾服务过 BBA 等豪华品牌的专业人士。OMODA 和 JAECOO 是奇瑞汽车为全球市场打造的双子星品牌（海外常统称为 O&J 品牌）。今年 4 月，OMODA & JAECOO 宣布全球累计销量已突破 100 万辆。据IT之家此前报道，奇瑞集团 8 月汽车销量 280,12",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/947.htm"
-    },
-    {
-      "id": "3e103df8-2d23-8187-aafa-e2348e467345",
-      "title": "Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs",
-      "summary": "“This is a place where you can come and say, I fucking hate my dog today,” a Dogs Anonymous cofounder tells WIRED. “And there are people who are going to be like, yeah, that was me last Tuesday.”",
-      "source": "Wired",
-      "publishTime": "2026-09-20",
-      "link": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/"
-    },
-    {
-      "id": "3e103df8-2d23-81d6-a628-e2eff3c908dc",
-      "title": "光驱供应链萎缩，PS Audio 与 Naim 高端 CD 播放器被迫停产",
-      "summary": "IT之家 9 月 20 日消息，不少音响发烧友至今依然偏爱 CD、黑胶这类实体介质，而不是流媒体音乐，尤其对于那些希望真正拥有音乐的爱好者而言，这也正是这类实体音乐载体销量重新回暖的原因。不过，部分 Hi‑Fi 音响品牌正遭遇一个棘手难题：主流电脑已经不再内置光驱，这直接导致核心零部件的供应链逐渐萎缩。音响资讯网站 Headphonesty 消息称，Naim 的 Uniti Star 以及 PS Audio 的 PMG 超级音频 CD 转盘已经停产，原因是供应商不再生产这两款设备所需的光驱硬件。遗憾的是，两家企业都很难找到这些停产零部件的替代方案。“适配 PMG 机型的光驱已经买不到了。”PS",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/946.htm"
-    },
-    {
-      "id": "3e103df8-2d23-8184-8dd7-e5d5f7b683eb",
-      "title": "牙齿化石揭秘霸王龙体温：约 36.3℃，与现代大象相当",
-      "summary": "IT之家 9 月 20 日消息，在上个世纪的大部分时间里，霸王龙（T. rex）在人们的印象中是行动迟缓、拖着尾巴爬行的爬行动物；外出活动之前，它还需要晒晒太阳提升体温。之后，进一步的研究推翻了这种看法，《侏罗纪公园》电影向大众呈现出一种行动活跃、类似鸟类的形象。但霸王龙是否依靠恒温的热血为这种活动提供能量，长期以来始终是一道谜题。如今，我们距离答案或许更近了一步。由加州大学洛杉矶分校的地球化学家兰登 ·J· 弗洛雷斯（Randon J. Flores）与罗伯特 ·A· 伊格尔（Robert A. Eagle）牵头的研究团队，通过分析霸王龙的牙齿，完成了对其体温的测算。这套“牙齿测温计”测出霸",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/944.htm"
-    },
-    {
-      "id": "3e103df8-2d23-814c-bb05-d1d96894930b",
-      "title": "二手车鉴定评估技术规范国标将新增泡水 / 火烧事故专项鉴定标准、新能源汽车三电系统鉴定内容等",
-      "summary": "IT之家 9 月 20 日消息，中国汽车流通协会今日公开，9 月 15 日，由中国汽车流通协会主办的《二手车鉴定评估技术规范》国家标准修订研讨会暨鉴定评估技术交流会在浙江杭州顺利举行。会上，中国汽车流通协会二手车事业部标准负责人刘晓东介绍了本次修订的核心框架。修订工作将围绕五大维度展开：一是重构事故车判定逻辑与分级体系；二是新增泡水、火烧事故专项鉴定标准；三是增设新能源汽车三电系统鉴定内容；四是规范优化鉴定评估全流程管理；五是拓宽标准适用场景。中国汽车流通协会二手车鉴定评估分会负责人李鸿对“事故车判定标准越严越好”这一认知偏差进行了纠偏。他指出，事故车判定在流通领域中具有类似“计量”属性的标准",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/945.htm"
-    },
-    {
-      "id": "3e103df8-2d23-81b6-acf7-d56c2f3bc159",
-      "title": "荣耀 MagicOS 11“调音大师”功能上线：支持 10 段 EQ 精细调节、可保存 4 组自定义音效",
-      "summary": "IT之家 9 月 20 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日宣布，MagicOS 11「调音大师」功能上线。首批支持机型：荣耀 Magic8 RSR 保时捷设计、Magic8 Pro、Magic 8、Magic7 RSR 保时捷设计、Magic7 Pro、Magic7、GT Pro，更多机型陆续适配中。10 段 EQ 精细调节，低音 / 人声还能一键增强预设 5 组音效：震撼低音、清澈人声、通透高音、动感 BGM、悠扬听书支持保存 4 组自定义调节的音效荣耀 MagicOS 11 操作系统已于 9 月 15 日正式发布，IT之家附荣耀 MagicOS 11 亮点如下：相关阅读：《荣耀",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/943.htm"
-    },
-    {
-      "id": "3e103df8-2d23-815d-84e3-f083d1d0f377",
-      "title": "It’s Donald Trump Versus MAGA on Data Centers",
-      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
-      "source": "Wired",
-      "publishTime": "2026-09-20",
-      "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/"
-    },
-    {
-      "id": "3e103df8-2d23-813d-95f9-eb89f216a875",
-      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
-      "source": "Wired",
-      "publishTime": "2026-09-20",
-      "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/"
-    },
-    {
-      "id": "3e103df8-2d23-8106-b20a-cf38f066a03d",
-      "title": "Stock compensation gives Big Tech workers a powerful reason to stay. Layoffs and the AI boom are changing the equation.",
-      "summary": "Big Tech workers say stock compensation can make leaving difficult, but layoffs, AI startups, and years of stock gains are changing the calculus.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-20",
-      "link": "https://www.businessinsider.com/big-tech-stock-compensation-golden-handcuffs-equity-google-apple-microsoft-2026-9"
-    },
-    {
-      "id": "3e103df8-2d23-8138-ad73-d56c56a8b734",
-      "title": "雷军宣布明日直播：聊聊小米澎程发布这些天的进展和感受，打算自己搭一次帐篷",
-      "summary": "IT之家 9 月 20 日消息，小米创办人，董事长兼 CEO 雷军今日表示，小米澎程正式发布快两周，说实话，大家的热情，远超我们的想象。雷军宣布明晚（9 月 21 日） 7 点，计划办一场直播，跟大家一起聊聊这两周的进展和感受。直播地点，选在一个露营地，打算自己搭一次帐篷。据IT之家此前报道，小米澎程系列于 9 月 7 日发布，售价 20.99 万元起：小米澎程 N70 Pro：20.99 万元小米澎程 N70 Max：23.99 万元小米澎程 N90 Max：26.99 万元小米澎程 N90 Max 探索版：29.99 万元9 月 12 日，雷军现身江苏徐州的首批车主交付现场，为车主开车门、",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/942.htm"
-    },
-    {
-      "id": "3e103df8-2d23-8103-93c4-fad7a53456f4",
-      "title": "安全可靠等级 Ⅲ 级：龙芯 3A6000 (C)/3C3000、华为鲲鹏 950 通过中国信息安全测评中心认证",
-      "summary": "IT之家 9 月 20 日消息，中国信息安全测评中心、国家保密科技测评中心今日发布了安全可靠测评结果公告（2026 年第 3 号），其中龙芯 3A6000 (C)、龙芯 3C3000 和鲲鹏 950 中央处理器通过认证，安全可靠等级达到 Ⅲ 级。据介绍，安全可靠测评主要面向计算机终端和服务器搭载的中央处理器（包括含人工智能加速单元的中央处理器）、人工智能训练推理芯片、操作系统、数据库，以及激光或喷墨打印机搭载的主控芯片。通过对产品及其研发单位的核心技术、安全保障、持续发展等方面开展评估，评定产品的安全性和可持续性，实现对产品研发设计、生产制造、供应保障、售后维护等全生命周期安全可靠性的综合度量",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/932.htm"
-    },
-    {
-      "id": "3e103df8-2d23-8195-82e8-f8e4c04de9ca",
-      "title": "华为旗下控股公司引望：将一如既往支持问界发展，全力保障用户服务与体验",
-      "summary": "IT之家 9 月 20 日消息，引望智能技术有限公司今日发布公告，回应最近网络热议的问界合作事项，表示将一如既往支持好问界的发展，并与问界一起全力保障用户的服务与体验。IT之家附全文如下：持续推进问界产品智能化升级 充分保障用户智能化服务与体验近期，引望收到不少与问界后续合作的问询，也有用户关心升级及服务保障等问题。赛力斯是引望战略合作伙伴和股东。引望持续把乾崑智驾、鸿蒙座舱、智能车控、智能车载光、智能车云等解决方案销售给赛力斯，并提供技术支持服务。引望将一如既往支持好问界的发展，并与问界一起全力保障用户的服务与体验。引望将持续把行业领先的智能汽车解决方案应用于问界并不断迭代升级，提升问界产品",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/918.htm"
-    },
-    {
-      "id": "3e103df8-2d23-81f0-baed-fd44291117da",
-      "title": "广汽集团柬埔寨 KD 工厂投产下线：实现本地制造，规划年产能达万台规模",
-      "summary": "IT之家 9 月 20 日消息，广汽集团今日宣布，其与 TH 集团合作建设的柬埔寨 KD 工厂正式投产下线。这也标志着广汽在柬埔寨的发展从“整车出口”迈入“本地制造”新阶段。柬埔寨 KD 工厂采用广汽输出整车套件、技术标准与全链条技术支持，TH 集团负责工厂投资建设与整车组装的模式。其规划年产能达万台规模，将投产影速、影酷、GS8 和 GN8 等多款市场主流车型。柬埔寨首相洪玛奈在致辞中表示，广汽 KD 工厂的正式投产，是柬埔寨政府推进产业转型的重要成果，将助力柬埔寨从劳动密集型产业向资本、先进技术、高技能驱动产业升级，带动本土产业发展，提升国民经济附加值，培育新的经济收入来源。广汽计划紧跟柬",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/913.htm"
-    },
-    {
-      "id": "3e103df8-2d23-8128-bf89-d48d61f00098",
-      "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
-      "summary": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
-      "source": "Wired",
-      "publishTime": "2026-09-20",
-      "link": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/"
-    },
-    {
-      "id": "3e103df8-2d23-81da-a141-d36006d942b6",
-      "title": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
-      "summary": "“You know ‘Bang Bus’? We don’t want that.”",
-      "source": "Wired",
-      "publishTime": "2026-09-20",
-      "link": "https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/"
-    },
-    {
-      "id": "3e103df8-2d23-81c7-a95e-c65e6c29f648",
-      "title": "A 60-year-old took out student loans to help her kids succeed. She's facing retirement with a $156,000 balance.",
-      "summary": "She doesn't have a college degree of her own, but she's staring down a six-figure student-loan balance she took on to give her kids a better life.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-20",
-      "link": "https://www.businessinsider.com/mom-postponing-retirement-student-loan-debt-parent-plus-save-repayment-2026-9"
-    },
-    {
-      "id": "3e103df8-2d23-818a-aaa2-f362a015bf9f",
-      "title": "ATK YOGO 75 矮轴键盘国行发售：标准版 599.25 元、PRO 版 699.55 元",
-      "summary": "IT之家 9 月 20 日消息，ATK 即将于今晚 20:00 正式发售 YOGO 75 系列键盘。其搭载矮款机械开关，支持三模五设备连接，轮询率 1000Hz，兼容 Windows、macOS、Linux 与 Android 操作系统。YOGO 75 标准版仅可选银色-流云轴，到手价 599.25 元；PRO 版则可选银 / 黑 / 黄 3 色、流云轴 / 粉孤岛 Mini 轴，到手价 699.55 元。其 PRO 版在解锁更丰富的配色、轴体选择的同时在右侧额外提供了像素点阵屏、音量旋钮、多功能媒体键，且定位板从 PC 材质升级至 FR4 材质开槽工艺。天猫 ATK YOGO 75 系列 键",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/911.htm"
-    },
-    {
-      "id": "3e103df8-2d23-81d1-99b8-d9e87ae563a1",
-      "title": "稳坐“东风”、覆盖全球，网易《逆水寒：新世界》官宣联动《军工文创》",
-      "summary": "IT之家 9 月 20 日消息，网易《逆水寒：新世界》今日官宣与《军工文创》联动，4.1.4 版本将在 9 月 24 日正式上线。在联动活动期间，游戏内将限时开启祈福活动。让玩家们通过送祝福、完成任务获取 —— 小镇建筑「守望台」、东风守愿灯、背挂【东风 · 守疆】、轻功皮肤、联动称号、联动独珍装备、主页贴纸、主页闪词等。玩家还可以根据呼吸页上标注的开放日期，点击「送祝福」，选择“山河无恙，人间皆安”、“愿万家灯火，永不熄灭”等祝福语，亲手送出祝福、祈愿和平与安康。其中，10 月 1 日当天通过送祝福获得的奖励道具【和平祈愿灯 · 东风化灯】，还可让玩家们放飞漫天金色祈愿灯，同所有玩家一起心怀",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/912.htm"
-    },
-    {
-      "id": "3e103df8-2d23-8123-8816-f5ed24675a92",
-      "title": "iQOO Pad Ultra 平板预热：5.74mm 全金属机身，8.8 英寸仅重 298g",
-      "summary": "IT之家 9 月 20 日消息，iQOO Pad Ultra 平板将于 9 月 29 日 19:00 发布。据介绍，该产品采用 5.74mm 全金属机身，8.8 英寸机身仅 298g。行业超大主动散热风扇藏于方寸，机械律动若隐若现。该产品至高 500Hz 多指触控采样率、至高 5000Hz 瞬时触控采样率，全新一代超感触控，全新一代超感陀螺仪。新品配备对称式超线性双扬声器、双 X 轴线性马达。这款新平板内置风扇，尺寸为 30×30×3.5mm、散热面积 1661mm²、最大转速 14500rpm、最大风量 0.94 CFM。新机还有两款配件，包括拉伸式游戏手柄和背部握把。参考IT之家此前报道，",
-      "source": "IT之家",
-      "publishTime": "2026-09-20",
-      "link": "https://www.ithome.com/1/004/910.htm"
-    },
-    {
-      "id": "3e103df8-2d23-81d5-a79c-c8020f57b43f",
-      "title": "I’m a KPMG forward-deployed engineer. AI has moved my job beyond writing code.",
-      "summary": "Justin Johnsen, now a forward deployed engineer at KPMG, has been at the firm for six years. He says a lot has changed in the past year.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-20",
-      "link": "https://www.businessinsider.com/how-kpmg-fde-uses-ai-work-clients-2026-9"
     }
   ],
   "macroEvents": [
