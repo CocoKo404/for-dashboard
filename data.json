@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-09-20 07:18",
+  "updatedAt": "2026-09-20 09:21",
   "news": [
+    {
+      "id": "3e003df8-2d23-813a-b297-f87f785c4df5",
+      "title": "Steam Frame 头显首个 SteamOS 更新上线：提升充电速度、增强手柄追踪效果",
+      "summary": "IT之家 9 月 20 日消息，V社现已为 Steam Frame 头显推送首个 SteamOS 更新（版本号 0.3.0）。本次更新提升了充电速度，并在控制器追踪、系统稳定性等方面带来改进，加入 Vulkan、Mesa 等修复，提升游戏兼容性。IT之家了解到，本次更新发布于 9 月 18 日。用户将手中的 Steam Frame 更新后，可在关机或休眠状态下获得更快的充电速度。同时，本次更新解决了多个问题。开启触觉反馈后，手柄的追踪效果得到改善，系统在高负载情况下的稳定性和可靠性也有提升，麦克风杂音问题已经修复。V社本次还优化了《半衰期：Alyx》游戏的运动平滑功能，新增显示仪表板时调暗游戏",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/587.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81cb-bf14-d1a06cf479fb",
+      "title": "雷克萨斯 RX 中期改款车型渲染图曝光：外观内饰焕新，顶配 Morizo RR 有望达 600 马力",
+      "summary": "IT之家 9 月 20 日消息，第五代雷克萨斯 RX 即将迎来上市 4 周年，雷克萨斯目前据称正在准备其中期改款车型。新车预计对内外设计进行调整，并加入部分技术升级，以延续这款中大型豪华 SUV 的市场竞争力。外媒 AutoEvolution 援引消息源 AutoYa 制作的渲染图，透露改款 RX 最大的变化集中在车头。该车标志性的纺锤形格栅进行了重新设计，尺寸有所缩小，并在保险杠中部加入一条横向饰条，牌照区域也整合在其中。两侧进气口尺寸进一步增大，并采用三角形设计。雷克萨斯 Logo 则上移至两侧经过调整的大灯之间，保险杠下方还增加了较为低调的前唇。IT之家注意到，改款 RX 车身侧面基本延",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/586.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81d2-8840-e313dbccf14b",
+      "title": "Olight 推出 ArkTac 系列专业手电筒：至高提供 1800 流明亮度、内置紫外线灯 / 绿色激光功能",
+      "summary": "IT之家 9 月 20 日消息，据外媒 NoteBook Check 报道，制造商 Olight 在 O Fan Day 活动上推出了全新 ArkTac 系列 2，其中包括定位硬核用户的 ArkTac Ultra 以及面向普通用户的 ArkTac。两款产品均采用扁平化机身和多光源设计，其中 Ultra 版进一步加入激光、红光和紫外线等光源，并采用全新的 OAL2 铝合金一体式机身。ArkTac Ultra 的整体设计延续了先前 ArkPro 的风格，最高亮度达到 1800 流明，正面控制区域也基本保持一致。Olight 同步对状态指示灯进行了升级，新增 3 个低亮度指示灯，即使在黑暗环境中也能",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/585.htm"
+    },
+    {
+      "id": "3e003df8-2d23-812b-8881-cd52c7b798d4",
+      "title": "37 位浙江渔民自筹 1.5 亿建造：国内首艘民资科考船投用在即，“海鹰加科”号开启试航",
+      "summary": "IT之家 9 月 20 日消息，据温岭发布消息，2026 年 9 月 19 日上午 9 时许，中国首艘民资建造科考船“海鹰加科”号科考船驶离石塘镇粗沙头码头，向台州沿海海域进发。这艘由温岭 37 位渔民众筹 1.5 亿元建造的 3500 吨级海洋科考船，从这一天起，开启计划为期六天的海上“大考”。按照计划，9 月 19 日，开展第一阶段的设备及性能试验；9 月 20 日至 24 日，试航进入第二阶段 ——DP2 动力定位系统试验。IT之家注：这艘由民间资本投资约 1.5 亿元建造的科考船总长 82 米，计划满载排水量 3500 吨，续航力可达 10000 海里，自持力大于 60 天，拥有全球无",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/584.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8146-999d-dbd1d768c4f1",
+      "title": "微软紧急发布补丁，修复 Win11/Win10 系统 Defender 报停用 Bug",
+      "summary": "IT之家 9 月 20 日消息，据科技媒体 Windows Latest 昨天报道，微软本周发布紧急补丁，修复 Win11 和 Win10 持续近两个月的“Microsoft Defender 已停用”错误提示。据报道，该问题最早出现于今年 8 月初。部分用户的 Windows 安全中心会频繁弹出推送通知，称 Microsoft Defender 已停用并要求重新开启。然而当用户真正打开安全中心后才发现，防护功能一直都是正常开着的。微软表示，该误报问题影响了 Windows 11、Windows 10 和 Windows Server 所有版本。该问题已在 9 月 17 日发布的 Micros",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/583.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81b6-b4a4-dd7160b4d2b8",
+      "title": "苹果 iPhone 18 Pro DXOMARK 影像测试结果出炉：总分 172 位列全球第二，仅次华为 Pura 80 Ultra",
+      "summary": "IT之家 9 月 20 日消息，DXOMARK 现已公布苹果 iPhone 18 Pro 相机评分，该机获得 172 分，位列全球第二，仅次于华为 Pura 80 Ultra。尽管 iPhone 18 Pro 在低光拍摄和视频防抖方面表现突出，但长焦、远距离变焦以及部分场景下的色彩表现仍存在不足，因此未能登顶。作为参考，华为 Pura 80 Ultra 以 175 分排名第一，该机自 2025 年 8 月以来一直占据榜首位置。DXOMARK 表示，低光拍摄是 iPhone 18 Pro 的优势项目之一，其低光测试得分达到 150 分，为当前榜单最高。测试显示，该机在复杂光线环境下能够保留较丰富",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/582.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81a3-be9c-cd9d2ff6f21a",
+      "title": "游戏《漫威金刚狼》厕所标识贴图异常引发玩家争议，官方否认使用生成式 AI",
+      "summary": "IT之家 9 月 20 日消息，据外媒 Insider Gaming 报道，近期有玩家发现《漫威金刚狼》中一处厕所标识存在异常，其中男性图案一侧看起来像有两个人形重叠，因此有玩家怀疑该素材由生成式 AI 制作。对此，Insomniac Games 社区总监 James Stevenson 在 X 平台回应称，这是一项 UV 贴图错误，团队已经准备修复。他同时强调，《漫威金刚狼》中不存在 AI 生成素材。部分用户随后对这一解释提出质疑。有人认为，平面标识出现这种问题很难仅用 UV 贴图错误解释，也有人绘制了简易贴图示意图，试图说明相关图案可能确实只是 UV 错误。目前 Insomniac Gam",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/581.htm"
+    },
+    {
+      "id": "3e003df8-2d23-813f-9313-eddffce38f99",
+      "title": "小米折叠屏手机历史最高：消息称 Xiaomi 18 Fold 开售 7 天销量近 8 万台",
+      "summary": "IT之家 9 月 20 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，小米 18 Fold 开售 7 天的销量接近 8 万台，是小米历史首销 7 天销量最高的折叠屏手机，也是今年折叠品类销量截至目前开售 7 天仅次于华为的机型。据IT之家此前报道，该博主在 9 月 12 日曝光了小米 18 Fold 中折叠手机首销日销量情况 —— 开售当日的销量约为 3.6 万台。博主认为，作为万元起售的机器表现还可以。小米 18 Fold 中折叠手机发布于 9 月 7 日，9 月 10 日正式开售，售价 10999 元起。小米集团副总裁、小米集团 CMO 许斐 9 月 8 日发文透露，小米",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/580.htm"
+    },
+    {
+      "id": "3e003df8-2d23-810d-a6de-d190f9e38e92",
+      "title": "分析师：苹果“拆分 iPhone 18 发布节奏”策略已奏效，部分用户转购 Pro 机型",
+      "summary": "IT之家 9 月 20 日消息，苹果今年改变了传统的 iPhone 秋季发布节奏，仅推出 iPhone 18 Pro 系列机型及首款折叠屏手机 iPhone Duo。而标准版 iPhone 18、定位更低的 iPhone 18e 以及 iPhone Air 2 预计将推迟至明年春季发布。对此，分析公司 Deepwater Asset Management 管理合伙人兼联合创始人、前 Piper Jaffray（现 Piper Sandler）分析师 Gene Munster 发文，认为苹果拆分 iPhone 18 系列发布节奏的策略正在发挥作用。具体来看，在 iPhone 18 Pro 系列上",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/579.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8183-b1f3-c61220c0c220",
+      "title": "燃油价格创历史新高后，美国车主对电动汽车兴趣大增",
+      "summary": "IT之家 9 月 20 日消息，据汽车媒体 CarBuzz 昨天报道，美国政府对电动汽车的立场十分矛盾。一方面，共和党上台后取消了电车税收优惠，采用更加宽松的排放标准。另一方面，美伊冲突迫使普通人重新考虑电车。据报道，中东局势使燃油价格受到严重冲击。美国加油站的柴油价格已经大幅超过 6 美元（IT之家注：现汇率约合 40.3 元人民币）/加仑、普通汽油价格略高于 4.30 美元（现汇率约合 28.9 元人民币）/加仑。约等于柴油 1.59 美元（现汇率约合 10.7 元人民币）/升，汽油 1.14 美元（现汇率约合 7.7 元人民币）/升。据 Here Technologies 与 SBD A",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/578.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8117-9e58-dbc0e8a9cd87",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "source": "BBC Tech",
+      "publishTime": "2026-09-20",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3e003df8-2d23-81b7-b75c-fa0d695d9989",
+      "title": "Monet Launcher 启动器发布，专门面向 Android TV 智能电视大屏环境优化",
+      "summary": "IT之家 9 月 20 日消息，据外媒 XDA 报道，近期一款名为 Monet Launcher 的安卓启动器上架 Google Play 商店，该启动器专门针对 Android TV 智能电视进行优化，号称能够在功能和界面设计之间取得一定平衡。在 UI 方面，该启动器采用带有光泽感的圆角矩形应用图标，所有应用和设置选项以类似苹果 Apple TV 风格横向排列方式展示。用户可以将最常使用的应用放置在顶部的收藏栏，也可以将应用固定到屏幕右上角的 Status Bar 中，或者添加到媒体卡片下方的收藏栏。此外，Monet Launcher 还支持媒体卡片功能，可以显示用户此前观看的内容，用户可以",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/577.htm"
+    },
+    {
+      "id": "3e003df8-2d23-810f-a0c6-e351aaa2651c",
+      "title": "苹果 M6 芯片 GPU 跑分曝光，相比 M5 提升约 20%",
+      "summary": "IT之家 9 月 20 日消息，苹果 M6 芯片近日出现在 Geekbench 跑分数据库中，其 12 核 CPU 分别录得 4071 分、22783 分的单核 / 多核成绩，已经能够在多核方面追平 M3 Max。如今，苹果 M6 的 GPU 跑分成绩已经出现在 Geekbench 平台。在 Metal 基准测试中，该芯片的 12 核 GPU 录得 92000 分成绩。作为对比，M5（IT之家注：MacBook Air,15\"）的 10 核 GPU 跑分约为 76530 分，M6 芯片的性能提升约 20.2%。上述 GPU 性能提升十分明显。但由于 Metal API 为苹果独有，我们无法将该",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/576.htm"
+    },
+    {
+      "id": "3e003df8-2d23-8162-a1d0-f7d8d60f9000",
+      "title": "R 星《GTA6: The Album》官方原声专辑上线，官方同步放出多张全新艺术插画",
+      "summary": "IT之家 9 月 20 日消息，R 星近日正式公布《GTA6: The Album》官方原声专辑，宣传物料同步放出露西娅与杰森多张全新艺术插画。本专辑由 R 星联合大西洋唱片制作，一共收录 34 首原创曲目，Travis Scott、Yung Lean、Keith Richards、Future、Metro Boomin 等众多音乐人参与创作。官方已提前放出 6 首单曲，可直接在各大流媒体平台收听。IT之家附苹果 Apple Music 美国区地址（点此访问）。随专辑宣传物料放出的全新主角插画，延续《GTA6》标志性粉橙霓虹色调，搭配棕榈树、罪恶城天际线元素。多张画面展示露西娅和杰森持枪、倚靠",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/575.htm"
+    },
+    {
+      "id": "3e003df8-2d23-81c9-bf0e-f550300e4139",
+      "title": "HBO Max 官方 Reddit 账号遭黑客入侵，针对苹果 Mac 用户发起 ClickFix 钓鱼攻击",
+      "summary": "IT之家 9 月 20 日消息，据外媒 borncity 报道，近期有黑客攻击者入侵了 HBO Max 官方 Reddit 账号，并利用该账号针对 Mac 用户开展一场持续约 48 小时的 ClickFix 钓鱼活动。公开信息显示，HBO Max 是华纳兄弟旗下的视频点播服务，于 2026 年 1 月 13 日起正式登陆德国市场，提供电视剧、电影以及华纳兄弟自制内容。不过事实上这些服务的官方账号通常是由外包运营公司操作。外媒表示，攻击者控制 HBO Max 官方 Reddit 账号后，在 Reddit 上投放了大量恶意广告。其中一则广告会将用户引导至一个高度仿真的 HBO Max 页面。页面中",
+      "source": "IT之家",
+      "publishTime": "2026-09-20",
+      "link": "https://www.ithome.com/1/004/574.htm"
+    },
     {
       "id": "3e003df8-2d23-8115-b868-c38c715c4b9d",
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
@@ -280,126 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-09-19",
       "link": "https://www.ithome.com/1/004/562.htm"
-    },
-    {
-      "id": "3e003df8-2d23-81ea-8d04-e337a6a73235",
-      "title": "比亚迪第二代腾势 D9 车型 OTA 升级，AI 超级智能体“迪迪虾”上新",
-      "summary": "IT之家 9 月 19 日消息，比亚迪第二代腾势 D9 OTA 于近日焕新升级，AI 超级智能体“迪迪虾”上新。IT之家整理如下：新增迪迪虾智能搭子，焕新上线。一站式解锁五大新功能，支持 7 分屏和全屏设置。新增生态智能体服务吃喝玩乐，支持听音乐、刷视频、点外卖、订酒店。新增迪迪虾“AI 空间”功能沉浸式陪聊，语音唤醒即刻交互。新增迪迪虾“人设”功能，专属智能搭子随心定义。新增迪迪虾“技能”功能技能随心搭配，打造专属空间。新增迪迪虾“记忆”功能，声纹注册后，记住你的偏好、习惯和重要事项。新增导航智能体服务复杂行程，多地点复杂路线轻松规划，路线攻略查询直达导航。IT之家注意到，迪迪虾已接入大量生",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/561.htm"
-    },
-    {
-      "id": "3e003df8-2d23-81aa-afd0-cb127ffa9852",
-      "title": "“工作垃圾”飞来飞去，曾大力拥抱 AI 的科技大佬开始“踩刹车”了",
-      "summary": "IT之家 9 月 19 日消息，当地时间 17 日，据《财富》杂志网站报道，曾经把 AI 吹捧为释放员工全部潜力关键的科技行业领导者，正开始逐渐改变说法。Shopify 联合创始人兼 CEO 托比亚斯 · 吕特克就是其中之一。去年，他还要求员工把使用 AI 当作基本要求，在申请更多资源之前，先证明现有工作无法通过 AI 完成。时间来到现在，吕特克开始批评员工把未经检查的 AI 邮件和代码直接交出去，却不愿为粗糙的结果负责。“我们把这种东西叫作‘垃圾手榴弹’，人们把它们互相扔来扔去。这绝对是一件坏事。”吕特克指出，让 AI 彻底放开手脚很容易，但滥用 AI 只会把麻烦转嫁给接收和审核工作的人。比",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/560.htm"
-    },
-    {
-      "id": "3e003df8-2d23-81ee-b701-ca35d0080e6c",
-      "title": "649 美元的“第二设备”，Clicks Communicator 全键盘手机 12 月发货",
-      "summary": "IT之家 9 月 19 日消息，Clicks 首款智能手机 Clicks Communicator 定于 12 月开始发货，时间点距离在 CES 2026 首次亮相接近一年。正式上市前，量产版机型迎来了多项规格升级，但价格也将在 10 月 1 日上调。目前，用户仍可按原价 499 美元（IT之家注：现汇率约合 3,350 元人民币）预约，10 月 1 日之后售价将涨至 649 美元（现汇率约合 4,357 元人民币）。Communicator 的内存从原定的 8GB 增加至 12GB，电池容量则从 4000mAh 提升到 4350mAh，标称可承受超过 800 次充电循环。新机出厂搭载 And",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/559.htm"
-    },
-    {
-      "id": "3e003df8-2d23-81f0-8760-f529259f82be",
-      "title": "璇玑动力中型智能四足机器人全球首发：最大陡坡攀爬 45°，支持自动充电",
-      "summary": "IT之家 9 月 19 日消息，璇玑动力中型智能四足机器人及智能技术全球首发，正式推出 Hypertron-SW01 泛行业中型智能四足机器人。IT之家从官方介绍获悉，全新 AT-S240 关节电机模组，为 Hypertron-SW01 注入强劲动力，机身稳如泰山，持续高负载输出不过载、不过热。峰值扭矩 240N·m，最大站立荷载 120Kg，最大行驶速度 8m/s，全地形运动荷载 40Kg。Hypertron-SW01 搭载多模态融合感知系统与自研智能运控算法，可实时识别路况，动态调节步态、自适应切换模式，最大陡坡攀爬 45°，连续爬楼单阶高度 25cm，极限越障高度 100cm，支持全地形",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/558.htm"
-    },
-    {
-      "id": "3e003df8-2d23-81ea-96ad-cd91685ea093",
-      "title": "The AI regulation smackdown isn’t over",
-      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic",
-      "source": "The Verge",
-      "publishTime": "2026-09-19",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over"
-    },
-    {
-      "id": "3e003df8-2d23-811d-8b54-c1c99b71ae68",
-      "title": "It’s not just LG. Every TV company is spying on you",
-      "summary": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned i",
-      "source": "The Verge",
-      "publishTime": "2026-09-19",
-      "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying"
-    },
-    {
-      "id": "3e003df8-2d23-81c0-bb4c-d4750b092946",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-19",
-      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
-    },
-    {
-      "id": "3e003df8-2d23-8145-a776-eb7a6ebd7956",
-      "title": "中国空间站稳定运行五年，我国航天健康保障体系总体达到国际先进水平",
-      "summary": "IT之家 9 月 19 日消息，今天（19 日）晚间的央视《新闻联播》报道，中国空间站稳定运行五年来，我国航天健康保障体系总体达到国际先进水平，空间站长期驻留保障能力持续提升。今天召开的我国首届航天医学工程大会介绍，我国已构建了“失重防护 — 营养保障 — 医监医保 — 心理保障 — 环境安全”五位一体的航天健康保障体系，总体达到国际先进水平。在生命保障系统方面，我国正致力于构建更先进、可持续的生命保障体系，逐步实现从“物化再生生保”向“受控生态生保”的技术跨越。用于载人登月任务的“望宇”登月服以轻量化、小型化、高安全可靠为目标，突破数十项关键技术，为月面复杂环境下的出舱活动提供坚实保障。在空",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/556.htm"
-    },
-    {
-      "id": "3e003df8-2d23-81cc-a60e-e85eba3d51a7",
-      "title": "消息称新能源车险定价区间对标燃油车，保费将走向“一车一价”",
-      "summary": "IT之家 9 月 19 日消息，据中新经纬从业内了解到，新能源商业车险自主定价系数区间预计调整为 0.5-1.5，与燃油车保持一致。IT之家此前曾报道，2025 年 1 月，国家金融监督管理总局等四部门发布《关于深化改革加强监管促进新能源车险高质量发展的指导意见》，明确提出对新能源商业车险自主定价系数浮动范围进行合理优化。2025 年 9 月，新能源车险自主定价系数由 0.65-1.35 调整为 0.6-1.4；2026 年 3 月再次调整至 0.55-1.45。据悉，燃油车现行商业车险自主定价系数区间为 0.5-1.5。这意味着险企在基准保费基础上，自主定价系数最低可至 0.5、最高可至 1",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/557.htm"
-    },
-    {
-      "id": "3e003df8-2d23-814f-8bbc-ea76ef86a10f",
-      "title": "I changed careers at 55 to become a flight attendant. I didn't expect my age to be such an advantage.",
-      "summary": "Craig Celek became a flight attendant in his mid-50s. He said being a Gen-Xer made him the perfect airline employee because of his life experience.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/flight-attendant-midlife-career-change-2026-9"
-    },
-    {
-      "id": "3e003df8-2d23-811a-b1fd-dfb391688a95",
-      "title": "达尔优 A5 头戴式游戏耳机发布：CS / 三角洲行动 / 竞技模式一键切换，预售 369 元起",
-      "summary": "IT之家 9 月 19 日消息，达尔优 A5 头戴式游戏耳机今日发布，9 月 21 日 20:00 全平台开售，Pro 版预售 369 元，Max 版 459 元。IT之家从商品页面获悉，该产品由首席体验官、百大 UP 主老飞宇 66 联合共创，采用 30000mm³ 独立大音腔，鲸腔声学结构；支持 DMA 2.0，达尔优大师音效全新升级；自研玄听 5.1 芯片，封装 HIFI 级、DAC、DSP。此外，该产品还支持《三角洲行动》《CSGO》《瓦洛兰特》特调以及通用竞技模式，搭配高清 ENC 降噪麦克风，配备人体工学多功能按键。该产品配备磁吸 RGB 灵眸底座，可显示电量、EQ、连接状态，支持",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/555.htm"
-    },
-    {
-      "id": "3e003df8-2d23-81fd-bed8-cbae73ab027d",
-      "title": "批评 3A 游戏“无聊”却误伤《战神：劳菲》，前顽皮狗游戏总监发长文致歉",
-      "summary": "IT之家 9 月 19 日消息，据外媒 VGC 今天（19 日）晚间报道，曾执导《最后生还者》《神秘海域 2》和《神秘海域 4》的前顽皮狗游戏总监布鲁斯 · 斯特拉利，因近期批评 3A 游戏现状的言论，向索尼圣莫尼卡工作室《战神：劳菲》团队致歉。斯特拉利曾在顽皮狗工作 18 年，其间担任《最后生还者》及《最后生还者：遗落》DLC 游戏总监、《神秘海域》联合艺术总监，并先后执导《神秘海域 2》和《神秘海域 4》。斯特拉利最近接受《Edge》杂志采访时谈到 3A 游戏现状，坦言自己很难再对这些游戏提供的体验产生兴趣。“我觉得 3A 游戏提供的玩法和体验…… 说实话，挺无聊的。”随后，斯特拉利以圣莫",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/542.htm"
-    },
-    {
-      "id": "3e003df8-2d23-8148-8e56-c4e03c6f1161",
-      "title": "联想 CEO 杨元庆个人捐建，中国科大“周光召楼”正式开工",
-      "summary": "IT之家 9 月 19 日消息，据联想集团，9 月 19 日，由杨元庆个人捐资建设并命名的中国科学技术大学少年班学院“周光召楼”正式培土奠基。联想集团董事长兼 CEO、中国科大校董、计算机科学系 89 届校友杨元庆重返母校，与中国科大党委书记舒歌群、校长常进等共同挥锹，为“周光召楼”培下第一锹土。IT之家注：周光召（1929 年 5 月 15 日 —2024 年 8 月 17 日），中国科学院院士，理论物理学家。1958 年在国际上首先提出粒子的螺旋态振幅，并建立了相应的数学方法。1960 年推导出赝矢量流部分守恒定理（PCAC），成为国际公认的 PCAC 的奠基者之一。1999 年被授予“两",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/541.htm"
-    },
-    {
-      "id": "3e003df8-2d23-81cd-82be-fde7e60a2e2e",
-      "title": "My 3 kids are all enrolled at the same college. Knowing they're together helps, but I'm still struggling with my empty nest.",
-      "summary": "My youngest kid just enrolled at Fordham, the same college my older twins attend. I love that they have each other, but I feel alone in my empty nest.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-19",
-      "link": "https://www.businessinsider.com/kids-enrolled-same-college-mom-struggling-empty-nest-2026-9"
-    },
-    {
-      "id": "3e003df8-2d23-81de-ad95-e09675556975",
-      "title": "消息称大众加大保时捷裁员力度，拟再裁逾 4000 人填补约 7 亿欧元成本缺口",
-      "summary": "IT之家 9 月 19 日消息，当地时间 19 日，德国《商报》发布消息称，大众汽车集团准备进一步扩大保时捷裁员规模，计划再削减超过 4000 个岗位。此前，保时捷业务困境拖累集团业绩，并引发盈利预警。《商报》获得的文件显示，大众集团监事会近期通过了一项重组协议，准备启动集团迄今规模最大的改革，其中拟在保时捷再裁减约 4100 人，以填补约 7 亿欧元（IT之家注：现汇率约合 53.9 亿元人民币）的成本缺口。据悉，这批裁员将在现有协议之外另行实施。今年 7 月，保时捷管理层与劳工代表同意额外裁员 5000 人，再加上此前确定的 4000 人，目前双方商定的裁员总数约为 9000 人。到 20",
-      "source": "IT之家",
-      "publishTime": "2026-09-19",
-      "link": "https://www.ithome.com/1/004/539.htm"
     }
   ],
   "macroEvents": [
