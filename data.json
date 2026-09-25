@@ -1,6 +1,334 @@
 {
-  "updatedAt": "2026-09-26 02:47",
+  "updatedAt": "2026-09-26 06:37",
   "news": [
+    {
+      "id": "3e603df8-2d23-81f8-8f51-dce8d4788342",
+      "title": "Walmart won't charge a 'personalized price', CEO says",
+      "summary": "Walmart CEO John Furner sent a memo to employees and customers Friday saying AI and digital shelf labels won't be used for personalized prices.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/walmart-ceo-ai-digital-tags-wont-charge-personalized-price-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-8159-9a7f-d54fa5efd853",
+      "title": "How recent grads and college students should be thinking about AI, the CV, and the job market",
+      "summary": "It is getting harder for college students and recent graduates to be seen in the job market as AI is used as a hiring tool and demanded by employers as a skill.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-26",
+      "link": "https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html"
+    },
+    {
+      "id": "3e603df8-2d23-814e-8f4b-f428f5a564a5",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-26",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+    },
+    {
+      "id": "3e603df8-2d23-81b1-b8ad-eb5d4f20ff15",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-26",
+      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "3e603df8-2d23-81ca-881b-d9741cb94411",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-26",
+      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+    },
+    {
+      "id": "3e603df8-2d23-81a9-8dff-c8cfef1fc4bf",
+      "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
+      "summary": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is even lower right now at Amazon when you enter",
+      "source": "The Verge",
+      "publishTime": "2026-09-26",
+      "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale"
+    },
+    {
+      "id": "3e603df8-2d23-8100-b895-e333f767175c",
+      "title": "Meta's Muse feels real in a way the metaverse never did",
+      "summary": "At Meta Connect 2026, Muse and Meta's new AI glasses stood out, and offered a glimpse at an alternative to Apple's Vision Pro.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/meta-muse-feels-different-from-metaverse-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-814c-adac-e7f14daa42ce",
+      "title": "Bill Gates warns AI is 'powerful enough to drive events that cause a billion deaths'",
+      "summary": "The cofounder of Microsoft made grave predictions about AI and voiced support for government regulation of the sector.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/bill-gates-ai-warning-billion-deaths-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-81a2-8eb8-cc686d106b8f",
+      "title": "Phones don’t have lights",
+      "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones d",
+      "source": "The Verge",
+      "publishTime": "2026-09-26",
+      "link": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks"
+    },
+    {
+      "id": "3e603df8-2d23-8122-a894-de9800c80b5c",
+      "title": "Exclusive: Meta Bolsters Muse Safety Warning After Security Vulnerability Found",
+      "summary": "Meta Platforms is adding a clearer safety warning within Muse after a security researcher discovered a vulnerability in the AI agent that could let an attacker access a user’s sensitive personal information. The security flaw, which was flagged by an outside researcher through Meta’s bug bounty ...",
+      "source": "The Information",
+      "publishTime": "2026-09-26",
+      "link": "https://www.theinformation.com/briefings/exclusive-meta-bolsters-muse-safety-warning-security-vulnerability-found"
+    },
+    {
+      "id": "3e603df8-2d23-8193-97ae-d8dbcd1fbb8c",
+      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+      "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-26",
+      "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/"
+    },
+    {
+      "id": "3e603df8-2d23-815d-a29a-e39ce0234217",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-26",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+    },
+    {
+      "id": "3e603df8-2d23-8143-a6ae-eed8c92a5c2f",
+      "title": "Trump says Scott Bessent won't be AI czar",
+      "summary": "President Donald Trump said Treasury Secretary Bessent doesn't want to be what the president is calling the \"Super Intelligence czar.\"",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-26",
+      "link": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html"
+    },
+    {
+      "id": "3e603df8-2d23-816b-8fc6-f6a506088819",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-26",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"
+    },
+    {
+      "id": "3e603df8-2d23-81fa-ae7d-c36565fa22ea",
+      "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
+      "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris it",
+      "source": "The Verge",
+      "publishTime": "2026-09-26",
+      "link": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera"
+    },
+    {
+      "id": "3e603df8-2d23-811a-b0a1-c4e5b5e23b24",
+      "title": "I wasn't ready to leave my college, so I took a job at my alma mater. It gave me the closure graduation never did.",
+      "summary": "After graduating from college, I took an administrative job at my school. It was a strange experience, but it helped me feel ready to move on.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/took-job-at-college-after-graduating-strange-but-worth-it-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-81b6-a5ec-e687ab1dfdf0",
+      "title": "Each state's infrastructure, ranked worst to best",
+      "summary": "Infrastructure has a big impact on the quality of day-to-day life. Some states have slower internet, longer commutes, and more expensive electricity.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/states-infrastructure-ranked-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-81e5-ada9-fb9e269afd85",
+      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+      "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy",
+      "source": "The Verge",
+      "publishTime": "2026-09-26",
+      "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands"
+    },
+    {
+      "id": "3e603df8-2d23-817b-9455-ec20107b7ff4",
+      "title": "Inside the Drama Behind a Biology Contest That Pits OpenAI Agents Against Humans",
+      "summary": "For months, Jason Kelly, co-founder and CEO of Ginkgo Bioworks, has been planning what was billed as a fun, attention-grabbing science competition. His idea was to pit a top scientist against OpenAI’s latest models in designing a variety of proteins using a technique in which they are grown in test ",
+      "source": "The Information",
+      "publishTime": "2026-09-26",
+      "link": "https://www.theinformation.com/articles/inside-drama-behind-biology-contest-pits-openai-agents-humans"
+    },
+    {
+      "id": "3e603df8-2d23-81f2-8616-cc028f4c1eaf",
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "source": "Wired",
+      "publishTime": "2026-09-26",
+      "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/"
+    },
+    {
+      "id": "3e603df8-2d23-81a0-b398-f6f874d0b39f",
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, i",
+      "source": "The Verge",
+      "publishTime": "2026-09-26",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem"
+    },
+    {
+      "id": "3e603df8-2d23-8127-8be7-cc2e1331e304",
+      "title": "Federal Court Sides With Pentagon in Anthropic Dispute",
+      "summary": "A federal court ruled in favor of the Department of Defense in a lawsuit over the Department’s decision to label Anthropic a supply-chain risk earlier this year. In a split 2-1 decision, Judge Gregory Katsas of the Washington D.C. Circuit Court, an appointee of President Trump, wrote for the ...",
+      "source": "The Information",
+      "publishTime": "2026-09-26",
+      "link": "https://www.theinformation.com/briefings/federal-court-sides-pentagon-anthropic-dispute"
+    },
+    {
+      "id": "3e603df8-2d23-81d0-bcb6-fb1ca57d3f7d",
+      "title": "Every Taylor Swift album, ranked from worst to best",
+      "summary": "We used a unique scoring system to rank all 12 of Taylor Swift's albums. Her newest release, \"The Life of a Showgirl,\" landed in last place.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/taylor-swift-albums-ranked-best-worst"
+    },
+    {
+      "id": "3e603df8-2d23-817b-ab58-f3c70d075098",
+      "title": "Ron Johnson worked with Steve Jobs for 11 years. This lesson stuck with him.",
+      "summary": "Ron Johnson oversaw the creation of 350 Apple stores — but success didn't happen overnight.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/apple-former-retail-chief-ron-johnson-lesson-steve-jobs-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-81db-98ff-cf0fdda9cdc9",
+      "title": "All 32 Robert Pattinson movies, ranked",
+      "summary": "From \"Twilight\" and \"Tenet\" to \"Primetime,\" here are the actor's best and worst films, according to critics.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/robert-pattinson-movies-ranked"
+    },
+    {
+      "id": "3e603df8-2d23-8161-a0a9-ebed1e7890bb",
+      "title": "I was afraid to delegate tasks for my 7-figure business. Learning to let go helped me grow it to nearly $5M.",
+      "summary": "Luba Patlakh Kaplun was burned out when her business hit seven figures. New systems and management helped revenue grow to nearly $5 million.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/seven-figure-business-burnout-delegating-growth-systems-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-81f2-a249-f414adc1a6a3",
+      "title": "44 of the best and worst looks Melania Trump has worn as first lady",
+      "summary": "Melania Trump's best looks as first lady balance professional style and high fashion, but she has also worn some controversial outfits.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/melania-trump-best-worst-looks-first-lady-2025-1"
+    },
+    {
+      "id": "3e603df8-2d23-81b5-adc0-df8874a5b518",
+      "title": "A Google employee said he quit because he's worried about superintelligent AI",
+      "summary": "Google employee Robert O'Callahan said he couldn't \"turn a blind eye\" to the work he was doing, and that AI's dangers should be \"taken seriously.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/google-deepmind-employee-resigns-ai-safety-harm-chips-robert-ocallahan-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-81ab-9e45-f124ad7c86a9",
+      "title": "Meta smart glasses have a new AI-training opt-out",
+      "summary": "Meta has changed the privacy settings on its glasses. Now, users can opt out of sending visual data to train AI.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/meta-glasses-ai-visual-data-opt-out-training-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-81b7-8136-c94d81fcd587",
+      "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+      "summary": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to details and images discov",
+      "source": "The Verge",
+      "publishTime": "2026-09-26",
+      "link": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k"
+    },
+    {
+      "id": "3e603df8-2d23-81ca-b2d7-c7996bd526d6",
+      "title": "Appeals court allows Pentagon to label Anthropic a national security risk",
+      "summary": "The Trump administration can blacklist AI firm Anthropic from all Pentagon contracts, a federal appeals court ruled Friday.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/appeals-court-allows-pentagon-to-label-anthropic-national-security-risk-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-81d3-b2f8-c46c93e5cfba",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-26",
+      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
+    },
+    {
+      "id": "3e603df8-2d23-812c-9ca3-f4fe7ead1c22",
+      "title": "See the luxurious, heavily fortified presidential jets that world leaders use for official travel",
+      "summary": "The US president flies on Air Force One. Other world leaders in other countries also have their own official aircraft.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-26",
+      "link": "https://www.businessinsider.com/air-force-one-presidential-planes-around-the-world"
+    },
+    {
+      "id": "3e603df8-2d23-81bd-9c1f-d256bfdb1789",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company t",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-26",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"
+    },
+    {
+      "id": "3e603df8-2d23-8119-a940-da779f238bb4",
+      "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+      "summary": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-25",
+      "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/"
+    },
+    {
+      "id": "3e603df8-2d23-81e7-a6d7-c3155b870bff",
+      "title": "Sony and UMG are suing Suno again",
+      "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG a",
+      "source": "The Verge",
+      "publishTime": "2026-09-25",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
+    },
+    {
+      "id": "3e603df8-2d23-81d1-911b-dea4035e7fb2",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-25",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
+    },
+    {
+      "id": "3e603df8-2d23-8115-a9fa-d04ab47fbae5",
+      "title": "比尔 · 盖茨呼吁美国立法监管 AI 开发：没有人会认为只靠行业自律就够了",
+      "summary": "IT之家 9 月 25 日消息，据美国 NBC News 北京时间今天（25 日）晚间报道，微软联合创始人、亿万富翁慈善家比尔 · 盖茨呼吁美国国会立法监管人工智能开发。盖茨在接受 NBC 新闻《Meet the Press》节目采访时直言：“没有人认为靠行业自律就足够了。”主持人克里斯滕 · 韦尔克问他，华盛顿是否需要通过立法介入时，盖茨回答：“当然需要。执法部门和政界人士必须参与进来，讨论应该设置什么样的安全措施，又该怎样监督，而且这些要求必须具有强制性。这会给行业增加一些负担，但不会显著拖慢他们的工作。”采访中，盖茨没有否认 AI 可能在几年内毁灭人类的风险。与此同时，他提醒美国人，另一",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/253.htm"
+    },
+    {
+      "id": "3e603df8-2d23-8186-ab75-fe8f2ca2fcd1",
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-25",
+      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+    },
+    {
+      "id": "3e603df8-2d23-81f7-accd-f2174f214349",
+      "title": "I moved from the US to Germany 4 years ago. Here are the 7 biggest culture shocks I've experienced.",
+      "summary": "My husband and I moved to Germany from the US four years ago, despite never visiting before. Since then, we've experienced culture shock several times.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-25",
+      "link": "https://www.businessinsider.com/surprising-things-moving-to-germany-from-us-2024-9"
+    },
+    {
+      "id": "3e603df8-2d23-8172-896c-fe5efbbb9ded",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures",
+      "source": "The Verge",
+      "publishTime": "2026-09-25",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
+    },
     {
       "id": "3e603df8-2d23-8150-8fa6-ee07e24b3f23",
       "title": "Exclusive: Figma Exec Joins AI Inference Startup Baseten",
@@ -72,334 +400,6 @@
       "source": "Wired",
       "publishTime": "2026-09-25",
       "link": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley/"
-    },
-    {
-      "id": "3e603df8-2d23-81c9-af0c-c5d82f546287",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-25",
-      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
-    },
-    {
-      "id": "3e603df8-2d23-8129-bf41-c5eac0cab701",
-      "title": "6 of the best scents to wear this fall, according to professional perfumers",
-      "summary": "This fall, popular fragrance trends will include dark and woodsy perfumes, warm spices like nutmeg and cardamom, and gourmands beyond pumpkin.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/best-scents-fragrances-fall-perfumes-from-experts-2026-9"
-    },
-    {
-      "id": "3e603df8-2d23-81f2-96ff-e79475393e5d",
-      "title": "Taylor Swift's 'The Life of a Showgirl' deluxe album has 4 new songs. They range from inspired to indefensible.",
-      "summary": "Taylor Swift has unveiled \"The Life of a Showgirl: The Encore,\" a deluxe album with four new pop songs, all co-produced by Max Martin and Shellback.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/taylor-swift-showgirl-encore-deluxe-album-review-tracklist-breakdown-2026-9"
-    },
-    {
-      "id": "3e603df8-2d23-81df-96ea-fdab9e57033e",
-      "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
-      "summary": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-25",
-      "link": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html"
-    },
-    {
-      "id": "3e603df8-2d23-81f8-903b-c7f04dc017f6",
-      "title": "What I learned about AI's PR crisis from bingeing 130 political TV ads",
-      "summary": "Electricity bills and other costs are the focus for political campaigns attacking AI and data centers in ads, according to our review of TV spots.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/what-i-learned-about-ai-pr-crisis-from-political-ads-2026-9"
-    },
-    {
-      "id": "3e603df8-2d23-81da-98b7-d3ef32d5be4d",
-      "title": "罗永浩回应交个朋友代销劣质溜溜凳：2022 年 5 月已退出管理层，承认严重质量管理事故",
-      "summary": "IT之家 9 月 25 日消息，罗永浩今日发文回应了交个朋友直播间代销劣质溜溜凳事件，表达了自己的看法。IT之家附原文如下：我觉得交个朋友处理得没什么大问题啊：不小心代理销售了劣质产品，依法追究追讨供应商的同时，考虑到这类的官司旷日持久，就先拿钱给消费者做退款不退货的处理。所以我本来确实没想说什么，但是刚才看了一下，逼我表态的媒体 / 自媒体也有不少，那我就说说我的看法：1. 我虽然 2022 年 5 月就退出了交个朋友管理层，但一直担任交个朋友的首席监督官。再次强调一下，整个交个朋友公司售卖的商品，即便像这次的凳子一样，不是我自己直播时售卖的，我也一样会负责监督，请大家放心。2. 这件事之前",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/247.htm"
-    },
-    {
-      "id": "3e603df8-2d23-81df-a405-e4415cc68b15",
-      "title": "曝特斯拉 Optimus 产量扩至原有规模约 10 倍，规模化量产难题仍未解决",
-      "summary": "IT之家 9 月 25 日消息，The Information 今天（25 日）晚间报道称，特斯拉近几个月已将 Optimus 人形机器人的产量扩大到原来的约 10 倍（tenfold），然而稳定规模化生产的难题仍未解决。多名熟悉 Optimus 项目的人士透露，当前生产线面临的障碍包括结构复杂的手部、自动化设备以及供应商方面的限制。两名熟悉生产工作的人士称，特斯拉上个月每周可生产数百台机器人，而第二季度进行量产前小批量测试时，每周产量只有几十台。管理人员已告知员工，公司希望在年底前建成一条可连续运行的自动化产线，将每周产能提升至 1000 台以上。即便如此，距离特斯拉最终计划实现的每周约 2",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/246.htm"
-    },
-    {
-      "id": "3e603df8-2d23-8172-9e60-c68527078055",
-      "title": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
-      "summary": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company'",
-      "source": "The Verge",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers"
-    },
-    {
-      "id": "3e603df8-2d23-810e-af8f-dae83655e7e2",
-      "title": "德国柏林警方借助人工智能监控摄像头打击犯罪，自动识别暴力和破坏行为",
-      "summary": "IT之家 9 月 25 日消息，据央视新闻报道，德国柏林警方 24 日在一处犯罪高发区域启动一项计划，将借助人工智能监控摄像头打击犯罪。据悉，柏林警方将在这项计划启动的前四周内，在科特布斯门地区安装并调试好人工智能监控摄像头，随后正式投入使用。警方还计划将该方案推广至市内其他犯罪高发区域。柏林警方发表声明说，该摄像头通过“空间人工智能”技术分析人员动作，以识别潜在犯罪与暴力行为。摄像头配套的显示屏平时处于休眠状态，当人工智能系统自动识别到暴力和破坏行为时，显示屏将亮起并显示相关信息，警员也会收到信息推送，继而判断是否采取行动。IT之家注意到，这并不是德国第一次寻求将 AI 功能引入到警方工作当",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/245.htm"
-    },
-    {
-      "id": "3e603df8-2d23-8125-8837-cfb1f2a5186b",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-25",
-      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
-    },
-    {
-      "id": "3e603df8-2d23-813c-b190-df24baa04db2",
-      "title": "Gaming’s biggest horror series are more vital than ever",
-      "summary": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall, trying my best […]",
-      "source": "The Verge",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil"
-    },
-    {
-      "id": "3e603df8-2d23-8183-81fc-f9aed8b0d3d1",
-      "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
-      "summary": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-25",
-      "link": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/"
-    },
-    {
-      "id": "3e603df8-2d23-815a-8b3b-cf2fce254c69",
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
-      "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-25",
-      "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/"
-    },
-    {
-      "id": "3e603df8-2d23-8144-86a7-d5cf9d02aceb",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-      "source": "BBC Tech",
-      "publishTime": "2026-09-25",
-      "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3e603df8-2d23-8124-b37f-cbc5ce60d47b",
-      "title": "My childhood best friend and I have very different adult lives. We stay connected with one annual tradition.",
-      "summary": "My childhood best friend and I stay connected by traveling together every year. We get to see new parts of the world, and it's good for our friendship.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/childhood-best-friends-travel-together-every-year-2026-9"
-    },
-    {
-      "id": "3e603df8-2d23-814a-98ab-f331818075ed",
-      "title": "小米 18 Fold 中折叠首销情况曝光：9 月 7 日-13 日约 3.97 万台",
-      "summary": "IT之家 9 月 25 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，爆料了小米 18 Fold 手机的首销情况，9 月 7 日-9 月 13 日约 3.97 万台。IT之家注意到，小米 18 Fold 中折叠手机发布于 9 月 7 日，并于 9 月 10 日 10:00 正式开售，售价 10999 元起，主打配色便是“西野红”。小米 18 Fold 配备 5.38″ 外屏 + 7.58″ 内屏，内外屏采用约√2:1 标准纸张比例，支持 LTPO 1-120Hz 刷新率。新机首发搭载玄戒 O3 小米 AI 旗舰 SoC，CPU 采用十核全大核设计、GPU 首发 16 核 G",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/244.htm"
-    },
-    {
-      "id": "3e603df8-2d23-8178-8a37-c7d6b235b873",
-      "title": "北京越野 BJ40 增程 15.6 英寸联屏车型首次 OTA 推送，新增苹果 CarPlay 等",
-      "summary": "IT之家 9 月 25 日消息，9 月 24 日，北京越野旗下 BJ40 增程 15.6 英寸联屏车型开启首次 OTA 推送，适配版本包括标准版 I / 元境智行版 / 赤兔版 / 长续航版。IT之家整理如下：新增雷石 KTV，适配版本新增苹果 CarPlay ，适配版本新增车机电子宠物-熊猫奇奇新增 AES 自动紧急转向辅助新增哨兵模式及北京越野 App 远程查看优化 ATS 全地形模式在售北京越野 BJ40 增程 SUV 指导价 17.98 万元起，车身尺寸为 4790*1940*1964mm，轴距为 2460mm。该车搭载 1.5T 增程器，纯电续航达 252km，综合续航达 1300k",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/243.htm"
-    },
-    {
-      "id": "3e603df8-2d23-8147-9748-f059270f331b",
-      "title": "I compared The Pioneer Woman's and Joanna Gaines' Buffalo chicken dips. Only one was good enough for game day.",
-      "summary": "I tried two Buffalo chicken dip recipes by celebrity chefs and thought the Pioneer Woman's recipe was the better choice.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/pioneer-woman-joanna-gaines-buffalo-chicken-dip-recipes-compared"
-    },
-    {
-      "id": "3e603df8-2d23-81de-a19c-eff22f8198d6",
-      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
-      "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-25",
-      "link": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/"
-    },
-    {
-      "id": "3e603df8-2d23-818e-94b4-d45945965c28",
-      "title": "Ready for health tech's latest toys? Be prepared to pay out of pocket.",
-      "summary": "Cash pay care services are the latest trend in tech, with companies inventing new health tools with a premium price tag.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/health-tech-neko-scanner-healthcare-wellness-mri-bi-today-newsletter-2026-9"
-    },
-    {
-      "id": "3e603df8-2d23-811c-b120-edd14413e472",
-      "title": "世界第一辆汽车专利申请 140 周年“献礼作”，AMG 首款纯电专属架构 SUV 谍照再曝",
-      "summary": "IT之家 9 月 25 日消息，梅赛德斯-AMG 即将扩充产品阵容，迎来品牌首款基于专属架构开发的纯电 SUV。官方预告图发布后不久，外媒 Carscoops 今天（25 日）晚间公布了一辆原型车的新谍照，车身伪装相比此前大幅减少。新车代号 X591，是 AMG GT 四门轿跑车对应的 SUV 车型。车身仍有部分伪装，整体造型却已相当清晰：流畅低伏的车顶配合宽厚有力的肩部线条，使整车兼具轿跑 SUV 和运动旅行车的视觉特征。最新曝光的原型车可以完整看到座舱玻璃区域。新车还会通过独有灯组设计强化辨识度，车头配备 Y 形 LED 灯组和超大尺寸前格栅，车尾采用圆形尾灯。据悉，圆形尾灯或将成为 AM",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/242.htm"
-    },
-    {
-      "id": "3e603df8-2d23-8120-99c3-fd5a6fbea1bb",
-      "title": "Tesla’s Optimus Hits Snags in Hands, Suppliers as Scale-Up Begins",
-      "summary": "Tesla has ramped up production of its Optimus humanoid robot roughly tenfold in recent months, but the company is still struggling to manufacture the machines reliably at scale. Its production lines are grappling with problems involving the robot’s intricate hands, automated equipment and supplier c",
-      "source": "The Information",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins"
-    },
-    {
-      "id": "3e603df8-2d23-81e7-b5d2-cb8f62bf35e1",
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"",
-      "source": "The Verge",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review"
-    },
-    {
-      "id": "3e603df8-2d23-81d0-892b-ff19dbf3e8e9",
-      "title": "高盛：美国五大云巨头每年 AI 收入 3000 亿美元，才可盈亏平衡",
-      "summary": "IT之家 9 月 25 日消息，据彭博社今天（25 日）晚间报道，高盛集团策略师预计，美国五大超大规模云服务商亚马逊、Alphabet、微软、甲骨文和 Meta 的 AI 基础设施支出将在明年增长超过 50%，达到 1.2 万亿美元（IT之家注：现汇率约合 8.06 万亿元人民币）。瑞安 · 哈蒙德带领的高盛团队在报告中指出，这一数字高于华尔街对明年资本支出 1.1 万亿美元（现汇率约合 7.39 万亿元人民币）的共识预期。按照高盛的测算，要收回这些投入，未来数年中，五家公司每年需要创造约 3,000 亿美元（现汇率约合 2.02 万亿元人民币）的 AI 收入。哈蒙德及其同事称：“按照市场共识",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/232.htm"
-    },
-    {
-      "id": "3e603df8-2d23-81bb-aa6b-c23b37e5c979",
-      "title": "The Pentagon wants ultra-precise clocks that could help troops fight without GPS",
-      "summary": "GPS can be jammed. DARPA is making clocks that could keep military systems running without it and eventually enable completely new capabilities.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/darpa-wants-to-give-military-something-much-better-than-gps-2026-9"
-    },
-    {
-      "id": "3e603df8-2d23-8193-8428-d672da4318e4",
-      "title": "Microsoft Launches Revamped Copilot ‘Super App’ with Muse Competitor",
-      "summary": "Microsoft on Friday launched a revamped version of its Copilot app that combines features that had previously been sold separately, including AI coding tools, features that automate tasks in Office 365, and an always-on “Autopilot” agent similar to Meta’s Muse. The overhaul is meant to make ...",
-      "source": "The Information",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theinformation.com/briefings/microsoft-launches-revamped-copilot-super-app-muse-competitor"
-    },
-    {
-      "id": "3e603df8-2d23-81a8-9c4f-e8e27b9ebc35",
-      "title": "I left London for an island many people haven't heard of. My life didn't change in the way I expected.",
-      "summary": "After 20 years in London, I moved to Malta, and then a smaller island, Gozo. I thought life here would be simple and quiet, but I was surprised.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/moved-to-island-from-city-lifestyle-changes-gozo-malta-2026-9"
-    },
-    {
-      "id": "3e603df8-2d23-8158-9993-ef8043b87dbd",
-      "title": "Yields keep rising, Novo's tough week, why cat product sales are surging and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-25",
-      "link": "https://www.cnbc.com/2026/09/25/5-things-to-know-before-the-stock-market-opens.html"
-    },
-    {
-      "id": "3e603df8-2d23-8173-a8d0-ce8887cc9ab1",
-      "title": "聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”",
-      "summary": "IT之家 9 月 25 日消息，今天（25 日）晚间，微软正式发布新版 Copilot“超级应用”。新版 Copilot 把聊天、编程和智能体三类 AI 能力集中到同一个界面中。微软为其给出的新定位是“为工作而生的 AI”，甚至把 Copilot 与 Office 当年对生产力的影响相提并论。微软 AI 工作业务首席营销官贾里德 · 斯帕塔罗表示：“正如 Office 定义了 PC 时代的工作方式，新 Copilot 旨在定义 AI 时代的工作方式。”新版 Copilot 分为 Home、Code 和 Autopilot 三个标签页。Home 把 Copilot Chat 和 Cowork 整",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/230.htm"
-    },
-    {
-      "id": "3e603df8-2d23-81e6-b179-eb1e8fdf3734",
-      "title": "长安汽车：深化与宁德时代合作，钠新换电技术项目立项",
-      "summary": "IT之家 9 月 25 日消息，长安汽车 9 月 24 日公布投资者关系活动记录表，回答了钠电池量产时间等问题。长安汽车表示，公司在钠离子电池领域已取得阶段性进展，钠离子电池突破高功率极片单点技术，提升极端温况续航体验；此外公司深化与宁德时代合作，钠新换电技术项目立项，共同研发新体系电池。IT之家注意到，去年 4 月 21 日，宁德时代在首个超级科技日上发布全球首个大规模量产的钠电池 —— 宁德时代钠新，正式开启钠电产品从 0 到 N 的广泛应用。作为宁德时代全新的钠离子电池品牌，宁德时代钠新包含“钠新动力电池”和“钠新-24V 重卡启驻一体蓄电池”两类产品，均可实现零下 40℃ 至零上 70",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/229.htm"
-    },
-    {
-      "id": "3e603df8-2d23-8156-8ea6-d42398587cf7",
-      "title": "英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期",
-      "summary": "IT之家 9 月 25 日消息，据英国《卫报》今天（25 日）报道，英国政府曾大力宣传的埃塞克斯郡劳顿大型数据中心项目将无法按原计划于明年启用，甚至可能拖到 2030 年代中期。劳顿项目 2025 年公布时被称为英国最大的 AI 超级计算机，但供电难题意味着项目距离投入运行仍有很长一段时间。当前，该项目因无法在原定 2027 年启用前获得足够电力而面临新的问题。该超算由英国初创企业 Nscale 负责建设，这家企业今年又计划以 350 亿美元（IT之家注：现汇率约合 2,351.04 亿元人民币）估值上市。报道披露，负责把项目接入当地电网的 UK Power Networks（UKPN）已告知",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/228.htm"
-    },
-    {
-      "id": "3e603df8-2d23-81e7-a27f-e90b82a0e35b",
-      "title": "I co-created Blue's Clues. Working on the show didn't make parenting easier, but I did learn from Steve's pause.",
-      "summary": "I created Blue's Clues. I assumed teaching kids for work would make parenting easier, but it didn't. I did learn from Steve's pause, however.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/created-blues-clues-steves-pause-parenting-lessons-2026-9"
-    },
-    {
-      "id": "3e603df8-2d23-81dd-b542-e138b4d69529",
-      "title": "“交个朋友”就所售万向轮溜溜凳木板发霉等致歉：全面下架，启动退赔处理流程",
-      "summary": "IT之家 9 月 25 日消息，今日，针对消费者反映的交个朋友直播间所售万向轮溜溜凳存在木板发霉、填充物不合格等问题，交个朋友直播间发布声明。IT之家附原文如下：交个朋友直播间关于万向轮溜溜凳质量问题的正式说明近日，有消费者反映交个朋友直播间销售的万向轮溜溜凳存在木板发霉、填充物不合格等问题。我们第一时间进行了全面清查，发现确有其事。经核查，该产品在“交个朋友智能家居爆品榜”等六个直播间销售过，我们在此向购买过该产品的消费者郑重道歉。事发后，交个朋友旗下所有直播间第一时间全面下架了该产品，终止了与该品牌的合作，并在第一时间启动了退赔处理流程。对于个别商家在送检、抽检环节提供优质合格品，而实际发",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/225.htm"
-    },
-    {
-      "id": "3e603df8-2d23-81ab-b28f-c4fa04b3faee",
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unve",
-      "source": "The Verge",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
-    },
-    {
-      "id": "3e603df8-2d23-8184-afd8-d4636af2b2d9",
-      "title": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
-      "summary": "It's right there in the name: \"Insta360\" makes 360-degree cameras, ones that film every angle simultaneously so you can shoot first and frame later. It didn't invent the idea, but Insta360 has become so synonymous with 360 cameras that it dominates the category with 73 percent of worldwide marketsha",
-      "source": "The Verge",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview"
-    },
-    {
-      "id": "3e603df8-2d23-81d1-93f0-ed238209610d",
-      "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-      "summary": "With Microsoft still searching for a winning AI strategy, the company its updating its Copilot app to combine more capabilities.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-25",
-      "link": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html"
-    },
-    {
-      "id": "3e603df8-2d23-8119-a1a0-d4fd5ae5a6fe",
-      "title": "Ukraine’s fast medical robots can outrun Russian attacks, but speed creates new risks, makers and medics say",
-      "summary": "Some robots built to rescue injured Ukrainian soldiers in battle can drive much faster to outrun Russian drones, but high speeds can cause problems.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/ukraine-evacuation-medical-robots-injured-troops-faster-ugv-risks-2026-9"
-    },
-    {
-      "id": "3e603df8-2d23-81bf-a1eb-ea69a2245fec",
-      "title": "The British Army wants better drone pilots, so it makes them learn 'the hardest way to fly'",
-      "summary": "The British Army is teaching future drone pilots to fly manually because it's more difficult than using a stabilized platform.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/british-army-trains-drone-pilots-hardest-way-make-them-better-2026-9"
-    },
-    {
-      "id": "3e603df8-2d23-81c0-b8fa-c2c2f4b17402",
-      "title": "2026 中秋节电影票房破亿：时隔七年重映漫威《复仇者联盟 4》加码臻享版登顶",
-      "summary": "IT之家 9 月 25 日消息，据灯塔专业版，截至今日 18 时 55 分，2026 年中秋节（9 月 25 日）票房突破 1 亿。《复仇者联盟 4：终局之战（加码臻享版）》《欢迎来龙餐馆》《八仙！》暂列票房前三。IT之家附榜单如下：《复仇者联盟 4：终局之战（加码臻享版）》3586.85 万元《欢迎来龙餐馆》1708.50 万元《八仙！》1062.54 万元《老江湖》925.63 万元《敦煌英雄》711.47 万元据悉，漫威《复仇者联盟 4：终局之战（加码臻享版）》（加码臻享版）于今日起正式登陆全国影院。此次重映版本总片长 185 分钟，较 2019 年原版的 181 分钟多出约 4 分钟全",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/212.htm"
-    },
-    {
-      "id": "3e603df8-2d23-81a5-8329-e900629384e7",
-      "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
-      "summary": "The US government filed an application to support the company’s legal challenge against a fine issued under the bloc’s Digital Services Act, which Trump has described as “overseas extortion.”",
-      "source": "Wired",
-      "publishTime": "2026-09-25",
-      "link": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/"
-    },
-    {
-      "id": "3e603df8-2d23-819b-9388-e5a265bfaa38",
-      "title": "The real 'To Catch a Predator' host Chris Hansen isn't happy about 'Primetime'",
-      "summary": "In the A24 movie \"Primetime,\" Robert Pattinson plays a fictional version of \"To Catch a Predator\" host Chris Hansen. The real Hansen isn't happy.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/where-is-chris-hansen-now-primetime-response-2026-9"
     }
   ],
   "macroEvents": [
