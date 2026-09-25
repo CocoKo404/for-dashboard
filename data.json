@@ -1,6 +1,206 @@
 {
-  "updatedAt": "2026-09-25 06:36",
+  "updatedAt": "2026-09-25 09:42",
   "news": [
+    {
+      "id": "3e603df8-2d23-817e-9a64-de1cb0a34a2b",
+      "title": "苹果 iOS 27 升级家长控制：筛选应用类型、优化设置流程等",
+      "summary": "IT之家 9 月 25 日消息，科技媒体 MacRumors 今天（9 月 25 日）发布博文，报道称苹果公司发布新宣传视频，重点介绍 iOS 27 系统的儿童账户与家长控制功能。在儿童安全功能方面，iOS 27 更新重点覆盖儿童账户、应用访问、网站浏览、联系人管理和屏幕使用时间等场景，家长可选择儿童能够访问的应用类型。苹果称，儿童账户的设置流程更加便捷，界面也更易理解。IT之家附上相关图片如下：在操作方面，儿童申请下载新应用或游戏时，可通过“购买前询问”功能提交请求。家长确认后，儿童才能继续获取相关内容，该功能同时适用于购买流程。网页浏览管理方面，Safari 新增“浏览前询问”选项。家长可",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/062.htm"
+    },
+    {
+      "id": "3e603df8-2d23-817e-9267-dff856d94b0a",
+      "title": "消息称 OpenAI 将在数日内预览网络安全专用模型 GPT-6 Cyber",
+      "summary": "IT之家 9 月 25 日消息，据《财富》杂志消息，多位知情人士透露，OpenAI 正计划在未来几天内抢先预览其最新的网络安全专用模型 GPT-6 Cyber。此外，OpenAI 还将推出一款配套新产品，协助客户以更加安全、自动化的方式部署该模型。据悉，GPT-6 Cyber 模型及其配套产品预计将于 9 月 29 日在旧金山举办的 OpenAI 开发者大会上亮相，甚至可能更早揭晓，并计划在未来数月内正式上线。GPT-6 Cyber 将是 OpenAI 今年发布的第四款网络安全专用模型。据知情人士透露，OpenAI 旗下仅限申请准入的“Daybreak Red”计划中，已有少数客户获得了 GP",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/061.htm"
+    },
+    {
+      "id": "3e603df8-2d23-8145-bde2-d7790bcef6c8",
+      "title": "Why Meta’s Moment in the AI Sun Won’t Last",
+      "summary": "If Meta Platforms wants to raise money by selling equity, now is the time. Meta shares have gone on an incredible run lately, jumping 27% since Sept. 8, when the company released its Muse personal AI agent. Meta stock is now up 18% so far this year, a bigger gain than that for Alphabet, Amazon or Mi",
+      "source": "The Information",
+      "publishTime": "2026-09-25",
+      "link": "https://www.theinformation.com/articles/metas-moment-ai-sun-last"
+    },
+    {
+      "id": "3e603df8-2d23-810b-8b51-fca5b04f9889",
+      "title": "罗技 G PRO X3 SUPERSTRIKE 电磁微动鼠标预售：重心居中，主控传感器双升级，1699 元",
+      "summary": "IT之家 9 月 25 日消息，Logitech G（罗技 G）现已在电商平台预售鼠标新品 PRO X3 SUPERSTRIKE (\"GPW5 Ultra\")。这一型号延续了上代的 HITS 触觉感应触发系统（电磁微动）设计，主控传感器双升级，解决了此前产品重心偏移问题，质量降至约 59g，价格来到 1,699 元。京东罗技 G PRO X3 SUPERSTRIKE 鼠标 黑色 1699 元直达链接PRO X3 SUPERSTRIKE 搭载基于 Nordic nRF54 系列的 NxLOGI 定制主控芯片，支持 135hr 以上续航；HERO 2 传感器解锁至 48K DPI 分辨率、930 ",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/060.htm"
+    },
+    {
+      "id": "3e603df8-2d23-81ba-8fae-eed82e241e8c",
+      "title": "Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件",
+      "summary": "IT之家 9 月 25 日消息，科技媒体 macobserver 昨日（9 月 24 日）发布博文，报道称 Meta Muse 被发现可在简单提示词下，打包并返回用户专属虚拟机中的大量 Linux 文件。Peter James 和 Jonny L. Saunders 两名开发者已独立复现该问题，相关文件包含系统文件、应用模板、内部运行文档、Markdown 与 JSON 文件等。导出的文件可能暴露 Muse 的内部运行机制，包括请求处理、记忆保存、服务连接和后台任务。其中 agents/ 目录包含 113 份子智能体记录及 JSONL 追踪文件。约 20 份 Markdown 文档介绍浏览器、",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/059.htm"
+    },
+    {
+      "id": "3e603df8-2d23-81a9-bf65-c336dbb08fa1",
+      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+      "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, whi",
+      "source": "The Verge",
+      "publishTime": "2026-09-25",
+      "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats"
+    },
+    {
+      "id": "3e603df8-2d23-81b0-8776-e208dce9c880",
+      "title": "纪念《古墓丽影》30 周年，八位堂发布联名款 Ultimate 3 / Pro 3 手柄",
+      "summary": "IT之家 9 月 25 日消息，八位堂 (8BitDo) 现已面向海外市场公布了《古墓丽影》30 周年纪念款 Ultimate 3 与 Pro 3 手柄。这两款控制器拥有浓厚的探索风格设计，向这一经典游戏 IP 致敬。▲ Ultimate 3 与 Pro 3此次推出的纪念款 Ultimate 3 Controller for XBOX（猎户座 3 代 XBOX 版）手柄致敬了《古墓丽影》的历史，集中展现了从古典到现代的一系列劳拉 · 克劳馥形象，并配备以金色锌合金 D-Pad 键帽。▲ Ultimate 3其拥有力度可调节的 TMR 传感器摇杆、霍尔效应传感器双切扳机、触感 D-Pad，提供小",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/057.htm"
+    },
+    {
+      "id": "3e603df8-2d23-8117-a2b6-ca0f225d81ef",
+      "title": "IT早报 0925：李佳琦称 AI 无法取代真人主播；华为余承东称会让每个界都获更充足资源；营业厅“0 元购机”全面停办；国补 5499 元荣耀 Magic9 价格提前公布...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 25 日星期五，今天的重要科技资讯有：1. 外媒关注中国直播带货，李佳琦称 AI 无法取代真人主播如今，尽管行业增长放缓，AI 也正在重塑这一领域，但李佳琦仍然认为，直播电商未来依然离不开像他这样的主播。>> 查看详情2. 华为余承东：接下来会聚焦尊界、享界、智界、尚界，让每个界都获得更加充足的资源余承东在合肥巡店时透露，接下来，会聚焦尊界、享界、智界、尚界，让每个界都获得更加充足的资源，团队也能有更多精力把产品做细、把体验做好，让四界快速提升，利好鸿蒙智行共同发展。>> 查看详情3. 曝移动、电信、联通三大运营商暂停金融分期业务，“0 ",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/058.htm"
+    },
+    {
+      "id": "3e603df8-2d23-81ce-ba26-e126a5bb1301",
+      "title": "I've spent 190 hours on long-haul flights. These carry-on essentials make the journey more bearable.",
+      "summary": "Taking a long-haul flight? Here's what you should pack in your carry-on for a smooth ride, from skincare products to entertainment.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-25",
+      "link": "https://www.businessinsider.com/carry-on-packing-list-for-a-long-haul-flight-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-8145-a857-e3312700e333",
+      "title": "长安汽车朱华荣称汽车产业马太效应正在加剧：预计到 2030 年，全球前十份额将达到 80%",
+      "summary": "IT之家 9 月 25 日消息，2026 世界新能源汽车大会于 9 月 22 日-24 日在海南海口举办。据央视网报道，中国长安汽车集团有限公司董事长，世界新能源汽车发展组织理事长朱华荣出席并演讲。朱华荣强调，竞争格局正在重塑，汽车进入“不快速便倒退”的发展新格局。从汽车产业演进规律看，全球整车企业销量门槛还在不断提升。未来三到五年，300 万辆以后可能只是能够活下去，500 万至 700 万辆才是过得好，800 万至 1000 万辆才能活得好。马太效应正在加剧，汽车产业生态效应能够超越手机行业，预计到 2030 年，全球前十份额将达到 80%，产业整合重构不可避免。行业转型越来越快，要求投入",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/056.htm"
+    },
+    {
+      "id": "3e603df8-2d23-81d1-aa4f-da803317277b",
+      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+      "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, ",
+      "source": "The Verge",
+      "publishTime": "2026-09-25",
+      "link": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream"
+    },
+    {
+      "id": "3e603df8-2d23-814e-bc19-c5a239bc0727",
+      "title": "苹果 Apple Music 宣布免费直播 Head Trip 音乐节",
+      "summary": "IT之家 9 月 25 日消息，科技媒体 MacRumors 今天（9 月 25 日）发布博文，报道称苹果 Apple Music 宣布和 Goldenvoice 合作，直播 10 月 10 日和 11 日在美国加利福尼亚州印第奥举行的 Head Trip 音乐节。IT之家查询公开资料，Head Trip 音乐节由 Goldenvoice 主办，该团队此前还打造了全球知名 Coachella 和 Stagecoach 音乐节。本次音乐节在 Coachella 的举办地举行，其阵容包括 Swedish House Mafia、Calvin Harris 和 Skrillex 等电子音乐界的“神级",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/055.htm"
+    },
+    {
+      "id": "3e603df8-2d23-81aa-b8b4-c844a6a40616",
+      "title": "苹果 watchOS 27.2 隐藏功能：Apple Watch Series 12 等截图将支持即时预览与删除",
+      "summary": "IT之家 9 月 25 日消息，消息源 @itspdfu 昨日（9 月 24 日）在 X 平台发布推文，指出在 watchOS 27.2 Beta 2 更新中，苹果公司引入了隐藏功能 Flag，支持用户截图后可执行预览、分享和删除操作。目前 Apple Watch 截图默认关闭，开启后按下数码表冠与侧边按钮即触发截图，画面直接同步至配对 iPhone 的「照片」应用。界面上，watchOS 27.2 的截图界面模仿 iPhone 截图体验，用户截屏后会弹出预览窗口。预览界面集成分享与删除控件，用户可当场决定保留或丢弃截图，不过当前流程需依赖配对 iPhone 的照片应用管理截图。",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/054.htm"
+    },
+    {
+      "id": "3e603df8-2d23-815b-b7ae-c4d849a19cd2",
+      "title": "雷蛇推出清姬 Kiyo V2 Pro 网络摄像头，支持 4K 60FPS 录制",
+      "summary": "IT之家 9 月 25 日消息，Razer（雷蛇）当地时间 24 日发布了网络摄像头 Kiyo（清姬）V2 Pro。这一产品基于 8.3MP 的索尼 STARVIS 2 传感器，拥有 86° 广角镜头，支持 4K 60FPS 录制。IT之家了解到，该摄像头支持 AI 驱动自动取景与帧捕获、先进降噪功能、一键图像增强、超高动态范围技术，允许“单反级别”图像定制，同时集成隐私百叶窗。雷蛇 Kiyo V2 Pro 网络摄像头定价 299.99 美元（IT之家注：现汇率约合 2,017 元人民币）。",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/053.htm"
+    },
+    {
+      "id": "3e603df8-2d23-81ed-86bf-feb9c9f17f25",
+      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-25",
+      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/"
+    },
+    {
+      "id": "3e603df8-2d23-8143-b510-cf8182c23ac2",
+      "title": "消息称 2026 年京东 11.11 双十一活动 10 月 12 日开启，新增“超级服务日”",
+      "summary": "IT之家 9 月 25 日消息，据亿邦动力消息，今年京东“双 11”将于 10 月 12 日正式开启。从整体节奏来看，京东双 11 将设置月黑风高盛典、超级秒杀日、超级直播日、超级补贴日等 IP 活动，并新增“超级服务日”。10 月 12 日晚 8 点，京东双 11“月黑风高盛典”将率先启动。京东双 11 还将推出“官方直降”“跨店满减”“低价热卖”等促销玩法。据IT之家此前报道，2025 年的京东 11.11 双十一活动于 10 月 9 日晚 8 点正式开始。今年开启时间相比去年晚了 3 天。",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/052.htm"
+    },
+    {
+      "id": "3e603df8-2d23-8105-a431-c451d4229479",
+      "title": "英伟达黄仁勋：AI 不会必然消灭某个职业，“10 年内 AI 毁灭人类”更是无稽之谈",
+      "summary": "IT之家 9 月 25 日消息，在接受《纽约时报》采访时，英伟达首席执行官黄仁勋认为，当前行业和民众对 AI 的恐慌情绪已经过头了，并认为当前 AI 不一定会替代职业，但会首先替代任务。黄仁勋把工作拆分为任务（例如写代码、整理资料和回复客户等）和目的（诊断疾病、解决工程问题、服务客户等），并认为 AI 通常先自动化具体任务，不会必然消灭整个职业。例如，软件智能体可能大量生成代码，但软件工程师仍需要理解需求、设计系统、权衡风险、验证结果，并把技术连接到真实问题上。黄仁勋以工程师为例，认为 AI 可能下降写代码本身的稀缺性，但定义问题、设计架构、验证系统和承担责任的重要性会上升。针对某些科学专家认",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/051.htm"
+    },
+    {
+      "id": "3e603df8-2d23-817f-9db9-f82ea830a838",
+      "title": "Kalshi draws backlash after a creator accuses it of ripping off his video — and changing his race",
+      "summary": "Kalshi said it has curtailed its use of AI ads and is reviewing its relationship with an agency that made the controversial video.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-25",
+      "link": "https://www.businessinsider.com/kalshi-in-hot-water-over-race-swapping-ai-ads-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-81ec-86a0-c18e06f9b52a",
+      "title": "Alexandr Wang isn't a style icon. He's just a Gen Z boy.",
+      "summary": "Alexandr Wang's camo T-shirt and Crocs got Silicon Valley talking. His Meta Connect look is deeply Gen Z — and a glimpse at tech's next uniform.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-25",
+      "link": "https://www.businessinsider.com/alexandr-wang-no-style-icon-just-genz-boy-2026-9"
+    },
+    {
+      "id": "3e603df8-2d23-8168-808e-ce96b458c07a",
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
+      "source": "BBC Tech",
+      "publishTime": "2026-09-25",
+      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3e603df8-2d23-81f0-aaf4-ea1a6586be81",
+      "title": "高通押注 AI 生态：一套软件栈通吃所有设备，编程语言 Mojo 将原生支持 Win11",
+      "summary": "IT之家 9 月 25 日现场消息，在夏威夷举办的 2026 骁龙峰会第二日活动中，高通技术公司先进 AI 软件与平台执行副总裁克里斯 · 拉特纳（Chris Lattner）发表主题演讲，称 AI 行业的竞争正逐渐从“拼芯片”转向“拼生态”。在本次主题演讲中，拉特纳指出 AI 软件往往深度绑定特定硬件：换一家公司芯片，开发者可能就要重新适配、优化和调试。拉特纳在演讲提出 Modular 平台，目标是让在 GPU、NPU 和数据中心 ASIC 等不同架构上运行同一套 AI 软件，让同一个 AI 应用有机会在本地设备和云端之间更灵活地切换。高通过去最强的公众认知主要集中在 Snapdragon ",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/050.htm"
+    },
+    {
+      "id": "3e603df8-2d23-8126-9a7e-f4a42bd948cb",
+      "title": "长安启源 Q06 上市 24 小时累计订单突破 3.5 万台，限时权益价 13.59 万元起",
+      "summary": "IT之家 9 月 25 日消息，长安汽车昨晚宣布，长安启源 Q06 上市 24 小时，累计订单突破 35000 台。据IT之家此前报道，长安启源 Q06 于 9 月 23 日上市，提供纯电与增程两种动力选择，官方指导价 13.99-16.99 万元。602 越享型：官方指导价 13.99 万元，上市权益价 13.59 万元602 智享型：官方指导价 14.99 万元，上市权益价 14.59 万元700 智享型：官方指导价 15.99 万元，上市权益价 15.59 万元700 智尊型：官方指导价 16.99 万元，上市权益价 16.59 万元1600 双电机智享型：官方指导价 15.19 万元，",
+      "source": "IT之家",
+      "publishTime": "2026-09-25",
+      "link": "https://www.ithome.com/1/007/049.htm"
+    },
+    {
+      "id": "3e603df8-2d23-81cd-bf49-faf6021ffa2c",
+      "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+      "summary": "Elon Musk's automaker is set to open its first heavy-duty truck factory in Sparks, Nevada, as Tesla seeks to expand its reach.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-25",
+      "link": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html"
+    },
+    {
+      "id": "3e603df8-2d23-81fa-bc54-d2327fe6b208",
+      "title": "Microsoft puts Brad Smith in charge of communications",
+      "summary": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company searches for a replacement for Frank Shaw, chief",
+      "source": "The Verge",
+      "publishTime": "2026-09-25",
+      "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela"
+    },
+    {
+      "id": "3e603df8-2d23-816d-bd12-c6f3e34049d5",
+      "title": "Anthropic Seeks Palantir-Style Voting Control for Seven Co-Founders Ahead of IPO",
+      "summary": "Anthropic is asking shareholders to approve a new corporate structure that would award CEO Dario Amodei and his six cofounders a special class of shares giving them collective voting control in most corporate matters, according to people familiar with the planning. The new arrangement, which emulate",
+      "source": "The Information",
+      "publishTime": "2026-09-25",
+      "link": "https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo"
+    },
     {
       "id": "3e503df8-2d23-81db-b58d-eb830f9a9367",
       "title": "Databricks Acquires Microsoft Excel Competitor Row Zero",
@@ -200,206 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-09-25",
       "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
-    },
-    {
-      "id": "3e503df8-2d23-819c-a507-ea60ce4fd079",
-      "title": "Microsoft's CEO is putting Brad Smith in charge of communications, memo shows",
-      "summary": "Microsoft CEO Satya Nadella has a new plan for who's in charge of the company's public announcements, according to a memo viewed by Business Insider.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/microsoft-memo-satya-nadella-new-comms-plan-brad-smith-2026-9"
-    },
-    {
-      "id": "3e503df8-2d23-81fc-bb28-e925172663cf",
-      "title": "One of Tether’s Bank Partners Caught Up in Assets Seizure",
-      "summary": "On the surface, Tether, the largest stablecoin issuer in the world, might appear to be a formidable force in global finance. It owns more than $100 billion in U.S. Treasury bills, mostly held at Cantor Fitzgerald, the investment bank formerly led by U.S. Secretary of Commerce Howard Lutnick. But a U",
-      "source": "The Information",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theinformation.com/articles/one-tethers-bank-partners-caught-assets-seizure"
-    },
-    {
-      "id": "3e503df8-2d23-817a-b388-d8ee43a079ce",
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be ",
-      "source": "The Verge",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
-    },
-    {
-      "id": "3e503df8-2d23-818d-86d4-ddb297f74baa",
-      "title": "华为乾崑智驾 ADS 5 系统 9 月版本更新亮点公布，升级 AR 人找车、实时对讲等功能",
-      "summary": "IT之家 9 月 25 日消息，华为乾崑智能汽车解决方案官方宣布，华为乾崑智驾 ADS 5 新版本（即 9 月 OTA 新版本）即将推送，领航 / 泊车体验双升级。新版本还升级了组队出行、导航搜索场景拓展等功能。IT之家整理新版本更新内容（ADS Max V5.0.2）如下：领航体验升级组队出行：支持创建 / 加入出行队伍，全员位置实时显示，防止走散更省心。支持一键跟随队长同步导航路线。升级实时对讲：一键开启队内实时语音对讲，支持多人同时发言。既可随时分享沿途美景，也能提前预警拥堵路况。升级导航搜索场景拓展：导航中搜索能力进阶，除沿途搜索外，新增自车周边、目的地两大搜索场景。自车周边随手可搜：",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/047.htm"
-    },
-    {
-      "id": "3e503df8-2d23-815d-a630-c67e0ad6e0c2",
-      "title": "Former OpenAI Data Center Chief Is Now At Nvidia",
-      "summary": "Chris Malone, OpenAI’s former head of data centers, joined Nvidia as the vice president of Nvidia’s DSX Platform this month, according to his LinkedIn profile. DSX is the Nvidia division that helps customers design and build AI data centers according to Nvidia’s specifications. Malone left ...",
-      "source": "The Information",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theinformation.com/briefings/former-openai-data-center-chief-now-nvidia"
-    },
-    {
-      "id": "3e503df8-2d23-81fd-b4d4-ed861088232f",
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-25",
-      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"
-    },
-    {
-      "id": "3e503df8-2d23-8110-a1f9-c216f73e42f2",
-      "title": "The 'ChatGPT for doctors,' OpenEvidence, was valued at $15 billion in a new funding round",
-      "summary": "The startup has raised nearly $800 million over the past year, from investors including Nvidia, Thrive Capital, Kleiner Perkins, a16z, and Sequoia Capital.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9"
-    },
-    {
-      "id": "3e503df8-2d23-81f4-af0e-e315b3e7061e",
-      "title": "She left Bank of America to start a fragrance brand with $300. Last year, it made $21 million.",
-      "summary": "Brown Sugar Babe founder Maekaeda Gibbons used $300 to start a fragrance business, growing it to $21 million in revenue without outside funding.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/brown-sugar-babe-founder-left-boa-brand-makes-21-million-2026-9"
-    },
-    {
-      "id": "3e503df8-2d23-814a-b16d-dc766b31dfa2",
-      "title": "How Meta is using the Threads playbook to boost Muse",
-      "summary": "Meta is using strategies it employed to grow Threads to launch Muse, its AI agent. Threads boss Connor Hayes tells how it's working.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/meta-threads-connor-hayes-ai-growth-interview-kafka-2026-9"
-    },
-    {
-      "id": "3e503df8-2d23-81ef-aa80-e4e2f41159a3",
-      "title": "华为音悦家 App 获 6.0.0.340 尝鲜升级，新适配 MatePad 11.5 S 2025 等机型",
-      "summary": "IT之家 9 月 25 日消息，华为音悦家 App 在华为应用市场 App Gallery 发布了 6.0.0.340 版本尝鲜升级。新版本新增适配如下机型：HUAWEI MatePad Pro 12.2 英寸 2025HUAWEI MatePad Pro 13.2 英寸 2025HUAWEI MatePad Air 12 英寸 2025HUAWEI MatePad 11.5 S 2025IT之家注：音悦家是华为自研 App，覆盖作曲、录音、编曲、混音四大数字音乐创作全流程核心场景，主打 200+ 中西方经典乐器，已于今年 6 月 1 日开启公测。华为官网显示，音悦家对设备硬件性能要求较高，仅",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/046.htm"
-    },
-    {
-      "id": "3e503df8-2d23-8120-a9c9-d1395bb58aa2",
-      "title": "A stranger yelled at my child to stop crying. After standing up for my daughter, I stopped being so hard on myself.",
-      "summary": "A stranger yelled at my daughter to stop crying when she hurt her knee. It brought out the mama bear in me and made me judge my own parenting less.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/stranger-yelled-at-daughter-mama-bear-instinct-parenting-2026-9"
-    },
-    {
-      "id": "3e503df8-2d23-813f-abca-f2eb087db6cd",
-      "title": "微信鸿蒙版 App 获 8.0.22.33 邀测升级，新增支持服务号收纳功能",
-      "summary": "IT之家 9 月 25 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）开启了 8.0.22.33 (8394273) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/9/22-2026/10/22。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据用户反馈，8.0.22 版本的微信新增了如下特性：个人资料新增我的发票抬头；聊天界面支持点击时间切换日期、星期、时间显示；服务号主页-设置-通知消息管理新增“接收私信时，以重要通知的方式提醒我”开关；好友更多信息新增备注，可填写备注名、电话、标签、备忘、照片等；视频号-个人中心-设置新增记录最近看",
-      "source": "IT之家",
-      "publishTime": "2026-09-25",
-      "link": "https://www.ithome.com/1/007/045.htm"
-    },
-    {
-      "id": "3e503df8-2d23-8102-8024-dbc8d7434663",
-      "title": "Muse will apparently let you download its entire filesystem",
-      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates,",
-      "source": "The Verge",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem"
-    },
-    {
-      "id": "3e503df8-2d23-819c-ab6b-f35c5c2cf69b",
-      "title": "Muse sure looks a lot like OpenClaw",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 b",
-      "source": "The Verge",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike"
-    },
-    {
-      "id": "3e503df8-2d23-81d4-a8a3-dc156a0022d3",
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "summary": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-25",
-      "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/"
-    },
-    {
-      "id": "3e503df8-2d23-81e6-9abb-dd8f7af3764e",
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent - to help me set some hea",
-      "source": "The Verge",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute"
-    },
-    {
-      "id": "3e503df8-2d23-8128-8d73-f8602b97b904",
-      "title": "Now Google Chrome shares tabs to new devices that save where you were",
-      "summary": "Google is rolling out some new Chrome browser features that are designed to make it easier to research and study complicated topics. The cross-device tab switching feature is getting a memory upgrade, alongside new capabilities for Gemini in Chrome that can analyze more types of media and generate i",
-      "source": "The Verge",
-      "publishTime": "2026-09-25",
-      "link": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates"
-    },
-    {
-      "id": "3e503df8-2d23-8177-9fef-ccfa163193f7",
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-25",
-      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"
-    },
-    {
-      "id": "3e503df8-2d23-8175-8920-d84ccb77a49d",
-      "title": "The states where adults without bachelor's degrees earn the most — and the least",
-      "summary": "See which US states offer the highest median earnings for adults with some college or an associate degree but without bachelor's degrees.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/us-states-no-bachelors-degree-median-earnings-ranked"
-    },
-    {
-      "id": "3e503df8-2d23-8163-99c1-d76f8e642d13",
-      "title": "Silicon Valley's new fashion icon: Alexandr Wang and his camo t-shirt",
-      "summary": "Alexandr Wang, Meta's chief AI officer, gave a keynote address during Meta Connect 2026. He wore a camo t-shirt and Crocs.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/alexandr-wang-camo-t-shirt-deer-meta-connect-2026-9"
-    },
-    {
-      "id": "3e503df8-2d23-81aa-a069-d07d2c249098",
-      "title": "Ed Sheeran's Macklemore mess has rocked his public image. PR pros say fans will be more forgiving than you think.",
-      "summary": "Ed Sheeran faced public backlash after Macklemore was removed from his tour over pro-Palestinian remarks. PR pros say his true fans won't care.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/ed-sheeran-macklemore-tour-controversy-pr-experts-response-2026-9"
-    },
-    {
-      "id": "3e503df8-2d23-8157-9f3b-d8236499ed6f",
-      "title": "POLITICO granted White House access after being denied earlier Thursday",
-      "summary": "Earlier on Thursday, a POLITICO reporter was denied entrance to the White House despite a judge's order to restore access.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/politico-granted-white-house-access-after-being-denied-earlier-thursday-2026-9"
-    },
-    {
-      "id": "3e503df8-2d23-81be-98ed-ec07bd1bba19",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-25",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/"
-    },
-    {
-      "id": "3e503df8-2d23-812e-a736-c330d3623b01",
-      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-25",
-      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/"
-    },
-    {
-      "id": "3e503df8-2d23-811f-adc9-ee1d49c80e11",
-      "title": "Instinct users say they've noticed a slowdown with the buzzy AI agent",
-      "summary": "The buzzy personal AI assistant startup is competing with Meta's Muse app for users. Meta has access to much more compute.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-25",
-      "link": "https://www.businessinsider.com/instinct-slowdown-reaction-muse-rivalry-2026-9"
     }
   ],
   "macroEvents": [
