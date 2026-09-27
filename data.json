@@ -1,6 +1,374 @@
 {
-  "updatedAt": "2026-09-27 09:38",
+  "updatedAt": "2026-09-27 16:26",
   "news": [
+    {
+      "id": "3e803df8-2d23-8182-88c7-ff966089eb16",
+      "title": "华为官网悄悄调整：鸿蒙智行智界 V9“辅助驾驶冗余架构”升级为“L3 级自动驾驶架构设计”",
+      "summary": "IT之家 9 月 27 日消息，鸿蒙智行首款旗舰 MPV —— 智界 V9 已于今年 6 月开启交付。其也是行业首款搭载 896 线激光雷达的 MPV，新车售价区间 38.98 万-51.98 万元。智界 V9 发布时，华为官网页面显示，其搭载的是“辅助驾驶冗余架构”。IT之家注意到，相关页面最近悄悄调整，将智界 V9（Max+ 及以上版本）的“辅助驾驶冗余架构”升级为了“L3 级自动驾驶架构设计”。▲ 调整前▲ 调整后据IT之家此前报道，智界汽车执行董事及执行副总裁赵长江在今年 5 月就透露智界 V9 是 L3 的硬件预埋。有网友曾询问智界 V9 明年能否升级 L3，赵长江明确表示：“能。”",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/511.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8129-a17d-e731d57b855b",
+      "title": "iPhone 17 Pro 银色 7459 元京东部分地区补货，iPhone 18 Pro 系列换新补贴 800 元",
+      "summary": "京东现已开启 iPhone 新品狂促，以旧换新额外补贴 800 元 + 再享 12 期免息：点此查看主会场。京东苹果 iPhone 18 Pro12 期免息换新补贴 800 元直达链接京东苹果 iPhone 18 Pro Max12 期免息换新补贴 800 元直达链接AirPods 5 支持主动降噪，国行定价 999 元起，京东目前支持部分地区政府补贴（收货地址在江苏、吉林、北京、大连），实付 849.15 元起。另外京东加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100 元左右，新耳机折合仅需 749 元好价：京东 Apple AirPods 5 支持主动降噪国补后 ",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/510.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8172-a0c0-d67808d7d140",
+      "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
+      "summary": "IT之家 9 月 27 日消息，据路透社报道，调查负责人于当地时间周日对外表示，OpenAI 与 Anthropic 两家企业的首席执行官已收到传唤，需要出席澳大利亚参议院的人工智能专项调查听证会。就在几天前，一则消息被曝光：OpenAI 有一个失控智能机器人程序入侵了该国医疗系统数据库。IT之家注意到，这起联邦医疗保险（Medicare）系统遭入侵事件遭到澳大利亚总理安东尼 · 阿尔巴尼斯（Anthony Albanese）的严厉谴责，也是发生在美国境外、由 AI 智能体访问外部系统的关注度最高的事件之一。澳大利亚绿党参议员萨拉 · 汉森‑杨（Sarah Hanson‑Young）主持本次调",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/508.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81da-8090-dd92977667ed",
+      "title": "奥之心 PEN 相机单机身 / 双镜头套机版 9 月 29 日开售，5999 元起",
+      "summary": "IT之家 9 月 27 日消息，奥之心今天宣布，OM SYSTEM PEN 相机单机身 / 双镜头套机版将于 9 月 29 日发售，定价 5999 元 / 7699 元。IT之家了解到，该机采用经典旁轴相机风格设计，提供黑色 / 银色两种配色。双镜头版带有 12-42mm III+40-150mmR 两款镜头，满足日常拍摄和远距离拍摄需求。OM SYSTEM PEN 是 PEN 系列首款支持防尘防滴溅的机型（防护等级 IPX1），并内置了约 236 万点的 OLED 电子取景器（EVF），这也是自 2016 年 PEN-F 发布以来该系列再度搭载 EVF。该机采用约 2037 万有效像素的 4",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/507.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81be-a642-c15c0237020c",
+      "title": "英国最大桌游展 UKGE 出台新规：禁止 AI 生成游戏参展，仅少数情况例外",
+      "summary": "IT之家 9 月 27 日消息，本周，英国规模最大的桌面桌游展会 —— 英国桌游展（UK Games Expo）公布了一套针对展会上 AI 生成游戏作品的新规。前几年该展会因亲近 AI 相关内容引发舆论反弹之后，主办方如今选择调转方向：禁止 AI 生成的游戏参展，仅保留极少数例外情况。新政策写明：“主办方拥有完全自主处置权限；如果参展商展出、陈列或者销售此类（AI 生成）作品，主办方有权要求参展商将相关展品撤下。倘若参展商拒绝执行撤场要求，主办方可以直接关停该参展商的展位，并禁止其今后再次参与本展会。”据IT之家了解，英国桌游展（UKGE）创办于 2007 年，每年夏季在伯明翰举办，是桌面桌游",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/506.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81c6-8d10-cb68fb510c97",
+      "title": "贝塞斯达确认：《上古卷轴 6》完工后，下一款游戏是《辐射 5》",
+      "summary": "IT之家 9 月 27 日消息，虽然距离发售还有好几年，但我们已经知道贝塞斯达在完成《上古卷轴 6》之后的下一款游戏是什么了。据IT之家了解，《上古卷轴 6》是贝塞斯达游戏工作室的下一部重点作品，该作早在 2018 年就首次对外公布。玩家之所以要等《上古卷轴 6》这么久，是因为贝塞斯达在此期间一直在忙于别的项目，也就是开放世界科幻游戏《星空》（Starfield）。《星空》于 2023 年发售，整体收获了偏向正面的评价。很多玩家称赞这款作品成功把贝塞斯达那套久经考验的开发模式移植到全新的世界观与游戏题材当中。但不可否认，这款游戏并没有像工作室旗下的《上古卷轴》以及《辐射》系列那样，拥有长久的生",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/505.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8132-92bd-f31cf7f9a5eb",
+      "title": "种子也要有“太空专车”，我国启动研制商业航天育种专用卫星",
+      "summary": "IT之家 9 月 27 日消息，据陕西发布消息，陕西省航天育种工程技术研究中心与中科卫星科技集团有限公司在西安文理学院签署合作协议，共建太空生物空间诱变联合实验室，并宣布我国首个商业航天育种专用卫星研制启动。这意味着，种子今后去太空“遨游”将有自己的“专车”。据介绍，长期以来，我国航天育种多依托卫星搭载、空间站试验等“搭车”模式开展实验，缺少专门面向生物空间诱变的专用卫星平台，试验载荷、在轨时长、试验条件难以实现定制化、规模化开展。商业航天育种专用卫星的建设与发射，将改变我国航天育种试验“拼车搭载”的现状，为保障国家粮食安全、发展现代农业提供科技支撑。此次在西安文理学院成立的太空生物空间诱变联",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/504.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8139-82f2-f2806d9f2987",
+      "title": "东风猛士 X700 首批展车官宣陆续到店：搭载华为乾崑全栈智能，9 月 28 日开启预售",
+      "summary": "IT之家 9 月 27 日消息，东风猛士汽车今日宣布，旗下“豪华智慧全地形 SUV”猛士 X700 全国 84 城 172 家门店，首批展车陆续到店。IT之家附门店详情如下：据IT之家此前报道，猛士汽车猛士 X700 将于 9 月 28 日开启预售，新车是猛士品牌 X 系列的首款产品。猛士 X700 车顶配备 896 线激光雷达，延续猛士与华为乾崑全栈深度合作，搭载华为乾崑全栈智能，支持高速 NOA、城市 NOA、记忆泊车等功能。",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/498.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81e0-ad44-c4075b884164",
+      "title": "四卡双待：荣耀 Magic9 Pro Max 手机将支持双实体卡 + 双 eSIM",
+      "summary": "IT之家 9 月 27 日消息，荣耀官方今天宣布，荣耀 Magic9 Pro Max 手机将支持「双实体卡 + 双 eSIM」融合架构，支持四卡随心切换、双号随时在线，等于说这台手机支持安装四张 SIM 卡，可以两张卡同时待机。IT之家了解到，荣耀 Magic9 系列手机将在明天发布，其中 Magic9 Pro Max 搭载自研至臻黑钻屏，包含 5600 层氮化硅镀膜，反射率降低至 1.5%。▲ IT之家开箱：荣耀 Magic9 Pro Max 手机图赏此外，博主 @数码闲聊站 已曝光荣耀 Magic9 Pro Max 手机规格信息，IT之家整理如下：6.8\"2868*1320p 1.5K+1",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/496.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8153-8b5a-e758709ee08b",
+      "title": "V社创始人 G 胖回复网友邮件：承认练过蒙古呼麦，现在偶尔还会唱",
+      "summary": "IT之家 9 月 27 日消息，《反恐精英》创始人、前V社员工“Gooseman”（Minh Le）近日接受 Indie Game Joe 采访时透露，他以前的老板 G 胖（加布 · 纽维尔，Valve 创始人）曾连续数月练习“蒙古呼麦”唱法，甚至在办公室大展歌喉，导致不少员工不堪其扰，选择关上门办公。该传闻一经透露即在游戏社区迅速传播。后来网友 tbaszt 决定亲自给 G 胖发邮件，询问这件事到底真不真实。后来 G 胖回复了这名网友的电邮，承认自己确实练过蒙古喉音唱法。IT之家附 G 胖完整回复如下：是的，我确实尝试过自学。我曾经和美国歌手保罗 · 佩纳（Paul Pena）聊过这事，你从",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/494.htm"
+    },
+    {
+      "id": "3e803df8-2d23-819a-be54-e05e09001b2f",
+      "title": "微软为新版 Outlook 新增发送前自动拼写检查功能，经典版添加更多 Copilot 功能",
+      "summary": "IT之家 9 月 27 日消息，微软想出了一项新功能，或许会成为用户选择新版 Outlook 而非经典版 Outlook 的理由：点击发送之前自动执行拼写检查。据IT之家了解，Outlook 原本就依托微软编辑器（Microsoft Editor）提供拼写检查，可以在用户撰写邮件的过程中实时检查文字错误。不过微软即将推出的这项新功能工作方式有所不同：当用户正要发送一封含有拼写错误的邮件时，该功能会主动介入，提醒用户先修正错误，再把邮件发送出去。目前，用户在 Outlook 撰写邮件时，已经可以在编辑框内看到拼写以及语法错误提示。这套能力由微软编辑器提供，相当于微软自家版的 Grammarly；",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/495.htm"
+    },
+    {
+      "id": "3e803df8-2d23-811f-a842-f6e03918aa6c",
+      "title": "iQOO Pad Ultra 小平板官宣跨端游戏空间功能升级，支持 PC 模拟器、PC 串流、大屏模式",
+      "summary": "IT之家 9 月 27 日消息，iQOO 手机官方今日宣布，在 iQOO Pad Ultra 小平板上，跨端游戏空间功能将迎来一波升级。iQOO 官方还介绍了 iQOO Pad Ultra 小平板的生态配件，包括双面夹套件、拉伸 G1 手柄。新机将支持 PC 模拟器、PC 串流、游戏空间大屏模式，搭配游戏生态配件后主打沉浸游玩形态，握持手感有所提升。据IT之家此前报道，iQOO Pad Ultra 小平板已官宣将于 9 月 29 日 19:00 发布，新机提供星铠银 / 末影黑双色、8.8 英寸机身重约 298g、内置风扇，将首批搭载高通第六代骁龙 8 超级至尊版处理器。",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/493.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81d3-8b0d-f6c36e4768dc",
+      "title": "六联智能发布 4 盘位 \"Wildcat Lake\" AI NAS WS18，0.15L 迷你主机同场展出",
+      "summary": "IT之家 9 月 27 日消息，六联智能 (Sixunited) 本周在英特尔技术创新与产业生态大会 (Intel Connection 2026) 上发布了四盘位 AI NAS 机型 WS18。这一型号基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，配备 LPDDR5 (X) 内存、UFS 3.1 存储，提供 3 个 PCIe Gen4 SSD 盘位、4 个 3.5\" 盘位，支持 Wi-Fi 6，提供 10GbE、2.5GbE 双网口以及 HDMI 2.1。另一款 NAS 产品 PTLT19-5HD-QSB 基于第 3 代英特尔酷睿 Ultra 处理器 \"Panther Lak",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/492.htm"
+    },
+    {
+      "id": "3e803df8-2d23-813e-91a5-caa7c0af39e1",
+      "title": "爆料称 OpenAI 准备扩大 Ultrafast API 开放范围",
+      "summary": "IT之家 9 月 27 日消息，据 X 平台博主 @imjustnewatai 今日爆料，OpenAI Platform 和 API 文档已经出现 Ultrafast API 相关文档，预示着公司似乎准备扩大 Ultrafast API 开放范围。IT之家注意到，OpenAI 正在为 Responses API Playground 准备全新速度选项，用户可在 Standard、Fast 和 Ultrafast 三种处理速度之间选择，目前该功能处于隐藏状态。OpenAI 此前已正式预览搭载 GPT-5.6 Sol 的 Ultrafast 模式，称其输出速度最高可达每秒 750 个 Token，",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/490.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8120-a28b-f480487b2d53",
+      "title": "任天堂三十年前取消的 SFC 游戏《儿童卡比》被粉丝重制，现已可 PC 游玩",
+      "summary": "IT之家 9 月 27 日消息，据外媒 Notebookcheck 今天报道，近日有粉丝将任天堂三十年前砍掉的《儿童卡比》（Kid Kirby）游戏重见天日。目前本作已经可以在 PC 游玩，可在 itch.io 下载。据报道，本作由 Rockstar North 前身 DMA Design 开发，其玩法专门针对超级任天堂（IT之家注：SFC）的鼠标配件设计。玩法主要是通过拖动和甩动年幼版卡比，让它在关卡移动，整体玩法与后来较为成熟的《集合！卡比》（Kirby Mass Attack）有些相似。由于开发进度远超原定计划，加上 SFC Mouse 鼠标销量不佳，任天堂最终叫停了这个项目。据前 DM",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/489.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8124-b961-e21162ef767a",
+      "title": "iQOO 王侃：iQOO 16 支持超 50 款热门游戏 165Hz 高刷模式，覆盖 MOBA、FPS、赛车等品类",
+      "summary": "IT之家 9 月 27 日消息，iQOO 旗舰系列产品经理王侃今日发布长文，详细介绍了 iQOO 16 手机的屏幕。他透露，基于安卓首发「三星 M16 发光材料」与「2K LEAD 2.0」显示技术，iQOO16 带来了行业首块 2K + 165Hz 屏幕，并且让功耗比同尺寸 1.5K 屏还低 31%。▲ IT之家开箱：iQOO 16「赛道」配色图赏据称，iQOO 16 支持超 50 款热门游戏的 165Hz 高刷模式，覆盖 MOBA、FPS、赛车等各类游戏；还支持 TOP100 日常应用，包括社交、购物、阅读、音乐、视频等主流应用类型。这块屏幕还支持手动峰值亮度 1100nit、全局峰值亮度",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/488.htm"
+    },
+    {
+      "id": "3e803df8-2d23-814e-8919-cb55320f0db7",
+      "title": "太能打！过去一年 6 款《生化危机》游戏销量均破 300 万份",
+      "summary": "IT之家 9 月 27 日消息，《生化危机》是卡普空有史以来最受欢迎的游戏系列，同时也可以说是目前最具人气的恐怖游戏系列。多年以来，该系列始终能够推出品质稳定的作品，今年的《生化危机：安魂曲》（Resident Evil Requiem）也不例外。该系列的销售成绩同样十分亮眼。一份最新报告显示，在 2025 年年中至 2026 年年中这一年时间里，一共有 6 款《生化危机》游戏的销量突破 300 万份。对于同一个游戏 IP 旗下的作品而言，这样的数据相当突出。IT之家注意到，来自 Game File 的报告指出，仅过去这一年，就有 6 款《生化危机》作品各自的销量均超过 300 万份，名单如下",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/487.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8105-beb1-eaa589a4b81c",
+      "title": "中国首个面向全球与深空的太空计算基础设施“太空之弦”计算星座发布，G1 卫星预计明年发射",
+      "summary": "IT之家 9 月 27 日消息，据东方星链昨晚分享，其于 9 月 25 日联合地卫二发布了“太空之弦”计算星座 —— 中国首个面向全球与深空的太空计算基础设施。据介绍，“太空之弦”计算星座由三体计算星座共建方地卫二与东方星链共同推进建设。东方星链负责总体设计与运营，地卫二提供 AI 能力支持并拓展国际市场。星座将以计算服务为核心组织卫星与轨道资源，探索天基数据处理、模型部署和计算资源协同，逐步形成可调度、可供用户调用的太空计算服务能力。此次发布是前期在轨 AI 技术、卫星项目和国际合作积累向系统化星座建设的推进。IT之家从东方星链获悉，“太空之弦”计划采用「业务层」与「计算层」协同的架构，让任",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/486.htm"
+    },
+    {
+      "id": "3e803df8-2d23-810d-957e-de1e73e73ce3",
+      "title": "《我的世界》平均每天吸引 30 万新玩家，全球销量突破 4.25 亿份",
+      "summary": "IT之家 9 月 27 日消息，微软 XBOX 首席执行官阿莎 · 夏尔马（Asha Sharma）在《我的世界》（Minecraft）Live 2026 活动中公布了一组值得关注的数据：平均每天有超过 30 万人第一次进入《我的世界》。IT之家注意到，夏尔马在社交媒体上回顾《我的世界》Live 活动时分享了这一数据，并同时公布了另一个里程碑：游戏发行 17 年多来，全球销量已超 4.25 亿份。这样的成绩是绝大多数游戏都难以企及的。平均每天新增 30 万名玩家究竟是什么概念？相当于一座中等规模城市的人口，每天都第一次接触《我的世界》。作为对比，很多大型游戏如果能够在发售当天吸引 30 万名玩",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/484.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81e6-b987-edc8dacff100",
+      "title": "英飞凌泰国功率半导体工厂 10 月 1 日投产，总投资达 14.4 亿美元",
+      "summary": "IT之家 9 月 27 日消息，英飞凌近日宣布其泰国功率半导体工厂将于 10 月 1 日正式投产。该项目总投资达 14.4 亿美元（IT之家注：现汇率约合 96.9 亿元人民币），定位一体化功率半导体节点，承接全球功率半导体器件订单。据悉，该厂位于曼谷以南的北榄府，专注于后端工艺和功率半导体模块生产，建设工作始于 2025 年 1 月。新厂址采用自动化、数字化运营设计，使用 100% 绿色电力 。重点面向新能源汽车、新能源系统、数据中心等领域。该项目计划雇佣 5,000 名本地员工，配套人才培养与本土供应链培育计划将在后续落地。该基地将成为英飞凌继德国、中国之外的第三大功率模块生产基地，补齐东",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/483.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81b9-a111-e3cfa5507176",
+      "title": "“我们不是美国”：澳大利亚政界商界称民众抵制 AI 数据中心是受美国舆论影响",
+      "summary": "IT之家 9 月 27 日消息，据卫报报道，澳大利亚政界和商界人士认为，当地民众对 AI 数据中心日益增长的不满情绪，很大程度上是从美国“输入”而来的，并不能完全反映澳大利亚本土的实际情况。IT之家注意到，与美国类似，随着大规模 AI 数据中心建设加速，澳大利亚一些社区对这类项目的抵触情绪也在不断增加。不过，支持数据中心建设的政府官员和企业高管认为，澳大利亚的数据中心建设规模更小，监管也更加严格，因此对当地环境和社会造成的影响远低于美国。他们表示，美国国内围绕数据中心展开的激烈争论，通过社交媒体传播到澳大利亚，正在加剧当地的负面情绪。去年美国开始出现针对数据中心的大规模反对浪潮时，这股情绪在澳",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/481.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81cb-91fc-fa48c92e15a8",
+      "title": "不含真实演员数字复制：国内首部院线 AI 原生动画电影《三星堆：未来往事》定档 10 月 23 日上映",
+      "summary": "IT之家 9 月 27 日消息，国内首部院线 AI 原生动画电影《三星堆：未来往事》正式定档 10 月 23 日全国上映。据介绍，影片《三星堆：未来往事》总片长 100 分钟，是国内首部利用 AI 技术制作并获得国家电影局公映许可证的院线电影。由博卡电影云片场生成制作，所有角色为原创数字形象，不含真实演员的数字复制。AI 承担生成与执行，创意发起和创作判断由博纳 AIGMS 团队按照电影工业的流程制作完成。在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级 AI 席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/482.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8182-99a4-ca151affce98",
+      "title": "鄂尔多斯盆地探明千亿方深层煤层气田，我国煤层气勘探开发又迈出关键一步",
+      "summary": "IT之家 9 月 27 日消息，据央视新闻报道，位于山西吕梁的三交北区块新增煤层气探明地质储量超千亿立方米，标志着我国深层煤层气勘探开发又迈出关键一步，为保障国家能源安全增添新的底气。据介绍，三交北区块地处鄂尔多斯盆地东部，连片含气面积 411.5 平方千米，煤层埋深 1900 米至 2150 米，属于典型的深层煤层气。中石油煤层气公司副总地质师张雷表示，在鄂尔多斯盆地深层煤层气国家备案探明储量已累计超过 4000 亿立方米。IT之家注：深层煤层气是指储藏在埋深超过 1500 米煤层中的天然气，属于非常规天然气。与常规天然气相比，深层煤层气埋藏深、地质条件复杂，开采技术门槛高。值得一提的是，此",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/480.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8191-9837-fe14aea65b98",
+      "title": "深蓝汽车邓承浩：新能源汽车行业淘汰赛在即，年销 300 万台只是活下去的基础",
+      "summary": "IT之家 9 月 27 日消息，深蓝汽车董事长邓承浩昨日发布视频，分享了自己在 2026 世界新能源汽车大会上的讲话。他表示，新能源汽车行业淘汰赛在即，单点突破失效，体系能力才是关键。邓承浩直言，竞争进入淘汰赛时期，整个品牌竞争格局将逐渐收敛，年销 300 万台只是活下去的基础、500 万-700 万台“过得去”、800 万-1000 万台才能“活得好”。他表示，今年中国汽车产业从业人现在面临很大问题，国内的需求承压、原材料正在暴涨，出口仅能为行业提供短期的缓冲，各国市场经营规则正在迭代升级，单点式突破失效，新能源正在进入大众普及深化期，油电转换成为了行业的核心考验。据IT之家此前报道，9 月",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/478.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81fc-8fdb-cd09fc2d0575",
+      "title": "腾势汽车法国巴黎歌剧院门店开幕，D9、Z9GT 等多款车型亮相",
+      "summary": "IT之家 9 月 27 日消息，腾势汽车今天宣布，腾势汽车法国巴黎歌剧院门店现已启幕，展出腾势 D9、腾势 Z9GT 以及腾势 Z 多款主力车型，为欧洲用户带来新豪华出行体验。IT之家了解到，腾势 Z9S 汽车上市于本月，官方指导价分别为 25.58 万元起。该车以 1100 公里纯电续航、第二代刀片电池、易三方技术平台为核心卖点。采用优雅之势原创设计，定位准 D 级。此外，该车搭载第二代刀片电池，CLTC 纯电续航里程最高达 1100 公里，官方称打破了全球纯电续航最长量产车纪录。根据不同配置，新车提供 780 公里、920 公里和 1100 公里三种续航版本。",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/477.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81ce-8d38-c49015b86594",
+      "title": "开发者打造第三方工具让 AMD 显卡运行 DLSS 5，一天两更性能暴涨 74%",
+      "summary": "IT之家 9 月 27 日消息，开发者 Daniel 此前打造了 DLSS-NR-on-AMD 工具，让 AMD Radeon 显卡也能够运行 DLSS 5 神经渲染（Neural Rendering）。IT之家注意到，DLSS 5 神经渲染通常会带来明显的性能损失。无论使用哪款 GPU，启用 DLSS 5 后都可能出现帧率大幅下降的情况。此前的测试显示，即使是 RTX 50 系列顶级显卡，性能损失也可能接近甚至超过 50%。尽管英伟达目前仍在积极进行优化，但距离理想的性能表现还有一定差距。如果是第三方开发者用一些方法强行在 AMD 显卡上跑 DLSS5，性能损耗会比英伟达自家显卡还要更加严重",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/475.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8125-ac7b-d82e8d2fd8a0",
+      "title": "《我的世界》游戏第四维度“筛界”官宣：《地下城 2》首发，2027 年加入基岩 / Java 版",
+      "summary": "IT之家 9 月 27 日消息，Mojang 日前在新一期 Minecraft LIVE 宣布，《我的世界》游戏将加入全新维度“筛界”（Sift）。新维度将在《我的世界：地下城 2》首发，2027 年加入基岩和 Java 版。IT之家了解到，“筛界”未来将与下界、末地和主世界并列，成为《我的世界》官方第四维度。Mojang 并没有在活动中透露筛界玩法，仅仅展示了部分新外观，以及各种新生物。从官方直播中可以看到，筛界是一个画风绮丽、地貌独特的异界维度，拥有专属的方块、独立的秘境生态，以及大量全新的怪物和威胁。",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/476.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8115-a73f-ebb5bfa6df64",
+      "title": "小米 18 Pro 系列手机「传奇一瞬」功能详解，原片数据可在相册上传云端无损处理",
+      "summary": "IT之家 9 月 27 日消息，小米 18 Pro 系列手机已于 9 月 23 日晚正式发布，搭载第六代骁龙 8 至尊版系列移动平台，后置徕卡 2 亿大底主摄 + 2 亿大底长焦，首发「传奇一瞬」大模型影像，售价 5999 元起。小米相机部的产品经理 @Bao_小李 在微博详细介绍了小米 18 Pro 系列手机的「传奇一瞬」功能。其基于数百万张相机作品训练的端到端影像大模型，号称成像质感媲美专业相机。「传奇一瞬」还支持相机级景深虚化，通过大模型算法，还原真实光学层次感，以最接近光学法则的效果实现模糊虚化。同时，原片数据可在相册上传云端无损处理，海量真实数据训练，全场景自动优化。IT之家注意到，",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/474.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81c2-b9bc-d098df2b810e",
+      "title": "Meta 与 YouTube 恢复《马斯克》纪录片广告投放，X 平台仍拒绝",
+      "summary": "IT之家 9 月 27 日消息，目前有两家公司表示，他们将接受为导演亚历克斯 · 吉布尼（Alex Gibney）即将上映的关于埃隆 · 马斯克的纪录片投放广告，此前有报道称，多家社交媒体平台已拒绝这类广告。《好莱坞报道》当地时间周五刊发报道称，TikTok、Meta、YouTube 以及 X 平台全都拒绝投放付费广告，用来推广纪录片《马斯克》的预告片。不过，当 TechCrunch 于当地时间周六向 Meta 方面求证时，其一名发言人表示：“这属于一次失误，相关广告现已恢复投放。”YouTube 同样在周六发布了最新说明：“该预告片一直都可以在 YouTube 上正常播放。”（事实也的确如此",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/472.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81ee-946b-f0e943fd7d0c",
+      "title": "Bose 推出 QuietComfort Ultra II 汤姆 · 布朗特别版降噪耳机，950 美元",
+      "summary": "IT之家 9 月 27 日消息，Bose 今天宣布与美国时装设计师汤姆 · 布朗（Thom Browne）合作，推出特别版 QuietComfort Ultra II 降噪耳机。新品相比普通版加入了羊绒耳垫和全新外观设计，定价 950 美元（IT之家注：现汇率约合 6,393 元人民币），明日开始出货。IT之家从官方新闻稿了解到，该耳机将普通版的仿皮耳垫和头梁衬替换为羊绒材质。官方表示，这种材质可以还原冬季耳罩的温暖感。该机的耳罩和收纳盒均采用红、白、蓝、白条纹设计，左侧耳罩还加入了四道白色条纹，以便与右侧耳罩区分。规格方面，该耳机相比普通版并没有任何提升。依旧支持 CustomTune 声音",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/471.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8169-a44b-f73e40437f2c",
+      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+      "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-27",
+      "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/"
+    },
+    {
+      "id": "3e803df8-2d23-816d-808f-fb88cbd6bfa9",
+      "title": "第三方后装智驾闯大祸：5 起事故致 3 死，Comma.ai 遭美国联邦调查",
+      "summary": "IT之家 9 月 27 日消息，据 TechCrunch 报道，由黑客乔治 · 霍茨（George Hotz）创立的初创公司 Comma.ai 正面临美国联邦调查。此前，该公司后装驾驶辅助技术涉及 5 起已报告的交通事故，其中两起事故共造成 3 人死亡。美国国家公路交通安全管理局（NHTSA）缺陷调查办公室（ODI）本周表示，报告中的事故涉及 Comma.ai 设备未能探测到同一车道内缓慢行驶或已经停下的车辆，也未能及时采取应对措施。在其中 4 起事故中，共有最多 11 人受伤，其中一些伤势严重。ODI 表示，部分事故可能涉及使用 Comma.ai 软件的“分叉版”（forked）或修改版，其",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/470.htm"
+    },
+    {
+      "id": "3e803df8-2d23-812c-a159-f2be6d0f89f1",
+      "title": "小米之家新模式探索，河南首家米家智能家电体验店开业",
+      "summary": "IT之家 9 月 27 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰昨日发文宣布，河南首家米家智能家电体验店（中陆广场店）正式开业。他表示，米家智能家电体验店是小米之家的一次模式探索和门店品类的专业化扩展，用户可以在一个空间里体验到小米全屋智能，并亲手触摸到米家全系列的产品。卢伟冰还透露，米家智能家电体验店后续会在全国陆续扩展和开业。IT之家注：小米之家是小米公司于 2011 年下半年成立的直营客户服务中心，主要提供产品自提、技术支持和粉丝交流服务。2021 年 10 月 30 日，小米之家第 10000 家门店正式开业。去年 8 月，全国首家小米之家服务形象升级门店开业",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/469.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8142-a6e0-fb85c1139d4d",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-27",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+    },
+    {
+      "id": "3e803df8-2d23-8157-b1df-e27484f19f47",
+      "title": "开发商“日本一”与索尼讨论停产实体盘问题，称双方或许能找到某种妥协方案",
+      "summary": "IT之家 9 月 27 日消息，据外媒 Kotaku 本周（9 月 25 日）报道，“日本一”开发商 CEO 北角浩一最近对索尼 2028 年停产 PS 新游戏实体光盘感到担忧。他乐观地认为，双方或许能找到某种妥协方案，让公司继续售卖限定版实体游戏。IT之家从原报道获悉，日本一不仅会为自家游戏推出实体版本，还会推出精心制作的限定盒装版，除了游戏光盘 / 卡带外还附带各种周边。该公司曾短暂尝试过任天堂 Switch 2 的钥匙卡，但玩家群体对此强烈反对。北角浩一表示，他们公司掌握的信息与普罗大众没什么区别，他不知道其他公司的应对措施：“就我个人而言，我知道实体限定版游戏是商业模式的重要部分。我们",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/468.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81fd-9d98-e717d87ddaa0",
+      "title": "微软员工为 Copilot 辩护：没人用的印象来自旧金山科技泡沫",
+      "summary": "IT之家 9 月 27 日消息，据 Windows Latest 报道，微软首席执行官萨提亚 · 纳德拉（Satya Nadella）宣布 Copilot 迎来迄今规模最大的更新，甚至将其称为“面向工作的全新操作系统”后，一条略带嘲讽意味的评论迅速获得了 20 万次浏览。“认真问一句：到底有谁在用 Copilot？”一名开发者关系工程师发问。通常情况下，这类评论不会得到微软方面的回应，因为微软很清楚，在这种争论中很难占到便宜。不过，这次新版 Copilot 的潜力似乎足够大，一名微软员工确实认真回应了这一问题。“认真回答：有人在用。”微软员工尼古拉斯 · 布斯塔曼特（Nicolas Busta",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/466.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81cc-ae0d-e413dcf5e1f1",
+      "title": "消息称微软 XBOX 与小岛秀夫《PHYSINT》的合作预算远低于 4 亿美元",
+      "summary": "IT之家 9 月 27 日消息，据外媒 Windows Central 今天报道，近期一则关于微软 XBOX 工作室对游戏制作人小岛秀夫的投资传闻引发关注，该报道称双方合作金额非常夸张。不过《PHYSINT》项目的最终花费仍然有待观察。过去一段时间，微软 XBOX 一直在进行大规模重组，导致数千名员工被裁员，部分工作室被关闭或合并。微软 XBOX CEO 阿莎 · 夏尔马明确表示，公司将重点放在《辐射》《上古卷轴》等知名 IP。因此有人开始质疑 XBOX 与小岛工作室合作开发《PHYSINT》的契机。据可信消息源透露，微软与小岛工作室《PHYSINT》的合作预算远低于 4 亿美元（IT之家注：",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/465.htm"
+    },
+    {
+      "id": "3e803df8-2d23-817c-82dd-ebc0b71afba4",
+      "title": "2026 中秋档总票房突破 2.1 亿超去年，《复仇者联盟 4：终局之战（加码臻享版）》暂列第一",
+      "summary": "IT之家 9 月 27 日消息，据猫眼专业版数据，截至 2026 年 9 月 26 日 19 时 15 分，2026 年中秋档总票房（含预售）突破 2.10 亿，超 2025 年中秋档票房成绩。《复仇者联盟 4：终局之战（加码臻享版）》《欢迎来龙餐馆》《八仙！》暂列中秋档票房榜前三位。《复仇者联盟 4：终局之战（加码臻享版）》6870.51 万元《欢迎来龙餐馆》3797.71 万元《八仙！》2330.51 万元《老江湖》1847.30 万元《空枪》1331.53 万元IT之家查询公开影片放映信息获悉，中秋国庆假期相连，共有超过 20 部中外新片集中上映，涵盖悬疑、喜剧、合家欢动画等多种类型，中",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/464.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81ea-a19f-e176732b71b4",
+      "title": "联想来酷 GT 16 笔记本今日开售：RTX 3050、酷睿 5 205H、16GB+512GB，5999 元",
+      "summary": "IT之家 9 月 27 日消息，联想来酷 GT 16 笔记本将于今日 10:00 正式开售，售价 5999 元，国补到手价 5099.15 元。这款笔记本电脑搭载英特尔酷睿 5 205H 处理器（8 核心 12 线程，最大睿频 4.8GHz），英伟达 RTX 3050 笔记本电脑 GPU（4GB GDDR6 显存，95W 功耗），搭载 16GB 内存与 512GB PCIe 固态（预留 2280 M.2 硬盘位 ×1、SO-DIMM 内存位 ×1），至高 140W 性能释放。IT之家获悉，这款笔记本电脑搭载了一块 16 英寸 1920 × 1200 分辨率屏幕，刷新率 165Hz，色域覆盖 1",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/463.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81ee-9583-f7eb8df403ec",
+      "title": "铭瑄展示 MCIO 迷你工作站方案与多款迷你主机新品",
+      "summary": "IT之家 9 月 27 日消息，铭瑄 (MAXSUN) 本周在英特尔技术创新与产业生态大会 (Intel Connection 2026) 上展示了其 MCIO 迷你工作站方案与多款迷你主机新品。此次展出的 MCIO 迷你工作站基于 Z890 Mini-ITX 主板，通过 MCIO 线材转接实现高算力长显卡与主板的背对背安装，提供空间利用率。其采用酷冷至尊的 i100 Air 机箱、Hyper 510 下压式处理器风冷散热器、Gold V850 SFX 电源。铭瑄也在活动上带来了多款迷你主机产品，包括基于 \"Wildcat Lake\" 的 MU01 304、基于 \"Panther Lake\" ",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/462.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81df-b3b0-fb863fc9a9f9",
+      "title": "iQOO 16 手机超级潜望长焦拍摄样张公布，支持 3 倍光学变焦 + 6 倍无损变焦",
+      "summary": "IT之家 9 月 27 日消息，iQOO 16 新机将于 9 月 29 日 19:00 发布并开售。iQOO 手机官方昨日放出了 iQOO 16 手机超级潜望长焦拍摄样张。新机搭载蓝厂旗舰同款算法，支持 3 倍光学变焦 + 6 倍无损变焦。据 iQOO 旗舰系列产品经理王侃分享，iQOO 16 主摄升级到 5000 万超感光 1/1.3\" 大底，跟 iQOO 15 比，进光量直接提升 79%；配备 5000 万索尼超级潜望长焦 + 5000 万超广角，支持 CIPA 5.5 专业级防抖；蓝厂旗舰同款 NICE 3.0 光学重建引擎和 Magic 3.0 画质还原引擎，降噪的同时还能增强细节。据",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/460.htm"
+    },
+    {
+      "id": "3e803df8-2d23-815b-8afe-efc93321f5e5",
+      "title": "《足球经理 27》游戏公布：今年 11 月推出，已上架 Steam",
+      "summary": "IT之家 9 月 27 日消息，开发商 Sports Interactive 近日公布《足球经理 27》游戏，本作将于今年 11 月推出，具体售价、登陆平台将在后续公布。目前，《足球经理 27》游戏已上架 Steam。（商店页：https://store.steampowered.com/app/4530370/Football_Manager_27/）本作支持简体中文界面，具备单人、多人玩法，支持应用内购买以及 Xbox / PlayStation 控制器。IT之家附本作简介如下：《足球经理》的根基将在《FM27》中全面进化，构筑更为坚实的绿茵征途。从执教生涯开启的那一刻，即可体验到更简洁、",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/459.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81b2-b619-d58b30203c0f",
+      "title": "微软 CEO 纳德拉回应 XBOX 裁员：很高兴看到团队精简",
+      "summary": "IT之家 9 月 27 日消息，据 TechpowerUp 报道，微软首席执行官萨提亚 · 纳德拉（Satya Nadella）针对 XBOX 正在实施的裁员表态，称“很高兴看到（great to see）”。此番言论所谈及的，正是由 XBOX 首席执行官阿莎 · 夏尔马（Asha Sharma）主导的重组工作。IT之家注意到，在纳德拉发表该看法之前，XBOX 刚刚又进行了一轮裁员，新增裁撤 268 个岗位，而今年早些时候已经砍掉了 1600 个工作岗位。这项重组计划已经合并多家游戏工作室、重新调整《光环》（Halo）等 IP 项目布局，还有多名开发人员直接遭到解雇。纳德拉是在亚历克斯 · 希",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/458.htm"
+    },
+    {
+      "id": "3e803df8-2d23-816f-8010-e0436e4f375a",
+      "title": "韩国首尔航空航班乘客行李冒烟，疑似充电宝引发火情",
+      "summary": "IT之家 9 月 27 日消息，据央视新闻报道，韩国首尔航空一架客机在首尔仁川国际机场即将起飞时突发险情：一名乘客的行李冒烟起火，疑似充电宝引发火情。韩国方面消息称，这起火灾发生在 24 日 21 时左右，涉事客机为首尔航空 RS511 航班，当时准备从仁川国际机场起飞，目的地是越南岘港。一名乘客放置在座椅下方的行李包起火冒烟，包内收纳袋装有一个充电宝。机组人员使用瓶装水等扑灭明火，随后现场交由到场的消防人员处置。事发时，这架客机上共有 221 名乘客和 7 名机组人员。部分乘客在火情发生后出现呼吸道不适情况，但无人需要住院治疗。火情发生后，全体乘客下机。219 名乘客登上替补航班，两名乘客自",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/457.htm"
+    },
+    {
+      "id": "3e803df8-2d23-8173-9f85-da6f6774b396",
+      "title": "IT早报 0927：微信鸿蒙版 App 安装量破 8000 万；豆包手机助手回应努比亚手机王者荣耀异常；华为大疆联名推出 Pocket 4；OpenAI 暂停最强模型训练...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 27 日星期日，今天的重要科技资讯有：1. 微信鸿蒙版 App 安装量正式突破 8000 万微信鸿蒙版 App 9 月 26 日再迎里程碑时刻 —— 安装量正式突破 8000 万（最新数据显示安装量为 8020 万次）。其于 2025 年 1 月正式登陆华为鸿蒙应用市场 App Gallery。此前有消息称，微信鸿蒙版 App 适配已接近尾声。>> 查看详情2. 努比亚 NaviX Ultra 手机《王者荣耀》使用异常，豆包手机助手回应称全程未对腾讯游戏系统进行任何操作豆包手机助手 25 日在官方社区发文，就努比亚 NaviX Ultra",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/456.htm"
+    },
+    {
+      "id": "3e803df8-2d23-81db-931e-d069f0bbc662",
+      "title": "欧盟层面 FSD（监督版）投票推迟，特斯拉与爱尔兰展开审批磋商",
+      "summary": "IT之家 9 月 27 日消息，欧盟已把针对特斯拉 FSD（监督版）的全欧盟范围监管投票，从 10 月 6 日推迟至最早 12 月举行；而特斯拉不愿坐等，转而直接与各个成员国政府展开合作。据 Irish Examiner 的一篇报道，特斯拉证实公司正积极“与主管部门开展合作”，争取在爱尔兰拿到 FSD 的本土使用许可。特斯拉在一份官方声明中表示：“本周初，FSD（监督版）已经获得捷克的监管批准。至此，欧洲已有七个市场认可了 FSD（监督版）所具备的变革性潜力。爱尔兰有望在合适时机迎来这项变革性技术上路。”IT之家注意到，特斯拉在爱尔兰的汽车累计交付量已经突破 15000 台，2026 年至今的",
+      "source": "IT之家",
+      "publishTime": "2026-09-27",
+      "link": "https://www.ithome.com/1/007/455.htm"
+    },
     {
       "id": "3e803df8-2d23-8182-8609-cd0542d6861e",
       "title": "机械革命苍龙 G705 台式整机上架：9850X3D + 5080 + 32GB + 2TB，首发价 23999 元",
@@ -32,374 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-09-27",
       "link": "https://www.ithome.com/1/007/451.htm"
-    },
-    {
-      "id": "3e803df8-2d23-818a-9698-ce4105404301",
-      "title": "蓝戟 Arc Pro B70 双卡液冷工作站、迷你工作站线下首展",
-      "summary": "IT之家 9 月 27 日消息，蓝戟 (GUNNIR) 在本月 22 日的英特尔技术创新与产业生态大会 (Intel Connection 2026) 上首次在线下展示了其基于锐炫专业版 (Arc Pro) B70 显卡的双卡液冷工作站、迷你工作站解决方案。可以看到，这两款设备均采用英特尔酷睿 Ultra 200HX \"Arrow Lake HX\" 处理器平台，分别采用液冷和均热板散热方案，在有限的体积内提供了大量显存和不俗 AI 算力，支持各种本地 AI 应用场景。IT之家注意到，蓝戟此次还展出了基于锐炫专业版 B50 / B65 的 MXM 外形规格独立显卡。",
-      "source": "IT之家",
-      "publishTime": "2026-09-27",
-      "link": "https://www.ithome.com/1/007/450.htm"
-    },
-    {
-      "id": "3e803df8-2d23-8122-a085-ec30753fb816",
-      "title": "富士胶片开卖 LTO-10 磁带：单盘原生 40TB，售价 494 美元",
-      "summary": "IT之家 9 月 27 日消息，富士胶片（Fujifilm）已经开始销售其最新的 LTO-10 Ultrium 磁带，这是一种专门面向企业数据归档和长期备份需求打造的存储介质。每盘磁带原生容量为 40TB，采用标准的 2.5:1 压缩后，最高可存储 100TB 数据。按照每首歌曲平均 3MB 的文件大小计算，单盘磁带理论上可以存储约 1300 万首歌曲。面向数据中心和长期归档的超大容量富士胶片采用钡铁氧体（Barium Ferrite）颗粒技术制造这款磁带，这种磁性材料主要用于提升存储稳定性，并延长数据归档寿命。该公司公布的未压缩数据传输速度为 440MB/s，考虑压缩后的实际性能最高可达到 ",
-      "source": "IT之家",
-      "publishTime": "2026-09-27",
-      "link": "https://www.ithome.com/1/007/449.htm"
-    },
-    {
-      "id": "3e803df8-2d23-818a-952c-d7c6f0d60734",
-      "title": "赛力斯回应问界专属专营后是否支持鸿蒙智行独家技术，称将持续应用华为智能化技术并不断迭代升级",
-      "summary": "IT之家 9 月 27 日消息，鸿蒙智行在 9 月 15 日发布说明，宣布问界将在鸿蒙智行合作框架下探索新合作模式：产品定义、产品设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能。关于品牌专属专营后，问界后续车型是否还支持鸿蒙智行独家技术，也成为了大家关注的重点。IT之家注意到，赛力斯官方在投资者平台针对该问题进行了正面回应：赛力斯和华为保持长期、稳定的战略合作关系。问界专属专营不改变双方的合作框架，更不会改变技术方面的合作，华为的智能化技术将持续应用于问界并不断迭代升级，让用户持续享受到领先、优质的智能出行体验。作为参考，华为常务董事、产品投资评审委员会主任、终端 BG 董事",
-      "source": "IT之家",
-      "publishTime": "2026-09-27",
-      "link": "https://www.ithome.com/1/007/448.htm"
-    },
-    {
-      "id": "3e803df8-2d23-816b-b70c-ef2250592cb8",
-      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-      "summary": "IT之家 9 月 27 日消息，据 Axios 报道，OpenAI、Anthropic 以及安全研究人员正在调查数万起事件。在这些事件中，两家公司的前沿模型采取了一些外部评估人员认为存在问题的行动。这些事件发生在近几个月的内部测试和现实环境中。如此庞大的事件数量表明，相关问题的复杂程度可能比公众目前了解到的高出几个数量级。这些发现来自两家公司内部开展的模型评估工作，以及针对模型行为进行的调查。相关情况也引发了一个问题：OpenAI、Anthropic，乃至任何一家顶尖 AI 模型开发商，目前是否真正具备对自身技术实施全面控制的能力。消息人士称，这些事件包括绕过安全护栏、创建留言板、逃离沙盒、劫",
-      "source": "IT之家",
-      "publishTime": "2026-09-27",
-      "link": "https://www.ithome.com/1/007/447.htm"
-    },
-    {
-      "id": "3e803df8-2d23-8101-8228-c24b260bcce0",
-      "title": "卢伟冰：小米 18 Pro 会在今年内登陆国际市场，国外媒体和用户呼声很高",
-      "summary": "IT之家 9 月 27 日消息，小米 18 Pro 系列手机已于 9 月 23 日晚正式发布，搭载第六代骁龙 8 至尊版系列移动平台，后置徕卡 2 亿大底主摄 + 2 亿大底长焦，配备 AI 百变背屏，售价 5999 元起。IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰昨晚发文，谈及了小米 18 Pro 系列手机在海外上市的事宜。他透露，系列新机会在今年内登陆国际市场。卢伟冰表示，国外媒体和用户，对小米 18 Pro 系列呼声很高，期待早日上市。值得一提的是，在 9 月 23 日的小米秋季新品发布会上，小米还发布了 18 Pro 系列透明特别版手机，9999 元起。",
-      "source": "IT之家",
-      "publishTime": "2026-09-27",
-      "link": "https://www.ithome.com/1/007/446.htm"
-    },
-    {
-      "id": "3e803df8-2d23-81f2-9035-c3c19702c41f",
-      "title": "接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练",
-      "summary": "IT之家 9 月 27 日消息，随着有关 OpenAI 模型突破限制、攻击网站以及整体行为失控的报告不断增加，该公司决定暂停训练旗下能力最强的模型。这一决定是在一款处于沙盒环境中测试的模型利用漏洞获得互联网访问权限后作出的。该事件发生于 9 月 20 日。截至当地时间 9 月 25 日星期六晚间，OpenAI“所有涉及工具使用的训练、评估和推理工作”仍处于暂停状态。此外，OpenAI 周五披露，其智能体曾不当将 ChatGPT 用户的 53 张图片上传至图片托管网站。该公司尚未说明这些图片究竟是 AI 生成的图像、用户拍摄的照片，还是包含可识别身份的人物。OpenAI 同日还透露，其模型曾尝试",
-      "source": "IT之家",
-      "publishTime": "2026-09-27",
-      "link": "https://www.ithome.com/1/007/445.htm"
-    },
-    {
-      "id": "3e703df8-2d23-81e9-9573-f15c2899aa3d",
-      "title": "Apple hit with $5.7 billion in damages over haptic patents",
-      "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based,",
-      "source": "The Verge",
-      "publishTime": "2026-09-27",
-      "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
-    },
-    {
-      "id": "3e703df8-2d23-81b7-b530-d5c988b0c61b",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-27",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
-    },
-    {
-      "id": "3e703df8-2d23-81d0-9f62-ec33845c5be0",
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-27",
-      "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
-    },
-    {
-      "id": "3e703df8-2d23-811d-99a3-e52e00dc16a7",
-      "title": "I moved between 2 countries and languages as a teen. I got very good at proving myself.",
-      "summary": "I attended four high schools while moving between the US and Dominican Republic. Constantly being misjudged taught me to advocate for myself.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-27",
-      "link": "https://www.businessinsider.com/immigrant-student-learned-english-reading-newspapers-writing-2026-9"
-    },
-    {
-      "id": "3e703df8-2d23-815f-b633-ef7ea9d80550",
-      "title": "My husband and I don't exchange gifts for birthdays or holidays. Here's what we do instead.",
-      "summary": "We focus on date nights, trips, and surprises instead of birthday and holiday gifts. Once, he gave me diamond earrings on a random day \"just because.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-09-27",
-      "link": "https://www.businessinsider.com/couple-doesnsnt-exchange-holiday-birthday-gifts-give-surprises-2026-9"
-    },
-    {
-      "id": "3e703df8-2d23-8149-89ff-c178ad66a1a7",
-      "title": "Decap is the man behind the drums behind your favorite song",
-      "summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and",
-      "source": "The Verge",
-      "publishTime": "2026-09-27",
-      "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview"
-    },
-    {
-      "id": "3e703df8-2d23-81b5-99d9-e4401585692e",
-      "title": "I'm 21 and make up to $280,000 a month reselling sneakers. I don't see my friends much and still live at home.",
-      "summary": "Robbie Cartwright started reselling sneakers at 14. At 21, he hit $280,000 in monthly sales while still living with his parents.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-27",
-      "link": "https://www.businessinsider.com/gen-z-sneaker-reseller-business-lives-with-parents-2026-9"
-    },
-    {
-      "id": "3e703df8-2d23-81e5-ba55-cc711fd489e8",
-      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-      "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-27",
-      "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/"
-    },
-    {
-      "id": "3e703df8-2d23-8159-80d4-e95a9837642f",
-      "title": "Kids turned the comment section of an NPR podcast into a group chat",
-      "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boil",
-      "source": "The Verge",
-      "publishTime": "2026-09-27",
-      "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section"
-    },
-    {
-      "id": "3e703df8-2d23-8189-9ed3-cc987757edf9",
-      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-      "summary": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-27",
-      "link": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html"
-    },
-    {
-      "id": "3e703df8-2d23-814f-a10c-fd27b0d66020",
-      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-      "summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-27",
-      "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/"
-    },
-    {
-      "id": "3e703df8-2d23-819f-a152-f95a15f3f576",
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet ac",
-      "source": "The Verge",
-      "publishTime": "2026-09-27",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
-    },
-    {
-      "id": "3e703df8-2d23-816d-bc36-e8c03396b4e4",
-      "title": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields",
-      "summary": "Here's a look at the three developments that drove the action in our portfolio last week.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-27",
-      "link": "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html"
-    },
-    {
-      "id": "3e703df8-2d23-815a-83c4-fbbc01816e9a",
-      "title": "We moved from the US to a small Italian village. Now, my 75-year-old parents are following in our footsteps.",
-      "summary": "When my husband and I moved to a Sicilian village, we worried about leaving my parents in the US. To our surprise, they decided to move to Italy, too.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-27",
-      "link": "https://www.businessinsider.com/aging-parents-moving-to-italian-town-in-sicily-following-us-2026-9"
-    },
-    {
-      "id": "3e703df8-2d23-815d-8ca3-e187bc71d263",
-      "title": "Pope Leo XIV warns against losing humanity to a ‘paradise of machines’",
-      "summary": "Pope Leo XIV cautioned against becoming too reliant on AI and other technology during a speech to diplomats in France on Friday.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-26",
-      "link": "https://www.businessinsider.com/pope-leo-xiv-warns-against-losing-humanity-paradise-of-machines-2026-9"
-    },
-    {
-      "id": "3e703df8-2d23-81ed-bfde-cbcdb3f6c305",
-      "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
-      "summary": "Anthropic 官宣，Claude 拿下了理论物理的一项前沿纪录。它在几乎无人类干预的情况下，连续运行数天，一举攻克了高能物理学界出了名难算的「九圈散射振幅」计算难题！具体来说，它算出了平面 N=4 超杨-米尔斯理论里六粒子振幅的九圈结果，人类此前的纪录停在八圈。注意，杨-米尔斯模型（Yang-Mills）其中的「杨」，指的正是物理学泰斗杨振宁先生。他与米尔斯在 1954 年共同创立的「杨-米尔斯理论」，是整个现代粒子物理学的基石。基于它的任何高阶计算，都堪称人类脑力的极限挑战。如今，人类顶尖理论物理学家，就这样被 AI「截胡」了。更可怕的是，Claude 完成这项神级挑战，仅仅只用了一个",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/444.htm"
-    },
-    {
-      "id": "3e703df8-2d23-8173-9e33-ca4a49fe0496",
-      "title": "White House blocks CNN from traveling with Trump on Air Force One",
-      "summary": "The move is the latest development in the Trump administration's ongoing fight with CNN, MS NOW and POLITICO.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-26",
-      "link": "https://www.businessinsider.com/white-house-blocks-cnn-from-traveling-trump-air-force-one-2026-9"
-    },
-    {
-      "id": "3e703df8-2d23-8177-be44-fe1284a3579a",
-      "title": "Why I’m Keeping Meta’s Muse on a Short Leash",
-      "summary": "• The Big Read: A biology contest pitting OpenAI against human scientists goes awry • Why the big, bad bears aren’t ready to bet big on AI yet • A gusher of oil money is washing up in Silicon Valley• Plus, Recommendations—our weekly pop culture picks: “The Journey,” “Roll the Calls” and “Backrooms”A",
-      "source": "The Information",
-      "publishTime": "2026-09-26",
-      "link": "https://www.theinformation.com/articles/keeping-metas-muse-short-leash"
-    },
-    {
-      "id": "3e703df8-2d23-812a-a035-e71883205447",
-      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-      "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-26",
-      "link": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html"
-    },
-    {
-      "id": "3e703df8-2d23-81f1-8a6d-f9e7dbd5e104",
-      "title": "Airlines waive change fees as nor'easter hits Northeast",
-      "summary": "Over 88,000 customers in the region had lost power as of Saturday morning.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-26",
-      "link": "https://www.businessinsider.com/airlines-waive-change-fees-noreaster-northeast-boston-laguardia-newark-2026-9"
-    },
-    {
-      "id": "3e703df8-2d23-818c-bc94-d96a97608685",
-      "title": "宇树王兴兴回应为何造 390 万元起的载人变形机甲：大型机器人是行业不可阻挡的趋势",
-      "summary": "IT之家 9 月 26 日消息，今年 5 月，宇树科技发布 GD01 载人变形机甲，390 万元起。9 月 23 日至 27 日，第五届全球数字贸易博览会在杭州举行。宇树 GD01 载人机甲现身数贸会主题馆，据科创板日报报道，现场工作人员表示，问价的人不少，还没有卖出去一台。在数贸会数字贸易与人工智能对话论坛上，宇树科技创始人王兴兴以《从机械到灵智 —— 具身未来进化论》为题发表主旨演讲。在演讲中，王兴兴解释了为什么要研发这台载人机甲。随着 AI 与机器人底层技术成熟，大型机器人与小型机器人的研发落地并不冲突。大型机器人是行业不可阻挡的趋势，就算宇树不做，未来几年也会有其他企业推出同类产品。“",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/443.htm"
-    },
-    {
-      "id": "3e703df8-2d23-81b6-802d-e8df7165959e",
-      "title": "Opus 5.5 干一半就开溜？Anthropic 揭秘：你的程序替它打了下班卡",
-      "summary": "你让 AI Agent 连夜迁移一个代码库。第二天一早，满怀期待地打开终端，没想到只看到这样一条消息：已完成 3 个接口迁移，接下来我将处理剩余两个端点，并补上测试。然后，就没有下文了。想让它干完剩下的活，你还得再敲两个字：继续。本以为它会一口气干到底，结果它只给你画了张「下一步」的饼，程序就替它打卡下班了。这不是某一个人的倒霉经历。Opus 5.5 一发布，跑 Agent 的开发者就发现，模型能力是强了，可干着干着就爱停下来，你不催它就不动。Anthropic 自己也看到了。发布没几天，配套的提示词指南已经挂了出来，专门给这类毛病打补丁。在开篇的排查清单里，官方直接点名了这种「半路溜号」：无",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/442.htm"
-    },
-    {
-      "id": "3e703df8-2d23-8195-ae5a-c56d45f4ab77",
-      "title": "The blue-collar AI job market is booming. Will data center backlash make it go bust?",
-      "summary": "The public has soured on AI data centers and states are slowing development, but for HVAC, plumbing, welding, and electrical workers, it's been a jobs boom.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-09-26",
-      "link": "https://www.cnbc.com/2026/09/26/blue-collar-jobs-ai-data-center-backlash.html"
-    },
-    {
-      "id": "3e703df8-2d23-8166-b103-c166f00c53ca",
-      "title": "All 36 athletes who have hosted 'Saturday Night Live'",
-      "summary": "Over the course of \"SNL's\" 52 seasons, 36 athletes have laced up their boots and tried something scarier than professional sports: sketch comedy.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-26",
-      "link": "https://www.businessinsider.com/every-athlete-who-has-hosted-saturday-night-live"
-    },
-    {
-      "id": "3e703df8-2d23-8199-ad12-f8e45f16b824",
-      "title": "从代码分析到授权争议：一用户用 AI 破解 IDM 引发争议",
-      "summary": "IT之家 9 月 26 日消息，据 Wccftech 报道，一则关于“大语言模型破解付费软件”的帖子今日在 Reddit 上引发关注。用户 No_Ideal8394 声称，他利用无审查限制的 Qwen3.8-Flash-Next-Uncensored，成功破解了 Internet Download Manager（IDM）6.43 版本，使其绕过 IDM 试用限制，将软件变为完全激活版本，从而省去每年每台电脑 11.95 美元（IT之家注：现汇率约合 80.4 元人民币）的授权费用。在这一过程中，他只花了 5 欧元（现汇率约合 38.3 元人民币）去租用云 GPU，将问题交给模型处理。发帖者表",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/441.htm"
-    },
-    {
-      "id": "3e703df8-2d23-815d-8e6a-e9bfd6045e78",
-      "title": "We got rid of our deck and replaced it with a patio. It saved us over $30,000 and helped us optimize our outdoor space.",
-      "summary": "Replacing our wood deck with a stone patio helped us optimize and upgrade our outdoor space while saving money on renovations. It was worth it.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-26",
-      "link": "https://www.businessinsider.com/got-patio-instead-of-deck-worth-it-saved-money-photos-2026-9"
-    },
-    {
-      "id": "3e703df8-2d23-81cc-bd43-ff4d1d315b4f",
-      "title": "中国科学院与合工大解锁薄板“漩涡操控”新技术，实现无电子调控的跨尺度物体精准操控",
-      "summary": "IT之家 9 月 26 日消息，据央视新闻报道，不用任何电子设备，仅靠一块提前设计好的普通薄板，就能让大小不一的颗粒、构件自动旋转、绕行、定点停留。近日，中国科学院声学研究所联合合肥工业大学的科研团队，攻克新型物体操控技术，实现了无电子调控的跨尺度物体精准操控，相关成果近日在国际学术期刊《先进科学》发表。▲ 弯曲波涡旋跨尺度表面物体操控实验据了解，非接触物体操控是微机械制造、微型机器人研发、智能生产等领域的核心技术。以往科学界主要依靠涡旋波实现物体旋转、轨道运动，但传统技术需要复杂的电子控制系统、多通道设备配合，对调控精度要求极高，设备烦琐、成本较高，极大限制了技术的普及应用。针对这一痛点，我",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/439.htm"
-    },
-    {
-      "id": "3e703df8-2d23-8184-846a-c78ca34a04c9",
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it […]",
-      "source": "The Verge",
-      "publishTime": "2026-09-26",
-      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
-    },
-    {
-      "id": "3e703df8-2d23-818a-bb4a-df754285df2f",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "source": "TechCrunch",
-      "publishTime": "2026-09-26",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
-    },
-    {
-      "id": "3e703df8-2d23-815f-8d1a-f0179f4f1671",
-      "title": "科学家首次实时观测单个声子消失，量子计算纠错研究迈出重要一步",
-      "summary": "IT之家 9 月 26 日消息，斯坦福大学宣布，该校团队首次实时观测到单个“声子”（phonon）消失的量子跃迁过程。相关成果已于当地时间 9 月 17 日发表于《科学》。与光子的概念类似，“声子”是声音在量子尺度上的最小离散能量单位。宏观世界中，铃声或音叉的振动会逐渐减弱，但在量子世界里，振动能量并非连续衰减，而是以一个个离散台阶突然变化，这种瞬间转换被称为“量子跃迁”。研究团队由斯坦福大学应用物理学教授 Amir H. Safavi-Naeini 领衔。他表示，能够探测到声子的量子跃迁，有望帮助解决量子计算中的关键问题 —— 识别计算过程中何时发生错误，因为在许多量子计算架构中，量子跃迁本",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/438.htm"
-    },
-    {
-      "id": "3e703df8-2d23-8199-8c68-e645752bb520",
-      "title": "绿联推出 65W 旅行转换充电器：无极旋转插脚适配美 / 澳 / 欧 / 英规、2C+1A，169 元",
-      "summary": "IT之家 9 月 26 日消息，继 67W 屏显旅行充电器后，绿联又推出了 65W 旅行转换充电器，现已开始预售，将于 9 月 29 日开售，售价 169 元。这款充电器采用新一代 360° 无极旋转插脚，可在美规、澳规、欧规、英规之间自由切换，支持 100V-240V 宽幅电压，适配各国电压标准。这款充电器配备 2C+1A 三接口设计，兼容 PD、PPS、QC、FCP、SCP 等协议，支持三台设备同时充电：其中两个 USB-C 接口单口输出最高 65W，USB-A 接口输出最高 22.5W。IT之家附详细参数如下：京东绿联 65W 旋转多国充电器 169 元直达链接",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/437.htm"
-    },
-    {
-      "id": "3e703df8-2d23-81e4-a446-e8f4e5294af1",
-      "title": "《英雄联盟》2026 德玛西亚杯升级国际邀请赛：明日开票，10 月 3 日开赛",
-      "summary": "IT之家 9 月 26 日消息，2026 德玛西亚杯国际邀请赛将于 10 月 3 日至 10 月 17 日举办，并将于 9 月 27 日 14:00 全网开票。本届赛事升级为国际邀请赛，由腾竞体育和虎牙直播联合主办。全球六大赛区共 12 支队伍受邀参赛。线上小组赛于 10 月 3 日至 10 月 8 日进行，采用瑞士轮赛制，相同战绩队伍抽签决定对阵。率先取得 2 胜的队伍直接晋级淘汰赛；0 胜 2 负的队伍进行单循环积分赛，获胜队伍将与 3 支 1 胜 2 负队伍争夺剩余晋级名额。最终 8 支战队晋级线下淘汰赛。线下淘汰赛于 10 月 12 日至 10 月 15 日举行，采用单败 BO5（IT",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/436.htm"
-    },
-    {
-      "id": "3e703df8-2d23-8182-b23b-e797c6dcb033",
-      "title": "欧盟拟增加卫星发射，或向挪威、英国、加拿大等寻求域外发射场",
-      "summary": "IT之家 9 月 26 日消息，据金融时报报道，主管太空事务的欧盟专员安德留斯 · 库比柳斯（Andrius Kubilius）表示，为了实现卫星组网目标，欧盟必须放眼境外，物色新的发射阵地。库比柳斯在接受采访时指出，根据欧盟对 2034 年前火箭发射量增长六倍的预测，他们将不得不借用挪威、英国及加拿大的发射场地。到 2034 年，欧盟每年将需要进行 62 次轨道发射，以支撑伽利略导航系统、哥白尼对地观测系统、安全卫星连接系统以及一项新规划的政府地球观测服务。据介绍，目前部署在欧洲航天局法属圭亚那主发射场的阿丽亚娜 6 号运载火箭，年发射承载力仅为 10 次，后续亟需提升至 14 次。IT之家",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/435.htm"
-    },
-    {
-      "id": "3e703df8-2d23-81ec-b3d9-ffe388a16fe7",
-      "title": "1931 年理论预言终获验证：科学家首次在超冷原子气体中观测到贝特弦",
-      "summary": "IT之家 9 月 26 日消息，奥地利因斯布鲁克大学研究团队成功在超冷铯原子气体中实验观测到“Bethe strings（贝特弦）”，验证了物理学家汉斯 · 贝特于 1931 年提出的一项量子理论预测。贝特弦是一种仅能存在于一维量子系统中的多粒子束缚态。与依靠化学键形成的普通分子不同，它们完全由粒子间的量子相互作用维系，因此长期以来被视为量子多体理论中的重要预测之一。数十年来，贝特弦主要停留在理论层面，此后实验人员在固态磁性系统中探测到它们。此次研究在超冷气体中创建并观测到贝特弦，这一环境允许科学家调节这些集团形成与相互作用的条件。该研究由因斯布鲁克大学实验团队，以及阿姆斯特丹大学、慕尼黑工业",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/434.htm"
-    },
-    {
-      "id": "3e703df8-2d23-8151-93aa-d05fdea1b191",
-      "title": "How New Mexico’s Oil Windfall Became a $2 Billion VC Bet",
-      "summary": "A few weeks ago, Augustus Doricko, founder of the cloud-seeding startup Rainmaker, stood in a park on the outskirts of Albuquerque, N.M., flying a drone in the sky. Clad in a khaki field shirt, he looked at home in the desert heat: 97 degrees, not a rain cloud in sight. “The conditions here are grea",
-      "source": "The Information",
-      "publishTime": "2026-09-26",
-      "link": "https://www.theinformation.com/articles/new-mexicos-oil-windfall-became-2-billion-vc-bet"
-    },
-    {
-      "id": "3e703df8-2d23-816a-9ae9-f3f8cf1c4796",
-      "title": "Why Wall Street’s Big, Bad Bears Aren’t Ready to Bet Against AI Yet",
-      "summary": "Steve Eisman, former hedge fund manager and short seller, has become one of the more prominentcritics of the AI phenomenon that is sweeping the markets and, according to some, endangering the world. Yet Eisman, who initially shot to fame for his trades in the 2008 financial crisis and his subsequent",
-      "source": "The Information",
-      "publishTime": "2026-09-26",
-      "link": "https://www.theinformation.com/articles/wall-streets-big-bad-bears-ready-bet-ai-yet"
-    },
-    {
-      "id": "3e703df8-2d23-8197-9bb4-dba85ca76725",
-      "title": "OpenAI reveals the AI-era workplace skills that matter most",
-      "summary": "OpenAI's latest data shows AI is automating coding fast, but human judgment, priorities, and decision-making still matter most.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-26",
-      "link": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9"
-    },
-    {
-      "id": "3e703df8-2d23-81be-8d47-f9092cf63921",
-      "title": "Control Resonant is a great game — it’s even better when you read everything",
-      "summary": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optional in Resonant, but it's where some of the game's",
-      "source": "The Verge",
-      "publishTime": "2026-09-26",
-      "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs"
-    },
-    {
-      "id": "3e703df8-2d23-8140-85ef-cb4f6526580f",
-      "title": "2026 WSBK 意大利克雷莫纳站第一回合：张雪机车德比斯排名第四",
-      "summary": "IT之家 9 月 26 日消息，2026 世界超级摩托车锦标赛 WSBK 意大利克雷莫纳站 WorldSSP 第一回合正赛刚刚结束，来自张雪机车的 53 号瓦伦丁 · 德比斯排名第四，64 号卡里卡苏洛摔车遗憾退赛。之前排位赛，中国摩托车制造商“张雪机车”车手瓦伦丁 · 德比斯排名第八，正赛首回合从第三排发车。比赛刚开始，因有车手发生碰撞，赛场出示红旗。比赛重新发车开始，赛程缩减至 13 圈。最终，德比斯获得首回合第 4 名。IT之家注：WSBK 意大利克雷莫纳站是本赛季第十站，赛道全长 3.768 公里，共 13 个弯道，为当前 WSBK 赛历中最短赛道。值得一提的是，张雪机车创始人张雪兑现",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/432.htm"
-    },
-    {
-      "id": "3e703df8-2d23-8128-9c9a-e3ec8c8d5c4d",
-      "title": "新款马自达 EZ-60 激光版上市，限时价 11.39 万元起",
-      "summary": "IT之家 9 月 26 日消息，2027 款 EZ-60 激光版今晚正式上市。新车共推出 9 款车型，限时惊喜价 11.39 万至 16.69 万元，新增激光雷达，智能辅助驾驶能力得到提升。IT之家汇总如下：马自达 EZ-60车型官方指导价（万元）限时惊喜价（万元）增程 200 Air11.9911.39增程 200 Pro13.9913.39增程 200 Pro 激光版15.1914.59增程 200 Max15.4914.89增程 200 Max 激光版16.6916.09纯电 600 Pro14.5913.99纯电 600 Pro 激光版15.7915.19纯电 600 Max16.09",
-      "source": "IT之家",
-      "publishTime": "2026-09-26",
-      "link": "https://www.ithome.com/1/007/431.htm"
     }
   ],
   "macroEvents": [
