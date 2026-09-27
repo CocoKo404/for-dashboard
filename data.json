@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-09-28 02:34",
+  "updatedAt": "2026-09-28 06:26",
   "news": [
+    {
+      "id": "3e803df8-2d23-81b9-a766-ed46e61bdd1e",
+      "title": "Trump to have dinner with Anthropic CEO Amodei at the White House",
+      "summary": "Athropic CEO Dario Amodei is set to have dinner with President Donald Trump at the White House on Sunday.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-28",
+      "link": "https://www.cnbc.com/2026/09/27/trump-dinner-anthropic-ceo-amodei.html"
+    },
+    {
+      "id": "3e803df8-2d23-8189-8964-e365e93c5938",
+      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+      "summary": "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-09-28",
+      "link": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html"
+    },
+    {
+      "id": "3e803df8-2d23-81c8-99f3-cd7e519c7128",
+      "title": "Dario Amodei to have dinner with President Trump in a rare meeting",
+      "summary": "The meeting comes as Amodei's calls for government regulation of AI companies have fallen flat.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-28",
+      "link": "https://www.businessinsider.com/dario-amodei-to-have-dinner-with-president-trump-2026-9"
+    },
+    {
+      "id": "3e803df8-2d23-813a-9768-faeb7661afd5",
+      "title": "I almost said no to my teen's inconvenient first job. Then I realized how much she needed the experience.",
+      "summary": "My teen's first job is at a seafood restaurant on a Maine island. Getting her there is a hassle, but the independence she's gained is worth it.",
+      "source": "Business Insider",
+      "publishTime": "2026-09-28",
+      "link": "https://www.businessinsider.com/teen-first-summer-job-maine-island-ferry-commute-2026-9"
+    },
+    {
+      "id": "3e803df8-2d23-815a-ae30-ebbccfbe32ae",
+      "title": "Anthropic’s Amodei to Dine With Trump at White House",
+      "summary": "Anthropic CEO Dario Amodei is scheduled to have dinner with President Donald Trump at the White House on Sunday, Axios reported. The private dinner will be the first meeting between Trump and Amodei, Axios reported, and could be a sign of warming relations between Anthropic and the White House. ...",
+      "source": "The Information",
+      "publishTime": "2026-09-28",
+      "link": "https://www.theinformation.com/briefings/anthropics-amodei-dine-trump-white-house"
+    },
+    {
+      "id": "3e803df8-2d23-8173-adc8-faeebeac1473",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government s",
+      "source": "The Verge",
+      "publishTime": "2026-09-28",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+    },
+    {
+      "id": "3e803df8-2d23-81fe-817d-e00a705a6bf1",
+      "title": "Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
+      "summary": "On \"Meet the Press,\" Bill Gates said humanity is entering the messy first phase of AI, but the second one could bring an \"era of abundance.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-09-28",
+      "link": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9"
+    },
+    {
+      "id": "3e803df8-2d23-81a5-b6a4-c09dd360b965",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-28",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+    },
+    {
+      "id": "3e803df8-2d23-81c8-8c91-f92c7f8ab7ba",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "publishTime": "2026-09-28",
+      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/"
+    },
     {
       "id": "3e803df8-2d23-8161-84a4-e2ed4933a8b2",
       "title": "iQOO Pad Ultra 平板官宣搭载 9020mAh 蓝海电池，8.8 英寸机身轻至 298g",
@@ -328,78 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-09-27",
       "link": "https://www.ithome.com/1/007/563.htm"
-    },
-    {
-      "id": "3e803df8-2d23-81a1-9a41-ee54acfffb60",
-      "title": "You Don’t Need to Pay for Distraction-Blocking Software",
-      "summary": "These free iOS and Android apps create the physical friction you need to put down your phone.",
-      "source": "Wired",
-      "publishTime": "2026-09-27",
-      "link": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/"
-    },
-    {
-      "id": "3e803df8-2d23-810d-9dd6-ccec87f7c0c0",
-      "title": "Ruby on Rails creator declares 'pencils down' on handwritten code",
-      "summary": "David Heinemeier Hansson said his software firm was \"done writing code by hand.\" His company will only hand-write code when an AI agent can't.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-27",
-      "link": "https://www.businessinsider.com/ruby-on-rails-creator-no-more-handwritten-code-2026-9"
-    },
-    {
-      "id": "3e803df8-2d23-81f9-a12d-db90830f588c",
-      "title": "5 BI staffers who put AI agents to work share what worked and what went wrong",
-      "summary": "BI staffers have been using personal AI agents for everything from reserving library books to collecting K-pop merch.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-27",
-      "link": "https://www.businessinsider.com/staffers-test-personal-ai-agent-muse-instinct-highs-lows-2026-9"
-    },
-    {
-      "id": "3e803df8-2d23-8152-95a4-ca8b4ddc89e4",
-      "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
-      "summary": "Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities’ impact on the atmosphere.",
-      "source": "Wired",
-      "publishTime": "2026-09-27",
-      "link": "https://www.wired.com/story/data-center-backlash-climate-reckoning/"
-    },
-    {
-      "id": "3e803df8-2d23-81c4-8ffd-f4a1152da647",
-      "title": "AI is prompting these Gen Zers to learn how to type",
-      "summary": "Gen Zers are taking typing classes. You need a keyboard to use AI — and they're used to phones.",
-      "source": "Business Insider",
-      "publishTime": "2026-09-27",
-      "link": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9"
-    },
-    {
-      "id": "3e803df8-2d23-813a-8d99-da08778a6afc",
-      "title": "上汽 MG 07 旅行车谍照曝光，现款限时补贴价 10.59 万元起",
-      "summary": "IT之家 9 月 27 日消息，博主 @SugarDesign 今日分享了一张上汽 MG 07 旅行车谍照，新车前脸延续 MG 07 的设计语言，而车尾则采用了旅行车的造型设计，车顶配有激光雷达。IT之家注意到，上汽 MG 07 于 8 月 21 日正式发布，上市 20 天大定超过 4.2 万台，限时补贴价 10.59 万元起。该车尺寸为 4886×1900×1485mm、轴距 2825mm，拥有 168L KK 自动开合前备箱、697L 电动后备厢，以及 109L 下沉空间。支持全车通风加热按摩、配备整片式调光全景天幕，同时行业首创“女王多功能美妆台”。此外，上汽 MG 07 配备副驾零重力",
-      "source": "IT之家",
-      "publishTime": "2026-09-27",
-      "link": "https://www.ithome.com/1/007/562.htm"
-    },
-    {
-      "id": "3e803df8-2d23-8127-bba5-f02478e37645",
-      "title": "The startup trap that kept this longevity app founder stuck",
-      "summary": "Death Clock CEO Brent Franson says the most dangerous startups can be the ones that seem \"pretty good.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-09-27",
-      "link": "https://www.businessinsider.com/death-clock-ceo-slow-failure-longevity-2026-9"
-    },
-    {
-      "id": "3e803df8-2d23-8106-842b-ea737f15bd18",
-      "title": "iQOO 16 手机搭载 LPDDR5X Ultra+UFS 4.1，读写性能提升 30%",
-      "summary": "IT之家 9 月 27 日消息，除了首批搭载第六代骁龙 8 超级至尊版处理器，iQOO 旗舰系列产品经理王侃今日确认 iQOO 16 手机还将搭载 LPDDR5X Ultra+UFS 4.1。据其介绍，iQOO 16 和 iQOO Pad Ultra 首批搭载第六代骁龙 8 超级至尊版，全大核架构，采用新一代 2nm 工艺制程，首个最高主频达 5GHz 的移动 CPU；团队深度联合高通打造新一代 Monster 超核引擎，调校更极致，深入平台重构调度架构，内核级跃升带来“行业最强骁龙体验”。IT之家注意到，他还透露新品搭载 LPDDR5X Ultra+UFS 4.1，读写速率高达 9.6Gbp",
-      "source": "IT之家",
-      "publishTime": "2026-09-27",
-      "link": "https://www.ithome.com/1/007/560.htm"
-    },
-    {
-      "id": "3e803df8-2d23-8179-94eb-eb93a8ec8457",
-      "title": "深蓝汽车邓承浩：有数据显示车上冰箱实际使用率仅 5%，后排娱乐屏、车载 KTV 用户全年使用不超过十次",
-      "summary": "IT之家 9 月 27 日消息，2026 世界新能源汽车大会（WNEVC）于 9 月 22 日-24 日在海南海口举办。据睿见 Economy 报道，重庆长安汽车股份有限公司副总裁，深蓝汽车科技有限公司董事长邓承浩表示，电动化不只是上半场，而是贯穿全场。一方面新能源渗透率持续走高，但电动化领域还有大量用户痛点没有解决。上一轮行业创新很多是单点突破，但硬件堆砌不等于真实体验。有一组数据很有参考性：车上的冰箱，用户实际使用率仅 5%；后排娱乐屏、车载 KTV，用户全年使用不超过十次。产品成功不再依靠简单硬件堆砌，体系化能力才是制胜关键。据IT之家此前报道，邓承浩直言，竞争进入淘汰赛时期，整个品牌竞",
-      "source": "IT之家",
-      "publishTime": "2026-09-27",
-      "link": "https://www.ithome.com/1/007/561.htm"
     }
   ],
   "macroEvents": [
