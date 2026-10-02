@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-10-03 02:35",
+  "updatedAt": "2026-10-03 07:07",
   "news": [
     {
-      "id": "3ed03df8-2d23-8160-bee7-ec2e41db84ef",
-      "title": "Tesla reports 486,532 vehicle deliveries for third quarter, topping expectation",
-      "summary": "Tesla's core autos business is under pressure as Chinese and European carmakers roll out affordable and innovative EVs.",
+      "id": "3ed03df8-2d23-81b5-be38-c8b13122b382",
+      "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+      "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
       "source": "CNBC Tech",
-      "publishTime": "2026-10-02",
-      "link": "https://www.cnbc.com/2026/10/02/tesla-tsla-q3-2026-vehicle-delivery-production.html"
+      "publishTime": "2026-10-03",
+      "link": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html"
     },
     {
-      "id": "3ed03df8-2d23-813f-817c-e9faa82d3a37",
-      "title": "B 站 App 上架鸿蒙手表端应用市场：用户可在华为 WATCH 系列手表上自由看视频、刷弹幕",
-      "summary": "IT之家 10 月 2 日消息，B 站 App 宣布上架鸿蒙手表端应用市场，用户在华为 WATCH 系列手表上就能看视频、刷弹幕、听播客。官方表示，用户只需前往应用市场，即可下载安装哔哩哔哩手表端，相应 App 提供收藏、倍速、循环播放、下载缓存等各种特性，适合早高峰地铁、夜跑、做饭、洗碗、排队、等人等各种场景，精彩内容抬腕即达。",
+      "id": "3ed03df8-2d23-81ba-9b74-c9de51713302",
+      "title": "The Netherlands considers banning Meta AI glasses as some retailers pull them from shelves",
+      "summary": "A large eyewear chain is pausing sales of Meta's AI glasses over privacy concerns.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/hans-anders-wehkamp-pause-meta-glasses-ray-ban-sales-netherlands-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-810f-a821-fbbb8d55a713",
+      "title": "Anthropic funds $100M academy to train deployed AI engineers",
+      "summary": "Anthropic's new Claude Academy shows that FDEs may be the most coveted role in the AI race.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/anthropic-will-train-10-000-ai-engineers-boost-enterprise-adoption-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-81fb-9c02-f772c8fc6bcc",
+      "title": "Apple is adding new privacy safeguards for Mac users as AI agents get more powerful",
+      "summary": "Apple plans new macOS controls requiring more explicit user action before apps can access emails, messages, browsing history, and personal files.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/apple-planning-tougher-mac-privacy-controls-ai-agents-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-81d1-8296-ceb4c8b9b5a1",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-03",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
+    },
+    {
+      "id": "3ed03df8-2d23-8162-970a-e5be4f4b5b5b",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
+      "source": "The Verge",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+    },
+    {
+      "id": "3ed03df8-2d23-81ed-a166-d656ff5d41c0",
+      "title": "Anthropic to invest $100 million to train AI engineer talent",
+      "summary": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-03",
+      "link": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html"
+    },
+    {
+      "id": "3ed03df8-2d23-819e-b6eb-f40f405fa628",
+      "title": "Netflix is pivoting away from prestige",
+      "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger",
+      "source": "The Verge",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig"
+    },
+    {
+      "id": "3ed03df8-2d23-811a-81ba-f217d646c0bc",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do",
+      "source": "The Verge",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+    },
+    {
+      "id": "3ed03df8-2d23-81ec-80c5-f1f87da024be",
+      "title": "Sling TV drops its one-day cable passes",
+      "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to […]",
+      "source": "The Verge",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops"
+    },
+    {
+      "id": "3ed03df8-2d23-81ef-ae7b-ecc70309bb1b",
+      "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
+      "summary": "DHS agents not only tracked and intimidated people observing ICE activity in Maine, but stored information about them in a Palantir-built database, newly unsealed court filings say.",
+      "source": "Wired",
+      "publishTime": "2026-10-03",
+      "link": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/"
+    },
+    {
+      "id": "3ed03df8-2d23-81bb-ba4e-fbc1238b4b93",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-03",
+      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
+    },
+    {
+      "id": "3ed03df8-2d23-8178-829b-c0b6026f4f94",
+      "title": "29 of the most daring looks Florence Pugh has ever worn, from sheer gowns to bold cutouts",
+      "summary": "Florence Pugh often wears daring looks on red carpets, from totally see-through outfits to skirts with thigh-high slits.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/florence-pugh-most-daring-looks-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-8114-ac3d-c97a310d5714",
+      "title": "OpenAI Hires Top Trump AI Official to Work on National Security",
+      "summary": "OpenAI is continuing to fill out its leadership bench with former Trump administration officials. Thomas Lind, who previously led AI policy at the Office of the National Cyber Director, joined OpenAI this week, an OpenAI spokesperson confirmed. ONCD is a key office within the White House that played",
+      "source": "The Information",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theinformation.com/articles/openai-hires-top-trump-ai-official-work-national-security"
+    },
+    {
+      "id": "3ed03df8-2d23-81f7-8930-f6684220476b",
+      "title": "How 3 small business owners are — and aren’t — using AI to nail their marketing campaigns",
+      "summary": "Small business owners shared how they actually use AI to build and sustain a marketing strategy, as well as where it falls short.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/small-business-marketing-benefits-downsides-ai-tools-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-811e-9473-e40d96b54aaa",
+      "title": "This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off",
+      "summary": "A collaborative Instagram post between footwear line HEYDUDE and a University of Florida frat is sparking backlash due to sexual cyberharassment allegations against two former members.",
+      "source": "Wired",
+      "publishTime": "2026-10-03",
+      "link": "https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/"
+    },
+    {
+      "id": "3ed03df8-2d23-814d-af7b-dc59269429e4",
+      "title": "Elite Navy special warfare boat crews may be returning to duty with undiagnosed brain injuries, Pentagon watchdog warns",
+      "summary": "The report said that sending service members back into high-risk environments with an undiagnosed brain injury could negatively affect operations.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/us-navy-swccs-returning-to-duty-brain-injuries-watchdog-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-8187-a5db-dc4db0b52d1d",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-03",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+    },
+    {
+      "id": "3ed03df8-2d23-8120-8c9c-d60bac85ac66",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI ann",
+      "source": "The Verge",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+    },
+    {
+      "id": "3ed03df8-2d23-810d-8d4d-cb6344d8bb0d",
+      "title": "Data centers and healthcare were bright spots in the rough September jobs report",
+      "summary": "White-collar sectors continued to struggle in September, according to a dreary jobs report. But healthcare and construction were bright spots.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/data-centers-healthcare-job-growth-september-jobs-report-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-8184-9fd6-ec3fe82a3fc3",
+      "title": "Exclusive: Crypto Custodian Anchorage Digital Lays Off 17% Staff",
+      "summary": "Anchorage Digital, the first federally chartered U.S. digital-asset bank, has cut 17% of jobs, CEO Nathan McCauley told employees this week, according to people familiar with the matter. Anchorage, which provides crypto custody and issues stablecoins, including Tether’s new U.S. stablecoin USAT ...",
+      "source": "The Information",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theinformation.com/briefings/exclusive-crypto-custodian-anchorage-digital-lays-17-staff"
+    },
+    {
+      "id": "3ed03df8-2d23-81df-823b-de26c7da83e6",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intell",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-03",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
+    },
+    {
+      "id": "3ed03df8-2d23-81ba-8220-f0b2d419c40d",
+      "title": "Who is Shivon Zilis? Meet the Elon Musk exec who said their relationship suddenly ended",
+      "summary": "Neuralink director Shivon Zilis is the mother of four of Elon Musk's children and an ex-OpenAI board member. Learn more about the Canadian-born VC.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7"
+    },
+    {
+      "id": "3ed03df8-2d23-813b-9250-f0131d2c223d",
+      "title": "Breaking up (with Elon Musk) is hard to do",
+      "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each",
+      "source": "The Verge",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis"
+    },
+    {
+      "id": "3ed03df8-2d23-8148-b46c-ea0e8e1bda84",
+      "title": "I went to Vienna for the first time. These 4 mistakes drained my energy and bank account.",
+      "summary": "During my 48-hour stay in Vienna, I made mistakes that cost me time, money, and sleep. It started with an overnight train ride.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/vienna-austria-travel-mistakes-to-avoid"
+    },
+    {
+      "id": "3ed03df8-2d23-812e-bec5-c4225de806c9",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-03",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
+    },
+    {
+      "id": "3ed03df8-2d23-81a3-8b63-d9cf317a147d",
+      "title": "Lambda Secures $1 Billion GPU Loan",
+      "summary": "AI cloud company Lambda said it has secured its first delayed draw term loan at over $1 billion to purchase more than 30,000 Nvidia graphics processing units. The fixed-rate facility carries an interest rate of 6.78%. Privately held Lambda said in an announcement late on Thursday the facility ...",
+      "source": "The Information",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theinformation.com/briefings/lambda-secures-1-billion-gpu-loan"
+    },
+    {
+      "id": "3ed03df8-2d23-8184-851d-f954bf9575df",
+      "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
+      "summary": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced and 19,248 delivered. That represents an 85 percent year-over-year increase in ",
+      "source": "The Verge",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2"
+    },
+    {
+      "id": "3ed03df8-2d23-8186-ac06-ce8e34023dc7",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-03",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
+    },
+    {
+      "id": "3ed03df8-2d23-81b8-ad35-d02ffc950b6d",
+      "title": "Sean Parker Spreads the Gospel of AI Music",
+      "summary": "To the music industry, Sean Parker has been many things. As co-founder of Napster, he was first an “outlaw renegade,” as he himself puts it. After his time at Facebook, his next act was as an early Spotify investor—putting in money while at Peter Thiel’s Founders Fund—and as a longtime Spotify board",
+      "source": "The Information",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theinformation.com/articles/sean-parker-spreads-gospel-ai-music"
+    },
+    {
+      "id": "3ed03df8-2d23-81ea-88b1-d49317649d4d",
+      "title": "The relationship between AI and influencers is … complicated",
+      "summary": "AI isn't just bringing slop to social media feeds. It's also leaving a massive imprint on the creator economy.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/ai-creator-economy-big-paychecks-fan-backlash-openai-meta-claude-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-81bf-9fdb-d5319779e337",
+      "title": "Beehiiv creators are buzzing about a new price increase",
+      "summary": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says it will allow the company to \"continue investing in our core platform experienc",
+      "source": "The Verge",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions"
+    },
+    {
+      "id": "3ed03df8-2d23-8193-828d-c4f23c8ad830",
+      "title": "The NHL Is Releasing Its Own ‘Hot’ Fanfic. Romance Lovers Hate It",
+      "summary": "The league is releasing romance-style audio stories to promote games. Critics say it’s cheap pandering that doesn’t address toxic masculinity in the sport.",
+      "source": "Wired",
+      "publishTime": "2026-10-03",
+      "link": "https://www.wired.com/story/the-nhl-is-releasing-its-own-hot-fanfic-romance-lovers-hate-it/"
+    },
+    {
+      "id": "3ed03df8-2d23-812d-9609-e3fdf9ebcc0c",
+      "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
+      "summary": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimited's screen can also be used to mix audio from mul",
+      "source": "The Verge",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller"
+    },
+    {
+      "id": "3ed03df8-2d23-8117-b48c-db48d46d5e2f",
+      "title": "AI Data Center Debt Is Showing Up Everywhere",
+      "summary": "Debt financing for data centers and related infrastructure has grown rapidly enough that it’s become its own category these days—credit analysts are breaking out AI versus non–AI-linked debt across markets to analyze new issuance and performance. Several asset managers in recent months have filed to",
+      "source": "The Information",
+      "publishTime": "2026-10-03",
+      "link": "https://www.theinformation.com/articles/ai-data-center-debt-showing-everywhere"
+    },
+    {
+      "id": "3ed03df8-2d23-81cf-aab1-d0f94dd43cbc",
+      "title": "Amazon comes out swinging against data center moratoriums, warning the 'consequences would last generations'",
+      "summary": "Amazon Web Services CEO Matt Garman argued the US \"could be writing its own losing ticket to this race\" and referenced World War II learnings.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/amazon-aws-ceo-data-center-moratoriums-blog-post-warning-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-81c6-9b9a-f97f64159b17",
+      "title": "Neuralink exec Shivon Zilis posts that her relationship with Elon Musk ended 'with no warning'",
+      "summary": "Neuralink executive Shivon Zilis wrote on X that she went \"from in love to let go in a week.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/shivon-zilis-elon-musk-relationship-update-post-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-8102-a55a-d7d7c7b33442",
+      "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
+      "summary": "IT之家 10 月 3 日消息，Microsoft（微软）当地时间 1 日通过 DirectX 开发者博客宣布，高级着色器交付 (ASD) 将在本月扩展到高通、英特尔、英伟达硬件上。由于 AMD 的 \"RDNA\" 家族已率先支持 ASD，这意味着该特性即将实现对四大 GPU 制造商平台的全覆盖。更多用户将可享受到直接下载云端预编译着色器带来的好处：缩短加载时间、消除着色器卡顿。高通已通过今年 9 月 22 日上线的 2026.08.3 显卡驱动为骁龙 X2 的核显提供了 ASD 支持。英特尔、英伟达的支持将在本月晚些时候到来，兼容的英特尔设备包括 Arc B570 / B580 独立显卡、第 ",
       "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/362.htm"
+      "publishTime": "2026-10-03",
+      "link": "https://www.ithome.com/1/009/373.htm"
     },
     {
-      "id": "3ed03df8-2d23-8158-9470-ce6d2848c185",
-      "title": "Rivian’s R2 just helped it set a new sales record",
-      "summary": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
+      "id": "3ed03df8-2d23-8144-8a55-d412dab48bde",
+      "title": "18 of the world's most extraordinary new buildings",
+      "summary": "The World Architecture Festival 2026 spotlights some of the world's most unique buildings. We picked some of the most striking.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/most-unique-new-architecture-projects-buildings-photos-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-81a8-a4dc-dd62629bbdb5",
+      "title": "The Pope decries AI-generated art",
+      "summary": "Pope Leo XIV spoke out against AI-generated art during a meeting with artists and curators in Vatican City on Friday.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/the-pope-criticizes-ai-generated-art-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-817f-8997-e99fa388719d",
+      "title": "California man smuggled $300 million in Nvidia chips to China, prosecutors say",
+      "summary": "Prosecutors say Yiu Kong Lui conspired with foreign shipping companies to trick US manufacturers into selling him the chips.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-03",
+      "link": "https://www.businessinsider.com/us-man-charged-smuggling-300-million-nvidia-chips-china-2026-10"
+    },
+    {
+      "id": "3ed03df8-2d23-81ad-a8ac-defc424c11e4",
+      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+      "source": "Wired",
+      "publishTime": "2026-10-03",
+      "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/"
+    },
+    {
+      "id": "3ed03df8-2d23-81dd-9a55-faa01ae813a5",
+      "title": "Paramount and Warner Bros. Discovery to become Skydance",
+      "summary": "The roughly $110 billion deal is expected to close October 6.",
       "source": "TechCrunch",
       "publishTime": "2026-10-02",
-      "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/"
+      "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/"
     },
     {
-      "id": "3ed03df8-2d23-8135-adad-c6f2fdbd5256",
-      "title": "Tesla sales smash Wall Street's expectations",
-      "summary": "Tesla posted record sales in Q3 last year as buyers rushed to take advantage of the $7,500 tax credit for new EVs, which expired in September 2025.",
+      "id": "3ed03df8-2d23-81ff-b37a-c60299056764",
+      "title": "Dots get up in Muse’s business",
+      "summary": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character, just like you can make […]",
+      "source": "The Verge",
+      "publishTime": "2026-10-02",
+      "link": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast"
+    },
+    {
+      "id": "3ed03df8-2d23-81a9-bf8a-f60f271169f4",
+      "title": "Robotics startup FieldAI is set to raise $700 million at a $10 billion valuation",
+      "summary": "The startup, which is building a general-purpose \"brain\" for robots, is set to quintuple its valuation in just over a year",
       "source": "Business Insider",
       "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/tesla-deliveries-q3-reveals-how-many-evs-it-sold-2026-9"
+      "link": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10"
     },
     {
-      "id": "3ed03df8-2d23-817a-921f-ca664f5a4b2d",
-      "title": "I raised $125,000 in sponsorships for my wedding. It accidentally launched an 8-figure business.",
-      "summary": "Carrie Kerpen grew up prioritizing financial security. Learning to take calculated risks helped her build and eventually sell an eight-figure company.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/raised-risk-averse-built-sold-eight-figure-business-2026-10"
-    },
-    {
-      "id": "3ed03df8-2d23-81e0-810c-f6de0d01f2a8",
-      "title": "How China’s Token Resellers Create an Anthropic Gray Market",
-      "summary": "In Beijing’s Haidian District, a bustling hub for local universities and tech companies, six out of the roughly 30 tenants in one run-of-the-mill office building are all in the same business, according to one occupant of the building: selling Chinese customers access to Anthropic’s Claude and other ",
-      "source": "The Information",
-      "publishTime": "2026-10-02",
-      "link": "https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market"
-    },
-    {
-      "id": "3ed03df8-2d23-81af-be82-dd5eefd2c948",
-      "title": "桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元",
-      "summary": "IT之家 10 月 2 日消息，英伟达今天正式对外披露 DGX Spark 产品更新，推出 64GB 内存版本 DGX Spark 桌面 AI 计算机，起售价 4,999 美元（现汇率约合 33,566 元人民币），将于 10 月 23 日正式发售，宏碁、戴尔、华硕、技嘉、微星、H3C 等众多 OEM 厂商均会推出基于该平台的整机产品。官方此前推出的 128GB 版本同步更新定价，128GB FE 版本售价 6,950 美元（IT之家注：现汇率约合 46,666 元人民币）。硬件层面，DGX Spark 基于 GB10 Grace‑Blackwell 超算芯片，依靠统一内存架构打通 CPU 与",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/359.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-813f-b498-db08b4bb3a53",
-      "title": "Chain restaurants are closing hundreds of locations across the US in 2026. See the list.",
-      "summary": "Several restaurant chains, including Wendy's, Papa John's, Pizza Hut, and Starbucks have announced plans to close locations this year.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/restaurant-chains-closing-locations-2026"
-    },
-    {
-      "id": "3ed03df8-2d23-8179-a423-ed79f98e07ba",
-      "title": "HKC“神盾 25Q360B”24.5 英寸显示器发售：2K 360Hz QD-Mini LED，2221 元（国补后 1999 元）",
-      "summary": "IT之家 10 月 2 日消息，HKC 旗下“神盾 25Q360B”24.5 英寸电竞显示器现已在京东发售，定价为 2221 元，部分地区国补后低至 1999 元。京东 HKC 神盾 25Q360B 显示器 2221 元直达链接该机搭载一块 2560×1440 分辨率 1152 分区 QD-Mini LED 背光 360Hz 刷新率 Fast IPS 面板，GtG 响应速度 1ms，拥有 1400nit HDR 峰值亮度，对比度达到 300000:1。覆盖 98.5% DCI-P3、98.5% Adobe RGB、100% sRGB，出厂逐台校色达到 ΔE≤2 专业级色准。它搭载 HKC 自研",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/358.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-81e5-bc00-eec797ae0d5d",
-      "title": "Rivian issues R2 recall for poorly tightened battery packs",
-      "summary": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
+      "id": "3ed03df8-2d23-8165-9096-f0a36068d4d1",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
       "source": "TechCrunch",
       "publishTime": "2026-10-02",
-      "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/"
+      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
     },
     {
-      "id": "3ed03df8-2d23-813d-b3e2-def38a0c8093",
-      "title": "上海市委网信办：督促平台重点防范化解七类涉未成年人心理健康风险，哔哩哔哩、小红书、拼多多等参会",
-      "summary": "IT之家 10 月 2 日消息，9 月 30 日，上海市委网信办组织召开未成年人网络保护专题指导会，聚焦压实网站平台主体责任，深入推进未成年人网络保护专项行动，重点加强心理健康工作，全方位守护未成年人上网环境。属地哔哩哔哩、小红书、拼多多、喜马拉雅、SOUL、阅文集团、米哈游等 17 家重点平台参会。IT之家注意到，会议通报了专项行动期间涉未成年人违法违规和不良信息典型案例，重点部署进一步加强未成年人心理健康工作，督促平台严格落实主体责任，重点防范化解七类涉未成年人心理健康风险。一是网络沉迷成瘾风险，避免造成未成年人作息失调、注意力下降、厌学逃避等问题；二是网络欺凌风险，防范其造成未成年人长期",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/357.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-8128-8cb0-c63cf343eb00",
-      "title": "Bankers, don't dodge train fares on your commute. It could get you barred from the industry.",
-      "summary": "Joseph Molloy, a former HSBC executive, used a method called \"donutting\" to avoid almost $8,000 of train fares.",
+      "id": "3ed03df8-2d23-81f0-a51b-e89a52eceda3",
+      "title": "Trump's new Air Force One may not go to his library. Here's where 14 former presidential planes ended up.",
+      "summary": "When Air Force Ones are retired from service, they're often acquired by museums or presidential libraries. Here's where they've ended up.",
       "source": "Business Insider",
       "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/hsbc-banker-barred-from-finance-industry-dodging-train-fare-conviction-2026-10"
+      "link": "https://www.businessinsider.com/see-where-old-presidential-air-force-one-planes-ended-up-2026-10"
     },
     {
-      "id": "3ed03df8-2d23-812d-a1ff-cfcd665e69d0",
-      "title": "央视曝光二手平台低价机票陷阱，一男子被骗近 30 万元",
-      "summary": "IT之家 10 月 2 日消息，据央视财经今日报道，近期，北京市公安局海淀分局接到了市民王先生的报警，称自己因购买低价机票遭遇诈骗，但是令他疑惑不解的是，订票过程中，他明明拨打了官方平台的客服电话进行查询，也确实查到了自己的“机票信息”，但还是被骗了。警方调查发现，该订单虽然真实存在，却一直处于“未付款”状态。诈骗分子只是预先用王先生的信息占座下单，制造出“票已订好”的假象。见王先生已经上钩，诈骗分子继续以“交易仍未成功”为由，要求他下载指定的通联软件，并引导王先生开启屏幕共享。向对方提供的账户进行转款。经查，王先生共计损失二十九万余元。目前，案件仍在进一步办理中。警方表示，此类节假日票务诈骗",
+      "id": "3ed03df8-2d23-819a-87bc-d7000eb3ae20",
+      "title": "AMD“锐龙 9 5900X3D”处理器工程样品现身，配备 32MB + 96MB L3 缓存",
+      "summary": "IT之家 10 月 2 日消息，Chiphell 论坛用户 @灵乌路空 9 月 28 日分享了一款 AMD Socket AM4 平台处理器工程样品的信息。该处理器代号 \"100-000000652\"，属于 \"Zen 3\" 微架构的 \"Vermeer\" 家族，步进 \"B2\"，拥有 12 核心 24 线程的规格，频率可达 4.85GHz，配备 32MB + 96MB 的 L3 末级高速缓存，热设计功耗为 105W。从其 L3 缓存规格来看，该芯片拥有 2 颗 CCD，其中 1 颗拥有 3D V-Cache 形式的额外 L3 缓存，可以说算是未曾推出的“锐龙 9 5900X3D”的测试型号。@灵乌",
       "source": "IT之家",
       "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/356.htm"
+      "link": "https://www.ithome.com/1/009/372.htm"
     },
     {
-      "id": "3ed03df8-2d23-81f3-a4f8-ea2cde8c7357",
-      "title": "We didn't plan to live within walking distance of my family. Then, my sisters and parents all moved to our neighborhood.",
-      "summary": "My extended family, including my parents and siblings, moved to the same Florida neighborhood as my kids and me. Now, we live within walking distance.",
-      "source": "Business Insider",
+      "id": "3ed03df8-2d23-8138-9bf2-fd34c566891b",
+      "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+      "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
+      "source": "TechCrunch",
       "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/whole-family-moved-to-same-neighborhood-pros-cons-florida-2026-10"
+      "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/"
     },
     {
-      "id": "3ed03df8-2d23-817b-ba50-cec897490183",
-      "title": "钛度推出轻鸾 2 头戴式耳机：50mm 动圈、230g 重量，159.9 元",
-      "summary": "IT之家 10 月 2 日消息，钛度现已在京东上架轻鸾 2 头戴式耳机，该产品主打轻量化机身，定价为 159.9 元。京东钛度轻鸾 2 头戴式耳机 159.9 元直达链接外观上，耳机提供枪灰色 / 珍珠白可选，重约 230g，外壳采用 POK 材质与准分子涂层工艺，匹配人体工学头梁，耳罩支持 90° 旋转，配备可插拔全指向 AI 降噪麦克风以过滤杂音。该耳机搭载 50mm 发声单元，支持 7.1 游戏音效与音乐双模式，支持 2.4G、蓝牙 6.0 及有线 USB 连接，耳机内置 1000mAh 电池，IT之家附参数：",
+      "id": "3ed03df8-2d23-8116-9a08-ec0db0254f65",
+      "title": "焕新极氪 001 配色上新：推出哑光岩灰车色、冰川灰内饰",
+      "summary": "IT之家 10 月 2 日消息，极氪汽车今日宣布焕新极氪 001 色彩上新，推出全新外饰色“哑光岩灰”以及全新内饰色“冰川灰”。2026 年 10 月 1 日-10 月 31 日，下定焕新极氪 001 可享更多限时权益。IT之家注意到，焕新极氪 001 于 2025 年 10 月 11 日上市，售价 26.98 万元起，可限时叠加 1 万元置换金。焕新极氪 001 全系标配 900V 全栈高压架构，实现 CLTC 综合工况续航里程最长达到 810 公里；实现电池最大充电倍率 12C，电量 10%-80% 充电最快仅需 7 分钟；实现双电机最大马力 925 匹，零百加速最快 2.83 秒，最高车",
       "source": "IT之家",
       "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/350.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-81b4-a3fa-fccb30699da5",
-      "title": "Democratic Texas AG candidate vows to probe Deloitte's role in voter registration delay",
-      "summary": "Texas is working through a backlog of nearly 200,000 unprocessed voter registration applications, thanks to a software error involving state contractor Deloitte.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-02",
-      "link": "https://www.cnbc.com/2026/10/02/texas-ag-deloitte-voter-registration.html"
-    },
-    {
-      "id": "3ed03df8-2d23-8163-b6ab-c7bcb40e067e",
-      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-02",
-      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html"
-    },
-    {
-      "id": "3ed03df8-2d23-8126-8dac-fd4627d3ae1a",
-      "title": "湖北智能家居国补范围扩大，机器人、数码相机、无人机、血压仪等可补贴 15%",
-      "summary": "IT之家 10 月 2 日消息，为贯彻落实《商务部等 8 部门关于加快“人工智能 + 消费”发展的实施意见》有关要求，进一步释放湖北省智能终端产品消费潜力，推动人工智能与消费深度融合，提升居民居家生活品质，湖北省对 2026 年消费品以旧换新新增品类补贴政策作出优化调整，新规自 2026 年 10 月 1 日起正式实施。IT之家附智能家居补贴品类如下：智能清洁设备：含智能扫洗地机、智能擦窗机器人、智能清洁机器人智能服务机器人：含智能具身机器人、智能炒菜机器人、外骨骼机器人、陪伴类机器人 / 机器狗等智能耳机：含翻译耳机智能门锁：含智能猫眼智能厨电：含智能洗碗机、智能消毒柜、智能烤箱、智能电饭煲",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/349.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-810c-be04-d88eeefe0a1a",
-      "title": "The jobs report, Nike's China conundrum, Burger King's franchise bet and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-02",
-      "link": "https://www.cnbc.com/2026/10/02/5-things-to-know-before-the-stock-market-opens.html"
-    },
-    {
-      "id": "3ed03df8-2d23-818b-8b3b-f06a168a77e7",
-      "title": "消息称三星电子已量产 Exynos 2700 处理器，Galaxy S27 系列手机将搭载",
-      "summary": "IT之家 10 月 2 日消息，博主 @i冰宇宙 今日发文称，三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。IT之家注意到，三星 Exynos 2,700 工程样片 GeekBench 跑分已经曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩为 14,700 分。根据最新跑分页面信息，基本符合此前曝光的 Exynos 2,700 Die Shot 图片信息，CPU 部分采用 1+4+1+4 集群设计，共有 10 个核心，分为 2 组：第 1 组包括 1 个 Arm C1-Ultra",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/347.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-818c-9139-dca7dff6b9b8",
-      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and ",
-      "source": "The Verge",
-      "publishTime": "2026-10-02",
-      "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry"
-    },
-    {
-      "id": "3ed03df8-2d23-8142-88ee-d06e52e30064",
-      "title": "AI hallucinations are making entitled customers even worse",
-      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name ",
-      "source": "The Verge",
-      "publishTime": "2026-10-02",
-      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents"
-    },
-    {
-      "id": "3ed03df8-2d23-813f-9a81-d5bfb5b13833",
-      "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
-      "summary": "The podracing scene in The Phantom Menace is one of my favorite movie sequences ever. It's just so dang cool: The futuristic racers tear over treacherous Tatooine terrain while various Star Wars aliens bark at each other in incomprehensible sci-fi languages. Eventually a young Anakin Skywalker prove",
-      "source": "The Verge",
-      "publishTime": "2026-10-02",
-      "link": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review"
-    },
-    {
-      "id": "3ed03df8-2d23-81b4-ac85-d4487e2dea29",
-      "title": "创维 F3 Pro 闺蜜机新增 12GB RAM + 256GB 存储空间版本，6099 元",
-      "summary": "IT之家 10 月 2 日消息，创维现已为旗下 F3 Pro 闺蜜机新增一款 12GB RAM + 256GB 存储空间版本，定价为 6099 元，部分地区国补后低至 4999 元。该产品采用云雾白配色，配备一块 32 英寸 3840x2160 分辨率 IPS LCD 面板，搭载 13Mp 摄像头，匹配全景环绕扬声器。支持 AI 健身私教、电子白板、AI 健康智能体等功能。该产品内置 15000mAh 电池，至高提供 12 小时续航，支架支持升降 / 倾斜 / 旋转，内置基于安卓的酷开 AIOS 2.0 系统，提供了 1 个 HDMI 2.1、1 个 USB-A 3.0、1 个 USB-C 3",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/346.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-8118-95d9-fbf539855621",
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, pow",
-      "source": "The Verge",
-      "publishTime": "2026-10-02",
-      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
-    },
-    {
-      "id": "3ed03df8-2d23-8132-addc-c4ba2b524f0d",
-      "title": "Amazon Says It's No Longer Using NDAs for Data Centers",
-      "summary": "The company announced it has stopped using secret agreements with county officials and acknowledges community backlash is leading to data center moratoriums across the country.",
-      "source": "Wired",
-      "publishTime": "2026-10-02",
-      "link": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/"
-    },
-    {
-      "id": "3ed03df8-2d23-810f-82c2-eff401f10414",
-      "title": "Best Smart Cat Trackers of 2026: Fi Mini vs. Tractive",
-      "summary": "After months of monitoring Basil’s activity and sleep, I found that Fi and Tractive cat trackers come with their own trade-offs.",
-      "source": "Wired",
-      "publishTime": "2026-10-02",
-      "link": "https://www.wired.com/story/best-smart-cat-tracker/"
-    },
-    {
-      "id": "3ed03df8-2d23-8156-a1ba-d7d6fbdc904c",
-      "title": "小米米家体脂秤 4 Pro 开启预售：采用 USB-C 充电、支持身体数据趋势显示，149 元",
-      "summary": "IT之家 10 月 2 日消息，小米米家体脂秤 4 Pro 现已在京东开启预售，这是米家首款充电体脂秤，定价为 149 元。该产品搭载 300x300mm 的 ITO 镀膜钢化玻璃，无需刻意寻找踩踏位置。适配多种脚型 (最大 48 欧码)、支持 0.1~150kg 大量程称重，支持小物称重、抱婴称重、心率检测等多种模式，覆盖各类居家称重场景。支持录入多只爱宠信息，持续记录、追踪体重数据。官方强调，该产品新增身体数据趋势显示，秤面可直观对比上一次的测量数据。功能键集合了多项核心操作，短按一下，称重单位随心切换。用户连接 App 即可查看 25 项身体成分分析报告，详细解析身体数据，评估内脏脂肪等",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/345.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-815a-b952-f813176a9fe5",
-      "title": "我国深地油气开发实现关键跨越，8080 米地下获取连续 6 米岩芯",
-      "summary": "IT之家 10 月 2 日消息，据央视财经报道，10 月 1 日，位于塔克拉玛干沙漠北缘的塔里木油田震探 1 井完成取芯作业，在地下 8080 米获取到连续 6 米的岩芯，这些灰色的石头来自寒武系玉尔吐斯组，已在地下沉睡了 5 亿年之久。IT之家从报道获悉，这是塔里木盆地西北缘首次在此深度取出烃源岩。中国石油塔里木油田勘探事业部台盆区勘探项目部主任徐亚南：“这就是宝贝，有了这些宝贵的岩石，我们就可以分析评价 8000 米之下油气的生成能力，油气的厚度是多少，油气成熟度是什么样子，这也是我们继万米科探井之后又一次在 8000 米之下取出烃源岩，彰显了我们钻井技术重要进步。”我国深地油气勘探正迎来",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/344.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-8150-a6b5-ec1113ccc88d",
-      "title": "Microsoft Debuts Voice AI to Compete with ElevenLabs",
-      "summary": "Microsoft on Thursday launched speech-generating AI that the company says is both cheaper and more accurate than competing models from the likes of ElevenLabs, SpaceXAI and Google. Microsoft aims to produce voice models to power features such as transcribing conference calls in its Teams app or ...",
-      "source": "The Information",
-      "publishTime": "2026-10-02",
-      "link": "https://www.theinformation.com/briefings/microsoft-debuts-voice-ai-compete-elevenlabs"
-    },
-    {
-      "id": "3ed03df8-2d23-811a-be56-df46b7448ad1",
-      "title": "Anthropic 招股书警告：美国政府的态度会影响公司与客户的关系，甚至波及人类文明",
-      "summary": "IT之家 10 月 2 日消息，路透社今天（2 日）公布的 Anthropic IPO 招股书中提出了一条警告：美国政府对公司及其技术的态度不仅会影响政府业务，还可能波及商业客户和合作伙伴。企业在招股文件中提示政策变化可能影响经营并不罕见，承接政府合同的企业尤其如此。SpaceX 就在 IPO 文件中称，与美国政府机构保持良好关系对公司至关重要，一旦关系恶化，维持现有业务和争取新业务的能力都可能受到严重影响。Anthropic 提示的风险则不止于政府业务。招股书指出，美国政府如何看待 Anthropic 及其行为，可能进一步影响客户、合作伙伴和其他商业关系，甚至波及人类文明。文件警告，先进 A",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/343.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-813a-8217-f228965ca69c",
-      "title": "Where every US governor stands on AI and the data-center boom",
-      "summary": "Some governors see their states as the next powerhouse for the growing AI industry. Others are exploring a \"kill switch\" for rogue AI.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/where-every-us-governor-stands-ai-data-centers-midterms-2026-10"
-    },
-    {
-      "id": "3ed03df8-2d23-8117-b4a7-ca2fe2f5713c",
-      "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
-      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-02",
-      "link": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html"
-    },
-    {
-      "id": "3ed03df8-2d23-8119-ae08-c8d6c2173b80",
-      "title": "保时捷 CEO 骆明楷：2028 年将推出燃油版 Macan，重拾油车≠弃电动化",
-      "summary": "IT之家 10 月 2 日消息，保时捷 CEO 骆明楷（Michael Leiters）认为，外界把公司重新重视燃油车理解成放弃电动化，并不准确：保时捷会继续发展电车，也不会放弃油车。当地时间 9 月 30 日，骆明楷在最新采访中再次明确了这套思路。他确认燃油版 Macan 将在 2028 年推出，同时强调保时捷的电动化计划不会停止。唯一始终不参与燃油与纯电并行策略的车型，仍是 911。对于外界把他视为电动汽车怀疑论者的说法，骆明楷接受英国《金融时报》采访时直言：“我觉得不公平。”骆明楷的策略不是从电动化后退，而是重新恢复燃油车型的产品布局，让燃油和纯电同时存在，而不是最终只留下其中一种。保时",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/341.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-8130-9dab-f54b07293032",
-      "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
-      "summary": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-02",
-      "link": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html"
-    },
-    {
-      "id": "3ed03df8-2d23-817d-b470-f03bde81b96a",
-      "title": "I’m a former flight attendant. Here are 9 things I wish passengers would stop doing on airplanes.",
-      "summary": "I saw far too many people go to the lavatory barefoot or blast music without headphones.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/wish-flyers-would-stop-doing-on-planes-flight-attendant-2026-10"
-    },
-    {
-      "id": "3ed03df8-2d23-81be-94d1-db34ff2919ea",
-      "title": "特斯拉推出 Dog Mode Chew Toy 车载周边：适用宠物场景，20 美元",
-      "summary": "IT之家 10 月 2 日消息，特斯拉美国现已在其官方商城上架了一款 Dog Mode Chew Toy（狗狗模式咬咬玩具），售价 20 美元（IT之家注：现汇率约合 134.3 元人民币），中国市场尚未上架。据特斯拉介绍，这款玩具尺寸约为 8.6×7.4×13.4 厘米，采用无毒橡胶材质打造，主打耐咬且易于清洗，其中空设计可以填入花生酱或零食，底部还设有专门的投喂口。狗狗在啃咬玩具的同时，可以慢慢取出其中的零食，从而延长它们在车内安静待着的时间。",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/340.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-81f0-9daa-f6219b44c43c",
-      "title": "Rivian 为 R2 车型推送 10 月车机系统更新：新增 Pet Cam 宠物摄像头、电动尾门开启高度调节功能",
-      "summary": "IT之家 10 月 2 日消息，Rivian 宣布为旗下 R2 车型推送 10 月车机系统更新（版本号预计为 2026.35），主要新增 Pet Cam 宠物摄像头、电动尾门开启高度调节功能。其中，Pet Cam 主要服务于 Pet Comfort Mode（宠物舒适模式）。当车主启用该模式并离开车辆后，可以通过 Rivian 手机 App 及锁屏实时查看车内画面，快速确认宠物在车内的状态。外媒 autoevolution 指出，Rivian 的 Pet Comfort Mode（宠物舒适模式）与特斯拉的宠物模式类似，能够将车辆内部温度保持在用户设定的范围，并在中控屏幕显示宠物模式相关信息，让",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/338.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-81dc-838a-c9368eadee03",
-      "title": "罗技 Astro A50 X 头戴式耳机 McLAREN RACING“迈凯轮赛车版”国行发售，3499 元",
-      "summary": "IT之家 10 月 2 日消息，罗技旗下 Astro A50 X 耳机“迈凯轮赛车”版本（McLAREN RACING）国行现已在京东发售，定价为 3499 元。京东罗技（G）Astro A50 X 迈凯轮赛车版本 3499 元直达链接官方表示，这次联名并非简单换色，而是罗技对迈凯轮赛车精神的致敬。从耳机本体、麦克风到充电底座，均融入了迈凯轮赛车经典的木瓜橙（Papaya Orange）配色，并在多处细节加入迈凯轮 McLaren 品牌标志。无论是在《极限竞速》的赛道上驰骋，还是将电竞装备摆放在客厅中展示，这抹亮眼的橙色都将成为视觉焦点。规格方面，该耳机尺寸约为 186x189x92mm，不含",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/339.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-8133-9339-f90b36b4cd4e",
-      "title": "Your Driverless Cab Is Spying on You",
-      "summary": "Self-driving cars from Waymo, Zoox, and Tesla are studded with cameras and sensors. Some of them are pointing at riders.",
-      "source": "Wired",
-      "publishTime": "2026-10-02",
-      "link": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/"
-    },
-    {
-      "id": "3ed03df8-2d23-81a0-8468-f7ccfdd8a1ca",
-      "title": "绿联推出 45W 自带双线带屏 20000mAh 移动电源：3C + 1A，269 元",
-      "summary": "IT之家 10 月 2 日消息，绿联现已在京东上架一款 45W 自带双线带屏 20000mAh 移动电源，该产品采用 3C + 1A 设计，定价为 269 元。京东绿联 45W 快充 20000 毫安自带伸缩线移动电源券后 269 元领 30 元券该产品重量 447g，符合 2026 新国标，采用银色外观，彩屏和充电接口（1 个 USB-C 45W、1 个 USB-A 22.5W）均位于右侧，提供 45W USB-C 手提线（13 厘米）和 45W USB-C 伸缩线（70 厘米）。IT之家附产品参数：",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/337.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-8142-954b-d22c4a191981",
-      "title": "腾讯 WorkBuddy 内置模型独家支持 Space Bunny",
-      "summary": "IT之家 10 月 2 日消息，腾讯 WorkBuddy 今日宣布内置模型独家支持 Space Bunny。据介绍，Space Bunny 是一款匿名 Flash 大模型，具备极速推理、强大的编码能力，原生支持文本、图像、视频输入，思考深度可调，上下文长达 1M。WorkBuddy 国内独家接入，2026 年 10 月 2 日至 10 月 7 日间可享限时折扣。IT之家注意到，Space Bunny 是 2026 年 9 月 23 日上线的一款匿名 Flash 模型，拥有 100 万 Token 上下文窗口，支持文本、图像和视频输入，可调节推理强度并提供工具调用能力，强调快速推理和编程表现。2",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/335.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-812b-b429-edde03fc9ca6",
-      "title": "'I couldn't let everyone else die': The Flydubai pilot stabbed by his coworker describes how he helped save Flight 1073",
-      "summary": "Smit Machchhar spoke to India's prime minister in a video call from the hospital after being stabbed by his copilot on Flydubai Flight 1073.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/flydubai-captain-smit-machchhar-describes-how-helped-save-flight-1073-2026-10"
-    },
-    {
-      "id": "3ed03df8-2d23-813d-9c8f-c1d6a195287b",
-      "title": "安全公司曝光新型 macOS 恶意木马 CloudSyncD，通过伪装成 Zoom 安装程序传播",
-      "summary": "IT之家 10 月 2 日消息，安全公司 Jamf Threat Labs 发文，透露业界目前出现一种名为 CloudSyncD 的新型 macOS 恶意木马。该木马主要伪装成 Zoom 会议软件的安装程序，通过所谓的“安装说明”诱导用户关闭 macOS 内置的 Gatekeeper 安全机制、输入管理员密码。一旦用户按照相应“安装说明”步骤操作，攻击者便可以在 Mac 上建立隐藏后门。Jamf Threat Labs 表示，黑客主要利用山寨网站传播 CloudSyncD 恶意木马，相应钓鱼安装程序界面看起来与普通 Mac 安装程序非常相似，异常点主要在于背景图片，其中列出了一系列所谓的“安装",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/334.htm"
-    },
-    {
-      "id": "3ed03df8-2d23-8105-b570-d193566fa513",
-      "title": "I was on the Flydubai flight that plunged 17,000 feet after the cockpit attack. I didn't realize my life was at stake.",
-      "summary": "A passenger recounts the incident aboard Flydubai flight FZ1073 where a pilot was attacked, explaining how he kept his family calm mid-crisis.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/flydubai-flight-pilot-stabbing-incident-passenger-what-happened-2026-10"
-    },
-    {
-      "id": "3ed03df8-2d23-814e-8b27-e9cd0c6272ef",
-      "title": "Election Deniers Think the GOP’s Terrible Midterm Polling Is a ‘Psyop’",
-      "summary": "Dozens and dozens of high profile MAGA influencers and pundits have weighed in. “The laughable fake polls are rolling out,” Catturd posted on X.",
-      "source": "Wired",
-      "publishTime": "2026-10-02",
-      "link": "https://www.wired.com/story/election-deniers-think-the-gops-terrible-midterm-polling-is-a-psyop/"
-    },
-    {
-      "id": "3ed03df8-2d23-81a3-824d-cf9fb308fc7b",
-      "title": "Why prediction markets might take a bite out of New York's tax revenue",
-      "summary": "Online sports betting has generated over a billion in tax revenue for New York, but prediction markets could take a bite out of that.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/new-york-gambling-tax-revenue-faces-loss-prediction-market-growth-2026-10"
-    },
-    {
-      "id": "3ed03df8-2d23-812f-a170-eb921524359a",
-      "title": "I've been struggling to find work for over 2 years. It's taken a toll on my finances, confidence, and social life.",
-      "summary": "Jeremy Spiegel has spent over two years looking for full-time work. He says the search has affected nearly every part of his life.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/job-market-long-term-unemployment-tech-career-finances-social-life-2026-10"
-    },
-    {
-      "id": "3ed03df8-2d23-8134-80e7-e2e5d9a538eb",
-      "title": "I worked a finance day job and a supermarket night job. I've saved up nearly $300K toward early retirement.",
-      "summary": "Ryan Lowe lives with his parents in Massachusetts and recently worked two jobs. The 27-year-old wants to retire in his 40s and spend time traveling.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-02",
-      "link": "https://www.businessinsider.com/finance-worker-with-supermarket-night-job-saves-toward-early-retirement-2026-10"
-    },
-    {
-      "id": "3ed03df8-2d23-81bf-8e4a-efecf8174463",
-      "title": "雷神 K96 三模机械键盘新增“土星风暴”配色：PBT 球帽 + 环诺矮轴，249 元",
-      "summary": "IT之家 10 月 2 日消息，雷神现已为旗下 K96 三模机械键盘新增一款土星风暴配色，该键盘采用 PBT 球帽，匹配环诺矮轴，定价为 249 元。京东雷神 K96 三模矮轴机械键盘土星风暴 249 元直达链接该键盘尺寸为 360x149x22mm，采用 98% 配列，保留右侧数字键区，并设有多媒体宏按键以及可调音量与背光的金属滚轮，机身采用阳极氧化铝合金上盖与 ABS 下盖，内置 17 种白色灯效，背部设有防滑脚垫与单段式脚撑。轴体方面，产品使用双色注塑 PBT 球帽，搭载厂润环诺矮红轴，触发与触底压力分别为 42±3gf 和 52±3gf，总行程 3.1±0.2mm，寿命约 5000 万",
-      "source": "IT之家",
-      "publishTime": "2026-10-02",
-      "link": "https://www.ithome.com/1/009/330.htm"
+      "link": "https://www.ithome.com/1/009/371.htm"
     }
   ],
   "macroEvents": [
