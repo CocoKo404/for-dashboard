@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-10-11 02:45",
+  "updatedAt": "2026-10-11 06:48",
   "news": [
+    {
+      "id": "3f503df8-2d23-8194-919e-def0154d9c5c",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-11",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+    },
+    {
+      "id": "3f503df8-2d23-81ed-b3dd-de6cc97973bc",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an ",
+      "source": "The Verge",
+      "publishTime": "2026-10-11",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
+    },
+    {
+      "id": "3f503df8-2d23-81a8-9685-c2c2b60523df",
+      "title": "I moved my family from Australia to New York City 12 years ago. It's led to some very expensive regrets.",
+      "summary": "Moving my family to New York City from Australia years ago has been expensive, and I've made mistakes that led to regrets, but the move was worth it.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-11",
+      "link": "https://www.businessinsider.com/moved-family-to-new-york-city-from-australia-regrets-benefits-2026-10"
+    },
+    {
+      "id": "3f503df8-2d23-81a8-a13e-f503cbd39d65",
+      "title": "I moved back to my boring hometown. As a parent, boring looks pretty good.",
+      "summary": "I reluctantly moved back to my hometown to buy a house. Twelve years later, I'm raising my kids there and grateful for the decision.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-11",
+      "link": "https://www.businessinsider.com/returned-hometown-raising-children-family-support-2026-10"
+    },
+    {
+      "id": "3f503df8-2d23-8156-9127-cd6ac43d1973",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-11",
+      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/"
+    },
+    {
+      "id": "3f503df8-2d23-81c8-b5f4-db2e9c069d85",
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"o",
+      "source": "The Verge",
+      "publishTime": "2026-10-11",
+      "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts"
+    },
+    {
+      "id": "3f503df8-2d23-8104-8244-d13bd3fea710",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-11",
+      "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
+    },
+    {
+      "id": "3f503df8-2d23-8112-a884-c659ad7290a2",
+      "title": "安卓首款、全球第二款阔直板手机将至：酷派新机首曝，价格干到“999 定位千元档”",
+      "summary": "IT之家 10 月 11 日消息，全球首款阔直板手机 —— 华为 Pura X View 已于今年 9 月正式发布，搭载麒麟 9030S 处理器，配备 6400mm² VC 均热板，正面采用一块 6.39 英寸 2232×1320 分辨率的 OLED 直屏，屏幕比例为 16:9.5，售价 5999 元起。IT之家注意到，简介为“酷派手机旗舰店”的小红书账号 @coolpad方块数码 今日首爆了酷派 6.3 英寸阔直板新机，并透露新品即将到来，价格“999 定位千元档”。值得一提的是，从该账号公布的图片来看，这款手机并未采用四边等窄设计，其下巴明显宽于另外三边。由此推断，该机有望配备一块 LCD",
+      "source": "IT之家",
+      "publishTime": "2026-10-11",
+      "link": "https://www.ithome.com/1/011/540.htm"
+    },
     {
       "id": "3f503df8-2d23-81cd-a2e1-fcbbd189e673",
       "title": "宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台",
@@ -336,70 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-10-10",
       "link": "https://www.ithome.com/1/011/507.htm"
-    },
-    {
-      "id": "3f503df8-2d23-811d-808e-fa0132adb03a",
-      "title": "红旗天工 07 车型上市：CLTC 纯电续航最高 730km，限时权益价 16.79 万元起",
-      "summary": "IT之家 10 月 10 日消息，红旗天工 07 今晚上市，限时权益价区间 16.79-19.79 万元。新车延续红旗家族设计语言，搭载司南智驾方案，CLTC 工况最高纯电续航可达 730km。IT之家附价格如下：640 Max，限时权益价 16.79 万元起730 Ultra，限时权益价 17.29 万元起680 四驱 Ultra，限时权益价 19.79 万元起新车长宽高分别为 5000/1915/1490mm，轴距为 3000mm。内饰方面，新车搭载灵犀座舱 6.0，提供云杉灰、铂光杏、暖阳橙三款内饰颜色供选择。新车前排配备液晶仪表 + 17.3 英寸中控大屏，内置高通 8397 车机芯片",
-      "source": "IT之家",
-      "publishTime": "2026-10-10",
-      "link": "https://www.ithome.com/1/011/505.htm"
-    },
-    {
-      "id": "3f503df8-2d23-81cd-a536-fa5bc3604517",
-      "title": "因违反生成式 AI 使用规定：清华大学徐宁博士被撤销尼康 2026 显微视频竞赛冠军资格",
-      "summary": "IT之家 10 月 10 日消息，综合 BBC 报道，尼康宣布原本获得 2026 年 Small World in Motion 显微视频竞赛一等奖的作品因“不符合赛事关于生成式 AI 的相关规定”，因此取消其获奖资格。根据更新后的比赛排名，越南参赛者阮南日（Nguyen Nam Nhat）的作品现已升至第一名。IT之家获悉，原获奖视频由来自中国清华大学的徐宁博士（Dr. Ning Xu）提交，相应视频号称采用超分辨率显微成像技术，展示了一名原发性纤毛运动障碍（PCD）患儿呼吸道内纤毛的异常运动。然而后续多名显微成像及纤毛研究领域的专家在社交平台提出质疑，认为视频中的结构与真实 PCD 样本并",
-      "source": "IT之家",
-      "publishTime": "2026-10-10",
-      "link": "https://www.ithome.com/1/011/504.htm"
-    },
-    {
-      "id": "3f503df8-2d23-813f-bef0-dc68a43cc759",
-      "title": "I started an Airbnb business with my friends with 4 cabins. Now we manage more than 500 properties.",
-      "summary": "Samuel Sévigny cofounded the short-term rental property management company Chaletô with his friends. He shares tips on how to scale a business.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-10",
-      "link": "https://www.businessinsider.com/scaled-airbnb-business-real-estate-investing-tips-property-management-2026-10"
-    },
-    {
-      "id": "3f503df8-2d23-8149-a85d-c31409ed6935",
-      "title": "荣耀 WIN 2 手机外观首曝：横向矩阵 Deco 设计，后置 RGB 灯 + 散热风扇",
-      "summary": "IT之家 10 月 10 日消息，成都 AG 超玩会今日晒出了徐必成（一诺）的近照。画面中，一诺手持一款神秘新机。多方爆料显示，该机归属即将发布的荣耀 WIN 2 系列。可以看到，荣耀 WIN 2 采用了横向矩阵 Deco + 立边设计，后置 RGB 灯 + 散热风扇，后盖拥有云纹状特殊图案。据IT之家此前报道，消息称荣耀 WIN 2 系列新机代号 Barrett，目前备案了 3 个机型。系列新机配色有红蓝 Buff / 快开黑 / 指定赢，拥有大尺寸散热风扇 + 大面积 VC，工程机电池是 12000mAh±。爆料信息显示，荣耀 WIN 2 系列 + WIN Pad 小平板预计 10 月发布",
-      "source": "IT之家",
-      "publishTime": "2026-10-10",
-      "link": "https://www.ithome.com/1/011/503.htm"
-    },
-    {
-      "id": "3f503df8-2d23-8155-9544-cfb3047ae0a9",
-      "title": "一加 16 手机配置汇总：6.78 英寸直屏、第六代骁龙 8 超级至尊版处理器，10 月 12 日发布",
-      "summary": "IT之家 10 月 10 日消息，一加 16 手机将于 10 月 12 日 19:00 发布，博主 @数码闲聊站 今日对这款新机的配置进行了汇总爆料。IT之家整理如下：6.78 英寸 1.5K+185Hz BOE X4 直屏，支持 165Hz 全局超高刷，1.15mm LIPO 物理四等边；前置 50Mp，后置 200Mp HPE 主摄 +50Mp 超广角 +50Mp IMX882 3X 潜望长焦；骁龙 8EE6 处理器（第六代骁龙 8 超级至尊版处理器），9000mAh 电池 +100W 有线充 +50W 无线充，相对大尺寸 X 轴马达，大师对称双扬，3D 超声波指纹，IP66/IP68/I",
-      "source": "IT之家",
-      "publishTime": "2026-10-10",
-      "link": "https://www.ithome.com/1/011/502.htm"
-    },
-    {
-      "id": "3f503df8-2d23-8107-9adb-d1001311cf1b",
-      "title": "We rode 12 rides at Disney World without paying for Lightning Lanes. The secret was leaving our kids at home.",
-      "summary": "My friend and I are both moms and left our seven kids at home to go to Disney World. We visited three parks, rode 12 rides, and loved every minute.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-10",
-      "link": "https://www.businessinsider.com/disney-world-without-kids-moms-trip-experience-2026-10"
-    },
-    {
-      "id": "3f503df8-2d23-81ed-b176-cf3a77128191",
-      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "source": "Wired",
-      "publishTime": "2026-10-10",
-      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/"
-    },
-    {
-      "id": "3f503df8-2d23-8106-b879-cc965aefc3ad",
-      "title": "The techlash has gone Hollywood",
-      "summary": "Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage.) I'm back from parental leave! Part time, anyway. Thanks to everyone who sent wel",
-      "source": "The Verge",
-      "publishTime": "2026-10-10",
-      "link": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer"
     }
   ],
   "macroEvents": [
