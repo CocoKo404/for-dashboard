@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-10-11 06:48",
+  "updatedAt": "2026-10-11 10:02",
   "news": [
+    {
+      "id": "3f503df8-2d23-811f-a3e2-f5393e185293",
+      "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
+      "summary": "IT之家 10 月 11 日消息，亚马逊云科技 10 月 10 日宣布与北京姚基金公益基金会（以下简称“姚基金”）共同推出“云上篮图”体育 × 科技育人计划。该公益计划依托姚基金覆盖全国的学校网络、体育人才培养经验，同时借助亚马逊云科技 Breaking Barriers 全球创新活动，以及云与 AI 技术、由资深解决方案架构师组成的导师团队和培训与认证学习资源，旨在培养更多兼备 AI 素养与体育专业能力的复合型人才，赋能中国体育行业在 AI 时代快速发展。本次计划中，亚马逊云科技将投入 100 万美元（IT之家注：现汇率约合 670.6 万元人民币）现金捐赠及云与 AI 技术资源，一方面支持",
+      "source": "IT之家",
+      "publishTime": "2026-10-11",
+      "link": "https://www.ithome.com/1/011/542.htm"
+    },
+    {
+      "id": "3f503df8-2d23-81ad-90ff-e4f7ba1e7cc3",
+      "title": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型",
+      "summary": "IT之家 10 月 11 日消息，据金融时报消息，知情人士透露，英伟达正就收购美国初创公司 Reflection AI 或向其追加投资展开深入谈判。Reflection AI 专注于开发开放权重模型，于当地时间 10 月 5 日发布旗下首款开放权重 AI 模型 Beam。知情人士补充称，目前的谈判尚处初期阶段，潜在交易可能采取多种形式 —— 包括所谓“人才兼并”模式。在这一架构下，英伟达将吸纳其核心团队并获取技术授权，从而绕开全面并购通常伴随的漫长反垄断审查。英伟达目前已是 Reflection 的主要股东之一，也可能选择通过新一轮股权投资，或以提供更多芯片与算力资源的合作方案，进一步加深与该",
+      "source": "IT之家",
+      "publishTime": "2026-10-11",
+      "link": "https://www.ithome.com/1/011/541.htm"
+    },
+    {
+      "id": "3f503df8-2d23-8107-9f3e-ee2c259a7590",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+      "source": "The Verge",
+      "publishTime": "2026-10-11",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+    },
+    {
+      "id": "3f503df8-2d23-81a6-b9b1-c120999e2588",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-11",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+    },
+    {
+      "id": "3f503df8-2d23-8193-8305-f3485b164e57",
+      "title": "Satya Nadella says a company's relationship with AI should have trust issues",
+      "summary": "Microsoft CEO Satya Nadella said companies should assume AI models are compromised and contain them from the start.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-11",
+      "link": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10"
+    },
+    {
+      "id": "3f503df8-2d23-8185-8030-ceeb63e4ea69",
+      "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+      "summary": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-11",
+      "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html"
+    },
     {
       "id": "3f503df8-2d23-8194-919e-def0154d9c5c",
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
@@ -352,54 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-10-10",
       "link": "https://www.ithome.com/1/011/510.htm"
-    },
-    {
-      "id": "3f503df8-2d23-819b-874f-fd8522cdb969",
-      "title": "吉利首款 AI 全地形硬核 SUV：银河战舰 700 全球上市，限时焕新价 16.98 万元起",
-      "summary": "IT之家 10 月 10 日消息，吉利银河官方今天宣布，银河战舰 700 汽车全球上市。新车是吉利首款 AI 全地形硬核 SUV，基于 GTA 原生新能源越野架构打造，限时焕新价 16.98 万元起。305km 1.5T 两驱探索版：上市指导价 18.98 万元、先享指导价 17.98 万元、限时焕新价 16.98 万元；305km 1.5T 两驱探索+ 版：上市指导价 19.98 万元、先享指导价 18.98 万元、限时焕新价 17.98 万元；280km 1.5T 三电机四驱驭峰版：上市指导价 21.98 万元、先享指导价 20.98 万元、限时焕新价 19.98 万元；280km 1.5",
-      "source": "IT之家",
-      "publishTime": "2026-10-10",
-      "link": "https://www.ithome.com/1/011/509.htm"
-    },
-    {
-      "id": "3f503df8-2d23-8156-b920-e551aeeba190",
-      "title": "399 元，小米金沙江充电宝超薄磁吸 10000 45W 上架",
-      "summary": "IT之家 10 月 10 日消息，小米金沙江充电宝超薄磁吸 10000 45W 今日上架小米有品，售价 399 元（点击前往）。IT之家从商品页面获悉，新品搭载小米金沙江硅碳负极电池，能量密度高达 840Wh/L，拥有 16% 旗舰级含硅量，通过新国标认证。依托于旗舰同源小米金沙江电池先进技术，精密堆叠工艺再升级，将两块 5000mAh 电池内置于纤薄机身，重量约 195g 。集成专属智能快充芯片，广泛兼容 BC、QC、PD 等多种主流充电协议。连接充电设备时可自动识别所需充电电流，智能匹配充电功率，快充更稳更安全。新品支持 20W Max 磁吸无线快充、45W Max 有线快充、有线无线双设",
-      "source": "IT之家",
-      "publishTime": "2026-10-10",
-      "link": "https://www.ithome.com/1/011/508.htm"
-    },
-    {
-      "id": "3f503df8-2d23-8196-9a72-d928843677c0",
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data",
-      "source": "The Verge",
-      "publishTime": "2026-10-10",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
-    },
-    {
-      "id": "3f503df8-2d23-8165-bf76-ea6213b55ac1",
-      "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
-      "summary": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with the new technology - including LG and its $3,600 75-inch Micro RGB evo MRGB",
-      "source": "The Verge",
-      "publishTime": "2026-10-10",
-      "link": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review"
-    },
-    {
-      "id": "3f503df8-2d23-8145-9a23-de035896d327",
-      "title": "We met on a 7th-grade field trip. Twenty years later, I secretly recreated it and we rekindled our romance.",
-      "summary": "Parenthood had pushed romance aside in my marriage. Returning to the theme park where my husband and I met helped us reconnect.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-10",
-      "link": "https://www.businessinsider.com/marriage-after-baby-theme-park-date-reconnect-2026-10"
-    },
-    {
-      "id": "3f503df8-2d23-81de-9ae2-e56992aa667c",
-      "title": "美国纽约开始将路灯杆转换为电动汽车充电设施，首个充电桩落地布鲁克林码头公园",
-      "summary": "IT之家 10 月 10 日消息，据外媒 insideevs 报道，近期初创公司 Voltpost 联合美国纽约市政府，将当地路灯杆转换为电动汽车充电桩，目前首个充电桩已在布鲁克林南部的布什码头公园（Bush Terminal Park）落地。据介绍，相应充电设施安装在距离地面约 3 米的路灯杆上，位置大致与篮球框相当。Voltpost 表示，将设备安装在较高位置有助于降低人为破坏和洪水造成的损坏风险。充电设施配有 7.6 米长线缆，足以连接充电汽车，且不会明显妨碍周边车辆。外媒 insideevs 实际体验后认为，该充电设施使用过程较为简单。用户扫描充电桩上的二维码后，只需进行两步操作，充电",
-      "source": "IT之家",
-      "publishTime": "2026-10-10",
-      "link": "https://www.ithome.com/1/011/507.htm"
     }
   ],
   "macroEvents": [
