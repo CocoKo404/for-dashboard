@@ -1,6 +1,278 @@
 {
-  "updatedAt": "2026-10-16 04:26",
+  "updatedAt": "2026-10-16 07:11",
   "news": [
+    {
+      "id": "3fa03df8-2d23-81a2-a1f1-c6d67eef5526",
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-16",
+      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/"
+    },
+    {
+      "id": "3fa03df8-2d23-817d-8f12-fba5def66b7c",
+      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "summary": "Big Tech gave millions to Trump's White House ballroom, documents show",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-16",
+      "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html"
+    },
+    {
+      "id": "3fa03df8-2d23-81bf-9b6a-c60f970c57cc",
+      "title": "CoreWeave, Broadcom Object to Their Shares Tokenized on Blockchain",
+      "summary": "CoreWeave and Broadcom have objected to a request from OKXICE, a joint venture between crypto exchange OKX and Intercontinental Exchange, to list and trade their stocks on blockchain, joining a growing list of companies pushing back against crypto versions of their stocks. The objections could ...",
+      "source": "The Information",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theinformation.com/briefings/coreweave-broadcom-object-shares-tokenized-blockchain"
+    },
+    {
+      "id": "3fa03df8-2d23-81e7-9091-dc38a8744ee1",
+      "title": "A psychologist shares why it suddenly feels like every child has ADHD — and why parents shouldn't rush to diagnosis",
+      "summary": "Dr. Katie S. Davis, a psychologist specializing in childhood learning disorders, believes some parents are rushing to diagnose their kids.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/psychologist-parents-kids-adhd-autism-dyslexia-learning-disability-diagnosis-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-8177-9c71-e57dc8bb0d1e",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-16",
+      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+    },
+    {
+      "id": "3fa03df8-2d23-81fe-957f-ef854dfc24c6",
+      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni S",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
+    },
+    {
+      "id": "3fa03df8-2d23-816c-9ddb-d80830606b18",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-16",
+      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
+    },
+    {
+      "id": "3fa03df8-2d23-814d-82bd-dd6c5b2eb1d5",
+      "title": "Withings now charges $100 per year to sync your data to other apps",
+      "summary": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. According to a discussion on Withings' support forums spotted by MacRumors, new Withing",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026"
+    },
+    {
+      "id": "3fa03df8-2d23-81d6-a87c-d41340d1b34e",
+      "title": "Anthropic Says AI Evaluators Can Now Work at Company",
+      "summary": "Anthropic has now begun embedding AI evaluators within the company to assess and publish reports on safety practices and risks, Anthropic said in a blog post on Thursday. They’ll use company computers, office space and have access to internal tools and systems. The details follow Anthropic CEO ...",
+      "source": "The Information",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theinformation.com/briefings/anthropic-says-ai-evaluators-can-now-work-company"
+    },
+    {
+      "id": "3fa03df8-2d23-8175-bb20-e4b06e6544b7",
+      "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
+      "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-16",
+      "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html"
+    },
+    {
+      "id": "3fa03df8-2d23-818c-8ffe-fa33d94782d6",
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-16",
+      "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/"
+    },
+    {
+      "id": "3fa03df8-2d23-810b-904c-d002a3c4e9d7",
+      "title": "I couldn't afford to buy rental properties at 25. So I started renting out cars instead.",
+      "summary": "Saimah Chaudhry started renting out her Smart car at 25. She eventually built a fleet of over 50 vehicles generating hundreds of thousands annually.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/started-renting-car-built-profitable-rental-business-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-810a-8e61-cdcbac6b600d",
+      "title": "'Cocaine Cowboys' is getting an AI-enhanced makeover for its 20th birthday",
+      "summary": "\"Cocaine Cowboys,\" the documentary about the Miami drug war that inspired \"Miami Vice\" and \"Scarface,\" is getting an AI-enhanced re-release.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/cocaine-cowboys-20th-anniversary-ai-enhanced-rerelease-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-81ee-8867-eb3befa20ba9",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-16",
+      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+    },
+    {
+      "id": "3fa03df8-2d23-8187-b6d0-d74ef33997bc",
+      "title": "US Army soldiers trained for long-range strikes in Europe test-fired a Pacific-proven missile system for the first time in California",
+      "summary": "The US Army's Multi-Domain Command - Europe tested the new missile system as it assesses how the weapon can add more firepower to its arsenal.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/us-army-forces-europe-fired-typhon-missile-system-first-time-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-8106-9ec9-c14636d328f0",
+      "title": "Anthropic's crackdown on AI copycats may be hurting its revenue growth",
+      "summary": "Anthropic's crackdown on rivals copying Claude may explain part of its slowing revenue growth as the AI startup prepares for an IPO.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/anthropic-ai-copycats-distillation-revenue-growth-ipo-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-81d1-b73d-e6c7bf83d4be",
+      "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
+      "summary": "You don’t need the fanciest model to make your heating routine smarter. A refurbished Ecobee we love is just $120 through October 21.",
+      "source": "Wired",
+      "publishTime": "2026-10-16",
+      "link": "https://www.wired.com/story/ecobee-fall-sale-2026/"
+    },
+    {
+      "id": "3fa03df8-2d23-8174-ae40-ed577e8d9f4a",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-16",
+      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
+    },
+    {
+      "id": "3fa03df8-2d23-8170-8c4f-ff02bf1480e6",
+      "title": "Anthropic just opened its doors to outside safety watchdogs. Here's how it will work.",
+      "summary": "Anthropic is opening its doors to independent AI safety evaluators from METR, the first time a frontier AI company has done so.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/anthropic-ai-safety-watchdogs-metr-dario-amodei-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-8186-9f13-c732a9986854",
+      "title": "Breaking with Trump, Jensen Huang makes the case for immigration: 'We want all the world's great minds to come here'",
+      "summary": "Nvidia CEO Jensen Huang was born in Taiwan and came to the US as a child. Now, he's saying that other immigrants should be given the same opportunity.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/jensen-huang-nvidia-immigration-trump-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-8144-8a4a-f4d6249c3563",
+      "title": "People who paid $50K to reserve a Roadster would have made bank investing that in Tesla stock instead",
+      "summary": "Tesla is re-revealing the Roadster, nine years after reservation holders forked over $50,000. Here's what an investment in TSLA would have yielded.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/tesla-roadster-reservation-50k-value-stock-investment-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-8177-89fc-ebed07b7a635",
+      "title": "OpenAI Accelerates Ad Sprint With Meta Hires, Slashed Prices",
+      "summary": "As OpenAI has jockeyed with Anthropic to win over developers with new models and tools this year, its advertising business at times has seemed like an afterthought. Not anymore. Over the last few months, the company has unleashed a flurry of new products and tools to court advertisers, even as it ha",
+      "source": "The Information",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices"
+    },
+    {
+      "id": "3fa03df8-2d23-81b8-88d3-ea0bb7bb9b1f",
+      "title": "Why AI-Written Software Needs a Flight Simulator",
+      "summary": "As companies create more applications using AI, corporate officers say demand is rising for a new type of software that stress-tests those apps, simulating how they handle network problems and other disasters that humans may not think to test for—including cyberattacks by rogue AIs.Luis Chávez, CTO ",
+      "source": "The Information",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theinformation.com/articles/ai-written-software-needs-flight-simulator"
+    },
+    {
+      "id": "3fa03df8-2d23-8150-9089-cbe5bba206e6",
+      "title": "An AI CEO is calling out the people who bash AI but can't stop using it",
+      "summary": "Verb CEO Cyrus Beschloss said people opposed to AI and data centers are still using the technology and would have a hard time giving it up.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/verb-ceo-ai-backlash-critics-chatgpt-data-centers-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-8146-a147-f57c3bf6c76a",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Ap",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+    },
+    {
+      "id": "3fa03df8-2d23-81d5-9d94-c6b43a7e9f7a",
+      "title": "The memes are flying about AI employee honeypots and spy seductions",
+      "summary": "X users wasted no time turning a WSJ article into an opportunity to dunk on tech bros and the San Francisco dating scene.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/ai-employee-spies-targets-jokes-memes-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-81ff-8e7a-da47119ab8ae",
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-16",
+      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"
+    },
+    {
+      "id": "3fa03df8-2d23-8192-97dc-c75efe99d0d6",
+      "title": "Anduril CEO defends Trump administration contracts: 'We've done incredibly well under Biden'",
+      "summary": "Anduril CEO Brian Schimpf says contracts are won 'on the merits' amid ethics questions over co-founder Palmer Luckey's Pentagon role",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-16",
+      "link": "https://www.cnbc.com/2026/10/15/anduril-ceo-contracts-palmer-luckey-ethics.html"
+    },
+    {
+      "id": "3fa03df8-2d23-8151-8435-c202017ec1e5",
+      "title": "How Hollywood mogul Tyler Perry makes and spends his $1.4 billion fortune",
+      "summary": "Tyler Perry is the creator of the popular Madea franchise and owns a sprawling movie studio in Atlanta.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/how-billionaire-tyler-perry-makes-and-spends-his-fortune-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-81cb-8a9d-c6c29330a0da",
+      "title": "I explored an abandoned resort town in the Great Smoky Mountains, where the wealthy vacationed a century ago",
+      "summary": "Elkmont Historic District was once a Tennessee ghost town. Now, 16 cabins have been preserved and restored, and are open to the public. Take a look.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/great-smoky-mountains-elkmont-ghost-town-tour"
+    },
+    {
+      "id": "3fa03df8-2d23-81bf-992b-c4fae90637f3",
+      "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
+      "summary": "Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2,999.99 Walkman NW-WM1AM3, which is nearly identical to the WM1ZM3, just minus t",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player"
+    },
+    {
+      "id": "3fa03df8-2d23-8129-a2fd-c0aff496479b",
+      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-16",
+      "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/"
+    },
+    {
+      "id": "3fa03df8-2d23-81a6-bdcf-da7b5a8d0895",
+      "title": "Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off",
+      "summary": "The Alienware AW3426DW is discounted to $742.22 at Amazon, just over $50 off its usual price of $799.99. It’s not quite the lowest price we’ve seen on this well-equipped gaming monitor, but still a decent discount. The 34-inch screen just came out a couple months ago, and is equipped with Penta Tand",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale"
+    },
+    {
+      "id": "3fa03df8-2d23-818a-b234-c239ce11da24",
+      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
+      "summary": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Drivin",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban"
+    },
     {
       "id": "3fa03df8-2d23-81f0-a538-f460d2113867",
       "title": "Google is making inline links more prominent in AI responses",
@@ -128,278 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-10-16",
       "link": "https://www.ithome.com/1/013/683.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-8184-b7e8-e8ffc4a610d8",
-      "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
-      "summary": "Fourteen years ago this month, Microsoft released an Nvidia-powered Windows PC that would become one of the greatest tech flops in modern history. The original Microsoft Surface, which ran a stripped-down version of Windows on an Nvidia Tegra chip, bombed so hard that Microsoft had to write off $900",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm"
-    },
-    {
-      "id": "3fa03df8-2d23-81ec-84b2-cc127d0c6a60",
-      "title": "E Ink upgraded the screen found in most color e-readers",
-      "summary": "E Ink announced the next generation of its Kaleido color e-paper screen technology today, delivering several welcome improvements. The company's existing Kaleido 3 displays can be found in e-readers and tablets from companies like Kobo, PocketBook, and Boox, while Amazon's Kindle Colorsoft uses a cu",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness"
-    },
-    {
-      "id": "3fa03df8-2d23-8149-b110-cd610faaacf4",
-      "title": "I'm a die-hard Costco fan with an executive membership. Here are the 9 items I can't leave the store without.",
-      "summary": "The Kirkland Signature organic chicken breasts and Bachan's Japanese barbecue sauce are a few of the many things I never leave Costco without.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-15",
-      "link": "https://www.businessinsider.com/best-items-from-costco-executive-member-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-819d-8f8b-cbd68b096fec",
-      "title": "特努斯谈早期折叠屏手机：感觉“有点廉价、质量也不怎么样”，苹果早在 2011 年就开始探索相关技术",
-      "summary": "IT之家 10 月 15 日消息，苹果 CEO 约翰・特努斯（John Ternus）今日在接受《时代》杂志专访时，谈到了他对于早期折叠屏手机的感受，称其中一些产品给人的感觉“有点廉价、质量也不怎么样”（“kind of cheap and crappy”）。相关采访刊登于《时代》杂志 2026 年度最佳发明专题，苹果首款折叠屏手机 iPhone Duo 也入选该榜单。众所周知，三星于 2019 年推出首款折叠屏手机，而全球首款量产的三折叠屏手机华为 Mate XT 非凡大师于 2024 年发布，苹果直到今年才推出其首款折叠屏手机 iPhone Duo。根据《时代》采访内容，特努斯谈到了 iP",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/682.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-8100-9394-ea4e6478671e",
-      "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
-      "summary": "We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how much each contribute",
-      "source": "The Verge",
-      "publishTime": "2026-10-15",
-      "link": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom"
-    },
-    {
-      "id": "3fa03df8-2d23-81be-9497-d3a2d772a6cc",
-      "title": "雷蛇梭鱼 V2 专业版耳机发布：285g 可折叠、70 小时续航，199.99 美元",
-      "summary": "IT之家 10 月 15 日消息，雷蛇今日发布梭鱼 V2 专业版（Barracuda V2 Pro）无线游戏耳机，新品在美国市场的定价为 199.99 美元（IT之家注：现汇率约合 1,341 元人民币），国行版本预计将于近期公布。音频方面，梭鱼 V2 专业版搭载雷蛇 TriForce 生物纤维素 40mm 驱动单元，强调高频清脆、中频清晰以及无失真低频。连接 PC 时可通过雷蛇 Synapse 4 启用 THX Spatial Audio+，提供 7.1.4 虚拟环绕声，在传统 7.1 声道基础上增加四个顶部声道，使声音线索不仅能在玩家周围定位，还能从上方呈现。这款耳机同时配备混合主动降噪，",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/681.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81c0-8c6d-d196dcd479f9",
-      "title": "Hilary Swank is pregnant again at 52. She said she's glad she waited until her late 40s to have kids.",
-      "summary": "Hilary Swank is pregnant again at 52. In a 2024 interview, she said she's glad she's an older mom.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-15",
-      "link": "https://www.businessinsider.com/why-hilary-swank-is-happy-to-be-older-mom-52-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-8115-b5ec-ff8c406a62d4",
-      "title": "全球首家 AI 眼镜无人自助体验店登陆中国香港，乐奇 Rokid 打造",
-      "summary": "IT之家 10 月 15 日消息，AI+AR 智能眼镜品牌乐奇 Rokid 今日宣布，全球首家 AI 眼镜无人自助体验店于中国香港尖沙咀海港城正式开幕。这是乐奇 Rokid 首间海外旗舰店，还是 AI 眼镜品类全球首个以“自助体验”为核心的零售空间。根据市场调查机构 Counterpoint Research 最新报告，乐奇 Rokid 于 2026 年上半年以 41% 的出货量，居全球 AI 与 AR 眼镜市场首位。IT之家获悉，乐奇 Rokid 全球首家 AI 眼镜无人自助体验店位于香港海港城海洋中心三楼，店内设八个沉浸式体验专区。体验店采用全自助模式，不设导购跟随，消费者不受话术压力。每",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/680.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-810a-a4df-f38f9f5f5e89",
-      "title": "I thought I was dating Jon Bon Jovi. Ten months later, I realized I'd been scammed out of $10,000.",
-      "summary": "Leslie Pickett believed she was romantically involved with Jon Bon Jovi. After 10 months, she discovered it was a scam and had lost $10,000.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-15",
-      "link": "https://www.businessinsider.com/jon-bon-jovi-romance-scam-woman-lost-money-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-814d-ac23-c2c89d67a70e",
-      "title": "Lyft starts a business travel brand, escalating its Uber rivalry",
-      "summary": "Lyft starts Alcove, for business travel, integrating TBR Global Chauffeuring, as it competes with Uber's Elite in the lucrative travel sector.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-15",
-      "link": "https://www.businessinsider.com/alcove-lyft-targets-upscale-business-travel-market-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-81d3-8f47-d5cae005a105",
-      "title": "Katie Zacharia is Trump's new press secretary, replacing Karoline Leavitt. Meet the 6 he's had over both his terms.",
-      "summary": "Katie Zacharia is the new White House press secretary, taking over for Karoline Leavitt.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-15",
-      "link": "https://www.businessinsider.com/white-house-press-secretaries-trump-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-8164-9e1f-c4261d614ef5",
-      "title": "Tale of two markets: Our 3 biggest winners and losers over the past five weeks",
-      "summary": "A divided market created big winners and losers. Here's how our stocks fared since the last Monthly Meeting.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-15",
-      "link": "https://www.cnbc.com/investingclub/2026/10/15/tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks.html"
-    },
-    {
-      "id": "3fa03df8-2d23-812f-a284-dd6f78677843",
-      "title": "英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB",
-      "summary": "IT之家 10 月 15 日消息，英伟达宣布推出开放多模态模型 Nemotron 3.5 Super VL，面向需要持续运行、执行多步骤任务的 AI 智能体。该模型采用混合专家（MoE）架构，总参数量为 1200 亿，激活参数 120 亿。英伟达称，在单张 GPU 上执行智能体任务时，该模型的吞吐量最高可达到同规模其他开放模型的 5 倍。据介绍，Nemotron 3.5 Super VL 将推理、指令遵循和工具调用能力，与文本、图像、文档及视频理解能力整合到同一个模型中，可用于代码测试与调试、跨网站信息检索、文档分析、网络安全威胁识别以及视频内容检索等场景。开发者可以利用英伟达 NeMo 工具",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/679.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81c9-8571-e75f6e7c2733",
-      "title": "差评如潮：世嘉暂时下架《全面战争：幕府将军 2》完全版，承认游戏体验未达到应有水平",
-      "summary": "IT之家 10 月 15 日消息，世嘉与 Creative Assembly 今天宣布，《全面战争：幕府将军 2》完全版游戏已暂时下架。截至目前，本作在 Steam 的简体中文评测为“差评如潮”。世嘉表示，《全面战争：幕府将军 2》完全版的表现未能达到玩家预期，也没有达到自身标准。官方已看到玩家的反馈、评论，认同游戏体验未达到应有水平。因此世嘉正与各大游戏平台合作，将本作暂时下架，并在调查问题期间重新上架原版游戏。已经购买该作的玩家仍可正常游玩。IT之家注意到，玩家反馈的问题集中在多个方面。画面升级首当其冲，大量玩家质疑开发团队使用了效果欠佳的 AI 放大处理。据 3DM 游戏报道，一张单位卡",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/678.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81a5-b6e6-d6ec757e0166",
-      "title": "微软宣布优化 Win11 内存管理：响应速度最高提升 20%，8GB 内存电脑明显受益",
-      "summary": "IT之家 10 月 15 日消息，微软于当地时间 10 月 15 日发布 Windows 11 年度更新博文，详细盘点了过去数月间在性能、内存管理及日常体验上的多项改进。微软宣称，Windows 11 正在获得一系列性能与体验优化，系统整体响应速度最高提升 20%，内存管理也得到改进，尤其有利于仅配备 8GB 内存的电脑。微软 Windows 体验部门企业副总裁纳乔特・维尔克（Navjot Virk）表示，公司改进了 Windows 的内存管理和资源利用效率，让更多系统资源集中用于用户当前正在执行的任务。在相关优化下，Windows 11 最多可以让额外 2GB 的活动数据留在内存中，而不是转",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/677.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-8181-bc78-d90772f1bcde",
-      "title": "AI agents are coming to Rivian’s cars",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-15",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
-    },
-    {
-      "id": "3fa03df8-2d23-8116-8cc3-d66e5a7ed49e",
-      "title": "Shelly’s new presence sensor simultaneously detects up to 10 people without a camera",
-      "summary": "Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or large spaces without recording them. The Shelly Presence Gen4 sensor uses mmWave r",
-      "source": "The Verge",
-      "publishTime": "2026-10-15",
-      "link": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera"
-    },
-    {
-      "id": "3fa03df8-2d23-81c2-8802-d713ec651245",
-      "title": "消息称三星 Galaxy S27 Ultra 手机屏幕边框略微收窄，约 1.28mm",
-      "summary": "IT之家 10 月 15 日消息，X 平台博主 Ice Universe 今日发文称，三星 Galaxy S27 Ultra 手机的屏幕边框约为 1.28mm，后摄模组厚度约 4.69mm。作为对比，Galaxy S26 Ultra 的屏幕边框宽度约为 1.68mm。而国产品牌的旗舰手机已经开始突破 1mm 门槛，例如小米 18 Pro Max 和 OPPO Find X10 Pro Max 分别宣称采用 0.99 mm 和 1mm 的屏幕边框。因此，我们可以更多关注 Galaxy S27 Ultra 是否会采用全新 AMOLED 面板。IT之家注意到，另一名消息人士 OnLeaks 曾给出 ",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/674.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81a3-884b-ef7a44809249",
-      "title": "Epic 喜加二：《烂奶酪》《Agent A - 伪装游戏》游戏免费领取",
-      "summary": "IT之家 10 月 15 日消息，Epic 本周送出的游戏是《烂奶酪》和《Agent A - 伪装游戏》，下周送出的游戏是《Sker Ritual》以及《Home - A Unique Horror Adventure》。领取链接：《烂奶酪》，《Agent A - 伪装游戏》IT之家附《Bad Cheese》游戏简介： 这是一款心理恐怖游戏，灵感源自二十世纪 20 年代那些充满诡异魅力的动画片。你将化身为一只小老鼠，当母亲不在家的时候，与不太称职的父亲共同度过周末。请表现出你最听话的一面，让父亲心情愉快。本作由 Simon Lukasik 开发，最初发售于 2025 年 9 月 1 日，Ste",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/675.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81a8-9f82-d7eef5d7b560",
-      "title": "The problem with Katie Zacharia calling herself a lawyer",
-      "summary": "Two watchdog groups filed complaints with the California bar, asking it to investigate whether she violated the law by calling herself a lawyer.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-15",
-      "link": "https://www.businessinsider.com/katie-zacharia-lawyer-bar-complaint-california-white-house-press-secretary-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-81bb-9f28-c5510013be58",
-      "title": "继《现代战争》《黑色行动》后：动视确认《使命召唤》将推出全新子系列，游戏开发工作已启动",
-      "summary": "IT之家 10 月 15 日消息，动视确认《使命召唤》系列将推出全新子系列，相关开发工作已经启动。据 The Game Business 当地时间 10 月 15 日发布的专访，动视首席营销官泰勒・巴尔（Tyler Bahl）透露，公司已为这一全新子系列奠定开发基础，但目前尚未公布游戏名称、具体玩法及发售时间。他同时强调，公司目前仍将重点放在即将推出的《使命召唤：现代战争 4》上，希望通过这款作品回应玩家此前提出的意见。据 The Game Business 报道，近年来，《使命召唤》系列主要围绕《现代战争》和《黑色行动》两大子系列推出作品。动视此前曾连续推出《现代战争 2》《现代战争 3》，",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/673.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81de-8218-f712d78a8ab4",
-      "title": "Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries",
-      "summary": "Microsoft has redesigned its Photos app for Windows 11, overhauling the editor and image viewer, and combining photos and videos from your PC, OneDrive, and iCloud into a single space. The new combined gallery experience aims to make it easier to manage and view your photos without jumping between a",
-      "source": "The Verge",
-      "publishTime": "2026-10-15",
-      "link": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud"
-    },
-    {
-      "id": "3fa03df8-2d23-8193-a0f3-cfe59717a162",
-      "title": "夸克网盘 11.11 终发车： SVIP 低至 8 元 / 月，支持每月 100 次离线下载",
-      "summary": "夸克 SVIP 年卡官方定价 300 元，日常大促价 158 元 / 年、25 元 / 月。今日 11.11 大促双年卡 + 月卡仅需 218 元（共 25 个月），加赠 keep 会员双月卡。折合 8.7 元 / 月（算上 keep 会员则 8 元 / 月），104 元 / 年：天猫夸克网盘 SVIP 超级会员 2 年卡 赠月卡 +keep 双月卡折后 217 元直达链接年卡今日折后 120 元，加赠 14 天，折合 9.6 元 / 月、115 元 / 年：天猫夸克网盘 SVIP 超级会员年卡 加赠 14 天折后直达链接会员权益天猫夸克网盘 SVIP 超级会员 2 年卡 赠月卡 +keep ",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/672.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-8182-ae1c-e34f5c7ecabc",
-      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-15",
-      "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/"
-    },
-    {
-      "id": "3fa03df8-2d23-819e-9c85-d4dda5e9370e",
-      "title": "腾讯魔方《异人之下》手游定档 12 月：登陆 iOS、安卓、鸿蒙，PC 手机数据互通",
-      "summary": "IT之家 10 月 15 日消息，腾讯魔方工作室群研发的 3D 格斗竞技游戏《异人之下》正式官宣定档 12 月，官方同步开启终局测试招募。本轮终局测试为限量计费删档测试，将于 11 月 4 日正式开启，测试招募今日正式开放，问卷截止时间为 10 月 27 日 16 时。截至目前，游戏全平台预约量已突破 3000 万。平台互通规则方面，本次终局测试支持 PC 端与移动端（IT之家注：含 iOS、安卓、鸿蒙）游玩，双端数据互通，QQ 与微信玩家可匹配对战，但两个平台账号数据并不互通。据官方公告，每位入选玩家仅开通单平台账号资格，需在招募问卷中准确填写游玩平台与账号，以避免资格开通失败。每个账号仅能",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/671.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81e8-92c8-d2e48fd2f0c4",
-      "title": "Trump calls off livestream of execution",
-      "summary": "The execution of Fort Hood shooter Nidal Hasan will not be livestreamed as Secretary of Defense Pete Hegseth had previously announced. Donald Trump announced the plan was off in a post on Truth Social: I think streaming the execution for all to see might have been a strong deterrent for the World to",
-      "source": "The Verge",
-      "publishTime": "2026-10-15",
-      "link": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming"
-    },
-    {
-      "id": "3fa03df8-2d23-81d6-a7a6-e700d871d514",
-      "title": "Anthropic 抛弃 Git，选择自研版本控制系统 Scion",
-      "summary": "IT之家 10 月 15 日消息，美国人工智能公司 Anthropic 近日宣布弃用 Git，转为采用自研的版本控制系统 Scion，将大部分源代码管理操作转移至服务器，减少智能体和自动化任务需要下载的数据。Anthropic 表示，公司 5 月平均每天合并 2500 次代码变更；到了 9 月，这一数字已经超过 3 万次，Git 已经无法满足需求，为此公司选择自研 Scion 系统。Anthropic 宣称，Scion 的 CPU 和内存消耗仅为 Git 的两百分之一。切换系统后，CI 和研究任务代码检出操作仅需几秒钟，不再是之前的几分钟。IT之家了解到，Scion 将提交、合并、变基和文件历",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/670.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81f5-998e-d4f749a81bbf",
-      "title": "SK 海力士拟在美新建 NAND 工厂，换取为中国工厂引进更多美国设备的机会",
-      "summary": "IT之家 10 月 15 日消息，路透社今日报道称，SK 海力士正试图以在美国建设新厂的方式，向美国政府换取为中国大连工厂引进更多美国制造的半导体设备的许可。两名知情人士透露，SK 海力士希望通过提升中国工厂的产能，为美国新工厂提供资金支持，并逐步扩大其在美国的生产布局。美国政府正推动 SK 海力士、三星电子等海外半导体企业赴美建厂，以提升美国本土制造能力并创造就业岗位。与此同时，人工智能和云计算数据中心需求增长，全球存储芯片供应趋紧，NAND 闪存价格持续上涨，也促使相关厂商考虑扩大生产。据路透社报道，SK 海力士旗下美国子公司 Solidigm 希望在中国大连工厂尚未充分利用的厂房区域安装",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/669.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81aa-93c5-c5571f0c09b0",
-      "title": "特朗普白宫宴会捐款名单曝光：苹果、英伟达各捐 2500 万美元为单笔最高金额",
-      "summary": "IT之家 10 月 15 日消息，《华盛顿邮报》今日披露了一份白宫内部捐款记录，揭示了美国总统特朗普白宫宴会厅项目的主要捐赠方及具体金额。记录显示，截至 9 月底共记录 67 笔超过 1 万美元（现汇率约合 67,065 元人民币）的捐款，私人捐赠承诺总额约为 3.33 亿美元（IT之家注：现汇率约合 22.33 亿元人民币），其中英伟达和苹果均承诺捐款 2,500 万美元（现汇率约合 1.68 亿元人民币），均为单笔最高金额。白宫此前于 2025 年 10 月公布过 37 名个人、企业及基金会的捐赠者名单，但未披露各自的捐款金额。这份内部电子表格记录了每笔捐款的来源、日期和金额。此次曝光的记",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/668.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81be-a972-ca87866620d1",
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear […]",
-      "source": "The Verge",
-      "publishTime": "2026-10-15",
-      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad"
-    },
-    {
-      "id": "3fa03df8-2d23-8181-9f20-e22be3955752",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-15",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
-    },
-    {
-      "id": "3fa03df8-2d23-81f4-8aa1-c14c0f106d6b",
-      "title": "Ad pros say Apple's chaotic new commercial fails at what the brand once did best",
-      "summary": "The ad for Apple's HomeView smart home device is stressing some people out. Ad pros say it has a bigger problem.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-15",
-      "link": "https://www.businessinsider.com/apple-homeview-ad-fails-build-desire-ad-pros-say-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-81c1-9c61-f03f882a4d89",
-      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
-      "source": "BBC Tech",
-      "publishTime": "2026-10-15",
-      "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3fa03df8-2d23-819a-af84-c914232879e7",
-      "title": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题，尊界声明积极响应、完全服从并将全力配合调查组工作",
-      "summary": "IT之家 10 月 15 日消息，针对网络反映的“尊界 V800 汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。尊界汽车官方微博刚刚发布声明，宣布将积极响应、完全服从并将全力配合联合调查组的工作。IT之家附声明原文如下：10 月 15 日，工信部等三部门发布了联合调查有关车辆刹车踏板支架断裂问题的通报。我们积极响应、完全服从并将全力配合联合调查组的工作，坚决维护消费者合法权益，坚决维护新能源汽车产业发展大局。相关阅读：《工信部、中央网信办、市场监管总局三部门下场，调查尊界 V800",
-      "source": "IT之家",
-      "publishTime": "2026-10-15",
-      "link": "https://www.ithome.com/1/013/666.htm"
     }
   ],
   "macroEvents": [
