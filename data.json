@@ -1,6 +1,222 @@
 {
-  "updatedAt": "2026-10-15 06:28",
+  "updatedAt": "2026-10-15 08:45",
   "news": [
+    {
+      "id": "3f903df8-2d23-81e9-a5c7-da97f3f98749",
+      "title": "苹果市值里程碑：收盘首次超 5 万亿美元",
+      "summary": "IT之家 10 月 15 日消息，苹果公司昨日（10 月 14 日）收盘市值首次站上 5 万亿美元（IT之家注：现汇率约合 33.53 万亿元人民币），成为继英伟达后全球第二家达成该里程碑的公司。IT之家此前报道，苹果公司于 2026 年 7 月 28 日的盘中交易中，股价曾一度涨至 342.89 美元（现汇率约合 2,299 元人民币），市值突破 5 万亿美元（最高达到约 5.036 万亿美元），这是其历史上首次在“盘中”触及 5 万亿美元（现汇率约合 33.53 万亿元人民币）市值。不过在当天收盘时，股价回落至 340.08 美元（现汇率约合 2,280 元人民币），收盘市值又跌回了 5 ",
+      "source": "IT之家",
+      "publishTime": "2026-10-15",
+      "link": "https://www.ithome.com/1/013/142.htm"
+    },
+    {
+      "id": "3f903df8-2d23-818e-9b9c-e2a75f1d7c38",
+      "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
+      "summary": "Despite an unpredictable market, CNBC's Jim Cramer says it's important to stay invested.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-15",
+      "link": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html"
+    },
+    {
+      "id": "3f903df8-2d23-8126-86a3-c6c28831fde7",
+      "title": "The best feature of Apple’s HomeView might be its simplicity",
+      "summary": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple ",
+      "source": "The Verge",
+      "publishTime": "2026-10-15",
+      "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature"
+    },
+    {
+      "id": "3f903df8-2d23-81ce-ba95-ceb886962b47",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-15",
+      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/"
+    },
+    {
+      "id": "3f903df8-2d23-81d6-b6a3-f55eb7183924",
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-15",
+      "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
+    },
+    {
+      "id": "3f903df8-2d23-81f6-91a8-d1c8514a7865",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-15",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
+    },
+    {
+      "id": "3f903df8-2d23-8190-9514-d0a7efb81275",
+      "title": "Ex-OpenAI employee accused of planting a recording device booked a one-way ticket to Saudi Arabia",
+      "summary": "Federal prosecutors previously asked a judge to seal their case against Abdulrahman Alfozan due to fears he might flee the US.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-15",
+      "link": "https://www.businessinsider.com/openai-employee-recording-device-one-way-tickets-saudi-arabia-2026-10"
+    },
+    {
+      "id": "3f903df8-2d23-81f6-b633-fba0fed07b46",
+      "title": "Morgan Stanley CEO Expects Another Decade of Major AI Investment",
+      "summary": "Morgan Stanley CEO Ted Pick said on Wednesday that he expects the AI buildout will encounter bottlenecks and periods of overbuilding, but investment will continue at a massive scale over the next several years. Pick also said during Morgan Stanley’s third-quarter earnings call that the bank’s ...",
+      "source": "The Information",
+      "publishTime": "2026-10-15",
+      "link": "https://www.theinformation.com/briefings/morgan-stanley-ceo-expects-another-decade-major-ai-investment"
+    },
+    {
+      "id": "3f903df8-2d23-816c-b930-c9e350eadc6c",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montan",
+      "source": "The Verge",
+      "publishTime": "2026-10-15",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    },
+    {
+      "id": "3f903df8-2d23-8166-bbcb-d6fe56aba847",
+      "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
+      "summary": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-15",
+      "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html"
+    },
+    {
+      "id": "3f903df8-2d23-81c3-b56c-ed3d0675d5f7",
+      "title": "Trump Aides Admit the House Is a Lost Cause",
+      "summary": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House.",
+      "source": "Wired",
+      "publishTime": "2026-10-15",
+      "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/"
+    },
+    {
+      "id": "3f903df8-2d23-810e-9e2b-ebe762f5e57d",
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-15",
+      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/"
+    },
+    {
+      "id": "3f903df8-2d23-812c-a8de-c2504f2823d3",
+      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+      "summary": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-15",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/"
+    },
+    {
+      "id": "3f903df8-2d23-8196-a4e0-ce293d7cbae8",
+      "title": "Anduril employee tender offer would value the defense tech startup at $90 billion",
+      "summary": "Anduril has been a major winner of the growing U.S. defense tech boom and President Donald Trump's plans to reindustrialize the U.S. military",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-15",
+      "link": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html"
+    },
+    {
+      "id": "3f903df8-2d23-81b3-8689-f5126247e622",
+      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+      "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-15",
+      "link": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html"
+    },
+    {
+      "id": "3f903df8-2d23-8134-ad25-f1ea80a7eb18",
+      "title": "Electric vehicle sales in the US are showing signs of life",
+      "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-15",
+      "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/"
+    },
+    {
+      "id": "3f903df8-2d23-81bf-9e63-c886a29cdf74",
+      "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+      "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's Nati",
+      "source": "The Verge",
+      "publishTime": "2026-10-15",
+      "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown"
+    },
+    {
+      "id": "3f903df8-2d23-811a-9554-f79d31ee84d4",
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-15",
+      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/"
+    },
+    {
+      "id": "3f903df8-2d23-812c-aee0-ed8f807adf12",
+      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+      "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-15",
+      "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/"
+    },
+    {
+      "id": "3f903df8-2d23-8139-a07a-d8ff3bde0bd2",
+      "title": "Ukraine says a sudden Starlink speed limit disrupted its most important drone missions",
+      "summary": "Ukraine's military relies heavily on Elon Musk's Starlink for battlefield communications and drone operations.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-15",
+      "link": "https://www.businessinsider.com/ukraine-starlink-access-slowed-down-affecting-military-operations-elon-musk-2026-10"
+    },
+    {
+      "id": "3f903df8-2d23-8144-b61d-f39f2f943962",
+      "title": "OpenAI’s Computing Lead Sachin Katti to Depart In November",
+      "summary": "Sachin Katti, vice president of compute strategy at OpenAI, said Wednesday he was leaving the role on November 15 after about a year at OpenAI. Katti, who joined OpenAI after four years at Intel, announced that he would be “moving on to build something new” in a post on X. During Katti’s time in ...",
+      "source": "The Information",
+      "publishTime": "2026-10-15",
+      "link": "https://www.theinformation.com/briefings/openais-computing-lead-sachin-katti-depart-november"
+    },
+    {
+      "id": "3f903df8-2d23-8157-81eb-c65bc3ca26a3",
+      "title": "5 reasons Netflix is struggling as it cuts about 1,000 staffers",
+      "summary": "Netflix's stock has fallen after slower engagement growth and stiff competition from YouTube. Here's why Wall Street is upset.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-15",
+      "link": "https://www.businessinsider.com/why-netflix-is-struggling-layoffs-engagement-viewership-youtube-free-streaming-2026-10"
+    },
+    {
+      "id": "3f903df8-2d23-8179-a9f0-e8896b1af2ef",
+      "title": "Anduril in Talks for Employee Share Sale at $90 Billion Valuation",
+      "summary": "Anduril Industries is in talks to allow employees to sell their shares in a tender that would value the autonomous munitions maker at about $90 billion, according to Bloomberg. Employees would be able to sell shares at $94.80 each in the tender, which would be capped at roughly $1.3 billion and ...",
+      "source": "The Information",
+      "publishTime": "2026-10-15",
+      "link": "https://www.theinformation.com/briefings/anduril-talks-employee-share-sale-90-billion-valuation"
+    },
+    {
+      "id": "3f903df8-2d23-81a3-ac89-f73bd7aca6af",
+      "title": "From Substack to YouTube, here are the social platforms cracking down on AI slop",
+      "summary": "Platforms like YouTube and TikTok are navigating the fine line between embracing AI and low-quality, machine-generated content.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-15",
+      "link": "https://www.businessinsider.com/ai-slop-substack-youtube-tiktok-pinterest-facebook-instagram-threads-2026-7"
+    },
+    {
+      "id": "3f903df8-2d23-816c-8792-cf73dee62ed6",
+      "title": "Epic Games is already showing what its 'huge pivot' toward AI looks like",
+      "summary": "Epic Games said that thanks to vibe coding it was able to revamp its launcher.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-15",
+      "link": "https://www.businessinsider.com/epic-games-vibe-coding-launcher-ai-pivot-2026-10"
+    },
+    {
+      "id": "3f903df8-2d23-81f1-8182-f57adb98ba5c",
+      "title": "The AI race is back on",
+      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish ",
+      "source": "The Verge",
+      "publishTime": "2026-10-15",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+    },
+    {
+      "id": "3f903df8-2d23-815f-a71c-c140dbdc5da2",
+      "title": "This is the $24 gizmo the FBI says was used to bug OpenAI's offices",
+      "summary": "The recording device the FBI says was used to bug an OpenAI conference room isn't exactly state-of-the-art.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-15",
+      "link": "https://www.businessinsider.com/openai-office-bugging-device-ai-seeed-studio-xiao-2026-10"
+    },
     {
       "id": "3f903df8-2d23-81a4-a819-ea0eeafbf8de",
       "title": "Hiyd is a health tracker that attaches to the watch you already wear",
@@ -184,222 +400,6 @@
       "source": "The Verge",
       "publishTime": "2026-10-15",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"
-    },
-    {
-      "id": "3f903df8-2d23-815e-864d-f78ce0a9254c",
-      "title": "21 details you may have missed in 'The Cabin in the Woods'",
-      "summary": "\"The Cabin in the Woods\" is a 2012 horror satire packed with Easter eggs and references to classic films, making it a must-watch for genre fans.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-15",
-      "link": "https://www.businessinsider.com/the-cabin-in-the-woods-details-references-easter-eggs-2022-4"
-    },
-    {
-      "id": "3f903df8-2d23-81fc-9af2-cfd02ca83293",
-      "title": "Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone",
-      "summary": "If you don't get AppleCare Plus for the iPhone Duo, any repairs are going to be pretty expensive. Apple published the estimated repair costs for the iPhone Duo without AppleCare Plus today, as reported by MacRumors, and they can be high: Battery service, for example, will cost $229, inner display da",
-      "source": "The Verge",
-      "publishTime": "2026-10-15",
-      "link": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare"
-    },
-    {
-      "id": "3f903df8-2d23-8131-933c-d4d3971debdb",
-      "title": "I thought Napa was the gold standard for wine trips. Then, a city in Washington changed what I look for in a vacation.",
-      "summary": "I was impressed by the vineyards, tasting rooms, and wine in Walla Walla, Washington. My visit was cheaper and as nice as my trip to Napa Valley.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-15",
-      "link": "https://www.businessinsider.com/visited-place-washington-wine-walla-walla-better-than-napa-valley-2026-10"
-    },
-    {
-      "id": "3f903df8-2d23-81eb-b046-db0fe412780c",
-      "title": "Prismm helps banks keep inherited money in-house",
-      "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-15",
-      "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/"
-    },
-    {
-      "id": "3f903df8-2d23-8175-99c2-d863eac43930",
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-      "source": "BBC Tech",
-      "publishTime": "2026-10-14",
-      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "3f903df8-2d23-8155-9eb1-f48ad5c11efa",
-      "title": "There's only one B-2 stealth bomber on public display in the world. Here's where I saw it.",
-      "summary": "The National Museum of the US Air Force in Ohio has the only permanent public exhibition of a B-2.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-14",
-      "link": "https://www.businessinsider.com/b2-stealth-bomber-plane-us-air-force-museum-2025-8"
-    },
-    {
-      "id": "3f903df8-2d23-81e6-9baf-ebe58aa3159a",
-      "title": "Netflix has a problem layoffs can't solve",
-      "summary": "Netflix's big worry isn't other streamers like HBO, but mega tech platforms like YouTube and TikTok.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-14",
-      "link": "https://www.businessinsider.com/layoffs-wont-solve-netflix-growth-and-engagement-problems-2026-10"
-    },
-    {
-      "id": "3f903df8-2d23-81a5-9a97-c1f390ef1f8b",
-      "title": "I grew up with strict parents and a fear of bad grades. I'm raising my son differently.",
-      "summary": "My mom's strict rules about grades made me a perfectionist. I don't want that for my son.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-14",
-      "link": "https://www.businessinsider.com/parenting-raised-to-fear-failure-school-grades-breaking-cycle-2026-10"
-    },
-    {
-      "id": "3f903df8-2d23-811f-98e0-cc7b01cad620",
-      "title": "Berkshire Hathaway Invest $330 Million in Bending Spoons",
-      "summary": "Berkshire Hathaway has agreed to invest $330 million in Italian digital conglomerate Bending Spoons in a private placement of stock, providing a boost to investor confidence in Bending Spoons. Shares of the Italian company leapt 40% to $52.88 on Wednesday. That share price is well above the $33 ...",
-      "source": "The Information",
-      "publishTime": "2026-10-14",
-      "link": "https://www.theinformation.com/briefings/berkshire-hathaway-invest-330-million-bending-spoons"
-    },
-    {
-      "id": "3f903df8-2d23-81b1-bd76-f19163c6c5b4",
-      "title": "What we learned from watching the Kelly Clarkson toy store security cam footage — and one question we still have",
-      "summary": "Silent CCTV shows Kelly Clarkson's brief visit to Art of Play, but it cannot resolve the dispute over what was said about its $15,000 bird.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-14",
-      "link": "https://www.businessinsider.com/kelly-clarkson-toy-store-cctv-what-it-shows-and-doesnt-2026-10"
-    },
-    {
-      "id": "3f903df8-2d23-81e2-96b1-ff123363df74",
-      "title": "I shopped at Aldi and Lidl. After comparing prices and experience, I found my winning budget grocery chain.",
-      "summary": "To find the best budget grocery chain for my family, I shopped at both Lidl and Aldi and compared prices, value, and the overall experience.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-14",
-      "link": "https://www.businessinsider.com/lidl-vs-aldi-which-is-better-budget-groceries-prices-differences-2026-10"
-    },
-    {
-      "id": "3f903df8-2d23-81e0-915b-c188b411a835",
-      "title": "赛力斯康波：面对欧洲豪华车市场严苛标准，要让当地消费者认可中国品牌需要时间",
-      "summary": "IT之家 10 月 14 日消息，赛力斯集团董事、副总裁康波今日分享了一篇《华尔街日报》的报道，其中提到中国车如今主导了欧洲最大的车展。康波透露自己也接受了《华尔街日报》的采访，而自己在采访中也提到，面对欧洲豪华车市场的严苛标准，要让当地消费者认可中国品牌的豪华车需要时间，但相信我们终将做到。据IT之家此前报道，赛力斯集团旗下豪华电动汽车品牌问界 10 月 12 日在巴黎车展宣布，计划 2027 年秋季进军欧洲市场，为欧洲用户带来全新智能出行体验。相关阅读：《问界官宣 2027 年秋季进军欧洲市场，力争年内获得 Euro NCAP 五星评级》",
-      "source": "IT之家",
-      "publishTime": "2026-10-14",
-      "link": "https://www.ithome.com/1/013/134.htm"
-    },
-    {
-      "id": "3f903df8-2d23-816b-a5d7-e376a76959fc",
-      "title": "消息称 Steam Frame OLED 头显正在开发：代号 Plano，单眼原生分辨率 3552*3840",
-      "summary": "IT之家 10 月 14 日消息，据 Steam Frame Hub 今天报道，Valve 的 VR 头显 Steam Frame 近期发售。不过V社如今可能已在开发后续产品，带来分辨率等方面升级。公开的 Linux 内核源码显示，新款 Steam Frame 代号为“Plano”，配备 Micro-OLED 显示屏，单眼原生分辨率为 3552*3840。作为对比，现款产品配备两块 LCD 屏幕，分辨率为 2160*2160。如果上述数据准确，新款 Steam Frame 的单眼像素数将达到老款的 3 倍，OLED 面板也能带来更高对比度。值得注意的是，这款头显的显示屏规格与三星 Galaxy",
-      "source": "IT之家",
-      "publishTime": "2026-10-14",
-      "link": "https://www.ithome.com/1/013/133.htm"
-    },
-    {
-      "id": "3f903df8-2d23-81ca-bed5-fc91cdbe3c98",
-      "title": "男子发布 AI 视频造谣问界，赛力斯起诉索赔百万元",
-      "summary": "IT之家 10 月 14 日消息，据深蓝财经报道，赛力斯汽车有限公司对外披露，已对一名抖音平台短视频用户提起民事诉讼。该用户借助 AI 工具合成问界车辆行驶中车身塌陷的虚假画面，发布到网络抹黑车辆安全性能。案件将于 10 月 23 日在重庆市两江新区人民法院开庭审理。该用户使用 AI 生成虚假视频，伪造问界车辆行驶过程中车身塌陷的画面，视频标注问界品牌，暗示车辆存在严重安全缺陷，发布于抖音平台。赛力斯要求对方删除侵权言论、公开书面赔礼道歉、支付 100 万元侵权损害赔偿，并承担案件相关诉讼费用。该用户被告收到传票后在社群称，这只是“阴阳视频”，并表示自己不会购买鸿蒙智行车辆，后续自行删除了这条",
-      "source": "IT之家",
-      "publishTime": "2026-10-14",
-      "link": "https://www.ithome.com/1/013/132.htm"
-    },
-    {
-      "id": "3f903df8-2d23-819e-a601-ed4099f02255",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-14",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
-    },
-    {
-      "id": "3f903df8-2d23-8122-b2f1-c571feab8bbd",
-      "title": "任天堂展示《塞尔达传说：时之笛重制版》实体版包装：含特殊纹理烫箔，首发限量提供",
-      "summary": "IT之家 10 月 14 日消息，任天堂旗下新作《塞尔达传说：时之笛重制版》现已开启预购。官方今天在 X 平台发文，向玩家展示本作实体版的细节。据任天堂介绍，《塞尔达传说：时之笛重制版》实体卡带包装采用特殊纹理烫箔。玩家从不同角度端详盒子时，能够看到封面图案呈现独特反光。同时，本作的实体版售价 69.99 美元（IT之家注：现汇率约合 469.3 元人民币）。上文所述的特殊包装仅在首发时限量提供，售完即止。此外，《塞尔达传说：时之笛重制版》将在 11 月 5 日正式发售。本作针对 Switch 2 进行了高规格重制，采用全新 3D 视觉风格并加入了手动跳跃、冲刺、快速切换道具与体感瞄准等现代化",
-      "source": "IT之家",
-      "publishTime": "2026-10-14",
-      "link": "https://www.ithome.com/1/013/131.htm"
-    },
-    {
-      "id": "3f903df8-2d23-819e-a3e0-f761808a72ea",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-14",
-      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/"
-    },
-    {
-      "id": "3f903df8-2d23-8133-b0c1-d8f3f71f3a29",
-      "title": "英特尔面向四至六代至强处理器推出推理微服务：自动检测硬件并配置 vLLM 参数",
-      "summary": "IT之家 10 月 14 日消息，英特尔今日宣布推出 Intel Inference Microservices 服务，这是一套面向大语言模型推理的容器化微服务方案，目标是让企业在已有的至强处理器上直接获得经过调优的模型推理能力，无需再花费数天时间进行手动硬件优化。在该模式下，每个微服务都是一个独立容器，通过 OpenAI 兼容 API 对外提供单个模型的服务，并在启动时自动检测所在的英特尔处理器型号，应用英特尔针对该模型和该硬件预先验证过的配置参数。英特尔指出，让大语言模型给出回复并不困难，难的是在既有硬件上稳定、高质量地重复这一过程。精度设置、计算任务在核心之间的分配方式、内存跨 NUMA",
-      "source": "IT之家",
-      "publishTime": "2026-10-14",
-      "link": "https://www.ithome.com/1/013/130.htm"
-    },
-    {
-      "id": "3f903df8-2d23-81fb-85ca-c26db9838644",
-      "title": "IBM 与西门子合作推进纳米堆叠架构，加速 3D 晶体管量产进程",
-      "summary": "IT之家 10 月 14 日消息，今日，IBM 与西门子宣布达成一项新的研究合作，旨在推进 IBM 今年早些时候发布的纳米堆叠（nanostack）晶体管架构。据 IBM 官方新闻稿，此次合作将结合 IBM 在半导体器件创新领域的领导地位与西门子在电子设计自动化（EDA）、工艺仿真、光刻优化及先进制造软件方面的专业能力，以加速纳米堆叠技术的开发。据介绍，双方合作内容包括开发纳米堆叠的先进虚拟模型，以便在芯片制造之前对性能进行建模、优化设计并解决制造难题。IBM 在今年 6 月首次发布了纳米堆叠架构，并称其为业界首个已知的三维纳米片设计。与当前将晶体管平铺在二维平面上并不断缩小间距的思路不同，纳",
-      "source": "IT之家",
-      "publishTime": "2026-10-14",
-      "link": "https://www.ithome.com/1/013/129.htm"
-    },
-    {
-      "id": "3f903df8-2d23-81a3-b552-df53d792d34d",
-      "title": "游改真人电影《生化危机：爆发夜》上映 10 天，票房累计破 3.04 亿",
-      "summary": "IT之家 10 月 14 日消息，电影《生化危机：爆发夜》官方微博今日宣布，本片上映第 10 天，票房累计破 3.04 亿。IT之家附该电影官方简介如下：嘘，别出声。黑暗中的生化怪物正在凝视，楼顶上的嗜血异种们虎视眈眈。城市变为血色废墟，危险即将全面爆发！检查好手中的武器，抱紧需要运送的快递。前方高能，浣熊市的求生副本即将开启，请做好逃离准备。这部惊悚片此前已经在海外上映，在烂番茄上首映获得 96% 的新鲜度，成为有史以来评分最高的电子游戏改编电影作品。全球首周票房 1.08 亿美元（现汇率约合 7.24 亿元人民币），创该系列最高开画纪录。本片根据热门恐怖游戏《生化危机》改编，这也是该 IP",
-      "source": "IT之家",
-      "publishTime": "2026-10-14",
-      "link": "https://www.ithome.com/1/013/128.htm"
-    },
-    {
-      "id": "3f903df8-2d23-81c9-ae6d-c4a70366254f",
-      "title": "Exclusive: Nvidia and ChipAgents Launch Evaluation For AI-Powered Chip Design",
-      "summary": "Nvidia and ChipAgents, a startup that helps customers automate chip design, on Wednesday released a benchmark that measures how different AI models perform at the task. Anthropic’s Fable 5.1 powered the best-performing AI agent in the newly released evaluation but only scored 16.6% on the test, ...",
-      "source": "The Information",
-      "publishTime": "2026-10-14",
-      "link": "https://www.theinformation.com/briefings/exclusive-nvidia-chipagents-launch-evaluation-ai-powered-chip-design"
-    },
-    {
-      "id": "3f903df8-2d23-8184-be83-df854142b200",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-14",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
-    },
-    {
-      "id": "3f903df8-2d23-8147-82dc-d3abf1cffc31",
-      "title": "英特尔酷睿 5 205H 首次现身 PassMark：8 核 12 线程，多核 19390 分较 i5-13420H 提升 15.7%",
-      "summary": "IT之家 10 月 14 日消息，@x86deadandback 今日发现，英特尔酷睿 5 205H 无核显处理器首次现身 PassMark 基准测试数据库，单核与多核成绩均较同配置的酷睿 i5-13420H 有明显提升。据 PassMark 页面数据，酷睿 5 205H 单核得分 3699 分，较 i5-13420H 高出约 10.5%；多核得分 19390 分，较后者的 16751 分提升约 15.7%。两款处理器均为 8 核 12 线程（4P+4E）配置，均为 45W 基础功耗与 Intel 7 制程，但酷睿 5 205H 的最高睿频频率从 4.6GHz 提升至 4.8GHz。此外，新芯",
-      "source": "IT之家",
-      "publishTime": "2026-10-14",
-      "link": "https://www.ithome.com/1/013/127.htm"
-    },
-    {
-      "id": "3f903df8-2d23-81d0-b0ff-da98807be109",
-      "title": "Epic 旗下《堡垒之夜》游戏将登陆 Linux 平台，EAC 反作弊系统正在重构",
-      "summary": "IT之家 10 月 14 日消息，据 The Verge 今天报道，Epic Games 正计划让《堡垒之夜》游戏登陆 Linux 平台。新版 Epic Games Launcher 已在今日开启预览测试，首次支持 Linux 系统。IT之家从原报道获悉，《堡垒之夜》此前一直未登陆 Linux，部分原因在于 Epic 担忧作弊问题。他们的 Easy Anti-Cheat 反作弊系统虽然支持 Linux，但《堡垒之夜》本身并不支持该平台。该公司 CEO 蒂姆 · 斯威尼曾表示，公司没有信心能在各种内核配置下，大规模打击作弊行为。不过如今，Epic 计划为 Linux 系统重构 EAC，并将其命名",
-      "source": "IT之家",
-      "publishTime": "2026-10-14",
-      "link": "https://www.ithome.com/1/013/126.htm"
-    },
-    {
-      "id": "3f903df8-2d23-8178-8301-c94a0029167d",
-      "title": "Pope Leo XIV has been diagnosed with lung cancer. Here's what to know about the first American pope.",
-      "summary": "Pope Leo was diagnosed with cancer after undergoing surgery to remove the lower lobe of his right lung. He's a little over a year into his papacy.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-14",
-      "link": "https://www.businessinsider.com/pope-leo-xiv-robert-prevost-first-us-pope-2025-5"
-    },
-    {
-      "id": "3f903df8-2d23-813b-9e0b-e00b76981bb9",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-14",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
-    },
-    {
-      "id": "3f903df8-2d23-8172-932a-c05d49a86e32",
-      "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
-      "summary": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-14",
-      "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/"
     }
   ],
   "macroEvents": [
