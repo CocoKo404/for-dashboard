@@ -1,6 +1,366 @@
 {
-  "updatedAt": "2026-10-16 15:24",
+  "updatedAt": "2026-10-16 20:37",
   "news": [
+    {
+      "id": "3fb03df8-2d23-81fa-b3c4-c6881aed38e2",
+      "title": "经典武侠电影《笑傲江湖 2：东方不败》4K 修复版内地首度公映，定档 10 月 30 日",
+      "summary": "IT之家 10 月 16 日消息，经典武侠电影《笑傲江湖 2：东方不败》4K 修复版首度内地公映，今日官宣定档 10 月 30 日，并发布定档海报。《笑傲江湖 2：东方不败》由程小东执导，徐克监制，金庸原著，李连杰、林青霞、关之琳、李嘉欣、李子雄、袁洁莹领衔主演。IT之家附剧情简介：令狐冲（李连杰饰）在按计划与日月神教的朋友会面后，将和小师妹岳灵珊（李嘉欣饰）等其他华山派师兄弟赴牛背山归隐退出江湖。路途中意外发现练就“葵花宝典”的东方不败（林青霞饰），但令狐冲不认识东方不败，误将对方当成一位美貌女子。后来几次相遇，还一道饮酒吟诗。在同任盈盈（关之琳饰）、蓝凤凰（袁洁莹饰）会合后，几个月来江湖不",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/958.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8165-9a8f-cf8b27e1e208",
+      "title": "谷歌布林重磅发声：AI 正开始“自己造自己”",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 Business Insider 昨日（10 月 15 日）发布博文，报道称谷歌联合创始人谢尔盖 · 布林（Sergey Brin）表示，Gemini 模型正迈向“自我改进”的关键时刻。在围绕着新模型 Gemini 4 Argon 举行的圆桌讨论中，布林表示 AI 已经开始参与打造自己的下一代模型，谷歌此前推出的 Flash 系列模型已经显示出这一趋势，公司正“开始踏上 RSI 的跑步机”。IT之家注：RSI 全称为 Recursive Self-Improvement，直译为“递归自我改进”，即 AI 帮助构建更强的 AI，进而形成加速迭代的“飞轮",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/957.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-813d-be82-dee389f1cbad",
+      "title": "吉利控股集团与谷歌达成全球战略合作，首款搭载相关服务的车型 2027 年下半年推出",
+      "summary": "IT之家 10 月 16 日消息，吉利控股集团（IT之家注：以下简称“吉利控股”）今日宣布与谷歌达成全球战略合作。双方将在谷歌服务可覆盖的海外市场，为吉利控股旗下符合条件的品牌车型共建数字座舱生态。首款搭载相关服务的车型计划于 2027 年下半年推出，具体落地进度将视产品研发、监管合规及市场筹备情况而定。根据合作协议，纳入合作范围的海外车型将搭载经官方认证的谷歌汽车服务（Google Automotive Services），涵盖谷歌 AI 助手 Gemini、谷歌地图、谷歌车载应用商店等。整套系统可提供多模态智能语音大模型、全球化智能导航、海量车载应用、流畅跨设备互联等功能，在保障驾驶安全的",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/956.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81a3-8041-e3b24adbacd3",
+      "title": "小米金沙江充电宝超薄磁吸 5000 27W 上架：20W 无线充 + 27W 有线充，299 元",
+      "summary": "IT之家 10 月 16 日消息，小米金沙江充电宝超薄磁吸 5000 27W 现已在有品上架（点此访问），定价为 299 元。该产品目前在售黑白双色，整体尺寸为 101 x 71.5 x 6.75mm，重量 105g。搭载小米金沙江硅碳负极电池，能量密度高达 840Wh/L，拥有 16% 旗舰级含硅量，通过 2026 新国标认证。机身支持 20W 磁吸无线充电，同时配备了 27W USB-C 接口，支持 BC、QC、PD 等多种主流充电协议。IT之家附产品参数：",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/955.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8107-a155-cab8a2bbcb87",
+      "title": "振华 LEADEX T 1600W 钛金电源回归：ATX 3.1 认证，2699 元",
+      "summary": "IT之家 10 月 16 日消息，振华 (Super Flower) 本周在电商平台重新上架了 LEADEX T 1600W 电源。这一 80 PLUS 钛金认证型号现在符合 ATX12V 3.1 规范，通过双 8 Pin 转 12V+4 Pin 实现 12V-2×6 输出，售价 2699 元。LEADEX T 1600W 长度达到 220mm，内部为全桥 LCC 谐振 + DC-DC 转换拓扑，选用英飞凌 CoolMOS、贵弥功固态电容、泰科继电器，配备双层式主变压器，内置 140mm 滚珠轴承风扇，支持智能停转。这款电源具备 OVP、OCP、OPP、SCP、UVP、OTP、NLO、SIP ",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/953.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8171-9fdb-d31e75861206",
+      "title": "KeyBanc 称英特尔获得苹果、英伟达等六家企业芯片代工订单，14A 制程受关注",
+      "summary": "IT之家 10 月 16 日消息，投资机构 KeyBanc 分析师在近期结束亚洲考察后，对英特尔晶圆代工业务（Intel Foundry）的发展前景持乐观态度。KeyBanc 认为，英特尔已取得博通、谷歌、苹果、AMD、微软、英伟达等公司的部分芯片代工项目，涉及 18A-P 和 14A 制程，其中更多潜在订单可能集中在 14A 制程。不过，相关客户名单、合同细节及金额尚未获得英特尔或相关公司公开证实。据 Wccftech 转述，英特尔获得的项目包括为博通生产网络交换芯片、为谷歌和微软生产服务器 CPU，以及为英伟达生产游戏 GPU。报道还称，英特尔与苹果的合作可能涉及多个世代的 M 系列和 A",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/954.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8125-9951-d1e582d4e2c0",
+      "title": "印度信实否认马斯克“阻挠星链入印”指控：欢迎竞争，而且我们也没获批",
+      "summary": "IT之家 10 月 16 日消息，印度亿万富翁穆克什 · 安巴尼掌舵的信实工业否认试图阻止埃隆 · 马斯克旗下星链进入印度市场，强调信实的卫星通信业务同样尚未获得监管批准。今天上午，信实工业在 X 发文称：“我们欢迎卫星通信市场的竞争，包括星链在内。所有企业，包括 Jio，都必须服务印度人民，遵守印度的法律和政策。”马斯克此前多次质疑，星链遵守印度法律长达 5 年，为何至今仍拿不到运营牌照，并暗示印度商界的强大势力可能干预审批。据IT之家此前报道，上周，他在社交媒体上指责印度一些商业寡头阻挠星链进入市场，称：“不幸的是，一些寡头为了维持对印度人民的垄断控制，阻挠我们。”马斯克还公开质问：“安巴",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/952.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-810a-b465-d735be53f16e",
+      "title": "模组品牌玖合停产单条 24GB 与 24GB 的 DDR5 马甲条、RGB 灯条",
+      "summary": "IT之家 10 月 16 日消息，存储器模组品牌玖合 (JUHOR) 昨日宣布，其已停止生产单条容量为 24GB 或 48GB 的 DDR5 内存（无光）马甲条与 RGB 灯条。存储器“超级周期”大幅提升了模组企业手中低价库存的价值，为其带来一笔“飞来横财”。然而，在初始利好过后，如何长期保障原料供应稳定，正成为模组业者亟待解决的关键课题；对规模较小的业者来说，这一挑战显然更为严峻。而在存储器整体紧缺的当下，怎样应对用户的维修、换货售后需求也考验着模组企业的良心。",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/951.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-811c-975c-d5a8a1788d1f",
+      "title": "Formlabs Studio 1 入门级 3D 打印机发布：支持自动供料、兼容第三方材料、售价 699 美元",
+      "summary": "据外媒 Notebook Check 报道，3D 打印设备厂商 Formlabs 面向个人爱好者、设计师及小型工作室推出了一款名为 Form Studio 1 的入门级 3D 打印机，该产品提供自动供料、加热树脂处理及第三方材料支持等特性，定价 699 美元（IT之家注：现汇率约合 4,685 元人民币）。据介绍，Form Studio 1 采用掩模立体光刻（MSLA）技术，通过紫外光配合显示屏固化液态树脂，像素尺寸为 35 微米，成型空间为 200 × 125 × 235 毫米，大多数模型零件都可以在两小时内完成打印。在材料兼容性方面，Form Studio 1 配备 Open Materi",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/948.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8170-ba1f-f7075fda9e60",
+      "title": "小米 REDMI 首款耳夹式耳机 Clip Neo 珍珠白、零度黑亮相，K100 同场发布",
+      "summary": "IT之家 10 月 16 日消息，小米 REDMI 首款耳夹式耳机将于本月与 K100 手机同场发布，命名为 REDMI Clip Neo。官方现已公布新品两款配色，分别为珍珠白、零度黑。目前尚不清楚这款新品的具体价格以及配置信息，而小米首款耳夹式耳机于今年 5 月 21 日发布，首销 799 元。作为参考，小米首款耳夹式耳机单只耳机重量 5.5g，采用仿生曲线设计及高性能记忆钛丝；搭载 11mm 大尺寸驱动单元，微晶金属涂层振膜。支持 IP57 级防尘抗水；耳机本体续航 9 小时，配合充电盒最高可达 38 小时。IT之家注意到，在售小米耳夹式耳机兼容苹果生态，支持智能翻译、录音转写、小爱陪伴",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/949.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-816b-9921-fd0f6b9b4db9",
+      "title": "AI 建站平台 Studio 遭黑客入侵：用户账号信息、外部服务 API 密钥泄露",
+      "summary": "IT之家 10 月 16 日消息，据外媒 ITMedia 报道，AI 网站制作平台 Studio 遭黑客入侵，平台所有注册用户的信息均被泄露，涉及用户账号信息、用户通过表单提交的内容、外部服务 API 密钥等，具体受影响的数据数量仍在核查中。公开信息显示，Studio 是一款利用 AI 生成网站的平台，提供可视化设计编辑器、内容管理系统（CMS）、表单、外部服务 API 接口以及 Google 表格集成等功能，号称用户“无需编写代码即可制作网站”，截至 2026 年 7 月，该平台用户数量已超过 90 万。根据目前掌握的信息，黑客于 9 月 30 日至 10 月 1 日对平台进行攻击，Stud",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/935.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81bf-bbc1-e234ec11d6d5",
+      "title": "奇瑞 iCAR V27“旷野征途版”套件官宣即将登场：含越野胎、前杠灯，无损改装",
+      "summary": "IT之家 10 月 16 日消息，奇瑞 iCAR 汽车官微今天（16 日）宣布，V27 旷野征途版套件即将登场。根据介绍，该套件包含如下内容：圆管设计前后杠：可拓展各类射灯，后杠可作后备箱脚踏专业越野前杠灯：7 寸远近光一体射灯快拆式行李架：横梁支持自由调整，拐角灯支持转向、双闪、日行灯铝合金圆管设计侧挂网 + 水桶脱困板：由 3M 胶连接，侧面长条拓孔则方便安装拓展铝合金圆管设计侧爬梯：可有效降低风阻、保护车漆多功能装备箱越野黑熊轮胎 +CL 锻造轮毂：配有加厚防弹胎壁，可抗穿刺，整体锻打强度高，可抗冲击铝镁合金材质底盘护板：原车孔位无损安装，可全方位保护底盘部件铝合金主体中控手机支架“V2",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/934.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81d1-916e-f889dbc5cecc",
+      "title": "三星 Galaxy A38 手机影像规格曝光，沿用 5000 万像素主摄方案",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 Galaxy Club 昨日（10 月 15 日）发布博文，报道称在 2027 年的 Galaxy A 系列手机影像方面，三星将采用保守的产品策略，继续沿用前代机型配置。在 Galaxy A58 手机影像配置沿用 Galaxy A57 之后，最新消息称 Galaxy A38 手机会沿用旧款配置，预计将配备 5,000 万像素主摄、1,200 万像素超广角镜头和 500 万像素微距镜头，前置则为 1,200 万像素自拍相机。在 Galaxy A38 手机升级方面，影像规格沿用前代方案外，三星更倾向于在处理器、电池、屏幕、系统体验等方面寻求改进，不过目前",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/933.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-817c-934c-c152d116e32e",
+      "title": "Singapore's iconic skyline is shrouded in a fire-related haze. Here's what it looks like across the island.",
+      "summary": "The pollution has disrupted flights, shut down outdoor sports facilities, and prompted organizers to call off a major running event.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/singapore-haze-situation-cause-indonesia-fires-pollution-photos-2026-10"
+    },
+    {
+      "id": "3fb03df8-2d23-81d1-99e4-e304ed44fca4",
+      "title": "Tesla's flying car is here, and so are the memes",
+      "summary": "Internet users can't wait to use Tesla's Roadster to hop over traffic, dodge traffic police, and spill coffee all over themselves while it kickflips.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/teslas-flying-car-meme-roundup-2026-10"
+    },
+    {
+      "id": "3fb03df8-2d23-8132-a623-f82ac468efd9",
+      "title": "消息称某厂中端新机评估风扇、骁龙 8 Gen6 芯片，预计 iQOO 旗下",
+      "summary": "IT之家 10 月 16 日消息，博主 @数码闲聊站 今日爆料，某厂子系中端系列也在评估风扇，工程机有 6.59 英寸超高刷中屏，搭载 SM8845 PRO 芯片。据该博主此前的爆料习惯，预计这款新机为 iQOO 旗下新品。此外，该博主在评论区透露，SM8845 PRO 芯片有可能叫骁龙 8 Gen6。IT之家注意到，SM8845 是高通公司开发的移动处理器，正式命名为骁龙 8 Gen5（第五代骁龙 8）。与第五代骁龙 8 至尊版（8 Elite Gen 5）一样，骁龙 8 Gen 5 采用 3nm 工艺制造，并配备了高通第三代 Oryon CPU，包括 2 个主频为 3.8 GHz 的 pr",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/932.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8118-8713-f5978e1adc9e",
+      "title": "铭凡 S5 无风扇全闪 NAS 发售：12GB + 128GB 定价 3599 元",
+      "summary": "IT之家 10 月 16 日消息，MINISFORUM（铭凡）现已在电商平台销售 S5 无风扇 5 盘位全闪 NAS。其基于英特尔酷睿 3 处理器 304，配备 12GB LPDDR5X-7467 内存、128GB UFS 3.1 闪存，价格为 3,599 元。京东铭凡 S5 NAS3599 元直达链接S5 三维 176.5×154×60 (mm)，由铝合金机身与鳍片组构成被动散热系统，质量 1.8kg。其提供 5 个 PCIe Gen4 ×1 的 M.2 2280 SSD 盘位，拥有 Wi-Fi 7 & BT 6、10GbE RJ-45、2.5GbE RJ-45、2 个 USB-C 40Gb",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/931.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-818b-8f86-fc7438918a28",
+      "title": "机械革命 946g 轻薄本无界 14 Max Carbon 预约：碳纤 A 面，柔光 OLED 屏，5354.15 元起",
+      "summary": "IT之家 10 月 16 日消息，机械革命 (Mechrevo) 现已启动无界 14 Max Carbon 笔记本电脑的预约。该机型拥有碳纤维材质 A 面、镁合金 C/D 面，配备 OLED 屏幕，内置 72Whr 电池，机身起始质量仅 946g、薄至 14.9mm。无界 14 Max Carbon 基于英特尔 \"Lunar Lake\" 酷睿 Ultra 5 处理器 226V / 酷睿 Ultra 7 处理器 256V，集成 16GB LPDDR5X-8533 内存，标配 1TB SSD 存储；集成双风扇双热管静音散热系统。其搭载 14\" 2880×1800 120Hz 500nits 的柔光",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/928.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8182-82a9-f5cf947fcafe",
+      "title": "上海：支持市场平台服务数据跨境流动，推动数据出境负面清单落地落实",
+      "summary": "IT之家 10 月 16 日消息，上海市网信办、上海市数据局今天印发《上海市推动高水平对外开放促进数据跨境流动便利化的若干举措》。IT之家注意到，《举措》中提出，有关部门将支持市场平台服务数据跨境流动。支持市场主体围绕数据产品出海合规评估、风险识别、跨境互认等提供普惠化智能服务。培育特色服务型平台，为中小企业出海提供多国别、场景化支撑服务。打造综合引领型平台，构建数据跨境综合协同服务能力。同时，有关部门将统筹落实国家层面数据出境安全管理要求和地方便利化举措，体系化推动数据出境安全评估、个人信息出境标准合同备案、个人信息出境认证、数据出境负面清单等制度有序衔接、协同实施。此外有关部门还将健全跨部",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/930.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8165-be0d-d182e01124d5",
+      "title": "吉利 2027 款博越车型将于 10 月 23 日上市，升级新一代 GEEA3.0 电子电气架构",
+      "summary": "IT之家 10 月 16 日消息，吉利汽车宣布旗下 2027 款博越车型将于 10 月 23 日上市，该车将升级为新一代 GEEA3.0 电子电气架构，同时针对外观、舒适、智能、品质和安全五大维度改进。作为参考，现款博越售价区间为 8.59-10.69 万元。据官方透露，新款车型其前脸将采用新中式“四水归堂”格栅与“飞檐斗拱”贯穿灯组，车身使用传统造型门把手，车尾引入“长卷流霞”贯穿尾灯，同时还拥有 585L+75L 双层后备厢。该车采用环抱式座舱设计并配备 14.6 英寸中控屏，内置 Flyme Auto 2.5 系统，并支持星睿 AI 大模型。车辆提供前排座椅加热、通风、按摩功能，另外还有",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/926.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8122-8024-c619424c6a5d",
+      "title": "华为 nova 12 / 13 系列手机开启鸿蒙 HarmonyOS 7 花粉 Beta 尝鲜升级",
+      "summary": "IT之家 10 月 16 日消息，华为官网最新显示，华为 nova 12 系列、nova 13 系列手机现开启鸿蒙 HarmonyOS 7 花粉 Beta 尝鲜升级。在 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。新系统主打全新空间美学，搭载 Harmony Intelligence 智能架构，拥有系统智能体小艺，已正式开启公测。▲ IT之家图赏：华为 nova 13 系列真机实拍更智能：HarmonyOS 7 的小艺迎来升级，进化为可养成的系统智能体，可调用 2100+ 系统能力与 500+ 生态 Skills，一句话完成复",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/925.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81ed-bfe8-d3043bc6c9a6",
+      "title": "马斯克回应 Grok Bot 被亚马逊封禁：不让 AI 智能体网购，就考虑自建电商平台",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 notateslaapp 昨日（10 月 15 日）发布博文，报道称有用户反馈亚马逊阻止 Grok Bot 智能体在其平台下单之后，全球首富埃隆 · 马斯克（Elon Musk）表示考虑打造一家与亚马逊竞争的公司。IT之家注：Grok Bot 是 xAI（现称 SpaceXSI）推出的常驻云端 AI 智能体，能像给同事发消息一样交办任务，它会在自己的云端电脑上操作网页、应用和文件，完成多步骤工作。该媒体指出特斯拉上月已将 Grok Bot 整合进车辆，用户可在通勤途中把下单任务交给 AI。用户无需亲自打开零售商网站，即可由 AI 完成购物流程，对希望",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/923.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-819f-922f-dc7f29010022",
+      "title": "晚点铺路也不迟：自带 Win11 / 安卓 / Debian Linux 的 NexPhone 三系统手机延至明年第一季度末发售",
+      "summary": "IT之家 10 月 16 日消息，制造商 Nex Computer 宣布旗下 NexPhone 三系统手机发售时间推迟至 2027 年第一季度末，预订价格涨至 599 美元（IT之家注：现汇率约合 4,015 元人民币），此前以 549 美元（现汇率约合 3,680 元人民币）或 599 美元（现汇率约合 4,015 元人民币）早鸟价预订的用户无须补差价。该机原计划在 2026 年末发售，号称可以自由运行 Windows 11 / 安卓 16 / Debian Linux，若用户选择启动 Windows 11，那么手机上将拥有 Windows 10 Mobile 风格的定制 UI 界面。用户亦",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/922.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-818f-82ce-c506789635db",
+      "title": "迪拜警方喜提“新装备”920 马力兰博基尼 Temerario，但不执行追捕任务",
+      "summary": "IT之家 10 月 16 日消息，据外媒 motor1 今天（16 日）下午报道，迪拜警方为旅游巡逻车队增添了一辆兰博基尼 Temerario 混动超跑。新车由迪拜警方与兰博基尼阿布扎比及迪拜经销商合作引入，将在迪拜游客最集中的景点附近执勤。▲ 图源迪拜警方，下同据IT之家了解，Temerario 搭载 V8 双涡轮增压发动机和三台电机，综合最大功率达到 920 马力，零百加速仅需 2.7 秒，最高时速可达 343km/h。迪拜警方强调，引入超跑是为了提高警队的公众曝光度、增进警民互动，而非执行追捕任务。Temerario 加入的是迪拜警方的豪华巡逻车队，主要在游客和居民聚集的场所亮相。迪拜警",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/921.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-816c-a4ae-dd2cbc489e3c",
+      "title": "魏牌高山 8 HEV 将于 10 月 19 日开启预订，今年第四季度上市",
+      "summary": "IT之家 10 月 16 日消息，魏牌汽车宣布旗下高山 8 HEV 将于 10 月 19 日开启预订，该车主打蓝牌混动路线，将于今年第四季度上市，进一步丰富高山家族动力矩阵。该车外观延续“高山流水”的设计哲学，正面采用横贯式山河格栅，匹配前后环抱式灯组，寓意“家业圆满”；车身使用传统造型门把手。规格方面，官方透露该车标配 3.64kWh 电池包、激光雷达、2.0T 发动机、Hi4 性能版智能四驱等配置。",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/920.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-819d-b77e-d5233d9e9c7c",
+      "title": "酷态科 CP26 电能块「自带线」移动电源上架：2C+1A 支持 67W 输出，15000mAh、黑白双色售 149 元",
+      "summary": "IT之家 10 月 16 日消息，酷态科宣布推出 CP26 电能块「自带线」移动电源，该产品采用 2C+1A 设计，配备 15000mAh 电芯，将于 10 月 22 日发售，定价为 149 元。该产品尺寸为 158.5x67.5x32.5mm，重量 463g，提供月白与砚黑两种配色，电芯容量为 15000 mAh，正面配备了 LED 数显屏以显示实时电量。产品自带一根长度约为 13 cm 的 USB-C 67W 线，收纳时呈提手结构，便于用户携带。同时提供了 1 个 USB-C 67W 和 1 个 USB-A 22.5W 接口。官方强调该产品采用汽车同系磷酸铁锂电芯，循环使用寿命超过 200",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/919.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81df-ac26-e26e7760b329",
+      "title": "消息称三星 Galaxy S27 Ultra 手机边框 1.21mm、相机凸起 4.64mm",
+      "summary": "IT之家 10 月 16 日消息，数码博主 @i冰宇宙 昨日（10 月 15 日）在 X 平台发布推文，爆料称三星 Galaxy S27 Ultra 旗舰手机会收窄屏幕边框，不过摄像头凸起更厚。消息源在推文中表示：“Galaxy S27 Ultra 边框 1.28mm，相机凸起 4.69mm”。IT之家查询公开资料，三星 Galaxy S26 Ultra 的机身厚度为 7.9 毫米；含相机凸起后的总厚度约为 12.33 毫米，因此相机凸起高度约为 4.4 毫米。在边框厚度方面，科技媒体 notebookcheck 原文称，相比 Galaxy S26 Ultra 手机（1.68mm），S27 U",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/918.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81ee-8667-fb9ee6415737",
+      "title": "马斯克：第二代 Roadster 将是最后一款“人工驾驶”特斯拉车型",
+      "summary": "IT之家 10 月 16 日消息，特斯拉将未来押注于自动驾驶，第二代 Roadster 是一个重要例外。特斯拉 CEO 埃隆 · 马斯克在发布会上宣布，随着 Model S 和 Model X 即将退出产品阵容，Roadster 最终将成为特斯拉唯一一款专为人工驾驶打造的车型。“从长远来看，这台车实际上将是特斯拉最后一款由人亲自驾驶的汽车…… 既然只有这么一款，那就要把它的性能推向极限，甚至突破极限。”特斯拉希望将 Roadster 打造成旗下的性能旗舰。新车采用了多项技术，能够在加速、过弯和综合性能方面达到惊人水平。其中一项是车底的风扇吸附系统，旨在让车辆过弯时额外获得最高 2g 的横向加速",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/916.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81bd-a458-e3fe583c6e5a",
+      "title": "阿里云虚拟数字人启动退市：11 月 30 日停止新购服务，明年 11 月底全面停止",
+      "summary": "IT之家 10 月 16 日消息，阿里云今日宣布，由于产品策略调整，虚拟数字人产品即将退市。退市的具体安排如下：2026 年 11 月 30 日，停止新购服务，已购买的客户仍可继续使用至服务到期。2027 年 5 月 31 日，停止现有客户的续订及版本更新。2027 年 11 月 30 日，全面停止服务。届时控制台、相关的支持服务和工单服务也将一同下线。此外，阿里云提供的退款服务也将于该日期停止，如果您有退款需求，请在截止日期前尽早联系，安排退款操作。官方表示，为保障业务连续性，建议用户尽快迁移至替换方案：阿里云云市场数字人产品蚂蚁灵境数字人、相芯数字人、一知智能 AI 直播数字人。IT之家查",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/915.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8187-875d-e54fe1b5099f",
+      "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
+      "summary": "当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-10-16",
+      "link": "https://sspai.com/post/114836"
+    },
+    {
+      "id": "3fb03df8-2d23-81ac-bcc5-d61555739d1a",
+      "title": "丹麦最高法院裁定：AI 生成儿童色情内容同样获刑",
+      "summary": "IT之家 10 月 16 日消息，据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子判处的 18 个月监禁刑罚。该男子因持有并传播数万张 AI 生成的儿童色情图像而获刑。这起备受关注的案件，涉及丹麦现行打击儿童性虐待影像的法律如何适用于 AI 合成内容。该国最高法院裁定，即使 AI 生成的未成年人色情图像没有真实人物作为原型，也同样受到丹麦《刑法》约束，不能因为图像中的人物是虚构的就减轻刑罚。此前，两级下级法院对本案的量刑存在分歧。判决指出，对于持有和传播描绘未满 18 岁者的色情材料，在量刑时不应考虑图像中的人物是否被认为是虚构的。据IT之家了解，该男子被判处的 18 个月监禁不适",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/914.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81be-bf49-cca1840f7463",
+      "title": "振华 125mm 短机身 ATX 铂金电源 LEADEX VIII PRO 上市，850W 款 1159 元",
+      "summary": "IT之家 10 月 16 日消息，振华 (Super Flower) 现已在电商平台销售 LEADEX VIII PRO 系列电源。其采用 ATX 外形规格，但长度缩短至 125mm；搭配“九宫格”盲插模组接口和纯铜芯镀锡模组线。该系列电源符合 ATX12V 3.1 规范，提供 600W 12V-2×6 输出，通过 Cybenetics 白金转换效率认证。其电解与固态电容均来自日系一线品牌，搭配英飞凌 MOS、专利双层立式微型变压器，可稳定承受 200% 整机瞬态超载，12V 满载纹波低至 21.66mW。此外，LEADEX VIII PRO 内置 120mm 尺寸 FDB 轴承风扇，支持智能",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/913.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81a0-b0d5-cbe2b3ca6b0b",
+      "title": "10 年授权未能跻身主流：诺基亚品牌手机操盘手 HMD 曝收缩全球战线",
+      "summary": "IT之家 10 月 16 日消息，消息源 @smashx_60 于 10 月 14 日在 X 平台发布推文，爆料称 HMD Global 正酝酿战略收缩，逐步退出部分市场，并全面减产硬件产品线。消息称在本次战略调整后，HMD 将会聚焦特定区域市场，资源重心向利润空间更高的企业与工业（Enterprise / Industrial）垂直领域倾斜。这意味着，在竞争白热化的消费级全球手机舞台上，我们后续可能很难再看到 HMD 全球旗舰新品发布。IT之家附上相关截图如下：自 2016 年从微软手中接过诺基亚手机品牌长达 10 年的独占授权以来，HMD 曾凭借复刻诺基亚 3310 等情怀神机引发轰动。然",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/911.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-819c-96b5-ea7863ee3036",
+      "title": "ByteDance's short-drama app is turning into China's latest obsession",
+      "summary": "In August, ByteDance's apps accounted for 41.8% of the time Chinese users spent on the country's 50 biggest mobile apps.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/bytedance-hongguo-short-drama-app-china-latest-obsession-2026-10"
+    },
+    {
+      "id": "3fb03df8-2d23-81f4-8348-df1fc04136be",
+      "title": "Jamie Dimon says AI is moving so fast that even governments can't stop it",
+      "summary": "The JPMorgan CEO says the global spread of AI, from open-source models to systems developed in China, makes it impossible for governments to stop.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/jamie-dimon-ai-moving-too-fast-governments-cant-stop-2026-10"
+    },
+    {
+      "id": "3fb03df8-2d23-81c3-9c4a-e1611593846a",
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-16",
+      "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/"
+    },
+    {
+      "id": "3fb03df8-2d23-81e4-8d27-e47dd9d63a47",
+      "title": "HP Coupon Codes and Deals October 2026",
+      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+      "source": "Wired",
+      "publishTime": "2026-10-16",
+      "link": "https://www.wired.com/story/hp-coupon-code/"
+    },
+    {
+      "id": "3fb03df8-2d23-8107-8194-f552333a741e",
+      "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+      "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
+      "source": "Wired",
+      "publishTime": "2026-10-16",
+      "link": "https://www.wired.com/story/total-wireless-promo-code/"
+    },
+    {
+      "id": "3fb03df8-2d23-81ea-b045-c2e4aa220227",
+      "title": "Surfshark Promo Codes: 87% Off | October 2026",
+      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "source": "Wired",
+      "publishTime": "2026-10-16",
+      "link": "https://www.wired.com/story/surfshark-coupon/"
+    },
+    {
+      "id": "3fb03df8-2d23-8125-9ea4-f327f5609d2e",
+      "title": "Skechers Coupon Codes 20% Off",
+      "summary": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
+      "source": "Wired",
+      "publishTime": "2026-10-16",
+      "link": "https://www.wired.com/story/skechers-coupon-codes/"
+    },
+    {
+      "id": "3fb03df8-2d23-81ce-ae41-d9f88705fd0f",
+      "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
+      "summary": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-10-16",
+      "link": "https://sspai.com/post/115679"
+    },
+    {
+      "id": "3fb03df8-2d23-8115-9095-ee1519cdc26c",
+      "title": "Tesla's flying Roadster is a weapon in the talent wars",
+      "summary": "Elon Musk unveiled the next Tesla Roadster. It's gymnastics routine could bring in some sales — but it's recruiting message might be more important.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/tesla-roadster-reveal-flying-elon-musk-2026-10"
+    },
+    {
+      "id": "3fb03df8-2d23-81a9-a3bd-c007cb5b4a22",
+      "title": "What's on Zuck's desk? We pushed Muse to figure it out.",
+      "summary": "Mark Zuckerberg showed off the new Muse Spark Open model, along with a few subtle flexes, by posting a snapshot of his office desk.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/mark-zuckerberg-office-desk-muse-spark-open-apple-2026-10"
+    },
+    {
+      "id": "3fb03df8-2d23-81df-9606-e3937bd75c5f",
+      "title": "A Tesla Flying Car? I Don’t Know, Man",
+      "summary": "The Federal Aviation Administration will likely have thoughts about the Tesla Roadster 2’s ability to leave the ground.",
+      "source": "Wired",
+      "publishTime": "2026-10-16",
+      "link": "https://www.wired.com/story/tesla-flying-car-faa/"
+    },
+    {
+      "id": "3fb03df8-2d23-81f5-8a7e-e279b4ddf9b3",
+      "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
+      "summary": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-10-16",
+      "link": "https://sspai.com/post/115688"
+    },
     {
       "id": "3fb03df8-2d23-81f7-ab30-df82f4761fdd",
       "title": "Elon Musk just unveiled a Tesla Roadster that flies — take a look",
@@ -40,366 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-10-16",
       "link": "https://www.ithome.com/1/013/744.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-816a-85b8-d677b902d1ba",
-      "title": "Galaxy Z Fold8 折叠手机“缺芯”拖累出货：三星拟引入格芯代工打破联电独供格局",
-      "summary": "IT之家 10 月 16 日消息，据韩国媒体 ZDNet 昨日（10 月 15 日）报道，为了降低对单一供应商的依赖，三星正考虑为 Galaxy 手机的 OLED 显示驱动芯片（DDI）引入第二家代工合作伙伴，美国晶圆代工厂格芯（GlobalFoundries）成为主要评估对象。IT之家注：显示驱动芯片（Display Driver IC，简称 DDI）把处理器送来的图像数据，转换成屏幕每个像素能理解的电压、电流和时序信号，从而决定画面亮什么、暗什么、显示什么颜色，因此可视为手机屏幕的“交通指挥系统”。在 OLED 手机中，DDI 尤其关键。OLED 像素自发光，DDI 需要精确控制每个像素的",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/744.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81dd-bb84-efca82ea3c6f",
-      "title": "苹果库克：AI 应用正迎来爆发式增长，在多个方面对供应链产生深远影响",
-      "summary": "IT之家 10 月 16 日消息，据财联社报道，在今日举办的全球财富管理论坛 2026 上海苏河湾大会上，苹果公司执行董事长、清华大学经管学院顾问委员会主席蒂姆 · 库克（Tim Cook）指出，人工智能应用正迎来爆发式增长。当前，AI 辅助编程显著降低了编程门槛，使此前几乎未接触过代码的人群也能够编写代码。与此同时，人工智能已在多个方面对供应链产生深远影响。过去，质检环节高度依赖人工。如今，机器学习使检测变得高度自动化且更加精准。以 iPhone 颜色检测为例，为确保数百万台量产设备颜色保持一致，相关检测与成像工作均借助机器学习完成。据IT之家了解，这是库克卸任 CEO 转任董事会执行主席后",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/743.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8127-871e-ec26c35b7011",
-      "title": "苹果库克：AI 应用正迎来爆发式增长，在多个方面对供应链产生深远影响",
-      "summary": "IT之家 10 月 16 日消息，据财联社报道，在今日举办的全球财富管理论坛 2026 上海苏河湾大会上，苹果公司执行董事长、清华大学经管学院顾问委员会主席蒂姆 · 库克（Tim Cook）指出，人工智能应用正迎来爆发式增长。当前，AI 辅助编程显著降低了编程门槛，使此前几乎未接触过代码的人群也能够编写代码。与此同时，人工智能已在多个方面对供应链产生深远影响。过去，质检环节高度依赖人工。如今，机器学习使检测变得高度自动化且更加精准。以 iPhone 颜色检测为例，为确保数百万台量产设备颜色保持一致，相关检测与成像工作均借助机器学习完成。据IT之家了解，这是库克卸任 CEO 转任董事会执行主席后",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/743.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81c5-b9de-d11a7c830c79",
-      "title": "江淮汽车涨停，工信部等三部门联合调查有关车辆刹车踏板支架断裂问题",
-      "summary": "IT之家 10 月 16 日消息，今日早盘，汽车整车板块震荡反弹，江淮汽车涨停，北汽蓝谷、赛力斯、安凯客车、海马汽车、上汽集团跟涨。消息面上，针对网络反映的“尊界 V800 汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局三部门 10 月 15 日晚宣布成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。尊界汽车官方微博随后发布声明，表示将积极响应、完全服从并将全力配合联合调查组的工作。IT之家附声明原文如下：10 月 15 日，工信部等三部门发布了联合调查有关车辆刹车踏板支架断裂问题的通报。我们积极响应、完全服从并将全力配合联合调查组的工作，坚决维护消费者合法权益",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/742.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8168-ba24-c08c1f3bcba6",
-      "title": "江淮汽车涨停，工信部等三部门联合调查有关车辆刹车踏板支架断裂问题",
-      "summary": "IT之家 10 月 16 日消息，今日早盘，汽车整车板块震荡反弹，江淮汽车涨停，北汽蓝谷、赛力斯、安凯客车、海马汽车、上汽集团跟涨。消息面上，针对网络反映的“尊界 V800 汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局三部门 10 月 15 日晚宣布成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。尊界汽车官方微博随后发布声明，表示将积极响应、完全服从并将全力配合联合调查组的工作。IT之家附声明原文如下：10 月 15 日，工信部等三部门发布了联合调查有关车辆刹车踏板支架断裂问题的通报。我们积极响应、完全服从并将全力配合联合调查组的工作，坚决维护消费者合法权益",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/742.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81e0-9b9e-ed1001748bae",
-      "title": "Elizabeth Holmes' partner, Billy Evans, is the real villain in 'You Can See Everything.' Here's what to know about him.",
-      "summary": "Billy Evans, Elizabeth Holmes' partner and the father of their two children, plays a big role in A24's new documentary \"You Can See Everything.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/elizabeth-holmes-fiance-partner-billy-evans-relationship-job-theranos"
-    },
-    {
-      "id": "3fb03df8-2d23-81ef-a607-ca6086664625",
-      "title": "Elizabeth Holmes' partner, Billy Evans, is the real villain in 'You Can See Everything.' Here's what to know about him.",
-      "summary": "Billy Evans, Elizabeth Holmes' partner and the father of their two children, plays a big role in A24's new documentary \"You Can See Everything.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/elizabeth-holmes-fiance-partner-billy-evans-relationship-job-theranos"
-    },
-    {
-      "id": "3fb03df8-2d23-8174-a6ac-e15fe08d801a",
-      "title": "“中子号”火箭首飞再推迟，火箭实验室股价应声大跌",
-      "summary": "IT之家 10 月 16 日消息，美国商业航天公司火箭实验室（Rocket Lab）10 月 14 日宣布，推迟新一代可复用中型运载火箭“中子号”（Neutron）的首飞时间，由原定的 2026 年第四季度推迟至 2027 年。延期原因方面，火箭实验室首席执行官彼得 · 贝克（Peter Beck）表示，此次推迟主要源于火箭一级推进剂贮箱前部封头的制造问题。该部件为碳纤维复合材料结构，用于容纳推进剂，是火箭结构安全与飞行准备的关键环节。工程师在检测时发现了微小的空气孔隙或分层间隙，若强行发射可能引发严重的结构失效。这一消息打破了此前计划于 2026 年底首飞的预期，引发资本市场剧烈震荡。在延期",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/741.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8110-bccb-cdf2a1734812",
-      "title": "“中子号”火箭首飞再推迟，火箭实验室股价应声大跌",
-      "summary": "IT之家 10 月 16 日消息，美国商业航天公司火箭实验室（Rocket Lab）10 月 14 日宣布，推迟新一代可复用中型运载火箭“中子号”（Neutron）的首飞时间，由原定的 2026 年第四季度推迟至 2027 年。延期原因方面，火箭实验室首席执行官彼得 · 贝克（Peter Beck）表示，此次推迟主要源于火箭一级推进剂贮箱前部封头的制造问题。该部件为碳纤维复合材料结构，用于容纳推进剂，是火箭结构安全与飞行准备的关键环节。工程师在检测时发现了微小的空气孔隙或分层间隙，若强行发射可能引发严重的结构失效。这一消息打破了此前计划于 2026 年底首飞的预期，引发资本市场剧烈震荡。在延期",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/741.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81cc-a9ea-ea3cd5bc967d",
-      "title": "联想拯救者 R9 68 键磁轴电竞键盘开售：8KHz 轮询率，999 元",
-      "summary": "IT之家 10 月 16 日消息，联想拯救者 R9 68 键磁轴电竞键盘今日 10:00 正式开售，售价 999 元。这款键盘采用航空级铝合金外壳，采用阳极氧化 + 细腻喷砂工艺，可选拿铁磁轴 Pro 或紫璃磁轴 Pro；采用海王星 8K 电竞方案，可实现 0.001mm 高精度触发；拥有 8000Hz 硬件级轮询率，按键平均延迟约 0.1ms，最低可达 0.029ms。这款键盘内置 4 挡预设配置（日常、游戏、野兽、超能电竞），可通过 Fn+O 一键快速切换；支持多种高级按键功能，包含动态键程（DKS）、双效点击（MT）、多段触发（MPT）、松开触发（END）、火力开关（TGL）。这款键盘搭",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/740.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81a4-b7a8-dad51d9e1c5a",
-      "title": "联想拯救者 R9 68 键磁轴电竞键盘开售：8KHz 轮询率，999 元",
-      "summary": "IT之家 10 月 16 日消息，联想拯救者 R9 68 键磁轴电竞键盘今日 10:00 正式开售，售价 999 元。这款键盘采用航空级铝合金外壳，采用阳极氧化 + 细腻喷砂工艺，可选拿铁磁轴 Pro 或紫璃磁轴 Pro；采用海王星 8K 电竞方案，可实现 0.001mm 高精度触发；拥有 8000Hz 硬件级轮询率，按键平均延迟约 0.1ms，最低可达 0.029ms。这款键盘内置 4 挡预设配置（日常、游戏、野兽、超能电竞），可通过 Fn+O 一键快速切换；支持多种高级按键功能，包含动态键程（DKS）、双效点击（MT）、多段触发（MPT）、松开触发（END）、火力开关（TGL）。这款键盘搭",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/740.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81b2-b00d-da39bc957c9f",
-      "title": "给大模型装上“一双耳朵”：小米开源空间音频理解大模型 MiDashengLM-Spatial",
-      "summary": "IT之家 10 月 16 日消息，小米昨日宣布，带来 Dasheng 系列的重要新成员 ——MiDashengLM-Spatial，完整公开模型权重和推理代码，并以 Apache 2.0 许可证发布。过去两年，小米先后发布并开源了声音基座模型 Xiaomi Dasheng 及声音理解大模型 MiDashengLM-7B。相关技术已在小米智能家居、汽车座舱等场景实现超过 30 项落地应用，能够对语音、环境声音和音乐进行统一感知与理解。据介绍，新模型以 MiDashengLM-7B 为基座，进一步为声音理解大模型赋予“一双耳朵”，使其不仅能够听懂声音的内容，还能感知声音来自何处、如何在空间中分布。",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/739.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8123-90fa-cfae4d52fe1a",
-      "title": "给大模型装上“一双耳朵”：小米开源空间音频理解大模型 MiDashengLM-Spatial",
-      "summary": "IT之家 10 月 16 日消息，小米昨日宣布，带来 Dasheng 系列的重要新成员 ——MiDashengLM-Spatial，完整公开模型权重和推理代码，并以 Apache 2.0 许可证发布。过去两年，小米先后发布并开源了声音基座模型 Xiaomi Dasheng 及声音理解大模型 MiDashengLM-7B。相关技术已在小米智能家居、汽车座舱等场景实现超过 30 项落地应用，能够对语音、环境声音和音乐进行统一感知与理解。据介绍，新模型以 MiDashengLM-7B 为基座，进一步为声音理解大模型赋予“一双耳朵”，使其不仅能够听懂声音的内容，还能感知声音来自何处、如何在空间中分布。",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/739.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81b6-8b0a-cc125cd4f274",
-      "title": "苹果首款智能家居中枢 HomeView 细节：同时显示九路监控、可当数码相框等",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，在发布会现场深入体验 HomeView 后，分享了关于苹果首款智能家居中枢的更多实用细节，包括九路监控、共享相册等。IT之家附上相关现场测试视频如下：安防方面，HomeView 的“Home Camera”界面可同时显示最多 9 路实时摄像头画面，用户无需逐一切换，就能查看房间、门口或室外区域。该媒体称在现场演示中，视频响应较快，也没有非常明显的延迟情况出现，不过实际家庭网络下的稳定性仍待验证。值得注意的是，尽管苹果新的 Home 系列配件普遍支持 Matter，不过智能家居安防摄像头暂时",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/738.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81dc-ad55-f6826d04b3c8",
-      "title": "苹果首款智能家居中枢 HomeView 细节：同时显示九路监控、可当数码相框等",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，在发布会现场深入体验 HomeView 后，分享了关于苹果首款智能家居中枢的更多实用细节，包括九路监控、共享相册等。IT之家附上相关现场测试视频如下：安防方面，HomeView 的“Home Camera”界面可同时显示最多 9 路实时摄像头画面，用户无需逐一切换，就能查看房间、门口或室外区域。该媒体称在现场演示中，视频响应较快，也没有非常明显的延迟情况出现，不过实际家庭网络下的稳定性仍待验证。值得注意的是，尽管苹果新的 Home 系列配件普遍支持 Matter，不过智能家居安防摄像头暂时",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/738.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8102-aea8-fbba2ee979ce",
-      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-      "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car t",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
-    },
-    {
-      "id": "3fb03df8-2d23-81b5-80e3-e354dc98541f",
-      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-      "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car t",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
-    },
-    {
-      "id": "3fb03df8-2d23-812e-9b21-f5e2c2c6056a",
-      "title": "Meta 首席 AI 官汪滔：不会开源最强模型，但会继续发布优秀开源模型",
-      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，Meta 发布了开放权重 AI 模型 Muse Spark Open。Meta 官方宣称这是迄今为止能力最强的美国开放权重模型。据 The Next Web 报道，Meta 表示，Muse Spark Open 性能低于周一刚发布的前沿模型 Muse Wonder。Meta 曾在周一宣布 Muse Wonder 已达到前沿模型水准，但并未对外公布任何基准测试成绩，该模型目前依然保持闭源。Meta 首席 AI 官汪滔（Alexandr Wang）表示，出于安全与能力边界的双重考量，我们通常不会开源我们最顶尖的模型。不过他补充道，Me",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/736.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81e9-9c03-dbefec47e3c4",
-      "title": "Meta 首席 AI 官汪滔：不会开源最强模型，但会继续发布优秀开源模型",
-      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，Meta 发布了开放权重 AI 模型 Muse Spark Open。Meta 官方宣称这是迄今为止能力最强的美国开放权重模型。据 The Next Web 报道，Meta 表示，Muse Spark Open 性能低于周一刚发布的前沿模型 Muse Wonder。Meta 曾在周一宣布 Muse Wonder 已达到前沿模型水准，但并未对外公布任何基准测试成绩，该模型目前依然保持闭源。Meta 首席 AI 官汪滔（Alexandr Wang）表示，出于安全与能力边界的双重考量，我们通常不会开源我们最顶尖的模型。不过他补充道，Me",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/736.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8165-93e4-d1cf6a8ac85b",
-      "title": "元太发布 Kaleido 4 彩色电子纸，支持 18FPS 视频播放",
-      "summary": "IT之家 10 月 16 日消息，元太科技 (E Ink) 昨日正式推出新一代彩色电子纸技术 E Ink Kaleido 4。该面板在延续低功耗、类纸阅读核心优势的同时，进一步提升彩色显示的色彩表现、亮度、对比度与动态显示能力。Kaleido 4 色域容积提升 2 倍至 40K 以上，白画面的反射率提升 15%，对比度提升 50%，更能清楚呈现图片、图表、简报与影音内容，减少画面颗粒感。其导入全新 Oxide TFT 背板，支持更高驱动电压，提升画面刷新速率；结合新算法，Kaleido 4 支持 18FPS 视频播放。同时，全新设计的前光系统让画面显色效果更加自然、清晰、细致。汉王科技率先基于",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/735.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81f6-9818-d0399ad4ff3e",
-      "title": "元太发布 Kaleido 4 彩色电子纸，支持 18FPS 视频播放",
-      "summary": "IT之家 10 月 16 日消息，元太科技 (E Ink) 昨日正式推出新一代彩色电子纸技术 E Ink Kaleido 4。该面板在延续低功耗、类纸阅读核心优势的同时，进一步提升彩色显示的色彩表现、亮度、对比度与动态显示能力。Kaleido 4 色域容积提升 2 倍至 40K 以上，白画面的反射率提升 15%，对比度提升 50%，更能清楚呈现图片、图表、简报与影音内容，减少画面颗粒感。其导入全新 Oxide TFT 背板，支持更高驱动电压，提升画面刷新速率；结合新算法，Kaleido 4 支持 18FPS 视频播放。同时，全新设计的前光系统让画面显色效果更加自然、清晰、细致。汉王科技率先基于",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/735.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81fa-9917-f5105273d0db",
-      "title": "这次能飞了！特斯拉第二代 Roadster 跑车正式亮相",
-      "summary": "IT之家 10 月 16 日消息，在今天（16 日）上午的特别活动中，特斯拉第二代 Roadster 正式亮相，官方称其为“最后一辆最佳驾驶者之车”。根据介绍，2008 年的 Roadster 只有一个目标：证明电动汽车可以速度飞快、外形性感、引人期待，而今天发布的第二代 Roadster，则展现了历史上的一个新时刻：最后几辆人类驾驶汽车之中的佼佼者。新车配备姿态控制推进器和车尾主推进器，不仅能像火箭一样离地升空，还能在空中翻滚。据IT之家了解，第二代 Roadster 的核心亮点是搭载了特斯拉与 SpaceX 联合开发、内部代号 A71 的冷气推进系统。该套装置由多组高压气体喷嘴构成，无需燃",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/734.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-817d-9d11-e1e9ca634fb5",
-      "title": "这次能飞了！特斯拉第二代 Roadster 跑车正式亮相",
-      "summary": "IT之家 10 月 16 日消息，在今天（16 日）上午的特别活动中，特斯拉第二代 Roadster 正式亮相，官方称其为“最后一辆最佳驾驶者之车”。根据介绍，2008 年的 Roadster 只有一个目标：证明电动汽车可以速度飞快、外形性感、引人期待，而今天发布的第二代 Roadster，则展现了历史上的一个新时刻：最后几辆人类驾驶汽车之中的佼佼者。新车配备姿态控制推进器和车尾主推进器，不仅能像火箭一样离地升空，还能在空中翻滚。据IT之家了解，第二代 Roadster 的核心亮点是搭载了特斯拉与 SpaceX 联合开发、内部代号 A71 的冷气推进系统。该套装置由多组高压气体喷嘴构成，无需燃",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/734.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8171-b864-f45bd2d6d5aa",
-      "title": "The Tesla Roadster 2 Is Here—and It Flies",
-      "summary": "The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.",
-      "source": "Wired",
-      "publishTime": "2026-10-16",
-      "link": "https://www.wired.com/story/tesla-roadster-2-launch/"
-    },
-    {
-      "id": "3fb03df8-2d23-8134-9513-c9f865114625",
-      "title": "The Tesla Roadster 2 Is Here—and It Flies",
-      "summary": "The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.",
-      "source": "Wired",
-      "publishTime": "2026-10-16",
-      "link": "https://www.wired.com/story/tesla-roadster-2-launch/"
-    },
-    {
-      "id": "3fb03df8-2d23-8179-91e3-d4a0ca9c1d2d",
-      "title": "京东红包今日 10:00 再加码，猜拳至高赢 5 元",
-      "summary": "今日 10 点京东猜拳有机会赢至高 5 元加码红包，建议先领完日常红包再来参与：点此抽取。猜拳红包玩法：活动会在不同的时间节点，开启“猜拳抢红包”玩法，请随时关注活动提示。活动期间用户可参与猜拳玩法，每人最多 3 次机会，单次机会用户选择石头、剪刀、布任意一个，任意获胜 1 局（石头赢剪刀，剪刀赢布，布赢石头）即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。奖励限量，发完即止，建议用户在活动节点整点，准时参与活动。蚊子肉也是肉，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/733.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-816f-a495-f494b82b04d7",
-      "title": "京东红包今日 10:00 再加码，猜拳至高赢 5 元",
-      "summary": "今日 10 点京东猜拳有机会赢至高 5 元加码红包，建议先领完日常红包再来参与：点此抽取。猜拳红包玩法：活动会在不同的时间节点，开启“猜拳抢红包”玩法，请随时关注活动提示。活动期间用户可参与猜拳玩法，每人最多 3 次机会，单次机会用户选择石头、剪刀、布任意一个，任意获胜 1 局（石头赢剪刀，剪刀赢布，布赢石头）即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。奖励限量，发完即止，建议用户在活动节点整点，准时参与活动。蚊子肉也是肉，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/733.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8113-bca3-fc22f736f472",
-      "title": "高通与传音续签专利许可协议至 2031 年底，涵盖 4G 和 5G 移动设备",
-      "summary": "IT之家 10 月 16 日消息，高通公司今日宣布，已与传音控股签订全球专利许可的长期续期，涵盖 4G 和 5G 移动设备，期限至 2031 年底。高通技术许可（QTL）执行副总裁兼总经理 John Han 表示：“我们很高兴能够提前续签传音控股的 4G 和 5G 许可证，并将现有的 4G 和 5G 协议合并为单一的长期协议。”IT之家注意到，高通近期密集与多家移动设备大厂签订了专利许可协议。9 月 24 日，高通宣布与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。10 月 5 日，华为与高通宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/732.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-815d-a530-cdbabcf1f51f",
-      "title": "高通与传音续签专利许可协议至 2031 年底，涵盖 4G 和 5G 移动设备",
-      "summary": "IT之家 10 月 16 日消息，高通公司今日宣布，已与传音控股签订全球专利许可的长期续期，涵盖 4G 和 5G 移动设备，期限至 2031 年底。高通技术许可（QTL）执行副总裁兼总经理 John Han 表示：“我们很高兴能够提前续签传音控股的 4G 和 5G 许可证，并将现有的 4G 和 5G 协议合并为单一的长期协议。”IT之家注意到，高通近期密集与多家移动设备大厂签订了专利许可协议。9 月 24 日，高通宣布与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。10 月 5 日，华为与高通宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/732.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81b8-b4b8-ec61ee5072cd",
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-16",
-      "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
-    },
-    {
-      "id": "3fb03df8-2d23-81a2-88aa-e25f465c988d",
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-16",
-      "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
-    },
-    {
-      "id": "3fb03df8-2d23-8104-b930-fe9790ac8b73",
-      "title": "今年势头最猛的国产旗舰：消息称华为 Pura X View 阔直板手机出货量超 71 万，实销均价在 7000 元左右",
-      "summary": "IT之家 10 月 16 日消息，博主 @数码闲聊站 今日爆料，渠道数据显示，华为阔直板（Pura X View）出货量已超 71 万，实销均价在 7000 元左右，其中约 30％用户来自苹果用户。博主称（Pura X View）鉴定为今年势头最猛的国产旗舰，该机前期还大面积缺货，如果不缺货估计更猛。此外，华为大阔折和小阔折出货量已超 315 万。据IT之家了解，华为 Pura X View 搭载麒麟 9030S 处理器，售价 5999 元起：12GB + 256GB：5999 元12GB + 512GB：6999 元12GB + 1TB：8499 元华为 Pura X View 阔直板手机搭",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/731.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8180-abe4-e8dbc609b6e0",
-      "title": "今年势头最猛的国产旗舰：消息称华为 Pura X View 阔直板手机出货量超 71 万，实销均价在 7000 元左右",
-      "summary": "IT之家 10 月 16 日消息，博主 @数码闲聊站 今日爆料，渠道数据显示，华为阔直板（Pura X View）出货量已超 71 万，实销均价在 7000 元左右，其中约 30％用户来自苹果用户。博主称（Pura X View）鉴定为今年势头最猛的国产旗舰，该机前期还大面积缺货，如果不缺货估计更猛。此外，华为大阔折和小阔折出货量已超 315 万。据IT之家了解，华为 Pura X View 搭载麒麟 9030S 处理器，售价 5999 元起：12GB + 256GB：5999 元12GB + 512GB：6999 元12GB + 1TB：8499 元华为 Pura X View 阔直板手机搭",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/731.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-813e-9fe6-f0dc8f54c1c6",
-      "title": "苹果 Minions 研究：闲置 Mac GPU 组队，几分钟就能完成 10 小时 AI 任务",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，报道称苹果研究团队公布了一项名为 Minions 的系统研究，尝试聚合闲置 Mac GPU，形成一个可动态调度的“虚拟 GPU 云”，用于运行大规模机器学习推理任务。IT之家援引博文介绍，传统 AI 推理通常依赖集中式 GPU 集群，面临成本高、扩容慢、排队时间长等问题；而 Mac 在日常办公、浏览和创作场景中，GPU 常常长期空闲。苹果公司在论文中阐述了 Minions 方案，希望重新组织这些“看不见的算力”，在不额外采购 GPU 的情况下，让多台 Mac 协同完成 AI 任务。根据论文",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/730.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81e5-9770-c1893373d4c9",
-      "title": "苹果 Minions 研究：闲置 Mac GPU 组队，几分钟就能完成 10 小时 AI 任务",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，报道称苹果研究团队公布了一项名为 Minions 的系统研究，尝试聚合闲置 Mac GPU，形成一个可动态调度的“虚拟 GPU 云”，用于运行大规模机器学习推理任务。IT之家援引博文介绍，传统 AI 推理通常依赖集中式 GPU 集群，面临成本高、扩容慢、排队时间长等问题；而 Mac 在日常办公、浏览和创作场景中，GPU 常常长期空闲。苹果公司在论文中阐述了 Minions 方案，希望重新组织这些“看不见的算力”，在不额外采购 GPU 的情况下，让多台 Mac 协同完成 AI 任务。根据论文",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/730.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8130-9e42-c0d5d16d8f3d",
-      "title": "雷蛇公布宝可梦 Pixel Art 款联名外设，包括鼠标、鼠标垫、键盘、座椅",
-      "summary": "IT之家 10 月 16 日消息，Razer（雷蛇）昨日公布了宝可梦 Pixel Art 主题系列外设。此次的联名型号包含无线游戏鼠标、鼠标垫、无线机械键盘、游戏座椅，统一采用类金属漆面外观，装饰以初代经典宝可梦在三代时期的像素形象。天猫雷蛇 | 宝可梦 Pixel Art 主题系列外设 套装 4099 / 6799 元直达链接IT之家了解到，Razer | 宝可梦 Pixel Art 款外设定价情况如下：联名无线游戏鼠标：1,399 元；联名鼠标垫：299 元；联名无线机械键盘：2,499 元；联名游戏座椅：2,799 元；联名键鼠垫三件套：4,099 元；联名键鼠垫椅全四件套：6,799 ",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/729.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81c9-bc04-c7eb5fc89494",
-      "title": "雷蛇公布宝可梦 Pixel Art 款联名外设，包括鼠标、鼠标垫、键盘、座椅",
-      "summary": "IT之家 10 月 16 日消息，Razer（雷蛇）昨日公布了宝可梦 Pixel Art 主题系列外设。此次的联名型号包含无线游戏鼠标、鼠标垫、无线机械键盘、游戏座椅，统一采用类金属漆面外观，装饰以初代经典宝可梦在三代时期的像素形象。天猫雷蛇 | 宝可梦 Pixel Art 主题系列外设 套装 4099 / 6799 元直达链接IT之家了解到，Razer | 宝可梦 Pixel Art 款外设定价情况如下：联名无线游戏鼠标：1,399 元；联名鼠标垫：299 元；联名无线机械键盘：2,499 元；联名游戏座椅：2,799 元；联名键鼠垫三件套：4,099 元；联名键鼠垫椅全四件套：6,799 ",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/729.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-810b-90bf-d1d709b31e93",
-      "title": "小米 REDMI K100 手机官宣本月见，号称“重塑旗舰新基线”",
-      "summary": "IT之家 10 月 16 日消息，小米 REDMI 红米手机官方今日宣布，K100 来了，本月见。全新标准版，重塑旗舰新基线超大电量，游戏性能体验看齐 Pro据IT之家此前报道，博主 @数码闲聊站 此前爆料，小米 REDMI K100 标准版手机堆了米系最大电池、独显芯片、相对大马达、Bose 双扬，属于配置不搞花活的类型。据悉，小米 REDMI K100 标准版手机搭载骁龙 8 至尊版处理器，属于“3.5K 档量大管饱的产品”。相关阅读：《小米 REDMI K100 标准版手机入网，支持 100W 快充》《曝小米 REDMI K100 标准版手机将堆米系最大电池、Bose 双扬等配置，定位 ",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/728.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8144-9716-e21a6d5d4f3c",
-      "title": "小米 REDMI K100 手机官宣本月见，号称“重塑旗舰新基线”",
-      "summary": "IT之家 10 月 16 日消息，小米 REDMI 红米手机官方今日宣布，K100 来了，本月见。全新标准版，重塑旗舰新基线超大电量，游戏性能体验看齐 Pro据IT之家此前报道，博主 @数码闲聊站 此前爆料，小米 REDMI K100 标准版手机堆了米系最大电池、独显芯片、相对大马达、Bose 双扬，属于配置不搞花活的类型。据悉，小米 REDMI K100 标准版手机搭载骁龙 8 至尊版处理器，属于“3.5K 档量大管饱的产品”。相关阅读：《小米 REDMI K100 标准版手机入网，支持 100W 快充》《曝小米 REDMI K100 标准版手机将堆米系最大电池、Bose 双扬等配置，定位 ",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/728.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8165-b5cd-df6597f21694",
-      "title": "微软 Win11 照片应用史诗级重构：一站式管理本地 / iCloud 照片，编辑器加载提速 25%",
-      "summary": "IT之家 10 月 16 日消息，微软昨日（10 月 15 日）发布博文，宣布重构 Windows 11 系统自带“照片”（Photos）应用，并邀请 Windows Insider 项目成员测试，预估今年晚些时候面向所有 Windows 11 用户开放。界面方面，微软本次重新设计“图库”（Gallery）。用户无需来回切换多个应用，可以在同一个界面浏览本地电脑、OneDrive 以及 Apple iCloud 中的照片和视频。应用还支持按日期、人物、收藏等维度整理图片，并为 OneDrive 内容新增“Moments”功能，可自动将相关照片归类为回忆集，生成季节性回顾和幻灯片。搜索方面，用户",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/725.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81be-aac0-e1f3608bdad6",
-      "title": "美科技股上演“惊天大逆转”：三大指数携手收涨，纳指收盘前一跃翻红",
-      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，美股上演逆转行情。科技股开盘再度遭遇抛售重压，纳指一度跌逾 1.4%，随后在日内反攻中收复全部失地，最终三大指数携手收涨。▲ 纳斯达克IT之家查询获悉，截至当地时间 10 月 15 日收盘：标普 500 指数涨 0.33%，报 7744.06 点；纳斯达克综合指数涨 0.08%，报 26713.03 点；道琼斯工业平均指数涨 1.08%，报 52177.69 点。据财联社报道，随着科技股展开反攻，纳斯达克交易所盘中宣布发生网络故障，部分行情数据传输出现间歇性中断。尽管故障本身不影响交易，但从盘面来看，这个小插曲发生后，指数的反弹暂",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/726.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-813a-b37b-d5f7b3b2e25d",
-      "title": "微软 Win11 照片应用史诗级重构：一站式管理本地 / iCloud 照片，编辑器加载提速 25%",
-      "summary": "IT之家 10 月 16 日消息，微软昨日（10 月 15 日）发布博文，宣布重构 Windows 11 系统自带“照片”（Photos）应用，并邀请 Windows Insider 项目成员测试，预估今年晚些时候面向所有 Windows 11 用户开放。界面方面，微软本次重新设计“图库”（Gallery）。用户无需来回切换多个应用，可以在同一个界面浏览本地电脑、OneDrive 以及 Apple iCloud 中的照片和视频。应用还支持按日期、人物、收藏等维度整理图片，并为 OneDrive 内容新增“Moments”功能，可自动将相关照片归类为回忆集，生成季节性回顾和幻灯片。搜索方面，用户",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/725.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8111-a0f8-e561da6f9410",
-      "title": "美科技股上演“惊天大逆转”：三大指数携手收涨，纳指收盘前一跃翻红",
-      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，美股上演逆转行情。科技股开盘再度遭遇抛售重压，纳指一度跌逾 1.4%，随后在日内反攻中收复全部失地，最终三大指数携手收涨。▲ 纳斯达克IT之家查询获悉，截至当地时间 10 月 15 日收盘：标普 500 指数涨 0.33%，报 7744.06 点；纳斯达克综合指数涨 0.08%，报 26713.03 点；道琼斯工业平均指数涨 1.08%，报 52177.69 点。据财联社报道，随着科技股展开反攻，纳斯达克交易所盘中宣布发生网络故障，部分行情数据传输出现间歇性中断。尽管故障本身不影响交易，但从盘面来看，这个小插曲发生后，指数的反弹暂",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/726.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81ff-919f-c06a71463320",
-      "title": "营收增长放缓，消息称投资者降低 Anthropic IPO 估值预期",
-      "summary": "IT之家 10 月 16 日消息，北京时间今天（16 日）凌晨，路透社援引四名知情人士消息称，随着 AI 融资成本持续攀升引发市场担忧，Anthropic 公布最新财务数据后，部分现有投资者和准备参与 IPO 的投资者开始考虑下调对 Anthropic 的估值。其中三名知情人士称，部分投资者参加了 Anthropic 在旧金山举办的投资者日活动，并讨论了约 1.5 万亿美元（IT之家注：现汇率约合 10.05 万亿元人民币）的估值。此前，投资者预计 Anthropic 在 11 月上市时的估值约为 2 万亿美元（现汇率约合 13.41 万亿元人民币）。Anthropic 向潜在投资者披露，第三",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/723.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8185-8f67-d1f535d42c56",
-      "title": "曝宁德时代乘用车业务换帅，将加快推进换电",
-      "summary": "IT之家 10 月 16 日消息，据 36 氪 10 月 15 日晚报道，宁德时代乘用车体系迎来重磅调整，宁德时代换电业务负责人、时代电服 CEO 杨峻将接替韩伟，兼任市场体系联席总裁，原市场体系联席总裁韩伟将回归商用车业务。报道称，国内乘用车业务副总裁王慧也随之调整。知情人士透露，王慧所负责业务将由宁德时代乘用车 CTO 高焕接棒，而王慧也同样回归商用车业务。报道认为，杨峻的接任，意味着宁德时代有望进一步打通乘用车电池销售与换电业务。过去几年，杨峻最重要的工作，就是推动宁德时代换电体系从技术方案走向商业化。据IT之家此前报道，在 2024 年底的巧克力换电生态大会上，宁德时代创始人、董事长、",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/724.htm"
     }
   ],
   "macroEvents": [
