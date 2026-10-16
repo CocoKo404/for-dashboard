@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-17 05:28",
+  "updatedAt": "2026-10-17 07:47",
   "news": [
+    {
+      "id": "3fb03df8-2d23-81d0-932b-f22e188c23f8",
+      "title": "Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型",
+      "summary": "IT之家 10 月 17 日消息，据 POLITICO 报道，三名知情人士透露，Anthropic 的代表已悄悄向美国国会山的议员推介了一份法案草案，旨在规范前沿人工智能的安全与防务标准。据悉，目前美国国会正审慎评估如何对这一飞速发展的行业确立监管框架，而该草案的提出，标志着这家顶级 AI 实验室正在采取切实行动，试图左右针对自身技术的监管规则。“该法案体现了 Anthropic 在《先进人工智能框架》中提出的核心方案，我们自 6 月起就一直在向联邦及各州立法者游说推介，”Anthropic 发言人表示，“我们坚信国会应当在这些务实合理的政策上采取立法行动。”草案大幅收紧了监管干预的门槛：仅在",
+      "source": "IT之家",
+      "publishTime": "2026-10-17",
+      "link": "https://www.ithome.com/1/014/193.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8121-951d-d5ecba259765",
+      "title": "马斯克要让 AI 帮企业“砍价”：成本效益有望提升 5% 以上",
+      "summary": "IT之家 10 月 17 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（10 月 17 日）在 X 平台发布推文，表示其团队正投入大量资源，开发面向商业场景的专用议价机器人“Hagglebot”，希望借此提升企业成本效率。IT之家注：“专用议价机器人”就是为企业谈价格、争取更好交易条件而设计的 AI 软件，并非实体机器人。这里可以把它想象成一个“数字采购谈判员”：企业给它设定预算、可接受价格和交易条件，它再围绕这些目标协助议价。他预计，该产品有望将企业成本效率提高 5% 甚至更多；若将这一幅度放到全球 GDP 规模上测算，每年节省的成本最高可达 6 万亿美元（现汇率约合 40.2",
+      "source": "IT之家",
+      "publishTime": "2026-10-17",
+      "link": "https://www.ithome.com/1/014/192.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-8163-8211-c6e017a5598b",
+      "title": "Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜",
+      "summary": "IT之家 10 月 17 日消息，Anthropic 公司昨日（10 月 16 日）发布博文，宣布其内部研究用 Claude 模型用不到 30 分钟，追溯出五条美国国家标准与技术研究院（NIST）标准椭圆曲线的“种子”（seed）来源，为一桩延续约 26 年的密码学悬案提供了可复现的答案。IT之家注：这里的种子（seed），可以理解为“生成椭圆曲线参数时使用的一段起始数据”，生成规则像一台固定程序的机器，种子就是投入机器的原料。同样的原料，按照同样的规则处理，就能得到同样的结果。公开种子后，其他人可以复算，检查曲线参数是否确实按公布的步骤生成。谜题源于 2000 年纳入美国数字签名标准的一组椭",
+      "source": "IT之家",
+      "publishTime": "2026-10-17",
+      "link": "https://www.ithome.com/1/014/191.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81d5-a4f9-e42f00b67b98",
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, incl",
+      "source": "The Verge",
+      "publishTime": "2026-10-17",
+      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
+    },
+    {
+      "id": "3fb03df8-2d23-81ae-a9ee-fd91cc5f7e07",
+      "title": "Anthropic polled 1,334 of its employees. They're more sure than most of us that AI will take over jobs.",
+      "summary": "Anthropic employees forecast AI to handle 80% of their jobs by 2030, while US workers expect less impact, highlighting differing expectations.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-17",
+      "link": "https://www.businessinsider.com/anthropic-survey-reveals-ai-potential-impact-on-unemployment-2026-10"
+    },
+    {
+      "id": "3fb03df8-2d23-81ac-868a-da1bb779e2ee",
+      "title": "微软发布 Win11 多预览通道新版更新：更新 XBOX 游戏界面，Windows Hello 自动调节亮度",
+      "summary": "IT之家 10 月 17 日消息，微软昨天（10 月 16 日）发布博文，邀请 Windows Insider 多个预览频道成员，测试适用于 Windows 11 的多版本预览更新，各频道版本如下：Beta 通道：Build 26220.9739（26H2）、Build 28020.3262（26H1）Experimental 通道：Build 26340.9750（26H2）、Build 28120.3272（26H1）Release Preview 通道：Build 26200.9807 / 26300.9807（25H2/26H2）、Build 28000.3351（26H1）本次更新同",
+      "source": "IT之家",
+      "publishTime": "2026-10-17",
+      "link": "https://www.ithome.com/1/014/189.htm"
+    },
+    {
+      "id": "3fb03df8-2d23-81a2-b69b-e6f4adbb3628",
+      "title": "10 things that lasted longer than Katie Zacharia’s time as White House press secretary",
+      "summary": "From space missions to a hard-boiled egg, here are 10 things that lasted longer than Katie Zacharia's tenure as White House press secretary.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-17",
+      "link": "https://www.businessinsider.com/katie-zacharia-white-house-press-secretary-10-things-lasted-longer-2026-10"
+    },
+    {
+      "id": "3fb03df8-2d23-81bd-bfc4-c549c5d5e1e5",
+      "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
+      "summary": "Democrats outraise Republicans in key Congress races as Elon Musk funds Ken Paxton in Texas and GOP groups aligned with Trump.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-17",
+      "link": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html"
+    },
+    {
+      "id": "3fb03df8-2d23-810e-a233-db6816b646c9",
+      "title": "The Leap Second Is No More",
+      "summary": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
+      "source": "Wired",
+      "publishTime": "2026-10-17",
+      "link": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/"
+    },
+    {
+      "id": "3fb03df8-2d23-81a9-8ba1-e35ef937a2ea",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-17",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "id": "3fb03df8-2d23-8105-bd22-fedde1308b7b",
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]",
+      "source": "The Verge",
+      "publishTime": "2026-10-17",
+      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli"
+    },
+    {
+      "id": "3fb03df8-2d23-81fe-a522-cfa707b5f48a",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehic",
+      "source": "The Verge",
+      "publishTime": "2026-10-17",
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash"
+    },
     {
       "id": "3fb03df8-2d23-81af-888f-ca302a8826bd",
       "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
@@ -304,102 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-10-16",
       "link": "https://www.ithome.com/1/014/185.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-8158-86d9-d9a1b1fd214f",
-      "title": "曝英特尔将推 8E + 4Xe 版 \"Panther Lake\" 锐炫 G 掌机处理器",
-      "summary": "IT之家 10 月 16 日消息，硬件诊断监控软件 HWiNFO 近日在其版本历史记录页面更新了即将到来的变化，包括“新增 Panter Lake-H 080”“增强对 Nova Lake-E 和 Razor Lake-S 的支持”。IT之家注：\"Panter Lake\" 很明显是一个误输入，指的应该是 \"Panther Lake\"。消息人士 @jaykihn0 今日对上述 \"Panther Lake-H 080\" 和 \"Nova Lake-E\" 进行了解释：\"Panther Lake-H 080\" 是一款采用 0P + 8P + 0LP-E + 4Xe 设计的 \"Panter Lake\" 处",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/014/184.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-811f-bf62-defcb7d62115",
-      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-      "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of wri",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android"
-    },
-    {
-      "id": "3fb03df8-2d23-8132-8b78-fab1ce23b44f",
-      "title": "Disney agreed to pay $60 million to 66 employees from an AI startup that filed for bankruptcy, weeks after tech layoffs",
-      "summary": "Following its tech layoffs, Disney is planning to pay $60 million to hire 66 employees from Character.AI, which has filed for bankruptcy.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/disney-pays-60-million-characterai-employees-tech-layoffs-karandeep-anand-2026-10"
-    },
-    {
-      "id": "3fb03df8-2d23-811c-89b9-d2978c2a8a2a",
-      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-      "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
-      "source": "Wired",
-      "publishTime": "2026-10-16",
-      "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/"
-    },
-    {
-      "id": "3fb03df8-2d23-81d3-9560-d8693ea3679b",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, A",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
-    },
-    {
-      "id": "3fb03df8-2d23-81f4-9935-fdc8f4744e31",
-      "title": "An interior designer shares 9 things she'd never have in her own kitchen",
-      "summary": "Interior designer Lane Mari shared some common design mistakes, cabinet styles, and lighting options she would never put in her own kitchen.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/things-interior-designer-never-have-kitchen-mistakes-2026-10"
-    },
-    {
-      "id": "3fb03df8-2d23-81e6-8f36-f860f53b4bac",
-      "title": "Harvard's bet on SpaceX helped its endowment grow faster than the S&P 500",
-      "summary": "Harvard's endowment grew to nearly $68 billion, helped by the university's $2.2 billion stake in SpaceX at the end of June.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/harvard-endowment-return-spacex-ipo-elon-musk-stock-portfolio-investing-2026-10"
-    },
-    {
-      "id": "3fb03df8-2d23-8149-8212-f665eea2975d",
-      "title": "库克卸任苹果 CEO 后首次中国之行结束：期待下次再见",
-      "summary": "IT之家 10 月 16 日消息，苹果董事会执行主席、前 CEO 蒂姆 · 库克今日发文告别本次中国之行，并分享记录视频。值得一提的是，这也是库克卸任苹果 CEO 后首次中国之行。IT之家附库克原文如下：感谢中国的每一位朋友，让这次旅程再次充满难忘的回忆。期待下次再见！Many thanks to everyone in China for another unforgettable visit. Until next time!IT之家注意到，库克于 10 月 10 日开启中国之行，首站落地广东广州，现场观看使用苹果 iPhone 18 Pro 手机拍摄非遗咏春作品，记录传统文化。随后，他到",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/014/183.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81fe-b972-d0cfd211f005",
-      "title": "FADU 发布全球首款文件语义固态硬盘，支持加速器直接访问",
-      "summary": "IT之家 10 月 16 日消息，韩国固态硬盘主控与方案企业 FADU 在 2026 OCP 全球峰会上发布了世界首款 FS-SSD（文件语义固态硬盘）。在传统的存储数据结构中，CPU 和操作系统负责文件搜索、权限管理、文件地址转换等任务，SSD 仅进行块操作，这意味着加速器若想访问存储文件需要通过 CPU 中介，带来了更高的延迟和 CPU 负载。FS-SSD 改变了这一情况：其内置文件处理固件，配套嵌入文件请求的 NVMe 命令，使得 SSD 能理解和管理文件，可直接同加速器通信，略过了 CPU、内存、软件层。FADU 计划将 FS-SSD 发展成为基于 DPU 的无主机存储服务器和可扩展文",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/014/182.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-81fe-91f4-f553d4273c8d",
-      "title": "中国秦朝背景《刺客信条：命运》早期实机视频曝光：腾讯天美工作室群主导，起步阶段即被取消",
-      "summary": "IT之家 10 月 16 日消息，多年前曾有爆料称，育碧与腾讯旗下天美工作室群曾合作开发一款以中国古代为背景的《刺客信条》系列新作《刺客信条：命运》，但该项目目前已被取消。昨日，游戏媒体 MP1st 根据参与开发人员的作品集披露了早期玩法视频和截图，展示了潜行刺杀、信仰之跃，以及一款类似天机伞的旋转武器。这款作品原计划面向 PC 和主机平台，故事设定在公元前 206 年的秦朝。曝光素材大多来自 2025 年 2 月制作的原型，尚未达到完整游戏的开发阶段。曝光视频展示了一段任务流程：一名女性刺客需要进入一座遭历史人物项羽及其军队围困的宫殿，寻找一件神秘物品。片段还短暂展示了与项羽交战的首领战早期",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/014/181.htm"
-    },
-    {
-      "id": "3fb03df8-2d23-816b-aff9-da0dcfa91049",
-      "title": "I quit Wall Street at 34 to live out of my car. My best friend thought I'd lost my mind.",
-      "summary": "I quit my Wall Street career to spend a year camping out West. My best friend questioned my decision, but our friendship grew stronger.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/quit-wall-street-career-best-friend-friendship-2026-10"
-    },
-    {
-      "id": "3fb03df8-2d23-81b5-9494-cc62a6f550ac",
-      "title": "AOC 上架“AGP277QKM”27 英寸显示器：2K 425Hz QD-Mini LED、内置电源，3254 元",
-      "summary": "IT之家 10 月 16 日消息，AOC 现已在京东上架“AGP277QKM”27 英寸显示器，该机主打 2K 425Hz，定价为 3254 元，部分地区国补后低至 2928.6 元。京东 AOC“AGP277QKM”显示器 3254 元直达链接该机配备一块 2560x1440 分辨率 425Hz 刷新率 1152 分区 QD-Mini LED 背光 Fast IPS 面板，峰值亮度 1200 尼特，对比度 1300:1，响应速度 0.3ms。该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供 2 个 HDMI 2.1、1 个 DP 2.1、3 个 ",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/014/180.htm"
     }
   ],
   "macroEvents": [
