@@ -1,6 +1,190 @@
 {
-  "updatedAt": "2026-10-16 07:11",
+  "updatedAt": "2026-10-16 09:33",
   "news": [
+    {
+      "id": "3fa03df8-2d23-818f-b054-c3fad78ad6e0",
+      "title": "亚马逊旗下 Bee 推出两款 AI 录音产品：可穿戴设备 Frontier、手机磁吸配件 Eclipse，74.99 美元起",
+      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，亚马逊宣布旗下公司 Bee 推出两款 AI 录音产品：Bee Frontier 与 Bee Eclipse，旨在帮助用户记录日常重要对话与琐碎细节，并将其沉淀为待办事项、摘要和洞察。官方表示，隐私安全是其坚守的红线，对于所有 Bee 硬件，原始音频不被存储，既不可被调取亦无法被共享；并且每次开启录制时，系统都会主动提示用户须先行征得通话对方的同意。启动之后，Bee 硬件会实时整合对话语境与已关联应用的信息，智能化输出深度洞察与实用建议。此外，Bee 支持无缝接入日常工作流工具，包括 Gmail、Google 日历以及微软 Outl",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/702.htm"
+    },
+    {
+      "id": "3fa03df8-2d23-8122-a8e6-f3abf9142e6d",
+      "title": "Steam can now show game achievements in separate ‘sets’",
+      "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse wh",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets"
+    },
+    {
+      "id": "3fa03df8-2d23-81a5-bab3-ecb62794259d",
+      "title": "Living with a stink? Technology might help",
+      "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "source": "BBC Tech",
+      "publishTime": "2026-10-16",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "3fa03df8-2d23-8125-857f-e750cfba3e43",
+      "title": "苹果史上最颠覆变动：乔布斯曾坚决反对的触屏 MacBook 有望 11 月 6 日开卖",
+      "summary": "IT之家 10 月 16 日消息，在最新一期播客节目中，彭博社的马克 · 古尔曼（Mark Gurman）透露称苹果公司首款配备 OLED 屏幕的 MacBook Pro 有望 10 月 27 日或 28 日发布，并于 11 月 6 日（星期五）开售。IT之家附上相关截图如下：名称方面，古尔曼此前称该产品可能名为 MacBook Ultra，但他最近又收回了这一说法，并暗示它们会属于 MacBook Pro 产品线。产品方面，新款 MacBook Pro 预计提供 14 英寸和 16 英寸版本，最大亮点是首次在 Mac 笔记本上采用 OLED 触控屏。若消息属实，这将结束苹果长期坚持“Mac ",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/701.htm"
+    },
+    {
+      "id": "3fa03df8-2d23-817e-b18a-cab9f3c647c1",
+      "title": "蚂蚁百灵开源 Ling-3.1-flash AI 模型，最高支持 1M 上下文",
+      "summary": "IT之家 10 月 16 日消息，蚂蚁百灵昨日宣布开源 Ling-3.1-flash 模型，Ling-3.1-flash 总参数约 560B，每个 Token 激活约 25B，最高支持 1M 上下文。在 Artificial Analysis 的公开评测中，Ling-3.1-flash 的智能指数为 41、输出速度约为每秒 210 Token。针对本地部署，团队对 routed experts 采用 MXFP4 量化、dense 层保持 block-FP8，权重占用从约 534GB 降至 292GB。在对应的 Hopper GPU 测试配置中，服务部署由 8 卡降至 4 卡，让具备服务器级 G",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/700.htm"
+    },
+    {
+      "id": "3fa03df8-2d23-8164-abf3-e75f54e073d1",
+      "title": "保时捷发布 Mission S 概念车：定位高于 911，正开发新中置引擎超跑平台",
+      "summary": "IT之家 10 月 16 日消息，保时捷今天（10 月 16 日）在微博发布公告，宣布在纽约发布前瞻概念车 Mission S，首次展示品牌未来设计语言，并宣布将开发一款定位高于 911 的中置引擎超级跑车平台。美国当地时间 10 月 15 日在纽约皇后区一座可俯瞰曼哈顿天际线的码头上，保时捷举办专场活动，全球首发展示 Mission S 概念车。这里正是 1953 年保时捷 550 Spyder 首批照片的拍摄地；保时捷借此强调，其未来设计仍将延续品牌历史与跑车基因。Mission S 重新聚焦“驾驶者与车”的关系。外观采用低趴、宽体、中置引擎布局，保留了保时捷标志性的“鱼雷式”翼子板、圆润",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/699.htm"
+    },
+    {
+      "id": "3fa03df8-2d23-8128-b1a9-e33c5f453969",
+      "title": "谷歌在量子计算取得突破，“魔态培育”技术使 Willow 芯片错误率降低约 40 倍",
+      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，谷歌宣布其量子人工智能团队已通过实验证实、攻克了量子计算的一个核心瓶颈：在 Willow 量子芯片上成功验证了一项名为“魔态培育（Magic State Cultivation）”技术的实用可行性，与未采用该技术相比，将量子计算错误率降低了约 40 倍。相关研究成果已发表于《科学》期刊。据介绍，要实现“通用量子计算”并运行实际程序，系统必须能够执行特定的量子操作集并完成量子纠错。这一目标可以通过预先制备所谓的“魔态（Magic States）”来实现；它们之所以得名“魔态”，正是因为能协助构建超越经典计算极限的核心操作。但制备高质",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/698.htm"
+    },
+    {
+      "id": "3fa03df8-2d23-8145-8d86-d012cfa2200c",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+    },
+    {
+      "id": "3fa03df8-2d23-813f-83d5-c9682aa63087",
+      "title": "对抗超级细菌新武器：谷歌 Antigravity 用 AI 加速抗菌肽发现",
+      "summary": "IT之家 10 月 16 日消息，当前抗生素耐药性问题不断加剧，全球迫切需要新型抗生素，但新药研发往往缓慢且过程繁琐。谷歌推出的 Google Antigravity 智能开发平台，能够有效简化这一流程。Google Antigravity 提供了智能科学工作台，支持生物学家快速发现、结构评估和筛选潜在靶点，将原本需要跨多个数据库的分散搜索整合到单次会话中。该平台还借助 ProtNLM 模型，帮助研究人员扫描 UniProt 数据库中数百万未表征的蛋白质，该模型可直接从氨基酸序列预测生物功能。研究人员已经通过 Google Antigravity 发现了一种新型抗菌肽候选分子，预测其对呼吸道感",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/684.htm"
+    },
+    {
+      "id": "3fa03df8-2d23-814d-8e29-eca29f0cfcd4",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the mai",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled"
+    },
+    {
+      "id": "3fa03df8-2d23-81a1-b6a4-c6ef6802a6c4",
+      "title": "OpenAI's Dots head says AI means workers now have a choice between doing less or more",
+      "summary": "Alexander Embiricos, who leads OpenAI's enterprise product and Dots agent tool, said the AI era gives workers a choice: work more, or work less.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/openai-dots-head-ai-lets-workers-do-less-or-more-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-8105-9ab7-fc7989a6edad",
+      "title": "Jim Cramer says this week's AI sell-off offers a crucial lesson for investors",
+      "summary": "CNBC’s Jim Cramer said Thursday’s AI sell-off underscores the importance of owning stocks outside the market’s hottest trade.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-16",
+      "link": "https://www.cnbc.com/2026/10/15/jim-cramer-ai-stocks-diversification.html"
+    },
+    {
+      "id": "3fa03df8-2d23-8111-9ee6-c2ef451cad2c",
+      "title": "经典 JRPG《永恒传说》高清复刻版多平台发售，Steam 国区售价 138 元起",
+      "summary": "IT之家 10 月 16 日消息，万代南梦宫经典日系 JRPG《Tales of Eternia Remastered》（《永恒传说》高清复刻版）正式发售，由 TOSE CO., LTD. 开发，万代南梦宫娱乐发行，这也是该作首次推出官方简体中文版本。该作现已登陆 PS5/PS4、Xbox Series X/S、任天堂 Switch / Switch 2 和 PC。IT之家附游戏商品页：Steam：https://store.steampowered.com/app/3470960/Tales_of_Eternia_Remastered/PlayStation：https://www.play",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/697.htm"
+    },
+    {
+      "id": "3fa03df8-2d23-81ce-9f7f-f9740cc265ff",
+      "title": "Steam 推出“成就集”新功能 Beta 测试，支持按 DLC / 玩法分类整理成就",
+      "summary": "IT之家 10 月 16 日消息，Valve 今日宣布开启 Steam “成就集（Steam Achievement Sets）”功能 Beta 测试，这是一项旨在优化平台成就体验的全新功能，解决后续 DLC、赛季更新添加成就后破坏玩家原有完成度的问题。官方表示，如今游戏的生命周期越来越长，会不断通过新 DLC、扩展包和赛季更新内容，但后续追加的成就往往难以被发现，还会意外打乱已通关玩家的完成状态。而“成就集”功能正是为解决这类问题设计，目前已在 Steam 客户端 Beta 版中开放测试，已有一批游戏抢先添加了支持。IT之家附 Steam 官方公告链接：https://store.steam",
+      "source": "IT之家",
+      "publishTime": "2026-10-16",
+      "link": "https://www.ithome.com/1/013/696.htm"
+    },
+    {
+      "id": "3fa03df8-2d23-816b-9c17-d30f242452cd",
+      "title": "Netflix is getting a new content chief after a stock slump and viewership struggles",
+      "summary": "Bela Bajaria, who has overseen Netflix's movies and shows, is leaving. Peter Rice, a former Fox and Disney executive, will take Bajaria's place.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/netflix-new-chief-content-officer-peter-rice-bela-bajaria-out-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-8112-a5a4-f11c740601be",
+      "title": "The tech backlash is now in theaters",
+      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabil",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial"
+    },
+    {
+      "id": "3fa03df8-2d23-8182-8ab1-ec4a7567c62b",
+      "title": "Apollo is delaying its junior talent recruiting cycle again — pushing the industry to abandon its chaotic ritual",
+      "summary": "Apollo slowed down private equity's controversial investment banker recruiting process last year, and now, it's looking to do so again.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/apollo-delaying-on-cycle-recruiting-private-equity-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-813a-9118-ddf8e200f6af",
+      "title": "Nick Wingfield Promoted to Co-Executive Editor of The Information",
+      "summary": "I am thrilled to announce three major editorial promotions for Nick, Abe and Meredith, along with some changes that recognize the incredible work of our newsroom and set the stage for more growth in what is shaping up to be the most exciting time in our history. Nick Wingfield has been promoted to E",
+      "source": "The Information",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theinformation.com/articles/nick-wingfield-promoted-co-executive-editor-information"
+    },
+    {
+      "id": "3fa03df8-2d23-8195-9c85-f0e193a14cbe",
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "source": "Wired",
+      "publishTime": "2026-10-16",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/"
+    },
+    {
+      "id": "3fa03df8-2d23-8174-860a-d1064d00f230",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector a",
+      "source": "The Verge",
+      "publishTime": "2026-10-16",
+      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"
+    },
+    {
+      "id": "3fa03df8-2d23-817d-bf27-fe1dbd7873eb",
+      "title": "How Scientology actually works, according to a former Scientologist",
+      "summary": "Jenna Miscavige is the niece of David Miscavige, the leader of the Church of Scientology. She was raised as a Scientologist and left when she was 22.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/how-scientology-actually-works-according-to-former-scientologist-jenna-miscavige-2026-10"
+    },
+    {
+      "id": "3fa03df8-2d23-81ab-a8f7-f0ef671fb1cb",
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "source": "Wired",
+      "publishTime": "2026-10-16",
+      "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/"
+    },
+    {
+      "id": "3fa03df8-2d23-81ef-bd23-cbed3cdbc3c0",
+      "title": "Katie Zacharia defends calling herself a lawyer in new interview",
+      "summary": "White House press secretary Katie Zacharia went on the record Thursday, saying she considered the results of her bar exam \"inconsequential.\"",
+      "source": "Business Insider",
+      "publishTime": "2026-10-16",
+      "link": "https://www.businessinsider.com/kate-zacharia-bar-exam-results-interview-lawyer-label-explanation-2026-10"
+    },
     {
       "id": "3fa03df8-2d23-81a2-a1f1-c6d67eef5526",
       "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
@@ -8,6 +192,14 @@
       "source": "TechCrunch",
       "publishTime": "2026-10-16",
       "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/"
+    },
+    {
+      "id": "3fa03df8-2d23-8191-bcff-ea052cd13f01",
+      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
+      "summary": "The company is also engaged in early-stage discussions with other organizations, including Hugging Face.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-16",
+      "link": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html"
     },
     {
       "id": "3fa03df8-2d23-817d-8f12-fba5def66b7c",
@@ -208,198 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-10-16",
       "link": "https://www.businessinsider.com/ai-employee-spies-targets-jokes-memes-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-81ff-8e7a-da47119ab8ae",
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-16",
-      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"
-    },
-    {
-      "id": "3fa03df8-2d23-8192-97dc-c75efe99d0d6",
-      "title": "Anduril CEO defends Trump administration contracts: 'We've done incredibly well under Biden'",
-      "summary": "Anduril CEO Brian Schimpf says contracts are won 'on the merits' amid ethics questions over co-founder Palmer Luckey's Pentagon role",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-16",
-      "link": "https://www.cnbc.com/2026/10/15/anduril-ceo-contracts-palmer-luckey-ethics.html"
-    },
-    {
-      "id": "3fa03df8-2d23-8151-8435-c202017ec1e5",
-      "title": "How Hollywood mogul Tyler Perry makes and spends his $1.4 billion fortune",
-      "summary": "Tyler Perry is the creator of the popular Madea franchise and owns a sprawling movie studio in Atlanta.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/how-billionaire-tyler-perry-makes-and-spends-his-fortune-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-81cb-8a9d-c6c29330a0da",
-      "title": "I explored an abandoned resort town in the Great Smoky Mountains, where the wealthy vacationed a century ago",
-      "summary": "Elkmont Historic District was once a Tennessee ghost town. Now, 16 cabins have been preserved and restored, and are open to the public. Take a look.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/great-smoky-mountains-elkmont-ghost-town-tour"
-    },
-    {
-      "id": "3fa03df8-2d23-81bf-992b-c4fae90637f3",
-      "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
-      "summary": "Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2,999.99 Walkman NW-WM1AM3, which is nearly identical to the WM1ZM3, just minus t",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player"
-    },
-    {
-      "id": "3fa03df8-2d23-8129-a2fd-c0aff496479b",
-      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-16",
-      "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/"
-    },
-    {
-      "id": "3fa03df8-2d23-81a6-bdcf-da7b5a8d0895",
-      "title": "Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off",
-      "summary": "The Alienware AW3426DW is discounted to $742.22 at Amazon, just over $50 off its usual price of $799.99. It’s not quite the lowest price we’ve seen on this well-equipped gaming monitor, but still a decent discount. The 34-inch screen just came out a couple months ago, and is equipped with Penta Tand",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale"
-    },
-    {
-      "id": "3fa03df8-2d23-818a-b234-c239ce11da24",
-      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
-      "summary": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Drivin",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban"
-    },
-    {
-      "id": "3fa03df8-2d23-81f0-a538-f460d2113867",
-      "title": "Google is making inline links more prominent in AI responses",
-      "summary": "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but there are concerns t",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links"
-    },
-    {
-      "id": "3fa03df8-2d23-813a-925c-ecb5557e8bd1",
-      "title": "Sony’s WH-1000XM6 headphones are $130 off today only",
-      "summary": "If you missed out on Prime Day’s headphones deals, you’re in luck. Sony’s latest flagship headphones are selling for even less than they did during Amazon’s big fall sale. As part of B&H Photo’s Deals of the Day, you can currently pick up Sony’s WH-1000XM6 noise-canceling headphones in silver for ju",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale"
-    },
-    {
-      "id": "3fa03df8-2d23-81cf-952f-cf3b79bc58e6",
-      "title": "Prince Harry and Meghan Markle returned to Nottingham, where they made their royal debut in 2017. Here's how the visits compare.",
-      "summary": "Prince Harry and Meghan Markle made their first joint appearance since moving back to the UK. It was strikingly similar to their 2017 royal debut.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/prince-harry-meghan-markle-nottingham-visit-photos-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-8102-9efe-d2df50b253cc",
-      "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM",
-      "summary": "Trump's newly installed press secretary tells WIRED that in the early 2010s, she promoted a product for a company then called Beachbody, which she described as “sort of a pyramid scheme.”",
-      "source": "Wired",
-      "publishTime": "2026-10-16",
-      "link": "https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/"
-    },
-    {
-      "id": "3fa03df8-2d23-8137-bc53-e238a26a5985",
-      "title": "A cyberattack in France set my supermarket freezers to 122F. Losing $112,000 in food was heartbreaking.",
-      "summary": "Julien Fréret, the director of an Intermarché in France, says a cyberattack overheated its fridges, forcing him to throw away over $100,000 in food.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/france-supermarket-cyberattack-refrigerator-hack-grocer-heartbroken-food-losses-intermarche-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-81ca-9cb7-e0ab50266173",
-      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
-      "summary": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-16",
-      "link": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html"
-    },
-    {
-      "id": "3fa03df8-2d23-8177-b3f1-dd3b2e8046b9",
-      "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
-      "summary": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-16",
-      "link": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html"
-    },
-    {
-      "id": "3fa03df8-2d23-816c-9521-ff4e153294cc",
-      "title": "The 25 college majors that may be safest from AI, ranked",
-      "summary": "AI is changing the job market. But a recent study found that education and healthcare fields are among the least affected by AI.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/college-majors-safest-from-ai-ranked"
-    },
-    {
-      "id": "3fa03df8-2d23-81bf-b492-db0793d47a66",
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-16",
-      "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html"
-    },
-    {
-      "id": "3fa03df8-2d23-815b-b2fa-fcc4bbd9738a",
-      "title": "消息称苹果已发出 10 月 28 日邀请函，首款触屏 MacBook、iPad mini 8、M6 Mac 即将到来",
-      "summary": "IT之家 10 月 16 日消息，苹果在 10 月的第二波新品有望 10 月 28 日到来，彭博社记者 Mark Gurman 于 10 月 15 日爆料称，苹果正邀请部分媒体参加 10 月 28 日在美国洛杉矶举办的产品发布会，预计推出触摸屏 MacBook、iPad mini 新品、M6 Mac。在活动方式方面，Gurman 曾爆料称本次活动不会采用传统苹果发布会的现场直播形式，主要面向内容创作者，会设置产品体验环节，形式类似苹果于 10 月 13 日在纽约举办的活动。IT之家获悉，产品方面，Gurman 预估苹果公司会在本次活动中推出 4 款设备：14 英寸的 MacBook Pro16",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/687.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-8160-a15c-d73d10f647e7",
-      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-      "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-16",
-      "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/"
-    },
-    {
-      "id": "3fa03df8-2d23-81f4-b35e-ddd36a338848",
-      "title": "华为余承东就“三部门联合调查刹车踏板支架断裂问题”表态：正义可能会迟到，但永远不会缺席！",
-      "summary": "IT之家 10 月 16 日消息，据多位博主分享的截图，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东转发了尊界汽车声明，表态称：正义可能会迟到，但永远不会缺席！据IT之家昨晚报道，针对网络反映的“尊界 V800 汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。随后，尊界汽车官方微博发布声明，宣布将积极响应、完全服从并将全力配合联合调查组的工作。10 月 15 日，工信部等三部门发布了联合调查有关车辆刹车踏板支架断裂问题的通报。我们积极响应、完全服从并将全力配合联合调",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/686.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-81a7-bfed-e5f7eebf9649",
-      "title": "动视看好《GTA 6》提振市场，让更多玩家回归游戏、带动《使命召唤：现代战争 4》销量表现",
-      "summary": "IT之家 10 月 16 日消息，动视认为，《GTA 6》的推出有望带动《使命召唤》系列的表现，而非挤压其市场空间。动视首席营销官泰勒 · 巴尔（Tyler Bahl）表示，《GTA 6》和《使命召唤》将是 2026 年规模最大的两款游戏之一，前者带来的玩家回流和游戏行业关注度提升，有望为《现代战争 4》创造更多机会。巴尔当地时间 10 月 15 日在接受 The Game Business 采访时，被问及《GTA 6》与《塞尔达传说：时之笛》重制版于 11 月同期推出，是否会挤压市场，分散玩家对《使命召唤》的关注。巴尔表示，《GTA 6》带来的关注度不一定会对《使命召唤》造成负面影响。他认为",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/685.htm"
-    },
-    {
-      "id": "3fa03df8-2d23-8131-8882-e73b3edeaf09",
-      "title": "Friends don&#8217;t let friends feed their data to AI agents",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up y",
-      "source": "The Verge",
-      "publishTime": "2026-10-16",
-      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent"
-    },
-    {
-      "id": "3fa03df8-2d23-811e-b21b-d12d43b2d856",
-      "title": "My niece and nephew have kept me in my home city. They're also why I'm deciding to leave.",
-      "summary": "After living in New York City, I moved back home temporarily. Five years later, I'm returning, though I'm worried about leaving my niece and nephew.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-16",
-      "link": "https://www.businessinsider.com/want-to-leave-home-city-but-will-miss-niece-nephew-2026-10"
-    },
-    {
-      "id": "3fa03df8-2d23-8160-8d3c-e64e95614c51",
-      "title": "苹果营销主管谈 OpenAI 硬件：我们没感到有威胁，相比追逐 AGI 更重视用户隐私与日常使用体验",
-      "summary": "IT之家 10 月 16 日消息，除了苹果 CEO 约翰・特努斯（John Ternus）之外，《时代》今日还采访到了苹果全球营销高级副总裁格雷格・乔斯维亚克（Greg Joswiak）。当谈及 OpenAI 的硬件计划时，他表示，苹果并不担心 OpenAI 进军硬件领域带来的竞争。“我们并未感受到威胁。我们能够实现这样的软硬件整合，这意味着我们可以创造比其他任何人都更好的体验。”乔斯维亚克还谈到了苹果对人工智能产品的定位。他表示，苹果并不是专门为那些执着于追求超级智能的 AI 爱好者开发产品。“我们欢迎他们使用我们的产品，但他们不是我们的目标用户。我们的目标是让普通人的日常生活变得更好。”《",
-      "source": "IT之家",
-      "publishTime": "2026-10-16",
-      "link": "https://www.ithome.com/1/013/683.htm"
     }
   ],
   "macroEvents": [
