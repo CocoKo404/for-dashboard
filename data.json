@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-10-23 02:41",
+  "updatedAt": "2026-10-23 06:35",
   "news": [
     {
-      "id": "40103df8-2d23-812d-b36c-e19d3b26be5c",
-      "title": "AMD 复活锐龙 7 5800X3D 处理器，源于苏姿丰亲自提议",
-      "summary": "IT之家 10 月 22 日消息，日媒 MyNavi Tech+ 本周采访 AMD 客户端产品经理特拉维斯 · 基尔什（Travis Kirsch）。他提到，公司今年早些时候让 Socket AM4 平台的锐龙 7 5800X3D 重返市场，其实源于 CEO 苏姿丰的提议。IT之家注意到，这名产品经理表示，公司推出锐龙 7 5800X3D 十周年纪念版处理器，是向仍在使用 AM4 平台的忠实用户献上告别礼物。由于 DDR5 内存价格大幅上涨，不少用户仍选用支持 DDR4 的平台。AMD 希望这款产品能帮助用户顺利走完过渡期，锐龙 7 5800X3D 的游戏性能仍可满足当下需求，部分主板厂商也跟",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/706.htm"
-    },
-    {
-      "id": "40103df8-2d23-81f3-b05a-d7dc71175517",
-      "title": "多个 Linux 内核漏洞被误公开，部分漏洞 CVSS 评分达 9.0",
-      "summary": "IT之家 10 月 22 日消息，据 Phoronix 今日报道，似乎是出于偶然，Trend Micro 旗下零日漏洞计划（ZDI）提交的多份新的 Linux 内核漏洞报告被发布到了公开的 Linux 内核邮件列表（LKML）中。截至IT之家发稿，部分问题尚未合入 Linux 主线内核，已有修复方案处于测试或候选分支中。此次涉及的漏洞分布在 Linux 内核多个子系统，影响范围包括网络通信、文件共享、虚拟化图形驱动和存储服务等。其中，SMB Direct 相关漏洞 ZDI-CAN-33549 与 KSMBD 相关漏洞 ZDI-CAN-33774 的 CVSS 评分均为 9.0，存在导致远程代码",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/705.htm"
-    },
-    {
-      "id": "40103df8-2d23-815f-9677-f377615d6a0a",
-      "title": "《广播电视和网络视听“十五五”规划》印发：到 2030 年，广电媒体全面挺进互联网主战场",
-      "summary": "IT之家 10 月 22 日消息，今日，国家广播电视总局印发《广播电视和网络视听“十五五”规划》（以下简称《规划》）。《规划》统筹广播电视网、交互式网络电视（IPTV）、互联网电视（OTT）和公众互联网四个业务层次，锚定“巩固提升广播电视、创新发展网络视听、融合聚合形成合力”三大工作方向，发挥“新闻 + 文艺”“内容 + 网络”的综合优势，推动广电视听行业改革突破、迭代升级。IT之家注意到，《规划》提出，到 2030 年，广电视听改革创新取得重大突破，广电媒体全面挺进互联网主战场，广电视听有力服务经济社会发展，形成广播电视和网络视听统筹发展新格局。到 2035 年，广电视听数智化转型、高质量发",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/704.htm"
-    },
-    {
-      "id": "40103df8-2d23-8171-bc5b-c5581a601973",
-      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
-      "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-22",
-      "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/"
-    },
-    {
-      "id": "40103df8-2d23-8113-8cfe-f4ac91d4b8e3",
-      "title": "Utopai Becomes a Unicorn as Video AI Takes Off",
-      "summary": "While much of the AI industry has fixated on new personal AI assistants from Meta and OpenAI, video AI is enjoying a quiet renaissance. Hollywood mogul Jeffrey Katzenberg is teaming up with the former head of OpenAI’s Sora app to launch a new AI film company. Startup Higgsfield quadrupled its valuat",
-      "source": "The Information",
-      "publishTime": "2026-10-22",
-      "link": "https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes"
-    },
-    {
-      "id": "40103df8-2d23-8119-9545-e6f598063fe3",
-      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is […",
+      "id": "40103df8-2d23-8163-af7f-c52218f91533",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precis",
       "source": "The Verge",
-      "publishTime": "2026-10-22",
-      "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation"
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
     },
     {
-      "id": "40103df8-2d23-816e-a107-e61937708db6",
-      "title": "尽管评价褒贬不一，《漫威金刚狼》仍成美国 9 月最畅销新游戏",
-      "summary": "IT之家 10 月 22 日消息，据游戏媒体 Eurogamer 今天报道，尽管《漫威金刚狼》的媒体评分并不理想，但这款由失眠组打造的游戏，依然登顶美国 9 月新游销量榜。市场分析机构 Circana 数据显示，《漫威金刚狼》已经成为美国 9 月最畅销新游戏。该游戏首发当月的销售额，创下索尼自 2024 年 2 月发行《绝地潜兵 2》以来旗下游戏的最高纪录。不过需要注意的是，将《漫威金刚狼》销售额与《绝地潜兵 2》对比有失偏颇。前者定价 70 美元（IT之家注：现汇率约合 468.3 元人民币），而后者仅 40 美元（现汇率约合 267.6 元人民币）。《漫威金刚狼》似乎也推动了 PS5 主机",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/703.htm"
-    },
-    {
-      "id": "40103df8-2d23-81c0-8da3-c342da62faad",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-22",
-      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
-    },
-    {
-      "id": "40103df8-2d23-8126-bad5-db3cfb3e863f",
-      "title": "AMD 为下一代 Medusa APU 提前铺路，HIP-RT 3.2.0 新增三款 GPU 目标",
-      "summary": "IT之家 10 月 22 日消息，Phoronix 发现，AMD 已发布 HIP-RT 3.2.0 光线追踪库更新，为下一代 Medusa APU 添加了 GPU 支持，包括 GFX1170、GFX1171 和 GFX115E 三款。这些标识对应的集成 GPU 被认为将采用 AMD RDNA 4m 与 RDNA 3.5 等不同架构，不过 AMD 尚未在此次更新说明中公布相关 GPU 的完整规格。HIP-RT 是 AMD 面向 HIP 平台的光线追踪库，可供 Blender 等跨平台软件使用。此次 3.2.0 更新也是该项目自 2026 年初以来的一次重要版本更新，除新增硬件支持外，还包含性能优",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/702.htm"
-    },
-    {
-      "id": "40103df8-2d23-8127-b513-e559635e8267",
-      "title": "魅族 22 手机再补货，粉色、白色额外加享至高 450 元以旧换新补贴",
-      "summary": "IT之家 10 月 22 日消息，魅族科技官方今日宣布，魅族 22 手机现已补货开售，部分地区享 15% 国补。同时，该机的粉色、白色额外加享至高 450 元以旧换新补贴。京东魅族（meizu）223299 元起直达链接据IT之家此前报道，魅族 22 手机于去年 9 月 15 日发布，该机搭载第四代骁龙 8s 处理器、配备 1.5K 高刷无界屏（0.8mm 四等边“独白”面板）、采用 5000 万像素广角 + 5000 万像素 3 倍潜望长焦 + 5000 万像素超广角 + 5000 万像素前置镜头组合，定价 2999 元起。今年 2 月 27 日，魅族科技发布战略转型公告，宣布将暂停国内手机",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/701.htm"
-    },
-    {
-      "id": "40103df8-2d23-814b-9063-e91cfabe37b0",
-      "title": "The US Army is making a new $700 million bet on AI that helps soldiers turn battlefield intelligence into targets",
-      "summary": "The contract is a tenfold increase of the Army and Striveworks' previous $70 million contract and will expand AI use across units and missions.",
+      "id": "40103df8-2d23-8180-85c3-fb90fbd2a0f6",
+      "title": "My kids used to complain on every trail. These 4 changes made family hiking fun again.",
+      "summary": "Hiking with young kids stopped feeling like a chore when I quit expecting them to hike like adults. Now we enjoy our forest adventures.",
       "source": "Business Insider",
-      "publishTime": "2026-10-22",
-      "link": "https://www.businessinsider.com/us-army-making-a-big-bet-ai-battlefield-decision-making-2026-10"
+      "publishTime": "2026-10-23",
+      "link": "https://www.businessinsider.com/how-to-enjoy-family-hiking-with-young-kids-easy-tips-2026-10"
     },
     {
-      "id": "40103df8-2d23-81f2-b697-d82e1440a8c7",
-      "title": "I spent $50,000 remodeling my kitchen. Here are the 5 smartest decisions I made — and one thing I wish I'd avoided.",
-      "summary": "I made smart investments and cost-saving choices while remodeling my kitchen last year for $50,000, but I regret the timing I chose for the project.",
+      "id": "40103df8-2d23-819b-8d88-fe7b8dec0b1c",
+      "title": "Meta's massive deal for Zuckerberg proves execs aren't exempt from IRL work",
+      "summary": "The tech giant's effort to dissuade its CEO from relocating reflects a common belief that the best work happens when everyone is together in person.",
       "source": "Business Insider",
-      "publishTime": "2026-10-22",
-      "link": "https://www.businessinsider.com/best-choices-renovating-kitchen-regret-mistakes-budget-2026-10"
+      "publishTime": "2026-10-23",
+      "link": "https://www.businessinsider.com/meta-board-zuckerberg-california-office-rto-2026-10"
     },
     {
-      "id": "40103df8-2d23-8143-95f6-c0e8402e2f31",
-      "title": "苹果宣布为 Apple TV 上的 F1 赛事支持杜比全景声，美国大奖赛率先上线",
-      "summary": "IT之家 10 月 22 日消息，苹果刚刚宣布，从 2026 年美国大奖赛开始，美国地区 Apple TV 服务将为 F1 赛事提供杜比全景声（Dolby Atmos）音频支持（涵盖车队无线电通信、赛事解说、赛车引擎声和维修区现场声音等）。美国大奖赛将于当地时间 10 月 23 日至 25 日在得克萨斯州奥斯汀的美洲赛道举行，这也将成为 Apple TV 首场支持杜比全景声直播的 F1 比赛。苹果发布公告称，杜比全景声将与此前已支持的杜比视界（Dolby Vision）结合，为观众提供空间音频和高动态范围画面。观众可以通过兼容的苹果设备，以及支持杜比技术的电视、条形音箱和家庭影院系统观看赛事。",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/700.htm"
-    },
-    {
-      "id": "40103df8-2d23-8109-8991-f89a3ecd4cd6",
-      "title": "I survived cancer 19 years ago. I still wake up at 3 a.m., wondering if it's back.",
-      "summary": "I've survived cancer for 19 years, but I still struggle with anxiety about recurrence. Clear scans haven't erased the fear.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-22",
-      "link": "https://www.businessinsider.com/long-term-cancer-survivor-emotional-recovery-anxiety-2026-10"
-    },
-    {
-      "id": "40103df8-2d23-8198-a0d3-e05a97de2786",
-      "title": "微信安卓版 8.0.80 最新官方内测版下载发布",
-      "summary": "IT之家 10 月 22 日消息，微信安卓平台迎来了 8.0.80 测试版更新，本次更新安装包文件详细信息如下： 微信安卓内测版 8.0.80 (ARM64) 安装包 文件大小 272.33 MB 更新时间 2026-10-22 20:46 MD5 80bbd112d4eaea1e204d22fe4cef318b 目标 API 34 最低支持 24 (Android 7.0) 官方更新日志为：优化了一些已知问题. 大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/699.htm"
-    },
-    {
-      "id": "40103df8-2d23-8134-9fc2-ea3a9e9169ef",
-      "title": "小鹏汽车 00 后美女产品经理为 MONA L05 发布会上“老登”用词道歉：本意是玩笑，承认让人不适",
-      "summary": "IT之家 10 月 22 日消息，因为在小鹏 MONA L05 首秀发布会上多次使用“老登”这一称呼，还呼吁大家拒绝“登味审美”，小鹏汽车 00 后产品经理恩塔 Etta 今日发布道歉视频。她在视频中解释称，“老登”是自己和团队成员平时用来开玩笑的词，并非恶意，但该词确实让部分人感到不适，对此表示抱歉，并称会认真反思。此次争议言论发生在 10 月 15 日的小鹏 MONA L05 预售发布会上，何小鹏当时在巴黎连线后将舞台交给年轻产品团队，Etta 登台讲解时风格活泼，因形象出众被网友称为“最美产品经理”。实际上，这场发布会的设计本身带有明确的传播意图。据小鹏介绍，MONA 产品团队中 95 ",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/698.htm"
-    },
-    {
-      "id": "40103df8-2d23-819d-8e13-f29f0300714b",
-      "title": "甲骨文发布 Java SE 高危漏洞安全警报，用户应尽快升级",
-      "summary": "IT之家 10 月 22 日消息，甲骨文公司今日发布安全通报，披露编号为 CVE-2026-91403 的高危安全漏洞。影响 Oracle Java SE、Oracle GraalVM for JDK 和 Oracle GraalVM Enterprise Edition 软件，CVSS 3.1 评分为 9.1 分，可让黑客在无身份验证的情况下发起攻击。据官方公布数据，该漏洞涉及 Java 安全套接字扩展（IT之家注：JSSE）组件，攻击复杂度较低，无需任何权限，也不需要用户交互。若漏洞被成功利用，可能对系统机密性和完整性造成高等级影响，但不会影响系统可用性。同时攻击者可通过调用相关组件的 A",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/697.htm"
-    },
-    {
-      "id": "40103df8-2d23-8195-822a-cd6d7dbac7fa",
-      "title": "一加 Ace 7 Pro 官宣搭载第五代骁龙 8 至尊版，10 月 29 日发布",
-      "summary": "IT之家 10 月 22 日消息，一加手机今日官宣一加 Ace 7 Pro 搭载第五代骁龙 8 至尊版，全新一代「风驰游戏内核」出厂写入芯片底层。一加 Ace 7 系列搭载性能风冷系统，同时做到稳帧和低温，行业首创「双路冰河风冷系统」，号称有“三大核心技术”：双路出风架构，热风吹走，冷风吹手。芯片“开空调”，手指“吹风扇”。游戏显卡级塔式鳍片。采用与专业显卡和 PC 散热器相同的塔式鳍片结构，散热效率超高。智能控温系统。多一颗专属传感器，精准控制温度。IT之家注意到，一加 Ace 7 系列手机已在电商平台开启预约，预计有一加 Ace 7 与一加 Ace 7 Pro 两款新机。该机外观现已公布，",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/696.htm"
-    },
-    {
-      "id": "40103df8-2d23-8154-bc8b-dc30e8c4597e",
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-22",
-      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"
-    },
-    {
-      "id": "40103df8-2d23-81be-82dc-c5e71503d280",
-      "title": "Apple will label apps that are ‘Made for iPhone Duo’",
-      "summary": "Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new \"Made for iPhone Duo\" badge will appear across apps and games that work with the device's extra screen real estate. Though Apple doesn't include an image of what this badge might [",
+      "id": "40103df8-2d23-8183-8bce-f8461b200996",
+      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-yea",
       "source": "The Verge",
-      "publishTime": "2026-10-22",
-      "link": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store"
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram"
     },
     {
-      "id": "40103df8-2d23-8132-9af3-ee1b5d4f0f48",
-      "title": "The Atari VCS saga will come to an end next year when its software store closes",
-      "summary": "Following a decade long saga of delays, name changes, and Atari having to assure backers of a crowdfunding campaign that its retro console wasn't doomed, the Atari VCS platform is being retired early next year. On February 1st, 2027, the Atari VCS software store is shutting down, according to an ann",
+      "id": "40103df8-2d23-8189-98b1-e426ceb09558",
+      "title": "Fall 2026 earnings watch",
+      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies ",
       "source": "The Verge",
-      "publishTime": "2026-10-22",
-      "link": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027"
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch"
     },
     {
-      "id": "40103df8-2d23-819c-9b75-c547f593fabd",
-      "title": "卡普空 CAPCOM ID 系统遭未授权访问，超 1177 万条信息泄露",
-      "summary": "IT之家 10 月 22 日消息，日本游戏厂商卡普空今天宣布，由于未授权第三者访问，公司旗下会员服务“CAPCOM ID”共有 1177 万 4247 条信息在全球范围内泄露。卡普空表示，泄露客户信息包括电子邮件地址、账号创建时间、最后登录时间和登录次数等。其中 43 个账号涉及出生日期和昵称，另有 196 个账号的登录密码遭到篡改。密码和信用卡信息均未泄露，公司已重置受影响账号的密码。IT之家注意到，卡普空于 19 日发现了非法访问痕迹，随后确认此事发生。公司当天封锁了相关访问来源，并开始调查影响范围等情况。卡普空强调，公司已向警方和日本个人信息保护委员会报告，同时查明了攻击手段并采取紧急应",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/695.htm"
+      "id": "40103df8-2d23-81cf-a050-c22812ddc40f",
+      "title": "Here's how to protect your information from the PHP flaw, according to cybersecurity pros",
+      "summary": "Cybersecurity researchers say the PHP vulnerability has repercussions for normal people, too. They have some advice.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-23",
+      "link": "https://www.businessinsider.com/how-to-protect-information-php-issue-hackers-cybersecurity-2026-10"
     },
     {
-      "id": "40103df8-2d23-81ac-adc7-de2b843f54ba",
-      "title": "小米 REDMI Book 14 2027 笔记本“星云紫”亮相，10 月 27 日发布",
-      "summary": "IT之家 10 月 22 日消息，小米 REDMI Book 14 2027 笔记本全新「星云紫」亮相，新品采用金属材质、圆润 R 角设计。据此前官方预热，新品采用 72Wh 超大电池，真实办公续航模拟可达 20.2 小时。这款笔记本还将配备全新超级小爱 2.0，支持 AI 办公内容生成。可设置定时任务，一键 PPT 制作，办公更高效。同时该笔记本接入米家 App，可通过手机、平板远程开关机。IT之家注意到，该产品搭载第三代英特尔酷睿平台，外观焕新时尚多彩配色，质感全面升级，主打移动办公。其中，REDMI Book 14 机身左右两侧保留了双 USB-A 接口、双 USB-C 接口、HDMI ",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/691.htm"
+      "id": "40103df8-2d23-816a-81a1-db9657634b56",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-23",
+      "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/"
     },
     {
-      "id": "40103df8-2d23-81e2-93e2-c9eb6aa080a1",
-      "title": "酷态科 CP26 电能块「自带线」移动电源今日开售：2C+1A 支持 67W 输出，15000mAh、黑白双色售 149 元",
-      "summary": "IT之家 10 月 22 日消息，酷态科 CP26 电能块「自带线」移动电源今日正式开售，该产品采用 2C+1A 设计，配备 15000mAh 电芯，定价为 149 元。京东酷态科 CP26 电能块【2026 新国标 3C 认证可上飞机】充电宝自带线 15000 毫安时 67W 快充 AVS 适用苹果小米 149 元直达链接该产品尺寸为 158.5x67.5x32.5mm，重量 463g，提供月白与砚黑两种配色，电芯容量为 15000 mAh，正面配备了 LED 数显屏以显示实时电量。这款产品自带一根长度约为 13 cm 的 USB-C 67W 线，收纳时呈提手结构，便于用户携带。同时提供了 ",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/693.htm"
-    },
-    {
-      "id": "40103df8-2d23-8146-b530-c6c7f473bbcd",
-      "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
-      "summary": "Nvidia's Jensen Huang told CNBC that a surplus of memory supply is unlikely by 2029, as memory stocks have taken a beating in the past week.",
+      "id": "40103df8-2d23-817b-a38c-ddb645db6e03",
+      "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+      "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
       "source": "CNBC Tech",
-      "publishTime": "2026-10-22",
-      "link": "https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html"
+      "publishTime": "2026-10-23",
+      "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html"
     },
     {
-      "id": "40103df8-2d23-810d-8c69-fdf236271cc4",
-      "title": "腾讯张军：已有超过 10 万名老师申领 WorkBuddy 教育公益版，覆盖全国 1467 个城市 4.5 万所学校",
-      "summary": "IT之家 10 月 22 日消息，腾讯 SSV（可持续社会价值事业部）在 10 月 19 日宣布，WorkBuddy 教育公益版正式上线，面向全国教师开放。开通账号后，全国老师每人每月可领 2000 积分，能连续领 12 个月。不挑地区，不限学段。腾讯公司公关总监张军宣布，到今天，已经有超过 10 万名老师申领了 WorkBuddy 教育公益版，覆盖全国 1467 个城市 4.5 万所学校，积分正在陆续发放中。据介绍，腾讯 SSV 与 WorkBuddy 团队制作了专门给老师用的 AI 教学助理，联合北京大学、北京师范大学等高校，把教学设计、课件设计、公开课打磨、分层教学、家校沟通、学生心理这",
+      "id": "40103df8-2d23-81cd-9741-f913d99cdc50",
+      "title": "I'm a boomer who's not leaving my kids an inheritance. How do I break the news to them?",
+      "summary": "\"For Love & Money\" answers your relationship and money questions. This week, a reader asks how to tell their kids they aren't getting inheritances.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-23",
+      "link": "https://www.businessinsider.com/personal-finance/boomer-not-leaving-inheritance-how-to-tell-kids-2026-10"
+    },
+    {
+      "id": "40103df8-2d23-8148-91e1-c0e1d0258b3b",
+      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+      "summary": "OpenAI is close to finalizing a new funding round that is meant to be a bridge to its 2027 IPO, sources familiar with the matter tell CNBC.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-23",
+      "link": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html"
+    },
+    {
+      "id": "40103df8-2d23-81b1-be8a-c8440ef1b649",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [lang",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
+    },
+    {
+      "id": "40103df8-2d23-81dd-9590-f8d84f1e3b1a",
+      "title": "Professionals are spending thousands on workwear",
+      "summary": "The office dress code is changing, and for some professionals, workwear is becoming a serious investment.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-23",
+      "link": "https://www.businessinsider.com/professionals-are-spending-thousands-on-workwear-2026-10"
+    },
+    {
+      "id": "40103df8-2d23-816c-be65-df6d96601ec4",
+      "title": "These are the tech and product leaders who survived the Paramount-WBD merger — and the ones who are out",
+      "summary": "Skydance is consolidating its tech and product team as it decides who should stay on post-merger, a new memo reveals.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-23",
+      "link": "https://www.businessinsider.com/memo-reveals-staff-exits-paramount-wbd-merger-tech-product-2026-10"
+    },
+    {
+      "id": "40103df8-2d23-8179-a229-c491a4bb25ad",
+      "title": "Meta turns Muse sharing back on",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at C",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
+    },
+    {
+      "id": "40103df8-2d23-8105-a702-fb3d6eb2ca0c",
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surv",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"
+    },
+    {
+      "id": "40103df8-2d23-81b8-8795-e0ed0fae894c",
+      "title": "西部数据 2027 财年第一财季归母净利润 17.79 亿美元，同比增长 54%",
+      "summary": "IT之家 10 月 23 日消息，西部数据今日发布 2027 财年（2026年7月4日～2027年7月2日）第一财季（2026年7月4日～2026年10月2日）报告： 营业总收入：43.81 亿美元（IT之家注：现汇率约合 293.06 亿元人民币），同比增长 55%，环比增长 17% 毛利润：25.34 亿美元（现汇率约合 169.51 亿元人民币），同比增长 106.52%，环比增长 24.95% 毛利率：57.8%，同比增长 14.3 个百分点，环比增长 3.7 个百分点 归母净利润：17.79 亿美元（现汇率约合 119 亿元人民币），同比增长 54%，环比下降 44% 经营现金流：1",
       "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/690.htm"
+      "publishTime": "2026-10-23",
+      "link": "https://www.ithome.com/1/016/759.htm"
     },
     {
-      "id": "40103df8-2d23-8119-aaa5-f5267d1eb5b6",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-22",
-      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+      "id": "40103df8-2d23-817c-b881-cb85f20bd6e6",
+      "title": "Kevin O'Leary's data center company pushes back on the 'bragawatt' label",
+      "summary": "O'Leary Digital CEO Paul Palandjian defends its AI data center plans, saying Bernstein's skeptical analysis misses confidential work.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-23",
+      "link": "https://www.businessinsider.com/kevin-oleary-digital-ceo-ai-data-centers-bragawatts-bernstein-response-2026-10"
     },
     {
-      "id": "40103df8-2d23-81ff-9f3c-edb4586f6396",
-      "title": "何小鹏：L4 技术落地大概在 2028 年下半年，需要全体系软硬件一起开发",
-      "summary": "IT之家 10 月 22 日消息，据小鹏汽车官方今日分享，10 月 21 日至 23 日，2026 世界智能网联汽车大会（WICV）在北京亦庄举办。小鹏人形机器人、小鹏 G9L、小鹏 X9、小鹏 G7 等多款产品集中登场，展现在物理 AI 赛道的技术积累。10 月 21 日，何小鹏出席大会 \" 巅峰对话 \" 环节。就主持人“特斯拉 FSD 与小鹏 NGP 表现接近”的提问，小鹏集团董事长、CEO 何小鹏表示：面对欧洲复杂的路况 —— 狭窄的小路、占比很高的单行道，甚至六车道环线地下没有标线的场景、人车穿行等，要做到符合当地政策法规、安全和文化，是一件很困难的事情。为什么小鹏和特斯拉都能在法国开",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/685.htm"
-    },
-    {
-      "id": "40103df8-2d23-817d-9850-c43eb9d74a33",
-      "title": "徕卡锤纹新机曝光：M-11P 数码旁轴与 M-A 胶片旁轴齐发",
-      "summary": "IT之家 10 月 22 日消息，据消息源 LeicaRumors 昨日发文，徕卡计划推出 Hammertone 锤纹版 M-11P 数码旁轴相机和 M-A 胶片旁轴相机。IT之家了解到，徕卡早在今年春季就推出过 M-A 的锤纹限量版，纪念其日本银座旗舰店开业 20 周年，该机全球限量 100 台。不过新版机器据称将不限量，正面取消“20 周年”标识，金属的颜色也会略深一些。据悉，徕卡 M-A 是一台“回归摄影本质”的旁轴相机，整个机身完全没有任何电子元器件，过片、快门等操作完全使用机械驱动。相比 M-P 移除了测光表，因此无需电池即可使用。当然也没有自动曝光、自动对焦等现代功能。机械快门最快",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/686.htm"
-    },
-    {
-      "id": "40103df8-2d23-8191-a538-ec31e1300d54",
-      "title": "消息称华为获 150 亿元离岸贷款：自 2020 年以来首次获得离岸银团贷款",
-      "summary": "IT之家 10 月 22 日消息，彭博社今日报道称，华为已从六家中资银行获得一笔总额为 150 亿元的离岸银团贷款。这笔贷款期限为 7 年，以离岸人民币计价，资金将用于一般企业用途。参与贷款的银行包括中国银行、中国建设银行和中国工商银行等。知情人士透露，华为在最终确定贷款前，曾与国际银行进行初步接洽。华为及上述三家银行当时未立即回应置评请求。这是华为自 2020 年以来首次进行离岸银团贷款融资。根据彭博社汇总的数据，华为在 2020 年曾筹集 118 亿港元（IT之家注：现汇率约合 100.6 亿元人民币）贷款。2019 年之前，华为也曾通过由欧洲、美国和亚洲银行组成的银团，在国际市场进行数十",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/687.htm"
-    },
-    {
-      "id": "40103df8-2d23-814b-8def-d9fb27f022a4",
-      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "id": "40103df8-2d23-810e-8454-ce23763da718",
+      "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
+      "summary": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem.",
       "source": "Wired",
-      "publishTime": "2026-10-22",
-      "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/"
+      "publishTime": "2026-10-23",
+      "link": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/"
     },
     {
-      "id": "40103df8-2d23-816c-9eb5-ffab14639e06",
-      "title": "This startup raised $34 million to help security teams keep up with AI threats. Read the pitch deck.",
-      "summary": "Mave promises to reinvent companies' security operations with AI agents as cyberattacks accelerate. Read the pitch deck it used to raise its Series A.",
+      "id": "40103df8-2d23-8134-a6bc-e5257a0a46c2",
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-23",
+      "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/"
+    },
+    {
+      "id": "40103df8-2d23-8100-b7b3-d8d00539986e",
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-23",
+      "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/"
+    },
+    {
+      "id": "40103df8-2d23-813c-bd81-f62a632073b6",
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+      "source": "Wired",
+      "publishTime": "2026-10-23",
+      "link": "https://www.wired.com/story/aged-intelligence-society-interview/"
+    },
+    {
+      "id": "40103df8-2d23-8190-815a-fcd24224f8a5",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree ",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"
+    },
+    {
+      "id": "40103df8-2d23-8154-91d5-edccf5dcf706",
+      "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+      "summary": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require p",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp"
+    },
+    {
+      "id": "40103df8-2d23-81dd-b45a-e730587f8338",
+      "title": "Families are paying nearly $7,500 a year for health insurance. The next price hike is already looming.",
+      "summary": "Premiums for family health insurance plans were over $28,000 in 2026, and costs are likely only going up.",
       "source": "Business Insider",
-      "publishTime": "2026-10-22",
-      "link": "https://www.businessinsider.com/mave-startup-cybersecurity-funding-ai-agents-pitch-deck-2026-10"
+      "publishTime": "2026-10-23",
+      "link": "https://www.businessinsider.com/workers-paying-thousands-health-insurance-premiums-costs-going-up-2026-10"
     },
     {
-      "id": "40103df8-2d23-819e-b2b2-ce4bf658db56",
-      "title": "1Password lets AI agents use your passwords without seeing them",
-      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in req",
-      "source": "The Verge",
-      "publishTime": "2026-10-22",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
-    },
-    {
-      "id": "40103df8-2d23-81fe-a2b5-f0760e714e7a",
-      "title": "Birdbuddy’s budget feeder foiled my squirrels",
-      "summary": "Birdbuddy's next-generation smart bird feeders have finally arrived. After spending a few days with the BirdBuddy Nook (from $99) and longer with the flagship Birdbuddy Home ($219), there's a clear winner: The Nook is the perfect all-rounder, just the right blend of technology, nature, and value to ",
-      "source": "The Verge",
-      "publishTime": "2026-10-22",
-      "link": "https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on"
-    },
-    {
-      "id": "40103df8-2d23-8181-b3b2-cc8fe50f86dc",
-      "title": "Googlebooks just aren’t ready",
-      "summary": "EEvery Googlebook laptop we've tested so far has great hardware. The problem is the software. While Googlebook OS has exciting ideas for how a laptop and phone can work together, right now it's mostly a frustrating experience filled with annoying bugs and lackluster app support. It often feels like ",
-      "source": "The Verge",
-      "publishTime": "2026-10-22",
-      "link": "https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review"
-    },
-    {
-      "id": "40103df8-2d23-8146-8a1c-d7edafcefde3",
-      "title": "Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets",
-      "summary": "Birdbuddy is finally launching the new smart bird feeders it originally announced at CES 2026 earlier this year, but with new names. The Birdbuddy 2 Mini is now called the Birdbuddy Nook, and it is designed to be a smaller and more affordable option the company describes as its \"most accessible smar",
-      "source": "The Verge",
-      "publishTime": "2026-10-22",
-      "link": "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification"
-    },
-    {
-      "id": "40103df8-2d23-8107-a124-cba1877558ec",
-      "title": "Insta360 launches a cheaper version of its wireless mics with color screens",
-      "summary": "Following the launch of its wireless Mic Pro system last May featuring built-in color E Ink screens for custom branding and an array of three microphones to emulate different pickup patterns, Insta360 has announced a cheaper alternative that skips a few features many content creators might not miss.",
-      "source": "The Verge",
-      "publishTime": "2026-10-22",
-      "link": "https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen"
-    },
-    {
-      "id": "40103df8-2d23-81d3-8e07-cb0fa9b876fe",
-      "title": "439 元起影石 Insta360 Mic 发布，用 microSD 卡槽换掉 Mic Pro 的内置存储",
-      "summary": "IT之家 10 月 22 日消息，影石今晚发布了全新轻旗舰级无线麦克风 Insta360 Mic，单枚发射器售价 499 元，首发价 439 元。与今年 5 月发布的旗舰 Mic Pro 相比，这款新品的核心变化不在收音硬件，而在存储：Mic Pro 内置存储不可扩展，Mic 则将其替换为可插拔的 microSD 卡槽。据影石介绍，不插卡时，麦克风仍可通过蓝牙或接收器连接设备正常收音，内录功能不开启；插入 microSD 卡后，32-bit 浮点内录才被激活，录音文件直接写入用户自备的存储卡。对于已经为运动相机或无人机购置过多张 microSD 卡的用户，这相当于省去了一笔专用存储的重复投入。",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/684.htm"
-    },
-    {
-      "id": "40103df8-2d23-81db-83e4-dfdcac308014",
-      "title": "长安汽车董事长赵非：预计 2027 年行业实现 L3 级量产、2028 年实现 L4 级商业化运营",
-      "summary": "IT之家 10 月 22 日消息，10 月 21 日，2026 世界智能网联汽车大会在北京召开，中国长安汽车集团有限公司总经理、长安汽车股份有限公司董事长赵非出席并发表《AI 赋能 数智互联 共筑汽车产业新生态》主题演讲。对于智能网联汽车全球化发展趋势，赵非提出两大判断：一是在端侧物理 AI 领域，汽车将成为落地时间最近、渗透率提升最快、应用规模最大的载体。长安启源 Q06 上市首月城区领航版订单占比近 50%，预计 2027 年行业实现 L3 级量产、2028 年实现 L4 级商业化运营。二是汽车正向陆海空立体出行生态延伸，为产业发展开辟了新的增量空间。赵非强调，安全是智能网联汽车发展的根本",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/683.htm"
-    },
-    {
-      "id": "40103df8-2d23-819a-88b1-ea2a6a478bd9",
-      "title": "Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready",
-      "summary": "On Tesla's earnings call Wednesday, CEO Elon Musk announced that the company had begun early production of its humanoid robot on its high-volume line in Fremont, California. Then he laid out what still needs work: the robot's hands, its safety, reliability, and durability, and the artificial intelli",
-      "source": "The Verge",
-      "publishTime": "2026-10-22",
-      "link": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings"
-    },
-    {
-      "id": "40103df8-2d23-812e-b8bd-dd4cb1b93bd8",
-      "title": "OPPO Find X10 系列手机正式登陆全球超过 60 个国家和地区",
-      "summary": "IT之家 10 月 22 日消息，OPPO Find 系列产品负责人卓世杰宣布：今天起，OPPO Find X10 系列正式登陆全球超过 60 个国家和地区。据IT之家昨日报道，OPPO 在海外市场推出 Find X10 全球版机型，12GB+256GB 版本售价为 1,099 英镑（IT之家注：现汇率约合 9,834 元人民币） / 1,299 欧元（现汇率约合 9,749 元人民币）。OPPO Find X10 全球版配备 6.59 英寸 LTPO AMOLED 屏幕，分辨率为 2768×1272，边框宽度 0.99 毫米，支持 144Hz 高刷，HDR 峰值亮度可达 3600 尼特。该机",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/682.htm"
-    },
-    {
-      "id": "40103df8-2d23-8161-ab6f-fe40a770910b",
-      "title": "非官方支持地区用户反馈 Xperia 系统更新后无法使用 5G 网络，索尼尚未回应",
-      "summary": "IT之家 10 月 22 日消息，据 Android Authority 今日报道，索尼似乎通过 2026 年 6 月的固件更新限制了部分 Xperia 手机在非官方支持市场使用 5G 网络的能力。根据大量 Reddit 用户反馈，受影响设备包括 Xperia 1 V 及更新机型，涉及美国、加拿大、澳大利亚和多个欧洲国家地区。部分用户表示，更新后手机仍可使用 VoLTE，但无法再连接 5G 网络，此前通过切换双卡双待（DSDS）功能并重启手机来恢复 5G 功能的方法也已失效。索尼美国官网的 Xperia 1 V 软件更新记录显示，相关固件版本为 67.2.A.3.178，发布日期是 2026 ",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/681.htm"
-    },
-    {
-      "id": "40103df8-2d23-8102-ace8-e5fbfed7927e",
-      "title": "Meta investors will get free shares if Mark Zuckerberg hits 'extraordinary' targets",
-      "summary": "Meta stockholders will receive a dividend every time the stock doubles and has compounded by at least 10% a year.",
+      "id": "40103df8-2d23-81a1-9f87-e49741b0391b",
+      "title": "Small businesses are getting clobbered by health insurance costs for their employees",
+      "summary": "Health insurance costs have risen for small business workers, who face higher family coverage costs and fewer plan choices than larger firms.",
       "source": "Business Insider",
-      "publishTime": "2026-10-22",
-      "link": "https://www.businessinsider.com/meta-stock-price-share-dividend-mark-zuckerberg-california-billionaire-tax-2026-10"
+      "publishTime": "2026-10-23",
+      "link": "https://www.businessinsider.com/small-businesses-health-insurance-costs-work-benefits-retirement-2026-10"
     },
     {
-      "id": "40103df8-2d23-8190-ae52-d24ae97e4858",
-      "title": "I visited Utah in the winter for the first time and made 4 mistakes I won't repeat",
-      "summary": "From Salt Lake City to Park City, I spent three days exploring Utah's Silicon Slopes in winter. I made mistakes when booking, packing, and spending.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-22",
-      "link": "https://www.businessinsider.com/park-city-salt-lake-city-utah-travel-mistakes-to-avoid-2026-10"
+      "id": "40103df8-2d23-819d-81a7-f4d0e2ef7fce",
+      "title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
+      "summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024. Bu",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas"
     },
     {
-      "id": "40103df8-2d23-814b-9c9c-d52b617a222b",
-      "title": "I make my kids skip school for a long weekend. I wish they had personal days so they didn't stress over it.",
-      "summary": "We take our kids to the Catskills every fall for a long weekend. Making up the schoolwork after missing just a day can be daunting.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-22",
-      "link": "https://www.businessinsider.com/family-travel-kids-school-weekend-trip-stress-2026-10"
+      "id": "40103df8-2d23-810c-bb22-ed853070beca",
+      "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+      "summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Man",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada"
     },
     {
-      "id": "40103df8-2d23-8100-ad10-ec72e6a8b619",
-      "title": "《战狗》为打击作弊限制跨区匹配：游戏延迟超 175ms 则受限制，部分玩家威胁退款",
-      "summary": "IT之家 10 月 22 日消息，前段时间爆火的第一人称射击游戏《战狗》（Wardogs）开发商 Bulkhead 正在逐步实施跨地区匹配限制，希望借此减少作弊行为。该工作室表示，此举旨在保护尽可能多的玩家，避免作弊较严重地区的玩家对其他地区玩家的游戏体验造成影响。不过，这项措施也引发了部分玩家的不满，部分玩家甚至抗议表示将申请退款。目前，《战狗》采用的地区限制方案以网络延迟为依据，将玩家的最高允许延迟限制在 175 毫秒。超过这一阈值的玩家将受到跨地区游戏限制。Bulkhead 表示，相关功能正在服务器后台逐步实施，但要达到预期效果，还需要进一步调整。Bulkhead 称，团队原本希望通过更",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/677.htm"
+      "id": "40103df8-2d23-813c-b97e-dcef8dca2106",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-23",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
     },
     {
-      "id": "40103df8-2d23-8197-994b-f2dbe73ac3c7",
-      "title": "比亚迪腾势 N8 宽五座 SUV 定档 10 月 26 日开启小订，11 月正式上市",
-      "summary": "IT之家 10 月 22 日消息，比亚迪腾势汽车总经理李慧今日宣布，腾势 N8“科技新境宽五座 SUV”将于 10 月 26 日开启小订，11 月正式上市。据IT之家此前报道，比亚迪腾势汽车在 10 月 10 日公布了腾势 N8 三大全新车色 ——“极光绿”、“深空蓝”和“日光橙”。腾势 N8 是一款大五座纯电 SUV，新车长 5150mm、宽 1999mm、高 1820mm，轴距 3075mm；搭载第二代刀片电池及闪充技术，纯电续航可达 1003km。工信部申报信息显示，腾势 N8 有单电机版（320kw）、高性能单电机版（370kw）和三电机版（270/310/310kw）三个版本可选。腾",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/676.htm"
+      "id": "40103df8-2d23-814b-864f-d9c644f124c0",
+      "title": "Inside the Exclusive Nathan Fielder Interview",
+      "summary": "This week on “Uncanny Valley,” we go behind the scenes of our Nathan Fielder cover story, unpack tech billionaires’ generous promises, and discuss the suspicious letters sent to US election offices.",
+      "source": "Wired",
+      "publishTime": "2026-10-23",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/"
     },
     {
-      "id": "40103df8-2d23-81db-acde-e436d232ee45",
-      "title": "小米米家热敷坐姿垫开启众筹：支持久坐提醒、三挡恒温，179 元",
-      "summary": "IT之家 10 月 22 日消息，米家热敷坐姿垫现已上架在小米有品开启众筹，支持久坐提醒、三挡恒温，活动时间为 10 月 21 日 10 点-10 月 28 日 10 点，众筹价 179 元（点击前往）。IT之家从商品页面获悉，新品依据人体工学设计，环背、撑腰、裹臀、托腿四位一体，产品适配腰背曲线。新品配备红外感应组件，智能感知久坐状态，适时贴心提醒。新品搭载 NTC 智能温控技术，实时精准控温，3 挡温感，随心调节。无线 / 有线自由切换随时随地，无线模式不受电源线和插座位置的限制，使用更灵活。产品优选高韧性尼龙材质，一体成型，强支撑，高回弹，耐弯折；精选高品质回弹记忆棉，通过 50000 ",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/674.htm"
+      "id": "40103df8-2d23-8112-8c24-d8598d6778b0",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-23",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
     },
     {
-      "id": "40103df8-2d23-8126-87c2-c7816e0df3ed",
-      "title": "Why governments pulled websites offline over the decades-old PHP programming language",
-      "summary": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
+      "id": "40103df8-2d23-813a-9232-fedd251c3492",
+      "title": "Canva releases its first image generation model",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-23",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+    },
+    {
+      "id": "40103df8-2d23-8181-a119-f2191f9caa1f",
+      "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+      "summary": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
       "source": "CNBC Tech",
-      "publishTime": "2026-10-22",
-      "link": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html"
+      "publishTime": "2026-10-23",
+      "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html"
     },
     {
-      "id": "40103df8-2d23-8113-b742-c0dc6f137028",
-      "title": "比亚迪第三代唐预扣提车价曝光：后驱激光尊荣型 22.5 万元，四季度上市",
-      "summary": "IT之家 10 月 22 日消息，博主 @迪粉之家 今日曝光了一份关于比亚迪第三代唐的经销商预扣款：850km 后驱激光尊荣型预扣款 22.5 万元，850km 后驱激光旗舰型 24 万元。四驱版本尚未开启采购通道，正式售价仍需等待官方发布。IT之家注：预扣款是经销商向厂家打款的内部结算参考，不等于最终指导价，但通常与上市定价存在一定关联。比亚迪第三代唐定位纯电中大型 SUV，长宽高约为 5045/1980/1760mm，轴距 2950mm。其外观延续王朝系列最新设计语言，封闭式前脸搭配上扬大灯与贯穿镀铬饰条，车尾为贯穿灯组，BYD 标识嵌入灯带中央。内饰提供沙丘米与丹霞橙两种配色，座舱设计灵",
-      "source": "IT之家",
-      "publishTime": "2026-10-22",
-      "link": "https://www.ithome.com/1/016/673.htm"
+      "id": "40103df8-2d23-813f-aa93-f779f58284a4",
+      "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+      "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-23",
+      "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
+    },
+    {
+      "id": "40103df8-2d23-819a-bd06-cab97e3b7833",
+      "title": "The new Fire TV Stick 4K is already half off",
+      "summary": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power […]",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale"
+    },
+    {
+      "id": "40103df8-2d23-8177-9bca-dbe1879c0d7d",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-23",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+    },
+    {
+      "id": "40103df8-2d23-8169-afad-f11bc15eaf68",
+      "title": "Refurbished PS5 consoles include second controller for an extra $18",
+      "summary": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because […]",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle"
+    },
+    {
+      "id": "40103df8-2d23-812e-8eaa-cd376677ca2b",
+      "title": "Meta stock sinks 7% as AI spend pushes free cash flow negative",
+      "summary": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-23",
+      "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html"
+    },
+    {
+      "id": "40103df8-2d23-8173-a7d6-f381c820e360",
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "summary": "The new startup raised a $215 million round led by Lightspeed.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-23",
+      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"
+    },
+    {
+      "id": "40103df8-2d23-8157-8af4-c97cb833c2a8",
+      "title": "Delta can turn the iPhone Duo into your favorite folding handheld",
+      "summary": "The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pokémon DLC experiences, and a new UI that was built around supporting ",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update"
+    },
+    {
+      "id": "40103df8-2d23-810f-9935-cf04f5722414",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "source": "BBC Tech",
+      "publishTime": "2026-10-23",
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "40103df8-2d23-81a4-98ec-e87e4ece718d",
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily throu",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network"
+    },
+    {
+      "id": "40103df8-2d23-81b5-951b-f1c8e2f8e6df",
+      "title": "Mass Effect 5 trailer leaks following BioWare shutdown",
+      "summary": "Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer features \"in-engine footage\" and uses \"pre-production assets,\" according to a message at the beginning of the video",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea"
+    },
+    {
+      "id": "40103df8-2d23-81ec-8589-fc32bee30ee0",
+      "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
+      "summary": "A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway Patrol's statement to media outlets says it reviewed video of the accident from the Tesla'",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california"
+    },
+    {
+      "id": "40103df8-2d23-8153-b05f-ded325f57c19",
+      "title": "Salesforce Customers Brace For New Fees to Use Claude in Its Apps",
+      "summary": "Salesforce is leading the software industry’s attempt to collect fees from businesses that use Claude and other external AI tools to automate work in enterprise apps.As soon as next month, Salesforce plans to require companies to register outside AI agents, a step toward charging them each time thos",
+      "source": "The Information",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theinformation.com/articles/salesforce-customers-brace-new-fees-use-claude-apps"
+    },
+    {
+      "id": "40103df8-2d23-81be-867d-e22141b2e71f",
+      "title": "Anker Soundcore Space 2 Are Their Lowest Price Ever",
+      "summary": "The Anker Soundcore Space 2 are a good deal even at full price. The fact they’re 18 percent off is just icing on the cake.",
+      "source": "Wired",
+      "publishTime": "2026-10-23",
+      "link": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/"
+    },
+    {
+      "id": "40103df8-2d23-812a-9af7-efbd63886610",
+      "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
+      "summary": "Ancient plants reveal that the vestiges of the North American ice sheet started expanding a few thousand years ago, but that climate change caused it to reverse course.",
+      "source": "Wired",
+      "publishTime": "2026-10-23",
+      "link": "https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels/"
+    },
+    {
+      "id": "40103df8-2d23-817d-bab5-ebfdca2998b0",
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four t",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence"
+    },
+    {
+      "id": "40103df8-2d23-812a-81be-f1c0fa569493",
+      "title": "SB Energy Considers Waiting Until December or Later for an IPO",
+      "summary": "SB Energy, the SoftBank Group–controlled developer of a massive planned Ohio data center project for OpenAI, is considering going public in December or possibly waiting until next year, according to people familiar with the discussions. That is a later timeline than previously expected. The data cen",
+      "source": "The Information",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo"
+    },
+    {
+      "id": "40103df8-2d23-81d0-afc8-e7171d7cd3e6",
+      "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
+      "summary": "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazi",
+      "source": "The Verge",
+      "publishTime": "2026-10-23",
+      "link": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks"
+    },
+    {
+      "id": "40103df8-2d23-816b-8eb8-d7c96d1b3e96",
+      "title": "Only 10 artists have topped the Billboard chart with 10 different albums — here they all are",
+      "summary": "The Beatles have the most No. 1 albums in Billboard 200 history. Taylor Swift and Drake are tied for second place.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-23",
+      "link": "https://www.businessinsider.com/artists-with-most-no-1-albums-billboard-200-chart"
     }
   ],
   "macroEvents": [
