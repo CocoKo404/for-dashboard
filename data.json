@@ -1,6 +1,182 @@
 {
-  "updatedAt": "2026-10-24 06:28",
+  "updatedAt": "2026-10-24 08:58",
   "news": [
+    {
+      "id": "40203df8-2d23-8129-807e-cce7a3223d4e",
+      "title": "谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走",
+      "summary": "IT之家 10 月 24 日消息，据《商业内幕》报道，谷歌 CEO 桑达尔 · 皮查伊认为，距离 AI 能够完全自主地改进自身，还有很长的路要走。皮查伊透露，谷歌研究人员开始使用 AI 智能体辅助开发模型，但技术仍处于起步阶段。“我们距离递归自我改进（RSI）的最终形态还很远。准确地说，在模型研发的各个环节，AI 研究人员已经开始与自我改进循环协同工作。可以说，AI 智能体正以一定程度的自动化方式协助研究人员，共同开发模型。”皮查伊预计，明年还将看到进一步进展。谷歌联合创始人谢尔盖 · 布林本月早些时候曾谈到，公司的 Flash 系列模型和 Gemini 4 已展现出 AI 参与自身研发的能力",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/290.htm"
+    },
+    {
+      "id": "40203df8-2d23-812e-8499-fc4242b7e82d",
+      "title": "支付宝官宣适配 iPhone Duo 全场景，支持页面布局自动调整等特性",
+      "summary": "IT之家 10 月 24 日消息，支付宝官方昨晚发文宣布，已适配 iPhone Duo。据介绍，在 iPhone Duo 上升级支付宝 App 至最新 12.12.38 版本支持如下功能：1、底部栏：液态玻璃效果，界面通透，展示新体验。2、适配全场景：内屏外屏、横屏竖屏等各种使用方式，页面布局自动调整。支付宝官方表示：“支付宝适配 iPhone Duo 的每一种生活姿态：展开，生活尽收眼底；折起，钱包随身而行。”关于更多 iPhone Duo 的最新消息，小伙伴们可以参考IT之家的首发上手体验视频了解更多。点击关注IT之家B站账号延伸阅读iPhone Duo 是苹果推出的首款折叠屏手机，采用书",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/288.htm"
+    },
+    {
+      "id": "40203df8-2d23-8110-a3b2-fd231fac639c",
+      "title": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
+      "summary": "IT之家 10 月 24 日消息，OpenAI 昨日（10 月 23 日）发布博文，宣布针对最先进“前沿模型”的训练与评估环境，已经实施更严格的安全管控，明确在模型训练期间，不得直接访问实时互联网。该公司称出于对 AI 安全的负责任要求，基于当前对齐研究、监测能力和互联网基础设施安全状况做出的决策，相关限制将持续到安全防护取得足够进展为止。OpenAI 的一款内部研究模型于 9 月 20 日利用 DNS 配置漏洞，在训练过程中短暂获得有限的互联网访问权限，因此该公司于 9 月还一度暂停训练与评估前沿模型。OpenAI 随后加强了研究环境隔离、缩小智能体可利用的攻击面，并改进了异常行为检测与自动",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/289.htm"
+    },
+    {
+      "id": "40203df8-2d23-819c-9a5f-fd2301e36f5c",
+      "title": "“行为难以预测”存在安全隐患，OpenAI 将不再在实时互联网上训练模型",
+      "summary": "IT之家 10 月 24 日消息，当地时间 23 日，OpenAI 宣布，今后将使用缓存的网页内容和模拟互联网环境训练模型，不再让模型直接接入真实互联网。公司认为，模型的行为仍然难以预测，直接赋予联网权限存在安全隐患。竞争对手 Anthropic 两周前也开始限制旗下最新、理论上能力最强的模型直接联网。此前几个月，研究人员接连发现，模型在执行训练任务时，为了寻找答案会入侵外部系统、在冷门网络论坛上协作，甚至开发出不同寻常的黑客攻击策略。接连发生的事件促使两家实验室收紧模型的联网权限。OpenAI 在博客文章中写道，根据目前 AI 对齐研究、监控系统和互联网基础设施的安全状况，公司认为负责任的做",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/287.htm"
+    },
+    {
+      "id": "40203df8-2d23-8199-b302-d515391d95b3",
+      "title": "雷军官宣小米纽北 Workshop 启用，胡峥楠现场实拍曝光全新一代 SU7 Ultra",
+      "summary": "IT之家 10 月 24 日消息，小米创办人、董事长兼 CEO 雷军昨日转发了小米集团副总裁、汽车部 CTO 胡峥楠的微博，并宣布小米纽北 Workshop 已经启用。据胡峥楠介绍，小米在纽北刚启用不久的 Workshop 位于 GT 赛道旁，比之前租用附近的 Workshop 面积大了不少，设施也完全鸟枪换炮，员工的办公工作条件也大为改善，有了自己的停车场、快充站、进入赛道的专用入口、给车手的浴室等，最意外的是还有专属的观赛 VIP Lounge。IT之家注意到，在胡峥楠分享的照片中，还出现了一款与 SU7 Ultra 外观相似的神秘新车，目前还贴有伪装车衣，预计就是全新一代的小米 SU7 ",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/286.htm"
+    },
+    {
+      "id": "40203df8-2d23-8106-93de-d680650e81b5",
+      "title": "美国宇航局调整载人登月方案：SpaceX 星舰改在地球附近对接，蓝色起源减少加注环节",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 Ars Technica 今天（10 月 24 日）发布博文，报道称在当地时间 23 日周五举办的新闻发布会上，美国国家航空航天局（NASA）公布“阿耳忒弥斯”（Artemis）登月计划调整方案，仍争取于 2027 年夏季开展近地对接演示，并在 2028 年通过“阿耳忒弥斯 4 号”（Artemis 4）任务实现载人登月。IT之家援引博文介绍，本次“阿耳忒弥斯”登月计划任务调整的核心是“减负”，美国宇航局不再要求 SpaceX 和蓝色起源两家登月器供应商严格遵循同一套会合路线，通过分别修改两家供应商的任务流程，争取让“阿耳忒弥斯 3 号”在 2027",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/285.htm"
+    },
+    {
+      "id": "40203df8-2d23-81ec-a960-ee79fdeae90c",
+      "title": "32GB 内存可“任性”关闭 Win11 分页文件？微软给出最终答案",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Latest 昨日（10 月 23 日）发布博文，围绕“32GB 内存电脑是否还需要分页文件”话题，基于微软相关支持文档表述，认为分页文件的大小应结合实际负载与崩溃转储需求确定，不能仅凭内存容量一刀切。IT之家援引博文介绍，分页文件是 Windows 放在硬盘或 SSD 上的一种隐藏系统文件，通常叫 pagefile.sys，可视为内存的后备空间。程序运行时，需要把正在处理的数据放进内存。Windows 会以“页”为单位管理这些数据，“分页文件”的名称也由此而来。系统可以将不常访问、已被修改的内存页写入分页文件，等程序再次需要时，再调",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/283.htm"
+    },
+    {
+      "id": "40203df8-2d23-81b5-b6f7-f04179e45a13",
+      "title": "Kimi K3.1 Pro 正式发布：月之暗面最强 3 万亿级模型，编程智能体测评超 GPT-6",
+      "summary": "IT之家 10 月 24 日消息，今天（24 日）凌晨，月之暗面 Kimi 宣布正式推出 Kimi K3.1 系列的第一个模型 ——K3.1 Pro，也是公司迄今能力最强的 3 万亿级参数模型，支持 100 万上下文。高速版模型 Kimi K3.1 Pro Highspeed 同步推出，同等智能，输出速度约 2~3 倍。即日起，用户可通过 kimi.com、Kimi App、Kimi Work、Kimi Code 和 Kimi API (platform.kimi.com)，使用 Kimi K3.1 Pro 和 Kimi K3.1 Pro Highspeed 模型。完整模型权重将于 11 月 ",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/284.htm"
+    },
+    {
+      "id": "40203df8-2d23-818f-8096-d524165b4840",
+      "title": "Startups don’t need to go viral to win customers",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-24",
+      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/"
+    },
+    {
+      "id": "40203df8-2d23-81c5-a2ea-eb59136ce1cc",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-24",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    },
+    {
+      "id": "40203df8-2d23-81b9-a549-f6e221b657d7",
+      "title": "Leaked memo reveals Skydance's new advertising leadership after the Paramount-WBD merger",
+      "summary": "Skydance revealed new leadership in its ad business weeks after the Paramount-Warner Bros. Discovery merger closed, a leaked memo showed.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-24",
+      "link": "https://www.businessinsider.com/skydance-new-ad-leadership-leaked-memo-paramount-wbd-merger-2026-10"
+    },
+    {
+      "id": "40203df8-2d23-816c-81aa-d06a5faa342b",
+      "title": "我国长四乙火箭成功发射遥感五十三号 07-09 星、遥感五十六号 19-21 星",
+      "summary": "IT之家 10 月 24 日消息，今日 3 时 25 分，长征四号乙运载火箭在酒泉卫星发射中心点火升空，随后将遥感五十三号 07—09 星、遥感五十六号 19—21 星送入预定轨道，发射任务取得圆满成功。据介绍，遥感五十三号 07-09 星、遥感五十六号 19-21 星主要用于科学试验、国土资源普查、农产品估产和防灾减灾等领域。IT之家注：长四乙火箭由中国航天科技集团有限公司所属商业火箭公司抓总研制、八院承担研制，是常温液体三级运载火箭。本次发射是长征系列运载火箭第 673 次发射。",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/282.htm"
+    },
+    {
+      "id": "40203df8-2d23-8157-91d0-fdd5df5242d0",
+      "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-10-24",
+      "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html"
+    },
+    {
+      "id": "40203df8-2d23-8126-9dac-caadc3cf1b73",
+      "title": "开售首日即被越狱：运行 iOS 27.1 的苹果首款折叠 iPhone Duo 已实现定制体验",
+      "summary": "IT之家 10 月 24 日消息，安全公司 Calif.io 昨日（10 月 23 日）在 X 平台发布推文，分享了一段演示视频，在苹果首款折叠 iPhone Duo 开售首日，便成功在 iOS 27.1 系统上实现越狱。为了演示本次越狱成果，Calif 实现了不同于常规系统的界面效果，屏幕右下角出现了动漫角色，而且可以调动传感器，让桌面上的 App 图标像是积木一样随着设备角度滑落弹跳。在越狱破解方面，IT之家此前报道，10 月 16 日在巴黎 Hexacon 攻击性安全大会上，安全公司 Calif.io 在一台运行 iOS 27.0.1 系统的 iPhone 18 Pro 机型上，公开演示",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/281.htm"
+    },
+    {
+      "id": "40203df8-2d23-81ce-ba55-c6411ab21b2b",
+      "title": "Mark Cuban says the best defense against malicious AI agents is more AI",
+      "summary": "Mark Cuban compared AI agents to cockroaches that exploit weaknesses at scale, but said defenders can fight back using just as much AI.",
+      "source": "Business Insider",
+      "publishTime": "2026-10-24",
+      "link": "https://www.businessinsider.com/mark-cuban-warns-of-ai-threats-at-reuters-next-event-2026-10"
+    },
+    {
+      "id": "40203df8-2d23-81c2-854a-c804ccae5f77",
+      "title": "Moonshot AI Launches New Kimi K3.1 Pro Model",
+      "summary": "Moonshot AI on Friday announced its new model, Kimi K3.1 Pro, demonstrating performance that rivals that of top-tier U.S. frontier models on some benchmarks. Kimi K3.1 Pro, built on the architecture of its popular predecessor Kimi K3, is now ranked fourth on the Artificial Analysis Intelligence ...",
+      "source": "The Information",
+      "publishTime": "2026-10-24",
+      "link": "https://www.theinformation.com/briefings/moonshot-ai-launches-new-kimi-k3-1-pro-model"
+    },
+    {
+      "id": "40203df8-2d23-8189-bfd0-e93a1d77998b",
+      "title": "AWS Sold Out Of Capacity Into 2028, Jassy Says",
+      "summary": "Amazon Web Services capacity is mostly booked up through at least next year, Amazon CEO Andy Jassy said on an Andreessen Horowitz podcast released on Friday. “‘26 is obviously at this point sold out. [2027] is largely sold out. We always leave a certain amount for on demand and our inference ...",
+      "source": "The Information",
+      "publishTime": "2026-10-24",
+      "link": "https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says"
+    },
+    {
+      "id": "40203df8-2d23-810e-b5da-d4ccff7938ca",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-24",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+    },
+    {
+      "id": "40203df8-2d23-8152-ab7d-f4bc5f689db7",
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted",
+      "source": "The Verge",
+      "publishTime": "2026-10-24",
+      "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure"
+    },
+    {
+      "id": "40203df8-2d23-8116-a7d7-c6bc587c099c",
+      "title": "Instacart Shares Rally 10% After The Information Reports Sale Talks",
+      "summary": "Instacart shares jumped 10% in the final minutes of regular stock market trading Friday following The Information’s report that the delivery app company is in talks to sell itself. Shares in the company closed at $56.44. Instacart has been working with an investment bank to weigh its options and ...",
+      "source": "The Information",
+      "publishTime": "2026-10-24",
+      "link": "https://www.theinformation.com/briefings/instacart-shares-rally-10-information-reports-sale-talks"
+    },
+    {
+      "id": "40203df8-2d23-81a9-a343-fb7481ffeb40",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external",
+      "source": "The Verge",
+      "publishTime": "2026-10-24",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+    },
+    {
+      "id": "40203df8-2d23-8185-be86-c24b363b4a99",
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-24",
+      "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/"
+    },
     {
       "id": "40203df8-2d23-81ef-8d65-d9dcd47a5a91",
       "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
@@ -224,182 +400,6 @@
       "source": "Business Insider",
       "publishTime": "2026-10-24",
       "link": "https://www.businessinsider.com/miley-cyrus-album-bass-persuades-live-hollywood-bowl-career-2026-10"
-    },
-    {
-      "id": "40203df8-2d23-81ae-aa26-db7d6633453c",
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-24",
-      "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
-    },
-    {
-      "id": "40203df8-2d23-8193-bfb6-c4c26d90500e",
-      "title": "Anthropic says Mythos kept hacking even when it knew real people could get hurt",
-      "summary": "Anthropic said its Mythos 5 model almost never stopped a cyberattack once it began. Even when the agent was told it was harming real people? Crickets.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/anthropic-mythos-hacking-github-report-2026-10"
-    },
-    {
-      "id": "40203df8-2d23-811a-8a63-ef08e6b9c16a",
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-24",
-      "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/"
-    },
-    {
-      "id": "40203df8-2d23-816a-86e4-f09fba32de56",
-      "title": "Elon Musk Just Dumped Another $76 Million Into the Midterms",
-      "summary": "The trillionaire has given more than $445 million to Republican political groups this election cycle, as Democrats vow to investigate him.",
-      "source": "Wired",
-      "publishTime": "2026-10-24",
-      "link": "https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/"
-    },
-    {
-      "id": "40203df8-2d23-81da-9017-e1f40103d512",
-      "title": "I've been to all 50 states. Everyone should visit these 10 at least once.",
-      "summary": "I've traveled to all 50 US states and love visiting places like New Mexico, Arizona, Montana, California, West Virginia, and Wisconsin.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/us-states-everyone-should-visit-from-frequent-traveler-2026-10"
-    },
-    {
-      "id": "40203df8-2d23-8115-be28-c9fb0258d9dc",
-      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
-      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-24",
-      "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/"
-    },
-    {
-      "id": "40203df8-2d23-815b-8baf-d83bdca797b0",
-      "title": "男子醉酒后车机自动报警被判不构成自首：系统可以替你报警但不能替你自首",
-      "summary": "IT之家 10 月 23 日消息，由于把“110”设成紧急联系人，浙江一男子醉驾后，车辆发现异常上报给车企紧急救援中心并自动报警，后续被民警当场查获。该男子显然不服，并辩称这属于自首。那么，这类车机触发的报警，法律上到底能不能认定为自首？据央视《法治在线》今日报道，这类新型醉驾案在法律上不能被认定为自首。车辆紧急救援系统自动拨出的报警电话，不能替驾驶人完成“自动投案”。此次事件发生于 2026 年 3 月 19 日晚，周某酒后驾驶一辆小型普通客车返回家中，途中开启车辆驾驶辅助功能，后因酒劲上头困意难忍而选择在路边停车，随后在驾驶位昏睡起来。但此时车辆仍处于启动状态，车企紧急救援中心监测到车辆长",
-      "source": "IT之家",
-      "publishTime": "2026-10-23",
-      "link": "https://www.ithome.com/1/017/278.htm"
-    },
-    {
-      "id": "40203df8-2d23-819a-aefd-eef51f9fbcb7",
-      "title": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
-      "summary": "The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-23",
-      "link": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html"
-    },
-    {
-      "id": "40203df8-2d23-8164-8d34-de82abdd21a8",
-      "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
-      "summary": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety St",
-      "source": "The Verge",
-      "publishTime": "2026-10-23",
-      "link": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss"
-    },
-    {
-      "id": "40203df8-2d23-8107-90f8-e2c44d238013",
-      "title": "长城魏牌二代蓝山全球首秀定档 10 月 27 日，搭载 Hi-4 插电混动系统",
-      "summary": "IT之家 10 月 23 日消息，长城汽车今日宣布魏牌二代蓝山全球首秀定档 10 月 27 日。新车采用方盒子设计，搭载由 2.0T 发动机组成的 Hi-4 插电混动系统。据介绍，魏牌二代蓝山主打“东方豪华”，尺寸为 5300×2050×1960mm、轴距 3010mm，轮胎规格 275/50 R21。新车搭载 2.0T 混动专用发动机，匹配 4 挡混动专用变速箱，电机功率为前 110kW、后 220kW，内置 66.6kWh（1/3C）电池。IT之家注意到，官方公布了该车的曜石黑、浅蓝外观配色，新车也已经在工信部完成申报。其尺寸为 5300×2050×1960mm、轴距 3010mm，轮胎规",
-      "source": "IT之家",
-      "publishTime": "2026-10-23",
-      "link": "https://www.ithome.com/1/017/277.htm"
-    },
-    {
-      "id": "40203df8-2d23-814f-919c-d8ac608b2939",
-      "title": "My daughter and I needed a fresh start after my divorce. A vacation at a Colorado dude ranch gave us one.",
-      "summary": "I booked a dude ranch vacation after my divorce. On it, I rediscovered my independence and showed my daughter a different version of myself.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-23",
-      "link": "https://www.businessinsider.com/mother-daughter-trip-after-divorce-luxury-dude-ranch-2026-10"
-    },
-    {
-      "id": "40203df8-2d23-81d3-b97a-ec19a2da944b",
-      "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
-      "summary": "SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would ",
-      "source": "The Verge",
-      "publishTime": "2026-10-23",
-      "link": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier"
-    },
-    {
-      "id": "40203df8-2d23-816f-962e-edd66fca561b",
-      "title": "消息称苹果在全国 Apple Store 安排移动 / 联通 / 电信工作人员坐镇，现场为 iPhone Duo 取货顾客办理 eSIM",
-      "summary": "IT之家 10 月 23 日消息，据新浪科技报道，随着苹果首款折叠屏手机 iPhone Duo 发售，目前苹果在全国所有 Apple Store 零售店均安排了中国移动、中国联通和中国电信的工作人员，为顾客现场办理 eSIM 激活业务。据报道，只要顾客是在苹果 Apple Store 门店现场取货，就可以在店内由运营商工作人员协助办理相关业务，免去以往购机后再单独前往运营商营业厅开通的环节。IT之家注意到，今天移动还发布公告，透露官方将持续推动 eSIM 线上自助办理能力上线，进一步拓宽办理路径，持续降低 eSIM 业务的使用门槛。",
-      "source": "IT之家",
-      "publishTime": "2026-10-23",
-      "link": "https://www.ithome.com/1/017/276.htm"
-    },
-    {
-      "id": "40203df8-2d23-8154-8694-dbe3f8ac26b3",
-      "title": "How Many Billions Would It Take to Hold Meta Accountable?",
-      "summary": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
-      "source": "Wired",
-      "publishTime": "2026-10-23",
-      "link": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/"
-    },
-    {
-      "id": "40203df8-2d23-816f-b255-f7fc2d657d8c",
-      "title": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
-      "summary": "Analysts say the fears that AI agents could disrupt the banking industry are overblown, for now.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-23",
-      "link": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html"
-    },
-    {
-      "id": "40203df8-2d23-817a-a5ae-d599e0d11786",
-      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-      "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-23",
-      "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/"
-    },
-    {
-      "id": "40203df8-2d23-8145-b596-d49142a35d2b",
-      "title": "I swapped houses with a stranger to see if I'd like living in Seattle. One month in, I got my answer.",
-      "summary": "I used a home exchange website to live in Seattle for a month and decide if i wanted to move there from San Francisco. It gave me the clarity I needed.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-23",
-      "link": "https://www.businessinsider.com/tested-living-in-seattle-for-month-home-exchange-2026-10"
-    },
-    {
-      "id": "40203df8-2d23-8169-982c-dda4773d011d",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on",
-      "source": "The Verge",
-      "publishTime": "2026-10-23",
-      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
-    },
-    {
-      "id": "40203df8-2d23-8192-8f09-f69e1f2ff97e",
-      "title": "国家邮政局召开邮政快递业安全治理规范化座谈会：要持续深入推进“反内卷”工作",
-      "summary": "IT之家 10 月 23 日消息，据国家邮政局，10 月 22 日至 23 日，国家邮政局在河南洛阳召开邮政快递业安全治理规范化座谈会。会议要求，各级邮政管理部门要强化行业监管核心职能，大力加强行业安全监管，维护快递市场秩序。各企业要把安全责任牢牢扛在肩上，统筹发展和安全，进一步抓实抓细行业安全各项工作。会议强调，要聚焦突出问题和关键环节，以更大力度更实举措做好行业安全工作：一是大力整治生产安全突出隐患。要强化重大事故隐患排查整治，深入整治消防隐患，严格规范外包管理，持续完善企业安全管理体系。二是突出抓好寄递渠道风险防范。要抓好寄递安全“三项制度”落实，抓实抓细行业反诈工作，加强寄递物品安全管",
-      "source": "IT之家",
-      "publishTime": "2026-10-23",
-      "link": "https://www.ithome.com/1/017/275.htm"
-    },
-    {
-      "id": "40203df8-2d23-816e-a0db-eb32f2cce689",
-      "title": "13 books you should read before they're turned into movies and TV shows this year",
-      "summary": "Classics and new favorites like \"Pride and Prejudice\" \"Sunrise on the Reaping,\" and \"A Christmas Carol\" are set for cinematic releases in 2026.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-23",
-      "link": "https://www.businessinsider.com/books-getting-turned-into-movies-and-tv-shows-in-2026-2026-10"
-    },
-    {
-      "id": "40203df8-2d23-8192-b8ec-e8a0901adf57",
-      "title": "I've photographed weddings for over a decade. Here are 4 of the biggest mistakes I see couples make.",
-      "summary": "I've been photographing weddings for over a decade, so I've watched couples make many mistakes, from overscheduling to trying to please everyone.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-23",
-      "link": "https://www.businessinsider.com/mistakes-couples-make-wedding-photographer-advice-how-to-avoid-2026-10"
-    },
-    {
-      "id": "40203df8-2d23-8116-a5ee-dbd05b23d636",
-      "title": "OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
-      "summary": "IT之家 10 月 23 日消息，OpenAI 联合 PerturbAI 和斯克里普斯研究所（Scripps Research），利用数千个 AI 智能体分析数百万个小鼠脑细胞的生物学数据，整个分析过程仅耗时 32 分钟。研究团队估计，如果由人类研究人员逐项分析实验结果并检索相关文献，完成同等工作可能需要数月到一年。根据 OpenAI 10 月 21 日发布的介绍，这项研究使用了专为生命科学研究设计的 GPT-Rosalind 模型，分析一份覆盖整个小鼠大脑的 CRISPR 图谱。该图谱记录了不同基因受到干预后，各类脑细胞产生的变化，有助于研究人员了解基因功能及其与疾病之间的潜在联系。研究团队",
-      "source": "IT之家",
-      "publishTime": "2026-10-23",
-      "link": "https://www.ithome.com/1/017/274.htm"
     }
   ],
   "macroEvents": [
