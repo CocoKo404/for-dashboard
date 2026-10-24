@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-10-24 08:58",
+  "updatedAt": "2026-10-24 14:10",
   "news": [
     {
-      "id": "40203df8-2d23-8129-807e-cce7a3223d4e",
-      "title": "谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走",
-      "summary": "IT之家 10 月 24 日消息，据《商业内幕》报道，谷歌 CEO 桑达尔 · 皮查伊认为，距离 AI 能够完全自主地改进自身，还有很长的路要走。皮查伊透露，谷歌研究人员开始使用 AI 智能体辅助开发模型，但技术仍处于起步阶段。“我们距离递归自我改进（RSI）的最终形态还很远。准确地说，在模型研发的各个环节，AI 研究人员已经开始与自我改进循环协同工作。可以说，AI 智能体正以一定程度的自动化方式协助研究人员，共同开发模型。”皮查伊预计，明年还将看到进一步进展。谷歌联合创始人谢尔盖 · 布林本月早些时候曾谈到，公司的 Flash 系列模型和 Gemini 4 已展现出 AI 参与自身研发的能力",
+      "id": "40303df8-2d23-81ff-9d41-ff5b2b9c18a2",
+      "title": "美国公开第 7 批 UAP 解密档案：含 28 份文件，累计已公开 478 份",
+      "summary": "IT之家 10 月 24 日消息，美国战争部（Department of War，原国防部）于当地时间昨日（10 月 23 日）发布博文，公开第七批经解密的“不明异常现象”（UAP，常被通俗称为 UFO）历史档案。该批资料隶属“总统 UAP 接触事件解封与报告系统”（PURSUE），公众可在官方专页 WAR.GOV/ UFO 查阅、检索和下载。IT之家附上相关图片如下：五角大楼首席发言人肖恩 · 帕内尔（Sean Parnell）在声明中表示，本轮公开的是第七批解密及历史性 UAP 文件；相关资料将继续集中存放在 WAR.GOV/ UFO，后续档案将按“滚动方式”陆续发布。他还称，战争部正与相",
       "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.ithome.com/1/017/290.htm"
+      "link": "https://www.ithome.com/1/017/320.htm"
     },
     {
-      "id": "40203df8-2d23-812e-8499-fc4242b7e82d",
-      "title": "支付宝官宣适配 iPhone Duo 全场景，支持页面布局自动调整等特性",
-      "summary": "IT之家 10 月 24 日消息，支付宝官方昨晚发文宣布，已适配 iPhone Duo。据介绍，在 iPhone Duo 上升级支付宝 App 至最新 12.12.38 版本支持如下功能：1、底部栏：液态玻璃效果，界面通透，展示新体验。2、适配全场景：内屏外屏、横屏竖屏等各种使用方式，页面布局自动调整。支付宝官方表示：“支付宝适配 iPhone Duo 的每一种生活姿态：展开，生活尽收眼底；折起，钱包随身而行。”关于更多 iPhone Duo 的最新消息，小伙伴们可以参考IT之家的首发上手体验视频了解更多。点击关注IT之家B站账号延伸阅读iPhone Duo 是苹果推出的首款折叠屏手机，采用书",
+      "id": "40303df8-2d23-8126-90c2-fd980bba6c4f",
+      "title": "暴雪官宣：《赛博朋克 2077》将于 11 月 11 日登陆战网平台",
+      "summary": "IT之家 10 月 24 日消息，暴雪通过官方新闻稿宣布，今年 11 月，“夜之城”将正式登陆战网，《赛博朋克 2077》确定将在 11 月 11 日上线 Battle.net 平台。届时，玩家可购买游戏本体或扩展包《往日之影》，也可以直接买终极版。此外，战网版还将收录免费《边缘行者 2》更新的全部内容。据IT之家了解，《赛博朋克 2077》2.5 版更新已于 10 月 22 日正式登陆 PC、Mac（Steam、GOG、Epic Games Store）、PlayStation 5 和 Xbox Series X|S 平台，Switch 2 版稍后推出。此次更新不仅加入了《边缘行者 2》联动",
       "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.ithome.com/1/017/288.htm"
+      "link": "https://www.ithome.com/1/017/319.htm"
     },
     {
-      "id": "40203df8-2d23-8110-a3b2-fd231fac639c",
-      "title": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
-      "summary": "IT之家 10 月 24 日消息，OpenAI 昨日（10 月 23 日）发布博文，宣布针对最先进“前沿模型”的训练与评估环境，已经实施更严格的安全管控，明确在模型训练期间，不得直接访问实时互联网。该公司称出于对 AI 安全的负责任要求，基于当前对齐研究、监测能力和互联网基础设施安全状况做出的决策，相关限制将持续到安全防护取得足够进展为止。OpenAI 的一款内部研究模型于 9 月 20 日利用 DNS 配置漏洞，在训练过程中短暂获得有限的互联网访问权限，因此该公司于 9 月还一度暂停训练与评估前沿模型。OpenAI 随后加强了研究环境隔离、缩小智能体可利用的攻击面，并改进了异常行为检测与自动",
+      "id": "40303df8-2d23-812f-9e7a-c1e73bcebd98",
+      "title": "暴雪官宣：《赛博朋克 2077》将于 11 月 11 日登陆战网平台",
+      "summary": "IT之家 10 月 24 日消息，暴雪通过官方新闻稿宣布，今年 11 月，“夜之城”将正式登陆战网，《赛博朋克 2077》确定将在 11 月 11 日上线 Battle.net 平台。届时，玩家可购买游戏本体或扩展包《往日之影》，也可以直接买终极版。此外，战网版还将收录免费《边缘行者 2》更新的全部内容。据IT之家了解，《赛博朋克 2077》2.5 版更新已于 10 月 22 日正式登陆 PC、Mac（Steam、GOG、Epic Games Store）、PlayStation 5 和 Xbox Series X|S 平台，Switch 2 版稍后推出。此次更新不仅加入了《边缘行者 2》联动",
       "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.ithome.com/1/017/289.htm"
+      "link": "https://www.ithome.com/1/017/319.htm"
     },
     {
-      "id": "40203df8-2d23-819c-9a5f-fd2301e36f5c",
-      "title": "“行为难以预测”存在安全隐患，OpenAI 将不再在实时互联网上训练模型",
-      "summary": "IT之家 10 月 24 日消息，当地时间 23 日，OpenAI 宣布，今后将使用缓存的网页内容和模拟互联网环境训练模型，不再让模型直接接入真实互联网。公司认为，模型的行为仍然难以预测，直接赋予联网权限存在安全隐患。竞争对手 Anthropic 两周前也开始限制旗下最新、理论上能力最强的模型直接联网。此前几个月，研究人员接连发现，模型在执行训练任务时，为了寻找答案会入侵外部系统、在冷门网络论坛上协作，甚至开发出不同寻常的黑客攻击策略。接连发生的事件促使两家实验室收紧模型的联网权限。OpenAI 在博客文章中写道，根据目前 AI 对齐研究、监控系统和互联网基础设施的安全状况，公司认为负责任的做",
+      "id": "40303df8-2d23-8143-83fe-fbca7fa9083e",
+      "title": "国产首台 16 米级超大直径盾构机官宣将亮相 2026 科晚：红色京剧脸谱涂装，开挖直径达 16.07 米",
+      "summary": "IT之家 10 月 24 日消息，据央视新闻央视社教报道，国产首台 16 米级超大直径盾构机 ——“京华号”即将亮相 2026 总台科晚（2026《中国科技创新盛典》）。IT之家查询获悉，“京华号”是由中国铁建重工集团与中铁十四局集团联合研制的 16 米级超大直径盾构机，整机长 150 米、总重 4300 吨，最大开挖直径达 16.07 米，曾是我国自主研制的最大直径盾构机。该设备于 2020 年 9 月 27 日在长沙下线，刀盘采用红色京剧脸谱涂装，应用于北京东六环改造工程隧道掘进任务。科晚自 2024 年启动，由总台社教节目中心、安徽总站、合肥市人民政府联合策划制作。2026 科晚暂未官宣",
       "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.ithome.com/1/017/287.htm"
+      "link": "https://www.ithome.com/1/017/317.htm"
     },
     {
-      "id": "40203df8-2d23-8199-b302-d515391d95b3",
-      "title": "雷军官宣小米纽北 Workshop 启用，胡峥楠现场实拍曝光全新一代 SU7 Ultra",
-      "summary": "IT之家 10 月 24 日消息，小米创办人、董事长兼 CEO 雷军昨日转发了小米集团副总裁、汽车部 CTO 胡峥楠的微博，并宣布小米纽北 Workshop 已经启用。据胡峥楠介绍，小米在纽北刚启用不久的 Workshop 位于 GT 赛道旁，比之前租用附近的 Workshop 面积大了不少，设施也完全鸟枪换炮，员工的办公工作条件也大为改善，有了自己的停车场、快充站、进入赛道的专用入口、给车手的浴室等，最意外的是还有专属的观赛 VIP Lounge。IT之家注意到，在胡峥楠分享的照片中，还出现了一款与 SU7 Ultra 外观相似的神秘新车，目前还贴有伪装车衣，预计就是全新一代的小米 SU7 ",
+      "id": "40303df8-2d23-8109-9cc1-ee779c3115aa",
+      "title": "苹果庆祝初代 iPod 诞生 25 周年，Apple Music 官网上线套娃彩蛋",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 AppleInsider 昨日（10 月 23 日）发布博文，报道称苹果为庆祝初代 iPod 发布 25 周年，在 Apple Music 网页端埋下一个“彩蛋”。用户访问一个不存在的页面，即可看到一台完全可交互的初代 iPod。IT之家查询公开资料，苹果于 2001 年 10 月 23 日推出初代 iPod，同年 11 月 10 日开售，以“把 1000 首歌装进口袋”为核心卖点，把大容量硬盘、简洁操作和 iTunes 同步结合在一起，成为苹果从电脑公司走向消费电子与数字音乐生态的关键产品。在 2001 年多数 MP3 播放器容量小、传输慢、操作繁",
       "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.ithome.com/1/017/286.htm"
+      "link": "https://www.ithome.com/1/017/318.htm"
     },
     {
-      "id": "40203df8-2d23-8106-93de-d680650e81b5",
-      "title": "美国宇航局调整载人登月方案：SpaceX 星舰改在地球附近对接，蓝色起源减少加注环节",
-      "summary": "IT之家 10 月 24 日消息，科技媒体 Ars Technica 今天（10 月 24 日）发布博文，报道称在当地时间 23 日周五举办的新闻发布会上，美国国家航空航天局（NASA）公布“阿耳忒弥斯”（Artemis）登月计划调整方案，仍争取于 2027 年夏季开展近地对接演示，并在 2028 年通过“阿耳忒弥斯 4 号”（Artemis 4）任务实现载人登月。IT之家援引博文介绍，本次“阿耳忒弥斯”登月计划任务调整的核心是“减负”，美国宇航局不再要求 SpaceX 和蓝色起源两家登月器供应商严格遵循同一套会合路线，通过分别修改两家供应商的任务流程，争取让“阿耳忒弥斯 3 号”在 2027",
+      "id": "40303df8-2d23-8116-97c2-e7e7cb93bdc5",
+      "title": "国产首台 16 米级超大直径盾构机官宣将亮相 2026 科晚：红色京剧脸谱涂装，开挖直径达 16.07 米",
+      "summary": "IT之家 10 月 24 日消息，据央视新闻央视社教报道，国产首台 16 米级超大直径盾构机 ——“京华号”即将亮相 2026 总台科晚（2026《中国科技创新盛典》）。IT之家查询获悉，“京华号”是由中国铁建重工集团与中铁十四局集团联合研制的 16 米级超大直径盾构机，整机长 150 米、总重 4300 吨，最大开挖直径达 16.07 米，曾是我国自主研制的最大直径盾构机。该设备于 2020 年 9 月 27 日在长沙下线，刀盘采用红色京剧脸谱涂装，应用于北京东六环改造工程隧道掘进任务。科晚自 2024 年启动，由总台社教节目中心、安徽总站、合肥市人民政府联合策划制作。2026 科晚暂未官宣",
       "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.ithome.com/1/017/285.htm"
+      "link": "https://www.ithome.com/1/017/317.htm"
     },
     {
-      "id": "40203df8-2d23-81ec-a960-ee79fdeae90c",
-      "title": "32GB 内存可“任性”关闭 Win11 分页文件？微软给出最终答案",
-      "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Latest 昨日（10 月 23 日）发布博文，围绕“32GB 内存电脑是否还需要分页文件”话题，基于微软相关支持文档表述，认为分页文件的大小应结合实际负载与崩溃转储需求确定，不能仅凭内存容量一刀切。IT之家援引博文介绍，分页文件是 Windows 放在硬盘或 SSD 上的一种隐藏系统文件，通常叫 pagefile.sys，可视为内存的后备空间。程序运行时，需要把正在处理的数据放进内存。Windows 会以“页”为单位管理这些数据，“分页文件”的名称也由此而来。系统可以将不常访问、已被修改的内存页写入分页文件，等程序再次需要时，再调",
+      "id": "40303df8-2d23-8102-a71f-c8ca6c5c072e",
+      "title": "苹果庆祝初代 iPod 诞生 25 周年，Apple Music 官网上线套娃彩蛋",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 AppleInsider 昨日（10 月 23 日）发布博文，报道称苹果为庆祝初代 iPod 发布 25 周年，在 Apple Music 网页端埋下一个“彩蛋”。用户访问一个不存在的页面，即可看到一台完全可交互的初代 iPod。IT之家查询公开资料，苹果于 2001 年 10 月 23 日推出初代 iPod，同年 11 月 10 日开售，以“把 1000 首歌装进口袋”为核心卖点，把大容量硬盘、简洁操作和 iTunes 同步结合在一起，成为苹果从电脑公司走向消费电子与数字音乐生态的关键产品。在 2001 年多数 MP3 播放器容量小、传输慢、操作繁",
       "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.ithome.com/1/017/283.htm"
+      "link": "https://www.ithome.com/1/017/318.htm"
     },
     {
-      "id": "40203df8-2d23-81b5-b6f7-f04179e45a13",
-      "title": "Kimi K3.1 Pro 正式发布：月之暗面最强 3 万亿级模型，编程智能体测评超 GPT-6",
-      "summary": "IT之家 10 月 24 日消息，今天（24 日）凌晨，月之暗面 Kimi 宣布正式推出 Kimi K3.1 系列的第一个模型 ——K3.1 Pro，也是公司迄今能力最强的 3 万亿级参数模型，支持 100 万上下文。高速版模型 Kimi K3.1 Pro Highspeed 同步推出，同等智能，输出速度约 2~3 倍。即日起，用户可通过 kimi.com、Kimi App、Kimi Work、Kimi Code 和 Kimi API (platform.kimi.com)，使用 Kimi K3.1 Pro 和 Kimi K3.1 Pro Highspeed 模型。完整模型权重将于 11 月 ",
+      "id": "40303df8-2d23-819b-9f4e-cbe961808940",
+      "title": "消息称荣耀 700 系列手机有“3 杯”：Pro 工程机配 1.72 英寸原生背屏，暂定 11 月发布",
+      "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 刚刚发文透露，荣耀 700 系列手机有“3 杯”（即三个型号，分别对应不同价格配置档位），内部代号 Flora，配色有冷白 / 晴空 / 蓝调 / 粉雾，暂定 11 月发布。博主称，工程机配备 6.57 英寸 1.5K 中屏，极窄四等边，1.72 英寸原生背屏（Pro 版本），200Mp 常规大底影像，Pro 有一颗 50Mp 潜望长焦，系列最大电池 9000mAh±。关于这一代荣耀 700 的处理器是否会搭载骁龙 8s Gen4 或者骁龙 8 Gen5，博主直言：“没有，这种产品线不要对 Soc 有期待。”据IT之家此前报道，今年各大手机",
       "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.ithome.com/1/017/284.htm"
+      "link": "https://www.ithome.com/1/017/316.htm"
     },
     {
-      "id": "40203df8-2d23-818f-8096-d524165b4840",
-      "title": "Startups don’t need to go viral to win customers",
-      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-24",
-      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/"
-    },
-    {
-      "id": "40203df8-2d23-81c5-a2ea-eb59136ce1cc",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-24",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
-    },
-    {
-      "id": "40203df8-2d23-81b9-a549-f6e221b657d7",
-      "title": "Leaked memo reveals Skydance's new advertising leadership after the Paramount-WBD merger",
-      "summary": "Skydance revealed new leadership in its ad business weeks after the Paramount-Warner Bros. Discovery merger closed, a leaked memo showed.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/skydance-new-ad-leadership-leaked-memo-paramount-wbd-merger-2026-10"
-    },
-    {
-      "id": "40203df8-2d23-816c-81aa-d06a5faa342b",
-      "title": "我国长四乙火箭成功发射遥感五十三号 07-09 星、遥感五十六号 19-21 星",
-      "summary": "IT之家 10 月 24 日消息，今日 3 时 25 分，长征四号乙运载火箭在酒泉卫星发射中心点火升空，随后将遥感五十三号 07—09 星、遥感五十六号 19—21 星送入预定轨道，发射任务取得圆满成功。据介绍，遥感五十三号 07-09 星、遥感五十六号 19-21 星主要用于科学试验、国土资源普查、农产品估产和防灾减灾等领域。IT之家注：长四乙火箭由中国航天科技集团有限公司所属商业火箭公司抓总研制、八院承担研制，是常温液体三级运载火箭。本次发射是长征系列运载火箭第 673 次发射。",
+      "id": "40303df8-2d23-81d5-a6bd-dce393b078bd",
+      "title": "消息称荣耀 700 系列手机有“3 杯”：Pro 工程机配 1.72 英寸原生背屏，暂定 11 月发布",
+      "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 刚刚发文透露，荣耀 700 系列手机有“3 杯”（即三个型号，分别对应不同价格配置档位），内部代号 Flora，配色有冷白 / 晴空 / 蓝调 / 粉雾，暂定 11 月发布。博主称，工程机配备 6.57 英寸 1.5K 中屏，极窄四等边，1.72 英寸原生背屏（Pro 版本），200Mp 常规大底影像，Pro 有一颗 50Mp 潜望长焦，系列最大电池 9000mAh±。关于这一代荣耀 700 的处理器是否会搭载骁龙 8s Gen4 或者骁龙 8 Gen5，博主直言：“没有，这种产品线不要对 Soc 有期待。”据IT之家此前报道，今年各大手机",
       "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.ithome.com/1/017/282.htm"
+      "link": "https://www.ithome.com/1/017/316.htm"
     },
     {
-      "id": "40203df8-2d23-8157-91d0-fdd5df5242d0",
-      "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-      "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-24",
-      "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html"
-    },
-    {
-      "id": "40203df8-2d23-8126-9dac-caadc3cf1b73",
-      "title": "开售首日即被越狱：运行 iOS 27.1 的苹果首款折叠 iPhone Duo 已实现定制体验",
-      "summary": "IT之家 10 月 24 日消息，安全公司 Calif.io 昨日（10 月 23 日）在 X 平台发布推文，分享了一段演示视频，在苹果首款折叠 iPhone Duo 开售首日，便成功在 iOS 27.1 系统上实现越狱。为了演示本次越狱成果，Calif 实现了不同于常规系统的界面效果，屏幕右下角出现了动漫角色，而且可以调动传感器，让桌面上的 App 图标像是积木一样随着设备角度滑落弹跳。在越狱破解方面，IT之家此前报道，10 月 16 日在巴黎 Hexacon 攻击性安全大会上，安全公司 Calif.io 在一台运行 iOS 27.0.1 系统的 iPhone 18 Pro 机型上，公开演示",
+      "id": "40303df8-2d23-811c-b552-e7f5917930ac",
+      "title": "苹果首款折叠 iPhone Duo 开放到店自提预约服务，报道称名额少到“几乎抢不到”",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 MacRumors 今天（10 月 24 日）发布博文，报道称苹果在线商店已重新开放 iPhone Duo 的“到店自提”预约服务，中国、澳大利亚、日本和韩国等市场率先恢复。该媒体指出在澳大利亚，在该媒体发稿前，曾出现一台可自提的 iPhone Duo，但很快便被抢空，名额少到“几乎抢不到”。而美国、加拿大、英国和新加坡等市场的苹果官网提示用户在当地时间 10 月 24 日再次查看，预计自提预约会随各地时间推进陆续恢复。IT之家查询苹果中国官网，分别查询青岛、上海和北京地区的供货情况，发现均为“不可取货”状态，且送货上门时间已预估排到 2027 年 ",
       "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.ithome.com/1/017/281.htm"
+      "link": "https://www.ithome.com/1/017/314.htm"
     },
     {
-      "id": "40203df8-2d23-81ce-ba55-c6411ab21b2b",
-      "title": "Mark Cuban says the best defense against malicious AI agents is more AI",
-      "summary": "Mark Cuban compared AI agents to cockroaches that exploit weaknesses at scale, but said defenders can fight back using just as much AI.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-8115-8439-e5f7439d8bc3",
+      "title": "苹果首款折叠 iPhone Duo 开放到店自提预约服务，报道称名额少到“几乎抢不到”",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 MacRumors 今天（10 月 24 日）发布博文，报道称苹果在线商店已重新开放 iPhone Duo 的“到店自提”预约服务，中国、澳大利亚、日本和韩国等市场率先恢复。该媒体指出在澳大利亚，在该媒体发稿前，曾出现一台可自提的 iPhone Duo，但很快便被抢空，名额少到“几乎抢不到”。而美国、加拿大、英国和新加坡等市场的苹果官网提示用户在当地时间 10 月 24 日再次查看，预计自提预约会随各地时间推进陆续恢复。IT之家查询苹果中国官网，分别查询青岛、上海和北京地区的供货情况，发现均为“不可取货”状态，且送货上门时间已预估排到 2027 年 ",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/mark-cuban-warns-of-ai-threats-at-reuters-next-event-2026-10"
+      "link": "https://www.ithome.com/1/017/314.htm"
     },
     {
-      "id": "40203df8-2d23-81c2-854a-c804ccae5f77",
-      "title": "Moonshot AI Launches New Kimi K3.1 Pro Model",
-      "summary": "Moonshot AI on Friday announced its new model, Kimi K3.1 Pro, demonstrating performance that rivals that of top-tier U.S. frontier models on some benchmarks. Kimi K3.1 Pro, built on the architecture of its popular predecessor Kimi K3, is now ranked fourth on the Artificial Analysis Intelligence ...",
-      "source": "The Information",
+      "id": "40303df8-2d23-812a-840e-ee6681bead10",
+      "title": "亚马逊 CEO 贾西：要让 AI 广泛应用于企业软件，成本需降至目前十分之一",
+      "summary": "IT之家 10 月 24 日消息，亚马逊 CEO 安迪 · 贾西认为，AI 推理成本仍然太高，要让 AI 广泛应用于企业软件，成本还需要降至目前的约十分之一，而亚马逊自研芯片有望帮助降低成本。贾西在风险投资机构 a16z 当地时间 23 日发布的采访中透露：“在我看来，要让 AI 得到尽可能广泛的应用，推理成本仍然高了一个数量级。”亚马逊今年计划投入 2,200 亿美元（IT之家注：现汇率约合 1.47 万亿元人民币）资本开支，却依然无法建成足够的基础设施来满足 AI 需求。贾西透露，2026 年的主要算力供应额度基本订满，2027 年的大部分也已被客户预订，2028 年也有相当一部分也已售罄",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theinformation.com/briefings/moonshot-ai-launches-new-kimi-k3-1-pro-model"
+      "link": "https://www.ithome.com/1/017/313.htm"
     },
     {
-      "id": "40203df8-2d23-8189-bfd0-e93a1d77998b",
-      "title": "AWS Sold Out Of Capacity Into 2028, Jassy Says",
-      "summary": "Amazon Web Services capacity is mostly booked up through at least next year, Amazon CEO Andy Jassy said on an Andreessen Horowitz podcast released on Friday. “‘26 is obviously at this point sold out. [2027] is largely sold out. We always leave a certain amount for on demand and our inference ...",
-      "source": "The Information",
+      "id": "40303df8-2d23-815a-ad79-f900ce97132e",
+      "title": "亚马逊 CEO 贾西：要让 AI 广泛应用于企业软件，成本需降至目前十分之一",
+      "summary": "IT之家 10 月 24 日消息，亚马逊 CEO 安迪 · 贾西认为，AI 推理成本仍然太高，要让 AI 广泛应用于企业软件，成本还需要降至目前的约十分之一，而亚马逊自研芯片有望帮助降低成本。贾西在风险投资机构 a16z 当地时间 23 日发布的采访中透露：“在我看来，要让 AI 得到尽可能广泛的应用，推理成本仍然高了一个数量级。”亚马逊今年计划投入 2,200 亿美元（IT之家注：现汇率约合 1.47 万亿元人民币）资本开支，却依然无法建成足够的基础设施来满足 AI 需求。贾西透露，2026 年的主要算力供应额度基本订满，2027 年的大部分也已被客户预订，2028 年也有相当一部分也已售罄",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says"
+      "link": "https://www.ithome.com/1/017/313.htm"
     },
     {
-      "id": "40203df8-2d23-810e-b5da-d4ccff7938ca",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "source": "TechCrunch",
+      "id": "40303df8-2d23-817d-8084-e3017115ed5a",
+      "title": "苹果 iPhone Duo 被曝严重安全隐患：手机上锁可能失效，目前最新版本系统还没有修复",
+      "summary": "IT之家 10 月 24 日消息，据博主 @胜利文绉绉 分享，iPhone Duo 严重安全隐患 —— 手机上锁可能失效，且在目前最新版本系统还没有修复（博主视频中显示系统版本号为 iOS 27.1）。博主反馈称，他发现 iPhone Duo 的指纹解锁响应速度特别慢，所以可以一直压力测试它，让它“confuse”（IT之家注：该单词基本含义包括使困惑、混淆及使复杂化），反应不过来。在这种情况下，不用长按指纹、也不用上滑屏幕，轻点屏幕可以直接解锁手机（锁屏图标会正常显示上锁）。博主建议大家在问题修复之前，尽量少使用指纹解锁。另据IT之家今日早些时候报道，安全公司 Calif.io 昨日在 X ",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+      "link": "https://www.ithome.com/1/017/312.htm"
     },
     {
-      "id": "40203df8-2d23-8152-ab7d-f4bc5f689db7",
-      "title": "Xbox’s first chief operating officer is out after just a few months",
-      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted",
-      "source": "The Verge",
+      "id": "40303df8-2d23-810f-8ebe-fee6caddc2e8",
+      "title": "苹果 iPhone Duo 被曝严重安全隐患：手机上锁可能失效，目前最新版本系统还没有修复",
+      "summary": "IT之家 10 月 24 日消息，据博主 @胜利文绉绉 分享，iPhone Duo 严重安全隐患 —— 手机上锁可能失效，且在目前最新版本系统还没有修复（博主视频中显示系统版本号为 iOS 27.1）。博主反馈称，他发现 iPhone Duo 的指纹解锁响应速度特别慢，所以可以一直压力测试它，让它“confuse”（IT之家注：该单词基本含义包括使困惑、混淆及使复杂化），反应不过来。在这种情况下，不用长按指纹、也不用上滑屏幕，轻点屏幕可以直接解锁手机（锁屏图标会正常显示上锁）。博主建议大家在问题修复之前，尽量少使用指纹解锁。另据IT之家今日早些时候报道，安全公司 Calif.io 昨日在 X ",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure"
+      "link": "https://www.ithome.com/1/017/312.htm"
     },
     {
-      "id": "40203df8-2d23-8116-a7d7-c6bc587c099c",
-      "title": "Instacart Shares Rally 10% After The Information Reports Sale Talks",
-      "summary": "Instacart shares jumped 10% in the final minutes of regular stock market trading Friday following The Information’s report that the delivery app company is in talks to sell itself. Shares in the company closed at $56.44. Instacart has been working with an investment bank to weigh its options and ...",
-      "source": "The Information",
+      "id": "40303df8-2d23-8187-ab46-e0d64aabe059",
+      "title": "苹果 iPhone Duo 隐藏交互曝光：为左撇子优化，控制中心一点就开",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 今天（10 月 24 日）发布博文，报道称在苹果首款折叠 iPhone Duo 上，苹果公司针对“左撇子”用户，引入了新的控制中心打开方式。在 iPhone X 以及后续没有配备 Home 按钮的机型上，用户从屏幕右上角向下滑动即可打开控制中心。但在 iPhone Duo 折叠手机上，单手尤其是左手使用时，从屏幕右上角下滑打开控制中心较为吃力。苹果公司为此引入了新的打开方式，用户可直接点击状态栏中新增的电池、Wi-Fi 与蜂窝网络组合图标，即可调出控制中心。相比从右上角下滑，这一图标位置更靠近拇指自然活动区域，操作明显更轻松。在屏幕上",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theinformation.com/briefings/instacart-shares-rally-10-information-reports-sale-talks"
+      "link": "https://www.ithome.com/1/017/311.htm"
     },
     {
-      "id": "40203df8-2d23-81a9-a343-fb7481ffeb40",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external",
-      "source": "The Verge",
+      "id": "40303df8-2d23-8104-b833-dfd74cbe017f",
+      "title": "苹果 iPhone Duo 隐藏交互曝光：为左撇子优化，控制中心一点就开",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 今天（10 月 24 日）发布博文，报道称在苹果首款折叠 iPhone Duo 上，苹果公司针对“左撇子”用户，引入了新的控制中心打开方式。在 iPhone X 以及后续没有配备 Home 按钮的机型上，用户从屏幕右上角向下滑动即可打开控制中心。但在 iPhone Duo 折叠手机上，单手尤其是左手使用时，从屏幕右上角下滑打开控制中心较为吃力。苹果公司为此引入了新的打开方式，用户可直接点击状态栏中新增的电池、Wi-Fi 与蜂窝网络组合图标，即可调出控制中心。相比从右上角下滑，这一图标位置更靠近拇指自然活动区域，操作明显更轻松。在屏幕上",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+      "link": "https://www.ithome.com/1/017/311.htm"
     },
     {
-      "id": "40203df8-2d23-8185-be86-c24b363b4a99",
-      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
-      "source": "TechCrunch",
+      "id": "40303df8-2d23-8132-901e-e46121c0a98b",
+      "title": "国产旗舰机最新激活销量数据曝光，华为 Mate 90 系列开售 18 天约 52.8 万台连续多周第一",
+      "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 昨日发文，分享了国产旗舰机的最新激活销量（第三方机构截止 2026 年第 42 周累计数据）：某 16 一款机型 —— 8.35W (首周开售 6 天)某 90 系列四款机型 —— 52.8W±(开售 18 天)某 9 系列三款机型 —— 39.1W±(开售 21 天)某 18 系列两款机型 —— 36.8W±(开售 26 天)某 10 系列三款机型 —— 24.6W±(开售 25 天)某 500 系列三款机型 —— 20.8W±(开售 25 天)根据评论区讨论来看，上述机型分别对应一加 16、华为 Mate 90 系列、荣耀 Magic9",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/"
+      "link": "https://www.ithome.com/1/017/310.htm"
     },
     {
-      "id": "40203df8-2d23-81ef-8d65-d9dcd47a5a91",
-      "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
-      "summary": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
-      "source": "CNBC Tech",
+      "id": "40303df8-2d23-8168-bed1-e5f844728550",
+      "title": "国产旗舰机最新激活销量数据曝光，华为 Mate 90 系列开售 18 天约 52.8 万台连续多周第一",
+      "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 昨日发文，分享了国产旗舰机的最新激活销量（第三方机构截止 2026 年第 42 周累计数据）：某 16 一款机型 —— 8.35W (首周开售 6 天)某 90 系列四款机型 —— 52.8W±(开售 18 天)某 9 系列三款机型 —— 39.1W±(开售 21 天)某 18 系列两款机型 —— 36.8W±(开售 26 天)某 10 系列三款机型 —— 24.6W±(开售 25 天)某 500 系列三款机型 —— 20.8W±(开售 25 天)根据评论区讨论来看，上述机型分别对应一加 16、华为 Mate 90 系列、荣耀 Magic9",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html"
+      "link": "https://www.ithome.com/1/017/310.htm"
     },
     {
-      "id": "40203df8-2d23-813b-b729-ee3b33e6dbe5",
-      "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
-      "summary": "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
-      "source": "CNBC Tech",
+      "id": "40303df8-2d23-8133-a49c-e7aecf88cb36",
+      "title": "苹果 iPhone Duo 影像细节曝光：主摄最高可读取 5100 万像素",
+      "summary": "IT之家 10 月 24 日消息，消息源 @itspdfu 昨日（10 月 23 日）发布博文，通过挖掘 iOS 27.1 和 iOS 27.2 RC 版本代码，进一步披露了苹果首款折叠 iPhone Duo 的影像规格参数。图源：iPhone Duo 苹果官网主摄方面，iPhone Duo 的主摄采用 IMX954 传感器，配备“四像素”结构与 1.0µm 子像素，最大配置读出尺寸为 8448 × 6048，约合 5100 万像素；系统可输出 1200 万（四个子像素合并成一个像素）、2400 万及 4800 万像素照片。IT之家注：子像素（sub-pixels）是衡量手机相机传感器感光单元",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html"
+      "link": "https://www.ithome.com/1/017/309.htm"
     },
     {
-      "id": "40203df8-2d23-8196-a032-fe6721413a0d",
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
-      "source": "TechCrunch",
+      "id": "40303df8-2d23-8181-a45f-f9c3bf8c804a",
+      "title": "苹果 iPhone Duo 影像细节曝光：主摄最高可读取 5100 万像素",
+      "summary": "IT之家 10 月 24 日消息，消息源 @itspdfu 昨日（10 月 23 日）发布博文，通过挖掘 iOS 27.1 和 iOS 27.2 RC 版本代码，进一步披露了苹果首款折叠 iPhone Duo 的影像规格参数。图源：iPhone Duo 苹果官网主摄方面，iPhone Duo 的主摄采用 IMX954 传感器，配备“四像素”结构与 1.0µm 子像素，最大配置读出尺寸为 8448 × 6048，约合 5100 万像素；系统可输出 1200 万（四个子像素合并成一个像素）、2400 万及 4800 万像素照片。IT之家注：子像素（sub-pixels）是衡量手机相机传感器感光单元",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/"
+      "link": "https://www.ithome.com/1/017/309.htm"
     },
     {
-      "id": "40203df8-2d23-8192-9045-dad2402eb5ee",
-      "title": "AI is driving a data-center power boom. These are some of the biggest US projects being built.",
-      "summary": "Data centers are in such high demand that SpaceX is offering its employees pay bumps for helping with construction.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-818a-9477-e3ee20f438f8",
+      "title": "利用核聚变技术，美初创公司 Marathon Fusion 宣称实现“水银变黄金”",
+      "summary": "IT之家 10 月 24 日消息，据外媒 Interesting Engineering 报道，美国旧金山核聚变初创企业 Marathon Fusion 宣称，利用核聚变产生的高能中子实现了“点汞成金”。该公司于当地时间 21 日宣布，其黄金生产速率达到欧洲核子研究组织（CERN）2025 年纪录的 10 倍。然而，实验成果尚未得到公开的独立验证，Marathon 也没有透露究竟制造了多少黄金。根据 Marathon 介绍的技术原理，氘氚聚变产生的 14MeV 中子撞击汞-198 后，会使其转化为具有放射性的汞-197。汞-197 的半衰期据称约为 64 小时，随后衰变成金-197，也就是金唯",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/these-largest-planned-us-ai-data-centers-ranked-by-power-2026-9"
+      "link": "https://www.ithome.com/1/017/307.htm"
     },
     {
-      "id": "40203df8-2d23-8133-9104-e8e8d8ddc783",
-      "title": "Instacart Is Exploring a Sale",
-      "summary": "Instacart is in talks to sell itself in a transaction that would cap the grocery delivery app’s 14-year run as a standalone company. Currently valued at $12 billion, Instacart has been working with an investment bank to weigh its options and held at least preliminary conversations with DoorDash and ",
-      "source": "The Information",
+      "id": "40303df8-2d23-819b-b032-ec8451706788",
+      "title": "利用核聚变技术，美初创公司 Marathon Fusion 宣称实现“水银变黄金”",
+      "summary": "IT之家 10 月 24 日消息，据外媒 Interesting Engineering 报道，美国旧金山核聚变初创企业 Marathon Fusion 宣称，利用核聚变产生的高能中子实现了“点汞成金”。该公司于当地时间 21 日宣布，其黄金生产速率达到欧洲核子研究组织（CERN）2025 年纪录的 10 倍。然而，实验成果尚未得到公开的独立验证，Marathon 也没有透露究竟制造了多少黄金。根据 Marathon 介绍的技术原理，氘氚聚变产生的 14MeV 中子撞击汞-198 后，会使其转化为具有放射性的汞-197。汞-197 的半衰期据称约为 64 小时，随后衰变成金-197，也就是金唯",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theinformation.com/articles/instacart-exploring-sale"
+      "link": "https://www.ithome.com/1/017/307.htm"
     },
     {
-      "id": "40203df8-2d23-8104-8659-f17e254daf83",
-      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-      "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just w",
-      "source": "The Verge",
+      "id": "40303df8-2d23-81ee-9405-d085bdc1798f",
+      "title": "iOS 27.2 剧透：苹果首款折叠 iPhone Duo 恐不支持 Apple Pencil 悬停功能",
+      "summary": "IT之家 10 月 24 日消息，消息源 @itspdfu 昨日（10 月 23 日）在 X 平台发布推文，通过挖掘 iOS 27.2 RC 内部代码，推测苹果首款折叠 iPhone Duo 可能不支持 Apple Pencil 的悬停（Hover）功能。在兼容支持的 iPad 设备上，用户将 Apple Pencil 悬浮在屏幕上方（最高约 12 毫米）后，iPad 能识别笔的位置并给出实时预览，让你在真正落笔前看到效果，从而更精准地书写、绘画和操作。IT之家此前报道，消息源 Max Weinbach 此前测试，安装 iOS 27.2 RC（候选版）后，iPhone Duo 已可正常配对并使",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided"
+      "link": "https://www.ithome.com/1/017/306.htm"
     },
     {
-      "id": "40203df8-2d23-81fa-908d-ffcbb6b96b8e",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan",
-      "source": "The Verge",
+      "id": "40303df8-2d23-81ab-9928-de15a6159e15",
+      "title": "iOS 27.2 剧透：苹果首款折叠 iPhone Duo 恐不支持 Apple Pencil 悬停功能",
+      "summary": "IT之家 10 月 24 日消息，消息源 @itspdfu 昨日（10 月 23 日）在 X 平台发布推文，通过挖掘 iOS 27.2 RC 内部代码，推测苹果首款折叠 iPhone Duo 可能不支持 Apple Pencil 的悬停（Hover）功能。在兼容支持的 iPad 设备上，用户将 Apple Pencil 悬浮在屏幕上方（最高约 12 毫米）后，iPad 能识别笔的位置并给出实时预览，让你在真正落笔前看到效果，从而更精准地书写、绘画和操作。IT之家此前报道，消息源 Max Weinbach 此前测试，安装 iOS 27.2 RC（候选版）后，iPhone Duo 已可正常配对并使",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+      "link": "https://www.ithome.com/1/017/306.htm"
     },
     {
-      "id": "40203df8-2d23-81bd-bb9c-e766f94ebbf9",
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-      "source": "TechCrunch",
+      "id": "40303df8-2d23-8150-b523-c7296b369b33",
+      "title": "苹果推送 watchOS 27.2 第二个候选版更新，正式版预估下周到来",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 发布博文，报道称苹果昨日（10 月 23 日）面向开发者和公开测试用户，推送了第二个 watchOS 27.2 候选（RC）版本更新，版本号为 24S118。IT之家此前报道，苹果公司于 10 月 19 日推送 watchOS 27.2 RC 候选版本，内部版本号为 24S116，本次更新相隔约 4 天时间。苹果尚未公布新 RC 的具体变更说明，该媒体推测其重点在于提升系统稳定性、修复已知问题，并为正式版发布做最后准备。苹果公司有望下周推送 watchOS 27.2 正式版，并同步推送 iOS 27.2、iPadOS 27.2、tvO",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/"
+      "link": "https://www.ithome.com/1/017/305.htm"
     },
     {
-      "id": "40203df8-2d23-81ed-a1d3-c3170704dca9",
-      "title": "How Americans' skin became a K-beauty craze",
-      "summary": "A Korean beauty treatment is taking the skin care world by storm. It's made from the skin of dead American donors.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-810f-814e-cb6a11a8d0d2",
+      "title": "苹果推送 watchOS 27.2 第二个候选版更新，正式版预估下周到来",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 发布博文，报道称苹果昨日（10 月 23 日）面向开发者和公开测试用户，推送了第二个 watchOS 27.2 候选（RC）版本更新，版本号为 24S118。IT之家此前报道，苹果公司于 10 月 19 日推送 watchOS 27.2 RC 候选版本，内部版本号为 24S116，本次更新相隔约 4 天时间。苹果尚未公布新 RC 的具体变更说明，该媒体推测其重点在于提升系统稳定性、修复已知问题，并为正式版发布做最后准备。苹果公司有望下周推送 watchOS 27.2 正式版，并同步推送 iOS 27.2、iPadOS 27.2、tvO",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/guides/beauty/how-americans-skin-became-a-k-beauty-craze-2026-10"
+      "link": "https://www.ithome.com/1/017/305.htm"
     },
     {
-      "id": "40203df8-2d23-8161-87c1-caca2142a46f",
-      "title": "Mark Zuckerberg keeps coming out on top",
-      "summary": "CEO Mark Zuckerberg's risky AI bets and layoffs are showing signs of paying off after the success of Meta's Muse launch. Big questions still loom.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-81b7-9ced-f00d8e7a9571",
+      "title": "英国将砸 6 亿英镑应对潜在 AI 风险，还计划建 AI 生物安全实验室",
+      "summary": "IT之家 10 月 24 日消息，据路透社报道，当地时间 24 日，英国政府宣布将投入约 6 亿英镑（IT之家注：现汇率约合 53.6 亿元人民币），重点应对 AI 带来的公共卫生和安全风险。其中，生物安全计划将获得最多资金。英国政府将斥资 1 亿英镑（现汇率约合 8.93 亿元人民币）建立 AI 生物安全实验室以识别生物威胁，另投入 6,500 万英镑（现汇率约合 5.81 亿元人民币）研发针对病原体的防范和应对措施。英国 AI 大臣卡尼什卡 · 纳拉扬表示，政府希望把 AI 生物安全实验室建设成具有全球影响力的重要机构，汇聚世界顶尖科研力量，保护民众免受新出现的生物威胁。其他投入和支持措施",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/ceo-mark-zuckerberg-keeps-winning-meta-ai-moves-muse-launch-2026-10"
+      "link": "https://www.ithome.com/1/017/304.htm"
     },
     {
-      "id": "40203df8-2d23-813b-9085-fea1d0a7aa71",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
-      "source": "TechCrunch",
+      "id": "40303df8-2d23-81fb-9fd2-c571d7b9357f",
+      "title": "英国将砸 6 亿英镑应对潜在 AI 风险，还计划建 AI 生物安全实验室",
+      "summary": "IT之家 10 月 24 日消息，据路透社报道，当地时间 24 日，英国政府宣布将投入约 6 亿英镑（IT之家注：现汇率约合 53.6 亿元人民币），重点应对 AI 带来的公共卫生和安全风险。其中，生物安全计划将获得最多资金。英国政府将斥资 1 亿英镑（现汇率约合 8.93 亿元人民币）建立 AI 生物安全实验室以识别生物威胁，另投入 6,500 万英镑（现汇率约合 5.81 亿元人民币）研发针对病原体的防范和应对措施。英国 AI 大臣卡尼什卡 · 纳拉扬表示，政府希望把 AI 生物安全实验室建设成具有全球影响力的重要机构，汇聚世界顶尖科研力量，保护民众免受新出现的生物威胁。其他投入和支持措施",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+      "link": "https://www.ithome.com/1/017/304.htm"
     },
     {
-      "id": "40203df8-2d23-8145-ae2f-c20441fe082c",
-      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-      "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently",
-      "source": "The Verge",
+      "id": "40303df8-2d23-8153-8e52-c86f202a1c60",
+      "title": "华为 Mate 90 标准版 / Pro Max 等机型开放 24 期免息分期活动，国补价 5499 元起",
+      "summary": "IT之家 10 月 24 日消息，华为官网显示，Mate 90 系列部分机型开放了 24 期免息分期活动，包括：Mate 90、 Mate 90 Pro 和 Mate 90 Pro Max。IT之家注意到，京东等电商平台也同步开启了该活动，国补价 5499 元起。京东 HUAWEI Mate 9024 期免息国补价 5499 元直达链接京东 HUAWEI Mate 90 Pro24 期免息 6999 元起直达链接京东 HUAWEI Mate 90 Pro Max24 期免息 9499 元起直达链接据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale"
+      "link": "https://www.ithome.com/1/017/303.htm"
     },
     {
-      "id": "40203df8-2d23-8129-b7ea-f87a607887ed",
-      "title": "Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",
-      "summary": "The brand’s lovely selection of hand-knotted and handwoven wool rugs at reasonable prices make it a WIRED-staff favorite.",
-      "source": "Wired",
+      "id": "40303df8-2d23-8164-a2cb-d1dcb7e4b7a5",
+      "title": "华为 Mate 90 标准版 / Pro Max 等机型开放 24 期免息分期活动，国补价 5499 元起",
+      "summary": "IT之家 10 月 24 日消息，华为官网显示，Mate 90 系列部分机型开放了 24 期免息分期活动，包括：Mate 90、 Mate 90 Pro 和 Mate 90 Pro Max。IT之家注意到，京东等电商平台也同步开启了该活动，国补价 5499 元起。京东 HUAWEI Mate 9024 期免息国补价 5499 元直达链接京东 HUAWEI Mate 90 Pro24 期免息 6999 元起直达链接京东 HUAWEI Mate 90 Pro Max24 期免息 9499 元起直达链接据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/"
+      "link": "https://www.ithome.com/1/017/303.htm"
     },
     {
-      "id": "40203df8-2d23-81f5-b84d-c1b57251b23c",
-      "title": "I woke up to panicked text messages about the PHP attacks. As a cybersecurity expert, here are the 3 things I tell people to do right away.",
-      "summary": "A cybersecurity product manager explains why two PHP flaws sparked mass panic — and shares 3 steps website owners can take to protect their sites.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-8158-98fd-c9896486fa8f",
+      "title": "iPhone Duo 开售首日，苹果同步公开“拆机说明书”",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 最新报道称，在苹果首款折叠 iPhone Duo 开售首日（10 月 23 日），苹果公司同步上线官方自助维修手册与配套支持文档，覆盖电池、屏幕、摄像头、扬声器、逻辑板、USB-C 接口等大量部件的更换流程。在配套官方支持文档中，苹果列出了多种可能出现的状况，包括设备无法完全开合、开合时出现异常噪音、铰链松动、铰链弯曲或断裂，以及外壳损坏影响铰链使用等。苹果建议用户按照官方指引排查，必要时寻求售后支持。除铰链和配件外，苹果还发布了多项故障排查指南，涵盖设备无法开机或黑屏、忘记密码后通过 Mac 或 PC 重置、按键异常、蓝牙与 Wi-",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/three-steps-to-protect-website-against-php-vulnerabilities-ai-era-2026-10"
+      "link": "https://www.ithome.com/1/017/302.htm"
     },
     {
-      "id": "40203df8-2d23-812b-a9ac-d8b219723a5c",
-      "title": "These 26 current US House representatives were born outside the US",
-      "summary": "Unlike the president and vice president, US House representatives do not need to be natural-born citizens in order to take office.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-811e-870a-f1b4a3ef49e9",
+      "title": "iPhone Duo 开售首日，苹果同步公开“拆机说明书”",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 最新报道称，在苹果首款折叠 iPhone Duo 开售首日（10 月 23 日），苹果公司同步上线官方自助维修手册与配套支持文档，覆盖电池、屏幕、摄像头、扬声器、逻辑板、USB-C 接口等大量部件的更换流程。在配套官方支持文档中，苹果列出了多种可能出现的状况，包括设备无法完全开合、开合时出现异常噪音、铰链松动、铰链弯曲或断裂，以及外壳损坏影响铰链使用等。苹果建议用户按照官方指引排查，必要时寻求售后支持。除铰链和配件外，苹果还发布了多项故障排查指南，涵盖设备无法开机或黑屏、忘记密码后通过 Mac 或 PC 重置、按键异常、蓝牙与 Wi-",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/the-current-house-representatives-born-outside-the-us-2026-10"
+      "link": "https://www.ithome.com/1/017/302.htm"
     },
     {
-      "id": "40203df8-2d23-81f8-9f03-c2badcafba98",
-      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-      "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tes",
-      "source": "The Verge",
+      "id": "40303df8-2d23-81d2-bca6-f0927f62849b",
+      "title": "光刻机巨头 ASML 拟将员工满意度纳入高管薪酬考核，缓解组织重组后的内部不满",
+      "summary": "IT之家 10 月 24 日消息，光刻机巨头、欧洲市值最高企业 ASML 的 CEO 克里斯托夫 · 富凯准备将自己的薪酬与提振员工士气的目标挂钩。据《商业内幕》获得的内部备忘录，富凯上周向员工透露，ASML 计划把员工满意度纳入高管薪酬考核，以缓解大规模组织重组引发的不满情绪。ASML 此前开展了一年一度的员工调查，约 4.4 万名员工中有超过 3.8 万人参与。IT之家获悉，调查结果显示，ASML 用于衡量员工满意度的敬业度指数从去年的 78% 下降至今年的 73.5%。富凯在备忘录中承认，过去一年，公司经历了“动荡而令人情绪难平”的时期，员工敬业度下降也反映出公司正经历重大变革。为此，A",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale"
+      "link": "https://www.ithome.com/1/017/300.htm"
     },
     {
-      "id": "40203df8-2d23-81ed-bd36-d2811ccb6b34",
-      "title": "Elon Musk’s dangerous grip on outer space",
-      "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speed",
-      "source": "The Verge",
+      "id": "40303df8-2d23-8130-adeb-f4bd61cb05dd",
+      "title": "光刻机巨头 ASML 拟将员工满意度纳入高管薪酬考核，缓解组织重组后的内部不满",
+      "summary": "IT之家 10 月 24 日消息，光刻机巨头、欧洲市值最高企业 ASML 的 CEO 克里斯托夫 · 富凯准备将自己的薪酬与提振员工士气的目标挂钩。据《商业内幕》获得的内部备忘录，富凯上周向员工透露，ASML 计划把员工满意度纳入高管薪酬考核，以缓解大规模组织重组引发的不满情绪。ASML 此前开展了一年一度的员工调查，约 4.4 万名员工中有超过 3.8 万人参与。IT之家获悉，调查结果显示，ASML 用于衡量员工满意度的敬业度指数从去年的 78% 下降至今年的 73.5%。富凯在备忘录中承认，过去一年，公司经历了“动荡而令人情绪难平”的时期，员工敬业度下降也反映出公司正经历重大变革。为此，A",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly"
+      "link": "https://www.ithome.com/1/017/300.htm"
     },
     {
-      "id": "40203df8-2d23-8139-b961-e0acb1b38cae",
-      "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-      "summary": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
-      "source": "CNBC Tech",
+      "id": "40303df8-2d23-8194-8ba5-c2ae6ee66f73",
+      "title": "苹果首款折叠 iPhone Duo 开售首日，部分用户反馈屏幕问题",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 Cult of Mac 今天（10 月 24 日）发布博文，报道称苹果首款折叠 iPhone Duo 开售首日（昨日 10 月 23 日），在社交媒体上就开始流传多张内屏出现裂纹的照片。据报道，裂纹多沿折叠线向屏幕中心延伸，并向右侧边缘出现一排疑似坏点，损坏形态较为相似。一名澳大利亚用户称，手机在折叠不到 20 次后，内屏沿铰链处发出“咔嚓”声并出现裂纹；其表示屏幕表面和外部铰链均未见明显撞击或异物损伤痕迹。另有用户称，部分演示机也在同一位置出现损坏。网友 u/Bitter_Offer7123 昨日在 Reddit 社区发帖，分享了一张图片，预估是日",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html"
+      "link": "https://www.ithome.com/1/017/299.htm"
     },
     {
-      "id": "40203df8-2d23-819d-b2d2-de14876f86b7",
-      "title": "The Elizabeth Holmes bump is real",
-      "summary": "The new documentary \"You Can See Everything\" is fueling a fresh wave of fascination with the saga surrounding disgraced founder Elizabeth Holmes.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-81c2-8c39-d3c981cb4a05",
+      "title": "苹果首款折叠 iPhone Duo 开售首日，部分用户反馈屏幕问题",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 Cult of Mac 今天（10 月 24 日）发布博文，报道称苹果首款折叠 iPhone Duo 开售首日（昨日 10 月 23 日），在社交媒体上就开始流传多张内屏出现裂纹的照片。据报道，裂纹多沿折叠线向屏幕中心延伸，并向右侧边缘出现一排疑似坏点，损坏形态较为相似。一名澳大利亚用户称，手机在折叠不到 20 次后，内屏沿铰链处发出“咔嚓”声并出现裂纹；其表示屏幕表面和外部铰链均未见明显撞击或异物损伤痕迹。另有用户称，部分演示机也在同一位置出现损坏。网友 u/Bitter_Offer7123 昨日在 Reddit 社区发帖，分享了一张图片，预估是日",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/elizabeth-holmes-you-can-see-everything-bump-spotify-dropout-book-2026-10"
+      "link": "https://www.ithome.com/1/017/299.htm"
     },
     {
-      "id": "40203df8-2d23-81cd-9924-fd2761ff9e2f",
-      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-      "summary": "Since last week, Ukraine has reported restrictions on a version of Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
-      "source": "CNBC Tech",
+      "id": "40303df8-2d23-8138-9350-c09653ad483d",
+      "title": "央视新闻谈 AI 魔改视频和二创区别：问题关键在“魔”，消解经典的同时也伤害文化根本",
+      "summary": "IT之家 10 月 24 日消息，据央视新闻今早报道，日前，部分重点网络视听平台公布了“AI 魔改”视频专项治理工作 9 月的处置情况，共清理违规视频近 13000 条、处置违规账号 30 余个。央视新闻在报道中谈及了 AI 魔改视频和二创区别，称“AI 魔改”问题不在 AI 也不在二创，关键在“魔”：优秀的“二创”作品基于对原著的了解与喜爱。经过观众和时间检验，融入大众文化，拥有忠实拥趸，既映射特定时代的精神面貌，也承载读者和观众的集体记忆。“AI 魔改”视频则是“辣眼睛”“毁童年”，消解经典的同时，经典承载的精神也会被人渐渐轻视，伤害文化根本。在法律层面，“AI 魔改”视频还可能涉及多种侵",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html"
+      "link": "https://www.ithome.com/1/017/298.htm"
     },
     {
-      "id": "40203df8-2d23-81b7-9555-f4d522a950cd",
-      "title": "Uber doubles down on ChatGPT for workers after last month's layoffs",
-      "summary": "Uber offers ChatGPT Work to 30,000 employees after layoffs. The AI tool assists with tasks like meeting briefs and data analysis.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-8136-b19d-f56d2d4ad9a0",
+      "title": "央视新闻谈 AI 魔改视频和二创区别：问题关键在“魔”，消解经典的同时也伤害文化根本",
+      "summary": "IT之家 10 月 24 日消息，据央视新闻今早报道，日前，部分重点网络视听平台公布了“AI 魔改”视频专项治理工作 9 月的处置情况，共清理违规视频近 13000 条、处置违规账号 30 余个。央视新闻在报道中谈及了 AI 魔改视频和二创区别，称“AI 魔改”问题不在 AI 也不在二创，关键在“魔”：优秀的“二创”作品基于对原著的了解与喜爱。经过观众和时间检验，融入大众文化，拥有忠实拥趸，既映射特定时代的精神面貌，也承载读者和观众的集体记忆。“AI 魔改”视频则是“辣眼睛”“毁童年”，消解经典的同时，经典承载的精神也会被人渐渐轻视，伤害文化根本。在法律层面，“AI 魔改”视频还可能涉及多种侵",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/uber-uses-openais-chatgpt-work-after-major-layoffs-2026-10"
+      "link": "https://www.ithome.com/1/017/298.htm"
     },
     {
-      "id": "40203df8-2d23-81c6-859c-d58f0de37ab3",
-      "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
-      "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
-      "source": "Wired",
+      "id": "40303df8-2d23-811b-81c8-dbce44692d2b",
+      "title": "苹果回应 iPhone Duo 外屏“ Safari 控件抢地盘”问题：正研究修复方案",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 今天（10 月 24 日）发布博文，报道称在最新 WebKit 博文中，苹果公司已着手针对其首款折叠 iPhone Duo 机型，解决外屏 Safari 控件太占地方，导致网页内容“太挤”的问题。在 iPhone Duo 发售之后，部分用户发现在外屏上，Safari 浏览器的网页可用空间明显偏小。原因在于 Safari 将刷新、地址栏等控件右对齐放置，占用了外屏的较大区域，导致网页正文和图片被压缩，浏览体验不如展开后的内屏。多家媒体在评测中也指出，现有网页尚未针对这种特殊屏幕形态充分优化。IT之家附上相关图片如下：在介绍 Safari",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.wired.com/gallery/iphone-buying-guide/"
+      "link": "https://www.ithome.com/1/017/297.htm"
     },
     {
-      "id": "40203df8-2d23-81f5-b0ae-fd1fee5e3c9b",
-      "title": "The iPhone Duo should have been an iPad",
-      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
-      "source": "The Verge",
+      "id": "40303df8-2d23-8120-a01e-c75474fbd2ac",
+      "title": "苹果回应 iPhone Duo 外屏“ Safari 控件抢地盘”问题：正研究修复方案",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 今天（10 月 24 日）发布博文，报道称在最新 WebKit 博文中，苹果公司已着手针对其首款折叠 iPhone Duo 机型，解决外屏 Safari 控件太占地方，导致网页内容“太挤”的问题。在 iPhone Duo 发售之后，部分用户发现在外屏上，Safari 浏览器的网页可用空间明显偏小。原因在于 Safari 将刷新、地址栏等控件右对齐放置，占用了外屏的较大区域，导致网页正文和图片被压缩，浏览体验不如展开后的内屏。多家媒体在评测中也指出，现有网页尚未针对这种特殊屏幕形态充分优化。IT之家附上相关图片如下：在介绍 Safari",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast"
+      "link": "https://www.ithome.com/1/017/297.htm"
     },
     {
-      "id": "40203df8-2d23-8122-a4ea-e6db74f671cb",
-      "title": "The states with the fewest and most data centers, ranked",
-      "summary": "The AI boom has ramped up data center development. Some states are feeling the industry's growth more than others, like Texas and Virginia.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-81d2-83c1-f027b43b2dd7",
+      "title": "阿尔法 · 罗密欧首席设计师罗马诺斯：车载大屏几年后就会过时",
+      "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据英媒 Autocar 报道，阿尔法 · 罗密欧希望通过 Cuorerosso 概念车，摆脱汽车行业不断比拼屏幕大小的风气。该车首席设计师认为，车企没有必要为了更大的屏幕而牺牲内饰设计。Cuorerosso 于上周的巴黎车展首次亮相，采用溜背式车身设计，展示了家族下一代车型的设计思路。其中一项重要变化，就是简化座舱布局，减少屏幕在内饰中的占比。在接受采访时，阿尔法 · 罗密欧首席设计师亚历杭德罗 · 梅索内罗-罗马诺斯直言不讳。“不如把屏幕都去掉。我们追求的是留白，坐在车里看看屏幕还不错，但开车时有没有必要看那么多屏幕，我是怀疑的。大家好像",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/number-data-centers-in-each-state-2026-10"
+      "link": "https://www.ithome.com/1/017/296.htm"
     },
     {
-      "id": "40203df8-2d23-8123-bc34-f88b26673003",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for per",
-      "source": "The Verge",
+      "id": "40303df8-2d23-819e-b0e2-e08355287c3e",
+      "title": "阿尔法 · 罗密欧首席设计师罗马诺斯：车载大屏几年后就会过时",
+      "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据英媒 Autocar 报道，阿尔法 · 罗密欧希望通过 Cuorerosso 概念车，摆脱汽车行业不断比拼屏幕大小的风气。该车首席设计师认为，车企没有必要为了更大的屏幕而牺牲内饰设计。Cuorerosso 于上周的巴黎车展首次亮相，采用溜背式车身设计，展示了家族下一代车型的设计思路。其中一项重要变化，就是简化座舱布局，减少屏幕在内饰中的占比。在接受采访时，阿尔法 · 罗密欧首席设计师亚历杭德罗 · 梅索内罗-罗马诺斯直言不讳。“不如把屏幕都去掉。我们追求的是留白，坐在车里看看屏幕还不错，但开车时有没有必要看那么多屏幕，我是怀疑的。大家好像",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+      "link": "https://www.ithome.com/1/017/296.htm"
     },
     {
-      "id": "40203df8-2d23-813b-9f21-f0649716f646",
-      "title": "LeBron James has a decorated NBA career. His real estate portfolio is pretty impressive, too.",
-      "summary": "NBA champion LeBron James has built a multimillion-dollar real estate portfolio. Here are the homes he's owned in the US.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-81b4-89cd-cc76c2e3f9a9",
+      "title": "华为官宣 Mate 90 系列手机上线全新睿影 XMAGE 影像服务，图库升级支持 AI 一键成片等功能",
+      "summary": "IT之家 10 月 24 日消息，华为官方昨日宣布，Mate 90 系列手机上线全新睿影 XMAGE 影像服务，宣称“人像柔光更出彩”。另外，新机图库升级，小艺 · 图库助手新增支持智慧修图、AI 一键成片及 3D 动态照片等功能。据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，全系搭载了韬定律芯片。旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）；逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050 Pro（Mate 90 ",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/lebron-james-homes-properties-photos-see-inside"
+      "link": "https://www.ithome.com/1/017/295.htm"
     },
     {
-      "id": "40203df8-2d23-81a5-ac09-c15c8d9b38e6",
-      "title": "The first broken iPhone Duos are here",
-      "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]",
-      "source": "The Verge",
+      "id": "40303df8-2d23-8188-8cfd-cac431ae9049",
+      "title": "华为官宣 Mate 90 系列手机上线全新睿影 XMAGE 影像服务，图库升级支持 AI 一键成片等功能",
+      "summary": "IT之家 10 月 24 日消息，华为官方昨日宣布，Mate 90 系列手机上线全新睿影 XMAGE 影像服务，宣称“人像柔光更出彩”。另外，新机图库升级，小艺 · 图库助手新增支持智慧修图、AI 一键成片及 3D 动态照片等功能。据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，全系搭载了韬定律芯片。旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）；逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050 Pro（Mate 90 ",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen"
+      "link": "https://www.ithome.com/1/017/295.htm"
     },
     {
-      "id": "40203df8-2d23-8171-a2da-f7b37100a95d",
-      "title": "Miley Cyrus doesn't need popular music to stay a pop diva",
-      "summary": "Miley Cyrus' new album \"Bass Persuades\" is not selling well, and her recent live show was criticized. Here's why she'll still be fine.",
-      "source": "Business Insider",
+      "id": "40303df8-2d23-81aa-b55d-f9e4829d4c7f",
+      "title": "扎克伯格的 AI 新版图：买下 Sundial 让数据分析变成“聊天”那么简单",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 axios 昨日（10 月 23 日）发布博文，报道称马克 · 扎克伯格的 Meta Platforms 公司已收购 AI 数据分析平台 Sundial，而该平台由两名前 Meta 员工创立。值得注意的是，Sundial 的两位联合创始人均是 Meta（前 Facebook）的资深旧部：首席执行官 Julie Zhuo 曾任 Meta 产品设计副总裁，Chandra Narayanan 则曾担任 Instagram 及红杉资本的数据分析主管。Sundial 的核心能力，是让企业通过聊天机器人插件，用自然语言向复杂数据提问，并快速获得可执行的分析结论。",
+      "source": "IT之家",
       "publishTime": "2026-10-24",
-      "link": "https://www.businessinsider.com/miley-cyrus-album-bass-persuades-live-hollywood-bowl-career-2026-10"
+      "link": "https://www.ithome.com/1/017/294.htm"
+    },
+    {
+      "id": "40303df8-2d23-81fa-a8b2-efad5bb424e9",
+      "title": "扎克伯格的 AI 新版图：买下 Sundial 让数据分析变成“聊天”那么简单",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 axios 昨日（10 月 23 日）发布博文，报道称马克 · 扎克伯格的 Meta Platforms 公司已收购 AI 数据分析平台 Sundial，而该平台由两名前 Meta 员工创立。值得注意的是，Sundial 的两位联合创始人均是 Meta（前 Facebook）的资深旧部：首席执行官 Julie Zhuo 曾任 Meta 产品设计副总裁，Chandra Narayanan 则曾担任 Instagram 及红杉资本的数据分析主管。Sundial 的核心能力，是让企业通过聊天机器人插件，用自然语言向复杂数据提问，并快速获得可执行的分析结论。",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/294.htm"
+    },
+    {
+      "id": "40303df8-2d23-81af-91ca-cc77f0f1555c",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "source": "BBC Tech",
+      "publishTime": "2026-10-24",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "40303df8-2d23-812d-944d-c5ead3ae9ab5",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "source": "BBC Tech",
+      "publishTime": "2026-10-24",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "40303df8-2d23-8197-bd59-ecb2c42db9f7",
+      "title": "曝微软曾向 Netflix 开价 8 亿美元，寻求 XBOX 游戏 7 年独家影视改编权",
+      "summary": "IT之家 10 月 24 日消息，当地时间 23 日，外媒 Puck 援引三名知情人士消息称，微软曾向 Netflix 开价 8 亿美元（IT之家注：现汇率约合 53.51 亿元人民币），希望达成为期 7 年的独家授权协议，允许 Netflix 将 XBOX 旗下游戏角色改编成电影和剧集，并在其流媒体平台上独家播出。Netflix 最初为获得 XBOX 游戏的影视独家改编授权提出 5 亿美元（现汇率约合 33.44 亿元人民币）的报价，授权期限为 7 年。但微软要求将价格提高至 8 亿美元，双方最终未能谈成。XBOX 对此回应：“外界对我们旗下游戏知识产权的合作兴趣达到创纪录水平。Netfli",
+      "source": "IT之家",
+      "publishTime": "2026-10-24",
+      "link": "https://www.ithome.com/1/017/293.htm"
     }
   ],
   "macroEvents": [
