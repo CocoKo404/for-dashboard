@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-10-27 07:58",
+  "updatedAt": "2026-10-27 13:21",
   "news": [
     {
-      "id": "40503df8-2d23-8123-bc33-d3beca3a614b",
-      "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+      "id": "40603df8-2d23-81c0-8804-ff662eafc715",
+      "title": "黑客借助 AI 发现 PS5 高危漏洞，获索尼 5 万美元奖励",
+      "summary": "IT之家 10 月 27 日消息，近期出现了不少针对 PS5 的破解尝试。得益于生成式 AI，PS5 游戏在 PC 端的模拟器开发进度推进得很快。现在还有一名黑客借助 AI 找到了一个 PS5 漏洞，并通过索尼的安全上报计划拿到了一笔高额奖金。根据 IGN 的报道，该漏洞通过索尼的安全披露渠道提交之后，索尼兑现了奖金。这名 PS5 改装爱好者因为发现并上报一个高危漏洞，获得了 5 万美元（IT之家注：现汇率约合 33.4 万元人民币）奖励；该漏洞原本可以用来在 PS5 上运行 Linux 系统。而这件事最特别的地方是，拿到 5 万美元（现汇率约合 33.4 万元人民币）奖金的黑客乔迪（Jord",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/266.htm"
+    },
+    {
+      "id": "40603df8-2d23-81f3-b54d-c173211c1dc5",
+      "title": "LG Display 将在广州建设全球首条 111 英寸超大尺寸 OLED 模组线",
+      "summary": "IT之家 10 月 27 日消息，据广州开发区控股集团有限公司昨日公告，该公司近日与 LG Display 再度携手，按同比例向已投企业乐金光电增资 10 亿元，专项用于超大型 OLED 模组技术改造项目建设。IT之家了解到，乐金光电拟新增投资建设超大尺寸 OLED 显示器模组产线，支持 77 英寸、83 英寸、97 英寸、111 英寸，覆盖从高端家用巨幕到大尺寸商用显示等多元场景，进一步完善区域 OLED 产业链的终端配套能力。这也是全球首条 111 英寸超大尺寸 OLED 模组线。",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/265.htm"
+    },
+    {
+      "id": "40603df8-2d23-8146-acf6-f958a4679551",
+      "title": "“蛟龙”号载人潜水器实现迭代升级，顺利完成 7000 米级海试",
+      "summary": "IT之家 10 月 27 日消息，据新华社今天（27 日）从“深海一号”船了解到，实现第二次迭代升级的“蛟龙”号载人潜水器近日在菲律宾海盆进行了多次 7000 米潜次试验并安全返回，顺利完成国家重点研发计划“蛟龙号关键作业技术能力提升及科学应用”7000 米级海试。此次海试依托中国大洋 100 航次第二航段科学考察，“蛟龙”号先后在菲律宾海盆开展了 3 个潜次试验，其中 2 个潜次试验下潜深度超 7000 米，最大下潜深度达 7056.9 米，各项试验指标均达到 7000 米级海试要求。中国国家深海基地管理中心研究员孙永福指出，此次试验充分验证了‘蛟龙’号迭代升级和关键部件国产化替代后的可靠性",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/263.htm"
+    },
+    {
+      "id": "40603df8-2d23-81e4-9fd0-eabd3cfef697",
+      "title": "NCASE 带来 SFX 电源：获铂金转换效率认证，至高 1500W",
+      "summary": "IT之家 10 月 27 日消息，机箱制造商 NCASE 近日推出了 PC 电源产品。其采用标准 SFX 外形规格和全模组线材设计，获得 80 PLUS 铂金转换效率认证，提供 850W / 1200W / 1500W 三个版本。NCASE 的 SFX 电源符合 ATX12V 3.1 规范要求，原生提供 12V-2×6 供电。其选用全日系电容，拥有镀金模组端子，配备支持智能转速控制的 92mm FDB 风扇，随附 ATX 适配支架，具备 OVP、UVP、OPP、SCP、OTP、OCP 安全防护。NCASE 在其 SFX 电源上提供 SFF 和 MFF 两种线材组合，SFF 仅保留了主板、EPS",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/262.htm"
+    },
+    {
+      "id": "40603df8-2d23-8182-8501-c286416b08e5",
+      "title": "2026 款零跑 C 系列 OTA 推送：激光雷达车型支持车位到车位辅助驾驶等",
+      "summary": "IT之家 10 月 27 日消息，零跑汽车今天（27 日）上午宣布，零跑 C 系 2026 款车型 OTA 于 10 月开始陆续推送。本次涉及的车型包括 C10（除 530 舒享版外）、C11 全系、C16（除六座 580 尊享版 / 200 尊享版外）。IT之家汇总本次 OTA 新增功能如下：为具备激光雷达配置的车型新增车位到车位辅助驾驶为具备高通 8295 处理器的车型新增泊入辅助声纹守护（仅响应已录入声纹用户的语音指令）分屏模式下新增胎压卡片快充前将电池加热或冷却至最佳温度车辆长期离线检测机制后排娱乐屏新增儿童空间娱乐应用新增杜比全景声专区洗车模式为具备高通 8295 处理器的车型新增腾",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/261.htm"
+    },
+    {
+      "id": "40603df8-2d23-8181-807f-ed8345989486",
+      "title": "国产武侠游戏《影之刃零》开启预下载，PC 需留足 300GB 空间",
+      "summary": "IT之家 10 月 27 日消息，今日（10 月 27 日）10 点，国产暗黑武侠动作 RPG《影之刃零》正式开启全平台预下载，游戏将于 10 月 29 日正式发售，登陆 PC / PS5 平台，国区数字标准版售价 268 元，数字豪华版售价 328 元。PS5 实体光碟将于 2027 年推出。对于 PC 玩家来说，官方特意强调了三大注意事项：1、为保障良好的游戏体验，请将游戏安装在固态硬盘 (SSD) 中；2、游戏本体约 145G，由于预下载机制，请预留至少 300G 可用磁盘空间；3、请务必将显卡驱动更新至最新版本。《影之刃零》由灵游坊自主研发发行，采用虚幻引擎 5 打造，定位黑暗武侠题材",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/260.htm"
+    },
+    {
+      "id": "40603df8-2d23-8131-a11c-faf6e7adf4fe",
+      "title": "报告称豆包对抖音的引用权重飙升：每引用 3 条内容，就有 1 条来自抖音",
+      "summary": "IT之家 10 月 27 日消息，据新榜智汇本月发布的报告，豆包对抖音的引用权重从 5 月的 10.79% 飙升至 8 月的 31.8%；百度在 6 月首次将B站和好看视频纳入信源库，且二者权重之和达到 12%。报告称，视频不再是 AI 引用的“边缘补充”，而是正在成为“主力信源”。IT之家从报告了解到，今年 6 月，抖音首次登顶豆包的引用权重名单，8 月达 31.8%，3 个月翻近 3 倍。豆包每引用 3 条内容，就有 1 条来自抖音。报告提到，对于视频标题，主要看贴不贴合用户提问、有没有踩中关键词、还有最重要的语义相似度。标题与提问词的语义相似度，和引用次数呈现明确的正相关：抖音平均引用从",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/259.htm"
+    },
+    {
+      "id": "40603df8-2d23-81c7-81c1-cc81ff8ef29a",
+      "title": "芬兰电子竞技俱乐部 ENCE 经营 13 年后宣布申请破产",
+      "summary": "IT之家 10 月 27 日消息，芬兰俱乐部 ENCE 当地时间 26 日宣布申请破产。这家拥有 13 年历史的电竞组织即将落幕。ENCE 最为知名的是其《反恐精英》分部，曾收获 2019 年 IEM 卡托维兹 Major 亚军、2022 年 PGL 安特卫普 Major 第 3~4 名，赢下了 2018 年 SLi 《CS:GO》第 6 赛季、2023 年 IEM 达拉斯等冠军。该战队的应援歌曲《EZ4ENCE》也曾在游戏内风靡一时。相关阅读：《“邪恶天才”27 年后退场：北美知名电子竞技组织 Evil Geniuses 宣布停运》",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/258.htm"
+    },
+    {
+      "id": "40603df8-2d23-818b-a64b-ed781c69f825",
+      "title": "为拯救《质量效应》，相关请愿活动登上纽约时代广场大屏广告牌",
+      "summary": "IT之家 10 月 27 日消息，此前报道称#拯救质量效应（#SaveMassEffect）请愿活动为准备在 EA 总部外投放广告牌，签名数已经突破 17 万。今天这份请愿签名不仅超过 21.6 万，相关广告牌也已经正式登陆纽约的大屏。这次巨型#SaveMassEffect 数字广告牌由 @WeAreMassEffect 团队和内容创作者卡拉 · 伊丽莎白（Kala Elizabeth）统筹，今天全天在时代广场滚动播放。IT之家注意到，这块电子屏位于百老汇大道 1560 号，就在达菲广场的贝利商店正上方，位置十分醒目。身处当地的粉丝可以在每小时的 35 分看到这条 15 秒的广告。屏幕上写的“",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/257.htm"
+    },
+    {
+      "id": "40603df8-2d23-8109-8316-e77c206b3498",
+      "title": "小米米家高速吹风机 Mini 开售：11 万转 / 分钟高速电机，首销 199.7 元",
+      "summary": "IT之家 10 月 27 日消息，今天（27 日）上午，小米米家高速吹风机 Mini 正式开售，建议零售价 299 元，首销到手价 199.7 元。京东小米高速吹风机 Mini 券后 199.66 元领 0.9 元券这款新品整机重 270g（不含电源线），适配居家日常、差旅出行、健身通勤等多种场景；搭载 11 万转 / 分钟全新微型高速无刷电机，风速可达 62 米 / 秒；升级正负等离子双离子系统，实现护发 + 头皮洁净双重效果。这款新品支持 2 挡风速可调，支持 4 挡风温可调，此外还有儿童模式；拥有粉色、紫色、米白色三种颜色可选，搭载磁吸进风过滤罩，电源线自带束线带方便收纳。IT之家附这款",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/256.htm"
+    },
+    {
+      "id": "40603df8-2d23-8158-a807-c70fc7469173",
+      "title": "《羊蹄山之魂》开发商 Sucker Punch 裁员 26 人，正筹备新项目",
+      "summary": "IT之家 10 月 27 日消息，《羊蹄山之魂》（Ghost of Yotei）开发商 Sucker Punch，在其上一款游戏发售仅一年多后就裁员了部分员工。据游戏媒体 Aftermath 报道，在《羊蹄山之魂》DLC 与完全版登陆 PS5 仅仅几周后，该工作室裁掉了 26 名员工。目前这家工作室总员工大约 200 人。工作室管理层发给全体员工的内部邮件说明，做出裁员决定，是因为市场环境面临挑战，同时新项目的团队规模规划发生了变化。邮件原文写道：“我们仔细评估了市场遇到的难题，同时复盘新项目的人员需求之后，决定缩减部分人手。Sucker Punch 多个岗位将会被裁撤。”邮件还透露，下周官方",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/253.htm"
+    },
+    {
+      "id": "40603df8-2d23-81f0-8499-f538ba27bad1",
+      "title": "蚂蚁灵光 2.0 发布：全新升级“能管事的 AI 助理”，突破单次对话限制",
+      "summary": "IT之家 10 月 27 日消息，蚂蚁集团今日发布灵光 2.0，推动 AI 助理从被动响应指令、完成单次任务，向主动发现需求、持续管理事务的演进。据蚂蚁集团官方介绍，与传统对话式 AI 及任务型 Agent 相比，灵光 2.0 的一大变化，是将 AI 介入任务的起点进一步前移。过去，用户需要先发现问题、提出需求，再由 AI 执行；如今，在获得用户授权后，灵光能够结合已接入的信息与服务，主动识别潜在需求，并发起分析、监测和跟进，并在需要用户关注的节点及时提醒。AI 不再只是等待指令的工具，而开始成为能够持续管理事务的助手。这一变化背后，是灵光 2.0 对跨会话记忆、长程任务调度和工具连接能力的全",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/252.htm"
+    },
+    {
+      "id": "40603df8-2d23-8106-af38-f52e8a01aecb",
+      "title": "特斯拉为 Cybercab 电池包预留大量空间，未来兼容磷酸铁锂电池",
+      "summary": "IT之家 10 月 27 日消息，磷酸铁锂电池在全球市场迅速普及，去年成为最受欢迎的电池类型。成本更低、耐用性更强的磷酸铁锂电池，未来甚至可能用于特斯拉无人驾驶出租车 Cybercab。特斯拉电池模组及电池包机械设计工程总监罗伯特 · 桑普夫在接受 YouTube 频道 Munro Live 采访时透露，Cybercab 从设计之初就为采用磷酸铁锂电池做好了准备。新车电池包内留有大量空间，电池模组的侧面和下方都没有完全填满。“我们在设计电池包时特意预留了空间，以便未来扩大生产规模后，能够在这个平台上使用能量密度更低的磷酸铁锂电池。”特斯拉汽车工程副总裁拉斯 · 莫拉维还给出了另一个原因：“我们",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/251.htm"
+    },
+    {
+      "id": "40603df8-2d23-8146-b5f7-e56b735f8f3f",
+      "title": "不再逐个翻邮箱：微软 Win11 新版 Outlook 上线“所有账户”统一收件箱",
+      "summary": "IT之家 10 月 27 日消息，科技媒体 Windows Latest 今天（10 月 27 日）发布博文，报道称在适用于 Windows 11（原文虽未列出，但 Windows 10 版预估同样支持）的新版 Outlook 上，新增上线“所有账户”统一收件箱。IT之家援引博文介绍，在此前的 Windows 11 新版 Outlook 应用中，用户若同时使用多个邮箱，必须逐个切换收件箱，或通过“收藏夹”减少点击次数。此前新版 Outlook 单独列出邮箱账号而本次新增的“所有账户”统一收件箱让用户在 1 个列表中，直接阅读、删除、搜索、移动、归档和标记不同账户的邮件，无需在多个邮箱之间反复切",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/250.htm"
+    },
+    {
+      "id": "40603df8-2d23-818f-848b-d64ca993287d",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
       "source": "TechCrunch",
       "publishTime": "2026-10-27",
-      "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
     },
     {
-      "id": "40503df8-2d23-8151-9125-d48611876221",
-      "title": "Anthropic Founders Say They Will Keep Claude Free of Advertising",
-      "summary": "Anthropic’s seven founders said they are committed to keeping Claude free of advertising. Claude’s only incentive is to give people helpful answers, they said in a letter included in their IPO prospectus Monday. “Once advertising becomes part of a company’s revenue targets, the pressure to ...",
-      "source": "The Information",
-      "publishTime": "2026-10-27",
-      "link": "https://www.theinformation.com/briefings/anthropic-founders-say-will-keep-claude-free-advertising"
-    },
-    {
-      "id": "40503df8-2d23-8132-8596-c6f78cd24e3e",
-      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the large",
-      "source": "The Verge",
-      "publishTime": "2026-10-27",
-      "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale"
-    },
-    {
-      "id": "40503df8-2d23-8117-a29a-c3e58cb5462a",
-      "title": "Anthropic S-1 Highlights Rising Payment Costs",
-      "summary": "Anthropic said its expenses in payment processing fees increased by $222 million in the first half of this year from the same period a year ago, highlighting the surging costs of processing AI-related payments as the company grew. The increase, highlighted as a driver in Anthropic’s overall ...",
-      "source": "The Information",
-      "publishTime": "2026-10-27",
-      "link": "https://www.theinformation.com/briefings/anthropic-s-1-highlights-rising-payment-costs"
-    },
-    {
-      "id": "40503df8-2d23-8118-8275-c6c4c129ead8",
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monda",
-      "source": "The Verge",
-      "publishTime": "2026-10-27",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
-    },
-    {
-      "id": "40503df8-2d23-8186-98b9-cd5e2875b536",
-      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-      "source": "Wired",
-      "publishTime": "2026-10-27",
-      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
-    },
-    {
-      "id": "40503df8-2d23-815d-8239-d0c9dbb72006",
-      "title": "Here's what Microsoft's buyout offers actually include",
-      "summary": "Microsoft announced buyouts for 60,000 employees, with individualized offers based on level, location, and tenure.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/microsoft-employee-buyout-offer-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-81b0-8bd0-ff8a2c2acc5a",
-      "title": "Instacart calls it quits on technology it hailed as 'the future of grocery shopping'",
-      "summary": "Instacart to discontinue Caper smart carts by 2027, investing in growth initiatives after board's costly approval of this strategic shift.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/instacart-to-end-caper-smart-cart-project-by-2027-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-8126-82ca-ec04bf306988",
-      "title": "Instagram is clearly jealous of YouTube — and introducing a raft of changes",
-      "summary": "Instagram is making its app feel more like TV with long-form videos and episodic content. There are big unanswered questions for creators, though.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/instagram-doubling-down-long-form-video-culturally-relevant-episode-tv-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-8123-b24c-f1c0a9d1c541",
-      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "summary": "As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-27",
-      "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
-    },
-    {
-      "id": "40503df8-2d23-8167-a827-ce87015d960a",
-      "title": "The feds made $627 million selling Anthropic stock from SBF's friends — but could have made billions",
-      "summary": "The US government sold $627 million in Anthropic shares after seizing them from Sam Bankman-Fried's friends. Its windfall could have been even bigger.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/federal-government-sold-anthropic-shares-sam-bankman-fried-friends-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-81b1-8149-ea4f1f2941b5",
-      "title": "Billy Evans suggested that full-frontal shower scene in 'You Can See Everything,' the director says",
-      "summary": "\"You Can See Everything\" director Lance Oppenheim said that Elizabeth Holmes' partner, Billy Evans, suggested he be filmed in the shower.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/you-can-see-everything-billy-evans-shower-nude-scene-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-8109-aa92-e56d890b0f69",
-      "title": "Here are 3 revelations about Anthropic's employees and culture",
-      "summary": "Anthropic's IPO filing reveals how Claude is reshaping work, why head count is surging, and the stakes of retaining top AI talent.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/anthropic-workplace-takeaways-claude-ai-employees-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-816c-b748-dfed2b54b564",
-      "title": "I ran Anthropic's 335-page IPO filing through an AI-writing detector. Well, well, well…",
-      "summary": "Is it bad if Anthropic didn't rely heavily on Claude to write its IPO paperwork — or is this an example of when the stakes are too high to rely on AI?",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/anthropic-ipo-paperwork-ai-writing-detector-pangram-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-8152-8fc0-eb6f45f192ad",
-      "title": "Best Dyson Vacuum Deals for Dyson Week 2026",
-      "summary": "The powerful Dyson V16 Piston Animal and other Dyson vacuums and tools are discounted until Halloween.",
-      "source": "Wired",
-      "publishTime": "2026-10-27",
-      "link": "https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/"
-    },
-    {
-      "id": "40503df8-2d23-817c-8919-df678b739698",
-      "title": "Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks",
-      "summary": "Avoid the scariest thing this Halloween (your phone at 1 percent) with Anker's 20 percent off sale on all charging gear.",
-      "source": "Wired",
-      "publishTime": "2026-10-27",
-      "link": "https://www.wired.com/story/anker-halloween-sale-oct-2026/"
-    },
-    {
-      "id": "40503df8-2d23-8195-83eb-cb49e4a3b152",
-      "title": "Cadence 2026 财年第三财季归母净利润 2.9 亿美元，同比增长 0.91%",
-      "summary": "IT之家 10 月 27 日消息，Cadence今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入：16.33 亿美元（IT之家注：现汇率约合 109.06 亿元人民币），同比增长 22% 毛利润：13.98 亿美元（现汇率约合 93.33 亿元人民币），同比增长 20.84% 毛利率：85.57%，同比下降 0.82 个百分点 归母净利润：2.9 亿美元（现汇率约合 19.35 亿元人民币），同比增长 0.91% 基本每股收益：1.06 美元（现汇率约合 7.08 元人民币），同比持平 稀释每股收益",
+      "id": "40603df8-2d23-810f-ad79-f318674598fe",
+      "title": "全球首台私人空间望远镜将观测 27 颗系外行星，计划 2029 年前发射",
+      "summary": "IT之家 10 月 27 日消息，拉祖利空间望远镜（Lazuli Space Telescope）将成为全球首台私人空间望远镜，由谷歌前首席执行官埃里克 · 施密特构思发起。该望远镜搭载一面 3 米口径的主镜，大于哈勃望远镜 2.4 米的镜面，计划在 2029 年前发射升空。据IT之家了解，拉祖利望远镜配备三台仪器：一台宽视场光学成像仪、一台积分场光谱仪，以及系外行星日冕仪（ESC）。一篇新研究为这台日冕仪拟定了观测目标清单，论文标题为《拉祖利系外行星日冕仪反射星光系外行星观测计划的首批优选目标》，已发布在 arXiv 网站。论文作者是密歇根大学天文系的洛根 · 皮尔斯（Logan Pearc",
       "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.ithome.com/1/018/193.htm"
+      "link": "https://www.ithome.com/1/018/248.htm"
     },
     {
-      "id": "40503df8-2d23-8157-99e5-c0e4842a9805",
-      "title": "Here's the buyout package Skydance is offering employees who don't want to work in person 5 days a week",
-      "summary": "Skydance told employees to return to the office five days per week or take a buyout offer. Here's how much staffers who opt in will get.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/skydance-buyout-offer-details-rto-5-days-paramount-warner-bros-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-8179-a025-c05edf8c194f",
-      "title": "DoorDash Nears Deal to Buy Instacart in $17 Billion Deal",
-      "summary": "DoorDash is in advanced talks to buy Instacart for around $17 billion, according to people familiar with the matter. A deal could be announced in the coming days, assuming it doesn’t fall apart at the last minute, some of the people said. The Information first reported on Friday that Instacart ...",
-      "source": "The Information",
-      "publishTime": "2026-10-27",
-      "link": "https://www.theinformation.com/briefings/doordash-nears-deal-buy-instacart-17-billion-deal"
-    },
-    {
-      "id": "40503df8-2d23-81d6-ab0e-d2946b35f33a",
-      "title": "Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now",
-      "summary": "Track down your suitcase, car keys, and other essentials with this $23 Bluetooth tracker.",
-      "source": "Wired",
-      "publishTime": "2026-10-27",
-      "link": "https://www.wired.com/story/apple-airtag-deal-october-2026/"
-    },
-    {
-      "id": "40503df8-2d23-81fc-a06d-ffe2654dee9a",
-      "title": "OpenAI Unveils Cheaper Terra Model Amid Anthropic Pricing Battle",
-      "summary": "OpenAI on Monday unveiled the latest iteration of its GPT-6.1 model, a mid-priced version that the company said is significantly cheaper and more efficient than the version of this tier it released three months ago. According to OpenAI, GPT-6.1 Terra costs up to 50% less per token to use than ...",
-      "source": "The Information",
-      "publishTime": "2026-10-27",
-      "link": "https://www.theinformation.com/briefings/openai-unveils-cheaper-terra-model-amid-anthropic-pricing-battle"
-    },
-    {
-      "id": "40503df8-2d23-816b-8f0e-f646debd30ef",
-      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-27",
-      "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
-    },
-    {
-      "id": "40503df8-2d23-8141-8605-f073473ad7d2",
-      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-27",
-      "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
-    },
-    {
-      "id": "40503df8-2d23-8196-8d46-e2b1fafb226e",
-      "title": "I tried Bobby Flay's trick for perfect scrambled eggs, but found a cheaper way to get similar results",
-      "summary": "I made scrambled eggs with celebrity chef Bobby Flay's secret ingredient, crème fraîche, and cheaper alternatives like sour cream and Greek yogurt.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/best-scrambled-egg-recipe-chef-bobby-flay-review-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-8130-b71a-e040aadea755",
-      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-      "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"lat",
-      "source": "The Verge",
-      "publishTime": "2026-10-27",
-      "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil"
-    },
-    {
-      "id": "40503df8-2d23-8197-9e41-f67489bc7165",
-      "title": "Google Fitbit Edge Review: I Still Prefer the Air (2026)",
-      "summary": "The Edge is a welcome upgrade for longtime Fitbit users, but the missing NFC technology is a puzzling regression.",
-      "source": "Wired",
-      "publishTime": "2026-10-27",
-      "link": "https://www.wired.com/review/google-fitbit-edge/"
-    },
-    {
-      "id": "40503df8-2d23-817a-b35f-d878ecf370ee",
-      "title": "苹果 iOS/iPadOS 27.2 正式版发布",
-      "summary": "IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 更新（内部版本号：24B91020），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-10-20：iOS 27.2 RC (24B115) 2026-10-14：iOS 27.2 Beta 4 (24B5110a) 2026-10-06：iOS 27.2 ",
+      "id": "40603df8-2d23-8182-9a06-dc35f863b67a",
+      "title": "塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心",
+      "summary": "IT之家 10 月 27 日消息，Tata Communications（塔塔通讯）当地时间 26 日宣布拟斥资 4~4.5 亿美元（IT之家注：现汇率约合 26.74 ~ 30.08 亿元人民币）在印度建设一条连接关键人工智能数据中心的 AI 就绪型高速率低延迟网络走廊。为实现这一目标，塔塔通讯计划分三阶段在该国境内铺设总长度约为 10,000 km 的全新长途光纤，为全球客户在印度的算力布局提供网络基础设施。该项目的第一阶段将以孟买-浦那-海得拉巴-金奈连通东西海岸，后续则将扩展至印度东海岸的维沙卡帕特南、布巴内斯瓦尔以及西部的贾姆讷格尔、古吉拉特邦 GIFT City。",
       "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.ithome.com/1/018/186.htm"
+      "link": "https://www.ithome.com/1/018/246.htm"
     },
     {
-      "id": "40503df8-2d23-81e3-a43f-d8d311f77a7f",
-      "title": "苹果 iOS/iPadOS 27.2 正式版发布",
-      "summary": "IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 更新（内部版本号：24B119），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-10-20：iOS 27.2 RC (24B115) 2026-10-14：iOS 27.2 Beta 4 (24B5110a) 2026-10-06：iOS 27.2 Be",
+      "id": "40603df8-2d23-810f-a896-f15b120f7036",
+      "title": "反向创造历史：2026 英雄联盟全球总决赛 LPL“一号种子”AL 战队一场未胜被淘汰，官方发文致歉",
+      "summary": "IT之家 10 月 27 日消息，2026 英雄联盟全球总决赛于北京时间 10 月 16 日 2:00 开赛，来自六大赛区的顶尖队伍前往美国，争夺 2026 全球总决赛召唤师杯。今日早间，中国大陆赛区 LPL 的“一号种子”—— AL 战队 0:2 不敌来自北美赛区的 TLAW 战队，最终在瑞士轮比赛中以四小场全败的战绩被淘汰，止步十六强，创造 LPL 战队参加全球总决赛以来的最差战绩。AL 英雄联盟官方微博随后发文致歉，IT之家附全文如下：很抱歉，AL 在刚刚结束的瑞士轮比赛中落败，结束了本次 2026 全球总决赛的旅程。在此，向所有支持 AL 的粉丝们郑重说一句：对不起。我们知道，这句对不",
       "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.ithome.com/1/018/187.htm"
+      "link": "https://www.ithome.com/1/018/247.htm"
     },
     {
-      "id": "40503df8-2d23-815c-af57-c92a3e3f7926",
-      "title": "苹果 macOS 27.2 正式版发布",
-      "summary": "IT之家 10 月 27 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 更新（内部版本号：26B123），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 27 发布历史： 2026-10-20：macOS 27.2 RC (26B118) 2026-10-14：macOS 27.2 Beta 4 (26B5112a) 2026-10-06：macOS 27.2 Beta 3 (26B510",
+      "id": "40603df8-2d23-81f6-b1bd-d82eaef41c21",
+      "title": "Arrowhead 确认《绝地潜兵 3》暂无开发计划：它最大的对手就是《绝地潜兵 2》",
+      "summary": "IT之家 10 月 27 日消息，《绝地潜兵 2》开发商 Arrowhead 首席创意官约翰 · 皮莱斯泰特称，工作室近期没有开发《绝地潜兵》系列续作的计划。当地时间 23 日，皮莱斯泰特接受 Rock Paper Shotgun 采访时透露，工作室约 95% 的员工仍负责《绝地潜兵 2》的后续更新，只有一支小团队着手开发下一款游戏的原型。新作是否为《绝地潜兵 3》尚无定论。皮莱斯泰特认为，与其停止运营、推出续作让玩家重新开始，不如继续维护《绝地潜兵 2》的玩家社区。“在我看来，推出续作就意味着一切都要推倒重来，玩家也得从头开始。如果继续运营现有游戏，就能让它像乐高或《战锤》一样，成为玩家可以",
       "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.ithome.com/1/018/188.htm"
+      "link": "https://www.ithome.com/1/018/245.htm"
     },
     {
-      "id": "40503df8-2d23-817c-8ed8-ca48ab1a2eba",
-      "title": "苹果 visionOS 27.2 正式版发布",
-      "summary": "IT之家 10 月 27 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 更新（内部版本号：24N120），本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-10-20：visionOS 27.2 RC (24N118) 2026-10-14：visionOS 27.2 Beta 4 (24N5114a) 2026-10-06：visionOS",
+      "id": "40603df8-2d23-815c-a525-fa047ed8448a",
+      "title": "扩展稳定版微软 Edge 浏览器明年登陆苹果 macOS：最长 8 周延后部署更新",
+      "summary": "IT之家 10 月 27 日消息，科技媒体 Windows Central 昨日（10 月 26 日）发布博文，报道称微软计划明年在苹果 macOS 平台上，为 Microsoft Edge 浏览器扩展引入“扩展稳定”（Extended Stable）更新通道。IT之家援引博问你介绍，该通道目前已经在 Windows 10、Windows 11 平台上线，企业和组织可以通过该通道版本，增强控制 Edge 浏览器功能更新节奏。不同于常规 Edge 浏览器稳定版（每隔 2 周快节奏更迭），“扩展稳定”版 Edge 浏览器可延后部署版本更新，最长可以达到 8 周。对于企业而言，这意味着在部署浏览器前",
       "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.ithome.com/1/018/189.htm"
+      "link": "https://www.ithome.com/1/018/243.htm"
     },
     {
-      "id": "40503df8-2d23-8109-a771-fb53b33612da",
-      "title": "苹果 watchOS 27.2 正式版发布",
-      "summary": "IT之家 10 月 27 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 更新（内部版本号：24S118），本次更新距离上次发布正式版间隔 27 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 27 发布历史： 2026-10-20：watchOS 27.2 RC (24S116) 2026-10-14：watchOS 27.2 Beta 4 (24S5112a) 2026-10-06：watchOS 27.",
+      "id": "40603df8-2d23-8176-8f5d-ca670fa9492d",
+      "title": "苹果 iOS 27.2 正式版国行“最重要专属功能”，可禁止 App 摇一摇跳转",
+      "summary": "IT之家 10 月 27 日消息，苹果公司今天面向 iPhone 18 Pro 等机型推送 iOS 27.2 正式版更新（内部版本号：24B119），并为其首款折叠 iPhone Duo 推送专属 iOS 27.2 更新（内部版本号：24B91020）。本次更新带来了增强 Siri AI（国内暂未上线）、更新 Apple Music 品牌视觉等，还有一项对于国内比较重要的细节更新 —— 可禁止 App 摇一摇跳转。这项功能名为“限制动作数据”。用户需进入“设置”>“隐私与安全”>“运动与健身”，找到“限制动作数据”选项，然后点击右上角“编辑”，就可以将需要屏蔽摇一摇跳转的 App 添加至限制名",
       "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.ithome.com/1/018/190.htm"
+      "link": "https://www.ithome.com/1/018/241.htm"
     },
     {
-      "id": "40503df8-2d23-81f2-a5b8-c2701b0d6304",
-      "title": "苹果 iPadOS 26.7.2 正式版发布",
-      "summary": "IT之家 10 月 27 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.2 更新，本次更新距离上次发布正式版间隔 28 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-09-29：iPadOS 26.7.1 (23H30) 2026-09-10：iPadOS 26.7 (23H24) 2026-09-09：iOS 26.6.2 (23G90) 2026-08-11：iOS 26.6.1 (",
+      "id": "40603df8-2d23-8100-bb9b-ec8709544881",
+      "title": "“拯救《质量效应》”请愿书签名人数突破 20 万，粉丝请求延续系列游戏生命",
+      "summary": "IT之家 10 月 27 日消息，当地时间 26 日，据外媒 VGC 报道，EA 宣布关闭 BioWare 并取消《质量效应》系列新作后，玩家发起的挽救该系列联署请愿获得超过 20 万人支持。当地时间 22 日，EA 宣布关闭曾开发《龙腾世纪》系列的老牌工作室 BioWare，同时取消下一款《质量效应》游戏。这款新作早在 2020 年就对外公布，此后五年多来虽不断有预热消息传出，却始终缺乏实质性进展。去年，EA 缩减了 BioWare 的开发团队，当时称人员调整针对的是参与《龙腾世纪：影障守护者》发售工作的员工。尽管 EA 即将被出售引发外界担忧，《质量效应》系列总监去年仍向粉丝保证，新作的开",
       "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.ithome.com/1/018/191.htm"
+      "link": "https://www.ithome.com/1/018/239.htm"
     },
     {
-      "id": "40503df8-2d23-8120-abc5-ea390bf6d171",
-      "title": "苹果 iOS/iPadOS 18.7.11 正式版发布",
-      "summary": "IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.11 更新（内部版本号：22H384），本次更新距离上次发布正式版间隔 77 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 18 发布历史： 2026-08-11：iOS 18.7.10 (22H373) 2026-05-05：iOS 18.7.9 (22H355) 2026-04-23：iOS 18.7.8 (22H",
+      "id": "40603df8-2d23-8188-9b47-eed2bf2b388b",
+      "title": "苹果首款折叠 iPhone Duo 确认缺失 FaceTime“眼神交流”功能",
+      "summary": "IT之家 10 月 27 日消息，科技媒体 MacRumors 昨日（10 月 26 日）发布博文，指出在苹果首款折叠 iPhone Duo 机型上，其 FaceTime 设置中缺少“眼神交流”（Eye Contact）选项，用户在视频通话时无法获得该功能带来的视线校正效果。图源：苹果IT之家援引博文介绍，“眼神交流”功能最早随 iOS 14 推出，主要针对视频通话场景，依靠机器学习调整用户眼部画面，让对方感觉用户正注视摄像头。该功能此前已广泛覆盖多款 iPhone，包括 iPhone SE 机型（采用 Touch ID 指纹识别认证、没有面容 ID）。该媒体最新确认 iPhone Duo 不",
       "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.ithome.com/1/018/192.htm"
+      "link": "https://www.ithome.com/1/018/238.htm"
     },
     {
-      "id": "40503df8-2d23-8143-941f-dfdbb21bf00b",
-      "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-      "summary": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
-      "source": "CNBC Tech",
+      "id": "40603df8-2d23-81f2-8387-e92c59e812ee",
+      "title": "Anthropic 提交 IPO 招股文件，亚洲芯片股走强",
+      "summary": "IT之家 10 月 27 日消息，据彭博社报道，受 Anthropic PBC 提交 IPO 招股文件的推动，投资者对人工智能交易的热情重新燃起，亚洲半导体板块股票应声大涨。今日早盘交易中，三星电子、SK 海力士股价涨幅均超 5%，带动韩国综合股价指数（Kospi）一度冲高 4.4%。日本日经 225 指数最大涨幅达 2.2%，芯片相关企业爱德万测试（Advantest Corp.）、住友硅业（Sumco Corp.）涨幅都超过 6%。开发 Claude 的 Anthropic 向上市再迈进一步，是隔夜一系列利好消息里最核心的一条，缓解了市场近期对 AI 领域融资情况的担忧。其他值得关注的消息",
+      "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html"
+      "link": "https://www.ithome.com/1/018/237.htm"
     },
     {
-      "id": "40503df8-2d23-81b1-a4ac-f024ebd55c9b",
-      "title": "Here's how Trump's new Air Force One, a luxury jet from Qatar, compares to the outgoing presidential plane",
-      "summary": "Donald Trump's new Air Force One is a luxury jet gifted from Qatar. Here's how it compares to the old presidential plane.",
-      "source": "Business Insider",
+      "id": "40603df8-2d23-81cf-b9dc-d24c3fc7466a",
+      "title": "任天堂英国推出新指南，帮助家长“科学指导”子女玩游戏",
+      "summary": "IT之家 10 月 27 日消息，据外媒 VGC 报道，任天堂英国分公司推出了一份新指南，帮助对电子游戏了解不多的家长更好地指导孩子玩游戏。任天堂委托开展的最新调查显示，超过三分之二（68%）的英国家长承认，在决定孩子玩什么游戏时，自己并不总能掌握足够的信息。71% 的家长需要孩子为自己解释游戏术语、流行趋势或游戏方面的问题；34% 认为，如果能更了解孩子平时玩什么、怎么玩，自己就能更有把握地决定让孩子玩哪些游戏。在孩子的各种兴趣爱好中，电子游戏也是家长最不熟悉的一项。28% 的家长称自己最不了解电子游戏，相比之下，最不了解观看网络内容、社交媒体和体育运动的比例分别为 16%、15% 和 10",
+      "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/trump-new-air-force-one-differences-cost-photos-2026-7"
+      "link": "https://www.ithome.com/1/018/235.htm"
     },
     {
-      "id": "40503df8-2d23-819e-8b6f-f0dc73d19259",
-      "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
-      "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for Kalshi",
-      "source": "The Verge",
+      "id": "40603df8-2d23-81b1-860a-c98f7df96473",
+      "title": "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%",
+      "summary": "IT之家 10 月 27 日消息，Applied Materials（应用材料）美国当地时间本月 26 日宣布将追加对荷兰半导体封装设备制造商 Besi 的投资，使其对后者的持股比例从此前的 9% 约升至 20%。应用材料同时表示，该企业当前无意进一步扩大在 Besi 的持股，也无意寻求 Besi 董事会的席位。两家企业自 2020 年启动联合开发以来一直保持着良好的合作关系，应用材料目前已是 Besi 的第一大股东。Besi 在本月伊始加入了应用材料的硅谷 EPIC 中心，将双方合作范围从混合键合拓展到更广泛的新型互连架构和应用上。",
+      "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket"
+      "link": "https://www.ithome.com/1/018/236.htm"
     },
     {
-      "id": "40503df8-2d23-812a-a992-ffd9e217e262",
-      "title": "The best cinnamon roll in every state, according to diners",
-      "summary": "Yelp analyzed reviews to find the best places to try delicious cinnamon rolls — whether they're warm and goey or unique with fall flavors.",
-      "source": "Business Insider",
+      "id": "40603df8-2d23-8135-8574-d1bcf9ed277d",
+      "title": "惠科股份 2026Q1~Q3 归母净利润 25.9 亿元，同比 -12.63%",
+      "summary": "IT之家 10 月 27 日消息，惠科股份昨日发布 2026 年第 3 季度报告：2026Q3 单季营业总收入：105.97 亿元，同比 +3.48%归母净利润：7.32 亿元，同比 -8.76%扣非净利润：5.75 亿元，同比 -0.72%基本 / 稀释 EPS：0.11 元，同比 -8.33%加权平均净资产收益率：2.06%，同比减少 1.35 个百分点2026Q1~Q3营业总收入：311.13 亿元，同比 +6.41%归母净利润：25.90 亿元，同比 -12.63%扣非净利润：19.89 亿元，同比 -7.78%经营现金流：75.63 亿元，同比 +22.89%基本 / 稀释 EPS：",
+      "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/best-cinnamon-roll-every-state-yelp"
+      "link": "https://www.ithome.com/1/018/234.htm"
     },
     {
-      "id": "40503df8-2d23-8194-a6ad-da1ff464f466",
-      "title": "Anthropic’s S-1 Takeaways: From Giant Compute Commitments to Complex Lock-Ups",
-      "summary": "Anthropic publicly filed a preliminary prospectus for its planning initial public offering, providing a look inside its business for the first half of this year, as well as new details about its governance and more than 90 pages of risk factors. The S-1’s filing on Monday sets the stage for Anthropi",
-      "source": "The Information",
+      "id": "40603df8-2d23-81d2-a867-f2c8343ae387",
+      "title": "京东红包今日 10:00 再加码，猜拳至高赢 5 元",
+      "summary": "今日 10 点京东猜拳有机会赢至高 5 元加码红包，建议先领完日常红包再来参与：点此抽取。猜拳红包玩法：活动会在不同的时间节点，开启“猜拳抢红包”玩法，请随时关注活动提示。活动期间用户可参与猜拳玩法，每人最多 3 次机会，单次机会用户选择石头、剪刀、布任意一个，任意获胜 1 局（石头赢剪刀，剪刀赢布，布赢石头）即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。奖励限量，发完即止，建议用户在活动节点整点，准时参与活动。蚊子肉也是肉，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此",
+      "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.theinformation.com/articles/anthropics-s-1-takeaways-giant-compute-commitments-complex-lock-ups"
+      "link": "https://www.ithome.com/1/018/232.htm"
     },
     {
-      "id": "40503df8-2d23-81ba-8e2f-ff15a5fe1e19",
-      "title": "The FTC accuses Dollar General of routinely overcharging customers",
-      "summary": "The FTC and 20 US states are suing Dollar General, saying the company repeatedly mislabeled products and overcharged customers.",
-      "source": "Business Insider",
+      "id": "40603df8-2d23-81b5-ba40-fe4f3b1c9d77",
+      "title": "AI 造富：Anthropic 七位联合创始人身家均超 130 亿美元",
+      "summary": "IT之家 10 月 27 日消息，Anthropic PBC 当地时间周一披露的 IPO 文件显示，公司七位联合创始人每人大约持有公司 1.4% 的股份，按估值计算，各自身家超过 130 亿美元（IT之家注：现汇率约合 868.89 亿元人民币）。阿莫代伊兄妹这让包括达里奥 · 阿莫代伊（Dario Amodei）、丹妮拉 · 阿莫代伊（Daniela Amodei）兄妹在内的全部七位创始人跻身彭博亿万富豪指数前 300 名，财富规模超过比尔 · 阿克曼（Bill Ackman）、斯坦 · 德鲁肯米勒（Stan Druckenmiller）等知名金融领域亿万富豪。该身家是基于 Anthropi",
+      "source": "IT之家",
       "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/ftc-dollar-general-lawsuit-routinely-overcharging-customers-2026-10"
+      "link": "https://www.ithome.com/1/018/231.htm"
     },
     {
-      "id": "40503df8-2d23-818d-9d3c-dcd14a44d22f",
-      "title": "Why one VC firm is mentioned more than 50 times in Anthropic's S-1",
-      "summary": "Anthropic's IPO paperwork mentions Spark Capital more than 50 times, reflecting Yasmin Razavi's early investment and board seat at the AI company.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/spark-capital-anthropic-s-1-yasmin-razavi-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-8119-b4a4-ddfb5b71f467",
-      "title": "Skydance tells employees to return to the office 5 days a week or take a buyout",
-      "summary": "Skydance CEO David Ellison and co-CEO Ynon Kreiz are implementing a five-day RTO policy. Read the memo to employees.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/skydance-5-day-rto-order-offers-buyouts-paramount-wbd-ellison-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-81b1-874f-f9a67888f526",
-      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-      "source": "TechCrunch",
-      "publishTime": "2026-10-27",
-      "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
-    },
-    {
-      "id": "40503df8-2d23-81f3-afe0-c4a5efadb5fe",
-      "title": "Ina Garten swears by store-bought ingredients. There's one she couldn't make work for her new cookbook.",
-      "summary": "Ina Garten's new cookbook, \"Simply Ina,\" includes many recipes that use store-bought ingredients, like Rao's marinara and premade mashed potatoes.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/ina-garten-store-bought-ingredients-new-cookbook-2026-10"
-    },
-    {
-      "id": "40503df8-2d23-81d1-90db-fae39526988e",
-      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-10-27",
-      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
-    },
-    {
-      "id": "40503df8-2d23-813b-ae9e-e04136ad745d",
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve sy",
-      "source": "The Verge",
-      "publishTime": "2026-10-27",
-      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
-    },
-    {
-      "id": "40503df8-2d23-810c-9c4b-c54be89519d9",
-      "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
-      "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If you",
-      "source": "The Verge",
-      "publishTime": "2026-10-27",
-      "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
-    },
-    {
-      "id": "40503df8-2d23-81f8-b7a9-c3aa539e510f",
-      "title": "The largest militaries in the world, ranked by the number of active troops",
-      "summary": "From China and the US to Russia and Iran, here are the 25 largest militaries in the world, ranked by the number of active-duty armed forces.",
-      "source": "Business Insider",
-      "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/largest-militaries-ranked-by-size"
-    },
-    {
-      "id": "40503df8-2d23-81f1-b40e-e51c1467a20e",
-      "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
-      "summary": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off",
-      "source": "The Verge",
-      "publishTime": "2026-10-27",
-      "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale"
-    },
-    {
-      "id": "40503df8-2d23-81b8-8583-ff8cfabe20fc",
-      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-      "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "id": "40603df8-2d23-81b4-bbc0-f1a5bf1e8cfa",
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
       "source": "BBC Tech",
       "publishTime": "2026-10-27",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "40503df8-2d23-8195-91c2-c129e44b5366",
-      "title": "I've lived in Las Vegas for almost 20 years. Tourists should stop wasting money on these 5 things.",
-      "summary": "As a local living in Las Vegas, Nevada, I know the city gets expensive. Here are ways to save money, plus things I think visitors waste money on.",
+      "id": "40603df8-2d23-819d-92a0-d6d8f1991884",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "source": "TechCrunch",
+      "publishTime": "2026-10-27",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+    },
+    {
+      "id": "40603df8-2d23-819c-9448-f1fd5d69b181",
+      "title": "菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏",
+      "summary": "IT之家 10 月 27 日消息，据潮新闻 10 月 26 日报道，菲尔兹奖得主、芝加哥大学数学系教授邓煜在上周末的“知识分子”“赛先生”论坛上发表主旨演讲，系统阐述了他对 AI 时代数学研究的思考。邓煜表示，AI 相对于人的优势，一方面是 AI 具有无限知识面，另一方面是 AI 具有极低的尝试成本 / 试错成本。但我们要坚持一点，在数学研究中也好，在任何事情中也好，人总是作为主体；AI 是作为一个工具，是我们人利用来进行研究的工具。邓煜认为，如果把 AI 作为研究者，就应遵守学术规范。如果 AI 证明了一个非常重大的问题，一个非常合理的要求，是公布 AI 的思维链。然而 AI 公司拒绝公布，",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/230.htm"
+    },
+    {
+      "id": "40603df8-2d23-81d7-a584-d42baefaef23",
+      "title": "苹果 Siri AI 即日起支持法语、日语、韩语等语言，繁体中文得等到年底前",
+      "summary": "IT之家 10 月 27 日消息，苹果今天（27 日）通过新闻稿宣布，今天发布的 27.2 版本软件更新，进一步扩大新一代 Siri AI 的使用范围，新增支持法语、日语、韩语、葡萄牙语和西班牙语。Siri AI 是全面升级的 Siri，不仅功能更强大，对话也更加自然，还能提供更个性化的服务。根据介绍，其基于 Apple 智能打造，在保护用户隐私的同时，大幅提升了 Siri 的能力。新版本能够理解用户的个人情况，从信息、邮件、照片等内容中查找所需资料，还可以执行更多系统级应用操作。借助屏幕感知能力，Siri AI 可以理解屏幕上显示的内容，回答用户的问题或完成相应操作。此外，Siri AI 还",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/229.htm"
+    },
+    {
+      "id": "40603df8-2d23-8117-a755-e52009dee394",
+      "title": "I lead HP in Asia. I use my phone in 10-minute bursts and play my guitar between late-night calls.",
+      "summary": "Michael Boyle, the managing director for HP Greater Asia, is a musician first, and brings that energy to the office.",
       "source": "Business Insider",
       "publishTime": "2026-10-27",
-      "link": "https://www.businessinsider.com/things-stop-wasting-money-las-vegas-local-tips-2026-10"
+      "link": "https://www.businessinsider.com/michael-boyle-hp-managing-director-asia-guitar-downtime-screen-time-2026-10"
+    },
+    {
+      "id": "40603df8-2d23-8140-be69-d99ce7f04c45",
+      "title": "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
+      "summary": "IT之家 10 月 27 日消息，本地运行 AI 模型的开源平台 Ollama 于 10 月 24 日宣布，其 Mac 应用正式支持文本转语音（TTS）生成，Windows 和 Linux 版本也将随后跟进。科技媒体 9to5Mac 认为这是 Ollama 首次加入语音生成能力，让本地 AI 从“能读会写”进一步迈向“能开口说话”。首个支持的语音模型是 Gradium 开发的 Phonon 系列。该模型体积较小、技术指标先进，用户无需依赖云端服务，可通过 Ollama 直接下载并在 Apple Silicon Mac 上运行，更适合注重隐私、需要离线使用的场景。在 macOS 上，Ollama",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/228.htm"
+    },
+    {
+      "id": "40603df8-2d23-81e3-b238-ff4896a524b2",
+      "title": "老干妈否认“用 AI 把 600 名工人裁到 48 人”，回应称相关 AI 裁员传闻为不实信息",
+      "summary": "IT之家 10 月 27 日消息，“老干妈 AI 裁员传闻引争议”话题于 10 月 26 日登上社交平台热搜，据蓝鲸新闻报道，老干妈官方热线工作人员回应称，相关 AI 裁员传闻为不实信息，公司从未发布此类信息，请消费者理性看待。另据观点网报道，老干妈常务副总、首席质量官李鑫在 2026 年贵州省质量发展大会上对外透露，“通过四年的质量巩固与体系优化，2025 年，我们营收达 54 亿元，创历史最高峰值。”随后，在网络上不少自媒体发文，称“老干妈用 AI 把 600 名工人裁到 48 人，自己年营收高达 54 亿”，相关内容引发热议，甚至有消费者表示不再购买老干妈。IT之家注意到，报道还称，老干",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/227.htm"
+    },
+    {
+      "id": "40603df8-2d23-8164-8a53-e55c104a87f7",
+      "title": "造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍",
+      "summary": "IT之家 10 月 27 日消息，特斯拉在休斯顿的 Robotaxi 自动驾驶出租车服务范围刚刚大幅扩容。特斯拉 Robotaxi 官方账号在 X 平台宣布了这次扩张，确认新版更大的服务区域已经正式上线。这次电子围栏划定的运营面积大约扩大至原来的十倍，从约 25 平方英里增加到 254 平方英里（IT之家注：约 657.9 平方公里），增幅达到 916%。这是特斯拉自今年 4 月在休斯顿推出无安全员 Robotaxi 载客服务之后，首次扩大当地运营范围。该区域内的乘车服务全程无人，目前使用经过改装的 Model Y 自动驾驶出租车运营。火箭造型的服务区域新的电子围栏范围从西北部科珀菲尔德、泽西",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/226.htm"
+    },
+    {
+      "id": "40603df8-2d23-815f-9145-c204a0cfd4f9",
+      "title": "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国",
+      "summary": "IT之家 10 月 27 日消息，拉脱维亚已正式批准特斯拉 FSD（监督版）在本国道路使用。特斯拉欧洲分部在 X 平台公布了这一消息，并表示相关功能很快就会推送上线。IT之家注意到，拉脱维亚由此成为第十个独立批准该系统的欧盟成员国，也是全球第 18 个批准该系统的国家。波罗的海另外两个邻国立陶宛、爱沙尼亚早在今年 5 月就已批准 FSD。在欧洲地区，特斯拉为了推进欧盟全域审批，已经把 FSD 更名，新名称为特斯拉辅助驾驶（Tesla Assisted Driving）。截至目前，这些欧盟国家已独立批准 FSD 在公共道路使用：荷兰、立陶宛、爱沙尼亚、丹麦、比利时、斯洛文尼亚、捷克、克罗地亚、斯",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/224.htm"
+    },
+    {
+      "id": "40603df8-2d23-811e-a655-d127ae4d50c0",
+      "title": "美最大运营商 Verizon 称 SpaceX 拥有竞争力需 8 年，马斯克回怼“2-3 年就够”",
+      "summary": "IT之家 10 月 27 日消息，商场如战场，即便看似胜券在握，也不能轻敌。美国最大的电信运营商 Verizon CEO 丹 · 舒尔曼同样奉行这一原则。据《商业内幕》今天（27 日）凌晨报道，马斯克希望将 SpaceX 旗下星链打造为美国通信网络市场的重要参与者，舒尔曼并不打算低估这一潜在竞争对手。“技术和无线通信行业发展得非常快，我们也必须跟上步伐。而且，我会假设 SpaceX 承诺的事情都能做到，并且执行得毫无差错。”马斯克过去多次兑现令人惊讶的承诺。舒尔曼认为，即便如此，星链要想真正与 Verizon 等老牌运营商抗衡，仍有不少技术和资金难关需要跨越，但也不能排除成功的可能。“如果他们",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/222.htm"
+    },
+    {
+      "id": "40603df8-2d23-816d-b24b-fe97c31a21a3",
+      "title": "苹果 iOS 27.2 修复 163 个安全漏洞，封堵大部分 iOS 27 完美越狱漏洞",
+      "summary": "IT之家 10 月 27 日消息，苹果今天（10 月 27 日）发布 iOS 27.2 与 iPadOS 27.2 系统更新，一次性修复 163 个安全漏洞（检索 CVE 关键词，显示共有 163 个可追踪漏洞编号），涉及 Apple Intelligence、邮件隐私、浏览器内核及系统底层等关键领域。苹果建议用户尽快完成升级。IT之家援引博文介绍，本次更新最受关注的修复，可能是允许远程攻击者访问敏感数据的 Apple Intelligence 漏洞，以及一个可能导致用户真实邮箱地址泄露的“隐藏邮件地址”功能缺陷。此外，苹果还修复了超过 30 项 WebKit 漏洞和约 15 个内核漏洞，进一",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/221.htm"
+    },
+    {
+      "id": "40603df8-2d23-813b-9d0d-ca483e099a62",
+      "title": "英特尔宣布收购以色列初创企业 Classiq，打造全栈量子计算平台",
+      "summary": "IT之家 10 月 27 日消息，英特尔公司已经同意收购以色列初创企业 Classiq Technologies Ltd.，以此布局量子计算赛道，抢抓这个仍处在早期阶段、正在寻找商业化落地场景的领域的发展机遇。这家芯片厂商没有披露收购 Classiq 的交易金额。Classiq 的客户包括宝马集团（BMW AG）和美国电话电报公司（AT&T Inc.）。英特尔宣布收购 Classiq、打造全栈量子计算平台的消息，发布于周四英特尔公布第三季度财报前夕。据IT之家了解，Classiq 的客户利用其技术开发可在任何类型量子硬件上测试和运行的代码，借此评估这项具备变革潜力的技术能否适配自身业务。本次收",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/220.htm"
+    },
+    {
+      "id": "40603df8-2d23-818b-a5a5-d57b06e52ad7",
+      "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+      "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...查看全文",
+      "source": "少数派",
+      "publishTime": "2026-10-27",
+      "link": "https://sspai.com/post/117600"
+    },
+    {
+      "id": "40603df8-2d23-815d-971a-d7daaa61b7a5",
+      "title": "微软 CEO 纳德拉：以前我认为 AI 越强大也会越安全，现在不信了",
+      "summary": "IT之家 10 月 27 日消息，据《商业内幕》今天（27 日）早间报道，微软 CEO 萨提亚 · 纳德拉改变了对 AI“对齐”问题的看法。他过去认为，AI 系统越强大，就越容易让其行为符合人类的价值观和目标，但现在，自己不再相信两者会自然而然地同步发展。在新一期《20VC》播客中，主持人哈里 · 斯特宾斯问纳德拉，过去一年里有什么想法发生了改变。纳德拉解释，他原本认为，随着 AI 能力不断提高，确保 AI 行为符合人类价值观和目标的“对齐”问题也会迎刃而解。模型规模扩大带来的效果符合纳德拉的预期，AI 能力持续提升，但对齐问题依然没有得到解决。“我过去总以为，对齐问题自然就会解决。我不再这么",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/219.htm"
+    },
+    {
+      "id": "40603df8-2d23-8112-8b1a-f7dfb7a3d23c",
+      "title": "苹果 iOS 27.2 更新汇总：增强 Siri AI，调整 Apple Music 品牌视觉等",
+      "summary": "IT之家 10 月 27 日消息，苹果公司今天面向 iPhone 18 Pro 等机型推送 iOS 27.2 正式版更新（内部版本号：24B119），并为其首款折叠 iPhone Duo 推送专属 iOS 27.2 更新（内部版本号：24B91020）。IT之家综合 MacRumors 等多家海外媒体报道，汇总梳理本次更新内容如下：一、增强 Siri AI 体验（国内暂未上线）Siri AI 现在能记住用户此前的对话内容。例如，用户可以询问 Siri 之前推荐过的某家餐厅，而不必重新描述需求。在 iOS 27.2 更新中，苹果扩大了可调用的信息来源，包括：信息应用中附带的照片日历活动的参与者语",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/218.htm"
+    },
+    {
+      "id": "40603df8-2d23-81a9-8f1c-ef96c746dce9",
+      "title": "消息称大众、小鹏合作的架构将走出中国，用于大众、斯柯达、CUPRA 品牌新车",
+      "summary": "IT之家 10 月 27 日消息，当地时间 26 日，德国《经理人杂志》报道称，大众汽车集团考虑将中国市场车型使用的软件架构引入欧洲主流车型，削弱美国合作伙伴 Rivian 在集团软件战略中的地位。报道援引消息人士称，大众与小鹏汽车联合开发的电子电气架构，未来有望应用于大众、斯柯达和 CUPRA 三个核心品牌的新车。大众品牌 CEO 施文韬预计将于当地时间 27 日向集团管理层提出这一方案，覆盖三个品牌约 75% 的下一代车型。目前，三个品牌都在扩大欧洲市场的电动车产品阵容。此前，大众一直为中国和西方市场分别开发软件技术：中国车型采用与小鹏合作开发的架构，西方车型则使用与 Rivian 另行研",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/210.htm"
+    },
+    {
+      "id": "40603df8-2d23-81b8-a5c8-f186faf3ce19",
+      "title": "Anthropic, SpaceX and Meta Cash Grabs",
+      "summary": "If it feels like it’s getting stuffy, that’s because the AI industry’s biggest names are doing their best to suck all the air out of the room. On Monday, Anthropic, SpaceX and Meta Platforms all unveiled their respective plans for raising gobs of cash to fund their AI ambitions, which could collecti",
+      "source": "The Information",
+      "publishTime": "2026-10-27",
+      "link": "https://www.theinformation.com/articles/anthropic-spacex-meta-cash-grabs"
+    },
+    {
+      "id": "40603df8-2d23-813d-aa6e-da2a5132cba4",
+      "title": "微软确认 Win11 26H2 已向 24H2/25H2 用户全面开放，安装耗时不足 5 分钟",
+      "summary": "IT之家 10 月 27 日消息，Windows 11 26H2，也就是 Windows 11 2026 更新，已于 9 月 29 日开始推送，但截至目前并非所有用户都收到了这一年度更新。Windows Latest 今日发现，微软已经确认，26H2 版本现已面向所有运行 25H2 和 24H2 版本的设备开放；再过几周，微软就可能启动强制升级。微软在 10 月 21 日悄悄更新了一份支持文档，文档中写道：“Windows 11 26H2 版本已完成分阶段推送，所有搭载 Windows 11 25H2、24H2 版本的设备均可获取。你可以打开设置 > Windows 更新，点击检查更新来查看。",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/207.htm"
+    },
+    {
+      "id": "40603df8-2d23-81a8-a5db-d0770813597d",
+      "title": "宾利首款纯电 SUV 托卡尔新增首发版车型：全系最强动力加持，还有碳纤维套件、电动门",
+      "summary": "IT之家 10 月 27 日消息，据外媒 motor1 当地时间 25 日报道，宾利旗下首款纯电 SUV 托卡尔推出“首发版”车型，采用全系最强动力配置，并配备专属外观套件，标准配置也比后续车型更加丰富。新车最大功率达到 876 马力，峰值扭矩为 1350N·m，0-100km/h 加速仅需 2.9 秒，最高时速 260km/h。随着其他动力版本陆续推出，首发版将成为托卡尔车系的旗舰车型，定位相当于宾利传统的极致版或 MULLINER 版。据IT之家了解，首发版搭载托卡尔车系计划提供的“最强”动力系统，最大功率 876 马力，峰值扭矩 1350N·m。宾利公布的 0-100km/h 加速时间为",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/206.htm"
+    },
+    {
+      "id": "40603df8-2d23-81dc-8507-d6b8486ba460",
+      "title": "IT早报 1027：人类史上最大 IPO 之 Anthropic 提交 IPO 申请；5499 元起苹果 iPad mini 8 发布；奥迪中国四环与字母标分家；多所高校将通过数字人民币发工资...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 27 日星期二，今天的重要科技资讯有：1. 人类史上最大 IPO！Anthropic 提交纳斯达克 IPO 申请，股票代码为“ANT”AI 独角兽 Anthropic 正式递交 S-1 文件冲刺纳斯达克，代码 \"ANT\"。2026 上半年营收同比暴涨 13 倍，调整后营业利润扭亏为盈，但可转换票据公允价值变动致账面巨亏。已签巨额算力租赁协议，未来最低付款约 4170 亿美元。>> 查看详情2. 5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水新款 ",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/205.htm"
+    },
+    {
+      "id": "40603df8-2d23-812a-90a5-c1a307d3b911",
+      "title": "Instagram 测试 90 分钟横屏长视频，叫板 YouTube",
+      "summary": "IT之家 10 月 27 日消息，Instagram 已经联合美国部分创作者，开始测试名为 Features 的全新横版视频格式，用于平台上的长内容创作。据《好莱坞报道》消息，这类长视频最长可达 90 分钟，主要面向喜剧博主、播客主播这类创作者。Instagram 还借鉴了 YouTube 的相关视频功能：创作者可以把播客里的短视频片段发布到 Reels，再把片段链接指向这条主 Features 视频。至于和创作者的广告分成机制（这也是 YouTube 业务很核心的一环），Instagram 目前还没有推出类似的官方合作计划。不过产品副总裁泰莎 · 莱昂斯（Tessa Lyons）表示，创作者",
+      "source": "IT之家",
+      "publishTime": "2026-10-27",
+      "link": "https://www.ithome.com/1/018/204.htm"
     }
   ],
   "macroEvents": [
