@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-11-04 07:32",
+  "updatedAt": "2026-11-04 14:49",
   "news": [
     {
-      "id": "40d03df8-2d23-8196-91d9-ea92e59ccc86",
-      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-      "source": "TechCrunch",
-      "publishTime": "2026-11-04",
-      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
-    },
-    {
-      "id": "40d03df8-2d23-818d-9cc0-c252aa3a024d",
-      "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-      "summary": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-11-04",
-      "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
-    },
-    {
-      "id": "40d03df8-2d23-8195-bbe3-f1d9fea66f88",
-      "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
-      "summary": "Meta is aiming to raise between $20 billion and $25 billion in a bond sale as the company ramps up spending on infrastructure and AI models and services.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-11-04",
-      "link": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html"
-    },
-    {
-      "id": "40d03df8-2d23-810a-8e1f-e7117fad37dd",
-      "title": "LinkedIn Swapped Out OpenAI Models to Keep Its Server Costs Flat",
-      "summary": "The more people use AI features in apps, the more the companies selling those apps have to spend on servers to run them, potentially squeezing their profit margins.But some firms have found ways to keep costs in check. For instance, Microsoft-owned LinkedIn says it has flattened the cost of running ",
-      "source": "The Information",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theinformation.com/articles/linkedin-swapped-openai-models-keep-server-costs-flat"
-    },
-    {
-      "id": "40d03df8-2d23-81cb-81aa-d6502707862d",
-      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which",
-      "source": "The Verge",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta"
-    },
-    {
-      "id": "40d03df8-2d23-81e2-b366-d47d71016699",
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a pres",
-      "source": "The Verge",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
-    },
-    {
-      "id": "40d03df8-2d23-813d-b656-de83c04a425d",
-      "title": "Reddit is adding more ads",
-      "summary": "Reddit is testing ads on another area of its platform: search. With this update, ads will appear within your search results \"based on a range of factors, including contextual relevance to a search query,\" according to Reddit. That means searching for \"espresso station\" could present you with ads for",
-      "source": "The Verge",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theverge.com/tech/1025602/reddit-search-ads-test"
-    },
-    {
-      "id": "40d03df8-2d23-8100-b5d3-d6bcca1da5ce",
-      "title": "Binance Says Hackers Used Bogus Job Interview and AI Tool",
-      "summary": "Binance said a software engineer downloaded malicious code onto his work computer to complete an assignment for a bogus job interview, part of the several steps since June that eventually allowed attackers to gain access to its system to conduct a $6.3 billion hack. The hackers then used an “ ...",
-      "source": "The Information",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theinformation.com/briefings/binance-says-hackers-used-bogus-job-interview-ai-tool"
-    },
-    {
-      "id": "40d03df8-2d23-8134-95fa-ec609f2c93a7",
-      "title": "Indie games are missing launch dates because Steam is backed up",
-      "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food",
-      "source": "The Verge",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates"
-    },
-    {
-      "id": "40d03df8-2d23-8152-a499-d8fe9dcae312",
-      "title": "iOS 27.3 首个测试版本推送，国行 iPhone 苹果 Apple 智能将至",
-      "summary": "IT之家 11 月 4 日闪讯速报，苹果今日凌晨面向 iPhone 推送了 iOS 27.3 系统首个测试版本。据IT之家此前报道，苹果智能（Apple Intelligence）及相关阿里千问大模型获得批准。苹果官方已宣布一系列 Apple 智能功能将自 11 月 4 日起随最新的 iOS 开发者 Beta 版开放测试，并将于 12 月 iOS 27.3 正式发布时面向中国用户推出。其他平台的支持将在获得必要审批后推出。以下是 Apple 即将在支持的 iPhone 上向中国用户推出的首批功能：实时翻译功能帮助用户在发送信息或交谈时跨特定语言进行交流，并无缝整合在信息、FaceTime 通话",
+      "id": "40e03df8-2d23-813b-beee-efa0b15840e5",
+      "title": "苹果“极端保护”遇挑战：开启锁定模式的 iPhone 18 Pro 被越狱，升级 iOS 27.2 仍保留状态",
+      "summary": "IT之家 11 月 4 日消息，网络安全团队 Calif 今天（11 月 4 日）在 X 平台发布视频，在一台已开启“锁定模式”（Lockdown Mode）的 iPhone 18 Pro 上，演示成功越狱，随后安装 iOS 27.2 更新，更新后仍保留越狱状态。视频显示，演示通过隔空投送（AirDrop）向目标手机发送恶意 PDF 文件，并由用户接受文件，以此启动越狱过程。Calif 尚未披露完整技术细节，具体漏洞及利用步骤仍不清楚。Calif 此前曾表示，他们正在向苹果公司披露漏洞，并且不打算向最终用户发布越狱工具。IT之家注：“锁定模式”定位是面向“极少数个人用户”的极端保护模式，该功能",
       "source": "IT之家",
       "publishTime": "2026-11-04",
-      "link": "https://www.ithome.com/1/021/859.htm"
+      "link": "https://www.ithome.com/1/022/016.htm"
     },
     {
-      "id": "40d03df8-2d23-810f-a47f-d2641f096361",
-      "title": "An NYC Marathon runner died suddenly at 24. Her family says the cause was rhabdomyolysis, a rare risk that can even affect fit athletes.",
-      "summary": "A woman died after collapsing near the finish line of the NYC Marathon. Here's what to know about rhabdomyolysis and the symptoms to look out for.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/rhabdomyolysis-risks-symptoms-nyc-marathon-death-2026-11"
-    },
-    {
-      "id": "40d03df8-2d23-81da-9a64-f158be553172",
-      "title": "Google’s Gemini-powered Home Speaker is already on sale for 20 percent off",
-      "summary": "If you’re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That’s the best price we’ve seen for the Gemini-powered speaker, which launched in June and represents Google’s first smart speaker in several year",
-      "source": "The Verge",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale"
-    },
-    {
-      "id": "40d03df8-2d23-81bf-b6aa-e09228b3361d",
-      "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
-      "summary": "Save on WIRED-tested picks from Blueair, Levoit, and Air Doctor, including compact models for your bedroom.",
-      "source": "Wired",
-      "publishTime": "2026-11-04",
-      "link": "https://www.wired.com/story/air-purifier-sale-october-3-2026/"
-    },
-    {
-      "id": "40d03df8-2d23-819c-a53a-e49a67f9828b",
-      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-      "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" Whe",
-      "source": "The Verge",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations"
-    },
-    {
-      "id": "40d03df8-2d23-8176-a0bf-cf94d48a5a0c",
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-      "source": "TechCrunch",
-      "publishTime": "2026-11-04",
-      "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/"
-    },
-    {
-      "id": "40d03df8-2d23-81a3-b901-f7dcb14584b8",
-      "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-      "summary": "Tuesday's midterm elections follow record spending on AI-generated political ads.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-11-04",
-      "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html"
-    },
-    {
-      "id": "40d03df8-2d23-8154-a303-f1a962e482d6",
-      "title": "A New York Giants co-owner says the NFL can reach new fans in 2 key ways",
-      "summary": "Carolyn Tisch Blodgett believes the NFL can grow by expanding its fan base internationally and through flag football.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/carolyn-tisch-blodgett-nfl-future-growth-new-york-giants-owner-2026-11"
-    },
-    {
-      "id": "40d03df8-2d23-8197-b771-e34506153474",
-      "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
-      "summary": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Foli",
-      "source": "The Verge",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo"
-    },
-    {
-      "id": "40d03df8-2d23-8127-a0c8-e1e0386f6ac9",
-      "title": "I tried Ina Garten's easy chicken chili. It's a delicious, hearty dinner that's perfect for chilly temperatures.",
-      "summary": "Ina Garten's easy chicken chili requires far less time and prep than the traditional recipe. It's delicious, hearty, and perfect for a cozy night in.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/ina-garten-chicken-chili-recipe-2026-11"
-    },
-    {
-      "id": "40d03df8-2d23-81fb-b5e6-c7b31bdbfe03",
-      "title": "AI isn't on the ballot, but it's still being tested",
-      "summary": "Americans are casting their votes in an election that could reshape Washington's power structure. The results could serve as a litmus test for AI.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/ai-isnt-on-ballot-still-being-tested-bi-today-newsletter-2026-11"
-    },
-    {
-      "id": "40d03df8-2d23-81dc-9f83-cfc05ba8a273",
-      "title": "提速抗癌药物研发：谷歌 Antigravity 上线“AI 炼丹师”，1 小时筛完数千种化合物",
-      "summary": "IT之家 11 月 4 日消息，谷歌 DeepMind 团队昨日（11 月 3 日）发布博文，宣布为 Google Antigravity 推出一套“化学信息学技能”（Cheminformatics Skills），帮助科研人员更快完成药物发现中的文献检索、分子分析、模型构建和新分子设计等工作。IT之家援引博文介绍，在以肺癌药物为例的演示中，AI 智能体可在约一小时内检索数千种化合物、开展匹配分子对分析，并提出具备合成路线的新型刚性大环分子，而类似流程过去往往需要数天。该工具将大语言模型的规划、检索与科学推理能力，与 RDKit 等确定性化学计算工具结合，并接入 ChEMBL 和 PubChe",
+      "id": "40e03df8-2d23-814c-a535-ea4af9522a50",
+      "title": "6 台智元机器人直播在便利店 24 小时打工，4 台成功“转正”",
+      "summary": "IT之家 11 月 4 日消息，智元 11 月 2 日发起机器人直播在便利店“打工”挑战，6 台精灵 G2 机器人连续 24 小时在岗。11 月 3 日 10:00，智元“机器人打工不能停”便利店直播挑战结束，在全网超 200 万人的围观下，最终 4 台机器人成功“转正”。在考核期间，机器人共完成任务 1730 次 / 件。其中，接待顾客 683 人，商品取送 369 单，咖啡制作 147 杯，热食出品 126 份，巡检补货 277 次，桌面清理 128 次。根据官方介绍，6 位精灵 G2 机器人化身便利店“试用期员工”，开启 24 小时不间断转正考核，迎战四大班次考验：午间高峰试岗、晚高峰抗",
       "source": "IT之家",
       "publishTime": "2026-11-04",
-      "link": "https://www.ithome.com/1/021/858.htm"
+      "link": "https://www.ithome.com/1/022/015.htm"
     },
     {
-      "id": "40d03df8-2d23-8156-ac3e-f7ebe41b00af",
-      "title": "The Xbox Nano has a hidden cloud secret",
-      "summary": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, but one I've been anticipating since the Xbox Nano ",
+      "id": "40e03df8-2d23-8188-9d8f-da05324c7b73",
+      "title": "在线设计与出版工具 Canva 宣布重大团队调整，涉及约 22% 员工",
+      "summary": "IT之家 11 月 4 日消息，在线设计与出版工具 Canva（可画）当地时间今日宣布对其团队进行重大调整。本次调整涉及 1,271 名员工，占到其员工总数的 22%。这一调整包括岗位调动、办公地点变化、裁员。被裁员工将获得至少相当于半年工资的补偿和一系列其它善后福利。Canva 近来遭遇了十年来的首次增速放缓。为以积极的面貌迎接企业的下一个十年，Canva 需要进行自我重塑，回归初心，组建规模小而权力大的团队，赋予其决策权、责任感。Canva 将合并产品、增长、平台部门为单一组织，赋予团队更清晰的责任归属、更大的自主权和灵活性，减少工作流程对时间的占用；减少专业细分，精简层级，整合重叠职责；",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/022/013.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8137-97ae-ca6c31ab43fc",
+      "title": "法拉利 Q3 业绩超预期后上调 2026 全年预期，首款纯电车型 Luce 需求强劲",
+      "summary": "IT之家 11 月 4 日消息，据路透社报道，当地时间 3 日，法拉利上调了 2026 年业绩预期。公司第三季度核心利润和营收均超出市场预期，带动股价一度上涨 4.7%。今年第三季度，法拉利调整后息税折旧摊销前利润同比增长 12% 至 7.53 亿欧元（现汇率约合 56.26 亿元人民币），高于路透社调查中分析师普遍预期的 7.39 亿欧元（现汇率约合 55.21 亿元人民币）。法拉利还上调了 2026 年调整后息税折旧摊销前利润预期，从至少 29.7 亿欧元（现汇率约合 221.89 亿元人民币）上调至至少 30 亿欧元（现汇率约合 224.13 亿元人民币）。公司还小幅提高了全年净营收预期",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/022/012.htm"
+    },
+    {
+      "id": "40e03df8-2d23-819b-8b34-d9bf5dc1ea04",
+      "title": "Early Election Results Point to Blue Wave",
+      "summary": "As voting results rolled in on Tuesday night, Democrats began to celebrate early wins that signaled the possibility of a much larger blue wave, with potentially significant implications for the AI economy. The strong showings for Democrats included a victory for Keisha Lance Bottoms in the ...",
+      "source": "The Information",
+      "publishTime": "2026-11-04",
+      "link": "https://www.theinformation.com/briefings/early-election-results-point-blue-wave"
+    },
+    {
+      "id": "40e03df8-2d23-8121-af8d-e5a44a71687b",
+      "title": "苹果客服就天气离谱数据致歉：初步排查为系统端口问题，已紧急完成修复",
+      "summary": "IT之家 11 月 4 日消息，大量苹果用户 11 月 4 日凌晨发现自带天气 App 出现离谱数据，北京、上海、厦门等多地“iPhone 天气下周五温差”出现异常，最低气温竟显示为-30℃ 左右，“苹果天气突现-32”等相关话题引发广泛吐槽。针对此次异常，苹果官方客服回应中新经纬称，经初步排查，原因为系统端口问题，并非硬件层面故障，技术团队已紧急完成修复。对于有用户猜测“数据定位跳转至其他地区”，客服予以否认，若属定位漂移，临近日期的天气数值应全部异常，而非仅具体到某一天出现极端值。客服表示收到大批用户反馈，对此深表歉意，后续将持续改善数据服务体验。IT之家注意到，这并非 iPhone 天气",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/022/010.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8162-b55c-f1dbc3a04f0f",
+      "title": "明知车辆用不了 FSD 却仍然推销，特斯拉在韩国遭消费者组织投诉",
+      "summary": "IT之家 11 月 4 日消息，据路透社报道，韩国消费者权益组织准备于当地时间 5 日向韩国公平交易委员会投诉特斯拉，指控特斯拉明知在韩销售的大多数车辆无法合法使用 FSD 驾驶辅助系统，却仍向消费者推销该功能，涉嫌误导数万名韩国消费者。多年来，特斯拉一直在韩国向潜在购车者推销完全自动驾驶（驾驶员监督版，FSD）软件，通常要求消费者一次性支付 904.3 万韩元（IT之家注：现汇率约合 44,862 元人民币）。特斯拉韩国负责人徐永得上个月在国会作证时透露，韩国注册的特斯拉汽车中，只有约 20% 能够使用 FSD，均为美国生产的车辆。然而，韩国销售的大部分特斯拉汽车产自中国，中韩之间并无类似协",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/022/009.htm"
+    },
+    {
+      "id": "40e03df8-2d23-81e6-ae51-cfc307f923f3",
+      "title": "三星 Galaxy S27 系列智能手机海关舱单信息现身，高通骁龙 8 Elite Gen 6 版 S27 Pro 曝光",
+      "summary": "IT之家 11 月 4 日消息，根据在第三方海关舱单数据平台纽佰德 (NBD) 上的查询，今年 9 月出现了 4 条三星电子 Galaxy S27 系列智能手机的记录，分别对应标准、Plus、Pro、Ultra 版本。这些产品的型号均符合 SM-S95xB / DS 格式，部分产品代号符合 SM-S95xBE_SEA_DX 格式，很可能对应着在东南亚 (SEA) 区域销售的国际版双卡机型。以下是IT之家整理的屏幕与处理器规格信息：Galaxy S27：6.3\" 屏幕，三星 Exynos 2700 处理器；Galaxy S27 Plus：6.7\" 屏幕，三星 Exynos 2700 处理器；Ga",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/022/008.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8130-8de3-e74a66cb6a83",
+      "title": "国家发改委：时速 400 公里高铁将稳步推进商业化运营",
+      "summary": "IT之家 11 月 4 日消息，国家发展改革委基础设施发展司司长夏鑫在今天（4 日）的新闻发布会上透露，“十五五”时期，我国将新建约 1.5 万公里铁路，其中包括约 1 万公里高速铁路，基本实现铁路现代化目标。重点任务方面。基本建成“八纵八横”高速铁路主通道，高速铁路基本上是客运，合理拓展区域连接线覆盖范围。夏鑫提到，加快构建时速 400 公里高铁建造运营成套技术和标准体系，稳步推进商业化运营。加强普速铁路建设，加快繁忙干线扩能改造，基本消除干线通道能力瓶颈。重大工程方面。全面建成高标准沿江高速铁路，加快建成沿海高速铁路，稳步推进沿边铁路建设，加快构建疆煤外运体系，推进秦沈第二通道等项目的前期",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/022/006.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8163-90a9-c2985af92332",
+      "title": "《英雄联盟》S16 淘汰赛首日：iG 3:1 战胜 TES 晋级，时隔 7 年重回四强舞台",
+      "summary": "IT之家 11 月 4 日消息，2026 全球总决赛淘汰赛 1/4 决赛第一日火热进行中，来自 LPL 赛区的四号种子 iG 成功战胜三号种子 TES 战队，拿下这轮 BO5 的胜利，成为首个晋级 S16 四强的队伍，时隔 7 年重回半决赛舞台（上次是 2019 年 10 月 26 日八强赛 3-1 战胜 GRF，但半决赛不敌 FPX）。同时这也是 iG 打野选手 Wei 生涯第一次以首发身份赢下全球总决赛的 BO5，此前 0 胜 3 负。此外，TES 下路 JackeyLove 成为 LPL 选手超越 Uzi 成为 LPL 在 S 赛击杀最多的选手，位列历史总榜第 5。同时，TES 上单 Z",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/022/004.htm"
+    },
+    {
+      "id": "40e03df8-2d23-81fe-a6c6-df2b70b66efb",
+      "title": "7-Eleven 日本公司送货上门服务遭非法访问，超 16 万条客户信息外泄",
+      "summary": "IT之家 11 月 4 日消息，据共同社报道，便利店企业 7-Eleven 日本公司 3 日宣布，送货上门服务“7NOW”的配送业务外包方遭遇非法访问，总计逾 16 万条客户信息外泄。泄露的信息包括姓名、住址、电话号码等，不涉及信用卡信息和密码。据该公司透露，1 日查明外包方遭受非法访问，3 日确认 7-Eleven 部分用户信息外泄。据悉，7-Eleven 的送货上门服务未因此受到影响，用户仍可照常使用。官方将通过短信方式，依次向已经登记的电话号码联系涉及对象。据IT之家此前报道，而在今年 4 月，7-Eleven 就遭遇了臭名昭著的黑客团伙 ShinyHunters 攻击，超过 18.3 ",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/972.htm"
+    },
+    {
+      "id": "40e03df8-2d23-814a-a1e8-c7b39862b666",
+      "title": "水月雨 ddHiFi Blue Rose 便携解码耳放发售：双 CS43198 芯片，1399 元全球限量 1000 套",
+      "summary": "IT之家 11 月 4 日消息，ddHiFi 与水月雨联名的 Blue Rose 便携解码耳放（型号 MD-DA-016）今日正式发售，定价为 1399 元，全球限量 1000 套。京东水月雨 × ddHiFi Blue Rose 便携解码耳放无损小尾巴 HIFI 发烧 TypeC 转接 3.5/4.4 Blue Rose1399 元直达链接这是一款基于 ddHiFi TC44 GRIP 开发设计的特别产品，依托其成熟的硬件配置与制造工艺，由水月雨与 ddHiFi 共同进行再设计与调校，从内至外均有不同。外观方面，Blue Rose 以「暮蓝的玫瑰」为主题意象，采用水月友希 · 暮蓝特别主题配",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/977.htm"
+    },
+    {
+      "id": "40e03df8-2d23-818e-aeb7-ef6c1776de59",
+      "title": "华邦 2026Q3 营收同比大增 278.2%，核准 713.63 亿新台币高雄扩产计划",
+      "summary": "IT之家 11 月 4 日消息，中国台湾地区利基型存储器制造商华邦电子 (Winbond) 昨日公布了其 2026 年第 3 季度运营表现：合并营收：823.31 亿新台币，同比增长 278.2%毛利率：70.6%；归母税后净利润：354.22 亿新台币每股净收益：7.58 新台币从产品类别来看，客制化内存营收占比 58%，闪存贡献 32%，逻辑和其它各占 9% 和 1%；从应用类别来看，通讯电子占比为 31%，消费电子、车用及工业用相关各占 26%，计算机相关则是 17%。华邦电子是全球最大的 NOR 闪存制造商，其 SLC NAND 闪存则位居世界第三。该企业预计闪存价格仍有上行空间，而 ",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/963.htm"
+    },
+    {
+      "id": "40e03df8-2d23-81c9-b3bf-f63de4c9aac4",
+      "title": "国行 Apple 智能上手：这些功能已经准备好",
+      "summary": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。查看全文",
+      "source": "少数派",
+      "publishTime": "2026-11-04",
+      "link": "https://sspai.com/post/118404"
+    },
+    {
+      "id": "40e03df8-2d23-811e-a051-ecaa0fa88550",
+      "title": "消息称极氪计划推出硬派越野 SUV：对标奔驰大 G，预计 2028-2029 年量产",
+      "summary": "IT之家 11 月 4 日消息，“未来汽车 Daily”今天（4 日）上午援引知情人士消息称，极氪内部正在筹划一款方盒子硬派越野 SUV，并已向多家供应商匹配需求。极氪内部并没有给这款硬派越野 SUV 设立代号，从供应商的口径来讲，他们将这个项目称为“极氪对标奔驰大 G 的车型方案”。据悉，该车型目前仍在做供应商的匹配，尚未正式立项，按照进度来推测，这款对标大 G 的车型方案预计会在 2028 年 —2029 年量产。另据知情人士透露，该车尚未正式确定造型，对标奔驰大 G 的策略则是用“承载式 / 半承载 + 电驱独立控制 + 空悬行程 + 智能脱困”的策略实现“新豪华越野”性能。早在今年 5",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/961.htm"
+    },
+    {
+      "id": "40e03df8-2d23-813e-a7c8-da577212c73b",
+      "title": "SIA & WSTS：全球 2026Q3 半导体销售额 5177 亿美元，环比增幅 24.1%",
+      "summary": "IT之家 11 月 4 日消息，美国半导体行业协会 (SIA) 当地时间 3 日表示，根据世界半导体贸易统计组织 (WSTS) 编制的数据，全球半导体销售额在 2026 年第 3 季度达到 5,177 亿美元（IT之家注：现汇率约合 3.46 万亿元人民币），环比增长 24.1%。各主要区域市场的半导体销售额均在 9 月出现了强劲增长，即使是相对最为弱势的日本市场也有 73.4% 的显著增幅，美洲的同比增幅达到惊人的 191.7%。▲ 图源：WSTSSIA 总裁兼首席执行官 Michael Robbins 表示：今年第三季度，全球芯片市场实现了大幅增长，全球销售额连续第三个季度环比增长超过 2",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/960.htm"
+    },
+    {
+      "id": "40e03df8-2d23-813c-8824-c4a2edc307cf",
+      "title": "机械师 G5 Pro V3 手柄发售：搭载力度可调 TMR 摇杆，199 元起",
+      "summary": "IT之家 11 月 4 日消息，机械师 (MACHENIKE) 现已正式开售 G5 Pro V3 手柄。这一控制器搭载力度可调节的 TMR 传感器摇杆，单品售价 199 元、包含额外本体功能与充电座的套装售价 269 元。G5 Pro V3 配备微动 / 霍尔效应传感器双模扳机，拥有 2 颗额外小肩键和 4 颗背键，主要功能按键为机械式结构，ABXY 搭载第三代轻力微动，D-Pad 支持 360° 全向输入，集成 H 桥急停非对称转子握把马达，内置 1200mAh 电池。该手柄的单品版本为半透明外观，可选黑 / 白；套装版为集成 RGB 点阵星光灯效的黑金 / 白金外观，同时额外配备扳机马达。",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/958.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8198-b6ca-dd47596e3e01",
+      "title": "全球首个千公里空芯光纤双向实时传输验证，中国电信、长飞公司、中兴通讯联合完成",
+      "summary": "IT之家 11 月 4 日消息，中国电信研究院 11 月 2 日宣布，全国重点实验室共建单位中国电信研究院、长飞公司联合中兴通讯，共同完成全球首个千公里空芯光纤双向实时传输验证：在 1007.48 公里空芯光纤链路上，实现扩展 C+L 波段单波 800Gb/s（PCS-16QAM 调制）单纤双向传输，总容量达 128Tb/s，将空芯光纤实时传输的距离纪录推至新的高度，标志着我国在下一代光通信关键核心技术上再获里程碑式突破。⁠本次试验在光纤端，通过光纤制备工艺优化消除了扩展 C+L 波段内 CO₂、CO 气体线吸收（GLA），攻克了 GLA 劣化传输性能的核心技术难题；在设备端，结合空芯光纤损耗",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/957.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8182-a688-f321450b56de",
+      "title": "酷态科「太空系列三体联名版」开售，含屏显充、电能块与亲肤硅胶编织线",
+      "summary": "IT之家 11 月 4 日消息，酷态科官方今日宣布「太空系列三体联名版」正式开售，包括：6 号屏显充 Ultra（套装版）：199 元CP25 电能块（自带线）：149 元亲肤硅胶编织线（约 1.5m）：39.9 元作为参考，普通版酷态科 6 号屏显充 Ultra 单体 149 元，套装版 169 元（IT之家注：内含一根 6A 240W PD3.1 CtoC 编织数据线约 1 米）。酷态科 6 号屏显充 Ultra 采用折叠插脚设计，整体造型圆润，对比常规 67W 充电头的体积缩小约 29%；配有 0.96 英寸小屏幕，可显示充电数据和虚拟形象 Cool bot 动态表情。性能方面，酷态科 ",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/956.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8151-9397-d6c170cdc4bb",
+      "title": "比亚迪新车型确认 11 月 27 日广州车展首发，预计为全新一代比亚迪汉",
+      "summary": "IT之家 11 月 4 日消息，比亚迪王朝网销售事业部总经理路天 11 月 2 日公布，王朝网 10 月销量达到 203,040 辆，为其今年首次站上 20 万辆台阶。路天同时宣布，11 月广州车展将推出一款“用户呼声很高的车型”。同时，比亚迪第三代唐 8 系大五座科技旗舰 SUV 正在上市筹备中，展车已经陆续到店。虽然路天没有透露关于新车的任何信息，但结合最近工信部新车申报但没发布以及“用户呼声很高”这一特点来看，这款新车大概率会是全新一代比亚迪汉。新一代比亚迪汉已在工信部第 412 批新车申报目录中完成申报，共涉及四款车型，包括三款纯电版本与一款插混版本。新车车身长宽高为 5156/196",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/955.htm"
+    },
+    {
+      "id": "40e03df8-2d23-813a-a0eb-d29962300458",
+      "title": "消息称三星电子计划在美国泰勒第二晶圆厂为 AMD 等客户生产 HBM 基础裸片",
+      "summary": "IT之家 11 月 4 日消息，韩媒《每日经济》当地时间昨日报道称，三星电子晶圆代工业务计划在其美国得克萨斯州泰勒市集群的第二晶圆厂为 AMD 等客户生产 HBM 基础裸片 (Base Die)。IT之家注意到，三星晶圆代工泰勒集群的首座晶圆厂将在 2026 年内投运；第二晶圆厂则将在本月动工，预计 2030 年投运。三星晶圆代工主要向自家存储器业务供应 HBM 基础裸片。自 HBM4 世代开始，内存制造商的自有工艺逐渐无法满足 HBM 堆栈底层与 XPU 通信的基础裸片的性能需求，而未来定制 HBM 还要将部分 XPU 功能卸载到基础裸片上，这导致内存制造商开始向外部先进制程代工企业提供基础",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/954.htm"
+    },
+    {
+      "id": "40e03df8-2d23-81b1-a0e5-cdde32f56cb3",
+      "title": "预订价格 13.98 万-17.58 万元，奇瑞 iCAR V25 方盒子 SUV 上市定档 11 月 19 日",
+      "summary": "IT之家 11 月 4 日消息，今天（4 日）上午，奇瑞 iCAR 汽车官微宣布，方盒子 SUV 新车 iCAR V25 将于 11 月 19 日正式上市。该车已在今年 10 月开启预订，提供四种配置，价格区间在 13.98-17.58 万元。IT之家附该车各版本预订价格如下：后驱 Pro：13.98 万元后驱 Max：14.98 万元四驱 Max+：16.38 万元四驱 Ultra：17.58 万元外观方面，iCAR V25 采用经典方盒子造型，拥有垂立 A 柱搭配宽体轮眉，提供白（珠光漆）、黑、银、绿、灰（哑光）等 5 种车色。该车尺寸为 4636*1920*1855mm，轴距 2820m",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/949.htm"
+    },
+    {
+      "id": "40e03df8-2d23-81ce-882b-db4b4135539c",
+      "title": "ROG XBOX 掌机 X 20 周年版上手：一次补齐遗憾的升级，体验更加出色",
+      "summary": "去年这个时候，华硕和微软联合推出了一款 ROG XBOX 掌机 X，当时它舒适的人体工学设计，出色的屏幕素质、性能和散热体验、大厂联合定制 UI 就获得了外界的一致好评。时隔一年，在 ROG 品牌成立 20 周年之际，华硕又给广大玩家带来了 ROG XBOX 掌机 X 20 周年版，它可不是简单的换皮改色，而是在硬件上由内而外进行了全面升级。IT之家最近拿到了这款新品进行了体验，借此机会，我们就来聊聊升级后的 ROG XBOX 掌机 X 20 周年版表现究竟如何。一、外观升级这次的 ROG XBOX 掌机 X 20 周年版虽然在机身造型和按键布局上没有变化，但整体涂装细节做了定制化升级，这点倒",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/940.htm"
+    },
+    {
+      "id": "40e03df8-2d23-815c-8284-eb759336096c",
+      "title": "微软 Xbox 首位首席运营官 Helen Chiang 确认离职：仅上任 3 个月，本人否认因违规被解雇",
+      "summary": "IT之家 11 月 4 日消息，微软 Xbox 首位首席运营官 Helen Chiang 确认已离职，她担任该职务仅三个月。Helen Chiang 在微软工作了大约 21 年，从 2005 年入职，2007 年转到 Xbox，微软游戏部门 CEO Asha Sharma 称赞她帮助打造了 Xbox Live。Helen Chiang 后来领导了 Mojang，并于 2020 年成为《我的世界》系列的企业副总裁。Asha Sharma 于今年 7 月设立了 Xbox 首席运营官职位，该职位负责内容、硬件、平台和服务的端到端盈亏等。IT之家注意到，对于网传的“违反政策被解雇”说法，Helen C",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/937.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8195-95d5-dc872c90219e",
+      "title": "国内首款：网易《燕云十六声》官宣 11 月 24 日实装英伟达 DLSS 5",
+      "summary": "IT之家 11 月 4 日消息，网易旗下开放世界武侠游戏《燕云十六声》官方宣布将于 2026 年 11 月 24 日正式实装英伟达 DLSS 5 技术，成为全球首批、国内首款支持该技术的游戏（北美地区将提前一天，于 11 月 23 日先行上线）。DLSS 5 是英伟达在 2026 年 3 月 GTC 大会上公布的新一代实时神经渲染技术，官方将其定位为“图形领域的 GPT 时刻”。与单纯提升分辨率的传统超采样不同，DLSS 5 以游戏每帧的颜色和动态向量为输入，利用 AI 模型为场景生成与原始 3D 内容紧密对齐的拟真光照和材质，最高可在 4K 分辨率下实时运行。据介绍，《燕云十六声》此次接入的",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/935.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8156-8d8f-c5f19d3df3d7",
+      "title": "博世将于 2028 年 1 月成立独立的半导体业务部门",
+      "summary": "IT之家 11 月 4 日消息，BOSCH（博世）当地时间本月 3 日宣布，计划于 2028 年 1 月将长期隶属移动电子事业部的半导体业务升格为独立业务部门。半导体部门未来仍将是其移动出行业务板块的一部分。博世目前在全球拥有约 40 个半导体研发、生产、制造基地。该企业近年来已向德国两处晶圆厂投资约 30 亿美元，美国加州的碳化硅设施也在建设之中，马来西亚槟城测试中心将在 2035 年前进一步扩展。博世也是台积电在欧合资晶圆厂 ESMC 的股东之一。博世目标到 2030 年实现约 50 亿欧元（IT之家注：现汇率约合 373.56 亿元人民币）的半导体销售额。",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/931.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8111-86f5-e9236a581f25",
+      "title": "京东翻倍得 24 积分：爱奇艺 x 京东 PLUS 联合会员年卡白金 248 元、黄金 168 元大促",
+      "summary": "爱奇艺黄金会员年卡 + 京东 PLUS 年卡日常售价 258 元，11.11 大促价 168 元：京东爱奇艺黄金 VIP 会员年卡 + 京东 PLUS 会员年卡 168 元直达链接如果需要爱奇艺白金卡，京东联合会员到手价为 248 元：京东爱奇艺白金 VIP 会员年卡 + 京东 PLUS 会员年卡券后 248 元领 20 元券京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。京东 PLUS 积分京东 PLUS 年卡赠 12 积分，积分可用于：5 积分换 2 小时保洁（可兑 1 次，大多数城市日常 40 元 / 小时）3 积分洗一次鞋 / 衣服（可洗羽绒服、麂皮运动鞋",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/923.htm"
+    },
+    {
+      "id": "40e03df8-2d23-817f-8e85-de1ef1b0467f",
+      "title": "iQOO 自带线数显移动电源 20000 开售：33W 到手 189 元，66W 到手 229 元",
+      "summary": "IT之家 11 月 4 日消息，iQOO 自带线数显移动电源 20000（33W）于今日正式开售，京东到手价为 189 元（零售价 199 元）。该产品另有 66W 版本，到手价 229 元（零售价 259 元）。京东 vivo iQOO 自带线数显移动电源 20000 33W 极速黄 189 元直达链接据IT之家了解，该产品采用极速黄配色，机身尺寸为 123mm × 71mm × 30mm，重量约 361g，外壳材质为 PC + ABS，达到 CQC-V0 防火标准。机身侧面配备彩色数码显示屏，可直观显示剩余电量百分比、自充状态、温度过高及异常标识。产品内置两颗 10000mAh 锂离子聚合",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/924.htm"
+    },
+    {
+      "id": "40e03df8-2d23-81bf-8151-cae4107822e4",
+      "title": "微信灰度测试「声音清晰度增强」选项：目前支持苹果 iOS 和安卓版，华为鸿蒙版仍在开发中",
+      "summary": "IT之家 11 月 4 日消息，近日有多个用户反馈，微信正在灰度测试“声音清晰度增强”功能，例如 iOS 客户端在“我-设置-更多”中新增独立入口，用户开启后可在听语音消息、音视频通话等场景获得更清晰的声音。腾讯客服回应IT之家表示，这是微信为提升语音沟通体验推出的智能功能。当用户听不清对方说话时，系统会根据听力情况自动匹配合适的清晰度。有测试权限的用户可以通过“我-设置-更多-声音清晰度增强-开始”找到对应入口。不过，该入口目前仅支持 iOS 和 Android 客户端灰度测试，鸿蒙客户端仍在开发中。值得一提的是，该功能原本位于关怀模式中，只有开启关怀模式才能使用。现在微信为其设置专门入口，",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/925.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8104-946a-eff169364d4a",
+      "title": "苹果 Apple Music 新增“自唱自拍”功能：一边 K 歌一边录制视频",
+      "summary": "IT之家 11 月 4 日消息，@aaronp613 今日发现，苹果在 iOS 27.3 开发者测试版中为 Apple Music 上线了一项名为 Selfie Sing 的新功能，允许用户一边跟随屏幕滚动的歌词唱歌，一边使用 iPhone 前置摄像头录制视频，并在录制完成后调整人声效果、保存或分享视频。Selfie Sing 是苹果对现有 Apple Music 卡拉 OK 功能的进一步扩展。此前，Apple Music 的 K 歌模式已支持降低歌曲原唱音量，并通过高亮显示的同步歌词帮助用户跟唱。新增的 Selfie Sing 则将视频录制功能整合进音乐播放界面。升级到 iOS 27.3 测",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/918.htm"
+    },
+    {
+      "id": "40e03df8-2d23-811b-8da7-d042713e875c",
+      "title": "iQOO 双边拉伸手柄 G1 开售：双霍尔配置、自定义按键，499 元",
+      "summary": "IT之家 11 月 4 日消息，iQOO 双边拉伸手柄 G1 于今日正式开售，定价为 499 元。该手柄采用超宽拉伸结构，最大拉伸距离可达 211mm，配合不同规格的硅胶垫片夹持，可稳固适配 iQOO 16、iQOO Neo12 手机以及 iQOO Pad Ultra、iQOO Pad Pro 8.8 英寸等小尺寸平板电脑，剧烈游戏操作也不易出现晃动、脱落与误触。京东 iQOO 双边拉伸 手柄 G1499 元直达链接手柄采用可更换长短握把设计，短握把可快速拆卸，便于轻装出行携带；长握把贴合人体工学曲线，配合防滑纹理设计，长时间游戏握持依旧稳定舒适，用户可根据使用场景自由切换。操控方面，该手柄搭",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/919.htm"
+    },
+    {
+      "id": "40e03df8-2d23-814d-a3db-c1df38b8af6f",
+      "title": "京东收购德国 CECONOMY 获欧盟委员会有条件批准，交易即将落地",
+      "summary": "IT之家 11 月 4 日消息，欧盟委员会当地时间本月 3 日宣布，有条件地批准京东收购 CECONOMY。这标志着该交易已迈过最后一道监管障碍，所有要约条件现已满足，即将在数日内完成。京东与 CECONOMY 承诺在 10 年内按照市场条款进行包括融资的内部交易，京东将以向 CECONOMY 提供的相同条款向第三方提供其仓储物流和技术服务。CECONOMY 是一家总部位于德国、业务横跨欧洲 11 国的大型消费电子与家用电器零售企业，员工总数超 5 万人，同时拥有线上渠道和超 1000 家线下门店，旗下品牌包括 MediaMarkt、MediaWorld、Saturn。相关阅读：《京东拟 25",
+      "source": "IT之家",
+      "publishTime": "2026-11-04",
+      "link": "https://www.ithome.com/1/021/920.htm"
+    },
+    {
+      "id": "40e03df8-2d23-8113-aa75-c1711f56800e",
+      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's dat",
       "source": "The Verge",
       "publishTime": "2026-11-04",
-      "link": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity"
+      "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
     },
     {
-      "id": "40d03df8-2d23-81e3-add0-e93658c3ea99",
-      "title": "The NYC Marathon costs more than $300 to enter. Here's what it's like to run it.",
-      "summary": "Nearly 60,000 runners participated in the 2026 NYC Marathon, starting in Staten Island and finishing 26.2 miles later in Central Park.",
-      "source": "Business Insider",
+      "id": "40e03df8-2d23-814b-8323-f518d7ffafae",
+      "title": "曝字节将大面积限制员工在内部自费使用 Claude、Codex 等",
+      "summary": "IT之家 11 月 4 日消息，据大厂日爆 11 月 3 日爆料，字节迎来新规，将大面积限制 Claude、Codex 等个人账号的内部使用。爆料称，本月起，字节跳动将会对所有 L4 级别的代码仓库和飞书文档进行外部 AI 访问封禁，覆盖范围全公司，员工个人采买的 AI 账号不能再用。爆料还称，通知自上周发出后，引起了内部一些讨论，字节跳动技术副总裁洪定坤还在内网进行了详细回应，比如“L3 及以上内容一旦有泄露，后果是非常严重的”、“推广产品不需要用这种禁掉其他选择强迫使用的方式，因为这样效果很差”。据 The Information 今年 8 月报道，字节跳动创始人张一鸣在上个月的 Seed",
+      "source": "IT之家",
       "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/what-its-like-to-run-the-new-york-city-marathon-2026-11"
+      "link": "https://www.ithome.com/1/021/917.htm"
     },
     {
-      "id": "40d03df8-2d23-8143-86e0-d66bb692af6d",
-      "title": "Photos from the 2026 NYC Marathon, from celebrity sightings to record-setting finishes",
-      "summary": "From celebrity sightings to record-setting runs, here are some of the best photos from the 2026 New York City Marathon.",
-      "source": "Business Insider",
+      "id": "40e03df8-2d23-8178-a7e7-c6a6cc7063ca",
+      "title": "Linux 发行版 Fedora 45 正式发布： Anaconda 安装程序集成 Stratis 支持",
+      "summary": "IT之家 11 月 4 日消息，Fedora 官方当地时间本月 3 日正式发布了这一 Linux 发行版的 45 版本。此次发布覆盖该发行版的 Workstation、KDE Plasma Desktop、Server、Cloud、CoreOS、IoT 全部 6 种主要变体。Fedora Linux 45 基于最新的 Linux 内核版本，拥有最新的桌面环境、开发工具和运行时库，为用户带来出色的“开箱即用”体验。Fedora 官方特别强调，最新版本在 Anaconda 安装程序中集成了对 Stratis 存储的支持。Stratis 将现代企业级存储功能引入本地存储，同时将设备映射器、XFS 和",
+      "source": "IT之家",
       "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/see-best-photos-2026-nyc-marathon-celebrities-2026-11"
+      "link": "https://www.ithome.com/1/021/916.htm"
     },
     {
-      "id": "40d03df8-2d23-81cb-846c-ef9b9f7905ef",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "source": "TechCrunch",
-      "publishTime": "2026-11-04",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
-    },
-    {
-      "id": "40d03df8-2d23-816d-90d8-e0146b4ceca3",
-      "title": "Chipotle's COO says he looks for this problem-solving skill in future leaders",
-      "summary": "Problems arise in every workplace, but the employees who stand out are the ones who take initiative and find solutions.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/chipotle-coo-shares-advice-problem-solving-skill-leaders-2026-11"
-    },
-    {
-      "id": "40d03df8-2d23-816e-907a-d25f385a2fce",
-      "title": "Xbox’s smallest-ever controller is surprisingly comfortable",
-      "summary": "Even though I knew Microsoft's new Xbox Nano controller was tiny, I still gasped when I unboxed it a few days ago. The compact controller is small enough to slip into a pocket unnoticed, and it has been designed specifically for younger people, or for anyone with smaller hands. I'm not young, but I ",
-      "source": "The Verge",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on"
-    },
-    {
-      "id": "40d03df8-2d23-8121-ad2b-c98238a1868d",
-      "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will ",
-      "source": "The Verge",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
-    },
-    {
-      "id": "40d03df8-2d23-81b1-ad72-c0793aa1d221",
-      "title": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
-      "summary": "Shopify stock fell after the e-commerce platform's Q3 revenue and gross merchandise volume missed estimates, despite an adjusted earnings beat.",
+      "id": "40e03df8-2d23-8187-aff7-d765d5a153bb",
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
+      "summary": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
       "source": "CNBC Tech",
       "publishTime": "2026-11-04",
-      "link": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html"
+      "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html"
     },
     {
-      "id": "40d03df8-2d23-81bb-806c-f4da684df357",
-      "title": "We downsized from a one-bedroom NYC apartment to a 38-foot sailboat. Life changed, but not for the better.",
-      "summary": "Going from an apartment in NYC to living on a sailboat full-time with my partner and dog wasn't what I hoped. The cost and drawbacks added up.",
-      "source": "Business Insider",
+      "id": "40e03df8-2d23-81e7-996a-e34458068180",
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual sty",
+      "source": "The Verge",
       "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/living-on-boat-not-what-we-hoped-quit-mistakes-cost-2026-11"
+      "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
     },
     {
-      "id": "40d03df8-2d23-816a-b637-ecc49f6bc43f",
-      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-      "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
-      "source": "TechCrunch",
+      "id": "40e03df8-2d23-81ee-abc6-de456b82e53d",
+      "title": "Salesforce’s M&A Blitz Reflects Broader Deal Rush",
+      "summary": "Anyone with an interest in tech will be glued to the TV or social media tonight, monitoring the midterm elections. As my colleague Shane Burke writes below, more than 20 candidates in state governor races support a moratorium on data center development. There’s also the California billionaire tax, P",
+      "source": "The Information",
       "publishTime": "2026-11-04",
-      "link": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/"
+      "link": "https://www.theinformation.com/articles/salesforces-m-a-blitz-reflects-broader-deal-rush"
     },
     {
-      "id": "40d03df8-2d23-81b7-9c68-eca1c8e85579",
-      "title": "Several flights in Europe have been targeted by bomb threats today. Here's what we know.",
-      "summary": "Two flights to Poland, one to Spain, and another to Bulgaria were checked for explosives after bomb threats on Tuesday.",
-      "source": "Business Insider",
+      "id": "40e03df8-2d23-811f-aed5-d6b1522278c9",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the mo",
+      "source": "The Verge",
       "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/europe-flights-bomb-threats-heathrow-copenhagen-manchester-sofia-2026-11"
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
     },
     {
-      "id": "40d03df8-2d23-8110-896e-cc64ee6fa8b2",
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-      "source": "TechCrunch",
+      "id": "40e03df8-2d23-8169-8509-c509a7633558",
+      "title": "Canva Lays Off Workers After AI Rollout Problems",
+      "summary": "Canva is making its first round of job cuts since it was founded in 2013, the company told staff on Tuesday. The company said 22% of its staff, or 1,271 people, will need to change roles, relocate, or lose their jobs. “We’re simplifying layers, consolidating overlapping responsibilities, and ...",
+      "source": "The Information",
       "publishTime": "2026-11-04",
-      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+      "link": "https://www.theinformation.com/briefings/canva-lays-workers-ai-rollout-problems"
     },
     {
-      "id": "40d03df8-2d23-81a4-a89d-cfa8d598b5a1",
-      "title": "How political candidates charter jets to travel across battleground states during election cycles",
-      "summary": "Midterm incumbents like Sen. Susan Collins and Rep. Hakeem Jeffries have spent tens of thousands of dollars on campaign travel.",
-      "source": "Business Insider",
+      "id": "40e03df8-2d23-8123-9854-e1344c0b89b6",
+      "title": "Synopsys, Cadence Shares Drop 4% on The Information Report",
+      "summary": "Shares of Synopsys and Cadence Design Systems dropped as much as 4% on Tuesday after The Information reported that Anthropic has told investors that it is using its own Claude models for engineering and design work on its custom chips. Anthropic’s engineers found that Claude cuts down the time ...",
+      "source": "The Information",
       "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/how-political-candidates-charter-campaign-jets-elections-midterms-2026-11"
+      "link": "https://www.theinformation.com/briefings/synopsys-cadence-shares-drop-4-information-report"
     },
     {
-      "id": "40d03df8-2d23-8121-a2fa-ed5a09207862",
-      "title": "I spent years trying to make family vacations perfect. Giving up made them fun again.",
-      "summary": "Traveling with my kids was more like an endurance test than a break. When I lowered my expectations, family trips finally became fun for all of us.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/traveling-with-kids-hack-tips-make-fun-for-parents-2026-11"
-    },
-    {
-      "id": "40d03df8-2d23-813e-96a7-f3ffa390587c",
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "id": "40e03df8-2d23-815f-840e-d32b3d90af96",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
       "source": "BBC Tech",
       "publishTime": "2026-11-04",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "40d03df8-2d23-8169-a1e0-fe4954d9640b",
-      "title": "Should OpenAI Be Afraid of Jensen Huang?",
-      "summary": "News flash: A lot of people in Silicon Valley are afraid of Nvidia CEO Jensen Huang.They have understandable reasons to be fearful, as Leo, Phoebe and I detailed in our story this morning. The chipmaker has a lot of money and influence to throw around, since Huang has the ear of several top governme",
-      "source": "The Information",
+      "id": "40e03df8-2d23-8150-8c19-d6865aeed61b",
+      "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+      "summary": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。查看全文",
+      "source": "少数派",
       "publishTime": "2026-11-04",
-      "link": "https://www.theinformation.com/articles/openai-afraid-jensen-huang"
+      "link": "https://sspai.com/post/118402"
     },
     {
-      "id": "40d03df8-2d23-814d-9d51-fdddfa354710",
-      "title": "America's tech elite are holding their breath as they await California's billionaire tax vote",
-      "summary": "California voters are weighing Prop. 40, a one-time billionaire tax that has Silicon Valley executives funding campaigns and weighing their options.",
+      "id": "40e03df8-2d23-8197-b88c-d3a4e61fc1e0",
+      "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
+      "summary": "Cramer said a new group of technology stocks may be emerging as market leaders.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-11-04",
+      "link": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html"
+    },
+    {
+      "id": "40e03df8-2d23-8197-9b18-e3657f932654",
+      "title": "Cat Wu, a face of the blockbuster app Claude Code, leaves Anthropic",
+      "summary": "Cat Wu exits Anthropic before its IPO. She helped boost Claude Code's success with Boris Cherny, making the AI startup a key player.",
       "source": "Business Insider",
       "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/california-billionaire-tax-proposition-40-results-2026-11"
+      "link": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11"
     },
     {
-      "id": "40d03df8-2d23-81f6-aefb-e41a3bdd3ae0",
-      "title": "英伟达称 AI 重塑芯片工厂：仿真提速最高 35 倍，工程师决策从数天缩至数分钟",
-      "summary": "IT之家 11 月 4 日消息，英伟达于 11 月 3 日发布文章称，人工智能正在推动半导体晶圆厂进入“AI 定义工厂”阶段：通过加速仿真、学习型物理模型、AI 智能体和数字孪生，正在显著提速芯片制造中的设计、测试与生产决策。加速仿真（accelerated simulation）指利用 GPU、并行计算、AI 智能体模型等技术，把传统依赖 CPU 的工程仿真从数小时、数天压缩到数分钟甚至毫秒级的过程。在半导体制造中，它让工程师能更快测试工艺方案、预测缺陷风险，而不必先做昂贵且耗时的真实产线实验。IT之家援引博文介绍，随着先进芯片需求上升，制造工艺愈发复杂，良率和工艺质量的容错空间不断缩小。传",
+      "id": "40d03df8-2d23-817c-82b1-fe15ea82431c",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]",
+      "source": "The Verge",
+      "publishTime": "2026-11-04",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
+    },
+    {
+      "id": "40d03df8-2d23-81de-ba6e-c3ae66be240a",
+      "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "summary": "\"Enabling agents to work safely is a massive market opportunity for CrowdStrike,\" CrowdStrike CEO George Kurtz told CNBC's Jim Cramer.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-11-04",
+      "link": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html"
+    },
+    {
+      "id": "40d03df8-2d23-8176-8aab-d55871c8e215",
+      "title": "比亚迪仰望品牌海外首秀定档 11 月 6 日，超豪华行政旗舰轿车鼎曜同步亮相",
+      "summary": "IT之家 11 月 4 日消息，11 月 3 日，仰望汽车宣布：仰望品牌海外首秀将于 11 月 6 日在阿联酋迪拜举行，届时将举办两次活动：仰望 U9X 阿布扎比公路极速挑战、仰望鼎曜超豪华行政旗舰轿车亮相。继去年 U9 Xtreme 在德国跑出了 496.22km/h 的成绩并站上全球汽车极速榜首后，比亚迪仰望销售事业部总经理胡晓庆近期宣布，仰望 U9 Xtreme 将在阿联酋首都阿布扎比开启一场全新的开放公路极速挑战。“希望在经过专业评估和安全保障的全新公路环境中，继续挑战更高的速度。”仰望鼎曜则将采用对开门设计，并拥有近 90° 的宽大开合角度，为上下车带来更开阔的空间，也让进出座舱的姿",
       "source": "IT之家",
       "publishTime": "2026-11-04",
-      "link": "https://www.ithome.com/1/021/857.htm"
+      "link": "https://www.ithome.com/1/021/890.htm"
     },
     {
-      "id": "40d03df8-2d23-8168-9bda-de770ab66eec",
-      "title": "Gas prices could shape the midterms. See the US states where prices have risen the most.",
-      "summary": "In more than 40 states, fuel prices have increased by at least $1 per gallon over the past year. See how your state ranks.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/gas-prices-midterms-states-rising-most-2026-11"
-    },
-    {
-      "id": "40d03df8-2d23-819f-96b1-ee6fdb2b1171",
-      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-      "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
-      "source": "TechCrunch",
-      "publishTime": "2026-11-04",
-      "link": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/"
-    },
-    {
-      "id": "40d03df8-2d23-81ae-bade-ceacfe21a14e",
-      "title": "荣威家越 X7 HEV 新车申报：1.5T 油电混动大五座中型 SUV",
-      "summary": "IT之家 11 月 4 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，荣威家越 X7 完成申报。IT之家注意到，此次申报的荣威家越 X7 为混合动力运动型乘用车，属于上汽荣威旗下全新家用 SUV 产品，定位大五座中型 SUV，主打家庭日常出行场景。车身尺寸方面，新车长宽高分别为 4900/1924/1759（1765）mm，轴距达到 2863mm，前轮距 1647mm、后轮距 1661mm，接近角 / 离去角为 19°/23°（19°/24°），整备质量为 1820kg、1860kg 两个版本，总质量为 2273kg、2313kg，额定载客 5 人，轮胎规格可选",
+      "id": "40d03df8-2d23-8181-b474-e66ef49b3e8f",
+      "title": "微软承认 10 月更新再次破坏 Excel 复制粘贴，已重发补丁修复",
+      "summary": "IT之家 11 月 4 日消息，科技媒体 NeoWin 昨日（11 月 3 日）发布博文，报道称微软承认 10 月推送 Windows 更新 KB5002934 导致 Excel 的复制粘贴功能失效，并已通过重新发布修复版更新解决问题。IT之家援引博文介绍，本次故障可以追溯到今年 9 月，微软承认 Excel 安全更新 KB5002914 导致复制 / 粘贴功能失效，随后于 9 月 19 日通过推送 KB5002665 更新修复。不过 Excel 用户发现在安装 10 月更新 KB5002934 之后，再次出现复制粘贴功能失效问题。有用户卸载该更新后，复制粘贴功能随即恢复，进一步证实了问题来源",
       "source": "IT之家",
       "publishTime": "2026-11-04",
-      "link": "https://www.ithome.com/1/021/856.htm"
+      "link": "https://www.ithome.com/1/021/889.htm"
     },
     {
-      "id": "40d03df8-2d23-81b7-ae97-d8050c962674",
-      "title": "I launched a gluten-free bakery from my kitchen after leaving finance. It's on track to make $3M in revenue this year.",
-      "summary": "Gluten-free baker Addison LaBonte details her journey from finance to founding a thriving bakery, using social media and customer input for growth.",
-      "source": "Business Insider",
+      "id": "40d03df8-2d23-81fa-8bfd-fc16d54521d6",
+      "title": "微软推出 Xbox Series X-BITE 特别版主机：塞进 1.5 米长鳄鱼造型外壳，全球仅此一台抽奖送",
+      "summary": "IT之家 11 月 4 日消息，当地时间 11 月 3 日，微软公布了一款名为 Xbox Series X-BITE 的特别版 Xbox Series X 主机，并宣布通过抽奖活动将其免费送出。这款主机采用一条约 5 英尺（约 1.52 米）长的鳄鱼造型外壳，内部装有一台可以正常运行的 Xbox Series X，外观设计则融入了鳄鱼、Xbox 标志及游戏手柄等元素。从微软公布的图片来看，这条鳄鱼的身体采用方形隆起设计，Xbox Series X 主机被嵌入其腹部。主机启动后，可以透过身体上的方形区域看到经过特殊配色处理的 Xbox 标志。IT之家注意到，鳄鱼眼睛也采用了 Xbox 绿色虹膜和",
+      "source": "IT之家",
       "publishTime": "2026-11-04",
-      "link": "https://www.businessinsider.com/started-bakery-finance-career-on-track-make-3m-2026-11"
-    },
-    {
-      "id": "40d03df8-2d23-8118-b517-dc8b50a5893e",
-      "title": "How Nvidia Uses Its Soft Power to Influence Customers and Shape Policy",
-      "summary": "Last month, OpenAI Senior Research Scientist Noam Brown posted a link in a company Slack channel to a news story about OpenAI’s changing stance on advanced chip sales to China and asked a blunt question: “What is our policy on chip exports?” OpenAI policy leaders responded on Slack by citing past co",
-      "source": "The Information",
-      "publishTime": "2026-11-04",
-      "link": "https://www.theinformation.com/articles/nvidia-uses-soft-power-influence-customers-shape-policy"
-    },
-    {
-      "id": "40d03df8-2d23-8146-92d6-f65d85b07e0d",
-      "title": "荣威家越 06 新车申报：纯电 / 插混动力 SUV，可选锰基锂电池版本",
-      "summary": "IT之家 11 月 3 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，荣威家越 06 完成申报。IT之家注意到，本次申报的荣威家越 06 定位家用运动型多用途乘用车，车尾带有上汽荣威与家越 06 标识，整车采用简洁的尾部造型，搭配贯穿式尾灯组与黑色后包围。根据公示信息，荣威家越 06 的长 / 宽 / 高分别为 4815mm、1900mm、1695mm（另有 1687mm 高度版本），轴距 2825mm，前轮距与后轮距均为 1650mm，前悬 / 后悬为 936mm / 1054mm，接近角 / 离去角为 18° / 23°。轮胎规格提供 225/60R18、2",
-      "source": "IT之家",
-      "publishTime": "2026-11-03",
-      "link": "https://www.ithome.com/1/021/855.htm"
-    },
-    {
-      "id": "40d03df8-2d23-8124-9eb5-e8a7750f558e",
-      "title": "5 of the best and 3 of the worst looks at the 2026 CFDA Fashion Awards",
-      "summary": "Stars flocked to New York for the 2026 CFDA Fashion Awards. They wore shimmering gowns, feathered frocks, and two-piece sets on the red carpet.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-03",
-      "link": "https://www.businessinsider.com/cfda-fashion-awards-best-worst-outfits-2026-11"
-    },
-    {
-      "id": "40d03df8-2d23-8182-85e1-d63b19994f72",
-      "title": "长安林肯飞行家 AVIATOR EX8 新车申报：搭载 1.5T 插混动力，磷酸铁锂电池",
-      "summary": "IT之家 11 月 3 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，长安福特汽车有限公司林肯飞行家 AVIATOR EX8 完成申报。IT之家注意到，本次申报的林肯 AVIATOR EX8 为插电式混合动力运动型多用途汽车，车尾标注有「长安林肯」与「AVIATOR EX8」字样，采用林肯家族最新的贯穿式尾灯设计，整体造型大气沉稳。两款申报车型的长宽高分别为 5055/1995/1790mm 与 5055/1995/1800mm，轴距均为 3010mm，定位中大型豪华 SUV。轮胎规格提供 255/50R21 与 255/45R22 两种选择，额定载客人数为 5",
-      "source": "IT之家",
-      "publishTime": "2026-11-03",
-      "link": "https://www.ithome.com/1/021/854.htm"
-    },
-    {
-      "id": "40d03df8-2d23-81a4-abe5-fee2d1febf44",
-      "title": "广汽埃安 AION V 纯电 SUV 新车申报：自带“鼻孔”，165kW + 磷酸铁锂电池",
-      "summary": "IT之家 11 月 3 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，广汽埃安新能源汽车股份有限公司申报的埃安（AION）AION V 纯电动多用途乘用车完成申报，产品型号为 AHC6460BEVJ1A。IT之家注意到，新车定位紧凑型纯电 SUV，车身长宽高分别为 4580mm、1854mm、1660mm，轴距为 2765mm，整备质量 1940kg，总质量 2400kg，额定载客 5 人，前后轮距均为 1600mm，接近角 / 离去角为 18°/27°，前悬 / 后悬为 908mm / 907mm，轮胎规格为 215/55R18。外观方面，新车采用埃安家族化设",
-      "source": "IT之家",
-      "publishTime": "2026-11-03",
-      "link": "https://www.ithome.com/1/021/853.htm"
-    },
-    {
-      "id": "40d03df8-2d23-815e-8aa1-e9b6019c3924",
-      "title": "别克 ELECTRA GS 新车申报：溜背轿跑造型，1.5T 插混动力",
-      "summary": "IT之家 11 月 3 日消息，工信部晚间发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，上汽通用别克 ELECTRA GS 插电式混合动力轿车完成申报。申报图显示，新车采用溜背轿跑造型，配备贯穿式尾灯与别克全新三色盾标，车尾左侧标注 ELECTRA GS 标识，右侧为上汽通用标识，整体设计延续别克新能源家族的运动化风格。IT之家注意到，新车长宽高分别为 4979mm、1914mm、1492/1495/1496mm，轴距为 2865mm，额定载客 5 人，最高车速 190km/h；轮胎规格提供 225/50R18、235/45R19 两种选择，整备质量根据配置不同在 1780k",
-      "source": "IT之家",
-      "publishTime": "2026-11-03",
-      "link": "https://www.ithome.com/1/021/852.htm"
-    },
-    {
-      "id": "40d03df8-2d23-81d7-9f74-cc4a81d8404b",
-      "title": "华晨宝马 330L 新车申报，搭载 B48B20N 2.0T 涡轮增压发动机",
-      "summary": "IT之家 11 月 3 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，华晨宝马 330L 完成申报。IT之家注意到，本次申报的华晨宝马 330L 产品型号为 BMW7200WG，属于宝马（BMW）牌轿车，由华晨宝马汽车有限公司生产制造。车身尺寸方面，新车尺寸为 4865mm×1852mm×1461mm，轴距达到 2970mm，定位中型轿车，额定载客人数为 5 人。整备质量为 1753kg，总质量 2230kg，底盘采用承载式车身结构。动力层面，新车搭载型号为 B48B20N 的 2.0T 涡轮增压汽油发动机，由华晨宝马汽车有限公司生产，排量 1998ml，额定功",
-      "source": "IT之家",
-      "publishTime": "2026-11-03",
-      "link": "https://www.ithome.com/1/021/851.htm"
+      "link": "https://www.ithome.com/1/021/888.htm"
     }
   ],
   "macroEvents": [
