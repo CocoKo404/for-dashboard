@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-11-10 12:42",
+  "updatedAt": "2026-11-10 21:40",
   "news": [
     {
-      "id": "41403df8-2d23-81c4-a5b7-f4246ab39633",
-      "title": "Who Could Succeed Jensen Huang at Nvidia?",
-      "summary": "Headhunters are probably calling around the semiconductor industry right now, trying to figure out who to pitch to Nvidia’s board as a possible successor to Nvidia CEO Jensen Huang, just in case the company’s board decides he has to go. Here are a couple of out-of-left-field suggestions: Advanced Mi",
-      "source": "The Information",
+      "id": "41403df8-2d23-81cd-9de0-d1571e6826ab",
+      "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline",
+      "summary": "SoftBank Group announces fiscal second-quarter results for the year ending March 31, 2027.",
+      "source": "CNBC Tech",
       "publishTime": "2026-11-10",
-      "link": "https://www.theinformation.com/articles/succeed-jensen-huang-nvidia"
+      "link": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
     },
     {
-      "id": "41403df8-2d23-81f1-a543-de87dee504f1",
-      "title": "512G 国补后 2744 元：华为 Mate 70 Air 再降新低，双卡双扬多摄大电池",
-      "summary": "‏华为 Mate 70 Air 2025 年 12 月开售，12GB + 512GB 定价 4699 元，采用麒麟 9020B 芯片。京东 11.11 大促期间，活动价 3549 元；PLUS 会员自动领取 9 折优惠券，可抵 300 元；PLUS 会员立减 17.74 元；限时立减 3 元；国家补贴 484.23 元；到手价为 2744.03 元：京东 HUAWEI Mate 70 Air12GB+512GB2744.03 元直达链接支持 12 期免息，下单赠送B站大会员月卡。京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。Mate 70 Air 为双卡双待双通",
+      "id": "41403df8-2d23-8126-b8d5-e2ebad461995",
+      "title": "官方正在修复：Claude Code 被爆把密码写进项目文件，GitHub 上发现 2539 个真实凭据",
+      "summary": "IT之家 11 月 10 日消息，科技媒体 Ars Technica 昨日（11 月 9 日）发布博文，指出 AI 编程智能体 Claude Code 正在把部分开发者的敏感凭据意外暴露到公开的 GitHub 仓库中。安全公司 Apiiro 的研究人员发现，超过 10 万份 Claude Code 本地设置文件被上传至公共仓库，其中约 1,100 份文件含有数据库密码、API Token、私钥或 root 登录信息等机密数据。结合 Git 历史记录、共享设置文件及智能体聊天记录，共识别出 1,994 个代码库中的 2,539 个真实凭据。受影响对象包括 63 个组织，涵盖学生团队、初创企业、软",
       "source": "IT之家",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/606.htm"
+      "link": "https://www.ithome.com/1/024/888.htm"
     },
     {
-      "id": "41403df8-2d23-817b-90d0-c9c63d075109",
-      "title": "Meta 推出轻量级 AI 模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
-      "summary": "IT之家 11 月 10 日消息，Meta 现已推出 Muse Ember AI 模型。这是 Meta 迄今最小、效率最高的模型，专为复杂推理任务执行以及智能体日常反复处理的工作而设计。Meta 表示，在 Artificial Analysis 排行榜中，这款模型的表现可以媲美 Claude Haiku 5.5，但单任务成本仅为 1/3，并在多项测试中超越 GPT-6 Luna。IT之家附 Muse Ember 模型跑分数据如下：评测项目Muse Ember（max）Claude Haiku 5.5（max）GPT-6 Luna（max）智能体AutomationBench-AA（端到端业务工",
+      "id": "41403df8-2d23-81e8-a4db-c32dd828efe3",
+      "title": "万代南梦宫解散并清算 Reflector，计提 2100 万欧元亏损",
+      "summary": "IT之家 11 月 10 日消息，Bandai Namco（万代南梦宫）当地时间今日宣布，董事会决议清算欧洲部门下属的加拿大游戏开发商 Reflector Entertainment，并因此计提约 2,100 万欧元（IT之家注：现汇率约合 1.57 亿元人民币）亏损。Reflector Entertainment 在 2024 年推出了动作冒险游戏《无名九使：觉醒》(Unknown 9: Awakening)，但该作存在多方面的问题，IGN 评分仅有 5 分，Steam 总体评测也仅有“多半差评”。这款游戏在商业上的失败已导致 Reflector 在同年进行了 18% 的裁员。",
       "source": "IT之家",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/604.htm"
+      "link": "https://www.ithome.com/1/024/889.htm"
     },
     {
-      "id": "41403df8-2d23-81fc-915a-faee45daf460",
-      "title": "我国“星云星座计划”亮相，把数据中心搬上太空",
-      "summary": "IT之家 11 月 10 日消息，据央视新闻报道，在昨天举办的 2026 太空云产业生态大会上，“星云星座计划”等太空云产业化成果发布，标志着我国“太空云”生态建设迈出了从技术验证走向产业化布局的关键一步。报道称，此次发布的“星云星座计划”，是中国科学院空天信息创新研究院与国内科创企业联合研发的全栈国产化太空算力网，也是太空云生态产业化落地的重点项目。专家介绍，“太空云”能把遥感、通信、算力等各类卫星通过技术手段整合为智能天基信息服务系统，实现从“功能单星”向“智能星云”的跨越。中国科学院院士 中国科学院空天信息创新研究院学术院长吴一戎介绍，“太空云”是最终对着用户来提供服务，整个的调度、规划",
+      "id": "41403df8-2d23-8113-a241-daed5a9e7850",
+      "title": "泰国给数据中心戴上“紧箍咒”：噪音限 70 分贝，温升不超 2 摄氏度",
+      "summary": "IT之家 11 月 10 日消息，据彭博社报道，随着人工智能投资热潮推动数据中心建设迅速扩张，泰国出台了针对数据中心噪音、热量和用水的新规定，为这一快速发展的行业设定了明确的环境限制。泰国经济规划机构秘书长丹努查 · 皮查亚南（Danucha Pichayanan）周二表示，内阁已批准相关规定。根据新规，数据中心的不间断电源系统运行时，噪音必须控制在约 70 分贝（A 计权分贝，dBA）以内。这一指标经过加权处理，能够更贴近人耳对声音大小的实际感受。此外，数据中心场地边界处的温度升幅将被限制在 1 至 2 摄氏度以内。冷却用水必须循环利用，排放的废水也必须接受检测。他还表示，位于工业园区内的数",
       "source": "IT之家",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/605.htm"
+      "link": "https://www.ithome.com/1/024/887.htm"
     },
     {
-      "id": "41403df8-2d23-81c9-8c17-c7cd8d35cdbe",
-      "title": "Steam 商店页面新增 Steam Deck 平均帧率显示：附带帧率直方图，未来或扩展至更多设备",
-      "summary": "IT之家 11 月 10 日消息，Valve 今日宣布，Steam 商店页面及 Steam 客户端 Beta 版现已上线一项全新功能：玩家可以直接查看游戏在 Steam Deck 掌机上的平均帧率表现，并可展开查看详细的帧率分布直方图。该功能基于已自愿开启匿名帧率数据上报的 Steam Deck 用户所提交的真实运行数据生成。据官方公告说明，目前该功能覆盖所有经过 Deck 兼容性测试的游戏，包括「已验证（Verified）」「可玩（Playable）」及「不支持（Unsupported）」三个评级类别。截至公告发布时，已有数千款游戏拥有可展示的平均帧率数据，后续该数据量将随着更多玩家上报而持",
+      "id": "41403df8-2d23-81c2-8ebf-f959e4860cba",
+      "title": "理想汽车法务部声明“理想 i6 团购返佣”活动与公司无关，已就相关情况向警方报案",
+      "summary": "IT之家 11 月 10 日消息，理想汽车法务部刚刚发文，就关于网络社群以“理想 i6 团购返佣”为名招募人员下单的情况作出声明，称该活动与理想汽车无关，并提醒广大用户警惕“下单返佣”等承诺。IT之家附理想汽车法务部声明原文如下：该活动与理想汽车无关，理想汽车未组织或授权任何组织、个人开展该活动。理想汽车已就相关情况向警方报案，并将积极配合调查。请广大用户警惕“下单返佣”等承诺，不要向不明身份人员提供订单信息、验证码等资料。如掌握相关线索，可发送至 legal@lixiang.com；如遭遇财产损失，请保存相关记录并及时报警。相关阅读：《理想汽车法务部：不法分子假借“理想汽车”名义发送诈骗短信",
       "source": "IT之家",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/595.htm"
+      "link": "https://www.ithome.com/1/024/886.htm"
     },
     {
-      "id": "41403df8-2d23-81ed-876d-f40e3a2128d0",
-      "title": "余承东预告华为 MateBook Fold S 小折电脑即将发布，全新背屏设计",
-      "summary": "IT之家 11 月 10 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布预告视频，展示了最新款小折电脑 —— 华为 MateBook Fold S。从预告视频可以看到，新品采用了类似手机产品的全新背屏设计，预计将支持信息显示。此外，该产品展开后是一块 14.7 英寸显示屏。IT之家注意到，在售的华为全新 MateBook Fold 非凡大师搭载 18 英寸全球最大双层 OLED 柔性屏，拥有 92% 屏占比，支持 1600nits HDR 峰值亮度、3.3K 分辨率、2,000,000:1 对比度、HDR Vivid 自适应色调映射、P3 广色域自适应色彩管理。",
+      "id": "41403df8-2d23-818b-95c0-fffd1bad8ae5",
+      "title": "国产再突破：中微公司首台等离子体晶圆切割设备成功交付国内重要集成电路封装客户",
+      "summary": "IT之家 11 月 10 日消息，中微半导体设备（上海）股份有限公司（简称“中微公司”）近日发布其全新产品 ——Primo Matrix 双反应台等离子体晶圆切割设备，今日宣布首台设备已顺利付运国内重要集成电路封装客户。随着先进封装技术成为延续摩尔定律的重要路径，晶圆切割作为封装工艺中的关键环节，直接影响芯片良率与生产效率。针对先进封装对高精度、低损伤、窄切割道的迫切需求，中微公司在等离子晶圆切割设备领域取得重要突破，此次发布的新品 Primo Matrix 系列宣称是该公司在先进封装领域等离子体切割赛道的核心自主成果，并为该路线国产化落地增添头部方案选择。▲ 中微公司 Primo Matri",
       "source": "IT之家",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/600.htm"
+      "link": "https://www.ithome.com/1/024/884.htm"
     },
     {
-      "id": "41403df8-2d23-8130-a7aa-fcd95aa66f82",
-      "title": "苹果预留“后悔药”，其首款触控 MacBook Pro 支持禁用触控输入",
-      "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Mac 昨日（11 月 9 日）发布博文，报道称在带 PROLED XDR 显示屏的苹果首款触控 MacBook Pro 上，官方为不喜欢 / 不接受触控体验，但希望享有 OLED 屏幕的用户，引入了“关闭触控输入”选项。操作路径方面，用户打开“系统设置”，进入“辅助功能”，在“身体与运动”栏目选择“触摸”，随后开启“忽略触摸手势”。开启后，Mac 将忽略屏幕上的触摸操作（为以防万一，设置开关本身除外）。不过需要注意的是，这一选项也会同时影响通过 Sidecar 将 iPad 用作扩展屏幕时的触摸功能。对于不想完全关闭触控的用户，苹果还提供了",
+      "id": "41403df8-2d23-8159-95f1-f8c48a268af4",
+      "title": "沃尔夫冈参与设计，比亚迪全新个性双门微型车外观专利图公告",
+      "summary": "IT之家 11 月 10 日消息，据国家知识产权局中国专利公布公告网站，比亚迪股份有限公司一份“外观设计专利”于今天（10 日）授权公告。该专利于去年 12 月申请，申请号 202530748612.8，授权公告号为 CN 310308323 S。信息显示，该专利的设计人包括赵炳根、艾格 · 沃尔夫冈、许梓彦、黄喜、张玺，从形态上看是一款双门微型车。新车外形相当个性，配有贯穿式前灯和双层车头，运用大量曲线构成轮廓，配备封闭式前脸，离地间隙较低。此外，车头和车尾采用了相似的造型，都酷似一张“笑脸”。目前，比亚迪官方暂未确认这款新车的存在，也没有披露更多信息，IT之家将持续关注。值得一提的是，就在",
       "source": "IT之家",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/599.htm"
+      "link": "https://www.ithome.com/1/024/885.htm"
     },
     {
-      "id": "41403df8-2d23-8114-8890-fe5207f573c8",
-      "title": "12+512GB 卫星通信版：vivo X300 Pro 国补后 5999 → 3865 元",
-      "summary": "vivo X300 Pro 卫星通信版开售于 2026 年 3 月，搭载联发科天玑 9500 处理器，12GB+512GB 版本 5999 元。京东 11.11 大促期间，活动价 5899 元；PLUS 会员自动领取 9 折优惠券，可立减 300 元；PLUS 会员立减 29.49 元；国补立减 500 元；限时立减 4 元；点击商品主图右侧直播间，可领 1200 元券；到手价为 3865.51 元：京东 vivo X300 Pro 卫星通信版 手机 12GB+512GB 券后 3865.51 元领 1100 元券京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花：",
+      "id": "41403df8-2d23-8124-925c-d22dddae610c",
+      "title": "消息称苹果 iPhone 直板机未来将调整屏幕比例：从 19.5:9 改为接近 18:9",
+      "summary": "IT之家 11 月 10 日消息，博主 @刹那数码 发文，透露为迎合全新交互，过几年 iPhone 直板机会调整屏幕比例，时间点“大概就是正面只剩一个挖孔，甚至彻底实现屏下摄像头的那一年”。该博主后续补充“也有业内人士讲后年 2028 就无挖孔”。该博主表示，后续苹果不会继续把屏幕做宽，而是会把机身做短一点，相当于直接砍掉现在顶部状态栏占据的那部分高度。屏幕从现在的 19.5:9，变成接近 18:9，让握持和单手操作更舒服一些。尽管屏幕变短，但显示的信息不会减少。顶部的操作区会和状态栏整合到同一行，不再单独占用一层空间。IT之家注意到，苹果 iPhone 现行的 19.5:9 屏幕比例最早由 ",
       "source": "IT之家",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/598.htm"
+      "link": "https://www.ithome.com/1/024/883.htm"
     },
     {
-      "id": "41403df8-2d23-8115-a3c4-f62cedb8925e",
-      "title": "Meet Jensen Huang, Nvidia's founder and CEO",
-      "summary": "Nvidia founder and CEO Jensen Huang rose from a job at Denny's to becoming one of the faces of the AI boom",
-      "source": "Business Insider",
-      "publishTime": "2026-11-10",
-      "link": "https://www.businessinsider.com/jensen-huang"
-    },
-    {
-      "id": "41403df8-2d23-81cb-b9cc-d661465919f8",
-      "title": "雷军：10 月份新能源汽车零售榜（20 万以上车型），小米 4 款车全部上榜",
-      "summary": "IT之家 11 月 10 日消息，小米创办人、董事长兼 CEO 雷军今日发文称，10 月份新能源汽车零售榜 (20 万以上车型)，小米 4 款车全部上榜，感谢车主朋友们支持。小米澎程 N70 车型 14545 辆小米 SU7 车型 12954 辆小米澎程 N90 车型 12587 辆小米 YU7 车型 10037 辆据小米汽车官方此前公布数据，2026 年 10 月，小米汽车交付量超过 50,000 台。另据乘联分会披露数据，小米汽车 10 月具体的零售销量为 50,123 辆，批发销量为 50,168 辆。IT之家附小米汽车 2026 年各月交付量：1 月交付量超 39,000 台2 月交付",
+      "id": "41403df8-2d23-8131-8d63-ea64a790246c",
+      "title": "首款星闪音箱将至！归属 EACOME 品牌旗下、支持 NearLink E2.0，型号“SL10”",
+      "summary": "IT之家 11 月 10 日消息，星闪联盟官网显示，一款型号为“SL10”的音箱产品已通过测试列名，归属深圳市因科美通信有限公司旗下（即 EACOME 品牌）。测试集显示，EACOME SL10 音箱通过了 SLE 射频一致性测试、基础服务层协议一致性测试、高清音频协议一致性测试。这意味着，这款音箱将支持 NearLink E2.0（即星闪音频）。根据官方描述，星闪音频物理层传输速率可达 16Mbps，带宽能力超传统技术，充足的通道容量就能够承载 48kHz/24bit Hi-Fi 音频无损传输。IT之家注：目前支持星闪音频的耳机包括 FreeClip 2 典藏版、FreeClip 2、Fre",
       "source": "IT之家",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/592.htm"
+      "link": "https://www.ithome.com/1/024/881.htm"
     },
     {
-      "id": "41403df8-2d23-81d1-b175-f25b5d66b869",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "id": "41403df8-2d23-81a4-9a5c-e0d81a4d984e",
+      "title": "太空建造迈出关键一步：机器人首次在太空自主组装天线桁架，未来或建造千米级结构",
+      "summary": "IT之家 11 月 10 日消息，将大型设备送入地球轨道并不容易。如果先把大量小型零部件送上太空，再在轨道上将它们组装成大型结构，难度可能更低，但传统方案往往仍需要宇航员参与。考虑到太空环境充满辐射，宇航员在轨道上工作的时间自然是越短越好。由美国加州理工学院（Caltech）研发、美国国防高级研究计划局（DARPA）资助的一款机器人，近日展示了一种新的太空建造方案：其成功在轨道上将独立零部件组装成了天线桁架结构。研究人员将其称为首次在太空中实现的自主结构建造。这项成果有望为未来在轨道上建造大型空间设施提供新的技术路径。像组装平板家具一样，在太空搭建天线据IT之家了解，这款机器人是“自主太空张紧",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/880.htm"
+    },
+    {
+      "id": "41403df8-2d23-8122-88c0-c398e8cd9b62",
+      "title": "全新林肯 Z 上市：定位中大型豪华旗舰轿车可选燃油 / 强混，限时权益价 16.99 万起",
+      "summary": "IT之家 11 月 10 日消息，林肯官方今天宣布，全新林肯 Z 正式上市。新车定位中大型豪华旗舰轿车，限时权益价 16.99 万起，截至 11 月 30 日。购买风雅车型的用户可享“新车首发权益”，免费升级价值 8000 元的北星智能辅助驾驶礼包。购车还有机会享受 7×24 小时道路救援、两年至尊关爱延保和 0 首付等权益。IT之家附该车各版本标价如下：风雅：23.58 万元典雅：25.88 万元高雅：27.98 万元典雅强混：27.88 万元高雅强混：29.98 万元外观方面，这款汽车引入全新流星晶盾格栅设计，可呈现流星雨幕般的视觉效果。背部配备 Super Red 超红光贯穿式尾灯，采用",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/879.htm"
+    },
+    {
+      "id": "41403df8-2d23-8124-90fe-d0a5b2adbc4d",
+      "title": "漫步者 PW108“广场级音效”蓝牙音响发售：20W 额定功率，到手 699 元",
+      "summary": "IT之家 11 月 10 日消息，漫步者旗下 PW108 广场级音效蓝牙音响现已在京东发售，该产品拥有 20W 大功率、双无线麦克风、2200mAh 锂电池等多项配置，到手价为 699 元。京东漫步者 PW108 蓝牙音响 699 元直达链接PW108 采用经典木质箱体搭配黑色贴皮工艺，可有效减少谐振，降低共振失真，相比普通塑料箱体音质更纯净；一体化稳固拉杆搭配静音滚轮，户外移动轻松顺畅。PW108 搭载 8 寸大口径低音喇叭 +3 寸高音喇叭，高音 5W、低音 15W，合计 20W 额定真实功率；配合高性能主控芯片与智能数字功放芯片协同优化，可覆盖千平户外大场景。PW108 标配 2 支 2",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/878.htm"
+    },
+    {
+      "id": "41403df8-2d23-8177-807c-fd6519e03617",
+      "title": "23155 公里不间断飞行，澳航空客 A350-1000ULR 创下全球飞行距离最长商业航班纪录",
+      "summary": "IT之家 11 月 10 日消息，澳洲航空（Qantas Airways）近日创造了一项新的航空纪录。经国际航空联合会（FAI）认证，该公司一架空客 A350-1000ULR 客机完成了从澳大利亚墨尔本直飞法国图卢兹的飞行，成为全球飞行距离最长的商业航班，并因此被载入吉尼斯世界纪录。当地时间，2026 年 7 月 27 日，这架 A350-1000ULR（超远程型）客机从澳大利亚墨尔本起飞，目的地为法国图卢兹。机上搭载了 3 名空客试飞员、2 名澳洲航空飞行员、5 名空客飞行工程师、2 名空客设计工程师，以及一名负责监督和核验飞行数据的国际航空联合会代表。航班数据还由 Flightradar2",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/877.htm"
+    },
+    {
+      "id": "41403df8-2d23-8123-a5a3-e770e32434df",
+      "title": "中汽测评公布尚界 Z7 MAX+ 车型 C-NCAP 成绩：综合得分率 93.4%",
+      "summary": "IT之家 11 月 10 日消息，今天（10 日）下午，中汽测评（中汽中心汽车测评管理中心）公众号公布了尚界 Z7 的 C-NCAP 成绩。此次测试的车型为 Z7 MAX+，综合得分率为 93.4%。其中，乘员保护得分率 97.21%，VRU 保护 83.18%，主动安全为 95.94%。IT之家从图表中获悉，乘员保护方面，尚界 Z7 获得 97.21% 的得分率。实车碰撞取得 85.519 分（满分 88 分），远端保护取得 8 分（满分 8 分），鞭打试验取得 6.323 分（满分 7 分）。弱势道路使用者保护方面，尚界 Z7 获得 83.18% 的得分率。其中，对车外行人的头部保护效果得",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/876.htm"
+    },
+    {
+      "id": "41403df8-2d23-81f7-b00b-c929f95f6fd8",
+      "title": "上市价 2598 元 → 1681 元：大疆 Osmo Action 5 Pro 国补直降",
+      "summary": "【京东活动可能随时变更，需以实付款为准】大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。京东 11.11 大促期间，PLUS 立减 219.8 元，叠加 15% 国补（立减 296.73 元）后仅需 1681.47 元：京东大疆 Osmo Action 5 Pro 运动相机标准套装国补后 1681.47 元直达链接京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。Action 5 Pro 搭载全新一代 1/1.3 英寸传感器，画面等效像素尺寸达 2.4 μm，动态范围高达 13.5 挡，并配合 4",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/875.htm"
+    },
+    {
+      "id": "41403df8-2d23-8183-b96e-dd5e258bf43a",
+      "title": "日本肯德基用 AI 制作商品宣传图，引发网友质疑",
+      "summary": "IT之家 11 月 10 日消息，据日媒 ITmedia 今天报道，部分网友发现，日本肯德基在商品宣传图片制作中使用了生成式 AI。据报道，日本肯德基最近在部分门店试售“冰淇淋可乐饮品”和“冰淇淋哈密瓜汽水”。从商品的宣传图片我们不难看出，杯子里的冰块被染成了汽水相同的深绿色，表面还呈现出类似果冻的光泽，与真实拍摄的照片有着明显区别。日本肯德基株式会社对此回应称，公司不便透露具体商品的制作细节，但试售商品的宣传图片确实使用了生成式 AI。至于是否会在其他商品宣传图片中使用 AI，该公司拒绝回答。在 X 平台等社交媒体上，许多用户对日本肯德基的这些宣传图片持负面看法。引发讨论的帖子下，有用户表示",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/873.htm"
+    },
+    {
+      "id": "41403df8-2d23-8123-8c7c-c4482bbfef63",
+      "title": "沃达丰将在德裁员 2300 人，康卡斯特在连接和平台部门裁员超 1000 人",
+      "summary": "IT之家 11 月 10 日消息，根据《法兰克福汇报》当地时间 9 日消息，跨国电信运营商沃达丰 (Vodafone) 将在德国裁员 2,300 人；彭博社同日报道称，康卡斯特 (Comcast) 计划在其连接和平台部门裁员超 1,000 人。图源：Pexels沃达丰目前在德国雇佣了约 12,000 名员工；该企业此前已在 2023 年裁员 1,300 人，后续又在 2024 年再裁减了约 2,000 个岗位。该企业在德国的竞争对手西班牙电信（Telefónica）今年也在近 6,800 个岗位上裁员约 1,100 人。另一方面，康卡斯特正在经历两次业务剥离后的架构重整，以提升其宽带与无线业务",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/874.htm"
+    },
+    {
+      "id": "41403df8-2d23-81a0-9924-f94cc2a4c39b",
+      "title": "点外卖、打网约车真实手机号将隐藏，阿里云、腾讯云等首批十家企业获批 700 专用码号试点",
+      "summary": "IT之家 11 月 10 日消息，据央视新闻今日报道，工业和信息化部近日批复十家企业开展号码保护服务业务试点，并为相关企业核配 700 专用码号资源。中电信数智科技有限公司中移互联网有限公司阿里巴巴云计算（北京）有限公司腾讯云计算（北京）有限责任公司广西东信易通科技有限公司北京凌渡科技有限公司北京智博九州信息技术有限公司北京天润融通科技股份有限公司北京微呼科技有限公司西安铁程网络技术有限公司号码保护服务业务是指受外卖、网约车等互联网平台企业委托，为其个人用户分配临时电话号码代替真实手机号，减少用户号码泄露风险的一种业务。用户下单时如果勾选号码保护服务，与外卖员、网约车司机之间将以 700 开头",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/870.htm"
+    },
+    {
+      "id": "41403df8-2d23-8136-9023-dfb006bd8144",
+      "title": "高通 1.2 万人洞察：AI 智能体将成可穿戴核心卖点，约 70% 期待协同管设备、办事情",
+      "summary": "IT之家 11 月 10 日消息，高通公司上月（2026 年 10 月）发布报告，调查全球 6 个市场、超过 12,000 名可穿戴设备用户及潜在购买者，发现 AI 智能体正成为可穿戴设备的下一个核心卖点。IT之家援引博文介绍，个人 AI（Personal AI）已从概念走向日常使用，成为可穿戴体验的基础能力，近 60% 的可穿戴设备用户每周使用 AI，超过 70% 的智能眼镜用户表示经常使用 AI。调查指出，消费者期待的不只是又一块智能手表或一副耳机，在未来愿景中打造出由个性化 AI 智能体串联、可协同工作的“你的生态系统”（Ecosystem of You）。在该设想中，手表、耳机、智能眼",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/868.htm"
+    },
+    {
+      "id": "41403df8-2d23-81a0-a1ca-d48579547b67",
+      "title": "首款「逻辑折叠」技术 τ 芯片：华为详解麒麟 9050 系列核心升级，晶体管密度暴涨 53.5%",
+      "summary": "IT之家 11 月 10 日消息，华为麒麟官方公众号今日发文介绍了首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列。据称，该系列芯片围绕计算、AI、图形、影像、通信、音视频、显示与安全八大核心单元进行了升级。IT之家从华为公布的数据了解到，麒麟 9050 系列芯片混合键合＞5000 万、有效信号互连＞500 万条，同时晶体管密度暴涨 53.5%（华为官方此前公布的信息显示，麒麟 9050 Pro 处理器晶体管个数达 2.38 亿/mm²）。麒麟 9050 Pro 集成灵犀 CPU、马良 GPU 和达芬奇架构 NPU，其中灵犀 CPU 最高频率提升 12.7%、大核能效提升 41%；马",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/869.htm"
+    },
+    {
+      "id": "41403df8-2d23-811d-8517-dabc0702ad73",
+      "title": "七彩虹 E14 轻薄本发售：酷睿 i5-13420H + 16G + 1T 售 4299 元（国补后 3654.15 元）",
+      "summary": "IT之家 11 月 10 日消息，七彩虹 E14 14 英寸轻薄本将于今晚 8 点在京东发售，该机搭载英特尔酷睿 i5-13420H 处理器，匹配 16GB RAM 和 1TB SSD，京东售价 4299 元，国补到手价 3654.15 元。京东七彩虹 E14 笔记本 i5-13420H + 16GB RAM + 1TB SSD4299 元直达链接七彩虹 E14 采用纤薄金属机身设计，整机厚度约 16.55mm，重量轻至 1.11kg，可放入单肩包或手提袋，适合移动办公与学生日常使用。该机搭载第 13 代英特尔酷睿 i5-13420H 处理器，8 核心 12 线程，睿频频率至高可达 4.6GH",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/867.htm"
+    },
+    {
+      "id": "41403df8-2d23-815c-b038-df122175b164",
+      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
       "source": "BBC Tech",
       "publishTime": "2026-11-10",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "41403df8-2d23-814d-9e60-e86b2479a9e0",
-      "title": "《GTA6》游戏 XBOX Series X|S 实体版包装泄露，支持杜比视界、杜比全景声",
-      "summary": "IT之家 11 月 10 日消息，X 平台博主 ben 今日发布了《GTA6》游戏 XBOX Series X|S 实体版的包装盒照片，显示本作 XBOX 版将支持杜比视界、杜比全景声技术。IT之家了解到，本次泄露的实体版包装盒是美版，本作实体版仅提供兑换码，并没有实体光碟。XBOX Series X|S 用户可以在游戏中体验到杜比视界和杜比全景声技术，对比之下，PS5 并没有杜比视界，但支持 HDR10。同时，XBOX Series X|S 支持杜比全景声，支持这项技术的游戏能够根据角色的动作、场景动效，精准呈现不同声音的空间位置。作为参考，PS5 于 2023 年 9 月系统更新中加入了杜",
+      "id": "41403df8-2d23-8154-812e-f97bb669358d",
+      "title": "AOC 推出装甲 PS850A0BK 电源：模组线直出设计、三年质保，359 元",
+      "summary": "IT之家 11 月 10 日消息，AOC 现已在京东上架装甲 PS850A0BK 电源，该产品支持金牌能效认证，采用 ATX 规格，使用模组线直出设计，定价为 359 元，提供三年质保服务。该电源采用黑色外壳设计，搭配大面积的蜂窝状散热网孔以辅助内部通风，电源顶盖配备了减震防滑垫，可有效降低电源运行噪音。该电源整体尺寸为 140x150x86mm，额定功率为 850W，通过了 80PLUS 金牌与 3C 安全认证，50% 负载下的转换效率可达 90%。电源支持 200V 至 240V 宽幅电压输入，并采用单路 12V 供电模式。其配备了 PCIE 5.1 原生接口，内部的两级 EMI 设计能够",
       "source": "IT之家",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/591.htm"
+      "link": "https://www.ithome.com/1/024/866.htm"
     },
     {
-      "id": "41403df8-2d23-818c-9518-dab58771b53c",
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has th",
-      "source": "The Verge",
-      "publishTime": "2026-11-10",
-      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
-    },
-    {
-      "id": "41403df8-2d23-8153-bced-cd483773bd91",
-      "title": "苹果推出 50 美元 AI 使用包：Logic Pro 率先支持付费扩容，有效期 12 个月",
-      "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Mac 昨日（11 月 9 日）发布博文，报道称苹果开始为部分 Apple Intelligence 功能推出付费“智能使用包”（Intelligence Usage Packs），首个落地产品是音乐创作软件 Logic Pro，售价为 49.99 美元（IT之家注：现汇率约合 333.9 元人民币）。购买路径方面，用户可在 Logic Pro 应用菜单栏依次选择“智能功能” → “显示使用情况”，再点击“购买更多使用量”完成购买。购买方式上，不同于主流 AI 服务采用的按月订阅模式，“智能使用包”采用买断的额外用量包，有效期为 12 个月，",
+      "id": "41403df8-2d23-815a-8019-d9094ec1ea42",
+      "title": "借助 AI 工具，安全研究员在英国政府公开代码中发现上百个高危漏洞",
+      "summary": "IT之家 11 月 10 日消息，据《连线》报道，一名安全研究人员在英国政府公开发布的代码中发现了 100 多个严重安全漏洞。由于相关部门缺乏基本的网络安全维护，这些漏洞可能导致敏感数据暴露，甚至为数据窃取和勒索软件攻击打开大门。据IT之家了解，过去约 10 年，英国政府一直默认公开发布使用公共资金开发的代码。一方面，这是为了提高政府工作的透明度；另一方面，也有助于其他机构重复利用代码，降低开发成本。采用这一做法的机构包括英国卫生与社会关怀部、内政部以及地方政府部门。但近年来，资金紧张导致多个政府部门忽视了现有技术系统的维护和升级。安全公司 ControlPlane 的研究人员克里斯 · 内斯",
       "source": "IT之家",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/590.htm"
+      "link": "https://www.ithome.com/1/024/865.htm"
     },
     {
-      "id": "41403df8-2d23-81ba-8d05-cf8f17faaeaf",
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "id": "41403df8-2d23-8162-8e9c-fedf00bf01ef",
+      "title": "荣耀 700 系列再预热：首发背屏任意贴功能，鞠婧祎确认担任代言人",
+      "summary": "IT之家 11 月 10 日消息，荣耀 700 系列再预热手机背屏新玩法，透露将行业独家支持背屏任意贴功能，表情包、GIF 图、静图一按一拖，即可上背屏。围绕手机背屏的功能和玩法，荣耀还发起 700 系列背屏设计大赛，趣味脑洞、电子养宠、同担见面、个性表达、趣味社交等，都可以登上背屏。根据荣耀官方透露，荣耀 700 系列将全系搭载手机背屏，且背屏将支持后置自拍、AI 互动、多样主题，以及心率、血氧检测以及航班提醒等功能。针对背屏会不会让手机变厚变重了的疑问，荣耀产品线总裁方飞表示，荣耀 700 系列手机背屏不增加整机厚重、也不妥协手感。据悉，荣耀 700 系列在 7.96mm 的机身里，塞进了",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/864.htm"
+    },
+    {
+      "id": "41403df8-2d23-811b-baeb-c00248964e33",
+      "title": "欧洲芯片巨头 CEO 自信喊话：在机器人和物理 AI 领域，我们也有实力",
+      "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）下午报道，欧洲芯片巨头英飞凌、意法半导体和恩智浦的 CEO 认为，凭借在汽车和工业技术领域的传统优势，欧洲有实力在机器人和“物理 AI”领域与美国、亚洲竞争。三家公司的高管在德国慕尼黑举行的一场行业会议上指出，AI 的应用范围正从数据中心向机器人、汽车和工业设备延伸，能够在现实环境中安全、稳定运行的芯片和系统将迎来更大的市场需求。据IT之家了解，英飞凌、意法半导体和恩智浦都是功率芯片、传感器和微控制器的主要供应商，美国的德州仪器、安森美等企业则是其竞争对手。英飞凌 CEO 约亨 · 哈内贝克说：“在我看来，工业 AI 或者物理 AI，是",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/863.htm"
+    },
+    {
+      "id": "41403df8-2d23-81d9-9046-e6087aef7a2e",
+      "title": "消息称三星电子计划明年初完成先进封装技术“3D Cube-H”开发",
+      "summary": "IT之家 11 月 10 日消息，韩媒 ZDNET Korea 今日报道称，三星电子已制定计划，力争明年初完成先进封装技术“3D Cube-H”的开发工作。据报道，3D Cube 是一种将多颗芯片垂直堆叠的先进封装技术。与传统的芯片水平排列结构相比，3D Cube 能够在相同面积内集成更多晶体管。三星电子此前已开发热压键合（TC Bonding）技术的 3D Cube-T，目前正在研发混合键合（IT之家注：Hybrid Bonding）的 3D Cube-H。3D Cube-H 的主要应用方向是超高性能 AI 芯片。如果三星电子能够成功开发这项技术，其晶圆代工业务有望拿到大客户订单。一位熟悉相",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/862.htm"
+    },
+    {
+      "id": "41403df8-2d23-812a-acb5-c3cb7903c5d2",
+      "title": "雷鸟 iO AI 智能眼镜新增高德导航功能：支持语音唤醒、HUD 实时指引",
+      "summary": "IT之家 11 月 10 日消息，雷鸟宣布为旗下雷鸟 iO AI 智能眼镜升级加入高德导航功能，在日常通勤、城市漫步与骑行出游中，用户抬眼便能获取关键路线提示，无需频繁查看手机。雷鸟表示，用户在升级后，只需说出“小雷小雷”唤醒 RayNeo AI，告知目的地并选择步行或骑行模式，选定目标后即可启动导航。行进过程中，转向方向、转向距离、剩余里程与时间等信息会以 HUD 形式呈现在视野前方；临近路口时，转向提示自动放大，帮助用户及时判断方向，也可切换大地图查看全程路线。途中临时更改目的地或偏离原定路线，导航会自动重新规划，手机与眼镜同步刷新，无需重新设置。弱网环境下导航自动暂停，网络恢复后可继续导",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/860.htm"
+    },
+    {
+      "id": "41403df8-2d23-81e2-a964-d36dbca7aa37",
+      "title": "华为李小龙分享吃胡萝卜血糖快速升降经历，网友猜测或在为血糖监测设备预热",
+      "summary": "IT之家 11 月 10 日消息，华为终端 BG CTO 李小龙今日在微博分享了自己吃胡萝卜血糖快速升降的经历。没想到蒸胡萝卜的升糖指数这么高。早上吃了根微波炉胡萝卜，半小时血糖直接从 5.3 升到了 9.0，不过升得快也降得快，40 分钟后又降了回来。随后评论区有网友猜测，李小龙此举是在为即将发布的血糖监测设备预热。综合IT之家此前报道，今年 9 月，华为终端 BG CEO 何刚发布视频，并透露华为未来一段时间，会发布一款血糖测试的设备，其技术研究总共做了四年，才拿出可以接受并且可以产业化的技术。何刚称，只要做得足够好，华为可以不断地去给大家更多时间，去探索。今年 10 月，国家药监局公示的",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/859.htm"
+    },
+    {
+      "id": "41403df8-2d23-81c7-b704-e3d7d84eb8cc",
+      "title": "布局 AI 温冷存储产业：华为将于 11 月 12 日举办新型存储系统试用启动现场会",
+      "summary": "IT之家 11 月 10 日消息，华为宣布公司将于 11 月 12 日在贵州贵安云上屯举办新型存储系统试用启动现场会，标志着该技术正式进入真实场景联合验证阶段。华为表示，随着 Agentic AI 时代到来，AI 语料库等温冷数据呈爆发式增长，传统存储方案已难以兼顾成本、能耗与效率。为此，华为将磁与电深度融合，打造出全新的新型存储架构，旨在打破传统温冷存储瓶颈，为海量数据的长效保存提供全新路径。业内人士表示，此次现场试商用启动是华为布局 AI 温冷存储产业的关键节点，也将为智能时代的数据基础设施带来全新选择。",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/858.htm"
+    },
+    {
+      "id": "41403df8-2d23-819f-a2f4-dcd330053a45",
+      "title": "快克智能透露“已参与苹果 AI 眼镜及新款智能耳机项目”，相应 Apple Glasses 新品有望 2027 年推出",
+      "summary": "IT之家 11 月 10 日消息，电子组装及半导体封装供应商快克智能在 2026 年第三季度业绩说明会上透露，受益于半导体、光通信、数据中心行业需求增长，公司三季度合同负债同比、环比均实现增长，在手订单储备充足。目前，公司已参与苹果 AI 眼镜及新款智能耳机项目，有利于拉动精密焊接装联和机器视觉检测等相关业务。快克智能同时表示，后续公司将重点布局半导体封装、光通信数据中心领域相关装备。公司 TCB 设备现阶段正配合多家客户开展工艺调试验证，预计 2027 年逐步实现收入贡献。IT之家注意到，此前消息显示苹果计划最早 2027 年推出其首款 AI 智能眼镜，预估会在 2027 年全球开发者大会（",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/856.htm"
+    },
+    {
+      "id": "41403df8-2d23-819b-9db5-fe6750a97757",
+      "title": "只清洁摄像头前方玻璃，特斯拉激光雨刷技术有望应用于 Cybercab 无人驾驶出租车",
+      "summary": "IT之家 11 月 10 日消息，特斯拉此前提出的激光清洁挡风玻璃技术，未来有可能应用于 Cybercab 无人驾驶出租车。IT之家注意到，在最新一期《杰 · 雷诺的车库》（Jay Leno's Garage）节目中，特斯拉车辆工程副总裁拉尔斯 · 莫拉维（Lars Moravy）谈到了这项技术。他表示，特斯拉正在探索利用聚焦激光清除摄像头正前方挡风玻璃上的污物，以确保自动驾驶摄像头能够获得清晰视野。采访中，莫拉维谈到了特斯拉此前提交的激光清洁挡风玻璃专利。他指出，如果要用激光清洁整块挡风玻璃，需要部署大量激光装置，实际意义并不大。但如果将激光集中在摄像头正前方的一小块区域，情况就不同了。这种",
+      "source": "IT之家",
+      "publishTime": "2026-11-10",
+      "link": "https://www.ithome.com/1/024/857.htm"
+    },
+    {
+      "id": "41403df8-2d23-81d8-be37-e0ba5b0f1bcc",
+      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
       "source": "Wired",
       "publishTime": "2026-11-10",
-      "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/"
+      "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/"
     },
     {
-      "id": "41403df8-2d23-8163-baf1-e1d6bebfcaa5",
-      "title": "Nvidia’s Next Headache: New Push For Export Controls in Wake of Spy Scandal",
-      "summary": "New export controls on the sale of advanced Nvidia AI chips to China may be back on the table. In late October, White House officials shared feedback with Congressional staff on export control measures that are under consideration as part of a broader collection of annual policy legislation known as",
-      "source": "The Information",
-      "publishTime": "2026-11-10",
-      "link": "https://www.theinformation.com/articles/nvidias-next-headache-new-push-export-controls-wake-spy-scandal"
-    },
-    {
-      "id": "41403df8-2d23-8127-b530-d269238f46d3",
-      "title": "厦金大桥（厦门段）海上主线桥贯通，预计今年底建成通车",
-      "summary": "IT之家 11 月 10 日消息，据央视新闻报道，今天（11 月 10 日）凌晨，随着最后一榀钢箱梁吊装到位，厦金大桥（厦门段）海上主线桥顺利合龙，标志着厦金大桥（厦门段）海上主线桥主体结构建设完成，项目进入通车前的收尾阶段。最后这一榀钢箱梁重达 3318 吨，体量大、吊装精度高，基准温度要控制在约 22℃，施工人员利用 5500 吨级浮吊船将钢箱梁吊起，缓缓送入合龙口，再通过千斤顶同步控制进行精调。IT之家注意到，此次合龙的刘五店航道东侧非通航孔桥是厦金大桥（厦门段）海上主线桥最后一个合龙桥段。全长约 14.2 公里的海上主线桥由观音山互通主线桥、刘五店航道桥、金通航道桥等 12 个桥段构成",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/589.htm"
-    },
-    {
-      "id": "41403df8-2d23-81ba-9d5b-cd247c252c1f",
-      "title": "苹果 iOS/iPadOS 27.2.1 正式版发布",
-      "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2.1 更新（内部版本号：24B156），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-10-27：iOS 27.2 (24B91020) 2026-10-27：iOS 27.2 (24B119) 2026-10-20：iOS 27.2 RC (24B115",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/583.htm"
-    },
-    {
-      "id": "41403df8-2d23-8154-9f0b-e47ddd3c355d",
-      "title": "苹果 visionOS 27.2.1 正式版发布",
-      "summary": "IT之家 11 月 10 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2.1 更新（内部版本号：24N124），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-10-27：visionOS 27.2 (24N120) 2026-10-20：visionOS 27.2 RC (24N118) 2026-10-14：visionOS 27.2 B",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/585.htm"
-    },
-    {
-      "id": "41403df8-2d23-817b-a460-ec44e9f252b8",
-      "title": "苹果 watchOS 27.2.1 正式版发布",
-      "summary": "IT之家 11 月 10 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2.1 更新（内部版本号：24S132），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 27 发布历史： 2026-10-27：watchOS 27.2 (24S118) 2026-10-20：watchOS 27.2 RC (24S116) 2026-10-14：watchOS 27.2 Beta ",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/586.htm"
-    },
-    {
-      "id": "41403df8-2d23-8154-8c03-e7951dca9b27",
-      "title": "苹果 iPadOS 26.7.3 正式版发布",
-      "summary": "IT之家 11 月 10 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.3 更新，本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-10-27：iPadOS 26.7.2 (23H128) 2026-09-29：iPadOS 26.7.1 (23H30) 2026-09-10：iPadOS 26.7 (23H24) 2026-09-09：iOS 26.6",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/587.htm"
-    },
-    {
-      "id": "41403df8-2d23-812f-a920-ec620f752c50",
-      "title": "苹果 iOS / iPadOS 18.7.12 正式版系统发布，修复 6 个安全漏洞",
-      "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 18.7.12 更新（内部版本号：22H390）。本次更新主要带来 6 项重要安全修复，可以看出苹果并没有忘掉老系统用户。 IT之家附本次更新修复的漏洞如下：隔空播放适用设备： iPhone XS、iPhone XS Max、iPhone XR、iPad（第 7 代）漏洞影响：蓝牙通信范围内的攻击者可能绕过配对码尝试次数限制。漏洞描述：苹果通过改进状态管理，修复了一处逻辑问题。CVE 编号： CVE-2026-113968发现者：苹果蓝牙适用设备： iPhone XS、iPhone ",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/588.htm"
-    },
-    {
-      "id": "41403df8-2d23-81a7-ba3d-f548c156579f",
-      "title": "全球首款配自动追踪灯的安防摄像头：安克 eufy 发布 TrackLight Cam S1，最远 12 米威慑可疑陌生人",
-      "summary": "IT之家 11 月 10 日消息，安克（Anker）旗下智能家居品牌 eufy 于 11 月 9 日推出户外安防摄像头 Eufy TrackLight Cam S1。官方称其为全球首款配备“自动追踪灯”的户外安防摄像头，可通过光束主动锁定并跟随可疑人员，从而提升家庭安防的威慑能力。当摄像头识别到可疑人员后，TrackLight 会从最远约 12 米（40 英尺）处锁定目标，并随其移动持续照射。光束会根据目标距离自动调整：目标较远时收窄，靠近时则扩大，从而让被追踪者始终处于照明范围内。摄像头支持 355 度水平旋转，追踪速度最高可达每秒 87 度。在威慑功能上，用户可开启“追踪威慑模式”，让追踪",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/581.htm"
-    },
-    {
-      "id": "41403df8-2d23-8188-85ce-fc71f47b38df",
-      "title": "谷歌钱包新增 Traveler QR 二维码支付，支持东南亚地区 Alipay+",
-      "summary": "IT之家 11 月 10 日消息，据科技媒体 Android Authority 昨天报道，谷歌 Google Play 服务 26.44 现已向 Android 用户推送。根据官方发布的信息说明，Traveler QR 功能已在谷歌钱包（Google Wallet）上线。据报道，Traveler QR 是一种二维码支付方式，支持主扫（顾客用手机扫描商户的二维码）、被扫（IT之家注：商户用扫描枪 / 支付终端扫描顾客手机的二维码）。同时该功能基于 Alipay+ 网络运行，支持马来西亚、印度尼西亚、菲律宾等东南亚国家 / 地区。这些地区中有不少是热门旅游目的地，未来用户通过谷歌钱包实现二维码支",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/580.htm"
-    },
-    {
-      "id": "41403df8-2d23-819c-82ff-f8e5ece1cafa",
-      "title": "See what Skydance's CEOs said to employees after exceeding estimates in first earnings report",
-      "summary": "See what Skydance's CEO David Ellison and co-CEO Ynon Kreiz told employees after beating earnings estimates in the new company's first quarter.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-10",
-      "link": "https://www.businessinsider.com/skydance-q3-earnings-read-the-memo-ellison-paramount-wbd-deal-2026-11"
-    },
-    {
-      "id": "41403df8-2d23-8125-9d76-db476574c77d",
-      "title": "IT早报 1110：出轨风波后英伟达宣布 CEO 黄仁勋仍将留任；华为、江淮和 Stellantis 三方合作车型外观确认；尊界或推 40-50 万子品牌；奥迪 A8 旗舰轿车停产...",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 10 日星期二，今天的重要科技资讯有：1. 英伟达发言人确认黄仁勋将继续履职公司 CEO 一职不中断，特朗普表态支持当地时间 11 月 8 日，英伟达发言人对外明确，黄仁勋将继续担任公司首席执行官，履职不会中断，相关风波不会打乱英伟达正常经营节奏。美国总统特朗普在被福克斯新闻记者问及相关问题时表示黄仁勋是个很好的人，并支持他继续担任英伟达 CEO。>> 查看详情2. 消息称玛莎拉蒂与尊界新车外观确认，属华为、江淮和 Stellantis 三方合作项目据第一财经报道，玛莎拉蒂与尊界的合作项目名为“玛莎拉蒂 Design”，该项目为华为、江",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/579.htm"
-    },
-    {
-      "id": "41403df8-2d23-8139-bcfa-c1b550bff93e",
-      "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
-      "summary": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-11-10",
-      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html"
-    },
-    {
-      "id": "41403df8-2d23-81d1-b6e4-e007ec960ea8",
-      "title": "What could China get from Jensen Huang?",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI ",
-      "source": "The Verge",
-      "publishTime": "2026-11-10",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
-    },
-    {
-      "id": "41403df8-2d23-816f-b767-ed4364a7b296",
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"unfaithful\" to his wife, and the company has opened an investigation int",
-      "source": "The Verge",
-      "publishTime": "2026-11-10",
-      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
-    },
-    {
-      "id": "41403df8-2d23-81d7-9e06-d8fcfedf7553",
-      "title": "《极盗车神》导演赖特执导苹果新宣传视频，Apple Pay 变身“功夫神器”",
-      "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Mac 昨日（11 月 9 日）发布博文，报道称苹果公司发布全新 Apple Pay 宣传视频短片，由《极盗车神》（Baby Driver）、《僵尸肖恩》（Shaun of the Dead）导演埃德加 · 赖特（Edgar Wright）执导。IT之家附上相关视频如下：短片延续苹果近年“电影化营销”的路线，以功夫动作片为视觉语言，通过快速剪辑、急促变焦和夸张的打斗编排，突出 Apple Pay 在结账时的速度与便利。该短片背景设定在一家便利店：主角在遭遇反派围攻后，先用 Apple Pay 完成支付，随后将货架上的商品变成“武器”反击；而反",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/578.htm"
-    },
-    {
-      "id": "41403df8-2d23-81c5-b348-d116b7b2ddaa",
-      "title": "徕卡：M (Typ 240)/M10/M11 系列相机隐藏菜单仅用于诊断和维修，用户自行修改可能发生异常",
-      "summary": "IT之家 11 月 10 日消息，据科技媒体 Notebookcheck 今天报道，徕卡现已确认，部分 M10/11 相机用户自行发现的隐藏菜单仅面向维修设计，建议普通用户不要使用。IT之家从原报道了解到，部分徕卡用户近期发现，只要通过特定的按键组合，就可以在 M (Typ 240)、M10、M11 系列相机，打开隐藏的服务菜单。该菜单能够显示相机快门数、剩余电池容量等信息，对于二手相机买家而言，这些信息具备一定参考价值。不过有 Reddit 用户反馈，他们在维修菜单更改部分选项后，相机的显示屏就无法点亮。该媒体就此事向徕卡询问，对方的回应是：我们的相机产品并未将内部维修菜单，设计为普通用户可",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/577.htm"
-    },
-    {
-      "id": "41403df8-2d23-8125-84e5-ed3cd9c92dc5",
-      "title": "冲击“史上最大 IPO”：消息称 Anthropic 下周四 / 五上市，估值预期遭遇市场降温",
-      "summary": "IT之家 11 月 10 日消息，《华尔街日报》今天（11 月 10 日）发布博文，报道称 AI 厂商 Anthropic 正推进首次公开募股（IPO），目标是在下周四（11 月 19 日）或周五（20 日）开始在纳斯达克交易，股票代码拟定为 ANT。该公司预计将在本周初披露 IPO 估值区间、拟发行股份数量及发行价格等关键信息。市场原本预计 Anthropic 的 IPO 估值约为 1.5 万亿美元（IT之家注：现汇率约合 10.02 万亿元人民币），甚至一度有接近 2 万亿美元（现汇率约合 13.36 万亿元人民币）的讨论。但上周 AI 相关股票大幅回调后，部分重要机构投资者开始施压，要求",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/576.htm"
-    },
-    {
-      "id": "41403df8-2d23-8163-936f-c6180ff6f458",
-      "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
-      "summary": "Anthropic's initial public offering could be a crucial test of investor confidence in the AI trade, CNBC's Jim Cramer said.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-11-10",
-      "link": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html"
-    },
-    {
-      "id": "41403df8-2d23-8197-9626-e51dbb6d0a04",
-      "title": "Nvidia's succession dilemma just got real. Here's who could take over if Jensen Huang steps down.",
-      "summary": "Nvidia's board is probing possible foreign intel targeting of CEO Jensen Huang. If he steps down, analysts say these execs could be his successors.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-10",
-      "link": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-succession-executives-analysts-2026-11"
-    },
-    {
-      "id": "41403df8-2d23-8147-b6c8-c07e2a682c7c",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "id": "41403df8-2d23-813a-abe9-c0455461c5c8",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
       "source": "TechCrunch",
       "publishTime": "2026-11-10",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
     },
     {
-      "id": "41403df8-2d23-81c5-83e1-c4b3e98f1e43",
-      "title": "Trump says Jensen Huang told him he didn’t know the person he had an affair with 'was a spy'",
-      "summary": "President Donald Trump said he checked in on Jensen Huang and that the Nvidia CEO said he didn't know his extramarital affair partner \"was a spy.\"",
+      "id": "41403df8-2d23-8115-af67-d4e7df8f7aa9",
+      "title": "Leaked federal Russian records show 400,000 war deaths in Ukraine, hackers say",
+      "summary": "Two hacking groups claiming responsibility for a cyberattack on Rosstat said they retrieved death records in a 23-terabyte data heist a few weeks ago.",
       "source": "Business Insider",
       "publishTime": "2026-11-10",
-      "link": "https://www.businessinsider.com/trump-jensen-huang-didnt-know-affair-partner-was-spy-2026-11"
+      "link": "https://www.businessinsider.com/russian-deaths-ukraine-war-400000-leaked-hackers-rosstat-2026-11"
     },
     {
-      "id": "41403df8-2d23-81c6-b8d8-dccdde80e9fd",
-      "title": "Mac 用户速更新：苹果 macOS 27.2.1 修复 eMudhra 证书漏洞残留风险",
-      "summary": "IT之家 11 月 10 日消息，科技媒体 MacRumors 今天（11 月 10 日）发布博文，报道称在 macOS Golden Gate 27.2.1 系统中命令行工具中，苹果修复了 eMudhra 证书漏洞残留风险。IT之家此前报道，苹果公司于上月（2026 年 10 月）发布 macOS 更新，在 Safari、邮件及采用苹果框架的应用中，屏蔽相关被泄露证书，但 curl、git 等命令行工具仍可能接受这些证书，导致开发者及高级用户面临潜在风险。此次更新后，macOS 的命令行工具将不再信任受影响的 eMudhra 根证书，意味着通过终端执行网络请求、代码拉取或软件安装时，系统将更",
-      "source": "IT之家",
+      "id": "41403df8-2d23-818b-baa4-e5943a71e677",
+      "title": "The Chinese internet is trying to figure out who lost the most in the fallout of Jensen Huang's affair",
+      "summary": "From his wife to retail investors, Chinese internet users are counting the costs of Jensen Huang's personal crisis.",
+      "source": "Business Insider",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/575.htm"
+      "link": "https://www.businessinsider.com/chinese-social-media-users-jensen-huang-cost-nvidia-2026-11"
     },
     {
-      "id": "41403df8-2d23-81f1-932c-c215cb37a17d",
-      "title": "美国以外首个：苹果将在土耳其建立先进制造培训中心，为中小企业免费提供咨询和培训服务",
-      "summary": "IT之家 11 月 10 日消息，据科技媒体 Appleinsider 昨天报道，苹果将在土耳其设立 7 处培训设施，进一步支持该国应用开发和先进制造业。这 7 处设施包含 5 所苹果开发者学院、伊斯坦布尔开发者中心，以及安卡拉先进制造中心。▲ 图源：AppleIT之家从原报道获悉，苹果将在未来 3 年内陆续在土耳其开设 5 所开发者学院，首个学院明年在伊斯坦布尔投入运营。每所学院将提供 9 个月的免费课程，涵盖编程、设计、市场营销、项目管理和 AI 等领域。课程还将涉及无障碍设计、隐私保护和可持续发展等内容，帮助学生掌握应用开发和创业所需技能。同时，伊斯坦布尔开发者中心将于明年开放，为开发者",
-      "source": "IT之家",
+      "id": "41403df8-2d23-8138-9b27-c9a3bfacdefd",
+      "title": "Dana White has turned down the White House press secretary job after a weekend of Trump’s overtures",
+      "summary": "The UFC CEO declined the role of White House press secretary, saying he does not want to be in politics.",
+      "source": "Business Insider",
       "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/574.htm"
+      "link": "https://www.businessinsider.com/dana-white-ufc-turned-down-white-house-press-secretary-job-2026-11"
     },
     {
-      "id": "41403df8-2d23-81a5-8b1b-de93d750f014",
-      "title": "8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%",
-      "summary": "IT之家 11 月 10 日消息，Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude Mythos 5.2，两款模型基于同一底层模型，前者面向普通用户并内置网络安全与生物安全防护，后者则面向通过审核的网络安全和生命科学机构开放，用于高风险的专业应用。定价方面，Claude Fable 5.2 每 100 万词元（Token）输入费用为 8 美元（IT之家注：现汇率约合 53.4 元人民币），每 100 万词元（Token）输出费用为 40 美元（现汇率约合 267.2 元人民币）。作为对比，Claude Fable 5.1 的每 100 万",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/573.htm"
-    },
-    {
-      "id": "41403df8-2d23-817f-8713-fbcd3e0d4f60",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as n",
-      "source": "The Verge",
-      "publishTime": "2026-11-10",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-    },
-    {
-      "id": "41403df8-2d23-81e9-8b35-e4e195611b3e",
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
-      "source": "TechCrunch",
-      "publishTime": "2026-11-10",
-      "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/"
-    },
-    {
-      "id": "41403df8-2d23-8105-b5d8-eee1a6bf2d86",
-      "title": "President Trump Says FBI is Probing Nvidia CEO’s Relationship with Chinese National",
-      "summary": "President Donald Trump said in an impromptu press briefing Monday that the Federal Bureau of Investigation is looking into Nvidia CEO Jensen Huang’s romantic affair with Alice Huang, a Chinese business executive whom other U.S. officials suspected of providing information to Chinese intelligence ...",
-      "source": "The Information",
-      "publishTime": "2026-11-10",
-      "link": "https://www.theinformation.com/briefings/president-trump-says-fbi-probing-nvidia-ceos-relationship-chinese-national"
-    },
-    {
-      "id": "41403df8-2d23-8151-b989-dd1c93974d03",
-      "title": "苹果推送 iOS 27.2.1 更新，修复 Message 群聊权限在内的 9 个漏洞",
-      "summary": "IT之家 11 月 10 日消息，苹果公司今天（11 月 10 日）开始推送 iOS 27.2.1 更新（内部开发代号为 24B156），属于小型维护更新，主要修复错误和整合安全更新。在更新日志中，苹果说明为：“本更新为 iPhone 提供了错误修复和安全更新。” 苹果未在发布说明中列出具体修复的漏洞或功能细节。更新方式上，用户前往设置 > 通用 > 软件更新，若看到 iOS 27.2.1，点按下载并安装。更新前建议先通过 iCloud 或电脑备份，并保持设备电量充足、连接 Wi‑Fi。图源：@May_J_NiIT之家查询苹果公司官方安全内容页面，目前最新 iOS 版本依然列为 iOS 27.",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/572.htm"
-    },
-    {
-      "id": "41403df8-2d23-81e7-a11e-c02180a8b066",
-      "title": "Meta 旗下 AI 助手 Muse 登陆苹果 Apple Watch",
-      "summary": "IT之家 11 月 10 日消息，据科技媒体 MacRumors 昨天报道，Meta 现已更新 iOS 版 Muse 应用，新增 Apple Watch 支持。这意味着苹果 Apple Watch 用户现在可以使用这款个人 AI 智能体，在腕上完成各种任务。据介绍，Apple Watch 版 Muse 的主界面带有吉祥物元素。用户可以选择打字、语音输入、拨打语音电话等交互方式，支持表盘。据IT之家了解，Muse 是 Meta 推出的一款个人 AI 智能体，能够帮助用户完成各种任务。它提供独立应用，并已集成至 Instagram、Facebook 等 Meta 应用中。Meta 为 Muse 设",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/571.htm"
-    },
-    {
-      "id": "41403df8-2d23-811e-bc23-d3641535fb17",
-      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-      "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-11-10",
-      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html"
-    },
-    {
-      "id": "41403df8-2d23-8130-ae2e-f9213e5bd3f2",
-      "title": "Take-Two CEO 泽尔尼克称《GTA 6》预购量远远超出预期，有望为公司树立新业绩基准",
-      "summary": "IT之家 11 月 10 日消息，Take-Two CEO 施特劳斯 · 泽尔尼克今天在公司 2027 财年第 2 财季电话会议中表示，《GTA6》游戏预购量远远超出预期，并确信这款游戏的数字很快就会说明一切。泽尔尼克承诺，《GTA5》和《GTA 线上模式》将继续获得更新，公司将服务接近 2.35 亿的存量玩家群体。Take-Two 总裁卡尔 · 斯塔托夫（Karl Statoff）则认为，《GTA6》发售将成为全球娱乐产业的标志性时刻。泽尔尼克随后在问答环节表示，《GTA6》将为公司树立新的业绩标准。他指出：“公司各方面的未来都非常光明。”Take-Two 预计下一季度营收将达到 33.5 ",
-      "source": "IT之家",
-      "publishTime": "2026-11-10",
-      "link": "https://www.ithome.com/1/024/570.htm"
-    },
-    {
-      "id": "41403df8-2d23-815a-b224-fcc7f82d0ee3",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "source": "TechCrunch",
-      "publishTime": "2026-11-10",
-      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
-    },
-    {
-      "id": "41403df8-2d23-8199-a304-c9323f72f1f1",
-      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
-      "summary": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
+      "id": "41403df8-2d23-818f-96c9-f3c0d5d403d5",
+      "title": "Casetify Promo Codes | 15% Off November 2026",
+      "summary": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
       "source": "Wired",
       "publishTime": "2026-11-10",
-      "link": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/"
+      "link": "https://www.wired.com/story/casetify-promo-code/"
     },
     {
-      "id": "41403df8-2d23-817e-87fa-d6de7158601e",
-      "title": "The race is on to sue Nvidia",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-      "source": "TechCrunch",
+      "id": "41403df8-2d23-815a-a3bc-fe1adc3f708f",
+      "title": "Braun Promo Codes: 15% Off November 2026",
+      "summary": "Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.",
+      "source": "Wired",
       "publishTime": "2026-11-10",
-      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+      "link": "https://www.wired.com/story/braun-promo-code/"
     },
     {
-      "id": "41403df8-2d23-81e0-af46-c6bdc551f4c4",
-      "title": "The internet is roasting Jensen Huang's rough start to the week",
-      "summary": "The internet is making light of Jensen Huang's decidedly dark start to the week by letting the memes rip.",
-      "source": "Business Insider",
+      "id": "41403df8-2d23-8170-ab87-dee4051081f8",
+      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+      "summary": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+      "source": "Wired",
       "publishTime": "2026-11-10",
-      "link": "https://www.businessinsider.com/jensen-huang-affair-memes-2026-11"
+      "link": "https://www.wired.com/story/hr-block-coupon/"
+    },
+    {
+      "id": "41403df8-2d23-8149-a10a-e2ba422a11fd",
+      "title": "Babbel Promo Code: Up to 65% Off in November 2026",
+      "summary": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
+      "source": "Wired",
+      "publishTime": "2026-11-10",
+      "link": "https://www.wired.com/story/babbel-promo-code/"
+    },
+    {
+      "id": "41403df8-2d23-8193-8615-f16f3e1b1f3c",
+      "title": "Sealy Promo Codes: $100 Off",
+      "summary": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals for November 2026 will have you waking up refreshed—and with cash left in your wallet.",
+      "source": "Wired",
+      "publishTime": "2026-11-10",
+      "link": "https://www.wired.com/story/sealy-promo-code/"
+    },
+    {
+      "id": "41403df8-2d23-816d-9083-d689767badf2",
+      "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
+      "summary": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
+      "source": "Wired",
+      "publishTime": "2026-11-10",
+      "link": "https://www.wired.com/story/barkbox-promo-code/"
+    },
+    {
+      "id": "41403df8-2d23-811a-a913-e5aecc74976e",
+      "title": "Dyson Promo Codes: 25% Off in November 2026",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "source": "Wired",
+      "publishTime": "2026-11-10",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/"
+    },
+    {
+      "id": "41403df8-2d23-8128-a163-feb616cae900",
+      "title": "Breville Promo Code: $700 Off | November 2026",
+      "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
+      "source": "Wired",
+      "publishTime": "2026-11-10",
+      "link": "https://www.wired.com/story/breville-promo-code/"
+    },
+    {
+      "id": "41403df8-2d23-81b7-9647-cab381243027",
+      "title": "Chirp Discount Codes: 67% Off",
+      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
+      "source": "Wired",
+      "publishTime": "2026-11-10",
+      "link": "https://www.wired.com/story/chirp-discount-code/"
+    },
+    {
+      "id": "41403df8-2d23-81bd-b29d-e31df795b0a0",
+      "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
+      "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+      "source": "Wired",
+      "publishTime": "2026-11-10",
+      "link": "https://www.wired.com/story/sams-club-coupon/"
+    },
+    {
+      "id": "41403df8-2d23-818b-8961-e6b2aa0dac38",
+      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+      "summary": "Shop the Naturepedic sale this November 2026.",
+      "source": "Wired",
+      "publishTime": "2026-11-10",
+      "link": "https://www.wired.com/story/naturepedic-promo-code/"
+    },
+    {
+      "id": "41403df8-2d23-81ea-a150-f0e632bf6427",
+      "title": "Rover Promo Codes and Referral Deals for November 2026",
+      "summary": "Score your Rover promo code for November 2026.",
+      "source": "Wired",
+      "publishTime": "2026-11-10",
+      "link": "https://www.wired.com/story/rover-promo-code/"
+    },
+    {
+      "id": "41403df8-2d23-81cf-ae3f-eead5fa80fc4",
+      "title": "Bose Promo Code: 40% Off for November 2026",
+      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "source": "Wired",
+      "publishTime": "2026-11-10",
+      "link": "https://www.wired.com/story/bose-coupon-code/"
     }
   ],
   "macroEvents": [
