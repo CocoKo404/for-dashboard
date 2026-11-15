@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-11-15 07:13",
+  "updatedAt": "2026-11-15 10:56",
   "news": [
+    {
+      "id": "41803df8-2d23-81c7-a7f9-d42aef335604",
+      "title": "SpaceX catches upper stage of Starship rocket in historic first",
+      "summary": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-11-15",
+      "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
+    },
+    {
+      "id": "41803df8-2d23-8143-a981-cb7f57a14dbf",
+      "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
+      "summary": "Routers and networking equipment may be involved in the problems that led to the ground stop, but a definitive cause has not been established, officials said.",
+      "source": "CNBC Tech",
+      "publishTime": "2026-11-15",
+      "link": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html"
+    },
+    {
+      "id": "41803df8-2d23-81e5-bab1-d19bab8994ea",
+      "title": "创造历史：美国 SpaceX 首次实现筷子夹星舰飞船",
+      "summary": "IT之家 11 月 15 日消息，当地时间今日，美国太空探索技术公司（SpaceX）在星舰第 15 次试飞任务中，首次成功利用发射塔“筷子”机械臂，捕获从地球轨道返回的星舰上面级飞船。这是历史上首家公司，成功将轨道级火箭的上面级（Upper Stage）送回发射场，并通过发射塔完成捕获。当地时间周五晚间，第 15 次试飞任务的 Ship 42 搭乘助推器 B22 升空，进入轨道后顺利完成任务。SpaceX 表示，3 颗卫星搭载的摄像头拍摄了飞船隔热罩，结果显示隔热罩状态良好，能满足再次进入大气层的要求，因此地面控制人员放弃了备用的海上溅落方案。IT之家注意到，到了周六上午，SpaceX 称发射",
+      "source": "IT之家",
+      "publishTime": "2026-11-15",
+      "link": "https://www.ithome.com/1/027/248.htm"
+    },
+    {
+      "id": "41803df8-2d23-81e0-9bb8-f5f49d40cca8",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been e",
+      "source": "The Verge",
+      "publishTime": "2026-11-15",
+      "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+    },
+    {
+      "id": "41803df8-2d23-8145-8cbc-e9de75ba3b5c",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "source": "TechCrunch",
+      "publishTime": "2026-11-15",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
+    {
+      "id": "41803df8-2d23-8166-8abf-ec85219cf2ac",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "source": "TechCrunch",
+      "publishTime": "2026-11-15",
+      "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+    },
+    {
+      "id": "41803df8-2d23-8124-b35c-f062f2f57ea8",
+      "title": "The Chinese spy allegation that toppled Nvidia's CEO is starting to look shaky",
+      "summary": "New reports raise questions about the intelligence behind Jensen Huang's ouster from Nvidia and the role of China hawks in the US administration.",
+      "source": "Business Insider",
+      "publishTime": "2026-11-15",
+      "link": "https://www.businessinsider.com/intelligence-jensen-huang-downfall-shaky-nvidia-china-spy-gpus-2026-11"
+    },
+    {
+      "id": "41803df8-2d23-817d-bf1d-c99beeba17de",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 w",
+      "source": "The Verge",
+      "publishTime": "2026-11-15",
+      "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
+    },
     {
       "id": "41803df8-2d23-8153-b717-f63c599b5c26",
       "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
@@ -336,70 +400,6 @@
       "source": "IT之家",
       "publishTime": "2026-11-14",
       "link": "https://www.ithome.com/1/027/229.htm"
-    },
-    {
-      "id": "41803df8-2d23-8196-bea1-ef0e9973f4c9",
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-      "source": "Wired",
-      "publishTime": "2026-11-14",
-      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
-    },
-    {
-      "id": "41803df8-2d23-81b6-99ce-d1d183e66c02",
-      "title": "A gadget to make your dumb house smarter",
-      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about school ap",
-      "source": "The Verge",
-      "publishTime": "2026-11-14",
-      "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer"
-    },
-    {
-      "id": "41803df8-2d23-8102-a438-de5b81f172b7",
-      "title": "Ukraine's naval drones made their name attacking Russian warships. Now they're taking the fight onto land.",
-      "summary": "Ukraine's Magura drones, made by UFORCE, have hammered Russia's Black Sea fleet. Now they're a new headache on land, helping attack ground targets.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-14",
-      "link": "https://www.businessinsider.com/ukraine-naval-drones-hit-russian-ships-taking-the-fight-land-2026-11"
-    },
-    {
-      "id": "41803df8-2d23-812f-ac2d-d37282ca9fe1",
-      "title": "Catherine Zeta-Jones says an unexpected career move got her discovered by Steven Spielberg",
-      "summary": "Catherine Zeta-Jones recalls moving to Hollywood and the unexpected career move that led to her being discovered by Spielberg and cast in \"Zorro.\"",
-      "source": "Business Insider",
-      "publishTime": "2026-11-14",
-      "link": "https://www.businessinsider.com/catherine-zeta-jones-zorro-hollywood-steven-spielberg-2026-11"
-    },
-    {
-      "id": "41803df8-2d23-81f1-9956-d1e1fa303304",
-      "title": "英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯",
-      "summary": "IT之家 11 月 14 日消息，英伟达应用深度学习研究副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）在社交平台 X 上公开发文辟谣，否认自己参与签署网传要求前 CEO 黄仁勋复职的公开信，称该信件系伪造，并明确表态支持英伟达董事会及临时 CEO 科莱特 · 克雷斯（Colette Kress）。布莱恩 · 卡坦扎罗声称，即便（公开信）是真的，他也不会签字。IT之家注意到，黄仁勋离任后，网络上流传出一封公开信，以布莱恩 · 卡坦扎罗在内的多名英伟达高管与员工名义要求董事会让黄仁勋复职。据悉，该公开信之所以很快被识破，除了布莱恩 · 卡坦扎罗下场辟谣外，还因为信件文本直接照搬了 2",
-      "source": "IT之家",
-      "publishTime": "2026-11-14",
-      "link": "https://www.ithome.com/1/027/228.htm"
-    },
-    {
-      "id": "41803df8-2d23-813a-9cff-f529da1e593f",
-      "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
-      "summary": "IT之家 11 月 14 日消息，因在未经意大利用户单独授权、也未充分告知用户的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元（IT之家注：现汇率约合 59.36 亿元人民币）罚单。意大利数据保护局声明指出，此次处罚针对的是 Facebook 于 2023 年开始提供的“浏览 Facebook 时获取相册推荐”功能。用户浏览 Facebook 期间，该功能会自动推荐手机相册中的照片和视频，作为发帖素材。2025 年 7 月，意大利数据保护局接到博尔扎诺消费者与用户保护中心举报",
-      "source": "IT之家",
-      "publishTime": "2026-11-14",
-      "link": "https://www.ithome.com/1/027/227.htm"
-    },
-    {
-      "id": "41803df8-2d23-8167-9c69-e2d2f6ddb26a",
-      "title": "借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测",
-      "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Tom's Hardware 报道，美国的一名 AI 爱好者穆罕默德 · 祖拉利靠着 AI 和简单的电子接线操作，成功让一辆有 32 年车龄的 1994 款 Jeep 切诺基通过了美国加州的尾气检测。这辆老车的发动机电脑功能十分有限，但祖拉利借助 Arduino Nano 开发板将其连接到笔记本电脑后，不仅能够读取车辆数据，还逐步实现了对部分参数的控制。其发布的视频记录了祖拉利解决尾气排放问题的全过程：从连续检测不合格，到成功连接发动机电脑并读取数据，再到调整发动机、解决排放超标问题。整个过程中，Claude 负责指导，Codex ",
-      "source": "IT之家",
-      "publishTime": "2026-11-14",
-      "link": "https://www.ithome.com/1/027/226.htm"
-    },
-    {
-      "id": "41803df8-2d23-8144-aa66-c655c773f8a3",
-      "title": "微软大规模宕机后，开源办公套件 LibreOffice 单日收到超 1000 笔捐款创历史新高",
-      "summary": "IT之家 11 月 14 日消息，当地时间 11 月 14 日，开源办公套件 LibreOffice 背后的非营利组织文档基金会（The Document Foundation）发文宣布，昨天（13 日）文档基金会单日收到超过 1,000 笔捐款，创造历史纪录。官方表示，虽然并不对其他组织所面临的运营问题感到幸灾乐祸，但这一时间节点表明，许多人正在重新审视自己在文档方面对单一云服务提供商的依赖。使用 LibreOffice，您的文档均存储在本地，开放文档格式（ODF）文件也完全归作者本人所有，而非属于任何服务提供商。向每一位捐款人致以衷心感谢。正是你们的支持，让这款软件以及这些开放标准得以始终",
-      "source": "IT之家",
-      "publishTime": "2026-11-14",
-      "link": "https://www.ithome.com/1/027/225.htm"
     }
   ],
   "macroEvents": [
