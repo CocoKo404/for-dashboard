@@ -1,405 +1,405 @@
 {
-  "updatedAt": "2026-11-28 06:12",
+  "updatedAt": "2026-11-28 12:03",
   "news": [
     {
-      "id": "42503df8-2d23-8183-9a21-e8cb539de5d0",
-      "title": "Black Friday Mattress Deals: Get Up to 55% Off (2026)",
-      "summary": "I’ve found great deals on our favorite WIRED-tested mattresses and sleep accessories.",
+      "id": "42603df8-2d23-812a-971e-c10b21d4999e",
+      "title": "“微软 2026 最大宕机”事件后，Outlook 和 GitHub 再次反馈出现服务故障",
+      "summary": "IT之家 11 月 28 日消息，根据故障监测平台 DownDetector 今天（11 月 28 日）发布的最新追踪数据，微软在经历“2026 最大宕机”事件后，旗下的 Outlook 和 GitHub 再次出现服务故障。Outlook 方面，根据该平台监测的反馈数据，在过去 24 小时持续有用户反馈登录、收发信息出现故障，从美国东部时间凌晨 1:01（北京时间 11 月 27 日 14:01）开始，峰值时间出现在北京时间 11 月 27 日 14 点 36 分。而 GitHub 方面，根据反馈数据，用户访问时普遍遇到 504 网关超时错误，从美国东部时间 11 月 27 日 13:19（北",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/808.htm"
+    },
+    {
+      "id": "42603df8-2d23-81f8-83ec-c72ca478dc07",
+      "title": "一汽丰田 2027 款普拉多上市：限时焕新价 40.98~55.98 万元",
+      "summary": "IT之家 11 月 28 日消息，在 2026 广州车展上，一汽丰田 2027 款普拉多正式上市，共推出 5 款车型，官方指导价 44.98 万至 55.98 万元，限时焕新价 40.98 万元起，活动持续至 2026 年 12 月 31 日。具体来看，穿越 BX 版限时焕新价为 40.98 万元，全能 TX 版为 44.98 万元，WALD 沃德版为 45.98 万元，悍野 WX 版为 51.98 万元，旗舰 VX 版为 55.98 万元。IT之家注意到，本次升级主要涉及内饰质感、外观设计、越野配置及拖挂拓展能力。外观方面，全能 TX 版重新采用经典圆形大灯设计，延续 LC40、LC70 等",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/807.htm"
+    },
+    {
+      "id": "42603df8-2d23-8134-8879-f979e603b9a2",
+      "title": "告别旧界面：火狐 Firefox 浏览器下月将移除回退选项，Nova 界面成唯一选择",
+      "summary": "IT之家 11 月 28 日消息，Mozilla 昨日（11 月 27 日）在官方 Connect 论坛发文，宣布将于 12 月移除火狐 Firefox 浏览器中用于恢复旧版界面的实验 Flag，此后 Nova 新设计将成为所有用户的唯一选择。IT之家援引博文介绍，Nova 是 Mozilla 今年推出的界面改版，采用更常见的现代圆角设计，用户此前可在 about:config 中调整 browser.nova.enabled 首选项，从而切换恢复到旧版界面。而最新公告显示 Mozilla 将在 12 月移除相关选项，用户只能使用 Nova。针对用户反馈，Mozilla 已作出部分调整。Fir",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/806.htm"
+    },
+    {
+      "id": "42603df8-2d23-8176-ba1d-ddf0174b9e2b",
+      "title": "仅今年第三季度，SK 海力士员工人均绩效奖金预估可达 2.3 亿韩元",
+      "summary": "IT之家 11 月 28 日消息，据韩媒 ChosunBiz 昨天（27 日）报道，SK 海力士员工的绩效奖金规模正迅速攀升。据估算，仅今年第三季度，公司计提的员工绩效奖金就折合人均 2.3 亿韩元（IT之家注：现汇率约合 114.2 万元人民币）。截至 9 月底，人均累计计提金额达到 5.02 亿韩元（现汇率约合 249.2 万元人民币）。如果全年营业利润符合证券机构的预测，人均奖金有望达到 7.85 亿韩元（现汇率约合 389.8 万元人民币）。为了支付明年年初开始发放的奖金及其他款项，SK 海力士计提的应付薪酬也在 9 月底突破 15 万亿韩元（现汇率约合 744.75 亿元人民币）。金",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/805.htm"
+    },
+    {
+      "id": "42603df8-2d23-81da-9dc6-d1ad4483b5c0",
+      "title": "Wine 11.23 新增 ARM64 macOS 支持：VKD3D 升级至 2.2，修复《明日方舟：终末地》等游戏兼容性问题",
+      "summary": "IT之家 11 月 28 日消息，开源兼容层 Wine 11.23 今日正式发布，支持在 Linux、macOS 等类 Unix 系统上运行 Windows 应用和游戏。本次更新的主要变化是新增对 ARM64 macOS 的支持，同时改进了 ARM64 环境下的 32 位模拟能力。Wine 11.23 在 ARM64 的 32 位模拟环境中加入 AVX 指令支持，有助于提升依赖相关指令的 Windows 软件兼容性。图形方面，此次更新将内置 VKD3D 升级至 2.2（IT之家注：VKD3D 是用于将 Direct3D 12 调用转换为 Vulkan 的组件）。此外，Wine 接口定义语言（I",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/804.htm"
+    },
+    {
+      "id": "42603df8-2d23-81c1-ad20-e6169c8779e4",
+      "title": "开发者推出《寂静岭 PC 版》引擎，安卓手机也能玩初代经典",
+      "summary": "IT之家 11 月 28 日消息，独立开发者 keklick1337 最新推出 Silent Hill PC 项目，在 Windows、Linux、macOS 和安卓平台原生运行 1999 年发行的 PlayStation 恐怖经典《寂静岭》游戏。根据 GitHub 项目描述，该项目是一个从零编写的全新引擎，不含原版游戏的任何代码，也不含 PlayStation 模拟成分。该项目参考社区反编译项目 silent-hill-decomp，通过读懂原作的运行逻辑，再用新代码重新写出。引擎提供 OpenGL 3.3、Vulkan 和 SDL3 GPU 三种渲染器。HDR、体积雾、光线追踪和实验性的模",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/803.htm"
+    },
+    {
+      "id": "42603df8-2d23-813a-8f06-fd7482f42358",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of gre",
+      "source": "The Verge",
+      "publishTime": "2026-11-28",
+      "link": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026"
+    },
+    {
+      "id": "42603df8-2d23-81f2-91e9-d2ee7eabcfb8",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient.",
+      "source": "BBC Tech",
+      "publishTime": "2026-11-28",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "42603df8-2d23-8105-b3be-d3eab1270032",
+      "title": "民间移植 PC 版 LineageOS 24 登场：4GB 内存电脑也能运行，让你体验安卓 17",
+      "summary": "IT之家 11 月 28 日消息，开发者 Mateus Seiboth 于 11 月 26 日在 Reddit 社区发帖，分享了开源 CapivaOS 项目，把 LineageOS 24 移植到 x86 架构的个人电脑上。该项目基于安卓 17 系统，在 GitHub 平台上项目名称为 LineageOS 24.0 for x86_64 PCs，让为手头有闲置笔记本电脑的用户，提供了低成本体验“安卓笔记本”方式。安装方式上，该项目提供 2 种方式，一种是直接使用预编译 ISO，通过 U 盘启动，可以进入 live 系统试用；另一种是自己编译后用 PcInstaller 安装到硬盘。在操作方式，该",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/800.htm"
+    },
+    {
+      "id": "42603df8-2d23-8195-a9f7-c3e798f23069",
+      "title": "R 星联合负责人尼尔森表态：《侠盗猎车手》系列不太可能走出美国",
+      "summary": "IT之家 11 月 28 日消息，《GTA 6》发售前，曾有消息称，R 星考虑过将一款《侠盗猎车手》系列新作的故事舞台搬到东京，但最终放弃了这一计划。R 星前高管奥贝 · 维尔梅伊（Obbe Vermeij）当时解释，开发一款以海外为背景的 GTA 游戏存在不小的风险。当地时间 27 日，外媒 Eurogamer 发布了采访 R 星联合负责人罗布 · 尼尔森（Rob Nelson）的内容。尼尔森谈到了未来将 GTA 系列带出美国的可能性。他认为，这种情况不太可能发生，不过理由与此前维尔梅伊给出的解释并不相同。“我不知道…… 因为总会有更有意思的地方值得我们考虑，把游戏设定在那里。美国一直在变化",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/801.htm"
+    },
+    {
+      "id": "42603df8-2d23-8192-b9fd-e2274157fa39",
+      "title": "小米 REDMI Turbo 6 系列新机通过 3C 认证，支持 100W 有线快充",
+      "summary": "IT之家 11 月 28 日消息，昨日有一款型号为 M407CF 的小米新机通过国家 3C 质量认证。数码博主 @数码闲聊站 称该机属于 REDMI Turbo 6 系列。如IT之家下图所示，3C 认证显示该机搭配的电源适配器型号为 MDY-18-EW，支持最高 20V 5A 的 100W 功率输出。作为参考，上一代 REDMI Turbo 5 于 2026 年 1 月 29 日发布，搭载 7560mAh 电池并支持 100W 快充。相关阅读：《小米新机通过 3C 认证：有望为 REDMI Note 18，配备 45W 充电 + 8888mAh 电池》",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/799.htm"
+    },
+    {
+      "id": "42603df8-2d23-8132-b8c9-caceabcab4ec",
+      "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+      "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够随血液循环、将药物送入大脑的纳米机器人 BrainBot。据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦在外面。结果就是，医生即使拥有能够对抗某种疾病的药物，也未必能让药物真正抵达患病部位。",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/798.htm"
+    },
+    {
+      "id": "42603df8-2d23-8148-a0ad-d12d3b18b04a",
+      "title": "系列首款可拍 8K 视频机型：富士 X-T6 曝光，电池容量提高 16%、引入新胶片模拟模式",
+      "summary": "IT之家 11 月 28 日消息，科技媒体 fujirumors 昨日（11 月 27 日）发布博文，报道称在 12 月 2 日举办的 Fujifilm X Summit 峰会上，富士（Fujifilm）将推出 X-T6 无反相机，在欧洲的建议零售价为 2,099 欧元，比前代产品高出 100 欧元。消息称富士 X-T6 的核心升级富士 X-Trans CMOS 6 HR 传感器。该传感器据称采用 RGBW 子像素技术，从而降低低光照条件下拍摄照片和视频时的噪点。视频方面，X-T6 将支持 8K/30p 4:2:2 10 位拍摄，有望成为富士 X-T 系列首款可拍摄 8K 视频的机型。富士据称",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/797.htm"
+    },
+    {
+      "id": "42603df8-2d23-819c-80bf-f2d302aace52",
+      "title": "Denuvo 追查破解者 voices38 身份未果：Discord 无数据、Reddit 拒绝提供资料，Valve 提交 7 个 Steam 账号但未能确认归属",
+      "summary": "IT之家 11 月 28 日消息，Denuvo 母公司 Irdeto 今年 9 月在加州北区联邦地区法院起诉 voices38，指控其绕过 26 款游戏的 D 加密保护。但截至目前，此次调查仍未取得明显进展。尽管美国法院批准其向 Valve、Discord 和 Reddit 调取用户资料，且 Valve 已提交涉及 7 个 Steam 账号的信息，但这家公司仍未能确认相关账号背后的真实身份，不得不向法院申请额外 90 天调查时间。Denuvo 母公司 Irdeto 于 2026 年 9 月 14 日在美国加利福尼亚州北区联邦地区法院起诉匿名破解者 voices38，指控其绕过 Denuvo A",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/796.htm"
+    },
+    {
+      "id": "42603df8-2d23-81d3-b740-ff6670a90969",
+      "title": "Tech Now",
+      "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+      "source": "BBC Tech",
+      "publishTime": "2026-11-28",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "42603df8-2d23-81e3-a9c7-c97e01cc14c4",
+      "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+      "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文，通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。消息源指出根据苹果设定，设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予服务（Token Granting Service，简称 TGS）。TGS 知道用户是谁，",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/795.htm"
+    },
+    {
+      "id": "42603df8-2d23-815c-9b2a-e024d1d84c42",
+      "title": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+      "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本期不设特定有奖互动话题，欢迎你在评论区分享11月新作游玩体验，可以是本文出现的，也可以是本文未提及、但你特别想推荐给派友的。我们下期再见！> ...查看全文",
+      "source": "少数派",
+      "publishTime": "2026-11-28",
+      "link": "https://sspai.com/post/119686"
+    },
+    {
+      "id": "42603df8-2d23-81b8-9f93-d70c6883ac98",
+      "title": "大众被印度追税后将奔驰、宝马、起亚拖下水：其他车企也干了，凭什么针对我？",
+      "summary": "IT之家 11 月 28 日消息，路透社当地时间 11 月 27 日报道，大众汽车在印度面临的 12 亿美元（IT之家注：现汇率约合 80.05 亿元人民币）关税追缴纠纷进入新的交锋阶段。大众向孟买法院主张，印度税务部门在零部件进口关税问题上对其进行了不公正的针对，并将梅赛德斯-奔驰、宝马、起亚等竞争对手的进口数据一并提交给了法庭。此次事件争议的核心在于印度对汽车进口的两套税率：单独进口零部件适用约 10% 的关税，而以全散件形式进口、用于当地组装的车辆则适用约 30% 至 35% 的税率。印度税务部门指控大众“故意”将接近完整的汽车拆分为零部件、分批运往印度，在当地组装成整车，从而以 10%",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/794.htm"
+    },
+    {
+      "id": "42603df8-2d23-815e-9fb6-eea5fde18f0c",
+      "title": "Meet Lululemon founder Chip Wilson, who continues to spark controversy even away from the company",
+      "summary": "Chip Wilson, who founded Lululemon in 1997, sparked fresh controversy after telling a leadership forum that Canadian women aren't having enough kids.",
+      "source": "Business Insider",
+      "publishTime": "2026-11-28",
+      "link": "https://www.businessinsider.com/who-is-chip-wilson-lululemon-ceo-founder"
+    },
+    {
+      "id": "42603df8-2d23-81e5-976e-fa4eaee8b26c",
+      "title": "《空洞骑士：丝之歌》首个大型扩展「悲恸之海」12 月 11 日免费发布",
+      "summary": "IT之家 11 月 28 日消息，《空洞骑士：丝之歌》（Hollow Knight：Silksong）全新 DLC“悲恸之海”（Sea of Sorrow）正式公布，将于 12 月 11 日推出。这是《空洞骑士：丝之歌》推出后的首个大型扩展内容，所有玩家均可免费获得。开发商 Team Cherry 表示，此次扩展将为玩家带来全新的海洋主题冒险内容。根据 Team Cherry 公布的信息，玩家将在“悲恸之海”中探索法洛姆（Pharloom）被遗忘的海洋，前往海面及海底区域，穿越群岛、堡垒，以及深藏于海浪之下的洞穴。Team Cherry 表示，开发团队过去一年一直在为这次扩展内容进行开发，加入",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/792.htm"
+    },
+    {
+      "id": "42603df8-2d23-8105-aee2-feb8d439fc74",
+      "title": "IT 管理员称微软 Copilot 可擅自修改企业 OneDrive / SharePoint 文件，恐引合规风险",
+      "summary": "IT之家 11 月 28 日消息，微软一直积极推动 Copilot 融入旗下各类应用，Office 自然也不例外。然而据外媒 Neowin 当地时间 27 日报道，一名 IT 管理员指出，部分新功能可能给使用 Microsoft 365 的企业和组织带来棘手的合规风险。据这名管理员透露，拥有 Business Premium 订阅及 Copilot 许可证的用户，只需向 Copilot 输入文字指令，就能直接编辑保存在 OneDrive 和 SharePoint 中的文件。Copilot 还可以自行识别目标文件并进行修改，用户既不必指定文件名，也无需明确确认修改操作。即使没有启用按使用量计费，",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/790.htm"
+    },
+    {
+      "id": "42603df8-2d23-813f-a3cb-ca75855516a4",
+      "title": "约 37.5GB：全球最大域名注册商 GoDaddy 被爆数据泄露，含薪酬等员工信息",
+      "summary": "IT之家 11 月 28 日消息，科技媒体 Neowin 昨日（11 月 27 日）发布博文，报道称勒索软件组织 Inception 声称入侵了域名注册商和网站托管服务商 GoDaddy，并在其泄密网站上公开了约 37.5GB 的数据。GoDaddy 成立于 1997 年，总部位于美国亚利桑那州坦佩，是全球最大的域名注册商，根据该公司年报，截至 2025 年 12 月 31 日该机构管理约 8,100 万个域名。按 .com 域名数（2026 年 5 月）统计，GoDaddy 管理约 5,270 万个域名，远超第二名 Namecheap（约 1,370 万）。根据 Inception 披露的泄",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/791.htm"
+    },
+    {
+      "id": "42603df8-2d23-8177-bcce-dc7b1401fbb1",
+      "title": "开源 3D 引擎 O3DE 升级 26.10：编辑器换上 Qt 6 新界面，启动器首次原生支持 Wayland",
+      "summary": "IT之家 11 月 28 日消息，科技媒体 Linuxiac 今天（11 月 28 日）报道，免费、开源、跨平台的 3D 引擎 Open 3D Engine（简称 O3DE）发布 26.10 版本，带来包含 200 多项修复和改进，增强开发 3D 游戏、模拟和交互式应用程序。在界面与工具方面，引擎将 Qt 版本从 5.15.2 升级至 6.10.2，实现了编辑器和开发工具的现代化。新版本还重新设计了实体检查器，统一了编辑器快捷键，并在资源编辑器中加入撤销功能。在 Linux 平台方面，游戏启动器首次原生支持 Wayland，用户可在运行时或编译时选择 Wayland 或 X11。IT之家援引博",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/789.htm"
+    },
+    {
+      "id": "42603df8-2d23-8138-bc4a-d6765859b936",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on ele",
+      "source": "The Verge",
+      "publishTime": "2026-11-28",
+      "link": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge"
+    },
+    {
+      "id": "42603df8-2d23-81ab-849a-cdcf98185387",
+      "title": "亚马逊再现“临时工”：三星 Galaxy S26 Ultra 以 0.84 折成交，部分用户已收到货",
+      "summary": "IT之家 11 月 28 日消息，当地时间 11 月 26 日，亚马逊日本站出现商品价格异常，三星最新旗舰手机 Galaxy S26 Ultra 一度以 20,185 日元（IT之家注：现汇率约合 845.6 元人民币）的价格出售，相比原价立减 92%。亚马逊随后紧急修正商品价格，但部分消费者已经成功下单。据 SamMobile 报道，尽管此次价格异常疑似源于商品定价少打了一位数，但亚马逊仍履行了部分订单。截至发稿，已经有十多位买家反馈收到货并晒出手机照片。另外，日本当地科技社区也出现了相关订单发货及收货讨论。据 Android Authority 报道，此次价格异常仅涉及 256GB 版本的",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/788.htm"
+    },
+    {
+      "id": "42603df8-2d23-8145-992e-f76275b17769",
+      "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
+      "summary": "Yeti’s Black Friday deals cover everything from a cooler for the tailgate to a Rambler for your desk.",
       "source": "Wired",
       "publishTime": "2026-11-28",
-      "link": "https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/"
+      "link": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/"
     },
     {
-      "id": "42503df8-2d23-8143-ba44-d101ab6418cb",
-      "title": "OpenAI Countersues Apple In Trade Secrets Battle",
-      "summary": "OpenAI made the allegations on Friday in a countersuit it filed in an ongoing legal battle with Apple, which previously accused the ChatGPT maker of stealing trade secrets to build its own AI-powered consumer devices, according to a copy of the complaint. Apple first sued OpenAI in July, ...",
-      "source": "The Information",
+      "id": "42603df8-2d23-816a-b220-fe3af2f45533",
+      "title": "Linux 7.5 将合并支持 AMD RDNA5，新显卡驱动提前就位",
+      "summary": "IT之家 11 月 28 日消息，科技媒体 phoronix 报道称，AMD 工程师于 11 月 26 日向 DRM-Next 提交了新一轮内核图形与计算驱动变更，推动 Linux 7.5 内核合并支持 GFX13（即 RDNA 5）图形架构。报道称 AMD 已于本月初发布一系列补丁，为开源 AMDGPU 驱动程序添加 GFX13 实验性支持。而在最新提交的变更中，AMD 团队已开始为 Linux 7.5 合并窗口做准备，进一步推动 RDNA 5 发布落地。此前已有消息提及两个特定目标，即 GFX 13.0.1 和 GFX 13.0.4，表明 AMD 正在准备至少两种图形 IP 配置。不过，这",
+      "source": "IT之家",
       "publishTime": "2026-11-28",
-      "link": "https://www.theinformation.com/briefings/openai-countersues-apple-trade-secrets-battle"
+      "link": "https://www.ithome.com/1/033/787.htm"
     },
     {
-      "id": "42503df8-2d23-813f-834d-c16a977e81e2",
-      "title": "The absolute best Black Friday deals we’ve found (so far)",
-      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’",
+      "id": "42603df8-2d23-816e-92f4-fd4a9f3a5145",
+      "title": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实",
+      "summary": "IT之家 11 月 28 日消息，科技媒体 Wccftech 昨日（11 月 27 日）发布博文，报道称在海关舱单记录后，英特尔 Raptor Lake-S NEXT 处理器已在官方驱动文档中确认，该系列面向 LGA 1700 平台，属于桌面处理器产品。英特尔近日在其官方网站发布的 Windows Zero Copy 显示虚拟化驱动程序文档中，首次明确列出了“Raptor Lake-S NEXT PV”，从而在产品发布之前，悄然确认了 Raptor Lake-S NEXT 这一处理器系列的存在。文档显示，最新版 Windows Zero Copy 驱动支持 Bartlett Lake-S Hy",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/786.htm"
+    },
+    {
+      "id": "42603df8-2d23-81e0-ae5d-f82fec224404",
+      "title": "美空军云系统遭黑客入侵，大量战术、人事及后勤相关敏感数据或面临安全威胁",
+      "summary": "IT之家 11 月 28 日消息，三名知情人士告诉路透社，美国空军旗舰云计算平台 Cloud One 遭黑客入侵，大量涉及战术、人事和后勤的敏感数据恐面临安全威胁。其中两名知情人士称，入侵事件是在近一个月内对 Cloud One 进行系统升级时发现的，整个平台的运行因此受到影响。至于黑客身份、入侵究竟波及多大范围，以及是否有数据被盗，目前均无法确定。美国空军回应称：“我们不对特定网络和系统的安全状况、漏洞或运行状态发表评论。我们持续采取审慎措施，保护美国空军部的信息、系统和任务执行能力。”IT之家从报道中获悉，美国空军于 2017 年启动 Cloud One 项目，旨在提供一站式信息技术服务。",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/785.htm"
+    },
+    {
+      "id": "42603df8-2d23-8146-bd17-d8087beea499",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black",
       "source": "The Verge",
       "publishTime": "2026-11-28",
-      "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
+      "link": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale"
     },
     {
-      "id": "42503df8-2d23-811f-9a7c-dd1eb2d5fdf7",
-      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
-      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
+      "id": "42603df8-2d23-8175-8665-eec8172faa2d",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+      "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a […]",
+      "source": "The Verge",
+      "publishTime": "2026-11-28",
+      "link": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026"
+    },
+    {
+      "id": "42603df8-2d23-81a8-b71c-f94e2eb7c4c6",
+      "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+      "summary": "No shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but deciding which movie to watch feels less annoying; sifting through a movie collection on your shelf or in a stora",
+      "source": "The Verge",
+      "publishTime": "2026-11-28",
+      "link": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale"
+    },
+    {
+      "id": "42603df8-2d23-818b-a944-e955928525de",
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to any additional platforms for the foreseeable future.\" In a ",
+      "source": "The Verge",
+      "publishTime": "2026-11-28",
+      "link": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox"
+    },
+    {
+      "id": "42603df8-2d23-8174-a9f0-ec0d4d130b91",
+      "title": "IT早报 1128：DeepSeek 灰度测试“消耗额度”；有线电视与 IPTV 广告禁令生效；比亚迪海洋网旗舰 MPV 海鲸亮相；市监总局集中约谈 15 家电动自行车企业...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 28 日星期六，今天的重要科技资讯有：1. DeepSeek 灰度测试“消耗额度”：直观展示对话成本，此前已实施限额DeepSeek 移动端小范围测试“显示本轮消耗额度”功能，可展示单次对话 Token 消耗及估算金额，当前个人用户仍可免费使用该服务。>> 查看详情2. 有线电视与 IPTV 广告禁令 11 月 27 日生效：开机看全屏直播，违者最高罚 10 万元广电总局两项新规 11 月 27 日施行，有线电视与 IPTV 开机广告被全面禁止，违规最高罚 10 万；超 6 亿用户可实现开机即看直播，智能电视厂商开屏广告暂不受限。>> ",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/784.htm"
+    },
+    {
+      "id": "42603df8-2d23-81e8-859d-d609c5ff36a1",
+      "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
+      "summary": "If you’ve been eyeing Shark’s beauty tools, consider this your sign.",
       "source": "Wired",
       "publishTime": "2026-11-28",
-      "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/"
+      "link": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/"
     },
     {
-      "id": "42503df8-2d23-8100-b4fa-e06d8ec5b91b",
-      "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
-      "summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
-      "source": "CNBC Tech",
+      "id": "42603df8-2d23-8157-8ade-f97166424559",
+      "title": "过去 7 年 30% 相关产品销售额！苹果在智利吃官司，最高面临 8000 万美元罚款",
+      "summary": "IT之家 11 月 28 日消息，路透社最新报道称，智利国家竞争管理局（FNE）于当地时间昨日（11 月 27 日）对苹果公司提起反垄断诉讼，寻求 8,000 万美元（IT之家注：现汇率约合 5.34 亿元人民币）罚款并要求其开放 App Store 应用商店。IT之家查询公开资料，FNE 在智利的角色是调查者和起诉方，目前该机构已向竞争法庭提起诉讼，请求法庭认定苹果违法并处以罚款。FNE 在长达 50 页的起诉文件中称，苹果的相关行为违反了智利第 211 号法令。该机构认为，至少自 2019 年至今，苹果在智利境内的 iOS 应用分发市场和应用内付费数字商品分发市场中，实施了妨碍、限制或阻碍",
+      "source": "IT之家",
       "publishTime": "2026-11-28",
-      "link": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html"
+      "link": "https://www.ithome.com/1/033/783.htm"
     },
     {
-      "id": "42503df8-2d23-8105-926f-f5fe94449383",
-      "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
-      "summary": "During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20 discount from its list price. That’s a few dollars lower than the previous best, with both the dark gray and silver versions available from all three retailers. With four USB ports and",
-      "source": "The Verge",
+      "id": "42603df8-2d23-8153-9fb8-c14904a49d3b",
+      "title": "《GTA 6》女主角露西娅扮演者佩雷斯致谢粉丝：为演好角色付出近十年心血",
+      "summary": "IT之家 11 月 28 日消息，《GTA 6》迎来热闹非凡的发售首周，女主角露西娅的扮演者曼尼 ·L· 佩雷斯发文对粉丝的支持表示感谢。佩雷斯还透露了自己与 R 星开始合作的大致时间：自己饰演露西娅已有近十年。由此推断，她很可能早在游戏开发初期就确定出演这一角色。当地时间 27 日，据外媒 VGC 报道，佩雷斯在一则 Instagram 快拍中写道：“过去几天的生活就像一场旋风，我想借此机会向大家说声谢谢。感谢新关注我的每一位粉丝，感谢大家发来的暖心留言，也感谢大家对游戏和我饰演的角色给予的好评。为了赋予露西娅生命，我付出了近十年的心血。她早已成为我生命中非常重要的一部分，能够让她也成为你们",
+      "source": "IT之家",
       "publishTime": "2026-11-28",
-      "link": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale"
+      "link": "https://www.ithome.com/1/033/782.htm"
     },
     {
-      "id": "42503df8-2d23-81d8-b877-fd8a7337507a",
-      "title": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)",
-      "summary": "A Nespresso under $100, $250 off a slim De’Longhi, and more deals on machines we’d make room for on our own counters.",
+      "id": "42603df8-2d23-818d-93f4-d83257d7445d",
+      "title": "微信鸿蒙版 App 获 8.0.24.37 邀测升级",
+      "summary": "IT之家 11 月 28 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.24.37 (8394789) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/27-2026/12/27。IT之家注意到，和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶、MeoW 整理，8.0.24 版本的微信新增了如下特性：1.设置＞朋友权限变更为通讯录权限；2.我＞收藏＞笔记点击右上角三点新增小图模式、大图模式切换；3.视频号＞发起直播＞更多＞互动与变现新增奖品；4.视频号评论区左上角新增「问小微」入口（逐步开放）；5.",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/781.htm"
+    },
+    {
+      "id": "42603df8-2d23-815b-b013-f6f2d6d92f7d",
+      "title": "The Best Black Friday Gaming Deals I’ve Found (2026)",
+      "summary": "Headsets, keyboards, and video games are all on sale. Here’s what we’ve found so far.",
       "source": "Wired",
       "publishTime": "2026-11-28",
-      "link": "https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/"
+      "link": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/"
     },
     {
-      "id": "42503df8-2d23-8162-baf7-dcb8a4dcf8e7",
-      "title": "Hackers Breach U.S. Air Force Cloud in Latest High-Profile Cyberattack",
-      "summary": "The U.S. Air Force in recent weeks discovered that cyberattackers breached Cloud One, an internal cloud computing platform it uses to run applications that manage systems like munitions and air defense radar, Reuters reported. The incident is the latest in a string of high-profile cyberattacks ...",
-      "source": "The Information",
+      "id": "42603df8-2d23-8140-96b8-eab456fcb287",
+      "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+      "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬件设备的详细资料。这些资料据称包括图片、工程信息、供应商详情、制造数据，以及外观涂层",
+      "source": "IT之家",
       "publishTime": "2026-11-28",
-      "link": "https://www.theinformation.com/briefings/hackers-breach-u-s-air-force-cloud-latest-high-profile-cyberattack"
+      "link": "https://www.ithome.com/1/033/780.htm"
     },
     {
-      "id": "42503df8-2d23-8157-a3c9-c6fdce890eb0",
-      "title": "The military tested robots to help medics find wounded troops and decide who needs help first",
-      "summary": "Drones and ground robots searched mock disaster zones in a military test to help medics find wounded troops and prioritize lifesaving care.",
+      "id": "42603df8-2d23-8107-926d-f5cae67c0cfd",
+      "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+      "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断不会影响款项发放。就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击。本月早些时候，微软系统宕机，导致客户一度无法收发企业电子邮件。美国多家银行也出现系统故障，其中部分是工程",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/779.htm"
+    },
+    {
+      "id": "42603df8-2d23-8178-b479-c695f5310b4e",
+      "title": "民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS",
+      "summary": "IT之家 11 月 28 日消息，科技媒体 MacRumors 昨日（11 月 27 日）报道，尽管 Rockstar Games 没有推出官方 Mac 版本，但社区开发者已通过非官方项目，成功在苹果芯片 Mac 上运行《侠盗猎车手 VI》（GTA 6）游戏。开发者把游戏的 XBOX Series 版本非官方地移植到 macOS，一些用户反映可以探索场景并控制视角。不过，这些项目仍处于实验阶段，运行速度太慢，无法正常游玩。其中，名为“Halfwave”的项目在配备 48GB 内存的 M4 Pro MacBook Pro 上，监狱场景的帧率约为每秒 3 帧，船上场景接近每秒 5 帧。另一项 10",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/778.htm"
+    },
+    {
+      "id": "42603df8-2d23-8153-ae2e-cfe5b2ab924c",
+      "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+      "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元（IT之家注：现汇率约合 667.5 元人民币）的优惠额度。联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用机型，具体覆盖哪些产品系列尚未完全明确。用户可以在 Windows 开始菜单中找到 Ch",
+      "source": "IT之家",
+      "publishTime": "2026-11-28",
+      "link": "https://www.ithome.com/1/033/777.htm"
+    },
+    {
+      "id": "42603df8-2d23-8110-9073-d02e67b20ccc",
+      "title": "Aaron Rodgers just gave a masterclass in how not to quit your job",
+      "summary": "Aaron Rodgers blasted his Steelers coach and was released hours later. Career experts say his messy exit is a lesson in how not to quit a job.",
       "source": "Business Insider",
       "publishTime": "2026-11-28",
-      "link": "https://www.businessinsider.com/military-tests-robots-find-wounded-troops-assess-injuries-2026-11"
+      "link": "https://www.businessinsider.com/aaron-rodgers-steelers-exit-mike-mccarthy-how-not-to-quit-2026-11"
     },
     {
-      "id": "42503df8-2d23-8198-9cef-ccefd865b0cd",
-      "title": "Here are the best Black Friday deals you can grab for $30 or less",
-      "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Christmas tree lights from your phone. You […",
+      "id": "42603df8-2d23-812e-b7d8-fa0655aacd4c",
+      "title": "The new iPad Mini is getting its first major discount for Black Friday",
+      "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi",
       "source": "The Verge",
       "publishTime": "2026-11-28",
-      "link": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026"
+      "link": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026"
     },
     {
-      "id": "42503df8-2d23-81d0-8375-e6c071afd02c",
-      "title": "'No more for Israel' ad aired during 'SNL' Thanksgiving special draws backlash from Jewish groups",
-      "summary": "Jewish advocacy groups hit out at NBC for airing IMEU's pro-Palestinian ad linking US funds to Israel's war in Gaza during an 'SNL' Thanksgiving show.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-28",
-      "link": "https://www.businessinsider.com/jewish-groups-slam-pro-palestine-ad-snl-fcc-2026-11"
-    },
-    {
-      "id": "42503df8-2d23-814d-ba67-cc71cba199d3",
-      "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
-      "summary": "Glazed donut skin days are ahead. Save on select LED masks and devices through December 8.",
+      "id": "42603df8-2d23-810d-89b2-d7b038f8d554",
+      "title": "Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)",
+      "summary": "Shark’s vacuums impress me again and again, and my favorite models are deeply discounted right now..",
       "source": "Wired",
       "publishTime": "2026-11-28",
-      "link": "https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/"
+      "link": "https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/"
     },
     {
-      "id": "42503df8-2d23-810c-92c0-fc449d5f7fbd",
-      "title": "Ben Stiller's 10 best and 10 worst movies, according to critics",
-      "summary": "Ben Stiller has a lot of hits among his best movies, like \"Tropic Thunder\" and \"The Royal Tenenbaums,\" but he also has plenty of duds.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-28",
-      "link": "https://www.businessinsider.com/ben-stiller-best-worst-movies-ranked"
-    },
-    {
-      "id": "42503df8-2d23-8109-97d4-e715e80a0711",
-      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
-      "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
-      "source": "CNBC Tech",
-      "publishTime": "2026-11-28",
-      "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html"
-    },
-    {
-      "id": "42503df8-2d23-81e2-8c57-df791c834152",
-      "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
-      "summary": "Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised the cost of some of its most popular gear. Some […]",
+      "id": "42603df8-2d23-8131-b8a1-fc73f775ea42",
+      "title": "Allstate has been suffering an outage since Monday",
+      "summary": "On Monday, November 23rd, Allstate began dealing with an outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffer an outage in the last few weeks. As of Friday afternoon, access to accounts thr",
       "source": "The Verge",
       "publishTime": "2026-11-28",
-      "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
+      "link": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday"
     },
     {
-      "id": "42503df8-2d23-8140-abef-c2d7c5832cfe",
-      "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
-      "summary": "Save on AirPods, iPads, MacBooks, and tons of accessories for Black Friday.",
+      "id": "42603df8-2d23-81db-bd56-f9564dcbd84f",
+      "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
+      "summary": "From Kindle e-readers to Alexa-powered smart speakers, these are the Amazon device Black Friday sales you won't want to miss.",
       "source": "Wired",
       "publishTime": "2026-11-28",
-      "link": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/"
+      "link": "https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/"
     },
     {
-      "id": "42503df8-2d23-81e0-87ea-d4a2dd326161",
-      "title": "Jensen Huang's Nvidia comeback may herald an 'age of resentment,' top economist Steve Hanke says",
-      "summary": "Jensen Huang return to Nvidia as CEO may fuel broader resentment toward those who appear to break the rules and get away with it, Steve Hanke said.",
+      "id": "42603df8-2d23-8101-8eea-da53b9ec6ce2",
+      "title": "A new round was supposed to give US tanks more firepower. The Army is still waiting for most of them.",
+      "summary": "The Army received just 180 of nearly 12,000 new tank rounds due by July, as production problems delayed the ammunition for years.",
       "source": "Business Insider",
       "publishTime": "2026-11-28",
-      "link": "https://www.businessinsider.com/jensen-huang-nvidia-ceo-ai-resentment-steve-hanke-inequality-tech-2026-11"
+      "link": "https://www.businessinsider.com/army-abrams-tank-ammunition-delays-northrop-2026-11"
     },
     {
-      "id": "42503df8-2d23-81be-8bc4-fd156439a230",
-      "title": "I got sick of spending money on Christmas gifts. Now, I travel with my kids instead.",
-      "summary": "Instead of buying our kids physical gifts for Christmas, we bring them on trips instead. We've gone to The Eras Tour, Disneyland, and Great Wolf Lodge.",
+      "id": "42603df8-2d23-81f2-91b1-e01f2b5cf491",
+      "title": "I moved from California to Texas and helped others do the same. After the blue wave, I'm heading to Florida.",
+      "summary": "Realtor Marie Bailey specialized in California to Texas movers. Now she's moving to Florida, and thinks more people will do the same.",
       "source": "Business Insider",
       "publishTime": "2026-11-28",
-      "link": "https://www.businessinsider.com/book-trips-instead-of-buying-christmas-gifts-worth-it-2026-11"
-    },
-    {
-      "id": "42503df8-2d23-81b9-a475-e90acf898ea8",
-      "title": "9 of the best and 3 of the worst outfits Meghan Markle has worn in 2026",
-      "summary": "Meghan Markle's best style moments of 2026 include a dramatic gown and a monochromatic three-piece, but her style fell flat in shorts.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-27",
-      "link": "https://www.businessinsider.com/meghan-markle-best-worst-looks-2026-11"
-    },
-    {
-      "id": "42503df8-2d23-8164-965f-e2e2a351e32c",
-      "title": "Walking Pad Deals to Shop This Black Friday (2026)",
-      "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are on sale.",
-      "source": "Wired",
-      "publishTime": "2026-11-27",
-      "link": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/"
-    },
-    {
-      "id": "42503df8-2d23-8142-b338-f6c436a18ca2",
-      "title": "Elon Musk upped the ante on his SpaceX share Trump Account giveaway",
-      "summary": "Elon Musk said he would gift a SpaceX share to every American child every year, on top of one share each from the company.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-27",
-      "link": "https://www.businessinsider.com/elon-musk-doubles-down-on-spacex-trump-account-giveaway-2026-11"
-    },
-    {
-      "id": "42503df8-2d23-8147-896f-c45758b4907f",
-      "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
-      "summary": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.99 ($8 off) for Black Friday, which is a new […]",
-      "source": "The Verge",
-      "publishTime": "2026-11-27",
-      "link": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale"
-    },
-    {
-      "id": "42503df8-2d23-817b-864f-dc3d8a596e56",
-      "title": "Booking my first cruise was harder than I expected. 7 things surprised me before I even set foot on the ship.",
-      "summary": "I booked my first cruise on Royal Caribbean's Wonder of the Seas and learned some things about cabin pricing and when to book flights.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-27",
-      "link": "https://www.businessinsider.com/booking-first-cruise-tips-what-to-know-2026-11"
-    },
-    {
-      "id": "42503df8-2d23-81cf-9714-de76737b7bed",
-      "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
-      "summary": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly available for $199 outside major deal events. The best pr",
-      "source": "The Verge",
-      "publishTime": "2026-11-27",
-      "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale"
-    },
-    {
-      "id": "42503df8-2d23-8194-8ffa-ff18358761b9",
-      "title": "魏牌高山右舵版车型在香港市场上市，今年第四季度还将登陆澳洲",
-      "summary": "IT之家 11 月 27 日消息，在今天进行的 2026 广州车展中，魏牌宣布旗下魏牌高山右舵版（WEY G9）今日于香港市场正式上市。据介绍，魏牌高山车型依托原生平台实现左舵与右舵版本同步开发，并根据不同地区的通行法规与用车习惯进行属地化适配。此外魏牌还预热该车将于今年四季度登陆澳洲市场。规格方面，IT之家获悉该车尺寸为 5050mmx1985mmx1900mm，轴距 3085mm。车辆采用 1.5T 发动机 + 前后双电机插电混动，系统综合最大功率 442 马力、峰值扭矩 642 牛 · 米，匹配 44.28kWh 电池，NEDC 纯电续航 170km。",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/771.htm"
-    },
-    {
-      "id": "42503df8-2d23-817c-b3db-d3e080409d60",
-      "title": "我国自主聚变能源解决方案发布工程初步规划，拟分两个阶段实施",
-      "summary": "IT之家 11 月 27 日消息，据央视财经报道，11 月 27 日，中国工程院彭先觉院士团队在成都介绍我国原创“Z 箍缩聚变裂变混合堆”供热示范堆工程初步规划。据介绍，Z 箍缩聚变裂变混合堆是我国科学家自主提出的一种将核聚变与核裂变相结合的技术方案。根据规划，工程拟分两个阶段实施，先开展聚变点火和核心工艺验证，再建设面向城市供热、工农业用热等需求的示范堆。IT之家获悉，按照初步规划，2026 年至 2030 年为核心技术攻关验证阶段，相关验证工作将依托由中国工程物理研究院流体物理所承建的“50MA 电磁驱动聚变大科学装置”开展。该装置已获国家发展改革委批复，计划于 2030 年在成都天府新区",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/770.htm"
-    },
-    {
-      "id": "42503df8-2d23-81e9-909b-df37fd8c456c",
-      "title": "I ranked every custard shake at Shake Shack from worst to best, including its 3 holiday flavors",
-      "summary": "Shake Shack introduced three limited-edition flavors in November. I compared them to the chain's other custard shakes, and only one really impressed me.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-27",
-      "link": "https://www.businessinsider.com/every-shake-at-shake-shack-ranked"
-    },
-    {
-      "id": "42503df8-2d23-8164-93eb-eca1759d8fe2",
-      "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
-      "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。Taichi AQUA 360 LCD 采用双水泵结构，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管；搭配 38mm 加厚高密度冷排；预装的吹排风扇采用 LCP 商业、双滚珠轴承。其冷头既可展现 ARGB 灯光映照下的透明水道，也可磁吸固定 3.4\" LCD 屏幕；冷排预留标准 G1/4\" 进出水口，兼容分体液冷生态；设有水泵故障蜂鸣报警器；享受 6 年质保。",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/769.htm"
-    },
-    {
-      "id": "42503df8-2d23-8120-b3f4-c576de12b04e",
-      "title": "The Information’s 2026 Gift Guide",
-      "summary": "In a twisted version of future Christmases, perhaps AIs will carry out all the tasks involved in gift giving. But lucky for us, Andy Jassy still has all the bots blocked! So here once again is The Information’s annual Gift Guide, a project that we pursue with as much consideration and rigor as our e",
-      "source": "The Information",
-      "publishTime": "2026-11-27",
-      "link": "https://www.theinformation.com/articles/informations-2026-gift-guide"
-    },
-    {
-      "id": "42503df8-2d23-8187-be7b-cd8e39c261db",
-      "title": "广汽能源：目前自营充电站达 2563 座，目标明年底旗下补能网络覆盖 300 个城市",
-      "summary": "IT之家 11 月 27 日消息，广汽集团旗下广汽能源在今日举行的 2026 广州车展上介绍了补能体系建设进展。广汽能源表示，截至 2026 年 11 月，在补能网络建设上，广汽自营充电网络已覆盖 31 个省级行政区、240 个城市，自营充电站达 2563 座、自营充电桩突破 3.3 万根。广汽能源同时透露，公司目标到 2027 年底补能网络覆盖 300 个城市、2030 年构建十万充电终端的生态网。加速在县域、高速沿线及北方高寒地区布局，并推进兆瓦级 10C 超充桩升级。",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/768.htm"
-    },
-    {
-      "id": "42503df8-2d23-81e3-a67f-f9c596d53cce",
-      "title": "恒大汽车：香港联交所上市委员会决定取消公司的上市地位，最快 12 月 14 日摘牌",
-      "summary": "IT之家 11 月 27 日消息，恒大汽车今日在港交所发布公告称，公司于 2026 年 11 月 27 日接获联交所函件，联交所上市委员会已决定根据上市规则第 6.01A (1) 条取消公司上市地位，原因是公司未能于 2026 年 9 月 30 日的复牌截止时间达成所有复牌指引。根据上市规则第 2B 章，恒大汽车有权在除牌决定发出日期起计七个营业日内，将决定提交上市复核委员会复核。若公司决定不申请复核，股份的最后上市日期为 2026 年 12 月 11 日，上市地位将自 2026 年 12 月 14 日上午 9 时起取消。公告称，董事会正征询顾问意见，并考虑是否提出请求，将除牌决定提交上市复核",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/767.htm"
-    },
-    {
-      "id": "42503df8-2d23-81ed-ac38-d6851e11b382",
-      "title": "The 24 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
-      "summary": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is still ongoing. Score discounts on our favorite (and tested) products through November 30.",
-      "source": "Wired",
-      "publishTime": "2026-11-27",
-      "link": "https://www.wired.com/story/amazon-black-friday-deals-11-27-2026/"
-    },
-    {
-      "id": "42503df8-2d23-8157-9d1b-c404ce6e6294",
-      "title": "Origin Code 预告 Vortex Evo DDR5 内存模组，EXPO ULL 认证",
-      "summary": "IT之家 11 月 27 日消息，PC 内存模组品牌 Origin Code 今日宣布，其第二代 Vortex DDR5 产品 Vortex Evo 即将开售。此次的首发配置为星陨黑配色的 24GB×2 套条，基于“特挑”SK 海力士 M-Die 和新款定制 PCB，选用支持大电流的 PMIC 芯片；此外其马甲采用无背胶结构，拥有金属激光雕刻风格外观，支持 RGB 折射灯效，搭配卡扣式快转的金属扇框风扇。该 Vortex Evo 套条通过 AMD EXPO ULL 认证，提供 6000MT/s CL26-35-35-66 1.45V 和 8000MT/s CL34-47-47-102 1.5V",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/766.htm"
-    },
-    {
-      "id": "42503df8-2d23-81dd-a91d-f9302702d880",
-      "title": "蔚来李斌：吉利汽车已经在规划和开发相关换电车型",
-      "summary": "IT之家 11 月 27 日消息，蔚来创始人、董事长、CEO 李斌在 2026 广州车展上接受每日经济新闻采访时透露，吉利汽车已经在规划和开发相关换电车型。今年是我们运营换电站的第 8 年，基本做好了对外开放的准备。面对换电业务开放合作话题，李斌直言，蔚来现在的换电业务是有限“开放”。“对蔚来来说，建设换电网络并不是加入的企业越多越好，因为我们还是要为用户提供相比其他换电网络更好的体验。”李斌解释称。吉利控股集团董事长李书福曾表示，吉利完全认同换电模式，新能源车电池是会衰减损坏的，但一台车的使用周期不止七八九年，这个矛盾必须找到解决方案，“直接换一块全新电池包，太贵；拆解翻新修复电池，成本同样",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/765.htm"
-    },
-    {
-      "id": "42503df8-2d23-810d-8bdf-f11a72255fde",
-      "title": "Buying a laptop right now is rough, but these Black Friday deals help",
-      "summary": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general has been a bad time to buy a computer. But thankfully, Black Friday can",
-      "source": "The Verge",
-      "publishTime": "2026-11-27",
-      "link": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026"
-    },
-    {
-      "id": "42503df8-2d23-815c-841c-f61745179b45",
-      "title": "美团 CEO 王兴谈外卖行业拐点：客单价同比明显回升，行业补贴趋于理性",
-      "summary": "IT之家 11 月 27 日消息，据新浪科技报道，在 2026 年第三季度业绩会上，美团 CEO 王兴表示，外卖行业在第三季度走到了拐点，主要有三个信号：客单价同比明显回升；低价订单占比环比持续收缩；行业补贴趋于理性，夏季促销季之后这一趋势尤为明显。这些变化都有利于真正具备经营实力的平台。王兴称，我们第三季度的业绩印证了这一点，依托全方位服务与运营能力，我们拿下了夏季旺季需求；用户结构与订单结构进一步改善，用户消费场景更加多元。行业领导地位继续巩固，单位经济模型优势进一步增强，背后是营销效率与运营效率的双重提升。IT之家注意到，美团今日发布 2026 年第三季度业绩报告。三季度，美团实现收入 ",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/764.htm"
-    },
-    {
-      "id": "42503df8-2d23-8124-b8e6-f3980870e3ee",
-      "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
-      "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后接受金属探测器检查。各地学校加紧采购金属探测器，导致供不应求。报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。在买不到金属探测器的情况下，不少学校转而选择租用设备应急，租赁公司接到的咨询量显著增多。一家金属探测器租赁公司的负责人表示，过",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/763.htm"
-    },
-    {
-      "id": "42503df8-2d23-818f-af50-f9332825faaa",
-      "title": "Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to $700 Off",
-      "summary": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever.",
-      "source": "Wired",
-      "publishTime": "2026-11-27",
-      "link": "https://www.wired.com/story/black-friday-robot-vacuum-deals-11-27-2026/"
-    },
-    {
-      "id": "42503df8-2d23-811b-8db6-faea0dff4e31",
-      "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
-      "summary": "When Keychron announced its $90 G6 HE gaming mouse, I immediately thought, \"Cool! A cheaper alternative to the pricey $180 Logitech G Pro X2 Superstrike.\" Logitech's innovation with the Superstrike is using magnetic Hall effect switches for a user-adjustable mouse click depth, with haptic vibrations",
-      "source": "The Verge",
-      "publishTime": "2026-11-27",
-      "link": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions"
-    },
-    {
-      "id": "42503df8-2d23-8198-a010-d88996993525",
-      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
-      "source": "The Verge",
-      "publishTime": "2026-11-27",
-      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
-    },
-    {
-      "id": "42503df8-2d23-8184-aa25-c5c82e755088",
-      "title": "上海警方破获一起购物卡充值诈骗案，骗子谎称“4 万元可安排入职英伟达”",
-      "summary": "IT之家 11 月 27 日消息，据上海警方通报，近期上海警方查获一起购物卡充值诈骗案，犯罪分子打着所谓“投资 4 万元就可入职英伟达”旗号，骗取中老年人“托关系给儿子找工作”。IT之家参考通报获悉，今年 11 月 5 日，上海市民李女士来到浦东张江一家超市，提出要买购物卡。她当天上午想要买 2.8 万元购物卡，下午又来到超市提出再买 5 万元，这一反常举动引起了工作人员的怀疑，他们怀疑李阿姨遭遇购物卡充值诈骗，随即报警。民警到场后，确认李女士遭到了典型的购物卡充值诈骗，骗徒利用花言巧语，谎称“只要花 4 万元买下购物卡充值到一个账户，就可以送李女士的儿子入职英伟达”。最终，在民警和李女士儿子",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/755.htm"
-    },
-    {
-      "id": "42503df8-2d23-8187-b0b3-db6b0ca9afbc",
-      "title": "Norse Atlantic once offered $99 flights to Europe. Now it's fighting to avoid being the 2nd big airline casualty of 2026.",
-      "summary": "Norse Atlantic has previously offered transatlantic flights for $99 but has struggled with surging fuel prices due to the war in Iran.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-27",
-      "link": "https://www.businessinsider.com/norse-atlantic-grounds-all-flights-in-its-fight-to-avoid-bankruptcy-2026-11"
-    },
-    {
-      "id": "42503df8-2d23-812d-92ca-f0b6de941988",
-      "title": "We couldn't agree on a vacation for 13 people. Then the 8-year-old twins suggested something unexpected.",
-      "summary": "We celebrated my parents' 80th birthdays with a multigenerational family vacation at an Idaho dude ranch. There was something for everyone.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-27",
-      "link": "https://www.businessinsider.com/multigenerational-family-vacation-idaho-dude-ranch-2026-11"
-    },
-    {
-      "id": "42503df8-2d23-8154-830d-cd05bce9b0a8",
-      "title": "千里科技印奇：智驾业务将聚焦两至三家头部车企，从车型定义阶段参与开发",
-      "summary": "IT之家 11 月 27 日消息，据界面新闻报道，千里科技董事长、阶跃星辰董事长印奇在投资者交流会上表示，千里科技未来将聚焦两至三家头部车企客户，从车型定义阶段参与开发，与车企共同设计智驾算法及芯片、传感器、域控制器等硬件配置。印奇称吉利是这一合作模式的代表性客户。印奇表示，千里科技正与吉利推进不同品牌和车型的智驾硬件标准化，以减少重复开发，并利用量产车辆回传的数据迭代模型。据IT之家此前报道，千里科技 2026 年上半年实现营业收入 51.20 亿元，同比增长 22.36%；归属于上市公司股东的净利润为 0.78 亿元，同比增长 151.25%。相关阅读：《千里科技：子公司拟 3443.88",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/753.htm"
-    },
-    {
-      "id": "42503df8-2d23-812e-8b94-d44ae6ad28e9",
-      "title": "The Best Black Friday Sonos Deals (2026): Up to 34% Off",
-      "summary": "Always wanted a Sonos speaker but scared off by the price? Black Friday is one of the best times to shop the brand.",
-      "source": "Wired",
-      "publishTime": "2026-11-27",
-      "link": "https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/"
-    },
-    {
-      "id": "42503df8-2d23-81e8-8226-d009b4a54a6c",
-      "title": "我国成功发射遥感五十号 04 星，用于国土普查、农作物估产和防灾减灾",
-      "summary": "IT之家 11 月 27 日消息，据央视新闻报道，北京时间 2026 年 11 月 27 日 21 时 05 分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号 04 星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于国土普查、农作物估产和防灾减灾等领域。IT之家从报道获悉，此次任务是长征系列运载火箭的第 682 次飞行。延伸阅读遥感五十号卫星是中国对地观测遥感卫星系列，主要用于国土普查、农作物估产和防灾减灾等领域，此前已有 01 星至 03 星相继发射入轨。其中遥感五十号 01 星于 2026 年 1 月 13 日 22 时 16 分在太原卫星发射中心发射",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/752.htm"
-    },
-    {
-      "id": "42503df8-2d23-8127-8724-e7a1609658f9",
-      "title": "闪极推出闪盘 PRO 2 主动散热硬盘盒：融合拓展坞功能、主打高扩展能力，399 元起",
-      "summary": "IT之家 11 月 27 日消息，闪极现已在天猫上架闪盘 PRO 2 主动散热固态硬盘盒，该产品集硬盘盒与 6 合 1 拓展坞功能于一体，分 Lite 与 Ultra 两个版本，区别主要在于主控及 I/O 规格，前者定价为 399 元，后者定价为 499 元。外观方面，系列硬盘盒采用半透明设计，整体尺寸为 92.6×59.2×13.5mm（不含线材），机身支持磁吸贴合，内置 2504 涡轮风扇与三档开关，同时匹配可拆卸 240W/10Gbps USB-C 挂绳线。系列硬盘盒采用单螺丝快拆结构，约 30s 可换盘，兼容 2230、2242、2280 规格 M.2 NVMe 固态硬盘，最高支持 8",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/751.htm"
-    },
-    {
-      "id": "42503df8-2d23-8106-b715-ef020148e5a2",
-      "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
-      "summary": "If you’ve been curious about smart rings but have been put off by their high price tags, Black Friday is a good time to consider giving one a try. That’s because the Oura Ring 5, which we consider the best smart ring you can buy, has dropped to an all-time low of $299 ($100 off) […]",
-      "source": "The Verge",
-      "publishTime": "2026-11-27",
-      "link": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale"
-    },
-    {
-      "id": "42503df8-2d23-815f-91ca-e5ee33f02fec",
-      "title": "大众中国 CEO 齐泽凯：预计 11 月向用户交付 3.2 万辆新能源汽车，接近去年同期的 5 倍",
-      "summary": "IT之家 11 月 27 日消息，大众汽车乘用车品牌中国 CEO 齐泽凯今日发文称，预计 11 月向用户交付 3.2 万辆新能源汽车，接近去年同期的 5 倍。据其介绍，尽管整体新能源市场仍在承压，这一交付表现让品牌对接下来的增长更有信心。上述数据发布于 2026 广州车展开幕当天。在本届车展上，大众汽车展出 14 款新能源车型，涵盖纯电、插电式混合动力与增程式动力，官方称这是品牌历届车展中规模最大的电动化产品阵容。今年以来，大众汽车已在中国市场推出 12 款新能源车型，依托上汽大众、一汽 - 大众和大众安徽三家合资企业，纯电、插混、增程三条动力路线同步铺开。齐泽凯在微博中表示，大众汽车今年带来",
-      "source": "IT之家",
-      "publishTime": "2026-11-27",
-      "link": "https://www.ithome.com/1/033/750.htm"
-    },
-    {
-      "id": "42503df8-2d23-81be-9bd7-c19d2bac78a9",
-      "title": "I've traveled around Asia to countries like Japan and Thailand. They were nice, but the place I loved most surprised me.",
-      "summary": "After traveling to several countries in Asia, my favorite place to visit is Taiwan. The cuisine, outdoor experiences, and locals made my trip great.",
-      "source": "Business Insider",
-      "publishTime": "2026-11-27",
-      "link": "https://www.businessinsider.com/why-best-place-to-visit-asia-taiwan-travel-tips-2026-11"
+      "link": "https://www.businessinsider.com/realtor-moved-california-to-texas-helped-relocators-heading-to-florida-2026-11"
     }
   ],
   "macroEvents": [
